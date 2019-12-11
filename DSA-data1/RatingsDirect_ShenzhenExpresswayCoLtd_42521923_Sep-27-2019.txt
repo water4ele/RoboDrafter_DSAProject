@@ -1,0 +1,1386 @@
+Shenzhen Expressway Co. Ltd.
+Primary Credit Analyst:
+Angie Liu, Singapore (65) 6216-1145; angie.liu@spglobal.com
+Secondary Contact:
+Jin Xu, Hong Kong; jin.xu@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Group Influence
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Shenzhen Expressway Co. Ltd.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Dominant position in Shenzhen's toll-road market.
+
+Rising capex on road network under regional development plan.
+
+Strong and sustainable cash flows from toll roads.
+
+Continuous search for toll-road acquisitions to extend the duration of the assets
+portfolio.
+
+Meaningful dividend income from the Meilinguan property
+project.
+
+Increasing exposure to the more competitive environment-related business.
+
+Property project to provide dividend income. Shenzhen Expressway Co. Ltd. owns 34.3% in United Land Co. (UL),
+which operates a property project in Meilinguan with a gross floor area of 486,000 square meters. We expect UL to
+distribute dividend income of Chinese renminbi (RMB) 800 million-RMB 1.1 billion per year to Shenzhen Expressway
+in 2019 and 2020. However, we consider these dividends as non-core income and exclude from the company's funds
+from operations (FFO).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Shenzhen Expressway Co. Ltd.
+
+Chart 1
+
+Capital expenditure on toll-road projects to increase. Shenzhen Expressway's total investments on expansion of the
+Jihe Expressway and the new Shenzhen-Shantou Second Highway are extremely high due to skyrocketing land
+acquisition costs. However, these projects are likely to be funded using a public-private-partnership (PPP) model,
+enabling Shenzhen Expressway to earn 7%-8% returns through toll-road operations as the private partner. The
+government's capital contributions would be substantial.
+Expansion into the environmental service segment has risks. We anticipate Shenzhen Expressway to adhere to its
+long-term plan of expanding its environmental service segment so that it contributes 20% of total assets. Potential
+growth areas are garbage disposal, industrial hazardous waste, and wind power. As of end-2018, the segment
+accounted for 11% of total assets, and profits in the form of dividend income were RMB146 million. These segments
+are more competitive than toll roads.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Shenzhen Expressway Co. Ltd.
+
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Shenzhen Expressway Co. Ltd.
+
+Outlook: Stable
+
+The stable outlook on Shenzhen Expressway reflects the outlook on its parent, Shenzhen International Holdings
+Ltd. (BBB/Stable/--). We view Shenzhen Expressway as a core subsidiary of the parent.
+The underlying stability of Shenzhen Expressway's performance is due to organic growth of the company's toll
+road portfolio, growing contribution from new toll road assets, and phased capital expenditure (capex) on the
+Outer Ring Road project over the next 24 months. We also expect that Shenzhen Expressway will be more
+disciplined in mergers and acquisitions in the non-toll road business.
+
+Downside scenario
+We could lower the rating on Shenzhen Expressway if we downgrade Shenzhen International or if we believe the
+company's group status has weakened.
+We could lower our assessment of Shenzhen Expressway's stand-alone credit profile if:
+• Its FFO interest coverage weakens to below 3.5x for a sustained period;
+• Its FFO-to-debt ratio deteriorates to below 15% for a sustained period; or
+• The company makes aggressive debt-funded expansion into non-toll road businesses with a majority stake.
+
+Upside scenario
+All else being equal, we will upgrade Shenzhen Expressway if we raise the rating on its parent.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Shenzhen Expressway Co. Ltd.
+
+Assumptions
+
+Key Metrics
+
+• China's GDP will grow 6.2% in 2019 and 2020,
+compared with 6.6% in 2018.
+
+2018A 2019E 2020E
+FFO/Debt (%)
+
+• Shenzhen Expressway's revenues will grow 4% in
+2019, followed by a moderate recovery in 2020. The
+growth in 2019 reflects the impact of the
+government's buyback of the company's three roads
+in 2018.
+
+FFO cash interest coverage (x)
+
+27.8
+
+21-23
+
+21-23
+
+5.7
+
+5-5.7
+
+5-5.7
+
+Our ratios and metrics are on an adjusted basis.
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Its EBITDA margin to retreat to 70%-73% in 2019
+and 2020 from 80.8% in 2018 due to disposal of
+three roads and lower margins in the new wind
+segment.
+• Net working capital inflow to be RMB1 billion in
+2019, and 2020 to see outflow of RMB100 million.
+The company has collected RMB600 million in
+receivables from UL in the first quarter of 2019.
+• Shenzhen Expressway's capex and acquisition
+spending to be RMB3.5 billion in 2019 and RMB4.1
+billion in 2020.
+• Its average cost of debt to be about 4.66%.
+• Its cash dividend payment to be RMB1.5 billion in
+2019 and RMB900 million in 2020. Shenzhen
+Expressway has indicated it will maintain its
+dividend payout ratio. Its 2018 profit was boosted by
+gains from the disposal of three roads.
+
+Base-case projections
+EBITDA to decline despite continued increase in revenue. We anticipate Shenzhen Expressway's EBITDA will decline
+by about RMB350 million to RMB4.3 billion in 2019, despite a 4% growth in revenue. This is because the company will
+no longer book revenues on the three roads that the government bought back. These roads contributed RMB727
+million revenue in 2018. The toll road segment has about 50% gross margin before excluding depreciation costs. We
+expect much lower margins on revenues of the new subsidy Nanjing Wind Power (NWP) due to the intense industry
+competition and NWP's small operating scale.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Shenzhen Expressway Co. Ltd.
+
+Chart 3
+
+Capital expenditure and acquisitions costs are likely to climb. We anticipate Shenzhen Expressway's toll-road
+expansion to accelerate from 2018 levels, driven by the need to integrate and upgrade transportation infrastructure in
+the Greater-Bay Area. We project such spending to total RMB4.1 billion in 2020, escalating from RMB1.2 billion in
+2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Shenzhen Expressway Co. Ltd.
+
+Chart 4
+
+Company Description
+Shenzhen Expressway is 51.6% owned by Shenzhen International and engages in the investment, construction,
+operation, and management of toll-road projects. It also operates toll road-related businesses such as entrusted
+management, advertising, engineering consulting, and inter-network toll collection.
+Shenzhen Expressway is the major expressway operator in Shenzhen. As of September 2019, the company invests in
+16 expressway projects totaling 546 kilometers (km) on an attributed basis. As of year-end 2018, Shenzhen
+Expressway accounted for 58% of the Shenzhen local expressways, and about 87% of the company's revenue came
+from the toll-road business.
+
+Business Risk: Satisfactory
+We expect Shenzhen Expressway to maintain its dominant position in Shenzhen city. It will also benefit from
+reasonably good traffic growth owing to the strategic location of its toll roads and continued economic growth in
+Shenzhen and Guangdong province. The company constructs and operates more than 75% of the total length of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Shenzhen Expressway Co. Ltd.
+
+expressways in Shenzhen, a city with high car ownership and a vibrant economy.
+Despite the affluent home market, steadily growing traffic demand, and dominant local market share, Shenzhen
+Expressway is exposed to risks from government asset buybacks and maturing toll roads. Its toll-road concessions are
+down to 16 after three were bought back by the Shenzhen government in 2018, and another four are set to expire in
+2027.
+Shenzhen Expressway has been countering such pressure by replenishing its business portfolio. In addition to
+acquiring Coastal Expressway Company, and the Yichang and Shenchang roads, the company also invested in
+Chongqing Derun Environment Co. in 2017. Moreover, we anticipate Shenzhen Expressway will obtain concession
+extensions from the government on some roads through expansionary work. Despite execution risks and uncertainties
+in the traffic ramp-up, or margin compression on new projects, these transactions strengthen Shenzhen Expressway's
+market position. The company also appears well positioned in the Greater-Bay-Area integration.
+
+Peer comparison
+Table 1
+
+Shenzhen Expressway Co. Ltd. -- Peer Comparison
+Industry Sector: Infrastructure
+Shenzhen Expressway Co.
+Ltd.
+
+Yuexiu Transport Infrastructure
+Ltd.
+
+Korea Expressway Corp.
+
+--Fiscal year ended Dec. 31, 2018-Mil. mix currency
+
+CNY
+
+CNY
+
+W
+
+Revenue
+
+5,807.1
+
+2,847.1
+
+4,626,074.3
+
+EBITDA
+
+4,693.6
+
+2,793.0
+
+2,781,764.3
+
+Funds from operations (FFO)
+
+3,369.1
+
+2,057.6
+
+1,770,416.4
+
+Interest expense
+
+1,066.9
+
+348.7
+
+869,969.8
+
+Cash interest paid
+
+721.1
+
+375.7
+
+950,776.7
+
+Cash flow from operations
+
+2,886.0
+
+2,161.0
+
+1,882,023.8
+
+Capital expenditure
+
+1,039.7
+
+15.5
+
+3,196,118.2
+
+Free operating cash flow (FOCF)
+
+1,846.3
+
+2,145.5
+
+(1,314,094.4)
+
+Discretionary cash flow (DCF)
+
+1,107.3
+
+1,322.7
+
+(1,359,293.7)
+
+Cash and short-term investments
+
+2,580.8
+
+2,393.2
+
+754,603.5
+
+Debt
+
+12,122.2
+
+6,438.8
+
+25,250,441.6
+
+Equity
+
+19,539.8
+
+12,407.6
+
+34,808,317.6
+
+EBITDA margin (%)
+
+80.8
+
+98.1
+
+60.1
+
+Return on capital (%)
+
+10.5
+
+12.2
+
+1.6
+
+EBITDA interest coverage (x)
+
+4.4
+
+8.0
+
+3.2
+
+FFO cash interest coverage (x)
+
+5.7
+
+6.5
+
+2.9
+
+Debt/EBITDA (x)
+
+2.6
+
+2.3
+
+9.1
+
+FFO/debt (%)
+
+27.8
+
+32.0
+
+7.0
+
+Cash flow from operations/debt (%)
+
+23.8
+
+33.6
+
+7.5
+
+FOCF/debt (%)
+
+15.2
+
+33.3
+
+(5.2)
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Shenzhen Expressway Co. Ltd.
+
+Table 1
+
+Shenzhen Expressway Co. Ltd. -- Peer Comparison (cont.)
+Industry Sector: Infrastructure
+Shenzhen Expressway Co.
+Ltd.
+
+Yuexiu Transport Infrastructure
+Ltd.
+
+Korea Expressway Corp.
+
+9.1
+
+20.5
+
+(5.4)
+
+DCF/debt (%)
+CNY--Chinese renminbi. W--Korean won.
+
+We consider Korea Expressway Corp. (KEC) and Yuexiu Transport Infrastructure Ltd. (YXT) to be Shenzhen
+Expressway's comparable peers.
+Shenzhen Expressway's road portfolio is most comparable with YXT's. Both companies have a stable and profitable
+portfolio of toll road projects. YXT's portfolio is smaller with 12 projects and the company has a shorter total
+attributable length. However, YXT's portfolio is more geographically diverse, with six of the seven expressway
+subsidiaries located outside of Guangdong province. These contribute 55%-60% of revenue. The majority of Shenzhen
+Expressway's revenue is from Shenzhen and other parts of Guangdong province. YXT has a slightly better EBITDA
+margin of about 92% over the past three years, compared with 76% for Shenzhen Expressway. However, YXT had a
+weaker leverage ratio than Shenzhen Expressway, reflecting its weaker financial risk profile.
+KEC constructs and operates an expressway network in South Korea (30 expressways stretching 4,151 kilometer). It
+has a stronger business risk profile, mainly due to its dominant market position in the domestic market. KEC has a high
+debt level, given its heavy capital investments to fulfil the government's road infrastructure policy. The government's
+consistent capital injections over the past few years partly offset the impact. The rating on KEC is higher than that on
+Shenzhen Expressway due to KEC's status as the sole government-owned national expressway builder and operator.
+
+Financial Risk: Intermediate
+Shenzhen Expressway's huge asset acquisitions in 2017 has increased its financial risk. Nevertheless, the company's
+robust cash flows from toll roads and our expectation of disciplined acquisitions over the next few years should
+stabilize its financial position.
+Shenzhen Expressway spent RMB7.2 billion to acquire the Yichang and Coastal Expressway toll roads and take a
+minority stake in Chongqing Derun. It also consolidated RMB4.6 billion of debt from Coastal Expressway in February
+2018 after acquiring the toll road in late 2017.
+We expect Shenzhen Expressway to be more disciplined in acquisitions to manage its leverage. The company didn't
+make any material acquisitions in 2018, and has only invested in Nanjing Wind Power and Nanfeng Group so far in
+2019.
+Shenzhen Expressway's revenues should increase on the back of its newly invested assets and mid-single-digit growth
+in traffic on existing roads. Despite the short-term impact from the government buyback of three roads, traffic should
+recover on the back of new roads including the Outer Ring Road and Coastal Expressway Phase II. We expect growing
+cash flows from toll roads to maintain the company's ratio of FFO to debt at 19%-23% between 2019 and 2021.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Shenzhen Expressway Co. Ltd.
+
+Financial summary
+Table 2
+
+Shenzhen Expressway Co. Ltd. -- Financial Summary
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+5,807.1
+
+5,210.4
+
+4,532.2
+
+3,420.6
+
+3,620.4
+
+EBITDA
+
+4,693.6
+
+4,210.8
+
+3,266.4
+
+2,531.5
+
+2,764.5
+
+Funds from operations (FFO)
+
+3,369.1
+
+2,218.7
+
+2,264.1
+
+1,184.2
+
+1,805.6
+
+Interest expense
+
+1,066.9
+
+922.8
+
+633.4
+
+493.4
+
+532.2
+
+(Mil. CNY)
+
+Cash interest paid
+
+721.1
+
+1,294.5
+
+331.7
+
+455.4
+
+550.0
+
+Cash flow from operations
+
+2,886.0
+
+2,049.0
+
+2,054.4
+
+1,727.3
+
+1,060.6
+
+Capital expenditure
+
+1,039.7
+
+949.6
+
+378.8
+
+124.2
+
+312.8
+
+Free operating cash flow (FOCF)
+
+1,846.3
+
+1,099.4
+
+1,675.6
+
+1,603.1
+
+747.8
+
+Discretionary cash flow (DCF)
+
+1,107.3
+
+954.8
+
+699.5
+
+505.8
+
+406.1
+
+Cash and short-term investments
+
+2,580.8
+
+1,884.6
+
+4,243.6
+
+6,181.0
+
+1,255.2
+
+Gross available cash
+
+2,580.8
+
+1,884.6
+
+4,243.6
+
+6,181.0
+
+1,255.2
+
+Debt
+
+12,122.2
+
+14,984.2
+
+3,559.0
+
+2,107.1
+
+7,478.7
+
+Equity
+
+19,539.8
+
+15,789.5
+
+14,711.4
+
+14,961.1
+
+13,120.2
+
+EBITDA margin (%)
+
+80.8
+
+80.8
+
+72.1
+
+74.0
+
+76.4
+
+Return on capital (%)
+
+Adjusted ratios
+
+10.5
+
+11.4
+
+13.0
+
+14.6
+
+9.8
+
+EBITDA interest coverage (x)
+
+4.4
+
+4.6
+
+5.2
+
+5.1
+
+5.2
+
+FFO cash interest coverage (x)
+
+5.7
+
+2.7
+
+7.8
+
+3.6
+
+4.3
+
+Debt/EBITDA (x)
+
+2.6
+
+3.6
+
+1.1
+
+0.8
+
+2.7
+
+FFO/debt (%)
+
+27.8
+
+14.8
+
+63.6
+
+56.2
+
+24.1
+
+Cash flow from operations/debt (%)
+
+23.8
+
+13.7
+
+57.7
+
+82.0
+
+14.2
+
+FOCF/debt (%)
+
+15.2
+
+7.3
+
+47.1
+
+76.1
+
+10.0
+
+9.1
+
+6.4
+
+19.7
+
+24.0
+
+5.4
+
+DCF/debt (%)
+CNY--Chinese yuan.
+
+Liquidity: Adequate
+We assess Shenzhen Expressway's liquidity as adequate. We expect the company's sources of liquidity to exceed its
+uses by 1.3x over the 12 months ending December 2019. Liquidity sources will cover uses even if EBITDA is 15%
+short of our forecast.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Shenzhen Expressway Co. Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of RMB2.6 billion as of Dec. 31, 2018.
+
+• Debt maturity of about RMB400 million in 2019.
+
+• Net cash FFO inflow that we estimate at about
+RMB3.7 billion in 2019.
+
+• Capex and acquisition costs of RMB3.5 billion
+during the year.
+
+• Net working capital inflow of RMB1 billion.
+
+• Dividend payment of RMB1.5 billion.
+
+Debt maturities
+Table 3
+
+Shenzhen Expressway Co. Ltd. -- Debt Maturities
+Debt due in
+
+Amount (RMB million)
+
+2019
+
+397
+
+2020
+
+491
+
+2021
+
+4,022
+
+2022
+
+1,893
+
+2023
+
+1,490
+
+After five years
+
+5,629
+
+Total
+
+13,922
+
+As of Dec. 31, 2018. CNY--Chinese yuan.
+
+Group Influence
+We assess the group credit profile (GCP) of the local government-controlled Shenzhen International as 'bbb'. We
+assess Shenzhen Expressway as a core subsidiary of the group and believe the company could benefit from
+extraordinary support through the parent if needed. As a result, we equalize the rating on Shenzhen Expressway with
+that on Shenzhen International. Our assessment is based on the following factors:
+• Shenzhen Expressway is unlikely to be sold because it is a key pillar of Shenzhen International's business strategy.
+We believe Shenzhen International will remain the controlling shareholder.
+• The group's senior management has a strong commitment of support to the company, as shown from the asset
+injections and financial support from the group.
+• Shenzhen Expressway constitutes the majority of the group's assets and cash flows, and that is unlikely to change
+over the next five years.
+• The group's reputation, name, brand, and risk management are closely tied to Shenzhen Expressway; and
+• Both companies have operated for more than five years.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+Shenzhen Expressway Co. Ltd.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Shenzhen Expressway Co. Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. CNY)
+--Fiscal year ended Dec. 31, 2018-Shenzhen Expressway Co. Ltd. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+17,387.1
+
+4,312.7
+
+2,670.3
+
+990.3
+
+4,693.6
+
+3,222.2
+
+1,109.6
+
+Debt
+
+Shareholders'
+equity
+
+13,922.7
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(603.4)
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(644.5)
+
+--
+
+--
+
+135.2
+
+--
+
+25.2
+
+6.8
+
+6.8
+
+(6.8)
+
+18.5
+
+--
+
+(1,935.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+69.8
+
+(69.8)
+
+(69.8)
+
+(69.8)
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+355.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+614.9
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(284.9)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+2,152.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Total adjustments
+
+(1,800.4)
+
+2,152.7
+
+380.9
+
+621.6
+
+76.6
+
+(1,324.5)
+
+(336.2)
+
+(69.8)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+3,369.1
+
+2,886.0
+
+1,039.7
+
+Operating leases
+Accessible cash and
+liquid investments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+12,122.2
+
+19,539.8
+
+4,693.6
+
+3,292.0
+
+1,066.9
+
+CNY--Chinese yuan.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+Shenzhen Expressway Co. Ltd.
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb-
+
+• Group credit profile: bbb
+• Entity status within group: Core (+1 notch from SACP)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Transportation Infrastructure Industry, Nov. 19,
+2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+Shenzhen Expressway Co. Ltd.
+
+Related Research
+• Bulletin: Shenzhen Expressway's Wind Power Acquisition Is Aligned With Its Long-Term Strategy And Within Our
+Expectations. March 20, 2019.
+• Research Update: Shenzhen Expressway Co. Ltd. 'BBB' Rating Affirmed; Outlook Stable. June 26, 2018.
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+Shenzhen Expressway Co. Ltd.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Issuer Credit Ratings History
+11-Dec-2015
+
+BBB/Stable/--
+
+03-Sep-2015
+
+BBB/Positive/--
+
+Related Entities
+Shenzhen International Holdings Ltd.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+

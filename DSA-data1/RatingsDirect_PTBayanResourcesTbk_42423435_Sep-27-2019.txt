@@ -1,0 +1,1473 @@
+PT Bayan Resources Tbk.
+Primary Credit Analyst:
+Isabel Goh, Singapore (65) 6597-6110; isabel.goh@spglobal.com
+Secondary Contacts:
+Bertrand P Jabouley, CFA, Singapore (65) 6239-6303; bertrand.jabouley@spglobal.com
+Eric C Nietsch, CFA, Singapore + 65 6216 1089; eric.nietsch@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+PT Bayan Resources Tbk.
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb-
+
+b+
+
+b+
+
+Financial Risk: MODEST
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Attractive cost position, low stripping ratios, and a
+long reserve life.
+
+Single mine and mineral exposure, with sensitivity to fluctuations in coal prices.
+
+Sufficient liquidity supported by cash balances and
+available credit lines.
+
+Modest scale relative to global coal producers.
+Potential infrastructure bottlenecks at Mahakam haul road and working capital fluctuations
+if barging is delayed during the dry season.
+
+Single mine and mineral exposure continues to constrain credit quality. PT Bayan Resources Tbk.'s (Bayan) scale and
+scope are small relative to those of rated industry peers. Larger mining peers have diversified ore and mineral
+operations in multiple countries, leading to more stable cash flows. We expect Bayan to remain focused on coal
+production, sensitive to volatility in coal prices, and exposed to working capital fluctuations in the dry season.
+Leverage to stay modest and liquidity sufficient. Bayan's debt repayment and lines of credit will continue to support its
+financial position. We believe the company's leverage will remain modest even in a less favorable pricing scenario. We
+also expect the company to continue generating positive discretionary cash flow, which, when combined with the
+available revolving lines of credit, will provide adequate liquidity and financial flexibility.
+Sound cost position and long reserve life to support earnings.Bayan's operations have low average mining costs of
+about US$33.3 per ton, driven by moderate strip ratios of less than 5x. The company's Bara Tabang mine site in East
+Kalimantan is in the first quartile of the global energy adjusted cash cost curve, and compares favorably with most
+mines in Indonesia. The mine's low cost and reserve life of over 30 years provide good potential for profitable growth
+in production.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+PT Bayan Resources Tbk.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Bayan will maintain its current coal production and manage
+dividend distributions and investments prudently over the next 12 months. This will enable the company to
+preserve its strong debt servicing capability even in a weak coal-pricing environment.
+
+Downside scenario
+We would lower the rating if Bayan's profitability plummets, the company departs from its policy of maintaining
+low leverage, or its liquidity weakens significantly. A sharp fall in realized coal prices below US$35/ton that is
+likely to compress EBITDA per ton to below US$2.5, or severe disruption at the Bara Tabang mine could depress
+earnings. High dividends and significant acquisitions along with elevated capital expenditure (capex), such that the
+debt-to-EBITDA ratio is above 3x, would clearly undermine Bayan's creditworthiness. An eroding liquidity would
+likely be a consequence of underperformance or elevated cash outflows.
+
+Upside scenario
+We would raise the rating if Bayan is able to diversify its operations or expand its scale. This would entail the
+company making progress on the Mahakam haul road to unlock the Bara Tabang mine production potential or
+making targeted acquisitions while maintaining the solidity of its balance sheet and its liquidity.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+PT Bayan Resources Tbk.
+
+Assumptions
+
+• GDP growth of about 5% in Indonesia and
+Asia-Pacific over the next two years, and about 6%
+on average in China and 7% in India, two countries
+that are major consumers and importers of coal.
+• Coal prices to remain volatile with average realized
+prices per ton in the US$42-US$47 range.
+• Bayan's coal production of 32-36 million metric tons
+(MMT) in 2019, steadily rising in subsequent years
+towards 40MMT. Production to be contributed
+largely from the Bara Tabang mine.
+
+Key Metrics
+
+2018A
+EBITDA margin (%)
+Debt-to-EBITDA ratio(x)
+Discretionary cash flow/Debt (%)
+
+2019E
+
+2020E
+
+44.0 25.0-30.0 20.0-25.0
+0.2
+215.8
+
+0.1-0.5
+
+0.1-0.5
+
+5.0-10.0 10.0-15.0
+
+All figures are adjusted. Discretionary cash flow = Free
+operating cash flow – cash dividends paid. A--Actual.
+E--Estimate.
+
+• The company's average cash cost per ton to remain
+relatively stable at US$32-US$34 over the next three
+years.
+• Its EBITDA to be US$450 million-US$500 million in
+2019 and fall to US$300 million-US$400 million
+subsequently, largely affected by weak coal prices.
+• Its capex to be US$60 million-US$100 million
+annually.
+• Dividends will be about 60% of prior year's income.
+
+Base-case projections
+Soft coal prices could persist. Following 24 months of strong coal prices, prices have declined since the last quarter of
+2018 due to persistent oversupply in part from U.S. exports, as well as sluggish demand from China. The slump is
+further exacerbated by rising competition globally from cleaner, renewable energy such as wind, solar, and cheap
+natural gas. Continued weakness in coal prices could dampen Bayan's earnings.
+Production growth could plateau over the next three years until completion of the Mahakam haul road. We expect
+Bayan's strong production growth over the past two years to slow down. Production will be capped at about 40MMT
+because the Mahakam haul road is likely to be completed only in 2023. The haul road, which is meant to facilitate
+transportation of coal to transhipment points from Bara Tabang, is expected to add capacity of about 30MMT upon
+completion.
+
+Company Description
+Bayan is a coal mining company with assets in East and South Kalimantan in Indonesia. It produces
+high-calorific-value coal to sub-bituminous low-sulphur, low-ash coal.
+Founded in 2004, the company was listed on the Indonesian Stock Exchange (IDX) in 2008. It acquired 56% of
+Kangaroo Resources Ltd. (KRL) with its 13 concessions in 2011. In 2018, the company completed the acquisition of the
+remaining 44% of KRL. Bayan has operations that focus on five locations, the largest of which is Bara Tabang. As of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+PT Bayan Resources Tbk.
+
+January 2019, the company has combined reserves of 1,181MMT. These are across five Coal Contracts of Work
+licenses and 16 Izin Usaha Pertambangan. Bayan has a total order book of 300MMT of contracted sales volumes.
+The company produced 28.9MMT of coal in 2018, generating US$1.7 billion of revenue and US$0.7 billion of EBITDA.
+In the first half of 2019, it produced 16MMT of coal and reported EBITDA of US$273 million.
+
+Business Risk: Vulnerable
+Bayan is likely to continue to have single mine and mineral exposure, and modest scale relative to global coal
+producers. The company would also face seasonal distribution and execution risks until the Mahakam haul road is
+operational. The low cost position of Bayan's mines temper these weaknesses.
+Earnings remain highly sensitive to fluctuations in coal prices. For instance, in 2015, Bayan suspended production at its
+PT Gunungbayan Pratamacoal mine because the cost of coal production exceeded prevailing market prices. In
+addition, for the first half of 2019, average selling price (ASP) dipped to US$48/MT, down from US$58/MT in the first
+half of 2018. As a result, EBITDA in the period fell to US$273 million with production volumes of 16MMT, compared
+with EBITDA of US$403 million and production volumes of 14.8MMT a year earlier.
+Single-mine concentration may magnify Bayan's earnings volatility. The company's financial success largely hinges on
+production at Bara Tabang. In 2017 and 2018, the Bara Tabang mine accounted for more than 75% of production
+volumes. Though the company has four other mines, management plans to continue its focus on Bara Tabang, which
+should still account for the lion's share of production.
+As such, any disruption or inclement weather faced at the mine could affect earnings severely. As this site is inland in
+East Kalimantan, it is dependent on barging down the Kedang Kepala river to distribute coal to sea ports. The
+transport can be delayed during the dry season. For instance, the company declared force majeure on some customer
+contracts due to the low water levels at the Kedang River in the first quarter of 2019. The construction of the Mahakam
+haul road, which will address this infrastructure bottleneck, is unlikely to be complete until 2023 due to delays in
+obtaining relevant land permits.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+PT Bayan Resources Tbk.
+
+Chart 1
+
+Size and scope remains modest when compared to global peers. Bayan's production volumes have been steadily
+increasing, from 9.7MMT in 2016 to 20.9MMT in 2017 and 28.9MMT in 2018, and could expand to over 50MMT at
+the Bara Tabang mine in the next five years. However, this is still significantly smaller than that of peers such as PT
+Bumi Resources Tbk. (Bumi; 85MMT) and Arch Coal Inc. (ACI; 98MMT) as of 2018. In addition, thermal coal accounts
+for 98% of Bayan's revenue since 2017. This is unlikely to change in the next five years as the company intends to
+focus on the Bara Tabang mine.
+Low cost position to support operating efficiency. Bayan's cash costs have declined from US$43.2/ton in 2015 to
+US$33.3/ton in 2018 as the company shifted focus to becoming a low-cost producer by developing the Bara Tabang
+mine. The Bara Tabang concession has low strip ratios, with a life-of-mine strip ratio of 2.9x. In addition, Bayan adopts
+efficient mining techniques unique to Indonesian mining. These entail the use of geotechnical radars, dozer push
+mining methods, and optimized road haulage of coal. The company also enters into derivative contracts to hedge oil
+prices, mitigating fuel cost, which accounts for almost 30% of its total cash cost. We believe that Bayan will continue to
+maintain its low cash cost position with further decline in strip ratios at the Bara Tabang mine as well as the gradual
+completion of integrated export infrastructure to facilitate mining operations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+PT Bayan Resources Tbk.
+
+Chart 2
+
+Peer comparison
+Table 1
+
+PT Bayan Resources Tbk.--Peer Comparison
+Industry Sector: Mining
+PT Bayan
+Resources Tbk.
+
+Geo Energy
+Resources Ltd.
+
+PT Bumi
+Resources Tbk.
+
+Arch Coal
+Inc.
+
+Coronado Global
+Resources Inc.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+1,676.7
+
+299.2
+
+1,111.8
+
+2,451.8
+
+1,980.5
+
+EBITDA
+
+737.0
+
+67.0
+
+73.2
+
+438.0
+
+515.7
+
+Funds from operations
+(FFO)
+
+623.2
+
+24.5
+
+(129.1)
+
+443.7
+
+447.2
+
+Interest expense
+
+5.5
+
+26.6
+
+156.8
+
+50.5
+
+74.4
+
+Cash interest paid
+
+3.8
+
+24.0
+
+76.5
+
+18.7
+
+44.9
+
+576.7
+
+(27.9)
+
+(109.8)
+
+421.6
+
+379.6
+
+82.2
+
+4.5
+
+6.4
+
+95.9
+
+114.3
+
+Free operating cash flow
+(FOCF)
+
+494.5
+
+(32.3)
+
+(116.2)
+
+325.8
+
+265.3
+
+Discretionary cash flow
+(DCF)
+
+326.8
+
+(42.0)
+
+(116.2)
+
+13.6
+
+265.3
+
+Cash flow from operations
+Capital expenditure
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+PT Bayan Resources Tbk.
+
+Table 1
+
+PT Bayan Resources Tbk.--Peer Comparison (cont.)
+Industry Sector: Mining
+PT Bayan
+Resources Tbk.
+
+Geo Energy
+Resources Ltd.
+
+PT Bumi
+Resources Tbk.
+
+Arch Coal
+Inc.
+
+Coronado Global
+Resources Inc.
+
+Cash and short-term
+investments
+
+229.2
+
+202.6
+
+88.5
+
+427.7
+
+124.9
+
+Debt
+
+151.4
+
+291.6
+
+1,724.9
+
+760.6
+
+526.3
+
+Equity
+
+678.1
+
+174.1
+
+503.6
+
+704.8
+
+1,253.8
+
+EBITDA margin (%)
+
+44.0
+
+22.4
+
+6.6
+
+17.9
+
+26.0
+
+Return on capital (%)
+
+95.6
+
+12.9
+
+18.7
+
+20.9
+
+26.7
+
+EBITDA interest coverage
+(x)
+
+134.0
+
+2.5
+
+0.5
+
+8.7
+
+6.9
+
+FFO cash interest coverage
+(x)
+
+166.6
+
+2.0
+
+(0.7)
+
+24.8
+
+11.0
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+0.2
+
+4.4
+
+23.6
+
+1.7
+
+1.0
+
+FFO/debt (%)
+
+411.6
+
+8.4
+
+(7.5)
+
+58.3
+
+85.0
+
+Cash flow from
+operations/debt (%)
+
+380.9
+
+(9.6)
+
+(6.4)
+
+55.4
+
+72.1
+
+FOCF/debt (%)
+
+326.6
+
+(11.1)
+
+(6.7)
+
+42.8
+
+50.4
+
+DCF/debt (%)
+
+215.8
+
+(14.4)
+
+(6.7)
+
+1.8
+
+50.4
+
+We consider Geo Energy Resources Ltd. (GERL) and Bumi as closest peers for Bayan, given their similar operations in
+coal mining, coal quality, and country risks. ACI and Coronado Global Resources Inc. are other peers that we have
+included due to comparable ratings. ACI and Coronado have lower country risks due to their operations mainly in the
+U.S. and Australia.
+Bayan, Bumi, and GERL have similar jurisdiction and mining license-related exposure with operations in Indonesia. As
+such, coal quality and type are similar (lower calorific quality, ash, and sulphur content). The price of coal produced by
+GERL, Bayan, and Bumi tends to be at a discount to the benchmark Newcastle price, to account for the lower calorific
+content. In comparison, Coronado's and ACI's mines offer metallurgical coal that have higher selling prices compared
+with thermal coal.
+Bayan, like Bumi and GERL, has assets concentrated in one to two mines. In comparison, Coronado has four large
+operating assets in the U.S. and Australia, while ACI operates nine active mines in the US.
+In terms of production volume, Bayan has a moderate scale of 29 MMT in 2018, compared with GERL (8 MMT) and
+Coronado (20 MMT). Bumi (85 MMT) and ACI (96 MMT) are significantly larger.
+As of January 2019, Bayan's reserves base was 1,181 MMT under the Australia Joint Ore Reserves Committee (JORC)
+standard. This is a 55% increase from December 2018; the majority of the growth is due to the Bara Tabang mine. As
+such, Bayan's reserve base is comparable to that of Bumi and ACI.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+PT Bayan Resources Tbk.
+
+Chart 3
+
+Bayan and GERL had cash costs of US$33.3/ton and US$30.8/ton respectively in 2018 and the companies are placed
+in the first quartile of the global cost curve, given their calorific value and low strip ratios. Bumi's cash costs are slightly
+higher at US$35.1/ton. Coronado operates within the first and second quartile because the majority of its capacity is in
+opencast mines, which have lower production costs compared with underground mines. ACI's metallurgical cash cost
+is about US$66.9/ton while that of the thermal coal is about US$12.4/ton.
+Bayan's ASP of US$58.5/ton was close to Bumi's US$59.2/ton in 2018. This is markedly higher than GERL's
+US$42.1/ton, largely attributable to the higher average quality (greater energy content) of Bayan's coal. The
+metallurgical coal at Coronado and ACI fetches much higher ASPs of more than US$110/ton, which give higher
+profitability. Nonetheless, the weighted average EBITDA/ton for ACI is around US$5.7, given the high volumes of
+thermal coal sold. Bayan managed to yield above-average EBITDA/ton of more than US$25 in 2018, compared with
+GERL's US$9-US$11 for the past two years. EBITDA margins for Bayan is also the highest among its peers, at more
+than 40% for 2018. Bumi is on the weaker end of the spectrum, with EBITDA margins of less than 10%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+PT Bayan Resources Tbk.
+
+Chart 4
+
+In terms of leverage, Bayan is the strongest among its peers, with negligible debt. Coronado's credit metrics, though
+commendably strong, could weaken due to its ownership by a financial sponsor. Bumi's capital structure highly
+exposes the company to coal prices, because all cash is upstreamed on a quarterly basis to accelerate repayment of its
+first tranche of debt.
+
+Financial Risk: Modest
+We believe Bayan's leverage will remain modest even in a less favorable pricing scenario because of the company's
+sufficient cash buffer and management's prudence toward debt repayments ahead of the due date.
+Bayan's cash flow capability has significantly improved in line with the development of Bara Tabang. This has enabled
+the company to use excess cash towards deleveraging. Leverage ratios fell materially to 0.2x in 2018, from 10.7x in
+2014, with a net cash position since the first quarter of 2018. We project Bayan's annual EBITDA to average US$350
+million-US$500 million over the next three years.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+PT Bayan Resources Tbk.
+
+Chart 5
+
+Bayan has planned capex of US$400 million over 2019-2023, of which US$270 million is for expansionary purposes
+tied to the Bara Tabang project. This would involve development of haul roads, underpass, barge loading facilities, and
+other support equipment. The other US$130 million is mainly for maintenance. The company's capex for the first half
+of 2019 has been below expectations of US$32 million due to delay in obtaining land permits to start the construction
+of a 100km long hauling road from 2021 to 2023. Any growth in brownfield production at the Bara Tabang mine will be
+financed by internally generated cash flow, and remains dependent on supportive coal prices, giving Bayan the
+flexibility to manage its growth.
+We believe that Bayan will continue to adhere to its dividend policy payout of up to 60% of previous year's net income.
+In July 2019, the company distributed US$300 million to its shareholders.
+With regard to acquisitions, we believe Bayan could look at midsize mines with value of up to US$200 million.
+On the back of stable operating cash flows and manageable capital spending, we project Bayan's free operating cash
+flows to be US$200 million-US$350 million over the next three years. This would continue to support Bayan's
+creditworthiness, with the ratio of debt to EBITDA not exceeding 0.5x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+PT Bayan Resources Tbk.
+
+Chart 6
+
+Financial summary
+Table 2
+
+PT Bayan Resources Tbk.--Financial Summary
+Industry Sector: Mining
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+1,676.7
+
+1,067.4
+
+555.5
+
+465.0
+
+828.3
+
+EBITDA
+
+737.0
+
+487.2
+
+167.5
+
+81.9
+
+49.7
+
+Funds from operations (FFO)
+
+623.2
+
+465.2
+
+128.8
+
+174.9
+
+93.0
+
+5.5
+
+30.2
+
+48.8
+
+33.5
+
+40.0
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+
+3.8
+
+32.3
+
+42.4
+
+28.1
+
+32.3
+
+576.7
+
+434.5
+
+99.6
+
+55.6
+
+68.9
+
+82.2
+
+35.3
+
+47.8
+
+48.0
+
+35.3
+
+Free operating cash flow (FOCF)
+
+494.5
+
+399.2
+
+51.7
+
+7.7
+
+33.7
+
+Discretionary cash flow (DCF)
+
+326.8
+
+387.1
+
+48.7
+
+6.4
+
+29.0
+
+Cash and short-term investments
+
+229.2
+
+58.7
+
+59.8
+
+90.3
+
+80.1
+
+Gross available cash
+
+229.2
+
+58.7
+
+59.8
+
+90.3
+
+80.1
+
+Debt
+
+151.4
+
+121.6
+
+503.1
+
+557.3
+
+594.1
+
+Equity
+
+678.1
+
+515.6
+
+188.2
+
+172.2
+
+255.5
+
+44.0
+
+45.6
+
+30.1
+
+17.6
+
+6.0
+
+Cash flow from operations
+Capital expenditure
+
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 12
+
+PT Bayan Resources Tbk.
+
+Table 2
+
+PT Bayan Resources Tbk.--Financial Summary (cont.)
+Industry Sector: Mining
+--Fiscal year ended Dec. 31--
+
+Return on capital (%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+95.6
+
+67.7
+
+17.2
+
+4.4
+
+(0.1)
+
+EBITDA interest coverage (x)
+
+134.0
+
+16.1
+
+3.4
+
+2.4
+
+1.2
+
+FFO cash interest coverage (x)
+
+166.6
+
+15.4
+
+4.0
+
+7.2
+
+3.9
+
+Debt/EBITDA (x)
+
+0.2
+
+0.2
+
+3.0
+
+6.8
+
+12.0
+
+FFO/debt (%)
+
+411.6
+
+382.5
+
+25.6
+
+31.4
+
+15.7
+
+Cash flow from operations/debt (%)
+
+380.9
+
+357.3
+
+19.8
+
+10.0
+
+11.6
+
+FOCF/debt (%)
+
+326.6
+
+328.3
+
+10.3
+
+1.4
+
+5.7
+
+DCF/debt (%)
+
+215.8
+
+318.3
+
+9.7
+
+1.2
+
+4.9
+
+Liquidity: Adequate
+We assess Bayan's liquidity as adequate with liquidity sources likely to cover liquidity needs by over 1.2x over the 12
+months ending June 2020.
+Bayan's rising cash balances will be sufficient to support its projected capital spending, dividends, and scheduled debt
+maturities over the next 12 months. The company has sufficient headroom on its existing maintenance covenant of net
+debt/EBITDA of 2.5x. Bayan also has sound relationships with banks, which provided support when the company was
+undergoing restructuring in 2015. Bayan's standing in credit markets is generally satisfactory. More importantly,
+management has demonstrated its financial prudence by consistent deleveraging as well as by cutting back on
+dividend payouts to preserve cash during the years where the company underperformed. However, given the potential
+volatility in coal prices and hence earnings, we believe Bayan may face difficulty in absorbing low probability and high
+impact event risks with little need for refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of US$406 million as of June 30, 2019.
+
+• Short-term debt of US$210 million as of June 30,
+2019.
+
+• Available credit facilities of about US$45 million.
+• Cash flow from operations that we estimate at
+US$300 million-US$350 million over the next 12
+months to June 30, 2020.
+• Working capital inflows of US$10 million-US$20
+million over the period.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+• Capex of US$60 million-US$100 million over the
+next 12 months to June 30, 2020.
+• Dividends of US$250 million-US$350 million over
+the period.
+
+SEPTEMBER 9, 2019 13
+
+PT Bayan Resources Tbk.
+
+Debt maturities
+Table 3
+
+PT Bayan Resources Tbk.--Debt Maturities*
+Debt due in
+
+Amount (Mil. US$)
+
+2020
+Total
+
+210.0
+210.0
+
+*As of June 30, 2019.
+
+Environmental, Social, And Governance
+
+Environmental and social factors are material to our credit analysis of Bayan. We also consider governance factors,
+but view them as less significant.
+International and domestic environmental regulations can have major impact on operations and may affect
+Bayan's long-term financial metrics. Bayan and other coal producers face risks resulting from the global energy
+transition and carbon emission targets under the Paris Climate Agreement. These could lead to a reliance on
+internal cash flows for funding due to a less-supportive financing environment. For example, 21 international banks
+have stopped direct financing to new coal mine projects. Partially mitigating these risks is Bayan's low sulfur and
+ash content coal, which could become increasingly desirable as environmental regulations become stricter.
+However, while we view environmental risks as material, they are similar to those faced by other coal mining
+companies and are unlikely to affect the rating at current levels.
+Bayan has a sound safety record with no cases of accidents. As such, we view social factors as less material.
+We view Bayan's management and governance practices as neutral and in line with that of other large companies.
+The company has not been subject to any material investigations on bribery or corruption, and has polices against
+both.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of June 30, 2019, Bayan has total outstanding debt of US$210 million consisting of three revolving credit facilities.
+The first two, comprising a US$130 million three-year revolving loan facility due December 2020 and a US$50 million
+six-months revolving loan facility due January 2020, are with PT Bank Permata Tbk. with total outstanding of US$135
+million. The company also holds a US$75 million three-year revolving loan facility with Sumitomo Mitsui Banking
+Corp. due March 2021 with outstanding of US$75 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 14
+
+PT Bayan Resources Tbk.
+
+Reconciliation
+Table 4
+
+Reconciliation Of PT Bayan Resources Tbk. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Fiscal year ended Dec. 31, 2018-PT Bayan Resources Tbk. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+649.2
+
+734.3
+
+694.8
+
+4.3
+
+737.0
+
+571.9
+
+Debt
+
+Shareholders'
+equity
+
+129.1
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(110.1)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3.2)
+
+--
+
+Operating leases
+
+8.6
+
+--
+
+2.0
+
+0.6
+
+0.6
+
+(0.6)
+
+1.4
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+6.7
+
+--
+
+0.6
+
+0.6
+
+0.6
+
+--
+
+--
+
+Asset retirement obligations
+
+7.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+5.2
+
+--
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3.3
+
+Noncontrolling
+interest/minority interest
+
+--
+
+28.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22.3
+
+28.9
+
+2.6
+
+6.4
+
+1.2
+
+(113.8)
+
+4.8
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+623.2
+
+576.7
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+151.4
+
+678.1
+
+737.0
+
+701.2
+
+5.5
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Vulnerable
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Vulnerable
+Financial risk: Modest
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 15
+
+PT Bayan Resources Tbk.
+
+• Cash flow/Leverage: Minimal
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : b+
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Metals And Mining Upstream Industry, Dec. 20,
+2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 16
+
+PT Bayan Resources Tbk.
+
+Ratings Detail (As Of September 9, 2019)*
+PT Bayan Resources Tbk.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Issuer Credit Ratings History
+12-Sep-2018
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 18
+
+

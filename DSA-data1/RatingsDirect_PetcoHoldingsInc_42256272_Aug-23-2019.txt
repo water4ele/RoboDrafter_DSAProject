@@ -1,0 +1,335 @@
+Petco Holdings Inc.
+Primary Credit Analyst:
+Cameron Bybee, New York + 1 (212) 438 8298; cameron.bybee@spglobal.com
+Secondary Contact:
+Andy G Sookram, New York (1) 212-438-5024; andy.sookram@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 1
+
+Petco Holdings Inc.
+Credit Highlights
+Issuer Credit Rating
+CCC+/Negative/--
+
+Overview
+Key strengths
+
+Key risks
+
+Good market position as the second-largest specialty
+pet brick and mortar retailer.
+
+Discounted debt trading prices heighten the risk of a distressed exchange or
+restructuring.
+
+Improving same-store sales and operating performance
+due to strategic initiatives.
+
+Increasing competition from supermarkets, mass-market channels, and pure-play
+e-commerce competitors, including Chewy and Amazon.
+Weak credit metrics and negative free operating cash flow (FOCF) generation over the
+next 12 months.
+Susceptible to changing consumer shopping preferences.
+
+Petco's capital structure remains unsustainable as we expect it to sustain debt to EBITDA in the high 6x area with
+negative FOCF generation over the next 12 months. Although we forecast a modest improvement in Petco's top-line
+performance, we continue to believe its capital structure is unsustainable because of its large debt obligations relative
+to its EBITDA base and our current expectation for EBITDA declines and weak cash flow over the next 12 months.
+Industry headwinds remain, though Petco maintains a good market position. Petco remains the second-largest player
+in the highly fragmented and competitive pet supply retail industry behind PetSmart. The company is facing intense
+competitive pressures from online and regional pet supply retailers in addition to supermarkets and mass-market
+channels. These competitors have strengthened their merchandise offerings to include premium products previously
+sold primarily through specialty retailers.
+Positive top-line performance due to management's strategic initiatives with positive same-store sales in the last two
+quarters. The company is focused on expanding veterinary services at its brick-and-mortar locations, improving its
+customer experience for existing services (including grooming and other pet care), and investing in omni-channel
+capabilities. In our view, Petco's positive same-store sales demonstrate that these initiatives are gaining traction with
+consumers. However, given the competitive environment, the company will need to make continued investments to
+capture consumer traffic and drive top-line performance improvement.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 2
+
+Petco Holdings Inc.
+
+Outlook
+
+The negative outlook on Petco reflects the risk that the company's operating performance could weaken in the
+near term as competition intensifies, leading to soft traffic trends and declining profit. This downside risk remains
+because Petco's strategic initiatives may be insufficient to sustain the improvement in its traffic trends. We forecast
+that the company's leverage will remain in the high 6x area and anticipate its fixed-charge coverage ratio will be in
+the low-1x area over the next 12 months.
+
+Downside scenario
+We could lower our rating on Petco if its performance deteriorates such that we envision a specific default
+scenario, including a below-par debt repayment. We could also lower our rating if the company's same-store sales
+turned negative, straining its cash flows and requiring it to draw on its revolver to maintain its operations.
+
+Upside scenario
+An outlook revision to stable would require that the company generates meaningful EBITDA growth, leading it to
+sustain leverage in the low 6x area while its fixed-charge coverage rises to roughly 1.5x. We would also need to
+believe a debt exchange or other form of restructuring is unlikely and expect that the company's lenders would be
+repaid at par.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 3
+
+Petco Holdings Inc.
+
+Assumptions
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020,
+unemployment sustained in the mid 3% range, and
+annual consumer spending growth of roughly 2%;
+• Same-store sales increase by the low single-digit
+percent area in the next year, which is slightly below
+to in line with our GDP forecast, because the
+benefits from management's strategic initiatives are
+partially offset by continued pressure on customer
+traffic;
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+6.6 Mid to high 6x Mid to high 6x
+
+FFO to debt (%)
+
+8.1
+
+Below 10%
+
+Below 10%
+
+EBITDA interest coverage (x)
+
+2.1
+
+Low-2x
+
+Low-2x
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• S&P-adjusted EBITDA margin declines by roughly
+50 basis points (bps) as the company makes
+strategic investments to improve the customer
+experience in its stores and expands its services,
+which are slightly offset by its cost-savings efforts;
+and
+• Capital spending of between $140 million and $150
+million primarily for store remodels to expand
+veterinary services and maintenance.
+
+Company Description
+Petco Holdings Inc. is a specialty pet consumables and supplies retailer that operates roughly 1,500 stores in the U.S.
+The company also offers in-store services including grooming, dog training, and veterinary services. In addition, it
+operates an e-commerce platform through www.petco.com.
+
+Business Risk
+Petco is contending with broader industry trends, including a general shift in consumer spending toward online
+channels, a shift in pet food sales toward mass channels, and an increased customer focus on natural and organic pet
+foods. Our view of Petco's business risk is supported by the company's market position as the second-largest player in
+the specialty pet industry with good domestic geographic diversity and brand recognition.
+Petco has responded to these industry pressures by improving its assortment of exclusive and premium brands and
+removing all non-natural brands (those that include artificial ingredients) from its stores. However, the company's
+online and omni-channel capabilities continue to lag those of other retailers. In our view, these capabilities are critical
+for the company to compete effectively in the current retail environment. It remains unclear whether Petco's
+investments will be sufficient to sustain the recent improvement in its operating performance.
+Petco's competitors are emphasizing low prices and convenience as differentiating characteristics to emphasize their
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 4
+
+Petco Holdings Inc.
+
+value proposition. They have also expanded their product assortments to include more nutritional and healthy
+consumables, as well as premium products that were once primarily sold at specialty pet retailers. We believe that pet
+owners have more loyalty to the brands they are purchasing than the retailer, which has created a headwind for the
+specialty retailers because some these brands are now available through other retail channels.
+Petco will need to offer its customers a compelling in-store experience to generate traffic and prevent sales losses to
+online and other competitors. Management's plan to expand veterinary services should incentivize customers to visit
+its store locations and lead to improving traffic trends, though this initiative will require considerable time and capital
+spending given that there are currently vets at only 3% of the company's locations.
+We expect the company's strategic initiatives to continue to translate into positive same-store sales, though the costs
+associated with their implementation will depress its EBITDA over the next 12 months. Petco will need to accelerate
+its same-store sales improvement beyond our base-case expectations (along with appropriately managing its cost
+structure) to expand its EBITDA base, which we believe is critical to support its current capital structure.
+
+Financial Risk
+The company's high adjusted leverage, projected negative FOCF generation, and pressured fixed-charge coverage
+ratio contribute to our view that its capital structure is unsustainable. We also highlight that the company's term loan is
+currently trading at distressed levels, which heightens the risk for a distressed exchange or balance-sheet restructuring.
+
+Liquidity
+We forecast that Petco will have adequate liquidity for its operating needs over the next 12 months based on the
+company's revolver availability, cash flow generation, and balance sheet cash. We expect its liquidity sources to be
+more than 1.2x its uses and believe that its net sources will remain positive even if its EBITDA declines by 15%.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Existing cash of approximately $45 million as of May
+3, 2019;
+
+• Capital expenditure to support the opening of new
+stores and ongoing maintenance; and
+
+• Availability under its $500 million revolver, subject
+to a borrowing base; and
+
+• Modest debt amortization.
+
+• Cash from operations of approximately $125
+million-$150 million over the next 12 months.
+
+Debt maturities
+• $500 million senior secured asset-based lending (ABL) revolving credit facility maturing Oct. 27, 2022;
+• $2,525 million ($2,443 million outstanding as of May 3, 2019) senior secured term loan facility maturing Jan. 26,
+2023; and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 5
+
+Petco Holdings Inc.
+
+• $750 million of senior notes maturing Jan. 26, 2024.
+
+Covenant Analysis
+Compliance expectations
+• Petco's ABL facility has a springing financial covenant. We do not expect the company to experience any
+compliance issues based on our forecast.
+
+Issue Ratings - Recovery Analysis
+Please see our detailed recovery report to be published shortly after this report on RatingsDirect.
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Criteria For Assigning 'CCC+', 'CCC', 'CCC-', And 'CC' Ratings, Oct. 1, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Ratings Detail (As Of August 16, 2019)*
+Petco Holdings Inc.
+Issuer Credit Rating
+
+CCC+/Negative/--
+
+Issuer Credit Ratings History
+12-Apr-2018
+
+CCC+/Negative/--
+
+11-Jan-2018
+
+B-/Negative/--
+
+22-Sep-2017
+
+B/Negative/--
+
+05-Jan-2016
+
+B/Stable/--
+
+23-Nov-2015
+
+B/Watch Neg/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 6
+
+Petco Holdings Inc.
+
+Ratings Detail (As Of August 16, 2019)*(cont.)
+Related Entities
+Petco Animal Supplies Inc.
+Issuer Credit Rating
+
+CCC+/Negative/--
+
+Senior Secured
+
+CCC+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 8
+
+

@@ -1,0 +1,1173 @@
+National CineMedia Inc.
+Primary Credit Analyst:
+Scott E Zari, CFA, Chicago + 1 (312) 233 7079; scott.zari@spglobal.com
+Secondary Contact:
+Rose Oberman, CFA, New York 212-438-0354; rose.oberman@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+National CineMedia Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb-
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Long-term contracts with the three largest movie exhibitors in
+the U.S.
+
+Reserved seating could lead to viewers taking their seats closer to show time,
+reducing the value of early-show inventory.
+
+Favorable agreement with its founders results in high adjusted
+EBITDA margins above 50%.
+
+Revenue is exposed to cyclicality in national advertising and volatility in theater
+attendance.
+Minimal discretionary cash flow generation due to dividend policy.
+
+National CineMedia Inc. (NCM) has favorable contract terms with its founders.NCM has long-term exclusive contracts
+with its founders--AMC, Regal, and Cinemark--the three largest movie exhibitors in the U.S. and pays its founders a
+theater access fee instead of a revenue sharing agreement. Because of its cheaper theater access fees, NCM has a
+considerably higher EBITDA margin than its key competitor Screenvision LLC.
+NCM's operating agreement requires it to distribute substantially all free operating cash flow (FOCF) to its owners.
+NCM LLC (the operating subsidiary) distributes nearly all of its FOCF to its founding members and to the public
+holding company, as long as leverage remains below 6.5x. We expect NCM to generate healthy annual FOCF of
+around $130 million, but its leverage is more than two turns below the 6.5x threshold and we anticipate that
+distributions to its shareholders will result in minimal discretionary cash flow (DCF) and modest cash balances at the
+operating subsidiary.
+Changes in consumer behavior at the theater could reduce NCM's value to advertisers.Theater advertising isn't
+exposed to the ad-skipping technology that hurts TV ad-viewing. However, changes in theaters' operating strategies,
+such as reserved seating and placing bars in the theater lobby, may lead to customers taking their seats closer to the
+published show time, which could reduce the number of viewers in their seats when preshow advertising is displayed.
+While there has not yet been a significant decline in pre-show ratings, this shift could potentially affect NCM's
+performance because national advertisers pay the company based on a cost per thousand (CPM) advertising pricing
+metric.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+National CineMedia Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that the company's pricing will continue to face pressure relative to
+alternative media, despite our expectations for improved utilization and attendance growth over the next 12
+months. We expect this to result in adjusted leverage remaining in the low-4x area.
+
+Downside scenario
+We could lower the rating if the company's leverage increases above 5x on a sustained basis. This scenario could
+occur if operating performance deteriorates faster than expected due to pricing pressure or further declines in
+utilization rates, which could occur if structural changes in theater operations reduces the attractiveness of
+in-theater advertising.
+
+Upside scenario
+While unlikely at this time, we could raise the rating if we expect the company will be able to reduce and maintain
+leverage below 4x. An upgrade would likely require improvements in utilization or pricing, leading to stable
+revenue growth that more than offsets increases in theater access fees, as well as a change to its financial policy of
+distributing almost all of its FOCF as distributions to shareholders.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+National CineMedia Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.3% in 2019 and 1.7% in 2020;
+• Revenue increases 2%-3% in 2019 due to increased
+national advertising revenue related to a strong
+second-half box office. We expect minimal revenue
+growth in 2020 due to a weaker film slate and
+continued weakness in local advertising.
+• EBITDA increases at a lower rate than revenue in
+2019 as increased expenses related to investments
+in digital offerings offset some of the revenue
+growth. We expect EBITDA to remain roughly flat in
+2020.
+• The company generates healthy FOCF, adjusted for
+integration payments, of roughly $150 million in
+2019 and 2020, but we expect that materially all of
+its FOCF will be distributed to shareholders and
+DCF will be minimal.
+
+2018A
+EBITDA margin (%)
+Debt to EBITDA (x)
+FOCF to debt (%)
+
+2019E
+
+2020E
+
+51.7 51.2-51.6 50.5-51.5
+4.2
+
+4.0-4.2
+
+4.0-4.2
+
+16.8 16.3-16.6 15.9-16.3
+
+Note: All figures are S&P Global Ratings-adjusted.
+A--Actual. E--Estimate. FOCF--Free operating cash
+flow.
+The leverage ratio includes $27 million in aggregate
+adjustments to as-reported debt (operating leases) and
+a $33.9 million increase in EBITDA (theater integration
+payments, operating lease rent and stock
+compensation). We expect these amounts to remain
+relatively unchanged in 2019 and 2020.
+
+• Leverage modestly improves due to EBITDA growth
+but remain in the low-4x area.
+
+Base-case projections
+NCM's revenue is more tied to movie theater attendance than GDP growth. While national advertising spending in the
+U.S. correlates with GDP, the company's revenue growth is mostly determined by the attractiveness of the current and
+upcoming film release slate, the timing of ad campaigns at its largest content partners, and trends in the national
+advertising scatter market.
+
+Company Description
+NCM is the larger of the two competing digital in-theater media networks in North America. The company offers an
+advertising and entertainment pre-show on theater screens and advertising programming on its lobby entertainment
+network, as well as on its online network and mobile apps. NCM has long-term contracts with over 40 leading national
+and regional theater companies. NCM Inc. is publicly traded but it only owns roughly 50% of the operating company,
+with nearly all of the remainder held by Cineworld Group LLC and Cinemark Holdings Inc.
+
+Business Risk: Fair
+Over 70% of NCM's revenue is generated from national advertising, which tends to be highly cyclical.The company's
+advertising revenue can be significantly affected by the timing of campaigns in its largest advertising categories and by
+trends in the scatter market. NCM also has multiyear contractual revenue associated with its pre-show content
+partners, public service announcement sponsors, and beverage concessionaires, which account for over 25% of total
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+National CineMedia Inc.
+
+revenue and offset some of the cyclicality. While the company's revenue grew during the last recession, we believe
+that advertising spending would decline in a future recession, which could lead to a significant deterioration in NCM's
+revenue and credit metrics.
+National Cinemedia is exposed to volatile box office attendance. Once NCM sells all or nearly all of its ad inventory,
+declines in theater attendance could hurt performance because national advertisers buy inventory based on forecast
+box office attendance. If performance is weaker than expected, NCM will have to use future scatter inventory to make
+advertisers whole, foregoing additional revenue.
+Revenue growth is tied to NCM's ability to maintain its pricing. We believe there is limited pricing upside, given
+in-theater advertising's already high rates, which are roughly comparable to those of primetime broadcast television.
+However, we expect the revenue mix to continue shifting toward the later portions of the preshow, which are more
+expensive, increasing average CPMs. Unlike most other advertising media, NCM has limited ability to expand its ad
+inventory and will therefore primarily rely on increasing inventory utilization and ad rate increases to generate revenue
+growth.
+
+Peer comparison
+We view NCM's business favorably compared to Screenvision mainly due to its larger scale and its exhibitor services
+agreement (ESA) that runs through 2037 with the three largest theater circuits in the U.S. Screenvision negotiates
+contracts with individual theater circuits, with costs based on revenue-sharing agreements. Its contracts tend to be
+much shorter than NCM's ESAs and the company faces much higher renewal risks. While NCM has the three largest
+exhibitors, Screenvison has seven of the top 10 and 13 of the top 25.
+NCM's founders account for roughly 80% of its screens and we believe that some midsize exhibitors that compete
+directly with NCM's exhibitor founders likely do not want their larger competitors to profit from their attendance,
+which provides Screenvision with a competitive advantage in securing their business. While the ESA is a competitive
+advantage for NCM it does limit its flexibility compared to Screenvision. In some cases, Screenvision has negotiated
+the rights to place advertising after the scheduled show time, which is less likely to be affected by reserved seating and
+can be sold at a premium CPM. NCM would not be able to offer something similar in the vast majority of its theaters
+due to its ESA.
+While NCM has a much higher EBITDA margin than Screenvision because of its ESA, its operating agreement requires
+it to distribute nearly all of its cash flow if leverage is below 6.5x. This limits NCMs ability to reduce leverage through
+cash flow and offsets some of the advantage that the higher EBITDA margin provides.
+
+Financial Risk: Aggressive
+We expect NCM to generate healthy FOCF, but distributions to shareholders will result in minimal DCF and modest
+cash balances. In addition, the company's dividend policy limits its ability to repay debt, requiring the company to
+reduce leverage through EBITDA growth. While we expect modest EBITDA growth in 2019 and 2020, we expect
+leverage to remain in the low-4x area.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+National CineMedia Inc.
+
+Table 1
+
+Financial Summary
+Industry sector: miscellaneous media and entertainment
+--Fiscal year ended Dec. 27-2018
+
+2017
+
+2016
+
+2015
+
+2015
+
+Revenue
+
+441.4
+
+426.1
+
+447.6
+
+446.5
+
+394.0
+
+EBITDA
+
+228.1
+
+218.9
+
+230.1
+
+231.9
+
+201.9
+
+FFO
+
+171.8
+
+168.9
+
+176.0
+
+184.2
+
+156.4
+
+57.3
+
+54.5
+
+55.1
+
+67.0
+
+53.4
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+FOCF
+
+56.0
+
+51.6
+
+53.6
+
+50.4
+
+50.7
+
+174.5
+
+153.3
+
+135.4
+
+107.2
+
+119.7
+
+14.3
+
+11.6
+
+15.2
+
+12.6
+
+8.7
+
+160.2
+
+141.7
+
+120.2
+
+94.6
+
+111.0
+
+DCF
+
+21.3
+
+(9.0)
+
+(6.9)
+
+(41.8)
+
+(48.9)
+
+Cash and short-term investments
+
+65.4
+
+43.3
+
+49.1
+
+44.9
+
+35.1
+
+Gross available cash
+
+65.4
+
+43.3
+
+49.1
+
+44.9
+
+35.1
+
+Debt
+
+950.6
+
+951.6
+
+908.2
+
+911.9
+
+875.6
+
+Equity
+
+(89.2)
+
+(1.2)
+
+(181.2)
+
+(171.7)
+
+(208.7)
+
+EBITDA margin (%)
+
+51.7
+
+51.4
+
+51.4
+
+51.9
+
+51.2
+
+Return on capital (%)
+
+19.9
+
+18.1
+
+22.0
+
+26.0
+
+20.5
+
+EBITDA interest coverage (x)
+
+4.0
+
+4.0
+
+4.2
+
+3.5
+
+3.8
+
+FFO cash interest coverage (x)
+
+4.1
+
+4.3
+
+4.3
+
+4.7
+
+4.1
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.2
+
+4.3
+
+3.9
+
+3.9
+
+4.3
+
+FFO/debt (%)
+
+18.1
+
+17.8
+
+19.4
+
+20.2
+
+17.9
+
+Cash flow from operations/debt (%)
+
+18.4
+
+16.1
+
+14.9
+
+11.8
+
+13.7
+
+FOCF/debt (%)
+
+16.8
+
+14.9
+
+13.2
+
+10.4
+
+12.7
+
+2.2
+
+(0.9)
+
+(0.8)
+
+(4.6)
+
+(5.6)
+
+DCF/debt (%)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Liquidity: Adequate
+We expect liquidity sources will exceed uses by at least 2.0x over the next 12 months and net liquidity sources will be
+positive, even if forecast EBITDA drops by 15%. However, we do not believe the company has generally prudent
+financial risk management due to its dividend policy. The company's requirement to distribute almost all of its excess
+cash flow to its shareholders results in a small cash balance at NCM LLC. We do not include the cash balance at NCM
+Inc. in our liquidity analysis because the operating company would have no claim on that cash in a stress scenario.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+National CineMedia Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balances of $4.5 million as of June 27, 2019, at
+NCM LLC;
+
+• Capital spending of about $15 million annually; and
+
+• Availability of $143 million under the $175 million
+revolving credit facility; and
+• Cash flow from operations of roughly $150
+million-$160 million over the next 12 months.
+
+• Virtually all FOCF is distributed as dividends
+(roughly $130 million); and
+• Mandatory amortization payments of $2.7 million
+annually.
+
+Debt maturities
+• 2022: $400 million
+• 2025: $268 million
+• 2026: $230 million
+If the $400 million of notes due in 2022 are not refinanced before Oct. 31, 2021, the entire balance of the senior
+secured credit facility becomes due on Dec. 30, 2021.
+
+Covenant Analysis
+The senior secured credit facility has a 4.5x net senior secured leverage covenant that is in effect if the revolver has an
+outstanding balance and a 6.25x total net leverage covenant. As of June 30, 2019, the company had roughly a 30%
+cushion of compliance with both covenants. We expect the company to maintain covenant headroom of over 25%
+over the next 12 months.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• NCM's capital structure includes a $175 million senior secured revolving credit facility maturing in 2023, a $268
+million senior secured term loan maturing in 2025, $400 million of senior secured notes due in 2022, and $235
+million of senior unsecured notes due in 2026. NCM LLC is the borrower of the debt and owns substantially all of
+the company's assets.
+• National CineMedia Inc. (the public holding company) is not a guarantor to any of the debt and we do not expect
+debtholders to have any claim on its cash or assets.
+• The senior secured credit facility and senior secured notes rank pari passu and are secured by substantially all of
+NCM LLC's material assets. The unsecured debt is subordinated to the secured debt.
+
+Simulated default assumptions
+• Our simulated default scenario contemplates a payment default in 2023, as a result of reduced cinema
+advertisement spending and an attendance decline, either from a streak of unappealing films or audiences favoring
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+National CineMedia Inc.
+
+entertainment alternatives.
+• Other default assumptions include an 85% draw on the revolving credit facility, LIBOR is 2.5%, the spread on the
+revolving credit facility and term loan rise to 5% as covenant amendments are obtained, and all debt includes six
+months of prepetition interest.
+• We expect NCM would reorganize in the event of a default, given its good market position, limited competition, and
+key relationships with leading U.S. cinema exhibitors.
+
+Simplified waterfall
+• EBITDA at emergence: $90 million
+• EBITDA multiple: 6x
+• Net enterprise value (after 5% administrative costs): $540 million
+• ----------------------------------------------• Estimated senior secured debt claims: $827 million
+• --Recovery expectation: 50%-70% (rounded estimate: 60%)
+• Estimated senior unsecured debt claims: $242 million
+• --Recovery expectation: 0%-10% (rounded estimate: 0%)
+
+Reconciliation
+Table 2
+
+Reconciliation Of National CineMedia Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Rolling 12 months ended June 30, 2019-National CineMedia Inc. reported amounts
+
+Debt
+918.1
+
+Shareholders'
+equity Revenue EBITDA
+(383.7)
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+434.6
+
+192.6
+
+151.7
+
+56.1
+
+223.2
+
+143.4
+
+123.5
+
+13.9
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.3)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest
+paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(54.4)
+
+--
+
+--
+
+--
+
+25.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+--
+
+--
+
+--
+
+3.2
+
+1.9
+
+1.9
+
+(1.9)
+
+1.3
+
+--
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+5.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+National CineMedia Inc.
+
+Table 2
+
+Reconciliation Of National CineMedia Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $) (cont.)
+Nonoperating
+income
+(expense)
+
+--
+
+--
+
+--
+
+--
+
+(4.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+273.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: other
+
+--
+
+--
+
+--
+
+21.7
+
+21.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating cash
+flow: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22.7
+
+--
+
+--
+
+Total
+adjustments
+
+25.2
+
+273.2
+
+0.0
+
+30.6
+
+19.4
+
+1.9
+
+(56.6)
+
+24.0
+
+0.0
+
+0.0
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+943.3
+
+(110.5)
+
+171.1
+
+434.6
+
+223.2
+
+58.0
+
+166.6
+
+167.4
+
+123.5
+
+13.9
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Negative (-1 notch)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+National CineMedia Inc.
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 16, 2019)*
+National CineMedia Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Issuer Credit Ratings History
+18-May-2017
+
+B+/Stable/--
+
+21-Dec-2015
+
+BB-/Stable/--
+
+15-Apr-2015
+
+BB-/Negative/--
+
+04-Nov-2014
+
+BB-/Watch Neg/--
+
+22-Sep-2014
+
+BB-/Negative/--
+
+Related Entities
+National CineMedia LLC
+Issuer Credit Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+B+/Stable/--
+
+SEPTEMBER 16, 2019 10
+
+National CineMedia Inc.
+
+Ratings Detail (As Of September 16, 2019)*(cont.)
+Senior Secured
+
+B+
+
+Senior Unsecured
+
+B-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+

@@ -1,0 +1,1609 @@
+Nan Fung International Holdings Ltd.
+Primary Credit Analyst:
+Aeon Liang, Hong Kong (852) 2533-3563; aeon.liang@spglobal.com
+Secondary Contact:
+Cindy H Huang, Hong Kong (852) 2533-3543; cindy.huang@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 1
+
+Nan Fung International Holdings Ltd.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbBBB-/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Growing rental income from China and Hong Kong.
+
+High project concentration resulting in more volatile and "lumpy"
+revenue and leverage.
+
+Liquid balance sheet with significant cash holdings and investments in
+marketable securities.
+
+Smaller business scale compared with peers in Hong Kong and
+mainland China.
+
+Long operating record in the property sector, and good financial
+management.
+
+Occasional debt-financed acquisitions, although partly mitigated by
+active financial control.
+
+Good financial flexibility for ongoing capital expenditure and potential debt-funded acquisitions. We believe Nan Fung
+International Holdings Ltd. will remain prudent in financial management. Its leverage (measured by the ratio of debt to
+EBITDA) will likely only rise moderately over the next two to three years, to 4.0x-5.0x. Nan Fung's leverage improved
+to 3.2x in fiscal 2019 (year ended March 31) after spiking to 8.3x in 2018 when the company acquired its Kai Tak
+project. The reduction in leverage was primarily due to Nan Fung's well-controlled debt and satisfactory
+revenue-booking from project delivery. We believe the company has sufficient headroom for ongoing spending on
+existing projects and potential acquisitions. We expect it to have capital expenditure (capex) of Hong Kong dollar
+(HK$) 7 billion–HK$8 billion in total for the next three years for its project at Kai Tak in Hong Kong. Nan Fung may
+also make debt-funded acquisitions of land parcels or property projects in Greater China or overseas.
+Sustainable rental income and liquid balance sheet support credit profile. Nan Fung's growing and sustainable income
+from investment properties provides strong support to its credit profile and tempers the impact of volatile cash flows
+from property development, in our view. We also anticipate the company's recurring income, which majorly consists
+of rental income from Hong Kong and mainland China, will continue to grow by 10%-15% annually. Furthermore, the
+company's sizable financial investment portfolio provides a substantial additional financial buffer.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 2
+
+Nan Fung International Holdings Ltd.
+
+Chart 1
+
+High project concentration and moderate business scale constrain rating upside Nan Fung's credit standing is
+constrained by its midsize business scale compared with Hong Kong and mainland China's peers with similar ratings. A
+significant portion of Nan Fung's contracted sales in the next two years will likely come from a few projects in Hong
+Kong and Macau. These weaknesses are partly offset by the company's diverse revenue streams, growing rental
+income, and long operating record. We estimate the Kai Tak project, upon completion in 2022, will generate additional
+rental income of HK$1 billion-HK$1.2 billion per year, on top of Nan Fung's current rental income of HK$1.5
+billion–HK$1.6 billion.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 3
+
+Nan Fung International Holdings Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Nan Fung's leverage will stay in a narrow range commensurate with the
+rating over the next 12-24 months. This is despite the company's significant capital investment for its Kai Tak
+project.
+We expect Nan Fung to control its risk appetite and pace of expansion. In addition, we anticipate that the company
+will maintain its large investment portfolio, providing it with substantial additional financial flexibility.
+
+Downside scenario
+We may lower the rating if:
+• Nan Fung's EBITDA interest coverage falls to below 2.5x without signs of improvement. This could happen if
+the company's debt-funded expansion is more aggressive than we expect without asset sales; or
+• The market value of the company's investment portfolio declines materially.
+
+Upside scenario
+We see limited rating upside in the next 12-18 months due to Nan Fung's increasing leverage for its continued
+capex for existing projects. Nevertheless, we may raise the rating if the company materially improves its financial
+leverage such that its debt-to-EBITDA ratio stays below 4x while EBITDA interest coverage stays above 3x on a
+sustainable basis.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 4
+
+Nan Fung International Holdings Ltd.
+
+Assumptions
+
+• Nan Fung's total contracted sales, including
+attributable revenue from joint ventures (JVs), will
+largely depend on its own project schedule due to its
+limited number of projects. We forecast the
+company's sales to be HK$9 billion–HK$10 billion in
+fiscal 2020. Total revenue will then fluctuate
+between HK$8 billion and HK$14 billion in fiscals
+2021 and 2022 to reflect the likely fewer pre-sold
+projects completed and delivered during the years.
+
+Key Metrics
+
+2019A
+
+2020E
+
+2021E
+
+Debt/EBITDA
+
+3.2x
+
+4.3x-4.7x
+
+4.0x-4.4x
+
+EBITDA interest coverage
+
+5.1x
+
+3.8x-4.2x
+
+5.9x-6.3x
+
+EBITDA margin
+
+36.2% 38%-41% 35%-39%
+
+A--Actual. E--Estimate.
+
+• Nan Fung's annual gross rental income, hotel
+revenue, property management fee income, and
+construction revenue to be HK$3.3 billion-HK$3.5
+billion in the next two years.
+• Its total spending for capex to be about HK$2.5
+billion in fiscal 2020, increasing to HK$4 billion in
+fiscal 2021, mainly driven by the Kai Tak project.
+• The company's spending on land for fiscal 2020 to
+be about HK$3.5 billion, increasing to HK$6
+billion–HK$12 billion in fiscals 2021-2022 for land in
+Greater China and overseas.
+
+Base-case projections
+EBITDA margin will improve moderately despite volatile revenues. We expect Nan Fung's EBITDA margin, including
+contribution from JVs, to moderately improve to, and sustain at, about 40% over the next two years. This is due to
+recognition of higher-margin projects such as the No. 8 Deep Water Bay Drive sold previously. Revenue will remain
+lumpy given project concentration and uneven launch schedule.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 5
+
+Nan Fung International Holdings Ltd.
+
+Chart 2
+
+Company Description
+Nan Fung is a privately held company that is part of the Nan Fung Group. The company is engaged in property
+investment and development in Hong Kong, China, and internationally. It also has hotel operations, and investment
+holding and trading businesses. Nan Fung has about 60 years of history in property development. It is a key subsidiary
+of Chen's Group International Ltd., which is wholly owned by Dr. Chen Din Hwa's Estates.
+
+Business Risk: Fair
+We expect Nan Fung's revenue to decline significantly in fiscal 2020, primarily due to lower revenue recognition of
+projects presold. This drop highlights the company's project concentration and lumpiness of income. Nan Fung's fair
+mix of high-end and mass-market projects for sale should provide some buffer against the volatile property market in
+Hong Kong. We anticipate revenue will rebound moderately in fiscal 2021 due to recognition of previously sold
+projects such as Lohas Park 6.
+Nan Fung's profitability should improve in fiscal 2020 and be in line with the market average in Hong Kong, and better
+than that of peers in mainland China. This is because of revenue booking for higher-margin projects such as the 8 Deep
+Water Bay Drive. We believe the company's gross margin from the property development will increase to above 40%
+in fiscal 2020. This compares with about 19% gross margin from property sales in fiscal 2019, when lower-margin
+projects were completed and delivered.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 6
+
+Nan Fung International Holdings Ltd.
+
+Nan Fung's growing and sustainable rental income from its high-quality investment properties temper the volatility in
+the property development business. We expect the company to continue to enhance its recurring income from
+investment properties and gradually reduce reliance on revenue from property development. This is despite
+macroeconomic headwinds in Hong Kong and Nan Fung's potential debt-funded acquisitions of land pieces or projects
+in the next two to three years. Meanwhile, the quality of Nan Fung's earning will be significantly boosted by the Kai
+Tak project.
+
+Peer comparison
+Table 1
+
+Nan Fung International Holdings Ltd.--Peer Comparison
+Industry Sector: Homebuilders and real estate developers
+
+Nan Fung International
+Holdings Ltd.
+
+Sun Hung Kai
+Properties Ltd.
+
+CK Asset
+Holdings Ltd.
+
+China Jinmao
+Holdings Group
+Ltd.
+
+Longfor Group
+Holdings Ltd.
+
+--Fiscal year ended -March 31, 2019
+
+June 30, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+Revenue
+
+18,081.5
+
+85,644.0
+
+50,368.0
+
+38,732.7
+
+131,854.3
+
+EBITDA
+
+6,544.0
+
+41,243.0
+
+25,571.0
+
+13,560.7
+
+40,599.0
+
+Funds from operations
+(FFO)
+
+4,852.0
+
+34,756.2
+
+16,282.0
+
+1,995.9
+
+23,246.8
+
+Interest expense
+
+1,271.7
+
+2,774.8
+
+2,550.0
+
+5,935.9
+
+5,935.5
+
+Cash interest paid
+
+1,165.1
+
+2,688.8
+
+1,925.0
+
+5,291.7
+
+5,684.4
+
+Cash flow from operations
+
+6,866.3
+
+8,300.2
+
+13,357.0
+
+(3,111.8)
+
+85,682.1
+
+Capital expenditure
+
+1,730.9
+
+23,187.0
+
+5,034.0
+
+1,590.4
+
+77,288.6
+
+Free operating cash flow
+(FOCF)
+
+5,135.4
+
+(14,886.8)
+
+8,323.0
+
+(4,702.2)
+
+8,393.4
+
+Discretionary cash flow
+(DCF)
+
+4,916.4
+
+(27,664.8)
+
+1,266.0
+
+(8,719.0)
+
+2,859.4
+
+Cash and short-term
+investments
+
+39,481.9
+
+26,954.0
+
+55,417.0
+
+21,326.4
+
+51,334.0
+
+Debt
+
+20,728.9
+
+86,065.3
+
+54,114.0
+
+96,806.9
+
+131,565.3
+
+105,962.9
+
+544,545.0
+
+329,358.0
+
+63,920.6
+
+160,343.0
+
+EBITDA margin (%)
+
+36.2
+
+48.2
+
+50.8
+
+35.0
+
+30.8
+
+Return on capital (%)
+
+7.7
+
+7.7
+
+7.1
+
+10.4
+
+16.9
+
+EBITDA interest coverage
+(x)
+
+5.1
+
+14.9
+
+10.0
+
+2.3
+
+6.8
+
+FFO cash interest
+coverage (x)
+
+5.2
+
+13.9
+
+9.5
+
+1.4
+
+5.1
+
+Debt/EBITDA (x)
+
+3.2
+
+2.1
+
+2.1
+
+7.1
+
+3.2
+
+FFO/debt (%)
+
+23.4
+
+40.4
+
+30.1
+
+2.1
+
+17.7
+
+Cash flow from
+operations/debt (%)
+
+33.1
+
+9.6
+
+24.7
+
+(3.2)
+
+65.1
+
+FOCF/debt (%)
+
+24.8
+
+(17.3)
+
+15.4
+
+(4.9)
+
+6.4
+
+DCF/debt (%)
+
+23.7
+
+(32.1)
+
+2.3
+
+(9.0)
+
+2.2
+
+(Mil. HK$)
+
+Equity
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 7
+
+Nan Fung International Holdings Ltd.
+
+Table 1
+
+Nan Fung International Holdings Ltd.--Peer Comparison (cont.)
+HK$--Hong Kong dollar.
+
+Sun Hung Kai Properties Ltd. (SHKP) and CK Asset Holdings Ltd. (CKAH) are two close peers of Nan Fung in Hong
+Kong. All these companies have a presence in Hong Kong and China, and have a significant portion of rental income
+from high-quality investment portfolios.
+Nan Fung has a smaller operating scale than its peers, mainly due to its weaker presence in China and smaller portfolio
+of investment properties. Nan Fung's credit metrics are also weaker than the peers'. However, the company has a
+liquid balance sheet with a high cash balance and substantial amount of financial investments.
+We consider China Jinmao Holdings Group Ltd. (Jinmao) and Longfor Group Holdings Ltd. as two close peers of Nan
+Fung in mainland China. All three companies have similar focus on residential and commercial property development.
+They also have a sizable investment property portfolio.
+Jinmao has the highest margin due to premium pricing of its property products and contributions from high-margin
+segments. Longfor has the largest rental income and investment-property portfolio. But Longfor's rental income is not
+able to fully cover its gross interest expenses due to its high debt owing to its rapidly growing property development
+business.
+Nan Fung and Jinmao's credit metrics are weaker than those of the Hong Kong peers. Jinmao benefits from group
+support from its state-owned parent, Sinochem Group, while Nan Fung benefits from its liquid balance sheet and good
+quality investment property portfolio.
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+Chart 4
+
+SEPTEMBER 27, 2019 8
+
+Nan Fung International Holdings Ltd.
+
+Financial Risk: Aggressive
+Nan Fung's recurring cash flows from good quality investment properties, sound record of financial control, and large
+portfolio of financial securities support its financial strength. These factors mitigate risks associated with opportunistic
+acquisitive expansion, volatility in revenue and margin, and ongoing capex for the Kai Tak project.
+In assessing the financial leverage of Nan Fung, we include only property-related income in our credit metrics. We
+proportionally consolidate the financial details of JVs and associates in our analysis. Given Nan Fung's high proportion
+of property sales and contributions from JVs and associates, we believe this method most appropriately reflects the
+company's financial position.
+We anticipate Nan Fung's capex will moderate over the next three years, mainly driven by spending on the Kai Tak
+project. The company's deleveraging in fiscal 2019 was largely due to active debt reduction and good control over
+spending for land and other acquisitions. This follows the HK$24.6 billion debt-financed land acquisition of the Kai Tak
+project in fiscal 2018.
+Nan Fung's growing rental income will continue to provide additional cash flow resilience. We forecast that the
+company will continue to sustain its ratio of rental income to interest expenses at 1.3x-1.4x over the next two fiscal
+years, supported by growing rental income and lower funding costs.
+Nan Fung's large financial investments provide substantial additional financial flexibility. As of March 31, 2019, the
+value of total investments is HK$21.5 billion, and includes listed securities (HK$10.3 billion), funds, and private equity.
+Most of the listed securities are "blue-chip" stocks or average-quality bonds, which we assess as having fair liquidity
+and diversity. Nan Fung's leverage would substantially improve if the company monetizes the listed securities for debt
+repayment. We reflect the high level of financial flexibility in our assessment of Nan Fung's capital structure.
+In our view, Nan Fung's large cash balance could support its expansion plans and project development. We believe the
+company will maintain conservative financial management and prudence in its securities portfolio, which is unlevered.
+
+Financial summary
+Table 2
+
+Nan Fung International Holdings Ltd.--Financial Summary
+Industry Sector: Homebuilders and real estate developers
+--Fiscal year ended March 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+18,081.5
+
+7,549.7
+
+12,884.5
+
+16,187.5
+
+3,254.0
+
+EBITDA
+
+6,544.0
+
+3,744.1
+
+4,922.4
+
+3,823.6
+
+2,589.8
+
+Funds from operations (FFO)
+
+4,852.0
+
+2,397.1
+
+2,828.7
+
+1,815.2
+
+664.4
+
+Interest expense
+
+1,271.7
+
+1,099.5
+
+1,126.1
+
+1,475.8
+
+1,077.0
+
+Cash interest paid
+
+1,165.1
+
+1,069.4
+
+1,101.9
+
+1,256.4
+
+936.0
+
+Cash flow from operations
+
+6,866.3
+
+4,237.3
+
+2,664.0
+
+5,115.0
+
+(2,116.4)
+
+Capital expenditure
+
+1,730.9
+
+31,721.1
+
+2,667.8
+
+840.8
+
+1,004.3
+
+(Mil. HK$)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 9
+
+Nan Fung International Holdings Ltd.
+
+Table 2
+
+Nan Fung International Holdings Ltd.--Financial Summary (cont.)
+Industry Sector: Homebuilders and real estate developers
+--Fiscal year ended March 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Free operating cash flow (FOCF)
+
+5,135.4
+
+Discretionary cash flow (DCF)
+
+4,916.4
+
+(27,483.8)
+
+(3.8)
+
+4,274.3
+
+(3,120.8)
+
+(27,599.6)
+
+(170.9)
+
+4,064.6
+
+(3,120.8)
+
+Cash and short-term investments
+
+39,481.9
+
+20,304.1
+
+32,215.1
+
+29,725.0
+
+21,900.6
+
+Gross available cash
+Debt
+
+17,670.6
+
+6,947.8
+
+20,730.6
+
+18,274.9
+
+21,900.6
+
+20,728.9
+
+30,889.4
+
+9,451.6
+
+15,401.3
+
+18,282.5
+
+105,962.9
+
+101,629.8
+
+88,337.4
+
+83,359.4
+
+85,000.4
+
+EBITDA margin (%)
+
+36.2
+
+49.6
+
+38.2
+
+23.6
+
+79.6
+
+Return on capital (%)
+
+7.7
+
+9.2
+
+11.6
+
+6.6
+
+3.5
+
+EBITDA interest coverage (x)
+
+5.1
+
+3.4
+
+4.4
+
+2.6
+
+2.4
+
+FFO cash interest coverage (x)
+
+5.2
+
+3.2
+
+3.6
+
+2.4
+
+1.7
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+3.2
+
+8.3
+
+1.9
+
+4.0
+
+7.1
+
+FFO/debt (%)
+
+23.4
+
+7.8
+
+29.9
+
+11.8
+
+3.6
+
+Cash flow from operations/debt (%)
+
+33.1
+
+13.7
+
+28.2
+
+33.2
+
+(11.6)
+
+FOCF/debt (%)
+
+24.8
+
+(89.0)
+
+(0.0)
+
+27.8
+
+(17.1)
+
+DCF/debt (%)
+
+23.7
+
+(89.3)
+
+(1.8)
+
+26.4
+
+(17.1)
+
+HK$--Hong Kong dollar.
+
+Liquidity: Strong
+We assess Nan Fung's liquidity as strong, thanks to the company's large committed undrawn lines and strong cash
+flows. We expect Nan Fung's ratio of liquidity sources to liquidity uses to be about 1.6x for the 24 months ending
+March 31, 2021. We expect liquidity sources to exceed uses even if EBITDA declines by 50%. In our view, Nan Fung
+has solid relationships with banks and has good access to capital markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 10
+
+Nan Fung International Holdings Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash balance of HK$17.6 billion as of
+March 31, 2019.
+
+• Short-term debt maturities of about HK$376 million
+as of March 31, 2019.
+
+• Committed but undrawn bank lines of HK$11.6
+billion as of March 31, 2019.
+
+• Capex of about HK$2.5 billion for the 12 months
+ending March 31, 2020.
+
+• Net cash receipts from property sales, recurring
+income, and our projection of cash upstreamed from
+JVs of HK$4.8 billion. This is after: (1) construction
+costs of about HK$2.5 billion, and (2) selling,
+general, and administrative expenses, taxes, interest
+expenses, and other costs of about HK$4 billion.
+
+• Dividend and land premium payment of about
+HK$2.9 billion for the period.
+
+• Cash inflows of about HK$1.5 billion from new debt
+issued after March 31, 2019.
+
+Debt maturities
+Table 3
+
+Nan Fung International Holdings Ltd.--Debt Maturities
+Period
+
+Amount (Mil. HK$)
+
+Due in one year
+
+376.0
+
+Due in two to three years
+
+2,583.0
+
+Due in three to four years
+
+4,475.0
+
+Due in four to five years
+
+8,419.0
+
+Due in more than five years
+Total
+
+21,312.0
+37,165.0
+
+As of March 31, 2019. HK$--Hong Kong dollar.
+
+Covenant Analysis
+Nan Fung has several leverage and net worth covenants in its banking facilities. As of March 31, 2019, the company
+has complied with its financial covenants as in the past. We expect Nan Fung to have a sufficient buffer to meet its
+covenants over the next 12 months.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of March 31, 2019, Nan Fung's capital structure consists of HK$12 billion in secured debt, mostly in the form of
+secured bank borrowings, and HK$21.2 billion in unsecured debt. Of the unsecured debt, HK$3.5 billion is at the
+subsidiary level. The ratio of secured debt and unsecured debt at subsidiaries to consolidated total debt is 42%, below
+our 50% threshold to notch down the issue rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 11
+
+Nan Fung International Holdings Ltd.
+
+Analytical conclusions
+Nan Fung's debt is rated 'BBB-', the same as the issuer credit rating. This is because we do not consider there to be
+significant elements of subordination risk in the company's capital structure. We believe Nan Fung will maintain a
+stable level of priority debt.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Nan Fung International Holdings Ltd. Reported Amounts With S&P Global Ratings'
+Adjusted Amounts (Mil. HK$)
+--Fiscal year ended Mar. 31, 2019-Nan Fung International Holdings Ltd. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+4,815.2
+
+4,645.4
+
+321.3
+
+6,544.0
+
+7,390.9
+
+--
+
+--
+
+--
+
+--
+
+(392.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+Revenue
+
+33,195.5
+
+105,332.2
+
+13,060.5
+
+Cash taxes paid
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+Reported
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,162.5)
+
+--
+
+63.4
+
+--
+
+--
+
+17.5
+
+2.6
+
+2.6
+
+(2.6)
+
+15.0
+
+--
+
+--
+
+--
+
+11.8
+
+11.8
+
+--
+
+--
+
+11.8
+
+(13,253.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+921.8
+
+--
+
+--
+
+Dividends received from equity
+investments
+
+--
+
+--
+
+--
+
+109.3
+
+--
+
+--
+
+--
+
+--
+
+Deconsolidation/consolidation
+
+723.0
+
+--
+
+5,021.0
+
+2,833.0
+
+2,833.0
+
+26.0
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+--
+
+--
+
+2,522.5
+
+--
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(551.4)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+630.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+income/(expense)
+
+--
+
+--
+
+--
+
+134.4
+
+134.4
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+--
+
+(1,377.2)
+
+(1,377.2)
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+--
+
+1,242.8
+
+--
+
+--
+
+--
+
+Operating leases
+Incremental lease liabilities
+Accessible cash and liquid
+investments
+
+Funds from operations: Other
+Total adjustments
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(134.4)
+
+--
+
+(12,466.6)
+
+630.7
+
+5,021.0
+
+1,728.8
+
+5,369.8
+
+950.4
+
+(1,692.1)
+
+(524.6)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+4,852.0
+
+6,866.3
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+20,728.9
+
+105,962.9
+
+18,081.5
+
+6,544.0
+
+10,015.2
+
+1,271.7
+
+HK$--Hong kong dollar.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 12
+
+Nan Fung International Holdings Ltd.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Very positive (+2 notches)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bbb-
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 13
+
+Nan Fung International Holdings Ltd.
+
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Corporate Entity And North
+American Insurance Holding Company Hybrid Capital Instruments, April 1, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+• Criteria - Corporates - General: 2008 Corporate Criteria: Rating Each Issue, April 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 27, 2019)*
+Nan Fung International Holdings Ltd.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+07-Jun-2017
+
+BBB-/Stable/--
+
+12-Sep-2016
+
+BBB-/Positive/--
+
+09-Jan-2012
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 15
+
+

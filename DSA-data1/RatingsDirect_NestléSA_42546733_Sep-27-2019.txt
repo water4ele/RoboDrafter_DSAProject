@@ -1,0 +1,1510 @@
+Nestlé S.A.
+Primary Credit Analyst:
+Maxime Puget, Paris (33) 1-4075-2577; maxime.puget@spglobal.com
+Secondary Contact:
+Barbara Castellano, Milan (39) 02-72111-253; barbara.castellano@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings--Subordination Risk Analysis
+Other Credit Considerations
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Nestlé S.A.
+Business Risk: EXCELLENT
+Vulnerable
+
+aa
+
+aa-
+
+aa-
+
+Excellent
+
+AA-/Stable/A-1+
+
+Financial Risk: MODEST
+Highly leveraged
+
+Issuer Credit Rating
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading global market positions, diversified product portfolio supported
+by well-known brands
+
+Likely mergers and acquisition (M&A) activity and high shareholder
+remuneration, meaning adjusted debt leverage should remain near
+1.8x
+
+Accelerated portfolio rotation toward higher-growth categories like pet
+care, coffee, and infant nutrition
+
+High price pressure from competitors and retailers, especially in
+Western Europe
+
+Extensive manufacturing and distribution footprint; large research and
+development (R&D) and marketing means
+
+Water division (8% of revenues) having lower growth and profitability
+than other businesses
+
+Very large and stable free operating cash flow (FOCF) base of 11
+billion-12 billion Swiss francs (CHF), with stable capital expenditures
+(capex)
+Acquisition policy focused on small-to-midsize deals
+
+Active portfolio reshaping and operating cost cuts support earnings growth.S&P Global Ratings believes that Nestlé
+S.A.'s strategy to focus on categories like pet care, coffee, or infant nutrition, water, and health science, which have
+growth prospects of 4%-5% annually is credit supportive. We think Nestlé, thanks to its well-known brands, large
+marketing, and R&D means, and its established global leading positions should benefit from the growth potential in
+emerging markets, notably Asia. We also view positively the efforts to make the operating cost base leaner as the
+group moves to a more digital production and distribution asset base. Still, we believe it could make sense to
+strengthen the product offering in plant-based food and beverages, which fits with health and wellness credentials.
+Asset disposals are not really affecting the business' high diversity. Nestlé has a uniquely diversified product portfolio
+within the food and beverages industry. We think the group's strong ambitions in categories such as pet care, infant
+nutrition, and coffee means that it has to make choices on capital allocation. Therefore, to dispose of businesses like
+skin health seems prudent because Nestlé doesn't appear to us as having a clear competitive advantage in this
+category. The sale of these assets are also not material enough in terms of cash flow to really affect the business'
+diversity.
+Financial policy is slightly less conservative than before, but adjusted debt leverage should remain in check.Since 2017
+and its most recent strategic plan, Nestlé decided to releverage its capital structure to reach an adjusted debt leverage
+ratio of 1.8x in 2018 (1.6x reported) by increasing significantly shareholder remuneration. We understand that the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Nestlé S.A.
+
+management has no rating or debt leverage target but that, absent large transformational M&A deal, we think leverage
+is not likely to rise above 2x because the group is keen to keep low financing costs. We believe that share buybacks
+will continue, notably with asset disposals. However, should there be a large M&A, we believe that the L'Oreal stake
+could be monetized or some assets could be disposed.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Nestlé will maintain its leading global market positions in key categories,
+execute well its portfolio reshaping toward higher-growth categories and emerging markets, and implementing its
+cost savings program. We believe that the strong portfolio of brands and innovation capabilities will enable the
+group to offset potential volatile commodity costs and high price pressure from competitors and retailers.
+To maintain the rating, we see Nestlé maintaining adjusted debt to EBITDA at about 2x, considering the very
+strong free cash flow generation, upcoming large cash proceeds from disposals (such as skin health and Herta), and
+focus on small-to-midsize acquisitions while calibrating shareholder remuneration, which has increased since 2017.
+
+Downside scenario
+We could lower the rating if adjusted debt leverage rises to above 2x permanently. This could occur, for example, if
+Nestlé was to enter a large debt-financed acquisition without monetizing its multibillion stake in L'Oreal. We would
+also view negatively a continued large share buyback program beyond 2019 from internal cash flow, which would
+pressure credit metrics. We could also consider a downgrade if the group loses its leading global market position in
+a key category like pet care, coffee, or infant nutrition due to intense competitive pressures or lack of innovation.
+This could translate into organic revenue decline and operating margin pressure.
+
+Upside scenario
+Rating upside would be contingent on Nestlé's management demonstrating a strong public commitment to
+returning to a more conservative financial policy. This would translate into adjusted debt leverage declining to and
+staying at 1.5x. However, considering management recent comments on debt leverage tolerance toward a
+potential transformational acquisition, we believe this is very unlikely to happen during the two-year outlook
+horizon.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Nestlé S.A.
+
+Assumptions
+
+Key Metrics
+
+• Global GDP growth of 1.3% in 2019 and 2% in 2020
+• Revenue sales flat in 2019, with low single digit
+organic growth offset by loss of revenues from the
+disposal of skin health. Revenues to grow by about
+3% in 2020, led by strong organic growth in
+nutrition-health science and pet care while we see
+prepared dishes having the lowest growth.
+
+2018a
+EBITDA margin (%)
+Debt/EBITDA (x)
+FOCF/debt (%)
+
+2019e
+
+2020e
+
+20.6 20.5-21.5
+
+21-22
+
+1.8
+57.2
+
+1.6-1.9 1.6-1.9
+40-50
+
+40-50
+
+A--Actual. E—Estimate
+
+• An adjusted EBITDA margin of 21%-22.0%, driven
+mostly by the growth in emerging markets and
+higher margin businesses like pet care and
+powdered and liquid beverages, as well as cost
+savings (offset to some extent by restructuring
+costs).
+• FOCF of CHF11 billion-CHF12 billion, assuming
+annual capex of 4.5%-5.0% of sales
+• Our adjusted debt of CHF31 billion-35 billion, which
+also includes CHF3.2 billion of net pension deficit.
+We assume cash dividends of CHF 7.3
+billion-CHF7.5 billion annually and CHF2.0 billion of
+acquisitions annually. We net out debt with cash
+balances and liquid financial assets, but evaluate
+restricted cash at about CHF515 million
+
+Base-Case Projections
+The growth in emerging markets and cost cuts support improving profitability in 2019-2020.We forecast that
+profitability should continue to rise by 100 basis points over the next two years. This is due to the growth in emerging
+markets, which are more profitable for Nestlé, portfolio reshaping toward highly profitable categories, and operating
+costs cuts with Nestlé on track in its CHF2.0 billion-CHF2.5 billion savings program.
+Adjusted debt leverage should remain below 2.0x in 2019 and 2020 despite large share buybacks.Nestlé's adjusted debt
+leverage was 2.2x at June 2019. However, the business' seasonality and the payment of a CHF7.2 billion annual
+dividend affected first-half credit metrics. For 2019, expected cash proceeds from the disposal of the skin health
+business should help improve debt leverage decrease to below 2.0x despite the completion of the CHF20 billion share
+buyback program. For 2020, we think likely that Nestlé will undertake more share buybacks from the disposal of skin
+health absent a significant M&A deal. Still, we believe the combination of a higher EBITDA base and a focus on
+maintaining low financing costs is likely to mean adjusted debt leverage will remain below 2x.
+The free operating cash flow base will remain very large despite planned disposals and higher financing costs.Free
+operating cash flow are forecast to grow moderately to CHF11 billion-CHF12 billion annually, thanks to EBITDA
+growth lifted by improved performance in North America, positive growth prospects in most categories, and operating
+cost cuts offsetting loss of earnings from asset disposals. Positive working capital movements and stable capex
+spending should offset higher interest expenses arising from increased debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Nestlé S.A.
+
+Company Description
+Nestlé, based in Switzerland, is the world's largest food and beverages group, founded more than 150 years ago. In
+2018 Revenues amounted to CHF91.4 billion with S&P Global Ratings-adjusted EBITDA of CHF18.9 billion.
+Nestlé is a listed company, with most shares being free float on the Zurich Stock Exchange.
+The group operates in 190 countries, with most sales generated in mature markets (58% sales, compared with 42% for
+emerging markets). However, emerging markets grew 3x faster than mature markets in 2018 and have higher
+underlying profitability.
+The group has diverse businesses, mostly within food and beverages:
+• Powdered and liquid beverages (CHF21.6 billion of revenues, underlying operating margin of 22.7%). Main products
+are coffee beverages like Nescafé, Nespresso, or Starbucks. Nestlé has a perpetual license to sell Starbucks
+consumer packaged products and foodservice globally. This excludes ready-to-drink products and sales within
+coffee shops). Other beverages include cocoa-malt beverage Milo and Nesquik;
+• Nutrition and health science (CHF16.2 billion; 20.6%). Main products are infant formula and baby food (illuma,
+Gerber, and Nan), as well as health food like Garden of Life (Atrium);
+• Milk products and ice cream (CHF13.2 billion; 19.1%). Main products are ambient milk products like Nido, Coffee
+Mate and ice-creams like Haagen-Dazs;
+• Petcare (CHF12.8 billion; 21.6%). Main products are Pet food products under the Purina brand;
+• Prepared dishes and cooking aids (CHF12.1 billion, underlying operating margin of 18%). Main products are
+bouillons, soups, ambient and chilled food products, frozen foods, and pizzas. Main brands are Maggi, Stouffer's, and
+Herta;
+• Confectionary (CHF8.1 billion; 17.3%). Main products are chocolate bars like KitKat, sweets like Quality streets, and
+Hsu Fu Chi; and
+• Water (CHF7.4 billion; 10.5%). Main products are bottled waters: Perrier, San Pellegrino and Nestlé Pure Life.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Nestlé S.A.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Nestlé S.A.
+
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Nestlé S.A.
+
+Chart 3
+
+Business Risk: Excellent
+Nestlé is one of the largest branded food and beverages group globally, with revenues of CHF91 billion in 2018 (about
+€80 billion). It has leading market positions worldwide in a wide number of categories, most of which have growth
+prospects of 3%-7% and bear low cyclicality. The overall business is well balanced geographically, with emerging
+markets accounting for 42% of revenues but for the majority of group earnings.
+The business strategy is to continue reshaping the product portfolio (CH15 billion of assets acquired and sold over the
+past two years) toward the higher-growth categories in food and beverages and nutritional health products: coffee, pet
+care, infant nutrition, water, and consumer health, which combined already account for 61% of operating profit. We
+believe most of the volume growth potential for midprice-range products lies in emerging markets, while there is scope
+to expand the range of high-end products both in mature and emerging markets. We believe the large portfolio of
+well-known brands (34 billionaire brands) and strong innovation capabilities (1,500 new products launched in 2018;
+CHF1.7 billion annual budget) enables the group to benefit from strong pricing power in most categories.
+In terms of expansion strategy, we believe that Nestlé will focus on investing in coffee, pet care, infant nutrition and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Nestlé S.A.
+
+health nutrition. For example, it has expanded further in coffee with the $7.15 billion acquisition of the Starbucks
+perpetual license for consumption at home and in foodservice (a $2 billion business). This complements well its own
+brands Nespresso and Nescafé in a segment that is fast-growing, notably in Asia. Atrium Innovations, acquired in 2017
+for $2.3 billion, has enabled the group to increase the range of health nutrition products. We also see strong growth
+potential for the pet care business in Asia.
+Important disposals have occurred as part of the portfolio reshaping, because these categories have weak growth
+prospects or they do not fit with the business model. For example, the skin health division, which accounted for 3% of
+revenues in 2018 (including the skin care brand Galderma) and for which we expect a sale by the end of 2019 for
+CHF10.2 billion, did not fit with the business focus in health nutrition. Nestlé also exited the U.S confectionary market,
+is selling part of its prepared dish business (Herta charcuterie in Europe), and sold its Gerber Life Insurance business
+for $1.55 billion.
+Business challenges include the high price pressure from retailers and competitors in mature markets, especially
+Western Europe. Nevertheless, North America returned to growth since 2018 thanks notably to the improvement at
+Purina as well as the growth of Starbucks. Consumer demand in China, notably in infant nutrition due to lower birth
+levels, seems to be decelerating. Also, Nestlé has a limited presence in India, a very large and growing consumer
+market that is actually quite small for the group (1.6% of revenues in 2018).
+We see medium-term threats arising from intensifying level of competition. In retail coffee, Nestlé is facing Keurig Dr
+Pepper (BBB/Stable/A-2) in the U.S. and Jacobs Dow Egberts (BB/Positive/--), both owned by JAB Holding
+Company Sarl (A-/Stable/--) while The Coca-Cola Company (A+/Stable/A-1) is expanding in the category with the
+recent £3.9 billion acquisition of Costa Coffee. In infant nutrition, notably in China (the world's largest market), Nestlé
+is No. 1 but is seeing intense competition from Danone (BBB+/Stable/A-2), Reckitt Benckiser Group plc
+(A-/Stable/A-2), Abbott, and local players. In pet food, Nestlé is No. 2, with about a 21% market share (source:
+Euromonitor), slightly behind consumer giant Mars (24%) but is now facing new players like Blue Buffalo in the U.S.,
+bought for $8 billion by General Mills (BBB/Stable/A-2).
+Five of the group's 34 billionaire brands appear to have relatively weak growth prospects including Stoffer's (frozen
+food) and Nestlé Pure Life (water). Water had the lowest margin among all businesses with 11.4% in first-half 2019
+(compared with 17.1% for the group) and is increasing below the group average (2.0% compared with 3.6% for the
+group). The division seems to have price positioning issues on its core product offering, especially in the U.S. We also
+think the product range lacks a wide offering in plant-based foods with the U.S. frozen food line (Stouffer's) needed to
+be refreshed, although pizza is growing well.
+Digitalization of production and supply-chain require investments but improved efficiency has helped reduce working
+capital intensity: 1.4% of sales in 2018 (down from 5.3% in 2014). We also note that e-commerce has grown 18% in
+2018 with notably strong growth in U.S. and China and now accounts for 7.4% of total sales.
+The group benefits from very large manufacturing and distribution capacities in all regions of the world, which enables
+economies of scale. Still, to meet its 2020 profitability target of underlying trading operating profit margin of
+17.5%-18.5% (Nestlé was at 17.0% in 2018), it is progressing well on its CHF2.0 billion-CHF2.5 billion cost savings
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+Nestlé S.A.
+
+program focusing on cutting fixed operating costs: fewer production sites, reduced overhead, and lower distribution
+costs. For example, the direct frozen distribution business in the U.S. will change to a less costly warehouse model. We
+understand the cost savings achieved are then mostly reinvested in marketing and R&D, which should enable Nestlé to
+respond to rising competition intensity and support its expansion in complex markets like China.
+Profitability has been improving for several years, with EBITDA margin (S&P Global Ratings-adjusted) rising from
+19.2% in 2014 to our forecast of about 21% for 2019. However, issues can arise from the volatility of raw materials
+(energy, agriculture commodities, packaging) while restructuring costs (CHF700 million estimated for 2019) are likely
+to remain for a few years.
+
+Peer comparison
+Table 1
+
+Nestle S.A.--Peer Comparison
+Industry sector: Food and kindred products
+Nestle S.A.
+Ratings as of Sep. 10, 2019
+
+Unilever PLC
+
+Danone Procter & Gamble Co.
+
+AA-/Stable/A-1+ A+/Stable/A-1 BBB+/Stable/A-2
+
+PepsiCo Inc.
+
+AA-/Stable/A-1+ A+/Stable/A-1
+
+--Fiscal year ended-Dec. 31, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+June 30, 2019
+
+Dec. 29, 2018
+
+Revenue
+
+91,750.0
+
+57,434.9
+
+27,771.1
+
+66,043.5
+
+63,616.5
+
+EBITDA
+
+18,900.0
+
+12,156.3
+
+5,192.4
+
+17,069.8
+
+12,803.3
+
+Funds from operations (FFO)
+
+14,593.0
+
+8,884.1
+
+4,246.4
+
+13,526.1
+
+10,150.6
+
+Interest expense
+
+971.0
+
+859.1
+
+529.2
+
+565.7
+
+1,603.9
+
+Cash interest paid
+
+684.0
+
+687.9
+
+319.6
+
+554.0
+
+1,469.1
+
+15,398.0
+
+7,723.7
+
+3,652.7
+
+15,062.2
+
+9,607.5
+
+(Mil. CHF)
+
+Cash flow from operations
+Capital expenditure
+
+4,470.0
+
+1,725.9
+
+1,060.1
+
+3,265.9
+
+3,229.0
+
+Free operating cash flow (FOCF)
+
+10,928.0
+
+5,997.8
+
+2,592.6
+
+11,796.3
+
+6,378.5
+
+Discretionary cash flow (DCF)
+
+(3,369.0)
+
+(5,654.3)
+
+2,030.3
+
+(401.7)
+
+(542.8)
+
+Cash and short-term investments
+
+10,301.0
+
+3,465.3
+
+5,675.7
+
+10,037.7
+
+8,847.7
+
+Debt
+
+34,040.7
+
+26,769.2
+
+17,020.2
+
+26,676.6
+
+29,395.9
+
+Equity
+
+58,403.0
+
+13,847.8
+
+17,855.0
+
+46,425.8
+
+14,366.1
+
+EBITDA margin (%)
+
+20.6
+
+21.2
+
+18.7
+
+25.8
+
+20.1
+
+Return on capital (%)
+
+15.5
+
+23.5
+
+11.8
+
+19.2
+
+25.1
+
+EBITDA interest coverage (x)
+
+19.5
+
+14.2
+
+9.8
+
+30.2
+
+8.0
+
+FFO cash interest coverage (x)
+
+22.3
+
+13.9
+
+14.3
+
+25.4
+
+7.9
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+1.8
+
+2.2
+
+3.3
+
+1.6
+
+2.3
+
+FFO/debt (%)
+
+42.9
+
+33.2
+
+24.9
+
+50.7
+
+34.5
+
+Cash flow from operations/debt (%)
+
+45.2
+
+28.9
+
+21.5
+
+56.5
+
+32.7
+
+FOCF/debt (%)
+
+32.1
+
+22.4
+
+15.2
+
+44.2
+
+21.7
+
+DCF/debt (%)
+
+(9.9)
+
+(21.1)
+
+11.9
+
+(1.5)
+
+(1.8)
+
+CHF--Swiss Franc.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+Nestlé S.A.
+
+The selected peers are all large nondurable consumer goods companies with global operations.
+Nestlé has the largest revenue base compared with peers with Danone being notably 3x smaller. Nestlé benefits from
+the largest number of billionaire brands (34) followed by Pepsico (22) and P&G (20). Procter & Gamble (P&G) and
+Nestlé have a similar EBITDA and FOCF base, well above other peers. That said P&G has better operating margins
+thanks to its business being mostly personal care compared with food and beverages for Nestlé.
+In terms of business diversity, we believe Nestlé is the best positioned among peers being in several, large and growing
+categories with low exposure to declining segments of food and beverages. Nevertheless, we value Unilever, which
+evolves both in personal care and the highly profitable food and beverages segments like sauces and dressings; and
+P&G, which is in five categories like home care, personal care, and beauty. Pepsico, meanwhile, operates a
+large-but-lower-growth soft drinks business, which offsets good growth prospects in snacks.
+Nestlé appears better diversified geographically than P&G and Pepsico, which still have a large single-market exposure
+to the U.S. However, Unilever has a bigger presence in emerging markets (about 60% of sales) compared with Nestlé
+(42%), being notably larger in India.
+Nestle has lower adjusted debt leverage compared than most peers and is on par with P&G at 1.6-1.8x. Danone is still
+deleveraging, at about 3x currently, following its large debt-financed acquisition of WhiteWave in 2016. Most
+companies, except for Danone, have negative discretionary cash flows due to large dividend and share buybacks
+payments. However, Nestlé, like most peers, tend to follow a prudent acquisition policy with a focus on midsize deals.
+
+Financial Risk: Modest
+Nestlé generates very large, stable free operating cash flow base forecast at CHF11 billion-CHF12 billion annually,
+thanks to its very large scale, diversity of businesses, and established global market positions. We believe the portfolio
+reshaping toward higher-growth and profitable categories should help grow cash flows.
+This should help offset the loss of earnings from business disposals such as skin health and higher interest expenses
+due to increased debt, which is largely denominated in U.S. dollars. Also, Nestlé has substantially reduced working
+capital intensity and capex spending over the past years. Still, we think unlikely that capex (now 4% of revenues) can
+fall much further.
+While free cash flow generation should remain strong, we expect adjusted debt levels will continue rising gradually to
+CHF35 billion-CHF37 billion (vs. CHF34 billion in 2018) in the next two years due to moderate dividend increase,
+share buybacks from proceeds of asset disposals, and some acquisitions.
+In recent years, Nestlé's credit metrics have slightly weakened due to the decisions to increase share buybacks.
+Adjusted debt leverage was 1.2-1.4x from 2014-2017 and rose to 1.8x in 2018 following about CHF14 billion of cash
+paid to shareholders. For 2019-2020, we forecast adjusted debt leverage to remain near 1.8x as we think Nestlé will
+calibrate its debt leverage while continuing to return cash to shareholders from asset disposals like skin health after its
+CHF20 billion program expires this year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+Nestlé S.A.
+
+Acquisitions are likely to remain a central part of the strategy because we believe Nestlé wants to accelerate its global
+reach in the high growth categories. We also think that the group is unlikely to seek large transformational deals due to
+the high multiples in these categories. Rather, Nestlé will more likely focus on midsize deals to do some additions to its
+brand portfolio or move to a new niche, but promising, segment.
+Despite this, multibillion deals the size of Atrium Innovations or Starbucks could occur again. In May 2019 at its
+investor day, Mr. François-Xavier Roger, Nestlé's CFO, commented that the group would be comfortable to have a
+floor rating not lower than mid 'A' for a transformational acquisition. This highlights to us that the group wants
+flexibility for potential acquisitions but we believe Nestlé would probably monetize its stake in L'Oreal (worth €32
+billion, or CHF29.5 billion, on Sept. 10, 2019) to keep debt leverage in check and continue benefit from very low
+financing costs. Nevertheless, given the strong share price appreciation and related dividend payments from L'Oreal, it
+is understandable that Nestlé is no rush to dispose of its stake.
+
+Financial summary
+Table 2
+
+Nestle S.A.--Financial Summary
+Industry sector: Food and kindred products
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. CHF)
+Revenue
+
+91,750.0
+
+89,922.0 89,786.0
+
+89,083.0 91,865.0
+
+EBITDA
+
+18,900.0
+
+18,186.0 18,157.5
+
+17,691.0 17,648.0
+
+Funds from operations (FFO)
+
+14,593.0
+
+13,949.0 14,026.3
+
+13,700.6 14,111.4
+
+Interest expense
+
+971.0
+
+813.0
+
+893.2
+
+852.4
+
+874.6
+
+Cash interest paid
+
+684.0
+
+609.0
+
+696.2
+
+680.4
+
+677.6
+
+Cash flow from operations
+Capital expenditure
+
+15,398.0
+4,470.0
+
+14,199.0 16,080.3
+4,707.0
+
+4,689.0
+
+9,492.0 11,391.3
+
+14,757.6 15,167.4
+4,288.0
+
+4,423.0
+
+Free operating cash flow (FOCF)
+
+10,928.0
+
+10,469.6 10,744.4
+
+Discretionary cash flow (DCF)
+
+(3,369.0) (1,271.0)
+
+4,782.3 (3,281.4)
+
+1,804.4
+
+Cash and short-term investments
+
+10,301.0
+
+8,593.0
+
+9,296.0
+
+5,805.0
+
+8,206.0
+
+Gross available cash
+
+10,301.0
+
+8,593.0
+
+9,296.0
+
+5,805.0
+
+8,206.0
+
+Debt
+
+34,040.7
+
+25,745.8 22,769.5
+
+23,306.9 20,830.1
+
+Equity
+
+58,403.0
+
+62,229.0 65,981.0
+
+63,986.0 71,884.0
+
+Adjusted ratios
+EBITDA margin (%)
+
+20.6
+
+20.2
+
+20.2
+
+19.9
+
+19.2
+
+Return on capital (%)
+
+15.5
+
+15.5
+
+16.0
+
+15.5
+
+21.5
+
+EBITDA interest coverage (x)
+
+19.5
+
+22.4
+
+20.3
+
+20.8
+
+20.2
+
+FFO cash interest coverage (x)
+
+22.3
+
+23.9
+
+21.1
+
+21.1
+
+21.8
+
+1.8
+
+1.4
+
+1.3
+
+1.3
+
+1.2
+
+FFO/debt (%)
+
+42.9
+
+54.2
+
+61.6
+
+58.8
+
+67.7
+
+Cash flow from operations/debt (%)
+
+45.2
+
+55.2
+
+70.6
+
+63.3
+
+72.8
+
+FOCF/debt (%)
+
+32.1
+
+36.9
+
+50.0
+
+44.9
+
+51.6
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+Nestlé S.A.
+
+Table 2
+
+Nestle S.A.--Financial Summary (cont.)
+Industry sector: Food and kindred products
+--Fiscal year ended Dec. 31--
+
+DCF/debt (%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(9.9)
+
+(4.9)
+
+21.0
+
+(14.1)
+
+8.7
+
+CHF--Swiss Franc.
+
+Liquidity: Adequate
+The short-term rating is 'A-1+'. We view the liquidity position as adequate, with sources covering uses by more than
+1.2x over the next six months. The amount of short-term commercial paper has significantly increased over the past
+months. However, Nestlé is highly free cash flow generative and we believe it will retain easy access to long-term
+capital markets and a large pool of banks. It also holds a large stake in L'Oreal, worth €32 billion, or CHF29.5 billion,
+as of Sept. 10, 2019 which it could use to raise cash quickly if needed. We have not factored the CHF10.2 billion
+disposal of skin health into our calculations because the group has not yet decided on the allocation of the proceeds.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• CHF5.0 billion of cash balances and short-term
+investments as of June 30, 2019
+
+• About CHF19 billion of debt within one year with a
+large majority being commercial paper
+
+• €4.5 billion equivalent of undrawn committed
+revolving credit facility maturing in more than one
+year
+
+• Estimated maintenance capex of CHF3.0 billion
+annually
+
+• €6.5 billion equivalent undrawn committed
+revolving credit facility maturing in November 2019
+that has a one-year extension at Nestlé's control
+
+• Projected cash dividends CHF7.5 billion of 2020
+• Projected CHF2 billion of share buybacks in 2019
+under the current program
+
+• Projected CHF15 billion-CHF16 billion of cash funds
+from operations in the coming 12 months
+
+Debt maturitiesat June 30, 2019
+• 2019: About CHF16 billion, with a large majority being commercial paper
+• 2020: CHF3.25 billion
+• 2021: CHF4.125 billion
+• 2022: CHF3.0 billion
+• 2023 and beyond: CHF16.6 billion
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+Nestlé S.A.
+
+Issue Ratings--Subordination Risk Analysis
+Capital structure
+Most of the long-term debt instruments are issued by either by top holding company Nestlé SA, intermediary holdings
+companies like Nestlé Holdings Inc., or group financing vehicles like Nestlé Finance International.
+
+Analytical conclusions
+We rate the Nestlé group's long-term senior unsecured debt 'AA-', in line with the issuer credit rating. This is because
+there is limited structural subordination as total secured debt and debt held at operating companies are well below the
+50% criteria threshold.
+
+Other Credit Considerations
+The rating is one notch lower than our 'aa' anchor score to reflect our view that the increase in share buybacks
+payments since 2017 translates into adjusted debt leverage standing at the upper end of 1.5x-2.0x range.
+
+Environmental, Social, And Governance
+
+Nestlé has moderate exposure to environmental, social, and governance factors like plastic packaging waste, water
+scarcity, and food safety. Food safety issues can have an immediate, high-impact on a particular brand and
+regional market.
+Demand for a product or brand could drop sharply if consumers no longer trust product quality, while traceability
+is becoming an increasingly important factor in consumer purchases. In April 2015, a government laboratory in
+India said it had detected lead levels above permissible limits, as well as MSG, in a sample of Nestlé's Maggi
+noodles. Nestlé India and other independent accredited laboratories subsequently performed several tests showing
+the product was safe. Given growing consumer confusion, Nestlé India temporarily stopped selling Maggi noodles
+in June 2015 until the situation was resolved. In November 2015, Maggi noodles returned to shelves, and Nestlé
+avoided long-term reputational damage.
+For packaging waste, governments could enforce more stringent recycling rules, which would mean higher
+operating costs if Nestlé has to pay to collect and recycle waste. To tackle this, Nestlé committed to make 100% of
+its plastic packaging recyclable or reusable by 2025. It also plans to eliminate nonrecyclable plastics. Nestlé uses
+large quantities of water to bottle beverages and water. Given greater water scarcity in many regions, the group
+could have higher operating costs to source water.
+We view Nestlé's management and governance as strong, reflecting management's ability to grow profitably and
+the board's balanced composition. Gender diversity is also a focus for the group; women hold about 43% of
+management roles. The company aims for women to hold 30% of the top 200 senior management roles by 2022,
+versus 20% currently.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 14
+
+Nestlé S.A.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Nestle S.A. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. CHF)
+--Fiscal year ended Dec. 31, 2018-Nestle S.A. reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+40,394.0
+
+57,363.0
+
+18,924.0
+
+13,752.0
+
+820.0
+
+18,900.0
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3,623.0)
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported
+S&P Global Ratings' adjustments
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(684.0)
+
+3,215.6
+
+--
+
+(181.0)
+
+(181.0)
+
+151.0
+
+--
+
+(9,786.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+140.0
+
+--
+
+--
+
+--
+
+Dividends received from equity
+investments
+
+--
+
+--
+
+703.0
+
+--
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+--
+
+1,128.0
+
+--
+
+--
+
+Noncontrolling interest/minority
+interest
+
+--
+
+1,040.0
+
+--
+
+--
+
+--
+
+--
+
+217.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(686.0)
+
+(686.0)
+
+--
+
+--
+
+(6,353.3)
+
+1,040.0
+
+(24.0)
+
+261.0
+
+151.0
+
+(4,307.0)
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+34,040.7
+
+58,403.0
+
+18,900.0
+
+14,013.0
+
+971.0
+
+14,593.0
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Debt: Fair value adjustments
+EBITDA: Gain/(loss) on disposals
+of PP&E
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+CHF--Swiss Franc.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+AA-/Stable/A-1+
+
+Business risk: Excellent
+
+• Country risk: Intermediate
+• Industry risk: Low
+• Competitive position: Excellent
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 15
+
+Nestlé S.A.
+
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: aa
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria | Corporates | Industrials: Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 16
+
+Nestlé S.A.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 26, 2019)*
+Nestle S.A.
+Issuer Credit Rating
+
+AA-/Stable/A-1+
+
+Issuer Credit Ratings History
+28-Jun-2017
+
+AA-/Stable/A-1+
+
+16-Aug-2007
+
+AA/Stable/A-1+
+
+12-Apr-2006
+
+AAA/Stable/A-1+
+
+Related Entities
+Nestle Capital Canada Ltd.
+Issuer Credit Rating
+Foreign Currency
+
+--/--/A-1+
+
+Nestle Holdings Inc.
+Issuer Credit Rating
+
+AA-/Stable/A-1+
+
+Nestle Purina PetCare Co.
+Senior Unsecured
+
+AA-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 18
+
+

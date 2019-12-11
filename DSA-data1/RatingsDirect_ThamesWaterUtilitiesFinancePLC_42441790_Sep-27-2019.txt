@@ -1,0 +1,1630 @@
+Thames Water Utilities Finance PLC
+Primary Credit Analyst:
+Matan Benjamin, London (44) 20-7176-0106; matan.benjamin@spglobal.com
+Secondary Contacts:
+Julien Bernu, London + 442071767137; Julien.Bernu@spglobal.com
+Beatrice de Taisne, CFA, London (44) 20-7176-3938; beatrice.de.taisne@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Structural Features
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 2
+
+Thames Water Utilities Finance PLC
+Issue Ratings
+Class A
+
+BBB+/Negative
+
+Class B
+
+BBB-/Negative
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Focus on low-risk regulated water and wastewater monopoly activities
+in Greater London and the Thames Valley, two of the most affluent and
+economically stable regions in the U.K.
+
+Very limited financial headroom and flexibility owing to high debt
+leverage.
+
+Transparent, credit-supportive U.K. water regulatory framework ruled
+by the regulator Ofwat results in relatively high predictability during
+regulatory periods.
+
+High regulatory reset risk from 2020, as the cost of capital is likely to be
+lower, and earnings will increasingly depend on operating performance,
+where Thames lags peers.
+
+Various structural features designed to increase cash flow certainty for
+debt holders.
+
+Below-sector-average operating performance in recent years, and high
+regulatory scrutiny.
+
+Largest water company in the U.K.
+
+The company faces a high regulatory reset risk following assessment by the U.K regulator. Thames Water Utilities
+Finance PLC (Thames Water) is in the U.K. Water Services Regulation Authority's (Ofwat's) "significant scrutiny"
+category, as part of Ofwat's initial assessment of the company's business plan for the 2019 price review (PR19). Ofwat
+believes that Thames Water's plan falls considerably short in terms of cost efficiency, resilience, and delivery track
+record. The regulator published a draft PR19 determination in July 2019, which is due to be finalized in December
+2019. Thames Water has submitted its response to the draft determination, in which it disagrees with a number of
+elements in the regulator's proposed plan, including the costs of capital, total expenditure (totex) allowance, and
+several performance commitments. Thames Water also expressed its concern about the implications of the draft plan
+for the company, its customers, and other stakeholders, and has proposed alternative inputs which it believes to be
+well balanced.
+We anticipate a challenge for Thames Water in meeting Ofwat's targets amid reduced allowed costs. In its draft
+determination, Ofwat has set high targets on operating parameters, while lowering allowed costs. We think it would be
+challenging for Thames to meet new targets with costs lower than previously proposed, particularly because it already
+lags peers.
+In the draft determination, Ofwat has:
+• Set the likely range of returns from the outcome delivery incentive package equal to a return on regulatory equity
+range of -3.27% to +0.53%. We view the skew toward the downside as material risk, given the below-average
+operating performance in the current asset management period (AMP);
+• Updated the cost of capital to 2.1% (based on a 3% retail price index [RPI]), a reduction of 0.21% from the early
+guidance that was set out in the PR19 methodology;
+• Cut average bills by 9.8% in real terms in the 2020-2025 period, compared with the company's proposed 2.4%
+reduction;
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 3
+
+Thames Water Utilities Finance PLC
+
+• Reduced Thames Water's total expenditure costs by 15.7% (around £1.73 billion) compared with the previous
+regulatory period; and
+• Stretched targets for key performance commitments, such as a 25% reduction in the annual level of leakage by 2025
+from the 2019-2020 level, and a 30% reduction in pollution incidents by 2024-2025.
+Thames Water has incurred penalties following below-sector-average operating performance in recent years.The
+company's performance in terms of customer service and belowground asset maintenance has led to extensive
+regulatory penalties, partly due to extraordinary weather conditions. Thames Water also missed targets on leakage and
+asset health indicators. Overall, in fiscal 2018-2019, the company has incurred a penalty of £51.6 million. As chart 1
+shows, Thames Water has had penalties every year in recent years.
+Chart 1
+
+Financial results for 2018-2019 were hit by lower consumption volumes, steeper employee costs and penalties. Thames
+Water reported lower margins than our expectations, generally reflecting higher employee costs. The results were also
+affected by Thames Water's decision on an early return of £40.3 million of Outcome Delivery Incentive (ODI) penalties
+to customers. Dividends and capital expenditure (capex) spend for 2018-2019 was in line with our expectations.
+Overall, credit metrics remain subdued, with the ratio of funds from operations (FFO) to debt at 4% on a consolidated
+basis (class A plus class B debt) and 4.7% for class A only, compared with our target of about 6% based on senior debt
+only, and about 5% based on senior and subordinated debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 4
+
+Thames Water Utilities Finance PLC
+
+Outlook
+
+Our negative outlook on debt issued by Thames Water Utilities Finance PLC reflects our concern that the
+company will struggle to maintain the FFO-to-debt levels we view as commensurate with the ratings (about 6%
+based on senior debt only, and about 5% based on senior and subordinated debt), given the below-average
+operational performance and recurring operational failures. The negative outlook also reflects a very high
+regulatory reset risk and our expectations of further pressure as the company enters the next regulatory period in
+April 2020, in light of a lack of financial headroom today.
+
+Downside scenario
+We could lower the ratings if FFO to debt remains below the level we see as commensurate with the current
+ratings (about 5% for class B and about 6% for class A debt) and/or deterioration in EBITDA to interest cover ratio
+to below 1.5x. A downgrade could also come from adverse impact from regulatory intervention and/or a
+challenging outcome from the new regulatory review if we felt the company would not be able to maintain
+sufficient headroom under its financial covenants.
+
+Upside scenario
+We would revise the outlook on the ratings to stable if Thames Water financial risk profile successfully recovers
+more headroom and continues to improve its operational performance, and if we anticipate that Thames Water
+can sustain a weighted average FFO-to-debt ratio of about 5% on average for its consolidated debt and about 6%
+on its class A debt. The group could achieve this through supportive regulatory outcome, modification of its
+financial policy, cost outperformance, and by improving profitability.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 5
+
+Thames Water Utilities Finance PLC
+
+Assumptions
+
+• RPI assumptions as per our in-house projections.
+We forecast RPI inflation in the U.K. of 2.7% in
+2020, 3.1% in 2021 and 3.6% in 2022.
+• Low-single-digit growth in revenues for 2020 and in
+AMP7 (starting April 2020). This is driven by a
+combination of real price declines and our RPI
+assumption.
+• EBITDA margins of 50%-55% in our projected
+period as compared with 48% in the year ending
+March 31, 2019, reflecting ongoing efficiency
+measures.
+
+Key Metrics
+
+2019A
+
+2020E
+
+2021E
+
+Revenue (bil. £)
+
+2.0
+
+2.1-2.2 2.1-2.2
+
+EBITDA (bil. £)
+
+0.97
+
+1.1-1.2 1.2-1.3
+
+FFO to debt (%)
+
+4.0
+
+4.0-5.0 4.0-5.0
+
+EBITDA interest coverage (x)
+
+1.9
+
+1.5-2.5 1.5-2.5
+
+FOCF to debt (x)
+
+(3) (3.5)-(1.5)
+
+(5)-(3)
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Focus on the improvement of key performance
+areas such as leakage, metering, and strengthening
+of the network, with capex of about £800
+million-£900 million per year in 2020, and £1,300
+million per year in AMP7.
+• Reduced dividend payments of about £50
+million-£60 million for the rest of the regulatory
+period.
+
+Base-Case Projections
+• Average FFO to debt of 5% on a consolidated level, and 5.5% for class A debt in our projected period.
+• EBITDA-to-interest ratio of 1.9x-2.3x in our projected period.
+• Reduction in overall leverage so that unadjusted debt to regulatory capital value (RCV) reduces below 80% at the
+end of the next regulatory period.
+• Negative free operating cash flow due to high capex until the end of AMP7.
+
+Company Description
+Thames Water is the U.K.'s largest water and sewerage company, with RCV of £14.3 billion on March 31, 2019.
+Thames Water serves 15 million customers and about 25% of the population of England and Wales, generating
+EBITDA of around £1 billion annually. We rate the debt issued by Thames Water. Thames Water has implemented a
+process whereby it closed its offshore finance subsidiaries and replaced them with a U.K.-based entity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 6
+
+Thames Water Utilities Finance PLC
+
+Chart 2
+
+Business Risk
+The U.K. regulatory framework supports cash flow predictability and stability.
+Our assessment of Thames Water's business risk as excellent reflects the stable and predictable revenue and cash flow
+streams from the low-risk regulated water and waste water businesses, its natural monopoly position in its service
+area--Greater London and the Thames Valley--and a generally supportive and transparent regulatory framework. We
+consider that the U.K. water regulatory framework, which is designed and monitored by Ofwat, supports the industry,
+given its transparency and stability (see
+Why We See The Regulatory Frameworks For U.K. Utilities As Supportive
+, published Sept. 26, 2017).
+
+Thames Water lags peers in operating performance.
+Although the company benefits from a stable and predictable regulatory framework, its operational performance was
+below industry average over the past few years. The poor operating performance of its belowground water assets led
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 7
+
+Thames Water Utilities Finance PLC
+
+to the company failing its leakage target for 2019 and to a number of consumer interruptions, resulting in overall
+penalties of £51.7 million in 2018-2019. Customer service measures also remain below the sector average, while recent
+operating issues led to exceptional negative public comments by Ofwat. We note that recent performance was affected
+by extraordinary weather conditions.
+
+AMP7 brings a high regulatory reset risk and tougher operating conditions.
+Like all U.K. water companies, Thames Water is exposed to regulatory reset risk every five years, as well as occasional
+policy updates proposed by the regulator or the government. Reset risk is currently very high as the end of AMP6
+nears and Ofwat's review process for the next regulatory period reaches its final stages. In its final methodology
+publication, Ofwat revealed that although it proposes to offer companies greater scope to increase earnings through
+incentives, it also intends to impose greater penalties on inefficient operators (see
+New Ofwat Regulations Will Keep U.K. Water Utilities On Their Toes
+, published Jan. 30, 2018). The proposed shift could represent an opportunity for higher rewards, but also brings the
+risk of higher penalties. Looking at the current operating performance of Thames Water, higher penalties could impair
+its financials.
+Chart 3
+
+Peer comparison
+Thames Water is the biggest water and sewerage utility among all the peers based on RCV as of March 31, 2019. We
+mainly compare Thames Water with other structurally enhanced debt companies that operate in England and Wales.
+Thames Water's senior debt and subordinated debt tranches are rated one notch below those of these peers (namely at
+'BBB+' and 'BBB-' against typically 'A-' and 'BBB'). These peers also have excellent business risk profiles, but tend to
+have better operational performance than Thames Water, particularly in terms of customer services. Thames Water's
+operating issues lead to lower profitability, as a result of which it maintains a financial risk profile weaker than its peers.
+Debt to RCV of Thames Water on a consolidated level is one of the highest in the sector.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 8
+
+Thames Water Utilities Finance PLC
+
+Thames Water--along with three other water companies--is placed in a "significant scrutiny" category, which means it
+had to substantially rework and resubmit plans, as well as facing increased regulatory scrutiny.
+Table 1
+
+Thames Water Utilities Finance PLC--Peer Comparison
+Industry Sector: Water
+Thames Water
+Utilities Finance
+PLC
+
+Anglian Water
+Services Financing
+PLC
+
+Dwr Cymru
+(Financing) Ltd.
+
+Yorkshire Water
+Services Finance
+Ltd.
+
+Southern Water
+Services (Finance)
+Ltd.
+
+--Fiscal year
+ended March 31,
+2019--
+
+--Fiscal year ended
+March 31, 2018--
+
+--Fiscal year ended
+March 31, 2019--
+
+--Fiscal year ended
+March 31, 2018--
+
+--Fiscal year ended
+March 31, 2018--
+
+Revenue
+
+2,036.9
+
+1,248.9
+
+781.6
+
+1,026.7
+
+829.7
+
+EBITDA
+
+969.5
+
+663.4
+
+361.7
+
+571.2
+
+498.0
+
+Funds from operations
+(FFO)
+
+482.8
+
+268.5
+
+183.9
+
+297.0
+
+370.1
+
+Interest expense
+
+515.3
+
+362.9
+
+184.6
+
+268.0
+
+248.6
+
+Cash interest paid
+
+379.3
+
+234.9
+
+132.7
+
+288.7
+
+28.9
+
+Cash flow from
+operations
+
+717.9
+
+370.6
+
+233.7
+
+438.0
+
+438.0
+
+(Mil. £)
+
+Capital expenditure
+
+1,079.7
+
+406.0
+
+403.0
+
+394.2
+
+372.9
+
+Free operating cash flow
+(FOCF)
+
+(361.8)
+
+(35.4)
+
+(169.3)
+
+43.7
+
+65.1
+
+Discretionary cash flow
+(DCF)
+
+(421.8)
+
+(1,786.8)
+
+(169.3)
+
+(179.3)
+
+(18.6)
+
+154.4
+
+287.1
+
+501.1
+
+38.5
+
+164.4
+
+12,167.6
+
+6,067.0
+
+3,340.6
+
+4,899.9
+
+3,855.0
+
+2,787.1
+
+1,217.4
+
+1,233.6
+
+1,147.7
+
+1,205.4
+
+EBITDA margin (%)
+
+47.6
+
+53.1
+
+46.3
+
+55.6
+
+60.0
+
+Return on capital (%)
+
+2.8
+
+4.3
+
+1.6
+
+4.7
+
+4.8
+
+EBITDA interest
+coverage (x)
+
+1.9
+
+1.8
+
+2.0
+
+2.1
+
+2.0
+
+FFO cash interest
+coverage (x)
+
+2.3
+
+2.1
+
+2.4
+
+2.0
+
+13.8
+
+Debt/EBITDA (x)
+
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+
+12.6
+
+9.1
+
+9.2
+
+8.6
+
+7.7
+
+FFO/debt (%)
+
+4.0
+
+4.4
+
+5.5
+
+6.1
+
+9.6
+
+Cash flow from
+operations/debt (%)
+
+5.9
+
+6.1
+
+7.0
+
+8.9
+
+11.4
+
+FOCF/debt (%)
+
+(3.0)
+
+(0.6)
+
+(5.1)
+
+0.9
+
+1.7
+
+DCF/debt (%)
+
+(3.5)
+
+(29.5)
+
+(5.1)
+
+(3.7)
+
+(0.5)
+
+N.M.--Not meaningful.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 9
+
+Thames Water Utilities Finance PLC
+
+Financial Risk
+The company has limited financial headroom and flexibility due to its high debt leverage. Over the past few years,
+Thames Water's management has taken measures to improve its operations and meet regulatory standards over the
+remainder of the current regulatory period (ending March 31, 2020), which will require additional investment and
+operating expenses. The group is cutting its dividend payments to finance the additional operating expense and capital
+expenditure. As a result, cash flow metrics will remain weak in 2020, and we expect that Thames Water's FFO-to-debt
+ratios will remain at about 4%-5% based on consolidated class A (senior) and class B debt (subordinated), and 5%-6%
+based on class A debt only.
+We distinguish between the financing group's senior debt and subordinated debt, because we think that the
+subordinated debt has a higher probability of default than the senior debt. This is due to its lower ranking in the
+payment waterfall and the deferral of interest and principal in case of insufficient funds (please refer to the Structural
+Features section below for more details).
+We expect to see further pressure when the company enters the next regulatory period in April 2020. Ofwat's most
+recent guidance indicates that from April 2020, water companies' allowed cost of capital will reduce from about 3.6%
+in real terms to 2.1%, at an assumed RPI rate of 3%. This reflects Ofwat's recent lowering of its weighted average cost
+of capital guidance compared with its initial guidance in December 2017 with indication for a further reduction at final
+determination. In addition, Ofwat is introducing more rigorous benchmarks on cost efficiencies and service
+performance. We note that in the response it published, Thames Water has proposed a weighted average cost of
+capital of about 40 basis points higher compared with the guidance by the regulator under the draft determination.
+Potentially offsetting the current tight headroom, we note Thames Water's commitment to reducing leverage over the
+current and the next regulatory period. Thames Water's business plan includes reducing gearing toward 77% by 2025,
+thanks to lower dividends and better operational performance. This should alleviate the pressure on Thames Water's
+financial profile to some extent.
+
+Significant increase in capex owing mostly to environmental factors:
+Thames Water had planned totex of £10.99 billion, but Ofwat has reduced this to £9.26 billion in its draft
+determination. In the response to the draft determination, Thames Water has adjusted totex program to about £10
+billion, removing significant amounts of longer-term resilience spend.
+In addition, Thames Water was allowed up to £179 million by Ofwat to evaluate potential strategic regional water
+resource solutions, in partnership with others, including the River Severn to River Thames transfer scheme and the
+strategic Abingdon Reservoir.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 10
+
+Thames Water Utilities Finance PLC
+
+Table 2
+
+Thames Water Utilities Finance PLC--Financial Summary
+Industry Sector: Water
+--Fiscal year ended March 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+2,036.9
+
+2,016.3
+
+2,027.1
+
+2,039.5
+
+1,990.2
+
+EBITDA
+
+969.5
+
+971.6
+
+1,065.7
+
+1,116.8
+
+1,117.5
+
+Funds from operations (FFO)
+
+482.8
+
+410.6
+
+635.0
+
+729.8
+
+751.6
+
+Interest expense
+
+515.3
+
+565.5
+
+471.8
+
+406.0
+
+392.7
+
+Cash interest paid
+
+379.3
+
+414.3
+
+432.9
+
+387.0
+
+365.0
+
+Cash flow from operations
+
+717.9
+
+739.0
+
+702.2
+
+885.5
+
+924.7
+
+Capital expenditure
+
+1,079.7
+
+1,062.5
+
+1,170.9
+
+1,175.3
+
+1,218.9
+
+Free operating cash flow (FOCF)
+
+(361.8)
+
+(323.5)
+
+(468.7)
+
+(289.8)
+
+(294.2)
+
+60.0
+
+55.0
+
+157.0
+
+82.4
+
+169.9
+
+(421.8)
+
+(378.5)
+
+(625.7)
+
+(372.2)
+
+(464.1)
+
+Cash and short-term investments
+
+154.4
+
+110.3
+
+53.7
+
+812.0
+
+790.7
+
+Gross available cash
+
+154.4
+
+110.3
+
+53.7
+
+812.0
+
+790.6
+
+12,167.6
+
+11,524.5
+
+10,990.0
+
+10,220.5
+
+9,890.5
+
+(Mil. £)
+
+Dividends paid
+Discretionary cash flow (DCF)
+
+Debt
+Equity
+
+2,787.1
+
+3,147.4
+
+2,923.8
+
+3,113.7
+
+2,603.4
+
+14,954.7
+
+14,671.9
+
+13,913.8
+
+13,334.2
+
+12,493.9
+
+EBITDA margin (%)
+
+47.6
+
+48.2
+
+52.6
+
+54.8
+
+56.2
+
+Return on capital (%)
+
+2.8
+
+3.1
+
+4.0
+
+5.0
+
+5.6
+
+EBITDA interest coverage (x)
+
+1.9
+
+1.7
+
+2.3
+
+2.8
+
+2.8
+
+FFO cash interest coverage (x)
+
+2.3
+
+2.0
+
+2.5
+
+2.9
+
+3.1
+
+12.6
+
+11.9
+
+10.3
+
+9.2
+
+8.9
+
+FFO/debt (%)
+
+4.0
+
+3.6
+
+5.8
+
+7.1
+
+7.6
+
+Cash flow from operations/debt (%)
+
+5.9
+
+6.4
+
+6.4
+
+8.7
+
+9.3
+
+FOCF/debt (%)
+
+(3.0)
+
+(2.8)
+
+(4.3)
+
+(2.8)
+
+(3.0)
+
+DCF/debt (%)
+
+(3.5)
+
+(3.3)
+
+(5.7)
+
+(3.6)
+
+(4.7)
+
+Debt and equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+Liquidity
+We assess Thames Water financing group's liquidity position as adequate, supported by our view that its liquidity
+resources will exceed its funding needs by more than 1.2x in the next 12 months as of March 31, 2019. We also
+anticipate that the company will maintain a sound relationship with banks, a good standing in credit markets, and
+prudent risk management.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 11
+
+Thames Water Utilities Finance PLC
+
+Chart 4
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We estimate Thames Water's liquidity sources over the
+12 months from March 31, 2019, as follows:
+
+We anticipate the following liquidity uses over the 12
+months from March 31, 2019:
+
+• Unrestricted cash and short-term investments of
+£155 million.
+
+• Upcoming maturities of approximately £400 million
+(excluding amounts drawn under the revolving
+credit facility, which can be rolled over until 2022).
+
+• Access to £1,187 million undrawn credit facilities
+expiring in 2023. We exclude from our analysis £400
+million debt service reserve (DSR) and £150 million
+operation and capital maintenance reserves in
+364-day facilities.
+
+• Expected capital spending of approximately £975
+million.
+• Dividend payments of about £60 million.
+
+• FFO of about £660 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 12
+
+Thames Water Utilities Finance PLC
+
+Covenant Analysis
+As explained below in the Structural Features section, Thames Water needs to comply with a number of covenants.
+These include:
+• Restrictions on mergers, acquisitions, and asset disposals, and share pledges in the operating and holding
+company's assets (to the extent allowed by legislation) and shares;
+• Dividend-restricted and debt-restricted payment conditions and dedicated liquidity facilities that should, in our
+opinion, allow the financing group to manage temporary cash flow shocks; and
+• The implementation of an automatic 18-month standstill period after breaching a debt restriction covenant
+(commonly called event of default). During this period, secured creditors are (with certain limited exceptions)
+prevented from taking any enforcement action or accelerate liabilities. However, they are allowed to enforce their
+pledge (subject to a vote by majority of the class A creditors or class B if no class A debt is outstanding) of the 100%
+of the shares in TWUL held through Thames Water Utilities Holding Ltd. (TWUHL) through a sale.
+In particular, financial covenants include:
+• A distribution lock-up, which would be triggered if the class A regulated asset-to-debt ratio were greater than 75%
+and 85% (consolidated) or if drawings under the DSR or operating and maintenance facilities occur.
+• An event of default, if the operating company's senior debt-to-RCV ratio reaches 95% or if the adjusted interest
+coverage ratio based on consolidated debt is below 1.1x. Once an event of default has occurred, an automatic
+standstill of claims takes effect, and no enforcement action can be taken by creditors for 18 months.
+We expect that the financing group will remain compliant with its financial covenants. The class A debt-to-RCV ratio is
+expected to decline toward 70% at the end of the next regulatory period, and consolidated debt to RCV towards 77%.
+Interest cover ratios are also expected to remain well above covenant levels.
+Table 3
+
+Thames Water Key Covenants
+Actual performance March 31,
+2019
+
+Forecast performance March 31,
+2020 Trigger events
+
+Events of
+default
+
+Class A debt to RCV (%)
+
+73.5
+
+73.2
+
+75
+
+Total debt to RCV (%)
+
+82.2
+
+80.1
+
+90
+
+95
+
+Class A adjusted ICR (x)
+
+1.8
+
+1.6
+
+1.3
+
+1.1
+
+Total debt adjusted ICR (x)
+
+1.6
+
+1.5
+
+1.1
+
+-
+
+Class A average adjusted
+ICR(x)
+
+1.8
+
+1.8
+
+1.4
+
+-
+
+Total debt average adjusted
+ICR (x)
+
+1.5
+
+1.5
+
+1.2
+
+-
+
+Class A ICR (x)
+
+3.4
+
+3.3
+
+1.6
+
+RAR--Regulatory asset ratio. ICR--Interest coverage ratio.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 13
+
+Thames Water Utilities Finance PLC
+
+Other Credit Considerations
+We consider that the class A stand-alone credit profile (SACP) benefits from stronger cash flow coverage ratios
+(1.0%-1.5%) for senior debt only, compared with consolidated metrics due to the cushion of subordinated debt and the
+better positioning of senior creditors in terms of security enforcement and decision-making power. This leads to an
+uplift to Thames Water's senior SACP.
+
+Structural Features
+The financing group operates under a number of financial and nonfinancial covenants that support the group's overall
+credit quality. We rate the debt issued by TWUF with our criteria Rating Structurally Enhanced Debt Issued By
+Regulated Utilities And Transportation Infrastructure Businesses, published on Feb. 24, 2016. TWUF issues two types
+of debt, senior (class A) and subordinated (class B). We analyze the group in two steps because we assess the
+subordinated debt as having a greater risk of default than the senior debt. This is because the subordinated debt would
+be paid after the senior debt, has no claim on the security until the senior debt is paid, and its default could not cause
+the senior debt to default.
+• Class A debt is rated 'BBB+' based on credit metrics excluding the subordinated debt, and including one notch of
+uplift for various structural features, in particular the additional protection from the deferral of the subordinated debt
+interest and principal if the financing group had insufficient cash to make the payments due.
+• Class B debt is rated 'BBB-' based on credit metrics including senior and subordinated debt.
+The various structural features of the transaction are designed to increase cash flow certainty for debtholders,
+including restricted payment conditions and a covenanted liquidity structure that should, in our opinion, enable TWUF
+to manage temporary cash flow shocks. In particular, debtholders benefit from:
+• Ring-fencing of the group, which is achieved through TWUF's special-purpose status, significant independent
+representation on the Thames Water Utilities PLC board (five of the 14 members), and some business, legal, and
+regulatory restrictions;
+• Three levels of financial covenants (a restricted payment condition, trigger events, and events of default) and an
+automatic 18-month standstill period after an event of default. These provide creditors with significant control of
+TWUF at an early stage of financial or operational difficulty or following material changes in business
+circumstances. The covenants minimize the probability of default and create an additional credit cushion;
+• Liquidity facilities of £550 million available to cover a standstill, provided by suitably rated counterparties. These
+facilities are sufficient to cover finance charges, and dedicated to drawings if the company enters a standstill. The
+facilities remain undrawn; and
+• A strong covenant package, including limitations on additional debt, a defined cash waterfall of payments giving
+senior debt priority, a minimum level of financial performance, and restrictions on distributions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 14
+
+Thames Water Utilities Finance PLC
+
+Table 4
+
+Thames Water Utilities Finance PLC--Transaction Key Features
+Collateral
+
+Fixed and floating charges over all assets
+
+Country of origination
+
+U.K.
+
+Financial covenants
+
+Class A ICR less than 1.6x; class A adjusted ICR less than 1.1x; senior RAR greater than 95%
+
+Trigger events
+
+Senior RAR greater than 90%; class A RAR greater than 75%; class A adjusted ICR less than 1.3x; senior adjusted
+ICR less than 1.1x; class A average adjusted ICR less than 1.4x; senior average adjusted ICR less than 1.2x
+
+Restricted distribution
+conditions
+
+Senior RAR greater than 85%
+
+Liquidity facility size (mil.
+£)
+
+550
+
+Revolving credit facility
+(bil. £)
+
+1.65
+
+ICR--Interest cover ratio. RAR--Regulated asset ratio.
+
+Environmental, Social, And Governance
+
+Thames Water, along with other water companies in the U.K., has historically come under public pressure for
+mishandling environmental, social, and governance-related risks by underinvesting in aging assets and paying
+perceived excessive dividends, ultimately underperforming in its key social duty of providing quality water
+services. In response to ongoing political pressure and negative press coverage, Thames Water has closed its
+Cayman finance subsidiaries and replaced them with a U.K.-based entity. While we believe this is neutral to the
+company's overall credit quality, we expect it to reduce the complexity of its capital structure and enhance
+organization and reporting transparency. In addition, Thames Water has taken many proactive steps recently
+including strengthening its board's independence and significantly cutting dividends, mitigating some governance
+risks.
+The U.K. water regulatory framework incorporates operational guidance for including environmental efforts. Our
+negative outlook on Thames Water reflects to some extent that, despite its substantial proactive measures to
+improve operating performance, the company has continued to miss several of its regulatory targets. These relate
+to leakages, belowground water-asset health, supply interruptions, and security of supply. In this respect, we
+believe Thames Water's operating performance lags those of other U.K.-regulated water companies.
+
+Reconciliation
+Thames Water reports under International Financial Reporting Standards. We make a number of adjustments to
+Thames Water's reported figures. The main adjustments in the year ending March 31, 2019 are as follows:
+• Deconsolidation: We deduct £47.5 million from revenues and £47.2 million from EBITDA and operating income
+related to costs to Bazalgette Tunnel Ltd. to fund construction of the Thames Tideway Tunnel.
+• Surplus cash: We deduct from debt £154.4 million cash that we consider unrestricted and surplus as defined by our
+criteria.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 15
+
+Thames Water Utilities Finance PLC
+
+• Operating leases: We add £72.2 million to debt, representing the present value of future minimum lease payments,
+using a discount factor of 7%.
+• Postretirement benefit obligations: We add to debt £251.5 million of postretirement benefit obligations.
+Table 5
+
+Reconciliation Of Thames Water Utilities Finance PLC Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. £)
+--Fiscal year ended March 31, 2019-Thames Water Utilities Finance PLC
+reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Debt
+
+Revenue
+
+EBITDA
+
+Operating
+income
+
+11,781.8
+
+2,084.4
+
+1,046.5
+
+501.2
+
+394.3
+
+969.5
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(273.8)
+
+Cash interest paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+8.9
+
+S&P Global Ratings' adjustments
+
+Operating leases
+
+72.2
+
+--
+
+10.4
+
+5.1
+
+5.1
+
+(5.1)
+
+251.5
+
+--
+
+13.0
+
+13.0
+
+6.6
+
+--
+
+(154.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+109.3
+
+(109.3)
+
+Deconsolidation/consolidation
+
+--
+
+(47.5)
+
+(47.2)
+
+(47.2)
+
+--
+
+2.8
+
+Nonoperating income (expense)
+
+--
+
+--
+
+--
+
+1.6
+
+--
+
+--
+
+Reclassification of interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+222.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Postretirement benefit
+obligations/deferred compensation
+Accessible cash and liquid investments
+
+Debt: Fair value adjustments
+Debt: Other
+
+(5.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on disposals of
+PP&E
+
+--
+
+--
+
+7.0
+
+7.0
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+(60.2)
+
+(60.2)
+
+--
+
+--
+
+Funds from operations: Other
+Total adjustments
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(110.1)
+
+385.8
+
+(47.5)
+
+(77.1)
+
+(80.7)
+
+121.0
+
+(486.6)
+
+Debt
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+12,167.6
+
+2,036.9
+
+969.5
+
+420.5
+
+515.3
+
+482.8
+
+S&P Global Ratings' adjusted
+amounts
+
+Ratings Score Snapshot
+Class A Issue Rating: BBB+/Negative
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 16
+
+Thames Water Utilities Finance PLC
+
+Business risk: Excellent
+• Country risk: Low
+• Industry risk: Very Low
+• Competitive position: Strong
+Financial risk: Highly leveraged
+• Cash flow/Leverage: Highly leveraged
+Anchor: bbbModifiers
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Financial policy: Neutral (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile: bbb
+------Class B Issue Rating: BBB-/Negative
+Business risk: Excellent
+• Country risk: Low
+• Industry risk: Very Low
+• Competitive position: Strong
+Financial risk: Highly leveraged
+• Cash flow/Leverage: Highly leveraged
+Anchor: bbbModifiers
+• Diversification/Portfolio effect: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 17
+
+Thames Water Utilities Finance PLC
+
+• Capital structure: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Financial policy: Neutral (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile: bbb-
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | Utilities: Rating Structurally Enhanced Debt Issued By Regulated Utilities And
+Transportation Infrastructure Businesses, Feb. 24, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Why We See The Regulatory Frameworks For U.K. Utilities As Supportive, Sept. 26, 2017
+• New Ofwat Regulations Will Keep U.K. Water Utilities On Their Toes, Jan. 30, 2018
+• Inefficient U.K. Water Utilities Most At Risk From Higher Penalties And Receding Returns, July 17, 2017
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 18
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 19
+
+

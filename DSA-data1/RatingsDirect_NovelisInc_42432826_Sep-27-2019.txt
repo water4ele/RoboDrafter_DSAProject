@@ -1,0 +1,1568 @@
+Novelis Inc.
+Primary Credit Analyst:
+Phalguni Adalja, CFA, Toronto + 1 (416) 507 3212; phalguni.adalja@spglobal.com
+Secondary Contact:
+Jarrett Bilous, Toronto (1) 416-507-2593; jarrett.bilous@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+Novelis Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb-
+
+bbBB-/Stable/NR
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Leading global producer of flat rolled aluminum products provides
+competitive advantages
+
+Pending Aleris acquisition will increase leverage and limit financial
+flexibility
+
+Globally diversified operations and integrated recycling facilities
+contribute to stable profitability
+
+High expenditures this year for new facilities limit discretionary cash
+flow
+
+Established position in growing, higher-margin market for automotive
+applications
+
+Operating results sensitive to highly cyclical and competitive
+aluminum industry conditions
+
+Organic growth initiatives funded with internal cash flow generation
+
+Financial policies of parent, Hindalco (India), could change
+
+Novelis Inc. is the world's largest producer of flat rolled aluminum products and recycler of aluminum.The company
+shipped 3,274 kilotonnes (kt; as of fiscal year 2019 ending March 31, 2019) of rolled aluminum compared with 1,534kt
+(2018) at Constellium N.V. (B/Stable/--) and 1,249kt (2018) at Arconic Inc. (BBB-/Negative/A-3). In our view, the
+company's significant scale, which spans North America, Europe, South America, and Asia, and established market
+position provide competitive advantages that should sustain long-term production. Novelis' customer base includes
+many large multinational customers based primarily in the can and automotive markets, and the company is an
+exclusive supplier to certain global automotive original equipment manufacturers (OEMs).
+Novelis has an established position as an early entrant in the higher-margin automotive market. Increased aluminum
+penetration in the automotive market is driven mainly by efficiency considerations (aluminum is lighter than steel).
+Novelis supplies aluminum sheet for the Ford F-150 platform (the highest selling vehicle globally in 2018); we expect
+automotive shipments will continue to exhibit higher growth and margin prospects relative to its comparably mature
+can business (and increase as a share of Novelis' consolidated sales, which currently account for about 25%).
+Notwithstanding recent and expected slowing in light vehicle sales globally, the company has outsize exposure to
+more aluminum-intensive larger vehicles (such as light trucks and SUVs) and new capacity investments are expected
+to support future growth.
+Pending Aleris acquisition will increase leverage and reduce financial flexibility. The US$2.6 billion acquisition will be
+100% debt financed and is expected to close in late 2019/early 2020 (calendar year). We estimate that by fiscal
+year-end 2021, adjusted debt-to-EBITDA will increase to the mid-4x area, which is commensurate with our issuer
+credit rating on Novelis. However, in our view, there is a degree of uncertainty regarding future earnings and cash flow
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+Novelis Inc.
+
+on a pro forma basis, as well as integration risk. Moreover, the integration will likely take place during the ramp-up of
+new production capacity--automotive finishing facilities in the U.S. and China and can plant expansion in Brazil--which
+poses operating and cost-overrun risks. In our view, the company has limited rating capacity for new debt-financed
+initiatives or materially weaker operating results in the early stages of the Aleris integration.
+Chart 1
+
+Novelis has demonstrated steady improvement in its financial profile over the past several years, but parent ownership
+constrains rating upside. Novelis and its ultimate parent, Hindalco Industries Ltd., have materially reduced leverage in
+recent years, and Novelis has not paid dividends for several years. However, while not expected, dividends paid to
+Hindalco (for example, in the event of sustainably weak operating results) would likely weaken the credit profile of
+Novelis and the combined group.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+Novelis Inc.
+
+Outlook: Stable
+
+We expect Novelis to generate leverage in the mid-4x area in fiscal 2021 following the completion of its planned
+debt-financed Aleris acquisition assumed in late 2019/early 2020 (calendar year). We estimate that prior to closing,
+Novelis will generate steady earnings and margins, with internally generated cash flow sufficient to fund sharply
+higher capital investments for capacity expansion. Over this period, we assume ultimate parent Hindalco maintains
+a commitment to leverage well below historical levels, with no dividends upstreamed from Novelis.
+
+Downside scenario
+We could downgrade the company over the next 12 to 24 months if we expect Novelis' adjusted debt-to-EBITDA
+to increase above 5x or funds from operations (FFO)-to-debt to decline below 12% on a sustained basis. In this
+scenario, we anticipate weaker-than-expected automotive and can market demand fundamentals, leading to lower
+earnings and cash flow that limit the company's ability to internally fund its growth initiatives and reduce leverage
+following its Aleris acquisition.
+
+Upside scenario
+We view an upgrade over the next 12 months as unlikely, particularly given the expected increase in leverage
+following the company's proposed acquisition of Aleris. However, to contemplate an upgrade, we would expect
+Novelis to generate and maintain adjusted debt-to-EBITDA that approaches 3x and FFO-to-debt over 20%. In this
+scenario, a materially higher proportion of shipments to automotive customers (well above 20% for stand-alone
+Novelis) and much improved outlook for Aleris' operating results would likely be required. In addition, a higher
+rating would be contingent on a stronger assessment of Novelis' group credit profile, likely requiring continuing
+earnings and cash flow growth, as well as continued deleveraging at Hindalco.
+
+Our Base-Case Scenario
+We expect Novelis will continue to generate relatively stable credit measures in fiscal 2020 (on a stand-alone basis),
+following solid improvement in fiscal 2019. We estimate its adjusted debt-to-EBITDA ratio in the mid-3x area before
+the closing of the Aleris acquisition (which Novelis now expects in late 2019/early 2020 (calendar year)). Generally
+stable EBITDA and adjusted debt underpin our estimates. We expect an increase in leverage from the debt-funded
+transaction, but assume pro forma adjusted debt-to-EBITDA declines to the mid-4x area by fiscal year-end 2021 and
+further improves in fiscal 2022.
+We assume lower average aluminum prices offset the impact of shipment growth on revenue (aluminum prices are a
+pass-through to the company's customers) and constrain earnings and cash flow growth this year. However, we
+estimate modestly stronger margins, led by healthy demand from its automotive customers-–notably for more
+aluminum-intensive platforms (such as pick-up trucks and SUVs), and for growth to resume next year. Moreover, can
+market conditions have exceeded our expectations in recent quarters, and we believe modest growth (low-single digits
+compared with our previous flat expectations) in this segment will continue at least through this fiscal year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+Novelis Inc.
+
+Prior to deal closing, we assume stable debt levels based on about breakeven free cash flow. The company's capital
+expenditures will sharply increase from last year mainly for automotive (U.S., China) and can (Brazil) capacity
+expansions, funded with internal cash flow generation. In fiscal 2021, we assume cash flow from Aleris and lower
+consolidated capital expenditures will primarily fuel free cash flow generation, and mitigate the impact of the US$2.6
+billion debt-financed Aleris acquisition on Novelis' credit measures.
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+Novelis Inc.
+
+Assumptions
+
+• Steady stand-alone shipment growth (single-digit
+percent year-over-year) in fiscal 2020–-just above
+S&P Global Ratings' assumptions for GDP growth in
+Novelis' core markets--with a growing proportion of
+auto shipments.
+• Aluminum price of US$1,800 per ton (/t) for the rest
+of 2019, US$2,000/t in 2020, and US$2,100/t in
+2021.
+• Slowing growth in global light-vehicle production,
+with a 2%-3% decline in 2019 and only a marginal
+recovery in the next two years, but for Novelis to
+benefit from its high exposure to the more
+aluminum-intensive and higher-growth light truck
+and SUV segments.
+
+Key Metrics
+
+--Fiscal year-end March 31--
+
+Debt-to-EBITDA
+FFO-to-debt
+EBITDA interest coverage
+EBITDA margin
+FOCF-to-debt
+
+2019A
+
+2020E
+
+2021E
+
+3.6x
+
+3.5x-3.7x
+
+Mid-4x
+
+19.70% 17%-20% 15%-18%
+5x
+
+About 5x
+
+About 5x
+
+11.30%
+
+11-12%
+
+10-11%
+
+9.20%
+
+(1%)-1%
+
+2%-5%
+
+A--Actual. E--Estimated. FFO--Funds from operations.
+FOCF--Free operating cash flow. All ratios are S&P
+Global Ratings-adjusted.
+
+• Adjusted EBITDA (stand-alone) of more than
+US$1.3 billion in fiscal 2020 (EBITDA margin in the
+low-11% area) and more than US$1.6 billion in fiscal
+2021 pro forma for Aleris (at a slightly lower
+margin).
+• Sharply higher capital expenditures in fiscal 2020
+mainly related to automotive plant and can
+investments, funded with internally generated cash
+flow, and lower thereafter.
+• Adjusted debt net of 75% of the company's
+estimated cash on hand.
+• Bridge loan used to fund the acquisition is
+refinanced with long-term debt shortly thereafter.
+• Acquisition of Aleris is completed in late 2019/early
+2020 (calendar year) (which remains subject to
+regulatory review), with no material dispositions or
+changes in Novelis' pro forma capital structure
+related to the acquisition.
+
+Company Description
+Novelis is the largest global producer of rolled aluminum products, with geographically well-diversified operations in
+the U.S., Europe, South America, and Asia (24 operating facilities in 10 countries). The company uses primary and
+recycled aluminum mainly to produce sheet used predominantly by producers of food and beverage cans, rolled
+products increasingly for auto applications, and specialty products. In July 2018, Novelis announced its planned
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+Novelis Inc.
+
+acquisition of Aleris International for US$2.6 billion, which is expected to be 100% debt-financed. The company is
+wholly owned by Hindalco (based in India), is headquartered in Atlanta, and employs approximately 11,000.
+Chart 3
+
+Business Risk: Satisfactory
+In our view, the company's significant operating breadth, leading competitive position, and increasing penetration in
+the automotive sector underpin our assessment of its business. The company has long-term relationships with many of
+its large multinational customers, and is an exclusive supplier to certain global automotive OEMs. We believe Novelis'
+globally diversified operations will continue to provide economies of scale and scope, and reduce the company's
+reliance on a specific market. We expect Aleris will strengthen Novelis' business through enhanced scale and added
+exposure to new automotive customers and other, higher-margin segments (such as aerospace).
+We expect Novelis will continue to benefit from the growing penetration of aluminum in automotive applications--a
+trend driven mainly by fuel efficiency considerations. The company has an established position as an early entrant to
+this market; it supplies aluminum sheet for the Ford F-150 platform (the largest selling vehicle globally) and is a key
+supplier to Jaguar Land Rover. Its recent and planned automotive aluminum sheet manufacturing plant expansions in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+Novelis Inc.
+
+the U.S. and China should accommodate future growth from this market (though we expect some short-term volatility).
+Despite a relatively modest share of overall shipments to the automotive sector (and accounted for 25% of sales in
+fiscal first-quarter 2020), we expect a steady increase in the next several years and for this sector to remain a key
+driver of profitability.
+The company's average EBITDA margins and returns on capital have remained above 10% over the past two fiscal
+years, which we view as above average for global metals processors and distributors. We estimate these profitability
+measures to remain relatively stable post-Aleris integration, with limited downside related to commodity market
+volatility. Specifically, the cost of aluminum--which has weakened year-over-year--is largely a pass-through, and
+growing use of recycled aluminum in production (61% of inputs in fiscal 2019 versus 33% in fiscal 2011) affords
+efficiency gains. That said, Novelis remains exposed to metals price lag: Basically, the difference in local market
+premiums between the prices paid for inputs and finished product prices, which the company cannot effectively hedge.
+Our assessment also incorporates the company's exposure to cyclical and competitive aluminum conditions, and
+customer end-market volatility. In addition, can sheet accounts for the majority of Novelis' sales (more than 50% in
+fiscal 2019), with lower growth and margin prospects relative to the majority of Novelis' end markets. However, we
+recognize the relatively recent improvement in can market fundamentals; we believe tighter capacity in most markets
+(excluding China) reflects increasing customer preferences for sustainable packaging, which should support shipment
+growth above our previously flat expectations.
+
+Peer comparison
+Table 1
+
+Novelis Inc. -- Peer Comparison
+Industry Sector: Metals
+
+Ratings as of Aug. 19,
+2019
+
+Novelis Inc.
+
+Constellium N.V.
+
+Alcoa Corp.
+
+Arconic Inc.
+
+BB-/Stable/NR
+
+B/Stable/--
+
+BB+/Stable/--
+
+BBB-/Negative/A-3
+
+--Fiscal year ended
+March 31, 2019--
+
+--Fiscal year ended Dec. --Fiscal year ended Dec.
+31, 2018-31, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+$
+
+€
+
+$
+
+$
+
+Revenue
+
+12,326.0
+
+5,686.0
+
+13,403.0
+
+14,014.0
+
+EBITDA
+
+(Mil. Mix curr.)
+
+1,390.0
+
+513.5
+
+3,001.0
+
+2,034.0
+
+Funds from operations
+(FFO)
+
+976.4
+
+351.2
+
+2,353.9
+
+1,522.7
+
+Cash flow from operations
+
+802.4
+
+105.2
+
+502.9
+
+1,240.7
+
+Capital expenditure
+
+348.0
+
+273.0
+
+385.0
+
+745.0
+
+Free operating cash flow
+(FOCF)
+
+454.4
+
+(167.8)
+
+117.9
+
+495.7
+
+Discretionary cash flow
+(DCF)
+
+454.4
+
+(167.8)
+
+(610.1)
+
+376.7
+
+Cash and short-term
+investments
+
+950.0
+
+146.0
+
+1,113.0
+
+2,277.0
+
+Debt
+
+4,956.3
+
+3,119.8
+
+3,351.6
+
+7,372.6
+
+Equity
+
+1,066.0
+
+(114)
+
+7,394.0
+
+5,548.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+Novelis Inc.
+
+Table 1
+
+Novelis Inc. -- Peer Comparison (cont.)
+Adjusted ratios
+EBITDA margin (%)
+
+11.3
+
+9.0
+
+22.4
+
+14.5
+
+Return on capital (%)
+
+16.7
+
+9.2
+
+20.2
+
+11.5
+
+EBITDA interest coverage
+(x)
+
+5.0
+
+3.5
+
+17.9
+
+4.8
+
+FFO cash interest
+coverage (x)
+
+4.8
+
+3.5
+
+17.8
+
+4.5
+
+Debt/EBITDA (x)
+
+3.6
+
+6.1
+
+1.1
+
+3.6
+
+FFO/debt (%)
+
+19.7
+
+11.3
+
+70.2
+
+20.7
+
+Cash flow from
+operations/debt (%)
+
+16.2
+
+3.4
+
+15.0
+
+16.8
+
+FOCF/debt (%)
+
+9.2
+
+(5.4)
+
+3.5
+
+6.7
+
+DCF/debt (%)
+
+9.2
+
+(5.4)
+
+(18.2)
+
+5.1
+
+Financial Risk: Aggressive
+We expect Novelis to generate relatively stable credit measures in fiscal 2020, in advance of its debt-financed
+acquisition of Aleris expected later this fiscal year. On a stand-alone basis, we estimate the company's adjusted
+debt-to-EBITDA ratio at 3.7x-–about in line with fiscal 2019 (3.6x), which was modestly below our previous estimates
+and well aligned with the rating. For fiscal 2021, we estimate pro forma leverage (including US$2.6 billion in debt
+funding) in the mid-4x area, and for leverage to improve thereafter.
+Since 2016, Novelis' credit profile has materially improved through a combination of cash flow growth and debt
+reduction, and we believe the company is committed to deleveraging following the acquisition. We believe that, as
+large growth-related investments decline, the company will generate positive free cash flow in 2021 that facilitates net
+debt reduction. Our estimates for Novelis' earnings and cash flow are underpinned by increased capacity to take
+advantage of what we expect will be healthy automotive and can market fundamentals, and high recycled content of
+production that supports favorable margins at least over the next two years.
+Our assessment also incorporates a degree of volatility in Novelis' business, notably related to aluminum price
+fluctuations. In addition, there is a degree of uncertainty regarding the company's future earnings profile post-Aleris
+closing, which includes integration risk. We expect the company will close the Aleris acquisition while maintaining
+leverage commensurate for the ratings. However, Novelis' willingness to materially increase leverage to complete the
+deal (to levels above our current estimates), and Hindalco's history of dividends from Novelis are captured in our
+negative financial policy modifier.
+The ratings also incorporate our view of the combined group credit profile of Novelis and ultimate parent Hindalco.
+We view the group as having the same credit profile as Novelis on a stand-alone basis. Our assessment of the group
+credit profile is predominantly weighted toward Novelis (over two-thirds of combined revenue and operating earnings)
+but takes into account Hindalco stand-alone credit profile. Hindalco has also publicly committed to leverage well
+below historical levels, though debt repayment this year is not expected. Although potential dividend payments to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+Novelis Inc.
+
+Hindalco remain a risk to our rating on Novelis, we view this as unlikely at least over the next 12 months, particularly
+given the pending Aleris acquisition.
+
+Financial summary
+Table 2
+
+Novelis Inc. -- Financial Summary
+Industry Sector: Metals
+--Fiscal year ended March 31-(Mil. $)
+Revenue
+EBITDA
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+12,326.0 11,462.0 9,591.0 9,872.0 11,147.0
+1,390.0
+
+1,244.5 1,127.0
+
+738.5
+
+867.0
+
+Funds from operations (FFO)
+
+976.4
+
+792.5
+
+703.8
+
+285.9
+
+424.9
+
+Cash flow from operations
+
+802.4
+
+717.5
+
+550.8
+
+503.9
+
+260.9
+
+Capital expenditure
+
+348.0
+
+225.0
+
+222.0
+
+356.0
+
+498.0
+
+Free operating cash flow (FOCF)
+
+454.4
+
+492.5
+
+328.8
+
+147.9
+
+(237.1)
+
+Discretionary cash flow (DCF)
+
+454.4
+
+492.5
+
+328.8
+
+146.9
+
+(488.1)
+
+Cash and short-term investments
+
+950.0
+
+920.0
+
+594.0
+
+556.0
+
+628.0
+
+Gross available cash
+
+950.0
+
+920.0
+
+594.0
+
+556.0
+
+628.0
+
+5,155.3 5,876.2 6,033.8
+
+6,524.5
+
+Debt
+
+4,956.3
+
+Equity
+
+1,066.0
+
+823.0
+
+(77)
+
+(59)
+
+(70)
+
+EBITDA margin (%)
+
+11.3
+
+10.9
+
+11.8
+
+7.5
+
+7.8
+
+Return on capital (%)
+
+Adjusted ratios
+
+16.7
+
+14.4
+
+12.0
+
+7.0
+
+7.7
+
+EBITDA interest coverage (x)
+
+5.0
+
+4.7
+
+3.7
+
+2.1
+
+2.4
+
+FFO cash interest coverage (x)
+
+4.8
+
+4.0
+
+3.4
+
+1.9
+
+2.4
+
+Debt/EBITDA (x)
+
+3.6
+
+4.1
+
+5.2
+
+8.2
+
+7.5
+
+FFO/debt (%)
+
+19.7
+
+15.4
+
+12.0
+
+4.7
+
+6.5
+
+Cash flow from operations/debt (%)
+
+16.2
+
+13.9
+
+9.4
+
+8.4
+
+4.0
+
+FOCF/debt (%)
+
+9.2
+
+9.6
+
+5.6
+
+2.5
+
+(3.6)
+
+DCF/debt (%)
+
+9.2
+
+9.6
+
+5.6
+
+2.4
+
+(7.5)
+
+Liquidity: Strong
+We view Novelis' liquidity as adequate. We expect the company's sources of cash will exceed uses by more than 1.5x
+in the next 12 months (over 3.0x) and remain above 1.0x in the subsequent 12 months, even if EBITDA were to decline
+by 50%. Novelis' quantitative measures (that is, cash sources over uses, sources less uses) are consistent with a
+stronger liquidity profile. However, in our view, the company does not have the requisite supporting liquidity
+characteristics for a higher assessment, including covenant headroom, ability to manage high-impact, low-probability
+events without refinancing, credit standing, and risk management.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 10
+
+Novelis Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of about US$859 million at June 30, 2019
+
+• Capital expenditures of about US$750 million in
+fiscal 2020 and lower in the subsequent 12 months
+
+• US$870 million under its committed revolving credit
+facilities
+• FFO of just over US$760 million over the next 12
+months and over US$1 billion in the subsequent 12
+months
+
+• No dividends
+• Modest estimated working capital requirements
+We assume Novelis funds the US$2.6 billion acquisition
+of Aleris (expected in fourth-quarter fiscal 2020) with
+debt-–initially with a bridge loan that is repaid with
+long-term debt.
+
+Debt maturities
+Novelis does not have material debt maturities until 2022, which provides financial flexibility. The company's US$1.8
+billion term loan due 2022 is the earliest maturity, followed by its US$1.15 billion senior secured notes due 2024 and
+US$1.5 billion senior notes due 2026.
+The company's revolving US$1 billion asset-based loan (ABL) matures in 2024; of this amount, US$761 million was
+available at June 30, 2019 (with limited amounts currently drawn). Borrowing capacity under the ABL will increase to
+US$1.5 billion on the earlier of the Aleris acquisition closing and Oct. 15, 2019. Aleris' assets will be included in the
+borrowing base if the deal is completed.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 11
+
+Novelis Inc.
+
+Chart 4
+
+Covenant Analysis
+Compliance expectations
+We expect the company to maintain compliance under its debt obligations. Novelis' ABL has a fixed-charge covenant
+of 1.25 to 1, which comes into effect if availability declines below a minimum threshold (which will increase upon
+completion of the Aleris acquisition). The company complied at June 30, 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 12
+
+Novelis Inc.
+
+Environmental, Social, And Governance
+
+Environmental risks for metals and mining companies are among the highest across all sectors, but we view
+Novelis as less exposed relative to the broader industry mainly related to its downstream processing activities.. The
+company operates numerous aluminum processing facilities that are well diversified globally. In the past several
+years, recycled content has steadily increased to 61% of its production over the past 12 months, which limits
+waste. Novelis' aluminum recycling facility in Germany is the largest such facility in the world, and modern by
+industry standards. In our view, the company's high share of recycled content and reduced reliance on primary
+aluminum for production have contributed to above-average margins relative to those of other metals processors
+and distributors. Water use and worker injuries are also low, particularly relative to those at upstream mining
+companies. The company has also established several targets for these environmental and social risk factors. That
+said, Novelis' operations are highly energy-intensive and contribute risk exposure mainly related to greenhouse gas
+emissions. We believe its levels of disclosure are sufficient from a credit profile perspective, but limited beyond
+near-term objectives.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We assume the Aleris acquisition is not completed in our recovery analysis, as the company's future capital
+structure-–namely the amount and type of long-term debt following completion of the deal–-is currently unknown.
+• Our hypothetical distress scenario for Novelis assumes the company defaults in 2023 with a corresponding
+balance-sheet restructuring in the U.S.
+• In this scenario, we assume a significant deterioration in EBITDA from fiscal 2019 levels that is caused by a sharp
+decline in shipments and operating issues that results in Novelis' inability to fund its fixed charges, and exhausts
+available liquidity.
+• We valued the company as a going concern using a 6x multiple (0.5x higher than that of its closest peers, based on
+our view of Novelis' stronger business) of our projected emergence EBITDA (about in line with the company's
+estimated interest and capital expenditures in the default year).
+• Our recovery analysis assumes that, in a hypothetical default scenario, Novelis' secured ABL (which we currently
+assume is not upsized to US$1.5 billion) and subsidiary level claims are fully covered.
+• We estimate that secured term loan creditors benefit from a claim on 90% of the company's remaining net
+enterprise value and share the 10% of Novelis' value that we estimate is unpledged (that is, subsidiary stock not
+pledged to secured creditors) with unsecured creditors.
+• Unsecured claims include senior unsecured notes and 100% of the company's underfunded
+pension/postemployment benefit claims.
+• As a result, we estimate modest (10%-30%, rounded estimate 20%) recovery and a '5' recovery rating ('B+'
+issue-level rating) for Novelis' unsecured noteholders.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 13
+
+Novelis Inc.
+
+Simulated default assumptions
+• Simulated year of default: 2023
+• EBITDA at emergence: US$644 million
+• EBITDA multiple: 6x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): US$3.67 billion
+• Valuation split in % (obligors/non-obligors): 90/10
+--------------------------------------------------------------• Priority claims (asset-based loan facility and subsidiary-level debt): US$1.2 billion
+• Secured first-lien debt claims: US$1.8 billion
+• Total value available to unsecured claims: US$750 million
+• Senior unsecured debt/pari passu claims: US$3.5 billion
+• --Recovery expectations: 10%-30% (rounded estimate: 20%)
+Notes: All debt amounts include six months of prepetition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Novelis Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended March 31, 2019-Novelis Inc. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+1,101.0
+
+1,295.0
+
+945.0
+
+268.0
+
+1,390.0
+
+728.0
+
+351.0
+
+Debt
+
+Shareholders'
+equity
+
+4,386.0
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(159)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(245)
+
+--
+
+--
+
+Trade receivables
+securitizations
+
+500.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+47.0
+
+--
+
+Operating leases
+
+88.6
+
+--
+
+30.0
+
+6.6
+
+6.6
+
+(6.6)
+
+23.4
+
+--
+
+643.5
+
+--
+
+36.0
+
+36.0
+
+1.0
+
+--
+
+--
+
+--
+
+(712.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3.0
+
+(3)
+
+(3)
+
+(3)
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and
+liquid investments
+Capitalized interest
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 14
+
+Novelis Inc.
+
+Table 3
+
+Reconciliation Of Novelis Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+Share-based
+compensation expense
+
+--
+
+--
+
+17.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+6.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+1.0
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+(35)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+44.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Derivatives
+
+--
+
+--
+
+12.0
+
+12.0
+
+--
+
+--
+
+--
+
+--
+
+Operating cash flow:
+Derivatives
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+7.0
+
+--
+
+570.3
+
+(35)
+
+95.0
+
+55.6
+
+10.6
+
+(413.6)
+
+74.4
+
+(3)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+976.4
+
+802.4
+
+348.0
+
+Asset retirement
+obligations
+
+Debt: Tax liabilities
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+4,956.3
+
+1,066.0
+
+1,390.0
+
+1,000.6
+
+278.6
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB-/Stable/NR
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Negative (-1 notch)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 15
+
+Novelis Inc.
+
+Stand-alone credit profile : bb-
+
+• Group credit profile: bb• Entity status within group: Moderately strategic (no impact)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Metals And Mining Upstream Industry, Dec. 20,
+2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 10, 2019)*
+Novelis Inc.
+Issuer Credit Rating
+
+BB-/Stable/NR
+
+Issuer Credit Ratings History
+29-Jun-2018
+
+BB-/Stable/NR
+
+09-Aug-2017
+
+B+/Positive/NR
+
+30-Nov-2010
+
+B+/Stable/NR
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 16
+
+Novelis Inc.
+
+Ratings Detail (As Of September 10, 2019)*(cont.)
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 18
+
+

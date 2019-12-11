@@ -1,0 +1,539 @@
+Omnitracs Holdings LLC
+Primary Credit Analyst:
+Ejikeme Okonkwo, CFA, New York + 1 (212) 438 1706; Ejikeme.Okonkwo@spglobal.com
+Secondary Contact:
+Tuan Duong, New York + 1 (212) 438 5327; tuan.duong@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Omnitracs Holdings LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good competitive position in the fragmented fleet management software
+(FMS) industry.
+
+Narrow product and end-market focus, with exposure to the cyclical
+transportation industry.
+
+Increasing recurring revenue base and solid customer retention rates,
+providing some revenue visibility.
+
+Limited scale and geographical diversification compared to other
+enterprise software providers.
+Leverage expected to remain about 6x in fiscal year 2019 (ending
+Sept. 30, 2019).
+
+We expect an increasing recurring revenue base to partly offset cyclical conditions in the transportation industry.
+Omnitracs' business focuses on providing FMS products and services to the long- and short-haul transportation
+industry. Combined with relatively limited scale based on revenues, we believe its credit metrics could be somewhat
+more exposed to the cyclical nature of this end market than those of larger diversified peers like Trimble Inc. At the
+same time, we note that Omnitracs' increasing recurring revenue contributions (about 78% of total revenues), largely
+from subscription-based software sales, and its high customer retention rates in the mid-90% area provide some
+revenue visibility.
+We expect limited leverage improvements over the next 12 months due to ongoing investments and slower growth.
+Following a temporary boost to revenue growth in fiscal 2018 from the need for U.S. trucking companies to comply
+with new safety rules, we expect revenue growth to normalize to the low-single-digit percentage area in fiscals 2019
+and 2020. This should be driven by Omnitracs' ongoing growth investments, including the development of the
+Omnitracs One cloud-based, unified product platform, the integration of recently acquired workflow solutions (Blue
+Dot in March 2019) to this platform, and product upgrades.
+However, we believe the associated costs of these actions could lead to slight EBITDA margin compression, keeping
+leverage around the 6x area in fiscal 2019, reducing in fiscal 2020 with margins benefitting from an expanding
+recurring revenue base.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Omnitracs Holdings LLC
+
+Outlook
+
+The stable outlook reflects S&P Global Ratings' expectation that Omnitracs will maintain modest revenue and
+EBITDA growth through new customer gains, increased penetration of premium applications, and operating
+efficiency gains. Therefore, leverage would be maintained below the 6x area over the next 12 months.
+
+Downside scenario
+We could lower the rating if revenue declines, stemming from reduced customer renewal rates or unfavorable
+macro trends in the trucking industry, lead to low-single-digit percentage free cash flow as a portion of debt or
+sustained leverage above the 7x area over the next 12 months.
+
+Upside scenario
+Although unlikely over the next 12 months because of the company's financial sponsor ownership structure, which
+could limit sustained deleveraging, we could consider an upgrade over the longer term if Omnitracs maintains
+consistent operating performance while committing to leverage below 5x on a sustained basis.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Omnitracs Holdings LLC
+
+Assumptions
+
+• U.S. real GDP growth of about 2.5% in calendar year
+2019 and about 2% in 2020. However, we believe
+significant macroeconomic uncertainties could affect
+the transportation industry and Omnitracs' growth
+prospects, including the U.S.-China trade situation.
+• Revenue growth of 0.5%-1.5% in fiscal 2019 and
+2%-3% in fiscal 2020, following growth of nearly
+13% in fiscal 2018. The slowdown in fiscal 2019
+largely reflects weaker equipment sales after peak
+demand a year earlier related to the implementation
+of the electronic logging device (ELD) compliance.
+Growth remains driven by increasing recurring
+revenues through customer wins and upselling and
+cross-selling to existing customers.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+5.9 5.9-6.2 5.6-5.8
+
+FOCF to debt (%)
+
+9.5
+
+EBITDA interest coverage (x)
+
+2.5
+
+7-8
+
+9-11
+
+3-3.2 3.4-3.7
+
+All figures are S&P Global Ratings-adjusted.
+A--Actual. E--Estimate. FOCF--Free operating cash
+flow.
+
+• S&P Global Ratings-adjusted EBITDA margins of
+26.5%-27.5% in fiscal 2019 and 27.5%-28.5% in
+fiscal 2020, from about 27.5% in fiscal 2018. Fiscal
+2019 margins are expected to be slightly affected by
+ongoing growth investments in new products and
+upgrades to existing products. The improvement in
+fiscal 2020 is supported by increased higher-margin
+recurring revenues and continued cost efficiencies.
+• Net working capital outflow of $4 million-$6 million
+in fiscal 2019 and break-even in 2020.
+• Annual reported capital expenditures (capex) of $20
+million-$22 million in fiscal 2019 and $17
+million-$20 million in fiscal 2020, including
+capitalized software development costs.
+• Annual mandatory term loan amortization of about
+$7.5 million.
+• No assumed dividends or acquisitions.
+
+Base-case projections
+Low-single-digit percentage revenue growth is expected in fiscals 2019 and 2020. As part of a strategic shift toward
+greater subscription-based software and services revenues, we expect that customer adoption of Omnitracs One,
+which aims to unify the company's various software products under a single device–agnostic, cloud-based platform,
+will support cross-selling and upselling efforts. In our view, this could also strengthen the competitiveness of its
+product portfolio, promoting its ability to win further customers. As a result, we forecast low- to mid-single-digit
+percentage recurring revenue growth over the next two financial years. However, we expect this to be significantly
+offset in fiscal 2019 by a double-digit percentage decline in nonrecurring revenues due to an ELD-related drop in
+equipment sales year-on-year in the first two financial quarters.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Omnitracs Holdings LLC
+
+EBITDA margins expected to decline slightly in fiscal 2019 before improving in fiscal 2020. We expect a slight decline
+in fiscal 2019 EBITDA margins due to increased research and development (R&D) costs to support both device and
+software product updates, the Blue Dot acquisition and integration costs, and a reserve of about $2 million taken due
+to a customer under financial difficulty in Mexico. In fiscal 2020, we expect that a reduction in some of these items,
+increased recurring revenue base, and ongoing cost optimization efforts will help improve margins.
+
+Company Description
+Based in Dallas, Omnitracs provides fleet management solutions to the trucking and logistics industries, accessed
+through its proprietary in-cab devices or customers' mobile devices. Solutions cover productivity, telematics, routing
+and dispatch, safety, and compliance. The U.S. is the company's main regional market representing about 90% of
+revenues.
+Omnitracs has been majority owned by private equity sponsor Vista Equity Partners since it was spun off from
+Qualcomm in 2013.
+
+Business Risk
+Our assessment incorporates the view that Omnitracs' narrow product and end-market focus leaves it more exposed to
+inherent transportation industry cyclicality than large and diversified enterprise software companies. We believe
+Omnitracs' limited scale, with revenues below $500 million, and its lack of significant geographic diversification
+contribute to this. We also view the FMS industry as fragmented and competitive, with providers including pure-play
+companies like Samsara and Geotab and diversified players like Trimble, Verizon, and Continental. We also consider
+the long-haul trucking market, representing Omnitracs' historical focus, to be mature, with lower long-term growth
+prospects than the e-commerce driven short-haul and last-mile markets. Omnitracs is looking to increase its presence
+in the latter markets.
+However, Omnitracs' continued shift in revenue mix toward recurring software-based revenues--about 78% of total
+revenues in the 12 months ended June 2019 compared to about 67% in fiscal 2015--should help provide greater
+revenue predictability and improve EBITDA margins over time. We believe this strategy will be supported by the
+Omnitracs One platform that will make it easier to sell premium applications to existing customers, improve data
+analytics capabilities, and reduce the cost and time to develop and deploy new applications. We also note that the
+company benefits from long-tenured customer relationships with retention rates in the mid-90% area, supported by
+good brand recognition in the more stable enterprise fleet-size market and multiyear subscription contracts.
+
+Financial Risk
+Our assessment largely reflects our expectation of leverage above 5.5x in the next 12 months. We expect EBITDA
+growth from low-single-digit percentage organic revenue growth and slight EBITDA margin expansion to support
+potential deleveraging. However, we believe that long-term deleveraging below 5x could be affected by the company's
+financial sponsor ownership.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Omnitracs Holdings LLC
+
+Omnitracs benefits from significant free operating cash flow (FOCF) generation due to its relatively modest capex
+(expected to be about 3%-5% of revenues in fiscals 2019 and 2020) and lowered interest payments of $35 million-$40
+million following a debt refinancing transaction in March 2018. We thus expect it to generate $50 million-$60 million of
+adjusted FOCF in fiscal 2019.
+Our adjusted debt, operating cash flow, and EBITDA include our standard adjustments for operating leases, capitalized
+software development costs, and share-based compensation. We do not net accessible cash from our debt figures.
+
+Liquidity
+We assess Omnitracs' liquidity as adequate. This reflects our expectation that sources will exceed uses by over 9x in
+the 12 months starting July 1, 2019, and that net sources will remain positive even with a 15% decline in EBITDA.
+While these metrics permit a higher liquidity score, our assessment is constrained by a lack of history in accessing
+public credit markets and our view that Omnitracs could not absorb a high-impact, low-probability event without
+refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About $123 million cash and short-term investments
+as of June 30, 2019;
+
+• Net working capital outflow of $1 million-$3 million;
+
+• Full availability under the $50 million committed
+revolving credit facility (RCF) expiring on March 23,
+2023; and
+
+• Capex of $18 million-$20 million, including
+capitalized software development costs; and
+• Annual mandatory debt amortization of about $7.5
+million.
+
+• Funds from operations of $85 million-$88 million.
+
+Debt maturities
+There is an initial $745 million senior secured term loan maturing on March 23, 2025, and with a 1% annual mandatory
+amortization, which we believe Omnitracs has sufficient funds to meet. The outstanding balance on the term loan is
+about $738 million.
+
+Covenant Analysis
+Omnitracs' RCF has a springing covenant, based on net first-lien leverage, tested when the facility is drawn by at least
+40%. We do not expect the RCF to be drawn at this level over the next 12 months, but we expect that the company
+would have at least 40% EBITDA decline headroom if the RCF is drawn by 40%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Omnitracs Holdings LLC
+
+Issue Ratings - Recovery Analysis
+Key Analytical Factors
+
+• Our 'B' issue-level ratings on the senior secured term loan due in March 2025 and the RCF due in March 2023
+are based on '3' recovery ratings. This reflects an expectation for meaningful recovery (50%-70%; rounded
+estimate: 50%) in the event of a payment default.
+• Our simulated default scenario assumes major customer contract losses and EBITDA margin erosion arising
+from heightened competitive and economic pressures.
+• We value the company as a going concern, reflecting its strong customer relationships.
+
+Simulated Default Assumptions
+
+Simplified Waterfall
+
+• Year of default: 2022
+
+• Gross enterprise value: $450.6 million
+
+• Emergence EBITDA after recovery adjustments:
+about $75 million
+
+• Net enterprise value (after 5% administrative costs):
+about $428 million
+
+• EBITDA multiple: 6x
+
+• Valuation split (obligors/nonobligors): 90%/10%
+• Value available for senior secured claim: about $413
+million
+• Estimated senior secured claim*: $783.8 million
+• --Recovery expectations**: 50%-70% (rounded
+estimate: 50%)
+*All debt amounts include six months of prepetition
+interest. RCF is assumed drawn by 85% at default.
+**Rounded down to the nearest 5%.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Omnitracs Holdings LLC
+
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Technology Software And Services Industry, Nov.
+19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Omnitracs Holdings LLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 25, 2019)*
+Omnitracs Holdings, LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Issuer Credit Ratings History
+25-Sep-2019
+
+B/Stable/--
+
+Related Entities
+Omnitracs, LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+

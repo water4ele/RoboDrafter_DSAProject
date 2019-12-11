@@ -1,0 +1,1318 @@
+Univision Communications Inc.
+Primary Credit Analyst:
+Rose Oberman, CFA, New York 212-438-0354; rose.oberman@spglobal.com
+Secondary Contact:
+Jawad Hussain, Chicago + 1 (312) 233 7045; jawad.hussain@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Peer comparison
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Univision Communications Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Market leader in providing Spanish-language content in the U.S.
+
+Elevated leverage in the mid-7x area.
+
+38% of revenue comes from subscription revenue, which is more stable than volatile
+advertising revenue.
+
+Increasing competition for Hispanic viewers.
+
+Healthy free operating cash flow (FOCF) generation supports deleveraging.
+
+Lower advertising rates compared to English-language
+peers.
+
+We expect S&P Global Ratings' adjusted leverage will decline to 7.4x-7.6x in 2019 with further improvement to
+6.5x-6.7x in 2020. We expect leverage will improve in 2019 primarily due to EBITDA growth resulting from the roll-off
+of restructuring costs, which were in excess of $100 million in 2018. We expect limited EBITDA growth in 2020, such
+that leverage reduction will primarily be the result of voluntary debt repayment.
+Univision is the market leader in providing Spanish-language television and radio in the U.S. Univision's television
+network reaches 83% of U.S. Hispanic television households and its portfolio garners 53% of all Spanish-language
+viewing. This makes Univision an important medium for advertisers and video service distributors trying to reach
+Spanish-language consumers.
+Competition is increasing for Hispanic viewers. Univision's market share has eroded from viewers migrating to other
+Spanish-language networks like Telemundo and to streaming video providers like Netflix. The percentage of U.S-born
+Hispanics, which are more likely to watch English-language programming, has also grown over the past decade.
+Univision, like English-language networks, is susceptible to increasing audience fragmentation, particularly as the
+Hispanic population is the country's youngest demographic, which is more open to exploring nontraditional forms of
+media.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Univision Communications Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that leverage will improve to the mid-7x area in 2019, with further
+improvement to the mid-6x area in 2020, as revenue and EBITDA stabilize and the company uses its FOCF to
+repay debt.
+
+Downside scenario
+We could lower the rating if leverage remains above 8x and FOCF to debt falls below 3% on a sustained basis. This
+could occur if the company loses market share to other networks or over-the-top (OTT) alternatives, or if there is
+an economic downturn that causes advertisers to pull back on television and radio advertising.
+
+Upside scenario
+We could raise the rating if Univision reduces leverage below 6.5x on a sustained basis. This would likely require
+improved operating trends, with ratings growth translating to stabilized advertising and subscriber trends, and all
+cash flow directed toward debt repayment.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Univision Communications Inc.
+
+Assumptions
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+Core advertising (excluding political) revenue is
+highly correlated to GDP growth since expectations
+for consumer spending drive advertising budgets,
+but is negative in election years due to displacement
+from political advertising.
+• Revenue growth of about 1% in 2019. Revenue
+growth is muted because there is lower political
+advertising revenue in a nonelection year and
+Univision was not carried on DISH in the first
+quarter, which weighed on both subscription and
+advertising revenue. DISH lost a material number of
+subscribers over the past year due to blackouts with
+HBO and Univision, scaling back on promotional
+discounts, and secular pressure from cord-cutting.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+8.6 7.4-7.6 6.5-6.7
+
+FOCF to debt (%)
+
+8.1
+
+4-6
+
+7-9
+
+*All figures are S&P Global Ratings adjusted.
+A--Actual. E—Estimate. FOCF--Free operating cash
+flow.
+
+• Revenue growth of 2%-3% in 2020, benefiting from
+higher political advertising revenue given the U.S.
+presidential election and advertising revenue
+associated with Union of European Football
+Associations championship. There will be limited
+incremental benefit in 2020 from Univision's new
+contract with DISH since Univision will have nine
+months of revenue from DISH subscribers in 2019.
+• Expense growth (excluding restructuring) of 1%-2%
+in 2019 and 2%-3% in 2020. Expense growth in 2019
+is primarily driven by costs to obtain additional
+programming rights, somewhat offset by cost
+savings from previous restructuring activities.
+Expense growth in 2020 is primarily driven by
+additional programming costs and license fees to
+Televisa.
+• Adjusted EBITDA margin improves to 35%-37% in
+2019 and 2020 from 33.3% in 2018 due to the
+roll-off of restructuring costs, which totaled
+approximately $105 million in 2018.
+• Working capital outflows of around $140 million in
+2019 and $40 million in 2020. The company had
+meaningful working capital requirements in the first
+half of 2019 related to acquiring sports rights and
+regaining carriage on DISH.
+• Capital expenditures of around $75 million in 2019
+and 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Univision Communications Inc.
+
+• Univision sold its English-language digital assets in
+April 2019. The results of these businesses were
+classified as discontinued operations in 2018.
+
+Base-case projections
+Subscription revenue will grow around 5% over the next two years. Univision regained carriage on DISH on March 26,
+2019, after having been dark for nine months, which will benefit revenue in 2019. However, the new contract excludes
+SlingTV (DISH's OTT offering) and DISH has lost a material number of subscribers. While it is uncertain how many
+subscriber losses were directly attributable to losing Univision, and some subscribers migrated to other video services
+with Univision, DISH lost more than 930,000 subscribers in the nine months without Univision. We expect higher rates
+associated with recent contract renewals with video service distributors will drive subscription revenue growth in
+2020.
+Revenue growth from television advertising will lag GDP growth.We expect flat to 1% core television advertising
+revenue growth in 2019 as Univision benefits from regaining carriage on DISH. While Univision's 2019-2020 network
+upfront was up mid-single digits, it will not begin to benefit revenue until the fourth quarter of 2019. We expect core
+television advertising will decline 1%-3% in 2020, despite growth in the recent upfront, because of political
+displacement.
+Radio advertising revenue will continue to decline. We expect radio advertising revenue will decline around 4% in a
+non-election year and 2% in an election year due to increasing competition from alternative media (primarily internet
+advertising).
+
+Company Description
+Miami-based Univision is a Spanish-language multimedia company focused on serving Hispanic America. Univision
+derives about 90% of its revenue from its 2 broadcast networks, 10 cable networks, 65 television stations, and network
+of online and mobile applications and products. The remainder of the company's revenue primarily comes from its 58
+radio stations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Univision Communications Inc.
+
+Chart 1
+
+Univision is privately owned by a group of financial sponsors (including Madison Dearborn Partners LLC, Providence
+Equity Partners LLC, Saban Capital Group Inc., TPG Global LLC, Thomas H. Lee Partners L.P.) and Grupo Televisa
+S.A.B., although its financials are public.
+
+Business Risk: Satisfactory
+Univision obtains a significant amount of content from Televisa. Univision has a program licensing agreement (PLA)
+with Televisa that provides it with a steady pipeline of content. The term of the PLA will continue until the latter of
+2025 or 7.5 years after Televisa has voluntarily sold a specified portion of its shares. While Univision does not disclose
+the breakdown of its content sources, the majority of its prime time content comes from Televisa, which makes it
+particularly dependent on Televisa for its prime time revenue. Univision's relatively low-cost PLA with Televisa
+contributes to its high EBITDA margin relative to peers such as CBS.
+Univision's ratings have declined for several years, but have begun to improve. Ratings affect a company's ability to
+generate advertising revenue and negotiate rates with video service distributors. Univision's ratings declined over the
+past couple of years (particularly among its telenovelas, which is principally licensed from Televisa), contributing to
+core television advertising revenue declines in excess of 10%. Management has made an effort to improve Univision's
+ratings by diversifying its programming (through working with Televisa and by adding other content), resulting in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Univision Communications Inc.
+
+improved ratings over the past three quarters. We believe this will contribute to stabilizing Univision's core television
+advertising revenue in 2019. Univision sells about 75% of its network advertising through its upfront, such that it will
+take a few quarters for improved ratings to translate into improved revenue.
+58% of Univision's revenue comes from advertising, which is likely to face pressure during an economic downturn. We
+view subscription revenue (38% of revenue) more favorably than advertising revenue since it is more stable than
+volatile advertising revenue. While Univision's subscription revenue declined 5.4% in 2018 due to losing carriage on
+DISH, we expect it will largely recover in 2019 due to a new contract with DISH and renewed contracts with other
+video-service distributors. We believe Univision's market leading position as a provider of Spanish-language content
+continues to make it a key component of the video bundle, which will support future growth in subscription revenue.
+
+Peer comparison
+We view Univision's business less favorably than CBS Corp., Sinclair Broadcast Group Inc., and Nexstar Media Group
+Inc. Univision is smaller in size, has a more limited audience (contributing to lower advertising rates), and has
+materially higher leverage. Still, we believe Univision continues to be an important medium for advertisers to reach the
+Hispanic community in the U.S., which is still a growing demographic.
+• CBS is the No. 1-rated English-language network in the U.S. and owns a portfolio of 29 broadcast television stations.
+CBS also owns a TV production studio and Showtime (a key cable network) and has an established DTC strategy
+with its CBS AllAccess and Showtime Anytime platforms.
+• Sinclair and Nexstar are the largest non-network-owned television station groups in the U.S. Sinclair owns more
+than 190 broadcast television stations and more than 20 regional sports networks (RSNs). Its recent acquisition of
+the RSNs increased its scale and revenue diversity, such that stable subscription revenue now contributes around
+70% to revenue. Following the acquisition of Tribune Media Co., Nexstar will own almost 200 television stations
+and subscription revenue will represent around 45% of total revenue.
+Note: Sinclair's financials do not include its recent acquisition of the RSNs; Nexstar's financials do not include its
+pending acquisition of Tribune; and CBS' financials do not include its proposed merger with Viacom.
+Table 1
+
+Univision Communications Inc. -- Peer Comparison
+Industry Sector: TV and Radio
+
+Ratings as of Sept. 16, 2019
+
+Univision Communications
+Inc.
+
+Nexstar Media Group
+Inc.
+
+Sinclair Broadcast Group
+Inc.
+
+CBS Corp.
+
+B/Stable/--
+
+BB-/Stable/--
+
+BB-/Positive/--
+
+BBB/Stable/A-2
+
+--Fiscal year ended Dec. 31,
+2018-(Mil. $)
+Revenue
+
+2,713.8
+
+2,766.7
+
+3,055.1
+
+14,514.0
+
+EBITDA
+
+904.5
+
+1,059.6
+
+977.6
+
+3,431.5
+
+Funds from operations (FFO)
+
+486.0
+
+743.8
+
+664.4
+
+2,902.4
+
+Interest expense
+
+416.0
+
+227.3
+
+304.0
+
+523.1
+
+Cash interest paid
+
+417.4
+
+225.0
+
+296.7
+
+513.1
+
+Cash flow from operations
+
+691.5
+
+751.4
+
+664.0
+
+1,533.4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Univision Communications Inc.
+
+Table 1
+
+Univision Communications Inc. -- Peer Comparison (cont.)
+Industry Sector: TV and Radio
+Univision Communications
+Inc.
+Capital expenditure
+
+Nexstar Media Group
+Inc.
+
+Sinclair Broadcast Group
+Inc.
+
+CBS Corp.
+
+62.8
+
+76.9
+
+105.1
+
+165.0
+
+Free operating cash flow
+(FOCF)
+
+628.7
+
+674.5
+
+559.0
+
+1,368.4
+
+Discretionary cash flow (DCF)
+
+613.7
+
+555.4
+
+254.6
+
+506.4
+
+Cash and short-term
+investments
+
+128.3
+
+145.1
+
+1,060.3
+
+322.0
+
+7,802.4
+
+4,016.9
+
+3,034.0
+
+11,942.2
+
+136.8
+
+1,869.0
+
+1,600.3
+
+2,804.0
+
+EBITDA margin (%)
+
+33.3
+
+38.3
+
+32.0
+
+23.6
+
+Return on capital (%)
+
+7.7
+
+12.2
+
+12.1
+
+20.5
+
+EBITDA interest coverage (x)
+
+2.2
+
+4.7
+
+3.2
+
+6.6
+
+FFO cash interest coverage (x)
+
+2.2
+
+4.3
+
+3.2
+
+6.7
+
+Debt/EBITDA (x)
+
+8.6
+
+3.8
+
+3.1
+
+3.5
+
+FFO/debt (%)
+
+6.2
+
+18.5
+
+21.9
+
+24.3
+
+Cash flow from
+operations/debt (%)
+
+8.9
+
+18.7
+
+21.9
+
+12.8
+
+FOCF/debt (%)
+
+8.1
+
+16.8
+
+18.4
+
+11.5
+
+DCF/debt (%)
+
+7.9
+
+13.8
+
+8.4
+
+4.2
+
+Debt
+Equity
+Adjusted ratios
+
+Source: S&P Global Ratings.
+
+Financial Risk: Highly leveraged
+Univision's leverage is currently elevated. Univision's leverage increased to 8.6x in 2018 from 6.6x in 2017 due to
+revenue declines from the loss of carriage on DISH (starting June 30, 2018) and advertising weakness as well as
+EBITDA declines due to elevated restructuring costs and a step-up in the PLA rate with Televisa.
+We expect all FOCF will be directed toward debt repayment. We expect Univision will generate more than $300
+million in FOCF in 2019 that it will use for voluntary debt repayment to reduce leverage to 7.4x-7.6x. We expect FOCF
+will materially improve to more than $500 million in 2020 due to a combination of revenue growth, reduced interest
+expense, and lower working capital requirements, which it will use for further voluntary debt repayment to reduce
+leverage to 6.5x-6.7x.
+
+Financial summary
+Table 2
+
+Univision Communications Inc.--Yearly Data
+Industry Sector: TV and Radio
+--Fiscal year ended Dec. 31-2018
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+2017
+
+2016
+
+2015
+
+2014
+
+SEPTEMBER 20, 2019 9
+
+Univision Communications Inc.
+
+Table 2
+
+Univision Communications Inc.--Yearly Data (cont.)
+(Mil. $)
+Revenue
+
+2,713.8
+
+3,016.4
+
+3,042.0
+
+2,858.4
+
+2,911.4
+
+EBITDA
+
+904.5
+
+1,254.4
+
+1,329.1
+
+1,233.6
+
+1,179.7
+
+Funds from operations (FFO)
+
+486.0
+
+764.5
+
+802.3
+
+694.8
+
+588.6
+
+Interest expense
+
+416.0
+
+449.7
+
+525.2
+
+569.5
+
+586.7
+
+Cash interest paid
+
+417.4
+
+461.2
+
+518.3
+
+538.6
+
+586.4
+
+Cash flow from operations
+
+691.5
+
+582.3
+
+596.4
+
+230.3
+
+309.6
+
+Capital expenditure
+
+62.8
+
+114.8
+
+99.5
+
+125.1
+
+133.4
+
+Free operating cash flow (FOCF)
+
+628.7
+
+467.5
+
+496.9
+
+105.2
+
+176.2
+
+Discretionary cash flow (DCF)
+
+613.7
+
+440.4
+
+489.8
+
+54.1
+
+159.0
+
+Cash and short-term investments
+
+128.3
+
+59.6
+
+66.5
+
+101.7
+
+56.2
+
+Gross available cash
+
+128.3
+
+59.6
+
+66.5
+
+101.7
+
+56.2
+
+7,802.4
+
+8,317.6
+
+9,193.8
+
+9,614.1 10,644.5
+
+136.8
+
+35.9
+
+(554.2)
+
+(794.8)
+
+(765.1)
+
+EBITDA margin (%)
+
+33.3
+
+41.6
+
+43.7
+
+43.2
+
+40.5
+
+Return on capital (%)
+
+7.7
+
+11.0
+
+10.1
+
+8.3
+
+5.6
+
+EBITDA interest coverage (x)
+
+2.2
+
+2.8
+
+2.5
+
+2.2
+
+2.0
+
+FFO cash interest coverage (x)
+
+2.2
+
+2.7
+
+2.5
+
+2.3
+
+2.0
+
+Debt/EBITDA (x)
+
+8.6
+
+6.6
+
+6.9
+
+7.8
+
+9.0
+
+FFO/debt (%)
+
+6.2
+
+9.2
+
+8.7
+
+7.2
+
+5.5
+
+Cash flow from operations/debt (%)
+
+8.9
+
+7.0
+
+6.5
+
+2.4
+
+2.9
+
+FOCF/debt (%)
+
+8.1
+
+5.6
+
+5.4
+
+1.1
+
+1.7
+
+DCF/debt (%)
+
+7.9
+
+5.3
+
+5.3
+
+0.6
+
+1.5
+
+Debt
+Equity
+Adjusted ratios
+
+Source: S&P Global Ratings
+
+Liquidity: Adequate
+We expect liquidity sources will exceed uses by more than 15x over the next 12 months and that net sources would
+remain positive even with a 15% decline in forecasted EBITDA. Given Univision's sizable revolving credit facility and
+accounts receivable (AR) facility, healthy FOCF, and manageable near-term debt maturities, we believe Univision
+could withstand a high-impact, low-probability event with limited need for refinancing. However, we believe
+Univision's previous operating challenges and elevated leverage have weighed on its standing in credit markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+Univision Communications Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of approximately $75
+million as of June 30, 2019.
+
+• Capital expenditures of $70 million to $80 million
+over the next 12 months.
+
+• Approximately $782 million available under the
+company's $850 million revolving credit facility.
+
+• Working capital outflows of around $40 million over
+the next 12 months.
+
+• Approximately $288 million available under the
+company's $400 million AR facility.
+• Funds from operations of $595 million to $605
+million over the next 12 months.
+
+Debt maturities
+As of June 30, 2019, Univision's debt maturities were as follows:
+Chart 2
+
+Covenant Analysis
+Compliance expectations
+As of June 30, 2019, Univision had approximately a 21% margin of covenant compliance. We expect Univision will
+maintain at least 15% cushion against its first-lien net leverage covenant over the next year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 11
+
+Univision Communications Inc.
+
+Requirements
+Univision's credit agreement includes a maximum first-lien net leverage ratio covenant of 8.5x.
+
+Environmental, Social, And Governance
+
+We believe Univision primarily faces social risk, including cultural and regulatory issues, related to content. As a
+creator of television content, Univision faces the risk if any of its content material is considered offensive or
+controversial. Television broadcasters are also required to operate within the broadcast decency bounds set by the
+Federal Communications Commission (FCC), or risk fines or the loss of broadcast licenses. The FCC also reviews
+applications for foreign investments above 25% in U.S. entities that control broadcast licenses. The FCC approved
+a petition in 2016 to increase Televisa's stake in Univision to 49% (although it currently owns about 36%).
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Univision Communications Inc. is the borrower of a senior secured credit facility (including a $850 million senior
+secured revolving credit facility maturing in 2022 and a $4.3 billion senior secured term loan maturing in 2024) and
+senior secured notes ($357.8 million 6.75% notes due in 2022, $1.2 billion 5.125% notes due in 2023, and $1.5 billion
+5.125% notes due in 2025).
+• The senior secured credit facility is guaranteed by Univision Communications Inc.'s material wholly owned
+restricted domestic subsidiaries (with certain exceptions) and Broadcast Media Partners Holdings Inc. (its parent)
+and is secured by substantially all of the company's assets and those of its guarantors (with certain exceptions).
+• The senior secured notes are guaranteed and secured by substantially all of the subsidiaries that guarantee and
+secure the senior secured credit facility, although Broadcast Media Partners Holdings Inc. does not guarantee or
+secure the notes.
+• Univision also has an unrated $400 million AR facility (composed of a $100 million term component and a $300
+million revolving component) maturing in 2022, which has a first-priority interest on sold or contributed receivables.
+
+Simulated default assumptions
+• Our simulated default scenario contemplates a default in 2022 due to a combination of the following factors:
+increased competition from other Spanish- and English-language content providers, a prolonged decline in
+advertising revenue due to economic weakness, and financial strain from the company's high debt service
+requirements.
+• Other default assumptions include an 85% draw on the revolving credit facility, a 60% draw on the revolving
+component of the accounts receivable facility, LIBOR is 2.5%, the spread on the revolving credit facility rises to 5%
+as covenant amendments are obtained, and all debt includes six months of prepetition interest.
+• We have valued Univision on a going-concern basis using a 7x multiple of our projected emergence EBITDA, which
+is in line with that of the large television broadcasters we rate.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 12
+
+Univision Communications Inc.
+
+Simplified waterfall
+• EBITDA at emergence: $810 million
+• EBITDA multiple: 7x
+• Gross recovery value: $5.6 billion
+• Net recovery value for waterfall after administrative expenses (5%): $5.4 billion
+• Estimated priority claims: $285 million
+• Value available for senior secured debt claims: $5.1 billion
+• Estimated senior secured debt claims: $8.2 billion
+• --Recovery range: 50%-70%; rounded estimate: 60%
+
+Reconciliation
+Table 3
+
+Reconciliation Of Univision Communications Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Univision Communications Inc. reported amounts
+Debt
+
+EBITDA
+7,558.6
+
+Operating
+income
+846.1
+
+Interest
+expense
+587.6
+
+S&P Global Ratings'
+adjusted EBITDA
+398.8
+
+Cash flow from
+operations
+
+904.5
+
+669.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+243.8
+
+39.7
+
+Share-based compensation
+expense
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+--
+
+Total adjustments
+
+17.2
+
+18.7 --
+
+243.8
+
+--
+
+-(400.2) --
+
+17.2
+
+(17.2)
+
+22.5
+
+--
+
+--
+
+--
+
+21.2 --
+
+--
+
+--
+
+--
+
+--
+
+--
+
+-58.4
+
+(1.1) --
+
+38.4
+
+17.2
+
+(418.5)
+
+22.5
+
+S&P Global Ratings' adjusted amounts
+Debt
+
+EBITDA
+7,802.4
+
+EBIT
+904.5
+
+Interest
+expense
+626.0
+
+Funds from operations
+416.0
+
+486.0
+
+Cash flow from
+operations
+691.5
+
+Source: S&P Global Ratings.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 13
+
+Univision Communications Inc.
+
+B/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+•
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 14
+
+Univision Communications Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 20, 2019)*
+Univision Communications Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+07-Dec-2018
+
+B/Stable/--
+
+16-Feb-2017
+
+B+/Stable/--
+
+23-Feb-2016
+
+B/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 16
+
+

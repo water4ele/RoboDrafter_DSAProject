@@ -1,0 +1,540 @@
+Orange Cogen Funding Corp.
+Primary Credit Analyst:
+Marianne Du, Toronto (1) 416-507-2543; marianne.du@spglobal.com
+Secondary Contact:
+David L Lum, San Francisco + 1 (415) 371 5013; david.lum@spglobal.com
+
+Table Of Contents
+Project Description
+Credit Highlights
+Outlook
+Performance Update
+Base Case
+Downside Case
+Peer Comparison
+Rating Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Orange Cogen Funding Corp.
+Credit Rating(s)
+Senior Secured
+US$110 mil 8.175% sr secd bnds due 03/15/2022
+Local Currency
+
+BBB+/Stable
+
+Senior Secured
+
+BBB+/Stable
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country.
+
+Project Description
+Orange Cogen Funding Corp. is a subsidiary of Orange Cogeneration L.P., the owner of a 104-megawatt (MW)
+gas-fired cogeneration power plant in Bartow, Fla., that entered commercial operation in 1992. Orange Cogeneration is
+wholly owned by Northern Star Generation LLC through subsidiary NSG Holdings LLC. Since the supplemental power
+purchase agreement (PPA) with Tampa Electric Co. expired in 2015, Orange Cogen sells 100% of its electricity under a
+PPA with Duke Energy Florida LLC (DEF; A-/Negative/A-2) that expires in 2025. The project also sells steam to
+off-takers Peace River and Bartow Ethanol Co. above the requirement to maintain qualifying facility status.
+The project has entered fuel contracts with Chevron Corp. (AA/Stable/A-1+) and a long-term service agreement
+(LTSA) with General Electric Co. (GE; BBB+/Stable/A-2).
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+PPA and fuel-supply agreements with investment-grade-rated entities that
+run beyond debt maturity
+
+Mismatch between PPA index of energy revenues and the facility's
+cost of fuel
+
+Cash flow stability with most revenues from capacity payments
+
+Rating capped by that on Deutsche Bank Trust Co. Americas, the
+project’s bank account counterparty
+
+An established operating and financial history with strong debt service
+coverage ratios and availabilities
+LTSA with GE that mitigates availability risk
+
+The project benefits from agreements with highly rated counterparties that run beyond the debt
+maturity--PPA agreement with DEF and fuel-supply agreement with Chevron.
+DEF is the sole revenue counterparty through the PPA. The rating on it caps the project rating regardless of the
+project's operational performance, because we base our analysis on the project's reliance on DEF's payments to
+maintain facility operations and pay debt service.
+
+The project has a strong track record of meeting the availability requirement under the PPA and
+earning full capacity payments, which account for about 80% of its total revenue.
+Capacity payments are based on the project's total capacity of 104 MW and capacity reservation rates defined under
+the PPA. Full capacity payments are subject to the project achieving a 12-month rolling capacity factor (RCF) of 90%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Orange Cogen Funding Corp.
+
+The project has a strong operational track record of achieving the RCF requirement and thus earned full capacity
+payments. The full capacity payments are more than sufficient to cover the fixed expenses and debt service through
+debt maturity. Failure to meet the 90% target would result in availability penalties. However, the project has entered
+an LTSA and lease engine programs with GE, which mitigate availability risks.
+
+Although fully contracted, the project is exposed to market risk due to a mismatch between the PPA
+energy payments index, mostly based on coal prices, and the project's fuel expenses, which are based
+on natural gas prices.
+The project's energy payments are based on the SNL coal price and transportation costs, while its fuel expenses are
+based on natural gas prices. Therefore, the project is exposed to low coal prices and high natural gas prices. The
+mismatch resulted in negative energy margins until 2016, when natural gas prices plunged and the margins turned
+positive.
+
+The rating is weak-linked to that on the project's bank account counterparty, Deutsche Bank Trust
+Co. Americas (BBB+/Stable/A-2).
+The linkage is because the replacement provision in the project agreement does not fully comply with our financial
+counterparty criteria in that it does not specify a minimum eligible rating. Including replacement commitment
+language in the bond documents would be a possible mitigating factor. Otherwise, the project's operation itself is
+consistent with our 'a-' assessment, reflecting robust coverage throughout our forecast and the creditworthiness of its
+off-taker DEF.
+
+Outlook
+
+The stable outlook reflects our expectation that operational and financial performance will remain stable during
+our two-year outlook period. We expect the project to achieve debt service coverage ratios (DSCRs) above 3.63x
+throughout the debt's term.
+
+Downside scenario
+We could lower the rating on the project's debt if the ratings on the project's PPA off-taker or financial
+counterparty fall below 'BBB+'. We could also lower the rating if operating performance were to deteriorate such
+that we forecast sustained DSCRs at the lower end of the 1.75x-2.50x range, which we believe is unlikely in our
+two-year outlook period unless a catastrophic major failure happens.
+
+Upside scenario
+We could raise the rating on the project's debt if we raise the rating on the financial counterparty above 'BBB+' and
+our operational expectations and base-case financial forecast do not change because the project's operating
+performance is consistent with our 'a-' assessment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Orange Cogen Funding Corp.
+
+Performance Update
+• The project executed an amendment to the PPA with DEF in November 2018. The amendment specifies a new coal
+cost index for energy payments. The new index is based on the SNL coal price and transportation costs; it replaced
+the original index based on the project's reference plants, Crystal River Units 1 and 2, both of which were retired.
+We expect the new index will have very limited cash flow impact on the project; therefore, we view this contract
+amendment as credit neutral. In addition, the project's cash flow is not sensitive to energy payments, because they
+represent only about 20% of total project revenues.
+• The project's net generation in 2018 was 410,701 megawatt hours (MWh), slightly lower than 440,912 MWh in
+2017. During the fall outage in 2018, a borescope inspection found a burned area in the stage 1 nozzle section in one
+of the gas turbines. GE has authorized continued operation but the project cut back certain hours as a precaution,
+which led to lower generation in 2018. This engine was swapped out at the end of March 2019 and the plant is
+running normally again.
+• That said, the project still received full capacity payments with a rolling 12-month capacity factor of about 93% in
+2018, above the PPA requirement of 90%.
+• The project maintained its status as a qualifying facility, with operating and efficiency standards of 5.8% and 47.2%,
+respectively, in 2017, above the requirement of 5% and 45%.
+• The DSCR in 2018 was 3.77x, higher than our forecast of 3.64x, mostly due to higher energy revenue than in our
+base-case forecast.
+
+Base Case
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Orange Cogen Funding Corp.
+
+Table 1
+
+Orange Cogen Funding Corp.--Preliminary Operations Phase SACP
+--Preliminary operations phase SACP outcome in column headers---Minimum DSCR ranges shown in the cells below*-aa
+
+a
+
+bbb
+
+bb
+
+b
+
+1-2
+
+=> 1.75
+
+1.75–1.20
+
+3-4
+
+N/A
+
+=> 1.40
+
+1.20–1.10
+
+<1.10§
+
+<1.10§
+
+1.40–1.20
+
+1.20–1.10
+
+< 1.10
+
+5-6
+
+N/A
+
+=> 2.00
+
+2.00–1.40
+
+1.40–1.20
+
+< 1.20
+
+7–8
+9–10
+
+N/A
+
+=> 2.50
+
+2.50–1.75
+
+1.75–1.40
+
+< 1.40
+
+N/A
+
+=> 5.00
+
+5.00–2.50
+
+2.50–1.50
+
+< 1.50
+
+11-12
+
+N/A
+
+N/A
+
+N/A
+
+=> 3.00x
+
+< 3.00
+
+OPBA
+
+*DSCR ranges include values at the lower but not upper bound. For example, for a range of 1.20x-1.10x, a value of 1.20x is excluded while a
+value of 1.10x is included. §To determine the outcome in these cells, the key factors are typically the forecasted minimum DSCR (with at least
+1.05x generally required for the 'BB' category), as well as relative break-even performance and liquidity levels. Please see "Project Finance:
+Project Finance Operations Methodology," published Sept. 16, 2014. SACP--Stand-alone credit profile. OPBA--Operations phase business
+assessment. DSCR--Debt service coverage ratio. N/A--Not applicable.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Orange Cogen Funding Corp.
+
+Assumptions
+
+Key Metrics
+
+• Availability factor: 91%
+
+• Minimum DSCR: 3.63x
+
+• Net generation: 395,811 MWh (the historical
+five-year average)
+
+• Average DSCR: 3.71x
+
+• Heat rate: 8.94 million British thermal units
+(MMBtu)/MWh (the historical five-year average)
+• Operations and maintenance (O&M) costs based on
+historical data and management budget
+• Henry Hub natural gas price of $2.25 per MMBtu in
+2019, $2.50 in 2020, $2.75 in 2021, and $3.00 in
+2022. This translates into gas price assumptions,
+including transportation costs, of about
+$3.62/MMBtu in 2019, $3.88/MMBtu in 2020,
+$4.15/MMBtu in 2021, and $4.41/MMBtu in 2022
+• Inflation rate: 2%
+
+Downside Case
+Assumptions
+
+Key Metrics
+
+• Natural gas price of $5.00 per MMBtu in 2019, $6.05
+per MMBtu in 2020, and escalating at 2% annually
+thereafter
+
+• Minimum DSCR: 2.72x
+
+• 5% decline in the capacity factor
+• 6% decline in the availability factor
+• 3% heat rate degradation
+
+• Average DSCR: 2.77x
+• The project's downside performance is consistent
+with the 'aa' category, which provides a one-notch
+boost to the preliminary stand-alone credit profile
+(SACP). The adjusted SACP is therefore 'a'.
+
+• 12% increase in O&M costs
+• Inflation rate increased by 1% over the base-case
+scenario for five years
+
+Peer Comparison
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+Orange Cogen Funding Corp.
+
+Table 2
+
+Orange Cogen Funding Corp.--Ratings Score Snapshot And Peer Comparison
+Orange Cogen Funding Corp.
+
+Indiantown Cogeneration L.P.
+
+Operations phase SACP (senior debt)
+Asset class operations stability
+
+5
+
+6
+
+Performance risk
+
+6
+
+6
+
+Operations phase business assessment
+
+8
+
+8
+
+Minimum DSCR
+
+3.63
+
+3.12
+
+Average DSCR
+
+3.71
+
+3.63
+
+Preliminary SACP
+
+a-
+
+a-
+
+Downside assessment
+
+aa
+
+aa
+
+Capital structure and avg. DSCR
+Liquidity
+
+None
+
+None
+
+Neutral
+
+Neutral
+
+None
+
+None
+
+Comparative ratings analysis
+Counterparty rating adjustments
+
+bbb+
+
+a-
+
+Sovereign rating limitation
+
+None
+
+None
+
+Operations phase SACP
+
+bbb+
+
+a-
+
+Delinked
+
+Capped
+
+Neutral
+
+Neutral
+
+Full credit guarantee
+
+None
+
+None
+
+Senior debt issue rating
+
+BBB+
+
+A-
+
+Modifiers (senior debt)
+Parent linkage
+Structural protection
+
+SACP--Stand-alone credit profile. DSCR--Debt service coverage ratio.
+
+The project's closest peer is Indiantown Cogeneration L.P. (Indiantown), a 330-MW coal-fired cogeneration plant in
+Martin County, Fla. that has been operating since 1995.
+Similar to the project, Indiantown is fully contracted under a PPA with an investment-grade counterparty but is
+exposed to market risks due to a mismatch between the index of energy revenues and energy expenses. As a result,
+both projects have an operations phase business assessment (OPBA) of 8.
+Both projects map to 'a-' preliminary SACPs with base-case minimum DSCRs above 3x, and receive one-notch uplift
+due to strong downside resiliency. The ratings on both projects are capped by those on their PPA counterparties of
+'A-'. The rating on Orange Cogen is further capped by that on its bank account counterparty Deutsche Bank Trust Co.
+Americas of 'BBB+'.
+
+Rating Score Snapshot
+Operations phase SACP (senior debt)
+• Operations phase business assessment: 8
+• Preliminary SACP: a• Downside impact on preliminary SACP: +1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+Orange Cogen Funding Corp.
+
+• Liquidity: Neutral
+• Comparative analysis assessment: None
+• Adjusted preliminary operations phase SACP: a
+• Operations counterparty ratings adjustment: a• Financial counterparty ratings adjustment: bbb+
+• Operations phase SACP: BBB+
+Modifiers (senior debt)
+• Parent linkage: Delinked
+• Structural protection: Neutral
+• Senior debt issue rating: BBB+
+
+Operations phase SACP
+• We assess the project's OPBA at '8' on a 12-point scale on which '1' is the strongest. The project's OPBA is higher
+than that of comparable contracted natural gas-fired power plants ,which usually have an OPBA of '5', because
+Orange Cogen has an operational profile in line with an intermediate-load plant; below-average contract standards;
+and exposure, albeit low, to variable gas and coal prices. This market exposure stems from a mismatch between the
+PPA index of energy payments, which is tied to the cost of coal, and the project's cost of its fuel, natural gas.
+• The minimum DSCR of 3.60x under our base case leads to a preliminary operations phase SACP of 'a-'.
+• The project's performance under the downside case is consistent with the 'aa' category, resulting in an adjusted
+preliminary SACP of 'a'.
+• Nevertheless, the rating on the project is capped by the ratings on its PPA off-taker, DEF, and financial
+counterparty, Deutsche Bank Trust.
+
+Operations counterparties
+• DEF is the sole revenue counterparty through the PPA. The rating on it caps the project rating regardless of the
+project's operational performance, because we base our analysis on the project's reliance on DEF's payments to
+maintain facility operations and pay debt service.
+• LTSA counterparty GE covers the services associated with repairs, mechanical outages inspection, and overhaul
+services. We treat GE as a replaceable counterparty.
+• The rating on the project is constrained by that on Deutsche Bank Trust because the replacement provision in the
+project agreement does not fully comply with our financial counterparty criteria.
+
+Liquidity
+• We assess the project's liquidity as neutral, and sufficient to backstop near-term obligations.
+• Liquidity is primarily supported through a six-month debt service reserve account (about $7.96 million as of March
+31 2019).
+• An equity lock-up mechanism also provides protection if coverage hits 1.3x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Orange Cogen Funding Corp.
+
+Other modifiers
+• None
+
+Related Criteria
+• General Criteria: Counterparty Risk Framework: Methodology And Assumptions, March 8, 2019
+• Criteria - Corporates - Project Finance: Key Credit Factors For Power Project Financings, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Operations Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Transaction Structure Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Framework Methodology, Sept. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Project Finance: Project Finance Construction And Operations Counterparty Methodology,
+Dec. 20, 2011
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 10
+
+

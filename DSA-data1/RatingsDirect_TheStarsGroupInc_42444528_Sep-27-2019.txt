@@ -1,0 +1,1476 @@
+The Stars Group Inc.
+Primary Credit Analyst:
+Silverius Miralles, Toronto + 1 (416) 507 2505; silverius.miralles@spglobal.com
+Secondary Contact:
+Aniki Saha-Yannopoulos, CFA, PhD, Toronto (1) 416-507-2579; aniki.saha-yannopoulos@spglobal.com
+Research Assistant:
+Ranita Saha, Pune
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 2
+
+The Stars Group Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b+
+
+b+
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Credit Highlights
+Key strengths
+
+Key risks
+
+Strong share in the online poker market.
+
+Operates in a highly discretionary and cyclical industry.
+
+Improved product diversification with the SkyBet acquisition.
+
+High earnings volatility in the online sports betting market.
+
+Robust free operating cash flow (FOCF) generation leading to improving credit
+measures.
+
+A market leader in the online poker industry that supports high adjusted EBITDA margins. The Stars Group Inc. (TSGI)
+enjoys a market-leading position in the online poker industry (about 70% market share) because of the player liquidity
+of its network, customer service and breadth of games, which are important factors for attracting and retaining players.
+S&P Global Ratings expects the company's increasing exposure to online casino and sports betting should support
+TSGI's EBITDA growth. In our view, the company's ability to cross-sell online casino and sports betting to existing
+poker customers and entry into new jurisdictions, along with scalable technology platform, will support TSGI's high
+adjusted EBITDA margins of about 34%-36% over the next 12-24 months.
+Online sports betting exposes the company to cash flow volatility. TSGI's acquisition of Sky Betting & Gaming (SkyBet)
+has increased the company's exposure to higher growth online sports betting (from about 19% of revenue in
+second-quarter 2018 to about 36% of revenue in second-quarter 2019); however, online sports betting has inherent
+cash flow volatility compared to online poker (for example, unfavorable sporting outcomes could affect the company's
+topline growth). As a result, the company's strong EBITDA growth expectations are somewhat offset by the underlying
+cash flow volatility from the online sports betting industry. Furthermore, the company's earnings are subject to risk of
+foreign exchange fluctuations and discretionary spending and macro-economic cycles, which could affect consumer
+preferences toward gambling.
+TSGI's improving credit measures are supported by robust FOCF generation.We expect the company to generate
+robust FOCF of about US$300 million-US$350 million annually over the next two years, spurred by TSGI's strong
+brand in the online poker market, increasing product diversity, the asset-light nature of the business, and the
+company's entry into new jurisdictions. In our view, we anticipate the company to use its free cash flow for debt
+repayment ahead of any material shareholder remuneration or acquisition, thereby leading to improving credit
+measures. Furthermore, the company's organic EBITDA growth (in the low-to-mid single-digit area), should further
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 3
+
+The Stars Group Inc.
+
+support TSGI's deleveraging trend.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 4
+
+The Stars Group Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our view that TSGI's market-leading position in the online poker market and organic
+growth from the company's online sports betting segment should support EBITDA growth over the next 12
+months. We expect the company to generate robust FOCF, which it intends to use for debt reduction, along with
+EBITDA growth that should support its deleveraging strategy, with adjusted debt-to-EBITDA to be about 5.5x-6.0x
+over the next 12 months.
+
+Upside scenario
+We could raise the rating over the next 12 months if adjusted debt-to-EBITDA falls below 5x and adjusted
+FOCF-to-debt improves and is sustained above 7.5%. This could result from stronger organic EBITDA growth
+reflecting better performance from SkyBet and better-than-expected FOCF generation and debt repayment. At the
+same time, we would expect TSGI to commit to stronger credit measures when taking debt-financed acquisitions
+or material shareholder remuneration into consideration, for it to be commensurate with a higher rating.
+
+Downside scenario
+We could lower the ratings in the next 12 months if the company's adjusted debt-to-EBITDA remains above 6.5x
+and adjusted FOCF-to-debt approaches 3% because of weaker earnings and reduced FOCF generation. Such a
+scenario could arise if competition intensifies in the online sports betting segment and TSGI is unable to cross-sell
+to its online poker customers, thereby leading to lower EBITDA generation, and affecting the company's
+deleveraging strategy. Alternatively, we could lower the rating on TSGI if management's policy shifts away from
+debt repayment or if the litigation charge imposed is meaningfully higher than expected, concurrent with a large
+debt-funded acquisition or shareholder remuneration, which could lead to higher leverage of adjusted
+debt-to-EBITDA to be above 6.5x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 5
+
+The Stars Group Inc.
+
+Assumptions
+
+Key Metrics
+
+• Low single-digit GDP growth in Europe over the
+next 12-24 months
+Adjusted EBITDA margins (%)
+
+• Low single-digit growth in the online gambling
+industry driven by increasing disposable income,
+increasing penetration of smartphones, and
+increasing acceptance of low-cost payment
+mechanisms
+• High double-digit revenue growth in 2019 reflecting
+the full-year impact of the SkyBet acquisition and
+the Australian assets (BetEasy), and cross-selling
+from poker into casino and sports betting
+
+2018A
+
+2019E
+
+2020E
+
+32.6
+
+35-36
+
+34-35
+
+Adjusted debt-to-EBITDA (x)
+
+8.0 5.5-6.0 5.0-5.5
+
+Adjusted FOCF-to-debt (%)
+
+5.4
+
+5-10
+
+5-10
+
+A--Actual. E--Estimate. FOCF--Free operating cash
+flow.
+
+• Low-single-digit revenue growth in 2020, spurred by
+good growth potential from SkyBet's platform, and
+increasing revenues through cross-selling for the
+poker customers; this could be partially offset by
+uncertainty in the net win margin for online sports
+betting and increasing regulations that could affect
+the company's topline growth.
+• Adjusted EBITDA margins of 34%-36% in
+2019-2020, higher than fiscal 2018, reflecting
+EBITDA accretion from the SkyBet acquisition with
+a partial offset from higher U.K. gaming taxes. This
+is lower than the historical level of 43% in fiscal
+2017, reflecting increasing exposure to the online
+sports betting market, which has lower margins,
+increased marketing expenditures to support its
+growth and gain market share in the online casino
+and sportsbooks segments, and increased gaming
+duties associated with the new jurisdictions.
+• Annual capital expenditure of about US$120
+million-US$150 million in 2019-2020
+• Equity stake sale to Fox Corp. of about US$236
+million in 2019
+• Share buyback of US$50 million-US$100 million in
+relation to normal course issuer bid (NCIB) program
+• Debt repayment of US$450 million-US$500 million
+in fiscal 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 6
+
+The Stars Group Inc.
+
+Base-case projections
+Profitability to improve over the next 12-24 months. We expect the company to fully realize about US$100 million of
+cost synergies from its SkyBet acquisition by fiscal year-end 2020. In addition, TSGI's organic EBITDA growth from
+the company's respective product segments (poker, online casino, and sports betting) along with cross-selling, should
+support EBITDA growth. Based on these factors, we expect the company's adjusted EBITDA margins to improve to
+34%-36% from about 33% in 2018.
+Improving credit measures increases TSGI's balance-sheet capacity to absorb cash flow volatility. TSGI's earnings are
+subject to changes in discretionary spending, macro-economic cycles, foreign exchange fluctuations, and volatility
+from online sports betting segment. As a result, the company is exposed to higher level of cash flow volatility than
+previously, which could make it vulnerable because of its high balance-sheet debt. The company's ability to reduce
+debt from internally generated cash flows and organic EBITDA growth leads to improvement in credit measures;
+nevertheless, the underlying cash flow volatility could delay TSGI's deleveraging trend as witnessed by the company's
+recent quarterly performance (TSGI's full-year 2019 EBITDA guidance has reduced the company's pace of
+deleveraging by about 0.4x-0.5x, keeping adjusted debt-to-EBITDA just above 5.0x in 2020).
+
+Company Description
+TSGI is an Ontario-based online gaming company with product offerings focused on online poker, online sports
+betting, and online casino gaming.
+
+Business Risk: Fair
+Our business risk profile on TSGI reflects our view of the company's strong share of the mature online poker market,
+which is highly discretionary and cyclical in nature; enhanced product diversity; and robust profitability.
+The SkyBet acquisition in 2018 has improved TSGI's product diversity and scale, which we view to be credit positive
+factors. In our opinion, SkyBet enhances the company's product diversity with lower exposure to poker (about 30% of
+revenues in second-quarter 2019). We view its entry into online sports betting (about 36% of revenues in
+second-quarter 2019) to be credit positive, as it is a high growth market (expected to increase in the high single digits)
+compared to the saturated online poker market (expected to expand in the low single digits). The acquisition also
+improves the company's exposure to regulated markets, with almost 75% of its revenues derived from regulated
+jurisdictions compared with about 50% (prior the SkyBet acquisition). We believe that regulated markets offer revenue
+sustainability compared to unregulated markets, due to increased transparency in operations. SkyBet has materially
+increased the company's scale in terms of revenues (about US$2.5 billion on a pro forma basis) and EBITDA (about
+US$900 million on a pro forma basis from about US$660 million), thus positioning TSGI to be one of the largest online
+gaming company in the world.
+SkyBet operates in the highly competitive online sports betting market in the U.K., which is growing organically in the
+high double-digit area. SkyBet's double-digit organic growth is driven by the company's increasing penetration through
+a mobile product offering and strong relationship with former parent Sky plc. The company generates over 80% of its
+revenues from the mobile platform, which is the fastest-growing medium in the online gaming market and provides the
+company with a first mover advantage in that market. We believe SkyBet's relationship with Sky plc (one of the largest
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 7
+
+The Stars Group Inc.
+
+media companies in the U.K.) is a competitive advantage because it acts as a source of new customers and aids in
+customer retention, which supports the company's cash flow growth. SkyBet retains exclusive rights (21 years are
+remaining under its licensing agreement) to the Sky brand in any jurisdiction where its former parent operates. As a
+result of Sky Plc's acquisition of Sky Deutschland and Sky Italia in 2015, we expect SkyBet to make measured moves
+to establish and expand operations in Germany and Italy, taking advantage of growing brand awareness. Therefore, we
+view the relationship as a means to both defend its market position in the U.K. and establish positions in new overseas
+markets.
+Nevertheless, we believe the high concentration (40% of second-quarter 2019 revenue) and increasing regulatory risks
+in the U.K. could pressure SkyBet's earnings. Even though we do not expect the U.K. government's October 2017
+Triennial Review on gaming machines to have a direct effect on the online gaming segment, we remain cautious about
+regulatory changes in terms of further tax increases that could have negative earnings implication. SkyBet generates
+about 55%-60% of its revenues from online sports betting, which we view to be a more volatile segment in the online
+gaming industry driven by higher probability of lower bet win margin. As a result , we expect TSGI to experience more
+earnings volatility.
+We anticipate TSGI to remain exposed to changes in consumer preferences for poker and online gaming, which are
+highly discretionary and cyclical in nature, along with fluctuations of local currencies against the U.S. dollar. We
+believe the company to have lower adjusted EBITDA margins of about 34%-36% in 2019 and 2020 compared with
+TSGI stand-alone adjusted EBITDA margins of about 43% in 2017. We believe dilution in profitability is the result of
+increasing exposure to the online sports betting and online casino market (while online poker has higher profitability),
+which has lower margins, increased marketing expenditures to support its growth in new and existing markets, and
+increased gaming duties associated with the new and existing jurisdictions.
+
+Peer comparison
+Our higher issuer credit rating on GVC Holdings plc (BB/Positive/--) reflects the company's larger revenue scale (EUR
+3.7 billion) and omni channel presence (50% online and 40% land-based terminals) as well as the fact that 75% of the
+company's revenues are derived from the U.K., Germany, and Italy, which are the biggest gaming markets in Europe;
+and GVC's lower adjusted debt-to-EBITDA expectation of about 4x over the next 12 months.
+William Hill plc (BB/Stable/--) is also rated higher than TSGI, reflecting its increasing presence in the high-growth U.S.
+online sports betting market along with lower leverage expectation of adjusted debt-to-EBITDA of 3x-4x. Nevertheless,
+these positives are partially offset by the company's slightly smaller revenue and EBITDA scale, moderate online
+presence (about 50% of EBITDA), and high exposure to the U.K.'s fixed odds betting terminals (about 50% of EBITDA)
+with potential impacts from the triennial review to limit wagering to GBP (Great British Pound) 2.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 8
+
+The Stars Group Inc.
+
+Table 1
+
+The Stars Group Inc. -- Peer Comparison
+Industry Sector: Gaming
+The Stars Group Inc. GVC Holdings PLC
+Ratings as of Sept 12, 2019
+
+B+/Stable/--
+
+BB/Positive/--
+
+William Hill PLC
+BB/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. US$)
+Revenue
+
+2,029.2
+
+4,490.8
+
+2,066.3
+
+EBITDA
+
+662.5
+
+870.0
+
+353.1
+
+Funds from operations (FFO)
+
+426.5
+
+730.5
+
+273.0
+
+Interest expense
+
+195.5
+
+94.8
+
+69.7
+
+Cash interest paid
+
+194.9
+
+84.1
+
+65.7
+
+Cash flow from operations
+
+400.4
+
+311.5
+
+229.9
+
+Capital expenditure
+
+113.7
+
+121.7
+
+62.7
+
+Free operating cash flow (FOCF)
+
+286.6
+
+189.7
+
+167.2
+
+(376.8)
+
+7.9
+
+22.5
+
+Discretionary cash flow (DCF)
+Cash and short-term investments
+
+835.0
+
+142.7
+
+650.6
+
+Debt
+
+5,280.2
+
+3,386.4
+
+611.0
+
+Equity
+
+4,153.4
+
+4,445.5
+
+380.9
+
+EBITDA margin (%)
+
+32.6
+
+19.4
+
+17.1
+
+Return on capital (%)
+
+4.9
+
+7.2
+
+15.3
+
+EBITDA interest coverage (x)
+
+3.4
+
+9.2
+
+5.1
+
+FFO cash interest coverage (x)
+
+3.2
+
+9.7
+
+5.2
+
+Debt/EBITDA (x)
+
+8.0
+
+3.9
+
+1.7
+
+FFO/debt (%)
+
+8.1
+
+21.6
+
+44.7
+
+Cash flow from operations/debt (%)
+
+7.6
+
+9.2
+
+37.6
+
+5.4
+
+5.6
+
+27.4
+
+(7.1)
+
+0.2
+
+3.7
+
+Adjusted ratios
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Financial Risk: Highly leveraged
+Our financial risk assessment on TSGI reflects our view that the company's adjusted debt-to-EBITDA will be about
+5x-6x and FOCF-to debt about 5%-10% over the next 12-24 months. We expect the company to generate robust
+EBITDA and FOCF spurred by its market-leading position in the online poker market, its ability to cross-sell products
+to existing poker customers, its strong growth momentum from SkyBet, and the asset-light nature of the business.
+TSGI benefits from its online platform operations, which have generally lower capital expenditure requirements and
+are scalable, thus converting about 80%-85% of its EBITDA into cash flow for debt service. As a result, we expect
+management to use its FOCF to pay down debt along with EBITDA growth, leading to adjusted debt-to-EBITDA to be
+about 5.5x by year-end 2020. In our view, the company's improving credit measures provide further support to absorb
+the underlying cash flow volatility.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 9
+
+The Stars Group Inc.
+
+TSGI predominantly treats its development costs as operating expenses, resulting in negligible capital expenditures
+compared to land-based casino gaming operators and good prospects for free cash flow generation. Our adjusted debt
+calculation also includes about US$200 million of litigation liability, which the company has been contesting in the
+court.
+
+Financial summary
+Table 2
+
+The Stars Group Inc. -- Financial Summary
+Industry Sector: Gaming
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+Revenue
+
+2,029.2
+
+1,312.3
+
+1,155.9
+
+EBITDA
+
+662.5
+
+568.3
+
+466.1
+
+Funds from operations (FFO)
+
+426.5
+
+431.7
+
+329.9
+
+Interest expense
+
+195.5
+
+162.8
+
+170.8
+
+Cash interest paid
+
+194.9
+
+127.2
+
+134.5
+
+Cash flow from operations
+
+400.4
+
+375.4
+
+224.7
+
+Capital expenditure
+
+113.7
+
+12.9
+
+14.5
+
+(Mil. US$)
+
+Free operating cash flow (FOCF)
+
+286.6
+
+362.5
+
+210.3
+
+(376.8)
+
+362.5
+
+210.3
+
+Cash and short-term investments
+
+835.0
+
+633.0
+
+556.2
+
+Gross available cash
+
+496.0
+
+291.1
+
+189.4
+
+Debt
+
+5,280.2
+
+2,184.7
+
+2,514.6
+
+Equity
+
+4,153.4
+
+2,303.4
+
+2,201.7
+
+EBITDA margin (%)
+
+32.6
+
+43.3
+
+40.3
+
+Return on capital (%)
+
+4.9
+
+9.9
+
+5.3
+
+EBITDA interest coverage (x)
+
+3.4
+
+3.5
+
+2.7
+
+FFO cash interest coverage (x)
+
+3.2
+
+4.4
+
+3.5
+
+Debt/EBITDA (x)
+
+8.0
+
+3.8
+
+5.4
+
+FFO/debt (%)
+
+8.1
+
+19.8
+
+13.1
+
+Cash flow from operations/debt (%)
+
+7.6
+
+17.2
+
+8.9
+
+5.4
+
+16.6
+
+8.4
+
+(7.1)
+
+16.6
+
+8.4
+
+Discretionary cash flow (DCF)
+
+Adjusted ratios
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Liquidity: Adequate
+We consider TSGI's liquidity to be adequate, based on a sources-to-uses ratio above 2x in the next 12 months, which
+remains positive in the unlikely event that EBITDA were to decline by 15%. Our liquidity assessment also factors in the
+following qualitative factors: the company has sound relationships with its banks; has the ability to absorb high-impact,
+low-probability events with limited need for refinancing; and has generally prudent risk management associated with
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 10
+
+The Stars Group Inc.
+
+adequate liquidity.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about US$339 million
+as of second-quarter 2019
+
+• Forecast capital expenditure of approximately
+US$150 million for the next 12 months
+
+• Availability of about US$626 million under the
+US$700 million revolving credit facility maturing in
+2023 as of second-quarter 2019
+
+• Working capital cash outflow of about US$50 million
+
+• Funds from operations of about US$500
+million-US$550 million for the next 12 months
+
+• Scheduled debt amortization of about US$35 million
+on term loan B
+• Purchase of common shares of US$50
+million-US$100 million related to the company's
+NCIB
+
+Debt maturities
+• About US$35 million annually from fiscal years 2019-2024
+• About US$4.7 billion thereafter
+
+Covenant Analysis
+The company has a springing covenant of first-lien net leverage below 6.75x on the revolving credit facility (RCF),
+which gets activated when more than 35% drawn. In our base-case scenario, we assume that the RCF is not drawn by
+the company, reflecting its robust FOCF generation.
+
+Environmental, Social, And Governance
+
+Social risks are high for gaming companies such as TSGI and in line with its peers. In our opinion, social concerns
+pertaining to gambling addiction, money laundering, and increasing anti-social behavior are highlighted by
+regulators and the public. As a result, various jurisdictions in Europe have enacted stringent measures to curb
+excessive online gambling, which could have potential effects on the company's operational and financial
+performance. For example, in the U.K. the remote gaming tax has been increased to 21% from 15%, which could
+have a mild impact on TSGI's revenue and EBITDA generation. Similarly, a TV advertising ban in Italy could
+further hinder the company's penetration into the market, leading TSGI to adopt other advertising mediums that
+could increase marketing and promotional expenses, affecting EBITDA margins.
+TSGI refrains from TV advertising for soccer matches in the U.K., which is a step toward self-regulation adopted by
+the industry, but this could reduce player activity and thus lead to lower-than-anticipated EBITDA growth from its
+U.K. sports betting product offering. However, we view this action as supporting the long-term sustainability of
+both the company and the industry, thereby reducing higher regulatory risks; nevertheless, at the same time it
+could impact the company's financial performance and debt repaying capacity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 11
+
+The Stars Group Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario incorporates the assumption that TSGI will default in 2023, reflecting intense
+competition that will lead to market share erosion.
+• We assume that the company would be reorganized or sold as a going concern as opposed to being liquidated
+because the company would likely retain greater value as an ongoing entity in the event of default.
+• We believe that if the company were to default, there would remain a viable business model, driven by TSGI's
+strong brand recognition in the online gaming industry and entry into newer jurisdictions.
+• Our recovery analysis yields a net default enterprise value of about US$3.4 billion, based on a 7x multiple of US$512
+million of emergence EBITDA estimate and 5% administrative expenses.
+• The higher EBITDA multiple of 7.0x as opposed to the sector multiple of 6.5x reflects the enhanced scale and
+diversity, which puts the company almost in line with other similarly rated peers.
+• Our analysis also assumes that the senior secured creditors are secured by 80% of the company's default enterprise
+value because TSGI operates in a number of jurisdictions around the world that are not part of the obligor group.
+• Due to this, the senior secured claims have a '3' recovery rating, indicating our expectation for meaningful
+(50%-70%; rounded estimate: 65%) recovery in the event of a default, leading to an issue-level rating of 'B+'.
+• After servicing the senior secured claims, there would be about US$239 million of remaining value (including
+non-obligor value) available to be distributed to the senior unsecured claims. Therefore, the senior unsecured claims
+have a '6' recovery rating, indicating our expectation of negligible (0%-10%; rounded estimate: 5%) recovery in the
+event of default, and an issue-level rating of 'B-'.
+
+Simulated default assumptions
+• Default year: 2023
+• Emergence EBITDA: US$512 million
+• Multiple: 7.0x
+
+Simplified waterfall
+• Gross recovery value: US$3.59 billion
+• Net recovery value for waterfall after administrative expenses (5%): US$3.4 billion
+• Obligor/non-obligor valuation split: 80%/20%
+--------------------------------------------------------• Remaining recovery value (collateral/noncollateral): US$3.16 billion/US$239 million
+• Priority claims: Not applicable
+• Value available for senior secured claims(collateral/noncollateral): US$3.16 billion/US$239 million
+• Estimated senior secured claims: US$4.77 billion
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 12
+
+The Stars Group Inc.
+
+• --Recovery range: 50%-70% (rounded estimate: 65%)
+• Value available to unsecured claims (collateral/noncollateral):US$0/US$239 million
+• Total unsecured claims: US$2.6 billion
+• --Recovery expectations: 0%-10% (rounded estimate: 5%)
+• All debt amounts include six months of pre-petition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of The Stars Group Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. US$)
+--Rolling 12 months ended June 30, 2019-The Stars Group Inc. reported amounts
+
+Shareholders'
+Debt
+equity Revenue EBITDA
+Reported amounts
+
+5,088.9
+
+Operating Interest
+income expense
+
+Cash flow
+Adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+4,366.1
+
+2,442.8
+
+722.2
+
+297.1
+
+244.8
+
+749.1
+
+547.4
+
+--
+
+142.2
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(71.9)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(262.2)
+
+--
+
+--
+
+--
+
+62.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+10.9
+
+2.8
+
+2.8
+
+(2.8)
+
+8.0
+
+--
+
+--
+
+(326.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+14.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+1.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and
+dividend cash
+flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(262.2)
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+3.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Litigation
+
+200.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Other
+
+180.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA:
+gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+--
+
+1.4
+
+1.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+--
+
+7.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+Operating leases
+Accessible cash
+and liquid
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 13
+
+The Stars Group Inc.
+
+Table 3
+
+Reconciliation Of The Stars Group Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+US$) (cont.)
+Total
+adjustments
+
+116.5
+
+3.6
+
+0.0
+
+26.9
+
+13.0
+
+2.8
+
+(336.9)
+
+(254.2)
+
+0.0
+
+0.0
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+Adjusted amounts
+
+5,205.4
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+4,369.7
+
+310.2
+
+2,442.8
+
+749.1
+
+247.7
+
+412.2
+
+293.2 --
+
+142.2
+
+PP&E--Property, plant, and equipment.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 14
+
+The Stars Group Inc.
+
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 12, 2019)*
+The Stars Group Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Issuer Credit Ratings History
+18-Jun-2018
+
+B+/Stable/--
+
+23-Apr-2018
+
+B+/Watch Neg/--
+
+25-Jul-2016
+
+B+/Stable/--
+
+23-Nov-2015
+
+BB-/Negative/--
+
+Related Entities
+Stars Group Holdings B.V.
+Senior Secured
+
+B+
+
+Senior Unsecured
+
+B-
+
+Stars Group (US) Co-Borrower, LLC
+Senior Secured
+
+B+
+
+Senior Unsecured
+
+B-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 16
+
+

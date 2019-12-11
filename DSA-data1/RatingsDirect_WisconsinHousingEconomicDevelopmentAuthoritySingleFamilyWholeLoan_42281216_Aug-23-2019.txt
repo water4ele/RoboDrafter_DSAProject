@@ -1,0 +1,258 @@
+Wisconsin Housing & Economic
+Development Authority; Single Family
+Whole Loan
+Primary Credit Analyst:
+Ki Beom K Park, New York (1) 212-438-8493; kib.park@spglobal.com
+Secondary Contact:
+Richard E Kubanik, New York + 1 (212) 438 5112; richard.kubanik@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Cash Flows
+Asset Quality
+Debt Type And Swaps
+Reserves And Investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 1
+
+Wisconsin Housing & Economic Development
+Authority; Single Family Whole Loan
+Credit Profile
+US$125.0 mil home ownership rev bnds ser 2019 due 03/01/2050
+Long Term Rating
+
+AA/Positive
+
+New
+
+Wisconsin Hsg & Econ Dev Auth homeownership (1987) 2005E
+Long Term Rating
+
+AA/A-1/Positive
+
+Outlook Revised
+
+Wisconsin Hsg & Econ Dev Auth var Rt dem Hm Ownership 2003 B (1987 Reso)
+Long Term Rating
+
+AA/A-1+/Positive
+
+Outlook Revised
+
+Unenhanced Rating
+
+NR(SPUR)
+
+Current
+
+Rationale
+S&P Global Ratings revised the outlook to positive from stable and affirmed its 'AA', 'AA/A-1+', and 'AA/A-1' ratings
+on the Wisconsin Housing & Economic Development Authority's (WHEDA) existing debt, issued under the authority's
+1987 single-family parity indenture. At the same time, S&P Global Ratings assigned its 'AA' rating, and positive
+outlook, to WHEDA's series 2019C homeownership revenue bonds, issued under the 1987 indenture.
+The rating reflects our opinion of the authority's:
+• Improved asset quality of its single-family mortgage portfolio, with more mortgage-backed security (MBS) after the
+new issuance;
+• Very strong coverage of projected credit shortfalls through its $122 million in excess assets within the parity
+resolution, with an adjusted asset-to-liability parity of 126%; and
+• Strong asset and administrative management oversight WHEDA provides in relation to its mortgage portfolio.
+Partially offsetting these strengths, in our view, is some exposure to variable-rate demand obligations (VRDOs). We
+believe the strength of cash flow mitigates contingent liquidity and swap dependable risks (89% hedged). VRDOs
+exposure will diminish to 22% from 29% after the new issuance. Preliminary offering documents indicate the series
+2019C bond proceeds will purchase MBS backed by pools of mortgage loans, and to make a deposit in the debt service
+reserve fund (DSRF).
+
+Outlook
+The positive outlook reflects our view that WHEDA will likely continue to provide a high degree of security to
+bondholders by:
+• Building the resolution's financial strength with improved asset quality, increasing MBS;
+• Sustaining overall growth in its asset-to-liability parity ratio to consistently cover loan losses and our stress
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 2
+
+Wisconsin Housing & Economic Development Authority; Single Family Whole Loan
+
+assumptions; and
+• Maintaining strong administrative oversight and mortgage-loan collateral performance.
+
+Upside scenario
+We believe the following scenarios could lead to a positive rating action:
+• An improved loan quality that has a significant positive effect on loss coverage;
+• Less exposure to variable-rate debt; or
+• An improvement in excess assets to cover potential liquidity and credit shortfalls under various prepayment
+scenarios in line with the 'AA' rating level.
+
+Downside scenario
+Conversely, we believe the following scenarios could lead to a negative rating action:
+• An increase in delinquencies that significantly affects loss coverage;
+• Weakening cash flows due to heavy use of variable-rate debt (unhedged);
+• An inability to demonstrate sufficient excess assets to cover potential liquidity and credit shortfalls under various
+prepayment scenarios in line with a 'AA' rating; or
+• A significant deterioration of loan performance that affects reserves.
+
+Cash Flows
+Consolidated cash flows provided to us incorporate various rating agency assumptions, reflecting current market
+conditions. These conditions include increased liquidity costs, basis risk, and swap counterparty risk. Cash flows also
+incorporate our interest-rate assumptions for variable-rate bonds.
+Based on loan information as of March 31, 2019, we project $8.7 million in potential loan losses for the loans
+outstanding, factoring in our loan-loss criteria that includes losses on WHEDA's subordinate-lien down payment
+assistance (DPA) loans, which represent less than 2% of the portfolio.
+The beginning asset-to-liability parity ratio was 128.7% at June 30, 2018, with approximately $122 million in net
+assets. When factoring total credit losses, using the lowest parity position, the adjusted asset-to-liability ratio is
+126.13%. Excess assets available under the resolution cover potential shortfalls. Under all prepayment scenarios,
+sufficient excess assets and revenue are available to make timely debt-service payments plus fees.
+
+Asset Quality
+The mortgage portfolio had approximately 4,199 whole loans and 1,440 loans tied to DPA with an aggregate principal
+balance of $164 million outstanding in whole loan (including $4.96 million of DPA) and 86 MBS investments, totaling
+$265 million, under the resolution at March. 31, 2019. After this issuance, the resolution becomes predominantly MBS
+(69%).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 3
+
+Wisconsin Housing & Economic Development Authority; Single Family Whole Loan
+
+Nineteen percent of whole loans outstanding are insured by a series of private mortgage insurance companies (PMIs),
+including Genworth, United Guaranty, PMI Mortgage Insurance Co. Of the providers insuring loans in the indenture,
+53% of PMIs are rated at an investment-grade level, which results in some credit for claims (26% recovery). The
+remaining 81% of whole loans outstanding are not required to carry insurance because their original loan-to-value
+(LTV) ratio was less than 80%. In addition, the majority of its loan portfolio has LTV ratios of less than 80% on
+average. All loans in the portfolio have 30-year terms with a fixed-interest rate base. WHEDA does not have any
+interest-only or step-up loans in its portfolio, and there are a small percentage of second loans representing less than
+2% of the mortgage portfolio.
+We believe low LTV levels, increasing high-quality MBS, and the resolution's sufficient excess assets and reserves to
+cover projected loan losses mitigate the effects of the PMIs' credit quality. Furthermore, WHEDA works with
+borrowers to reduce delinquencies and foreclosures by offering loan modifications and extensions.
+
+Debt Type And Swaps
+At June 30, 2019, WHEDA had $385.9 million in bonds outstanding. Of the total debt, 71% is fixed-rate debt; 88% of
+variable rate debt is hedged. Liquidity in the form of a standby bond purchase agreement for the resolution's
+variable-rate obligations is provided by:
+• BMO Harris Bank N.A.;
+• Federal Home Loan Bank of Chicago; and
+• Royal Bank of Canada.
+The use of variable-rate debt exposes WHEDA to fluctuating interest rates, so it entered into a series of interest-rate
+swaps to hedge floating-rate exposure on variable-rate bonds.
+WHEDA's swaps are with JPMorgan Chase Bank and Royal Bank of Canada. Management has a written
+swap-management plan, and it performs periodic swap reviews and valuations and discloses swap information in its
+annual audit. Furthermore, because its bond issues are swap dependent, risks and expenses associated with swaps,
+liquidity, and VRDOs are incorporated into the cash flows we received from WHEDA. We believe the strength of cash
+flows mitigates those risks.
+
+Reserves And Investments
+Liquidity coverage for mortgages is provided by a DSRF sized at 2% of bonds outstanding under the resolution. This
+reserve will be invested in an investment rated as high as the rating on the bonds. All funds under the indenture will be
+held in commensurate investments through bond maturity. Investment agreements account for approximately 2% of
+WHEDA's investments under its 1987 indenture.
+Ratings Detail (As Of August 20, 2019)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 4
+
+Wisconsin Housing & Economic Development Authority; Single Family Whole Loan
+
+Ratings Detail (As Of August 20, 2019) (cont.)
+Wisconsin Hsg & Econ Dev Auth home ownership rev bnds ser 2016D due 09/01/2046
+Long Term Rating
+
+AA/Positive
+
+Outlook Revised
+
+Wisconsin Hsg & Econ Dev Auth home ownership rev bnds ser 2016E due 09/01/2046
+Long Term Rating
+
+AA/Positive
+
+Outlook Revised
+
+Wisconsin Hsg & Econ Dev Auth home ownership rev bnds var rate dem (Non-AMT)
+Long Term Rating
+
+AA/A-1+/Positive
+
+Outlook Revised
+
+Wisconsin Hsg & Econ Dev Auth home ownership rev bnds (AMT)
+Long Term Rating
+
+AA/Positive
+
+Outlook Revised
+
+Wisconsin Hsg & Econ Dev Auth home ownership rev bnds (Non-AMT)
+Long Term Rating
+
+AA/Positive
+
+Outlook Revised
+
+Wisconsin Hsg & Econ Dev Auth home ownership rev bnds (Non-AMT) ser 2018C due 09/01/2038
+Long Term Rating
+
+AA/A-1+/Positive
+
+Outlook Revised
+
+AA/Positive
+
+Outlook Revised
+
+AA/A-1/Positive
+
+Outlook Revised
+
+Wisconsin Hsg & Econ Dev Auth home ownership (1987)
+Long Term Rating
+Wisconsin Hsg & Econ Dev Auth SFWHLLN
+Long Term Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 5
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 6
+
+

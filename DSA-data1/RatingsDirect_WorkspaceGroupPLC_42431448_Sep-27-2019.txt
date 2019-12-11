@@ -1,0 +1,1410 @@
+Workspace Group PLC
+Primary Credit Analyst:
+Jeevan S Dhoot, London + 44 20 7176 7231; jeevan.dhoot@spglobal.com
+Secondary Contact:
+Nicole Reinhardt, Frankfurt + 49 693 399 9303; nicole.reinhardt@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+Workspace Group PLC
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Long track record of operating as a flexible office landlord; the company was
+established in 1987.
+
+Shorter and more flexible lease terms compared to traditional
+office REITs, which limits visibility on long-term cash-flow
+stability.
+
+Prudent balance sheet with relatively low leverage and commitment to maintain a
+loan-to-value (LTV) ratio below 30% (translating into our ratio of debt to debt plus
+equity of less than 32%).
+
+Relatively small portfolio size compared to other rated peers
+and concentration purely in one city, London.
+
+Workspace will continue to benefit from the growing demand coming from the
+flexible office sector in London.
+
+Relatively small absolute EBITDA base and large
+development capital expenditure (capex) needs.
+
+Workspace has a different operating model to other flexible office providers.Workspace has 100% ownership of its
+buildings, while many other flexible space players lease from traditional office landlords and then sub-lease to tenants.
+Therefore, Workspace benefits from properties' asset values and is not exposed to lease duration mismatch.
+In the event of a no-deal Brexit, we expect London office prices to fall by 10% or more over the next 24 months. In our
+no-deal Brexit scenario, the U.K. would experience a moderate recession lasting four to five quarters, with GDP
+contracting by a cumulative 2.7% over two years, and London office prices falling by 10% or more. We believe that
+Brexit will give many companies, especially financial services that are already under pressure to contain costs, more
+reason to consider reducing office space in London.
+Workspace has a moderate redevelopment/refurbishment pipeline that will bring a large amount of additional space to
+the portfolio. The new and upgraded space, to be added over the next few years, will help drive rental income growth.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+Workspace Group PLC
+
+Outlook: Stable
+
+The stable outlook reflects our view that Workspace should continue to benefit from the rising interest in the
+flexible office market, and generate growing rental income and stable occupancy levels, supported by its good
+quality portfolio in London. Under our base-case scenario, we forecast overall revenue to increase by around
+10%-12% annually in the coming years due to completed refurbishment works, and annual 3% like-for-like rental
+income growth. We forecast its debt-to-debt plus equity ratio will remain below 30%, EBITDA interest coverage
+will remain around 4x, and debt to EBITDA at about 7x.
+
+Downside scenario
+We could lower the rating if Workspace's EBITDA interest coverage ratio decreased to lower than 3.8x for a
+prolonged period, or if its S&P Global Ratings-adjusted debt-to-debt plus equity ratio were to increase above 35%.
+We believe this could occur if the company were to experience weak operating performance such as increasing
+vacancies or negative/flat rental income growth, or a sharp fall in its independently-appraised asset valuations. It
+could also result from greater cash flow volatility or a more aggressive M&A policy than observed until now, as the
+company seeks to expand its asset base.
+We would also view negatively any signal that Workspace's offering had become more risky, for example if the
+retention rate was falling or the average tenant stay decreased substantially. This would imply additional risks
+compared with traditional office landlords and could negatively affect the rating.
+
+Upside scenario
+We consider an upgrade unlikely at this stage. We could, however, raise the rating if Workspace were to materially
+expand the scale and diversity of its business, and also increase the proportion of longer-term leases. Overall, the
+risks related to shorter-term leases and the size and diversity of the company's asset portfolio currently limit rating
+upside potential, in our view.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+Workspace Group PLC
+
+Assumptions
+
+• Real GDP growth in U.K. of 1.2% in 2019 and 1.4%
+in 2020. Consumer price index to remain at about
+2% per year.
+• Like-for-like rental growth of about 3% in the
+coming years, supported by the two-year rolling
+lease structure, with a step-up clause after one year
+in the lease contract.
+
+Key Metrics
+
+2019A*
+
+2020E
+
+2021E
+
+23.4
+
+25-30
+
+25-30
+
+Debt/Debt + Equity (%)
+EBITDA Interest Coverage (x)
+
+4.0 3.9-4.1 3.9-4.1
+
+Debt/EBITDA
+
+6.3
+
+~7
+
+~7
+
+*March year end. A--Actual. E--Estimate.
+
+• Stable occupancy rates in the like-for-like portfolio
+of 90%. Occupancy will increase rapidly in the
+refurbished or redeveloped units once those projects
+are completed.
+• £100 million of acquisition a year for modelling
+purposes. We believe Workspace plans to keep
+expanding its portfolio, but we acknowledge that the
+actual acquisitions may differ materially from our
+assumptions.
+• Capex of around £75 million-£100 million a year due
+to ongoing and future refurbishment projects.
+• Fall in property valuation of 2% over the next 12 to
+24 months and flat growth for future years, due to
+the impact of Brexit uncertainties on the market.
+• Stable dividend policy, consistent with the
+company's REIT status.
+
+Company Description
+Workspace is a U.K. office real estate investment trust (REIT) that provides short-term flexible leases on its properties,
+located across London. The portfolio was valued at about £2.6 billion as of March 31, 2019 and comprises 66
+properties.
+The company is listed on the London Stock Exchange and is a constituent of the FTSE 250.
+
+Business Risk: Satisfactory
+Workspace is a leading flexible office property owner that operates solely in the London market. Workspace structures
+most of its leases as two years long, with a six-month rolling break clause, and offers a limited number of rent-free
+periods or incentives on larger lettings. Its tenants are predominantly small-to-midsize enterprises (10-50 employees)
+and Workspace believes that these tenants are increasingly demanding greater flexibility from landlords to suit their
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+Workspace Group PLC
+
+needs. Workspace benefits from bringing rents to market value every two years.
+We consider that Workspace's operating model differs from other flexible office providers such as WeWork Companies
+Inc. (B/Stable/--) or IWG PLC. Specifically, Workspace has 100% ownership of its buildings, as recognized through its
+REIT status, while WeWork and IWG lease their spaces from office owners and then sublease to tenants; this exposes
+them to duration risk mismatch between the leases. Additionally, Workspace is similar to traditional landlords because
+it offers unfurnished space and charges by the square foot, while WeWork and IWG offer serviced furnished offices and
+typically charge by the desk. Therefore, we consider that Workspace has a more secure operating model and view it as
+more aligned with the more traditional office landlords we rate investment grade.
+That said, there are some unique risks that we have factored into our business risk profile analysis. Workspace's lease
+maturity profile is particularly short given the two-year length and six-month notice period. This heightens the risk of
+vacancies increasing during a macroeconomic downturn, compared with a more traditional office property company,
+which would typically secure leases for five to 10 years. However, Workspace's occupancy level has remained fairly
+robust--even at the peak of the 2008/2009 financial crisis, occupancy levels fell by only 5%-6%, to 84%. We note that
+Workspace already operates at an occupancy level of around 92%, which is low for the London market (JLL estimates
+that the average occupancy rate in the London office market is currently 95%). Given its business model, the
+company's structural long-term target vacancy rate is about 10%. This allows it to offer a diverse range of space to
+tenants, especially on lease renewal, and to increase rents to market levels quicker than peers. This model has been
+supported by the current high demand for the type of assets Workspace offers; the company's pricing strategy may
+also adjust accordingly during a downturn. We view positively Workspace's track record on tenant retention. Most
+tenants stay with the company for much longer than the standard two-year lease--closer to four-to-six years--and the
+company is currently achieving around a 70% retention rate.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+Workspace Group PLC
+
+Chart 1
+
+Although we factor in the company's limited diversity, given that it operates only in the London office market, this is
+not unique among real estate players. Office players in particular are often concentrated in one domestic market or
+even one large city. Partially offsetting this concentration is the size and liquidity of the London office market.
+London's flexible office market has also experienced notable growth and increased interest, led by high profile global
+players such as WeWork, over the past few years. Savills estimates that flexible office providers took up about 15% of
+central London office space in 2018. London is one of the few global cities where the flexible office market is already
+relatively mature and Workspace, as one of the leading and oldest players in this market, should continue to benefit
+provided the environment remains positive. That said, many traditional landlords are testing this market segment by
+offering more flexible leases, albeit on a smaller scale. This could change the competitive landscape in the future.
+Workspace has a good-quality asset portfolio spread across London, mostly in prime locations, with a focus on central
+locations in zones 1 and 2, and an area that is sometimes referred as the Tech Belt. We view Workspace's portfolio as
+reasonably comparable in terms of location to that of Derwent London. Due to the nature of Workspace's lease
+structure, it has been able to enjoy positive like-for-like rental growth over the past few years, even with Brexit
+uncertainty hanging over the market. Although Workspace's tenants are smaller in size and perhaps lower in quality
+than we usually see for a longer-tenor office landlord, its multi-let model enables it to enjoy the benefits of high tenant
+diversity. Its tenants come from a wide range of sectors and it has only a small exposure to finance, which we view as
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+Workspace Group PLC
+
+a positive in light of Brexit. It has no concentration to any single tenant; its top 10 tenants combined provide about
+10% rental income, which is far more diverse than most office peers we rate.
+Chart 2
+
+Peer comparison
+Table 1
+
+Workspace Group PLC--Peer Comparison
+Industry sector: Real estate investment trust or company
+
+Ratings as of Aug. 22, 2019
+
+Workspace Group
+PLC
+
+Societe Fonciere
+Lyonnaise S.A.
+
+Befimmo S.A.
+
+Alstria Office
+REIT-AG
+
+Immofinanz
+AG
+
+BBB/Stable/--
+
+BBB+/Stable/A-2
+
+BBB/Stable/A-2
+
+BBB/Stable/--
+
+BBB-/Stable/--
+
+--Fiscal year ended-March 31, 2019
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+Revenue
+
+111.0
+
+173.8
+
+129.4
+
+151.9
+
+156.3
+
+EBITDA
+
+96.2
+
+148.8
+
+104.8
+
+129.1
+
+133.3
+
+Funds from operations
+(FFO)
+
+69.8
+
+108.7
+
+85.6
+
+105.2
+
+74.8
+
+Interest expense
+
+24.2
+
+28.6
+
+16.7
+
+26.8
+
+65.1
+
+(Mil. £)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+Workspace Group PLC
+
+Table 1
+
+Workspace Group PLC--Peer Comparison (cont.)
+Cash interest paid
+
+26.4
+
+25.9
+
+18.2
+
+23.9
+
+Cash flow from operations
+
+69.9
+
+110.4
+
+81.7
+
+106.9
+
+53.5
+
+Capital expenditure
+
+86.1
+
+34.5
+
+45.8
+
+79.6
+
+117.5
+
+Cash and short-term
+investments
+
+17.3
+
+22.7
+
+0.5
+
+119.4
+
+567.5
+
+605.9
+
+1,570.6
+
+1,042.6
+
+1,093.6
+
+1,649.2
+
+1,982.0
+
+4,053.1
+
+1,296.5
+
+2,411.1
+
+2,515.6
+
+Annual revenue growth (%)
+
+16.1
+
+(1.2)
+
+0.6
+
+(1.9)
+
+15.4
+
+EBITDA margin (%)
+
+86.7
+
+85.6
+
+81.0
+
+85.0
+
+85.2
+
+Return on capital (%)
+
+3.8
+
+2.7
+
+4.6
+
+3.9
+
+3.6
+
+EBITDA interest coverage
+(x)
+
+4.0
+
+5.2
+
+6.3
+
+4.8
+
+2.0
+
+FFO cash interest coverage
+(x)
+
+3.6
+
+5.2
+
+5.7
+
+5.4
+
+2.5
+
+Debt
+Equity
+
+49.9
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+6.3
+
+10.6
+
+10.0
+
+8.5
+
+12.4
+
+FFO/debt (%)
+
+11.5
+
+6.9
+
+8.2
+
+9.6
+
+4.5
+
+Cash flow from
+operations/debt (%)
+
+11.5
+
+7.0
+
+7.8
+
+9.8
+
+3.2
+
+Debt/debt and equity (%)
+
+23.4
+
+27.9
+
+44.6
+
+31.2
+
+39.6
+
+Financial Risk: Modest
+Workspace's financial risk profile is underpinned by the company's prudent balance sheet and commitment to
+maintaining an LTV ratio below 30%. We also note positively its robust unsecured capital structure, with no material
+debt maturities until 2022. We believe that there is high likelihood that the company will maintain its EBITDA interest
+coverage ratio close to 4x over the next two years, supported by growing rental increases, EBITDA growth, and recent
+refinancing activities that have lowered the company's cost of debt. Workspace now has a cost of debt of 3.7% in the
+year to March 2019, compared to 4.3% for the 12 months before. The company enjoys a healthy balance sheet and
+reported resilient cash flow, even in difficult years. We expect S&P Global Ratings-adjusted ratio of
+debt-to-debt-plus-equity to be 25%-30% in next few years, which is at the stronger end of what we typically observe
+for our European real estate peer group.
+Our assessment of Workspace's financial risk profile also factors in the relatively small EBITDA base of the company
+and its large capex, which we will continue to monitor. The portfolio has been growing over the past few years due to
+this capex as Workspace has expanded its business as interest in the flexible office market has increased. We expect
+this to continue into the future. We also see as positive the company's lack of large speculative
+development--Workspace only carries out refurbishment projects that represent a maximum of 10% of the gross asset
+value. We think these refurbishment projects are crucial to bring the Workspace buildings in line with its flexible office
+offering by adding or upgrading space. They also allow the company to increase rents by offering modern vacant
+spaces to tenants.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+Workspace Group PLC
+
+Chart 3
+
+Financial summary
+Table 2
+
+Workspace Group PLC--Financial Summary
+Industry sector: Real estate investment trust or company
+--Fiscal year ended Mar. 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+111.0
+
+95.6
+
+79.2
+
+74.1
+
+57.7
+
+EBITDA
+
+96.2
+
+82.9
+
+70.4
+
+69.2
+
+48.0
+
+Funds from operations (FFO)
+
+69.8
+
+62.3
+
+52.5
+
+50.4
+
+28.9
+
+Interest expense
+
+24.2
+
+20.4
+
+15.7
+
+17.9
+
+19.4
+
+Cash interest paid
+
+26.4
+
+20.4
+
+16.5
+
+18.8
+
+19.3
+
+Cash flow from operations
+
+69.9
+
+71.0
+
+51.4
+
+49.2
+
+36.5
+
+Capital expenditure
+
+86.1
+
+74.3
+
+57.5
+
+55.7
+
+36.0
+
+Cash and short-term investments
+
+17.3
+
+13.9
+
+2.7
+
+24.5
+
+40.3
+
+(Mil. £)
+
+Gross available cash
+Debt
+Equity
+
+17.3
+
+13.9
+
+2.7
+
+24.5
+
+40.3
+
+605.9
+
+535.4
+
+251.7
+
+282.2
+
+278.5
+
+1,982.0
+
+1,712.9
+
+1,578.5
+
+1,517.6
+
+1,146.3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+Workspace Group PLC
+
+Table 2
+
+Workspace Group PLC--Financial Summary (cont.)
+Industry sector: Real estate investment trust or company
+--Fiscal year ended Mar. 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Debt and equity
+
+2,587.9
+
+2,248.3
+
+1,830.2
+
+1,799.8
+
+1,424.8
+
+Valuation of investment property
+
+2,591.4
+
+2,288.7
+
+1,839.0
+
+1,749.4
+
+1,408.9
+
+Annual revenue growth (%)
+
+16.1
+
+20.7
+
+6.9
+
+28.4
+
+14.7
+
+EBITDA margin (%)
+
+86.7
+
+86.7
+
+88.9
+
+93.4
+
+83.2
+
+Return on capital (%)
+
+3.8
+
+3.9
+
+3.7
+
+4.3
+
+4.2
+
+EBITDA interest coverage (x)
+
+4.0
+
+4.1
+
+4.5
+
+3.9
+
+2.5
+
+FFO cash interest coverage (x)
+
+3.6
+
+4.1
+
+4.2
+
+3.7
+
+2.5
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+6.3
+
+6.5
+
+3.6
+
+4.1
+
+5.8
+
+FFO/debt (%)
+
+11.5
+
+11.6
+
+20.9
+
+17.9
+
+10.4
+
+Cash flow from operations/debt (%)
+
+11.5
+
+13.3
+
+20.4
+
+17.4
+
+13.1
+
+Debt/debt and equity (%)
+
+23.4
+
+23.8
+
+13.8
+
+15.7
+
+19.5
+
+Liquidity: Adequate
+We assess Workspace's liquidity as adequate. We anticipate that liquidity sources will likely cover uses by about 1.4x
+to 1.6x in the 12 months from June 30, 2019.
+Our assessment is supported by Workspace's minimal debt maturities in the coming 12 months, and the large partly
+undrawn £250 million revolving credit facility (RCF). That said, the company's limited track record in the debt capital
+markets constrains our assessment to adequate at this stage.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We estimate principal liquidity sources for the 12
+months from June 30, 2019, as follows:
+
+This compares with the following principal liquidity
+uses for the same period:
+
+• Unrestricted cash and liquid investments of around
+£15 million as of June 30, 2019.
+
+• About £80 million of forecast capex for maintenance
+and development.
+
+• Our forecast of an estimated £85 million of cash
+funds from operations under our base-case credit
+scenario.
+
+• About £60 million of dividend payments.
+
+• About £120 million undrawn portion of the RCF,
+maturing in more than 12 months.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 10
+
+Workspace Group PLC
+
+Debt maturities
+No material debt maturities until 2022
+Chart 4
+
+Other Credit Considerations
+Despite Workspace's long track record and good positioning in the rising flexible office market, our overall assessment
+reflects our view that it is less well positioned compared with bigger office peers in the U.K. and Europe, such as
+Derwent London and Societe Fonciere Lyonnaise. Its lease maturity profile is much shorter than we typically see--45%
+of Workspace's rent roll expires within the first year--and we consider that this could lead to increased cash flow
+volatility. Additionally, Workspace's EBITDA interest coverage is at the lower end compared with other
+investment-grade rated peers that have a similar financial risk profile assessment (for instance, Global Switch or
+Prologis European Logistic Fund). Therefore, we modify the 'bbb+' anchor downward by one notch to reflect our
+comparable ratings assessment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 11
+
+Workspace Group PLC
+
+Reconciliation
+Table 3
+
+Reconciliation Of Workspace Group PLC Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. £)
+--Fiscal year ended Mar. 31, 2019-Workspace Group PLC reported amounts
+
+Reported
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted Cash flow from
+EBITDA
+operations
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Capital
+expenditure
+
+607.4
+
+102.5
+
+161.9
+
+21.5
+
+96.2
+
+76.1
+
+88.8
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(23.7)
+
+--
+
+--
+
+15.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(17.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+2.7
+
+(2.7)
+
+(2.7)
+
+(2.7)
+
+Share-based compensation
+expense
+
+--
+
+1.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+0.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3.5)
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+(8.3)
+
+(8.3)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation gains/(losses)
+
+--
+
+--
+
+(60.8)
+
+--
+
+--
+
+--
+
+--
+
+(1.5)
+
+(6.3)
+
+(69.1)
+
+2.7
+
+(26.4)
+
+(6.2)
+
+(2.7)
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from Cash flow from
+operations
+operations
+
+Capital
+expenditure
+
+605.9
+
+96.2
+
+92.8
+
+24.2
+
+Reported lease liabilities
+Accessible cash and liquid
+investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+69.8
+
+69.9
+
+86.1
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 12
+
+Workspace Group PLC
+
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Real Estate Disruption: Can Traditional Office Landlords Co-Work With Flexible Office Space Players? April 09,
+2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 13
+
+Workspace Group PLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 10, 2019)*
+Workspace Group PLC
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Issuer Credit Ratings History
+13-Nov-2018
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 15
+
+

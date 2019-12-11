@@ -1,0 +1,1480 @@
+Powerco Ltd.
+Primary Credit Analyst:
+Sonia Agarwal, Melbourne (61) 3-9631-2102; sonia.agarwal@spglobal.com
+Secondary Contact:
+Parvathy Iyer, Melbourne (61) 3-9631-2034; parvathy.iyer@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+S&P Global Ratings Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+Powerco Ltd.
+Business Risk: EXCELLENT
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/A-2
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Natural monopoly provider of electricity and gas distribution networks in
+New Zealand
+
+High capital expenditure over next three to four years under CPP
+
+Strong regulatory regime with predictable and stable cash flow
+
+Cash flow remain sensitive to weighted average cost of capital; FFO
+to debt to reduce to 7.5%-8% after April 2020 reset
+
+Simple operations and reduction in volume risk due to revenue cap under
+the customized price path (CPP) for the electricity segment
+
+Powerco Ltd. will continue to benefit from regulated cash flow under the customized price path (CPP) until 2023. The
+company's capital and operating spending remain in line with the CPP. We will continue to monitor the company's
+performance under its reliability and availability parameters, which are required to improve every year under the CPP.
+Reduction in weighted-average cost of capital (WACC) to take effect from next financial year. In line with the final
+default pricing path (DPP), the WACC for Powerco will be reset commencing April 2020. Consequently, there will be a
+significant step-down of the WACC for the rest of the current regulatory period (till March 2023). As per the draft DPP
+released in June 2019, the WACC was estimated at 5.13%, compared with the current WACC of 7.19% for the first two
+years (fiscal 2019 and fiscal 2020) of the CPP. The final WACC is likely to be lower by about 50-60 basis points (bps),
+and we expect the company to moderate its dividends so as to maintain the metrics above the 7% downside trigger.
+Despite reduced cash flow, the company's funds from operations (FFO) to debt would be around 7.5%-8%, with some
+buffer above our downside trigger. Supporting the ratio will be a reduction in borrowing costs given the low interest
+rate environment. Furthermore, the company retains the flexibility of moderating dividends should it need to.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+Powerco Ltd.
+
+Outlook: Stable
+
+The stable rating outlook on Powerco Ltd. reflects the strength of the company's stable network businesses and
+earnings visibility over the next three to four years under the CPP outcome. Further, we believe that Powerco
+would operate within the allowances set under the regulatory outcome and manage its capital structure, subject to
+the final WACC outcome, consistent with the current ratings.
+
+Downside scenario
+The likely buffer in the financial metrics and Powerco's flexible approach to dividends reduce the risk of rating
+downside.
+However, we believe downward rating pressure could occur if debt funding of capital expenditure or dividends
+were to be aggressive, signaling a higher risk appetite. An FFO-to-debt ratio falling to below 7% would signal
+negative rating pressure.
+
+Upside scenario
+We believe rating upside is of low probability over the next two to three years, given Powerco's policy of operating
+at the current rating and that it is in the early stages of its CPP phase. However, we may raise the rating if we
+believe the company will continue to operate with an FFO-to-debt ratio closer to 9%.
+
+S&P Global Ratings Base-Case Scenario
+Assumptions
+• New Zealand's GDP to grow at 2.7% and inflation of 1.8% over the next two to three years. However, the electricity
+and gas demand trends are not linearly correlated with economic factors, although periods of weak economic
+growth could have a lagged impact.
+• Regulated electricity revenue in line with the approved CPP and incorporating a reduced WACC from April 2020;
+• Gas network tariffs as per the final reset parameters since October 2017;
+• Slow growth in gas volumes and customer numbers compared with previous years;
+• Operating expenses to remain within the electricity CPP and gas default price path (DPP), leading to an EBITDA
+margin of 63%-66% (net of transmission costs) over the next couple of years;
+• Capital expenditure of NZ$190 million-NZ$220 million per year (excluding customer contributions) for the next two
+to three years, which are within the regulatory allowances.
+• Stable dividends over the next couple of years; and
+• Average interest rates to reduce to around 4% after completing the current regulatory hedging cycle.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+Powerco Ltd.
+
+Key Metrics
+Year end March 31
+
+2019A
+
+2020E
+
+2021E
+
+EBITDA margin (%)
+
+69.0 64.0-66.0 63.0-65.0
+
+FFO to debt (%)
+
+10.5
+
+9.0-10.0
+
+7.5-8.0
+
+2.8
+
+2.5-3.0
+
+2.5-3.0
+
+FFO cash interest coverage (x)
+
+A--Actual. E—Estimate. FFO—Funds from operations.
+
+Company Description
+Powerco is New Zealand's second-largest regulated electricity and gas distributor. The company has a defined
+franchise area in the North Island and services about 450,000 customers. About 87% of revenue comes from its
+dominant electricity network business, 13% from its gas network.
+Powerco's ultimate shareholders are funds owned/managed by QIC (58%), AMP Capital (15%), and by PINZ Holding
+Co. (27%).
+
+Business Risk: Excellent
+Powerco's monopoly profile and certainty in profitability arising from New Zealand's strong regulatory framework
+underpin its business risk profile.
+The regulatory framework is mature and predictable, as well as stable, supportive, and transparent. The building-block
+approach provides stability and visibility to utilities' revenues and EBITDA margins for about five years under each
+regulatory period, supporting financial stability. Electricity revenues are set until March 2023 and gas pricing until
+October 2022.
+Powerco continues to operate under the CPP, which has enabled it to meet the significantly higher capital investment
+required on its electricity network. The company could revert to a DPP after completion of its large capital works.
+Furthermore, operating under a revenue cap mechanism for the electricity segment under the CPP ensures that
+Powerco's operations are not exposed to volume risks, supporting stronger cash flow certainty over 2019 to 2023.
+We expect the company's revenues for its regulated electricity and gas networks to decline to about NZ$330 million in
+the year ending March 31, 2021, excluding the pass-through costs and customer contributions. Although Powerco does
+not operate on the DPP for the electricity segment, its WACC for the remainder of the CPP will be reset in line with its
+peers operating on the DPP. The extent of decline would depend on the final WACC, which would be released as part
+of the final DPP in November 2019.
+Powerco's operations remain stable, and we believe that it will manage its business in line with the expenditures
+approved by the regulator. These investments are focused on asset renewals, network growth, and security, and are
+likely to support the network reliability and availability targets in the coming years. Failure to meet the targets can
+result in some penalties, and the management will closely monitor the performance to minimize such instances.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+Powerco Ltd.
+
+Peer comparison
+• Powerco's closest peers are the two New Zealand-based regulated utilities-- Vector Ltd. and Transpower New
+Zealand Ltd.--while Australian regulated utilities are also comparable.
+• All peers are subject to a similar regulatory process, and hence, carry similar regulatory risks. We consider New
+Zealand's regulatory framework to be at par with Australia's, thereby supporting their business risks. As a result, we
+evaluate the utilities against our low volatility financial thresholds.
+• All peers, except Vector, are on a revenue cap for the electricity segment. Vector will move to a revenue cap in
+electricity from April 2020 under the next DPP. In addition, constraining Vector's business profile is its exposure to
+the wholesale gas business. Generally, most Australian regulated utilities have minimal unregulated businesses, and
+consequently, have somewhat higher margins.
+Table 1
+
+Powerco Ltd. -- Peer Comparison
+
+(Mil. Mix curr.)
+
+Powerco Ltd.
+
+Vector Ltd.
+
+--Fiscal year ended
+March 30, 2019--
+
+--Fiscal year
+ended June 30,
+2018--
+
+Transpower New
+Zealand Ltd.
+
+Victoria Power
+Networks (Finance)
+Pty Ltd.
+
+United Energy
+Distribution Holdings
+Pty Ltd.
+
+--Fiscal year ended
+June 30, 2018--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+NZ$
+
+NZ$
+
+NZ$
+
+A$
+
+A$
+
+Revenue
+
+341.3
+
+1,036.3
+
+1,084.4
+
+1,288.2
+
+485.8
+
+EBITDA
+
+235.5
+
+477.5
+
+803.9
+
+840.5
+
+374.4
+
+Funds from operations
+(FFO)
+
+151.6
+
+292.2
+
+548.0
+
+668.6
+
+291.3
+
+Interest expense
+
+84.0
+
+127.4
+
+213.9
+
+169.2
+
+75.1
+
+Cash interest paid
+
+83.9
+
+124.0
+
+205.2
+
+172.2
+
+83.1
+
+Cash flow from
+operations
+
+183.4
+
+328.8
+
+561.0
+
+461.2
+
+280.4
+
+Capital expenditure
+
+228.1
+
+310.9
+
+293.7
+
+483.2
+
+149.4
+
+Free operating cash flow
+(FOCF)
+
+(44.7)
+
+17.9
+
+267.3
+
+(22.1)
+
+131.1
+
+Discretionary cash flow
+(DCF)
+
+(144.7)
+
+(155.1)
+
+102.3
+
+(175.7)
+
+(19.4)
+
+0.3
+
+27.9
+
+76.0
+
+57.7
+
+7.5
+
+1,443.1
+
+2,284.7
+
+3,105.2
+
+4,458.5
+
+2,064.2
+
+583.8
+
+2,610.9
+
+1,555.7
+
+2,157.9
+
+810.9
+
+EBITDA margin (%)
+
+69.0
+
+46.1
+
+74.1
+
+65.2
+
+77.1
+
+Return on capital (%)
+
+7.8
+
+5.1
+
+11.6
+
+8.0
+
+8.0
+
+EBITDA interest
+coverage (x)
+
+2.8
+
+3.7
+
+3.8
+
+5.0
+
+5.0
+
+FFO cash interest
+coverage (x)
+
+2.8
+
+3.4
+
+3.7
+
+4.9
+
+4.5
+
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+FFO/debt (%)
+
+6.1
+
+4.8
+
+3.9
+
+5.3
+
+5.5
+
+10.5
+
+12.8
+
+17.6
+
+15.0
+
+14.1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+Powerco Ltd.
+
+Table 1
+
+Powerco Ltd. -- Peer Comparison (cont.)
+Cash flow from
+operations/debt (%)
+
+12.7
+
+14.4
+
+18.1
+
+10.3
+
+13.6
+
+FOCF/debt (%)
+
+(3.1)
+
+0.8
+
+8.6
+
+(0.5)
+
+6.3
+
+(10.0)
+
+(6.8)
+
+3.3
+
+(3.9)
+
+(0.9)
+
+DCF/debt (%)
+
+Financial Risk: Aggressive
+The strong regulatory regime and revenue cap for over 80% of the cash flow enable Powerco to operate with a lower
+range of financial metrics for the same rating level. We assess Powerco against our lower threshold metrics (consistent
+with utility peers in Australia).
+We believe that the company will continue to debt fund about 60%-70% of its capital expenditure under its CPP. The
+company embarked upon revising its capital structure last year to keep metrics consistent with the 'BBB' rating.
+In addition, the reduction in WACC applicable from April 2020 would lead to lower cash flow for the company. The
+company's alignment of its interest hedges would partially offset the decline.
+All these factors will slowly weaken the company's FFO to total debt first toward 9% by fiscal 2020, and then in the
+range of 7.5%-8% subsequently, from 10.5% in fiscal 2019. This tapering factors in capital spending of NZ$190
+million-NZ$220 million per year (net of customer contributions), with some intra-year flexibility, and stable dividend
+flows. The capital spending is likely to increase the company's debt levels to NZ$1.9 billion over the next three years.
+Given Powerco's higher capital spending and debt, we don't expect the company to embark on acquisitions or to
+depart from its focus on regulated businesses.
+We expect Powerco to continue to operate with a buffer against its financial targets of FFO to debt of at least 7% and
+regulatory leverage of below 77.5%.
+The company has successfully refinanced its shareholder loan notes earlier this year. We continue to assess these
+shareholder loans at Powerco's holding entity as equity-like for analytical purposes. We believe that these loan notes
+would continue to retain their equity-like characteristics, including being deeply subordinated, have very limited rights
+so long as senior debt is outstanding, have no right to accelerate or demand payments, or call an event of default.
+Powerco New Zealand Holding Ltd. (PNZHL) is the holding entity of Powerco, has no external debt, and has
+limitations on its business operations. If PNZHL's role were to change, the loan notes were to lose their equity-like
+characteristics, and/or if PNZHL were to incur external debt, this remote scenario would affect our view of the overall
+group, and hence, Powerco.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+Powerco Ltd.
+
+Table 2
+
+Powerco Ltd. -- Financial Summary
+--Fiscal year ended Mar. 30-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+341.3
+
+323.3
+
+318.5
+
+321.6
+
+311.9
+
+EBITDA
+
+235.5
+
+235.4
+
+229.3
+
+234.4
+
+231.9
+
+Funds from operations (FFO)
+
+151.6
+
+155.9
+
+149.0
+
+144.3
+
+144.8
+
+Interest expense
+
+84.0
+
+80.4
+
+81.2
+
+91.2
+
+89.4
+
+Cash interest paid
+
+83.9
+
+79.4
+
+80.4
+
+90.1
+
+87.1
+
+Cash flow from operations
+
+183.4
+
+177.5
+
+152.1
+
+151.5
+
+142.0
+
+Capital expenditure
+
+228.1
+
+180.0
+
+143.6
+
+128.1
+
+110.9
+
+Free operating cash flow (FOCF)
+
+(44.7)
+
+(2.6)
+
+8.6
+
+23.3
+
+31.1
+
+(Mil. NZ$)
+
+Discretionary cash flow (DCF)
+
+(144.7)
+
+(59.3)
+
+(49.9)
+
+(26.7)
+
+(15.2)
+
+Cash and short-term investments
+
+0.3
+
+0.9
+
+0.4
+
+0.6
+
+0.4
+
+Gross available cash
+
+0.3
+
+0.9
+
+0.4
+
+0.6
+
+0.4
+
+Debt
+Equity
+
+1,443.1 1,296.1 1,246.6 1,273.9 1,245.6
+583.8
+
+571.5
+
+541.1
+
+540.6
+
+534.4
+
+EBITDA margin (%)
+
+69.0
+
+72.8
+
+72.0
+
+72.9
+
+74.4
+
+Return on capital (%)
+
+7.8
+
+8.0
+
+7.6
+
+8.0
+
+8.7
+
+EBITDA interest coverage (x)
+
+2.8
+
+2.9
+
+2.8
+
+2.6
+
+2.6
+
+FFO cash interest coverage (x)
+
+2.8
+
+3.0
+
+2.9
+
+2.6
+
+2.7
+
+Debt/EBITDA (x)
+
+6.1
+
+5.5
+
+5.4
+
+5.4
+
+5.4
+
+FFO/debt (%)
+
+10.5
+
+12.0
+
+12.0
+
+11.3
+
+11.6
+
+Cash flow from operations/debt (%)
+
+12.7
+
+13.7
+
+12.2
+
+11.9
+
+11.4
+
+FOCF/debt (%)
+
+(3.1)
+
+(0.2)
+
+0.7
+
+1.8
+
+2.5
+
+(10.0)
+
+(4.6)
+
+(4.0)
+
+(2.1)
+
+(1.2)
+
+Adjusted ratios
+
+DCF/debt (%)
+
+Liquidity: Adequate
+Powerco's adequate liquidity underpins the short-term rating of 'A-2'. We expect Powerco to maintain this profile
+through timely refinancing of its medium-term notes maturing February 2020 at least three months in advance. In
+addition, we expect Powerco to maintain adequate funding for its capital works.
+On this basis, we expect the sources of liquidity to exceed uses by 1.1x (threshold for regulated utilities) over the next
+12 months, and sources to exceed uses if EBITDA were to decline by 10%. In our view, Powerco has a good standing
+in credit markets--both with banks and in capital markets--and a track record of delivering on its plan.
+Powerco continues to operate within the covenants under its bank and bond documents. We expect the company to
+maintain sufficient headroom to its interest coverage and regulatory leverage covenants over the medium term.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+Powerco Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash flow from operations of about NZ$180 million
+over the 12 months ending June 30, 2020; and
+
+• Capital expenditure of about NZ$200 million over
+the 12 months ending June 30, 2020, with flexibility
+on quantum and timing;
+
+• Undrawn committed bank lines maturing beyond six
+months of about NZ$170 million as of June 30,
+2019.
+
+• Stable dividend outflow over the next 12 months (in
+line with previous years); and
+• No debt maturities over the six months ending Dec.
+31, 2019.
+
+Debt maturities
+Year ending March 31
+
+Amount (NZ$ million)
+
+2020
+
+100.0
+
+2021
+
+266.4
+
+2022
+
+100.0
+
+2023
+
+150.0
+
+2024
+
+189.2
+
+Thereafter
+
+843.2
+
+Data as of June 30, 2019.
+
+Environmental, Social, And Governance
+
+As an energy transmitter and distributor, Powerco's environmental and social risks are relatively benign compared
+with electricity generators or integrated utilities, in our view.
+Environmental factors are neutral because Powerco is not exposed directly to the emissions associated with fossil
+fuel power generation. With a significant footprint in New Zealand's North Island, the company's social factors
+include providing reliable and safe electricity and gas networks in its service area. We believe that the company is
+well experienced and the risks remain neutral, given the company's track record.
+Governance is neutral to our credit analysis because we view Powerco's governance practices to be consistent with
+industry peers'.
+
+Group Influence
+Given Powerco's ownership by multiple funds, we do not apply our group rating methodology. PNZHL is the
+immediate holding company of Powerco, and its current role is to only hold shares in Powerco. In addition, the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 8
+
+Powerco Ltd.
+
+shareholder loan notes at PNZHL are subject to a subordination deed with limited rights so long as senior debt is
+outstanding at Powerco.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Powerco's capital structure comprises secured debt of NZ$1,298.8 million and secured committed bank facilities of
+NZ$350 million.
+
+Analytical conclusions
+We rate Powerco's secured debt at 'BBB', in line with the issuer rating, given that all debt are secured and rank pari
+passu. In addition, no significant elements of subordination risk are present in the capital structure.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Powerco Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. NZ$)
+--Fiscal year ended Mar. 31, 2019-Powerco Ltd. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+Debt
+
+Revenue
+
+EBITDA
+
+Operating
+income
+
+1,521.6
+
+496.6
+
+270.0
+
+186.1
+
+81.8
+
+235.5
+
+189.8
+
+234.5
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(81.7)
+
+--
+
+--
+
+8.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2.1
+
+(2.1)
+
+(2.1)
+
+(2.1)
+
+(86.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Revenue: Other
+
+--
+
+(155.3)
+
+(155.3)
+
+(155.3)
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+120.8
+
+120.8
+
+--
+
+--
+
+--
+
+--
+
+Operating cash flow:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4.3)
+
+--
+
+Capital expenditure:
+Customer
+contributions
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4.3)
+
+(78.5)
+
+(155.3)
+
+(34.5)
+
+(34.5)
+
+2.1
+
+(83.9)
+
+(6.4)
+
+(6.4)
+
+Reported lease
+liabilities
+Accessible cash and
+liquid investments
+Capitalized interest
+Debt: Foreign
+currency hedges
+
+Total adjustments
+S&P Global
+Ratings' adjusted
+amounts
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+Powerco Ltd.
+
+Table 3
+
+Reconciliation Of Powerco Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+NZ$) (cont.)
+--Fiscal year ended Mar. 31, 2019-Powerco Ltd. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+Debt
+
+Revenue
+
+EBITDA
+
+Operating
+income
+
+Debt
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+1,443.1
+
+341.3
+
+235.5
+
+151.6
+
+84.0
+
+151.6
+
+183.4
+
+228.1
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/A-2
+
+Business risk: Excellent
+
+• Country risk: Low
+• Industry risk: Very low
+• Competitive position: Strong
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 10
+
+Powerco Ltd.
+
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+S&P Global Ratings Australia Pty Ltd holds Australian financial services license number 337565 under the Corporations Act 2001. S&P Global
+Ratings' credit ratings and related research are not intended for and must not be distributed to any person in Australia other than a wholesale
+client (as defined in Chapter 7 of the Corporations Act).
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+Strong
+Satisfactory
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Fair
+
+Ratings Detail (As Of September 4, 2019)*
+Powerco Ltd.
+Issuer Credit Rating
+
+BBB/Stable/A-2
+
+Senior Secured
+
+BBB
+
+Issuer Credit Ratings History
+10-Mar-2005
+
+BBB/Stable/A-2
+
+03-Nov-2004
+
+BBB/Watch Neg/A-2
+
+09-Aug-2004
+
+BBB+/Watch Neg/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 12
+
+

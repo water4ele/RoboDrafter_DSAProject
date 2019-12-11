@@ -1,0 +1,1413 @@
+Nanjing Yangzi State-Owned Assets
+Investment Group Co. Ltd.
+Primary Credit Analyst:
+Angie Liu, Singapore (65) 6216-1145; angie.liu@spglobal.com
+Secondary Contacts:
+Laura C Li, CFA, Hong Kong (852) 2533-3583; laura.li@spglobal.com
+Lulu Jiang, Hong Kong (852) 2532-8087; lulu.jiang@spglobal.com
+Gloria Lu, CFA, FRM, Hong Kong (852) 2533-3596; gloria.lu@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Table Of Contents (cont.)
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Nanjing Yangzi State-Owned Assets Investment
+Group Co. Ltd.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+bbb+
+
+b-
+
+BBB+/Stable/--
+
+b
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Extremely high likelihood of extraordinary government support
+
+Low profitability driven by the not-for-profit nature of
+businesses.
+
+Nanjing's city planning underpins the company's continued infrastructure
+investment mandates
+
+Negative operating cash flows due to high interest burden.
+
+Satisfactory financing flexibility.
+
+Rising debt to fund large projects.
+
+Jiangbei District's infrastructure gap with Nanjing metropolitan area underpins Yangzi's continued mandate for sizable
+investments. As the largest and most important infrastructure development platform of Jiangbei, the only state level
+district in Jiangsu province established in 2015, Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd. will
+have significant future investment needs, in our view. Nanjing's recent dual city plan (metropolitan area and Jiangbei),
+combined with Jiangbei's short history since 2016 establishment, means a meaningful amount of infrastructure catchup
+is still needed to narrow Jiangbei's gap with the metropolitan area of Nanjing.
+Nanjing municipal government continues to act as controller of Nanjing Yangzi despite the shareholder change. We
+believe Nanjing municipal government remains the ultimate controlling party of Nanjing Yangzi. In our view, Jiangbei
+administrative council acts as an extension of Nanjing municipal government, executing its economic and social
+objectives, with city mayor and other senior members of the party taking various leadership roles in the council.
+The credit profile of Nanjing municipal government continues to underpin that of Nanjing Yangzi. Our assessment of
+the credit profile of the Nanjing city government is anchored by our view of the city's vibrant and growing economy.
+Nanjing is one of the wealthiest cities in China. The strong economy supports the city's very strong budgetary
+performance. Even though Nanjing lacks the flexibility to adjust its revenue generation mechanism like all other
+Chinese local governments, this is mitigated by its above-average capability to generate revenues from asset sales.
+Lastly, Nanjing has very high debt burden with large LGFV sector that carries out the infrastructure projects. Given the
+central government's continued efforts to deleverage and focus on quality growth, we expect the city to stay vigilant in
+controlling its debt accumulation going forward.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Nanjing Yangzi's deep involvement in the city's shanty town renovation program reflects its importance to the
+government. As the only LGFV representing the Nanjing government for Shanty-town renovation borrowing, Nanjing
+Yangzi takes loans from China Development Bank (CDB) for the entire city's shanty-town renovation program. As of
+end 2018, the company has drawn down Chinese renminbi (RMB) 27.5 billion 25-year low cost debt from CDB, of
+which RMB26.1 billion has been lent on to other LGFVs of Nanjing.
+
+Outlook: Stable
+
+The stable outlook on Nanjing Yangzi reflects our view of the stable credit profile of the Nanjing municipal
+government over the coming two years. We expect that Nanjing will maintain a solid and above-average economic
+growth in the forecasted horizon, which will continue to be reflected on its budgetary performance.
+
+Downside scenario
+We could downgrade Nanjing Yangzi if the likelihood of receiving extraordinary government support significantly
+weakens, possibly due to a change in the government's strategies or priorities. Loosened government control, the
+company's expansion in non-infrastructure related businesses, or a significant reduction in the government's
+ownership could indicate declining commitment of support. Heightened policy risk, which may prevent the
+municipal government from providing extraordinary support in a timely manner, would also trigger a downward
+rating action.
+We could also lower the rating if the creditworthiness of the Nanjing municipal government materially deteriorates.
+This could happen if:
+• Nanjing's economy weakens materially from the current level, leading to structural and persistent deterioration
+of the budgetary performance, or
+• The government's contingent liability exposure rises notably or the SOEs' performances deteriorate
+substantially, leading to heightened likelihood of risk materialization.
+
+Upside scenario
+We may upgrade Nanjing Yangzi if the creditworthiness of the Nanjing city government materially improves, in our
+view. This could happen if the government is able to reduce its debt burden substantially from the current level in a
+sustainable manner.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Assumptions
+
+Key Metrics
+
+• China's GDP growth will slow to 6.2% in 2019 and
+2020.
+FFO/Debt (%)
+
+• Nanjing Yangzi's revenue to rise by a high single
+digit each year in 2019 and 2020, owning to its
+growing income from infrastructure construction,
+primary land development, and affordable housing
+segments.
+
+FFO cash interest coverage (x)
+
+2018A
+
+2019E
+
+2020E
+
+(2.4)
+
+(5)-(2)
+
+(5)-(2)
+
+0.2 0.1-0.4 0.1-0.4
+
+* A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Its EBITDA margin to be 15%-20% over 2019 and
+2020, roughly in line with 2018.
+• The company's capital expenditure and working
+capital combined net outlays to remain elevated at
+RMB15 billion–RMB20 billion each year in 2019 and
+2020.
+• The parent government's ongoing support in the
+form of equity injection to be around RMB3
+billion-RMB5 billion per year.
+• No dividend payment.
+• Weighted average cost of debt to be around 5.1%.
+
+Base-case projections
+Operating cash out flows are set to remain substantial driven by infrastructure spending and interest expense.Given
+Nanjing Yangzi's long project pipelines, we expect the company to spend RMB15 billion-RMB20 billion each year on
+infrastructure investments in 2019 and 2020. We also expect high interest expense of RMB6 billion-RMB7 billion per
+year, given its sheer size of debt.
+Infrastructure investment funds de facto borrowings are likely to remain high in the next 12-18 months.A sizable
+portion of Nanjing Yangzi's minority shareholdings are accrued from its infrastructure investment funds. As of
+end-2018, the total fund size has reached RMB21 billion, of which RMB17.8 billion was funded by various financial
+institutions acting as limited partners. Such exposure is unlikely to shrink over the next two years, given Nanjing
+Yangzi's significant investment needs.
+Debt growth is set to outpace that of operating profits. We expect Nanjing Yangzi's leverage--measured as funds from
+operations (FFO) in relation to debt--will remain negative, due to the not-for profit nature of the company's
+investments.
+
+Company Description
+Nanjing Yangzi is a local government financing-vehicle (LGFV) focused on developing the Jiangbei New District of
+Nanjing, Jiangsu, China. The company is the dominant platform in the district for infrastructure construction, primary
+land development, affordable housing, and utility service. Nanjing Yangzi also serves as the only financing vehicle for
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+redevelopment of shanty towns in Nanjing city. It is 100% owned by the Nanjing city government.
+
+Business Risk: Weak
+In our opinion, Nanjing Yangzi's business is highly dependent on the government's infrastructure plan. Due to the
+economic and political importance of Jiangbei district, the company has rapidly increased its infrastructure
+investments over the past few years. Nanjing Yangzi has high geographical concentration, and a limited customer base
+and product diversification. The reliance on the government also limits the company's working capital management.
+The local government has a significant say in the settlement of receivables.
+Nanjing Yangzi's not-for-profit position for public projects also anchors its weak profitability. The gross margin in
+infrastructure investments is generally low at 10%-15%. For affordable housing, profit only comes from ancillary
+commercial attachments, and the company is permitted to sell only a limited number of units to the market. In
+addition, the price adjustments on Nanjing Yangzi's distributed electricity, water, and steam has been slow and under
+the government's tight control. Lastly, despite the hike in Jiangbei's land premiums over the past three years, visibility
+on the pace of land transactions is low due to macroeconomic and other unforeseeable reasons.
+Nevertheless, we expect Nanjing Yangzi to remain the only dominant LGFV closely controlled by the Nanjing
+municipal government within the district. The risk of it being replaced is therefore low. This status underpins the
+company's monopoly in each of its major business sectors. Nanjing Yangzi has grown rapidly in the past few years and
+was the largest LGFV in Nanjing as of end 2018.
+
+Peer comparison
+Table 1
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.--Peer Comparison
+Industry sector: Engineering and construction
+Nanjing Yangzi State-Owned
+Assets Investment Group Co. Ltd.
+
+Changsha Pilot Investment
+Holdings Co. Ltd.
+
+Jinan West City Investment and
+Development Group Co. Ltd.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenue
+
+7,174.3
+
+7,859.5
+
+4,942.1
+
+EBITDA
+
+1,217.6
+
+1,547.8
+
+1,228.0
+
+Funds from operations (FFO)
+
+(3,570.2)
+
+163.7
+
+(1,403.0)
+
+Interest expense
+
+5,871.2
+
+165.5
+
+2,613.5
+
+Cash interest paid
+
+4,491.5
+
+1,359.8
+
+2,613.5
+
+(10,659.6)
+
+683.9
+
+907.6
+
+5,354.0
+
+983.0
+
+1,453.5
+
+Free operating cash flow
+(FOCF)
+
+(16,013.6)
+
+(299.1)
+
+(545.8)
+
+Discretionary cash flow
+(DCF)
+
+(16,086.0)
+
+(1,299.1)
+
+(545.8)
+
+36,773.9
+
+5,144.6
+
+5,158.7
+
+149,739.1
+
+36,927.2
+
+62,093.6
+
+Cash flow from operations
+Capital expenditure
+
+Cash and short-term
+investments
+Debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Table 1
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.--Peer Comparison (cont.)
+Industry sector: Engineering and construction
+Nanjing Yangzi State-Owned
+Assets Investment Group Co. Ltd.
+
+Changsha Pilot Investment
+Holdings Co. Ltd.
+
+Jinan West City Investment and
+Development Group Co. Ltd.
+
+62,472.6
+
+24,664.4
+
+30,393.1
+
+EBITDA margin (%)
+
+17.0
+
+19.7
+
+24.8
+
+Return on capital (%)
+
+0.9
+
+2.2
+
+1.6
+
+EBITDA interest coverage (x)
+
+0.2
+
+9.4
+
+0.5
+
+FFO cash interest coverage
+(x)
+
+0.2
+
+1.1
+
+0.5
+
+123.0
+
+23.9
+
+50.6
+
+FFO/debt (%)
+
+(2.4)
+
+0.4
+
+(2.3)
+
+Cash flow from
+operations/debt (%)
+
+(7.1)
+
+1.9
+
+1.5
+
+FOCF/debt (%)
+
+(10.7)
+
+(0.8)
+
+(0.9)
+
+DCF/debt (%)
+
+(10.7)
+
+(3.5)
+
+(0.9)
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+RMB--Chinese renminbi.
+
+We consider Changsha Pilot Investment Holdings Co. Ltd. and Jinan West City Investment and Development Group
+Co. Ltd. as close peers of Nanjiang Yangzi. They are all China-based LGFVs and share similar business models in
+provincial capitals.
+All three companies' financial risk profiles are highly leveraged, burdened by sizable capital expenditure for expansion
+and subdued operating cash flows. This largely reflects the respective governments' ambitious infrastructure
+development plans and not-for-profit business nature.
+We expect government support flow through from Jinan West City's parent to remain robust, as its key undertakings
+still carry high level of policy importance. In our view, Changsha Pilot's extremely high likelihood of support is subject
+to transitional weakening over time. This is because the company is likely to gradually transform its business to be
+more market oriented.
+
+Financial Risk: Highly leveraged
+Nanjing Yangzi's financial risks are the main constraints to its credit profile. We anticipate that the company will incur
+negative FFO of RMB5 billion-RMB6 billion per year due to its high interest expenses. Such outlay, together with the
+high debt load in the absence of substantial asset sale, underpins Nanjing Yangzi's very high financial leverage.
+We anticipate that infrastructure investments will continue to fuel growth in Nanjing Yangzi's financial leverage over
+the next 24 months. Its key investments over the coming two years include S8 metro line, Jiangbei financial center,
+high-speed rail train station area, and shanty town redevelopment. These projects require heavy upfront investments
+but take a long to recover costs. In our view, the company has low control over its working capital, including
+government related receivables and inventory accumulated from infrastructure projects that have yet to be settled.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Financial summary
+Table 2
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.--Financial Summary
+Industry sector: Engineering and construction
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+7,174.3
+
+7,274.0
+
+5,079.2
+
+5,243.4
+
+3,745.1
+
+EBITDA
+
+1,217.6
+
+1,754.4
+
+1,244.7
+
+1,336.5
+
+526.8
+
+(3,570.2)
+
+(4,197.4)
+
+(3,373.6)
+
+(2,729.0)
+
+(2,691.2)
+
+Interest expense
+
+5,871.2
+
+6,359.4
+
+3,627.5
+
+3,654.8
+
+2,524.3
+
+Cash interest paid
+
+4,491.5
+
+5,575.1
+
+4,422.7
+
+3,983.5
+
+2,912.5
+
+(10,659.6)
+
+(17,359.0)
+
+(7,069.9)
+
+(1,905.3)
+
+(2,568.6)
+
+(Mil. RMB)
+
+Funds from operations (FFO)
+
+Cash flow from operations
+Capital expenditure
+
+5,354.0
+
+4,411.7
+
+2,480.8
+
+1,664.8
+
+1,493.2
+
+Free operating cash flow (FOCF)
+
+(16,013.6)
+
+(21,770.7)
+
+(9,550.7)
+
+(3,570.2)
+
+(4,061.8)
+
+Discretionary cash flow (DCF)
+
+(16,086.0)
+
+(21,770.7)
+
+(9,550.7)
+
+(3,570.2)
+
+(4,061.8)
+
+Cash and short-term investments
+
+36,773.9
+
+33,548.6
+
+31,808.9
+
+20,349.7
+
+15,700.5
+
+Gross available cash
+
+36,773.9
+
+33,548.6
+
+31,808.9
+
+20,349.7
+
+15,700.5
+
+149,739.1
+
+131,110.2
+
+103,429.9
+
+73,547.9
+
+73,153.7
+
+62,472.6
+
+52,652.9
+
+44,530.9
+
+34,529.1
+
+27,397.5
+
+EBITDA margin (%)
+
+17.0
+
+24.1
+
+24.5
+
+25.5
+
+14.1
+
+Return on capital (%)
+
+0.9
+
+1.1
+
+0.8
+
+1.1
+
+0.5
+
+EBITDA interest coverage (x)
+
+0.2
+
+0.3
+
+0.3
+
+0.4
+
+0.2
+
+Debt
+Equity
+Adjusted ratios
+
+FFO cash interest coverage (x)
+Debt/EBITDA (x)
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+0.2
+
+0.2
+
+0.2
+
+0.3
+
+0.1
+
+123.0
+
+74.7
+
+83.1
+
+55.0
+
+138.9
+
+(2.4)
+
+(3.2)
+
+(3.3)
+
+(3.7)
+
+(3.7)
+
+(7.1)
+
+(13.2)
+
+(6.8)
+
+(2.6)
+
+(3.5)
+
+FOCF/debt (%)
+
+(10.7)
+
+(16.6)
+
+(9.2)
+
+(4.9)
+
+(5.6)
+
+DCF/debt (%)
+
+(10.7)
+
+(16.6)
+
+(9.2)
+
+(4.9)
+
+(5.6)
+
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess Nanjing Yangzi's liquidity as adequate. The company's sources of liquidity is set to exceed uses by more
+than 20% in 2019. In our view, the company has solid relationships with major state-owned banks, benefiting from its
+status as the most important investment platform of Jiangbei district. The company also possesses strong access to the
+capital market.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash and equivalents of RMB36.7
+billion as of end 2018.
+
+• Debt repayment of RMB15 billion-RMB18 billion in
+2019.
+
+• Government capital injection and support from
+state-owned banks that we estimate at no less than
+RMB13 billion.
+
+• Negative cash FFO of RMB5.2 billion.
+• Capital expenditure and working capital net outflow
+of RMB15 billion-RMB20 billion.
+
+Debt maturities
+Table 3
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.--Reported Debt Maturities*
+Debt due in
+
+Amount (Mil. RMB)
+
+2019
+
+15,755.0
+
+2020
+
+23,580.0
+
+2021
+
+22,769.0
+
+2022
+
+7,111.0
+
+2023
+After five years
+Total
+
+8,378.0
+47,249.0
+124,842.0
+
+*As of Dec. 31, 2018. RMB--Chinese renminbi.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Environmental, Social, And Governance
+
+We assess Nanjing Yangzi's carbon and land use footprint as moderate. Under the government mandate, the
+company carries out sewage water treatment, water drainage upgrade, historical tourism site reservation, and
+ecological protection forest projects in the Jiangbei area. We do not see material impact of land use issue on
+Nanjing Yangzi's credit profile in the coming two years as the company's pace of primary land development has
+been moderating.
+In our view, Nanjing Yangzi's exposure to social factors is mainly associated with its role in shanty town
+development and its operation in the Nanjing chemical park. The company acts as the financing platform for entire
+city's shanty town redevelopment programs, and it also directly manages and constructs such program in the
+Jiangbei area. While shanty town development benefits many low income households, the resettlement issue
+sometimes might cause frictions with residents. Besides, Nanjing Yangzi manages a chemical park with established
+safety track record and most tenants are large corporations compliant with environmental standards. That said, the
+costs of operating the chemical park could increase as China raise its environmental protection standard.
+The company's management and governance is fair, in our view. As a state-owned enterprise supervised by the
+Nanjing State-owned Assets Supervision and Administration Commission (SASAC), its government practice is
+largely consistent with other SOE groups in China's major cities. Also similar to its peers, the transparency and
+disclosure of Nanjing Yangzi is limited and insufficient.
+
+Government Influence
+We see an extremely high likelihood of extraordinary support from the Nanjing municipal government to Nanjing
+Yangzi if the company comes under financial stress. Our view is based on the following company characteristics:
+• Very important role. Jiangbei district has strong social, political, and economic importance to Nanjing. It's the only
+state-level district of Jiangsu province and is considered the gateway for accelerating the development of north
+Jiangsu. The district's administrative committee profile, which includes Nanjing party secretory, mayor, and
+members of the provincial standing committee, reflects such importance. Nanjing Yangzi essentially operates on
+behalf of the government in providing key public infrastructure investments for Jiangbei. It's also Nanjing's
+centralized borrower for policy bank loans targeted for shanty-town redevelopment. Nanjing Yangzi's mandates are
+unlikely to be undertaken by private entities due to their not-for profit nature.
+• Integral link. The Nanjing municipal government, via the Administrative Committee of Jiangbei New District, fully
+owns Nanjing Yangzi. The municipal government drives the company's development strategy, closely monitors its
+operations, and appoints its senior management. We expect no dilution in government ownership over the next
+several years. The government has a record of providing ongoing support to the company, including subsidies, asset
+injections, and debt-for-bond swaps.
+We expect a gradual strengthening of Nanjing Yangzi's role in supporting Nanjing to meet its economic, social, and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+political objectives. This is reflected in the company's rapid growth in asset size, expansion of business scope, and
+consolidation of assets of other SOEs in Jiangbei district. Moreover, Nanjing Yangzi has started taking the financing
+role for tunnels, metro lines, and bridges, which are key projects that integrate Jiangbei with the Nanjing metropolitan
+area.
+Strong ongoing support from the government and the potential upside from monetizing Nanjing Yangzi's land holdings
+support our assessment of a positive comparable rating analysis.
+In our view, strong support from the Nanjing government benefits Nanjing Yangzi's credit standing. Such potential
+support includes, but is not limited to, asset injections, preferential support in obtaining low cost finding, allocation of
+special-purpose bond proceedings, and structuring hidden debt. Moreover, the price of Nanjing Yangzi's land obtained
+from the shanty-town program has substantially appreciated amid the property upcycle over the past three years.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of end-2018, Nanjing Yangzi had RMB125 billion reported debt in total, of which 24% was secured debt.
+
+Analytical conclusions
+We rate Nanjing Yangzi's senior unsecured U.S. dollar denominated bond 'BBB+', equalized with the issuer credit
+rating. This reflects our view of insignificant subordination risk on the U.S. dollar bond. In the event of debt
+restructuring, the local government is likely to heavily intervene, so that the U.S. dollar bond holders will not be
+necessarily disadvantaged compared with other creditors.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd. Reported Amounts With
+S&P Global Ratings' Adjusted Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+30,567.6
+
+1,217.3
+
+1,023.2
+
+1,308.2
+
+1,217.6
+
+(6,168.2)
+
+Debt
+
+Shareholders'
+equity
+
+125,167.0
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(296.3)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4,491.5)
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+4,563.0
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+956.7
+
+--
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Table 4
+
+Reconciliation Of Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd. Reported Amounts With
+S&P Global Ratings' Adjusted Amounts (Mil. RMB) (cont.)
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4,491.5)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+31,905.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+6,821.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+17,751.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+0.3
+
+0.3
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation gains/(losses)
+
+--
+
+--
+
+--
+
+(205.7)
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+(0.3)
+
+--
+
+--
+
+--
+
+24,572.1
+
+31,905.0
+
+0.3
+
+751.0
+
+4,563.0
+
+(4,787.8)
+
+(4,491.5)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+(3,570.2)
+
+(10,659.6)
+
+Debt: Other
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+149,739.1
+
+62,472.6
+
+1,217.6
+
+1,774.2
+
+5,871.2
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : b
+
+• Likelihood of government support: Extremely high (+7 notches from SACP)
+
+Related Criteria
+• Criteria | Governments | International Public Finance: Methodology For Rating Local And Regional Governments
+Outside Of The U.S., July 15, 2019
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Unregulated Power And Gas Industry, March 28,
+2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Engineering And Construction Industry, Nov. 19,
+2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd., Dec. 3, 2018
+• Nanjing Yangzi State-Owned Assets Investment Group's Proposed Senior Unsecured Notes Rated 'BBB+', Nov. 22,
+2017
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 25, 2019)*
+Nanjing Yangzi State-Owned Assets Investment Group Co. Ltd.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Unsecured
+
+BBB+
+
+Issuer Credit Ratings History
+13-Apr-2017
+
+BBB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 15
+
+

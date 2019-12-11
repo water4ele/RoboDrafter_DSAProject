@@ -1,0 +1,546 @@
+Tata Chemicals North America Inc.
+Primary Credit Analyst:
+Edward J Hudson, New York + 1 (212) 438 2764; edward.hudson@spglobal.com
+Secondary Contact:
+Daniel S Krauss, CFA, New York (1) 212-438-2641; danny.krauss@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Environmental, Social, And Governance
+Group Influence
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Tata Chemicals North America Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+b
+
+b+
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong profitability.
+
+Soda ash production yields a limited product mix.
+
+Low cost structure, as natural soda ash is cheaper to produce than The company operates at only one site, located in Wyoming's Green River
+synthetic soda ash produced in China.
+Basin.
+Leading market position in North American soda ash production.
+
+The company sources all its coal--a key input for production--from a single
+mine, whose owner has defaulted on its debt.
+
+Natural soda ash producers, such as Tata Chemicals North America Inc. (TCNA), benefit from a much more
+cost-effective process. TCNA's overall low cost structure enables it to maintain wider EBITDA margins than its
+commodity chemical peers.
+The company continues to benefit from group influence, as we factor in one notch of ratings uplift for our group
+assessment of TCNA to Tata Chemicals Ltd. (TCL). TCNA, which is owned by TCL, is a significant contributor to
+TCL's EBITDA and we believe that TCL will continue to support this investment.
+TCNA maintains favorable credit measures. We expect TCNA to maintain leverage between 2.5x and 3.0x, and funds
+from operations (FFO) to debt of 25%-30%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Tata Chemicals North America Inc.
+
+Outlook: Stable
+
+The stable outlook on TCNA reflects our expectation of flat revenues in 2019, with volume growth in line with U.S.
+GDP growth of 2.5%. As a result, we expect to see stable EBITDA margins year over year.
+Our base case assumes the company will continue to source the coal it needs through Westmoreland's Kemmerer
+Mine, or other suppliers if Westmoreland cannot honor its supply agreement. We assume that the company will
+continue to maintain prudent financial policies and, therefore, we have not factored into our analysis any large
+debt-funded dividends or acquisitions. At the current rating, we expect FFO to total debt to be in the 25% to 30%
+range over the next year, even in periods of seasonal fluctuations.
+
+Downside scenario
+We could consider a downgrade within the next year if the company's earnings deteriorate such that FFO to debt
+declines to around 12%, with no prospect of improvement. This could occur because of major operating
+disruptions, a substantial reduction in demand for soda ash, or if TCNA encounters difficulty sourcing key raw
+materials. We could also consider a downgrade if TCNA's sole coal supplier, Westmoreland Coal Co., stopped
+supplying coal to TCNA, forcing the company to scramble for another source. Major debt-funded acquisitions or
+shareholder returns, or a decrease in support from TCL, could also cause us to lower our ratings on TCNA,
+although the likelihood of these actions appears remote.
+
+Upside scenario
+We view an upgrade for TCNA over the next 12 months as unlikely. However, we could raise the ratings if the
+company can sustain FFO to debt of more than 30% on a sustained basis, and if the company successfully
+diversifies its coal supply. We estimate that to achieve this, EBITDA margins would need to improve by at least
+400 basis points (bps) above our expectations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Tata Chemicals North America Inc.
+
+Our Base-Case Scenario
+Assumptions
+
+Our base case assumes the company will continue to
+source the coal it needs through Westmoreland, or
+other suppliers if Westmoreland cannot honor its
+supply agreement. We also assume that the company
+will maintain prudent financial policies. Therefore, we
+have not factored any large debt-funded dividends or
+acquisitions into our analysis. At the current rating, we
+expect to see FFO to total debt of 25% to 30% over the
+next year, even with seasonal fluctuations. Our other
+assumptions:
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+3.0 2.5-3.0 2.5-3.0
+
+FFO to debt (%)
+
+29
+
+25-30
+
+25-30
+
+A--Actual. E--Estimated. FFO--Funds from operations.
+All figures are S&P Global Ratings adjusted. The 2018
+fiscal year ended March 31, 2019.
+
+• In fiscal 2019, we expect a low-single-digit percent
+revenue decline due to both planned and unplanned
+outages and downtime.
+• In fiscal 2020 and beyond we expect single-digit
+percent revenue growth in line with U.S. GDP
+growth.
+• Our forecast is for U.S. GDP growth of 2.5% in 2019,
+1.8% in 2020, and 1.9% in 2021, which should
+support stable demand for soda ash products.
+• We assume no major debt-funded dividends or
+acquisitions.
+• Annual capital spending will be $35 million to $40
+million.
+• We expect EBITDA margins to exceed 20% over the
+next two years, which is above the average of
+TCNM's commodity chemical peers.
+
+Company Description
+Tata Chemicals North America Inc. is one of the world's leading producers of high quality soda ash. Soda ash is a
+white, anhydrous, powdered or granular material. It is an essential input for making glass (which represents over half of
+global soda ash demand), detergents, chemicals, baking soda, and other industrial products. TCNA has long-term
+mining leases in the Green River Basin in Wyoming, and estimates that it has more than 100 years of proven trona
+reserves (trona is a sodium carbonate mineral that is processed into soda ash). TCNA operates on a single site in
+Wyoming and is heavily reliant on Westmoreland Coal. TCNA generates all its revenues from U.S. operations. Tata
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Tata Chemicals North America Inc.
+
+Chemicals Ltd. is the parent company and owns 100% of TCNA.
+
+Business Risk: Weak
+TCNA has a single source for all the coal it uses. Although Westmoreland Coal Co. defaulted on its debt in June 2018,
+and we no longer rate the company, we understand that it is still operating and honoring its supply contract with
+TCNA. However, if TCNA had to find coal elsewhere because of disruptions at Westmoreland, its earnings could falter,
+as other suppliers could charge far more than TNCA pays now.
+We also consider the company's reliance on a single manufacturing site in the Green River Basin as a key risk. Despite
+having two production trains, the company remains susceptible to potential operating disruptions, which would lead to
+reductions in EBITDA and cash flow.
+TCNA's product diversity is limited because it generates all of its earnings from the production of natural soda ash, and
+the soda ash industry is cyclical and prone to major price fluctuations. Competitors have already announced capacity
+additions that we expect to come online over the next couple of years, and this could pressure prices.
+TCNA benefits from long-term mining leases in the Green River Basin, which accounts for about 90% of U.S. soda ash
+production capacity. Natural soda ash producers benefit from a much more cost-effective process that is not nearly as
+energy-intensive and requires less capital and fewer raw materials than does the synthetic process (Synthetic soda ash
+is made from brine and limestone and much of that production is in China.) The natural process accounts for about
+25% of the world's soda ash production and the U.S. holds a substantial portion of the global natural soda ash reserves.
+Most soda ash exports are handled by the American Natural Soda Ash Corp. (ANSAC), which allows its member
+companies to benefit from economies of scale and provides them with access to markets in more than 30 countries.
+
+Financial Risk: Aggressive
+We expect revenues to grow in line with U.S. GDP growth, reflecting the domestic demand for glass, a relatively stable
+packaging market, and a slowing auto sector. We expect the organic growth in downstream glassmaking markets to
+contribute to TCNA's revenue because soda ash is a major component in glass manufacturing. We expect margins to
+remain relatively flat and TCNA to continue to benefit from its low-cost natural soda ash production. Based on our
+scenario forecasts, we expect that over the next two years the company will maintain credit measures we consider
+appropriate for the current rating, including FFO to total adjusted debt of 25% to 30%, and consistently above 12%
+during recessions.
+We adjust debt to include unfunded pensions and postretirement obligations, the present value of operating leases,
+environmental liabilities, and asset retirement obligations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Tata Chemicals North America Inc.
+
+Liquidity: Adequate
+We expect the company's cash sources to exceed uses by more than 1.2x over the next year and sources minus uses
+should remain positive even if EBITDA is 15% less than we project. We expect the company to maintain nearly full
+availability under its $25 million revolving credit facility, and to carry moderate cash balances. TCNA is subject to
+financial covenants, and we expect the company to maintain at least 15% EBITDA cushion under these. Qualitatively,
+we do not believe TCNA has the ability to absorb high-impact, low-probability events without refinancing, and we do
+not believe the company has generally high standing in credit markets.
+
+Principal liquidity sources
+• Modest cash balances;
+• Availability of $25 million under its revolving credit facility; and
+• FFO of $80 million to $90 million over the next year.
+
+Principal liquidity uses
+• Modest peak working capital outflows;
+• Moderate capital spending over the next two years;
+• Approximately $40 million to $45 million of annual dividends; and
+• Minimal annual debt amortization.
+
+Debt maturities
+The company's revolver and term loan mature in August 2020, and if not addressed within six months, this maturity
+could hurt the company's ratings. However, we assume that TCNA will be able to refinance in the next few months.
+
+Covenant Analysis
+• The company has a minimum EBITDA-to-consolidated net cash interest expense ratio requirement.
+• The company also has a net debt-to-EBITDA ratio requirement.
+• TCNA is in full compliance with these requirements, and we expect it to maintain ample cushion over the next year.
+
+Other Credit Considerations
+We have adjusted our initial 'b+' anchor rating outcome downward by one notch to 'b' for comparable rating analysis.
+We based this on our assessment that TCNA's limited product diversity and single site concentration results in the
+company being at the lower end of the weak business risk profile scale. We view the company's scale, scope, and
+diversity as weaker than a similarly rated company such as Kraton Corp.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Tata Chemicals North America Inc.
+
+Environmental, Social, And Governance
+
+We believe environmental and social factors present risks and opportunities for a specialty chemical producer such
+as TCNA. We view the company's environmental and social risks as on par with other chemical companies.
+Because TCNA burns coal in its manufacturing processes, it can face environmental and regulatory issues that
+could be damaging.
+Although we incorporate these assessments into our rating, they do not now affect credit quality, as the company
+has no material environmental off-balance sheet liabilities.
+
+Group Influence
+Our ratings factor in one notch of uplift for our assessment that TCNA is moderately strategic to parent TCL and a
+significant contributor to TCL's EBITDA. We believe that TCL will continue to support this investment, given TCNA's
+strategic importance, the shared Tata name, and TCL's history of supporting subsidiaries in times of financial distress.
+With that, we arrive at at a final issuer credit rating on TCNA of 'B+'.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our senior secured issue-level ratings for TCNA are 'BB', with a recovery rating of '1', indicating expectations for a
+very high recovery (90%-100%; rounded estimate: 95%).
+• We continue to value the company on a going-concern basis using a 5x multiple of our projected emergence
+EBITDA, in line with commodity chemical peers such as TPC Group Inc.
+• We estimate that for the company to default, EBITDA would need to decline significantly from current levels,
+potentially stemming from an economic contraction or significant raw material price increases, client attrition,
+end-market substitutes for glass containers, and unplanned downtime, coupled with declining volume that pressures
+margins, working capital, and cash flow. In addition, if TCNA were not able to source coal and operate its facility, it
+could significantly hurt earnings.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Tata Chemicals North America Inc.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Year of default: 2023
+
+• Net enterprise value (after 5% administrative costs):
+$315 million.
+
+• EBITDA at emergence: $73 million
+• Implied enterprise value multiple: 5x
+
+• Collateral value available to secured creditors: $315
+million
+• Senior secured claims: $234 million
+• --Recovery expectation: 90%-100%; rounded
+estimate: 95%
+Notes: Debt amounts include six months of accrued
+interest that we assume will be owed at default.
+Collateral value includes asset pledges from obligors
+(after priority claims) plus equity pledges in
+nonobligors. We generally assume usage of 85% for
+cash flow and 60% for asset-based lending revolvers at
+default.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Adequate
+• Management and governance: Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Tata Chemicals North America Inc.
+
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : b
+
+• Entity status within group: Moderately strategic (+1 notch from SACP)
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+Strong
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 24, 2019)*
+Tata Chemicals North America Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+BB
+
+Issuer Credit Ratings History
+30-Jun-2017
+
+B+/Stable/--
+
+20-Jul-2016
+
+B+/Positive/--
+
+23-Jul-2013
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Tata Chemicals North America Inc.
+
+Ratings Detail (As Of September 24, 2019)*(cont.)
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+

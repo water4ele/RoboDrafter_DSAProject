@@ -1,0 +1,1506 @@
+Odyssey Europe Holdco S.à r.l
+Primary Credit Analyst:
+Natalia Arrizabalaga, Paris (33) 1-4420-6662; Natalia.Arrizabalaga@spglobal.com
+Secondary Contact:
+Jebby J Jacob, London (44) 20-7176-7122; jebby.jacob@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Odyssey Europe Holdco S.à r.l
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good geographic diversification in Europe.
+
+Relatively small size compared with European peers.
+
+Solid market position and brand awareness in the Baltic countries.
+
+Regulatory and taxation risks inherent in the gaming industry.
+
+Significant barriers to entry given the relatively high initial casino
+investments need.
+
+Limited product diversification.
+
+Sound cash flow generation.
+
+Financial sponsor ownership and lack of clarity around shareholder
+remuneration.
+
+Regulatory and reputational risk add pressure to the company's profitability and future growth.European gaming
+companies are facing increasing regulatory and fiscal challenges, as governments attempt to tackle the social risks
+associated with gambling. The regulatory environment in the Baltic region has historically been more favorable and
+stable than in other European countries. However, Estonia-based gaming company, Odyssey Europe Holdco S.a.r.l's
+(Olympic Entertainment Group AS's) operations could be affected by a series of government decisions. In 2018, Latvia
+increased taxes per device by 30%, and in 2019, Italy further increased its gaming tax on slot machines. Meanwhile, in
+2017, Riga City Council introduced a law to ban gambling venues in the city's historical centre, except those located in
+four-star or five-star hotels.
+As a consequence, Olympic will need to close seven venues by the end of 2022. Moreover, Riga City Council is now
+considering expanding the same ban to the entire city, and, if approved, 23 additional Olympic venues will have to
+close by end-2024.
+Good geographic diversification partially offsets Olympic's small size.In terms of revenue (about €220 million) and
+EBITDA (€45 million-€50 million), Olympic is among the smallest gaming operators that we rate in Europe, which
+makes it particularly vulnerable to external changes; for example, economic, political, regulatory, or sector trends.
+While the rest of the industry is showing a tendency toward consolidation, Olympic's revenue base has remained
+unchanged, and the company does not plan any material acquisitions. Despite its small size, Olympic's operations are
+much more diversified that those of other rated peers (which operate in only one country). The company operates in
+six different European countries, offering it a natural hedge against country-specific headwinds.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Odyssey Europe Holdco S.à r.l
+
+Solid cash-flow generation supports the credit metrics.Similar to several other gaming operators, Olympic enjoys a
+solid cash conversion relative to its business size, and we expect reported free operating cash flow (FOCF) to stay
+positive at around €20 million-€25 million per year in our two-year projection period (roughly half of reported
+EBITDA). This is a result of the limited working capital and capital expenditure (capex) needs, as the company is
+mostly focused on increasing traffic to existing venues rather than opening new casinos. Good cash generation
+supports the company's metrics with S&P Global Ratings-adjusted leverage at about 4.5x, and FOCF to debt at about
+10%.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Olympic will maintain its leverage at around 4.5x for the next 12
+months, while continuing to generate positive FOCF. The stable outlook also reflects our expectation that the
+financial sponsors will keep their commitment to maintaining a financial policy that supports moderate
+deleveraging through EBITDA growth, along with adequate liquidity.
+
+Downside scenario
+We could lower the rating over the next 12 months if the company reported revenues materially below our
+base-case forecast, with an EBITDA margin below 20%, such that adjusted leverage increases above 6.5x or FOCF
+to debt turns negative. This could occur if any unexpected regulatory changes in the main operating countries
+result in the closure of casinos, or if potential taxation increases materially deteriorate the company's profitability.
+It could also occur if the company incurred any debt-financed acquisitions, or if capex was materially higher than
+expected, leading to negative FOCF generation.
+We could also lower the rating if we saw evidence of a more aggressive financial policy resulting in a sustained
+weakening of Olympic's credit metrics--for example, through the distribution of significant dividends.
+
+Upside scenario
+We see an upgrade as unlikely in the next 12 months, given our expectation that leverage will remain at around
+4.5x, and the lack of a track record on the financial sponsor and its long-term financial policy.
+However, we could consider a positive rating action once the financial sponsor has a longer track record and we
+have a clear view on its commitment to maintain a financial policy that supports lower leverage. In this case, we
+could upgrade the rating if Olympic manages to significantly increase revenues and EBITDA base without
+incurring material additional debt, or if the company pays down debt, leading to an adjusted debt to EBITDA at
+4.0x-4.5x on a sustainable basis. We consider that Olympic could achieve operating outperformance if it opened a
+higher-than-expected number of casinos, resulting in a significant increase of scale and gain in market share.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Odyssey Europe Holdco S.à r.l
+
+Assumptions
+
+• We expect improving macroeconomic prospects in
+the Baltics, with real GDP growing by 2.0%-4.0% per
+year and a declining unemployment rate in
+Olympic's three biggest markets.
+• The company will benefit from this supportive
+macroeconomic environment over the next two
+years, given that casinos are considered
+discretionary leisure activities and therefore are
+exposed to the population's living standards.
+• Over the next two years, we expect like-for-like net
+revenue before gaming taxes to grow between
+2.0%-3.0%, driven by the strengthening of online
+operations and an increase in existing casinos'
+traffic, thanks to marketing initiatives and the use of
+analytics.
+
+Key Metrics
+
+Debt to EBITDA (x)
+FFO to debt (%)
+
+2018a*
+
+2019e
+
+2020e
+
+6.0
+
+4.4-4.6
+
+4.3-4.5
+
+11.8 14.0-16.0 14.0-16.0
+
+FOCF to debt (%)
+
+4.4
+
+9.0-11.0
+
+9.0-11.0
+
+DCF to debt (%)
+
+4.4
+
+(1.0)-0
+
+9.0-11.0
+
+Note: All figures are S&P Global Ratings-adjusted.
+*2018 figures represent the performance of the
+company starting Feb. 23, 2018.
+a--Actual. e--Estimate. DCF--Discretionary cash flow.
+FFO--Funds from operations. FOCF--Free operating
+cash flow.
+
+• We expect adjusted EBITDA margins will stabilize
+at around 25%-26% (equivalent to about 20%-21%
+reported EBITDA margin).
+• We include a €30 million distribution to
+shareholders paid during the first half of 2019; €10
+million of which was from the shareholders'
+allowance, and €20 million of which was reduced
+from the equity capital. The shareholder's allowance
+basket had accumulated from 50% of past net
+profits.
+• No acquisitions are included in the base case.
+
+Base-case projections
+Credit metrics look resilient to potential operating underperformance. We expect Olympic's debt as well as EBITDA to
+remain relatively solid, leading to an adjusted leverage of 4.5x during 2019-2020, while FFO to debt will remain at
+around 15%. Given the company's leverage and relatively sound cash flow generation, we believe it has some
+headroom under the existing rating, and that leverage metrics are unlikely to materially change if revenue or EBITDA
+margin deviates from our base case by up to 400 basis points in either direction.
+We are not assessing Olympic's financial profile in a stronger category given the company's lack of a financial policy
+track record. In addition, we note that the credit metrics amelioration between 2018 and 2019 is mostly due to the fact
+that the entity reported for only 10 months in 2018.
+Olympic's cash conversion will remain strong in the absence of material acquisitions or an aggressive expansion plan.
+We believe the company will continue to generate positive FOCF, supported by its prudent expansion strategy and
+lack of working capital needs. Olympic does not plan any acquisition in the future as it aims to grow organically by
+increasing traffic and spending per visit in existing sites. Capex is expected to remain quite moderate at around €15
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Odyssey Europe Holdco S.à r.l
+
+million per year in our projection period. For 2019, maintenance capex is around €11 million, while the remaining €4
+million is related to the Lithuania flagship casino renovation.
+
+Company Description
+Based in Tallinn, Estonia, Olympic is a pan-European provider of casinos and land-based and online gaming services,
+with a strong presence in the Baltic region. Founded in 1993, the company operated 114 casinos and 23 betting points
+in six countries by the end of 2018, namely Estonia, Latvia, Lithuania, Italy, Slovakia, and Malta. In fiscal year ending
+Dec. 31, 2018, Olympic generated €175.1 million of revenue.
+
+Business Risk: Weak
+Our business assessment is constrained by Olympic's small size compared with peers, limited product diversification,
+and the unfavorable regulatory risk. We expect Olympic's revenue to be at €228 million-€240 million in 2019, which
+positions the company as one of the smallest European rated gaming operators. Olympic's product offering is quite
+narrow, as the company derives around 85% of revenue from land-based gaming--primarily table and slot
+machines--and only 5% from online gaming. The remaining 10% of sales is generated through a variety of ancillary
+services such as bars, restaurants, and hotels, which we see as strongly correlated to the performance of the casinos,
+and therefore not providing any real diversification. We believe its relatively small size and product concentration
+make Olympic particularly exposed to high-impact adverse changes (for example, economic, political, regulatory, or
+sector trends), which are only partially offset by the geographic diversification of sales.
+Even if the regulatory environment in the Baltic region has historically been more favorable and stable than other
+European countries, lately there have been some adverse regulatory changes, and we believe that the risk of further
+changes cannot be ignored. Besides general regulatory risk, Olympic is also exposed to legal and reputational risks,
+following the Lithuanian gaming control authority's recent allegations that Olympia had violated laws related to the
+prevention of money laundering and terrorist financing, for which it imposed a €0.5 million fine.
+These constraints are somewhat mitigated by Olympic's leading position and strong brand in the Baltic region, as well
+as its solid geographical diversification. The company currently holds the No. 1 position in Estonia and Lithuania, and
+No. 2 position in Latvia, in land-based gross gaming revenue (GGR) market share. We believe Olympic's market
+position is protected by these countries' significant barriers to entry--a result of the high fixed gaming tax expenses,
+which depress margins for smaller casino operators. We also view the fact that Olympic operates in six different
+European countries as an advantage compared with peers, although we acknowledge that it generates 85% of total
+EBITDA in the Baltics.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Odyssey Europe Holdco S.à r.l
+
+Chart 1
+
+Peer comparison
+Table 1
+
+Odyssey Europe Holdco S.à r.l--Peer Comparison
+Industry Sector: Gaming
+
+Ratings as of Aug. 16,
+2019
+
+Odyssey Europe
+Holdco S.à r.l
+
+JPJ Group
+PLC
+
+B/Stable/--
+
+B+/Stable/--
+
+OPAP S.A.
+BB-/Watch
+Neg/--
+
+Gamenet
+Group S.p.A.
+
+Intralot
+S.A.
+
+Safari
+Beteiligungs
+GmbH
+
+Codere
+S.A.
+
+B+/Stable/--
+
+NR
+
+B/Negative/--
+
+B/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. €)
+Revenue
+
+151.7
+
+355.8
+
+1,547.0
+
+650.3
+
+870.8
+
+310.5
+
+1,435.3
+
+EBITDA
+
+46.4
+
+117.2
+
+354.3
+
+91.6
+
+120.5
+
+135.3
+
+238.5
+
+Funds from
+operations (FFO)
+
+32.8
+
+92.7
+
+276.1
+
+51.6
+
+46.8
+
+70.8
+
+113.3
+
+Interest expense
+
+15.7
+
+22.2
+
+23.9
+
+20.0
+
+51.4
+
+48.8
+
+79.4
+
+Cash interest paid
+
+12.6
+
+23.5
+
+26.6
+
+30.1
+
+49.8
+
+34.5
+
+73.5
+
+Cash flow from
+operations
+
+18.4
+
+89.6
+
+255.0
+
+53.6
+
+46.9
+
+70.9
+
+126.4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Odyssey Europe Holdco S.à r.l
+
+Table 1
+
+Odyssey Europe Holdco S.à r.l--Peer Comparison (cont.)
+Capital expenditure
+
+6.1
+
+1.5
+
+52.1
+
+30.1
+
+92.2
+
+31.2
+
+103.1
+
+Free operating cash
+flow (FOCF)
+
+12.2
+
+88.1
+
+202.9
+
+23.5
+
+(45.3)
+
+39.7
+
+23.3
+
+Discretionary cash
+flow (DCF)
+
+12.2
+
+88.1
+
+60.5
+
+0.2
+
+(90.2)
+
+39.7
+
+14.9
+
+Cash and short-term
+investments
+
+87.9
+
+93.9
+
+190.0
+
+68.5
+
+162.5
+
+41.5
+
+125.1
+
+278.5
+
+415.0
+
+654.6
+
+490.8
+
+797.7
+
+466.9
+
+995.5
+
+60.8
+
+243.9
+
+759.5
+
+49.5
+
+34.4
+
+(191.7)
+
+92.1
+
+EBITDA margin (%)
+
+30.6
+
+32.9
+
+22.9
+
+14.1
+
+13.8
+
+43.6
+
+16.6
+
+Return on capital (%)
+
+9.5
+
+8.2
+
+16.9
+
+10.1
+
+23.3
+
+24.0
+
+10.9
+
+EBITDA interest
+coverage (x)
+
+2.9
+
+5.3
+
+14.8
+
+4.6
+
+2.3
+
+2.8
+
+3.0
+
+FFO cash interest
+coverage (x)
+
+3.6
+
+4.9
+
+11.4
+
+2.7
+
+1.9
+
+3.1
+
+2.5
+
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+6.0
+
+3.5
+
+1.8
+
+5.4
+
+6.6
+
+3.5
+
+4.2
+
+11.8
+
+22.3
+
+42.2
+
+10.5
+
+5.9
+
+15.2
+
+11.4
+
+Cash flow from
+operations/debt (%)
+
+6.6
+
+21.6
+
+39.0
+
+10.9
+
+5.9
+
+15.2
+
+12.7
+
+FOCF/debt (%)
+
+4.4
+
+21.2
+
+31.0
+
+4.8
+
+(5.7)
+
+8.5
+
+2.3
+
+DCF/debt (%)
+
+4.4
+
+21.2
+
+9.2
+
+0.0
+
+(11.3)
+
+8.5
+
+1.5
+
+FFO/debt (%)
+
+NR--Not rated.
+
+Financial Risk: Highly leveraged
+Olympic's financial assessment is constrained by its financial sponsor ownership. After the company was bought out
+by private equity firm Novalpina Capital in 2018, adjusted leverage increased to 4.6x from 1.1x in 2017.
+First-half 2019 operating results are broadly in line with our forecast. Revenue increased by almost 4.0% compared
+with the first half of 2018, thanks to the solid performance in Lithuania and Latvia, while Slovakia showed a small
+decline. Reported EBITDA margin weakened slightly, from 26.3% to 25.8%, because of higher staff costs and other
+operating expenses.
+Our adjusted debt calculation includes around €60 million of operating-lease debt, as Olympic leases all of its venues.
+In our base case, we are not expecting any variation in adjusted debt and just a modest growth of adjusted EBITDA,
+leading to a leverage decline of about 0.1x per year. Additionally, the solid cash generation will translate into FOCF to
+Debt slightly above 10%.
+We note that the €30 million distribution to shareholders during the first half of 2019 was not part of our precedent
+base case. Although we do not exclude the possibility of further equity remuneration in the future, we expect
+Novalpina's financial policy to continue supporting Olympic's current credit metrics, and thus the ratings.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Odyssey Europe Holdco S.à r.l
+
+Financial summary
+Table 2
+
+Odyssey Europe Holdco S.à r.l--Financial Summary
+Industry Sector: Gaming
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+151.7
+
+215.1
+
+191.4
+
+123.9
+
+EBITDA
+
+46.4
+
+59.5
+
+47.6
+
+44.5
+
+Funds from operations (FFO)
+
+32.8
+
+51.3
+
+38.8
+
+39.1
+
+Interest expense
+
+15.7
+
+4.7
+
+3.3
+
+1.6
+
+Cash interest paid
+
+12.6
+
+4.7
+
+3.3
+
+1.6
+
+Cash flow from operations
+
+18.4
+
+53.5
+
+41.7
+
+44.0
+
+(Mil. €)
+
+Capital expenditure
+
+6.1
+
+10.0
+
+37.2
+
+27.0
+
+Free operating cash flow (FOCF)
+
+12.2
+
+43.6
+
+4.5
+
+17.0
+
+Discretionary cash flow (DCF)
+
+12.2
+
+28.3
+
+(18.3)
+
+1.7
+
+Cash and short-term investments
+
+87.9
+
+59.4
+
+38.0
+
+36.5
+
+Gross available cash
+
+87.9
+
+59.4
+
+38.0
+
+36.5
+
+Debt
+
+278.5
+
+63.8
+
+70.8
+
+30.3
+
+60.8
+
+145.3
+
+129.9
+
+122.9
+
+EBITDA margin (%)
+
+30.6
+
+27.7
+
+24.9
+
+35.9
+
+Return on capital (%)
+
+9.5
+
+19.0
+
+16.6
+
+19.9
+
+EBITDA interest coverage (x)
+
+2.9
+
+12.6
+
+14.5
+
+28.6
+
+FFO cash interest coverage (x)
+
+3.6
+
+11.9
+
+12.7
+
+26.2
+
+Debt/EBITDA (x)
+
+6.0
+
+1.1
+
+1.5
+
+0.7
+
+11.8
+
+80.3
+
+54.8
+
+129.2
+
+Cash flow from operations/debt (%)
+
+6.6
+
+83.9
+
+58.9
+
+145.3
+
+FOCF/debt (%)
+
+4.4
+
+68.2
+
+6.3
+
+56.1
+
+DCF/debt (%)
+
+4.4
+
+44.4
+
+(25.8)
+
+5.6
+
+Equity
+Adjusted ratios
+
+FFO/debt (%)
+
+Liquidity: Adequate
+We assess Olympic's liquidity position as adequate, and we think that sources of cash should exceed uses of cash by
+more than 2x over the 12 months starting June 30, 2019. The new revolving credit facility (RCF), solid cash flow
+generation, and the absence of debt-repayment requirements supports our assessment of Olympic's liquidity position.
+We also expect Olympic to remain compliant with the incurrence financial covenants of its RCF, even if EBITDA
+declines by 15%.
+In our view, the company has generally prudent risk management, but we think that Olympic is unlikely to be able to
+absorb high-impact, low-probability events without needing refinancing, given its small size and the industry's
+volatility.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Odyssey Europe Holdco S.à r.l
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and equivalents of about €40 million
+(excluding about €20 million of restricted cash);
+
+• No seasonal working capital outflow; and
+• Capex of about €15 million.
+
+• Forecast FFO of about €30 million to €35 million
+over the next 12 months; and
+• €25 million undrawn RCF.
+
+Covenant Analysis
+The company has a springing covenant on the RCF when utilization is greater than 35%, set at a maximum
+consolidated super senior secured net leverage ratio of 0.79:1 at each measurement period. The RCF is currently fully
+undrawn, after it was repaid in July 2019.
+The company is expected to have enough headroom under the springing covenant.
+
+Environmental, Social, And Governance
+
+A common approach to socially responsible investment (SRI) is to avoid investing in activities considered unethical
+or potentially addictive, and the gambling industry is frequently excluded from investment portfolios due to the
+social impact of gambling addiction. So far, SRI seems to be having a negligible affect on demand for the gaming
+industry's debt. However, if the socially controversial industries suffer in the long term as regulations and
+consumer tastes shift demand away from these products, it could affect Olympic as well as the overall industry.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+• Olympic's reported gross debt of €225 million, primarily comprising the €200 million senior secured notes due 2023
+and the €25 million undrawn super senior RCF due 2022.
+• All debt is issued at the parent level (Odyssey Europe Holdco).
+• The senior secured notes are subordinated to the super senior RCF and are not guaranteed on the issuance date.
+• We also consider that the security package under the senior secured notes is relatively weak, consisting only of bank
+accounts, the ultimate parent company's shares in the issuer, and related intragroup receivables.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Odyssey Europe Holdco S.à r.l
+
+Analytical conclusions
+Olympic's debt is rated 'B', mirroring the issuer credit rating, because no significant elements of subordination risk are
+present in the capital structure.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Odyssey Europe Holdco S.à r.l Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018-Odyssey Europe Holdco
+S.à r.l reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+16.8
+
+(7.4)
+
+11.4
+
+46.4
+
+18.7
+
+--
+
+--
+
+--
+
+--
+
+(1.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(8.3)
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+219.2
+
+59.8
+
+Cash taxes paid
+
+--
+
+Cash taxes paid: Other
+
+--
+
+Cash interest paid
+
+Reported
+S&P Global Ratings'
+adjustments
+
+Operating leases
+
+59.3
+
+--
+
+12.2
+
+4.3
+
+4.3
+
+(4.3)
+
+7.9
+
+Share-based compensation
+expense
+
+--
+
+--
+
+0.1
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+0.0
+
+--
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(8.3)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+1.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+SG&A: Other nonoperating
+nonrecurring items
+
+--
+
+--
+
+17.3
+
+17.3
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(0.1)
+
+(0.1)
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset valuation
+gains/(losses)
+
+--
+
+--
+
+--
+
+(0.2)
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+12.2
+
+--
+
+--
+
+--
+
+59.3
+
+1.0
+
+29.6
+
+33.5
+
+4.3
+
+(13.6)
+
+(0.3)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+32.8
+
+18.4
+
+Total adjustments
+S&P Global Ratings'
+adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+278.5
+
+60.8
+
+46.4
+
+26.1
+
+15.7
+
+PP&E--Plant, property, and equipment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Odyssey Europe Holdco S.à r.l
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria – Corporates – General: Corporate Methodology: Ratios and Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+Odyssey Europe Holdco S.à r.l
+
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 25, 2019)*
+Odyssey Europe Holdco S.à r.l
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+17-Jul-2018
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+

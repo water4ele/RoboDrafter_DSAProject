@@ -1,0 +1,477 @@
+Mavenir Private Holdings II Ltd.
+Primary Credit Analyst:
+Allyn Arden, CFA, New York (1) 212-438-7832; allyn.arden@spglobal.com
+Secondary Contact:
+William Savage, New York + 1 (212) 438 0259; william.savage@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+Mavenir Private Holdings II Ltd.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Relatively long contract lengths of around 3-5
+years provide some revenue visibility.
+
+Intense competition from significantly larger and better-capitalized peers.
+
+Well diversified geographic revenue base with
+around 44% of revenue from outside of North
+America.
+
+Lack of meaningful scale resulting in cost disadvantages.
+
+Low capital intensity supports improving cash
+flow.
+
+High customer concentration poses risk from industry consolidation.
+Elevated adjusted debt to EBITDA, in the 8x area. Despite our expectation for leverage
+reduction over the next year, we believe longer-term improvement is constrained by its
+private equity ownership.
+
+Regulatory delays from its merger with Sprint has caused T-Mobile to defer projects with Mavenir Private Holdings II
+Ltd. Mavenir's revenue declined around 4% in the first quarter of 2019, year-over-year. T-Mobile has delayed new
+projects until the resolution of its proposed merger with Sprint. S&P Global Ratings believes that if the merger is
+approved, this could result in new revenue opportunities as T-Mobile integrates Sprint's operations, but spending by
+T-Mobile could continue to fall over the next six months, if not longer, until we have greater clarity around the
+outcome of the merger.
+Healthy backlog and new bookings support some revenue visibility for 2019. Mavenir is launching several new products
+and services and is expanding its customer portfolio while also investing in new opportunities in radio, virtualized
+Evolved Packet Core (vEPC), and advanced services. Despite revenue headwinds from T-Mobile, we expect Mavenir
+to generate modest low- to mid-single-digit revenue growth in 2019 and 2020 driven by new products and increased
+customer penetration.
+We expect leverage to remain elevated longer term because of its private equity ownership. Mavenir's adjusted debt to
+EBITDA is elevated at around 7.7x as of the first quarter of 2019, although we expect leverage will decline to the
+low-7x area in 2019 and mid-5x area in 2020 primarily from EBITDA growth because of cost saving initiatives, lower
+research and development expenses, and as restructuring costs wind down. Longer term, we believe leverage could
+remain high given its private equity ownership and our view that the company could make debt-funded acquisitions or
+shareholder returns.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+Mavenir Private Holdings II Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Mavenir's leverage will continue to gradually decline over the next
+12 months due to revenue and EBITDA growth from increased penetration and monetization of existing products,
+cost-saving initiatives, and the elimination of near-term restructuring expenses.
+
+Downside scenario
+We could lower the rating if projected cost savings do not materialize, the company loses contracts with its
+customers, and pricing pressure results in lower EBITDA that ultimately hurts the company's liquidity position.
+This could lead us to view the capital structure as unsustainable longer term.
+
+Upside scenario
+We could raise the rating if leverage improves to below 6.5x and we believe that the company is committed to
+maintaining leverage at this level. This would also be predicated on continued margin improvement to levels more
+on par with those of peers and sustained positive free operating cash flow (FOCF).
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+Mavenir Private Holdings II Ltd.
+
+Assumptions
+
+• U.S. GDP growth of 2.2% in 2019 and 1.7% in 2020;
+however, we do not expect macroeconomic factors
+to affect Mavenir significantly given that the industry
+is more tied to technological advances and secular
+trends.
+
+Key Metrics
+
+2018A
+Debt to EBITDA (X)
+
+8.4
+
+2019E
+
+2020E
+
+7.0 -7.5 5.2x-5.8
+
+FFO to Debt (%)
+
+(0.1)
+
+5–8
+
+8 - 12
+
+FOCF to Debt (%)
+
+(7.6) 4.5 - 6.5 5.5 - 7.5
+
+• Revenue growth in the low- to mid-single-digit
+percent area through 2019 and 2020, driven by
+increased customer penetration of global tier 1
+carriers and monetization of existing products, a
+transition to 5G wireless services, and new bookings
+from existing customers.
+• The EBITDA margin improves modestly in 2019 but
+still remains low, in the high-teen percent area, due
+to cost savings, a decline in restructuring expenses,
+and the benefits of revenue growth. Nevertheless,
+these improvements are largely offset by higher
+research and development (R&D) expense incurred
+on existing and new initiatives like 5G Radio and 5G
+Packet Core. We expect margin improvement to the
+mid-20% area in 2020, primarily due to revenue
+growth and a decline in R&D expense.
+• Capital expenditures as a percentage of revenues of
+around 3%-4% in 2019 and 2020 as Mavenir
+continues to grow its Access and Advanced Services
+segments.
+
+Company Description
+Mavenir provides network infrastructure software to mobile network operators. These solutions are designed to deliver
+internet protocol (IP)-based voice, video, rich communications, and enhanced messaging services on commoditized
+hardware. Mavenir operates in a relatively niche market, serving more than 250 mobile network operators that serve
+over 3 billion subscribers, in over 140 countries. In the company's addressable markets, the company competes against
+larger and better-capitalized peers such as Ericsson, Nokia, Huawei, and ZTE. These competitors have greater
+financial flexibility and scale to capture market share. In addition, Mavenir has substantial customer concentration,
+with about a third of revenues derived from T-Mobile and about 70% of revenues from the company's largest 10
+customers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+Mavenir Private Holdings II Ltd.
+
+Business Risk: Weak
+Our business risk assessment reflects its small scale, intense competition from larger, better-capitalized peers, and
+significant customer concentration. These factors are partially offset by long-term contracts with its customers (3-5
+year average), solid geographic diversity (about 45% of revenues come from international markets), increasing product
+penetration among global wireless network operators, and low capital intensity, which should enable improving levels
+of FOCF.
+
+Financial Risk: Highly leveraged
+Mavenir's adjusted leverage is elevated at about 7.7x as of the quarter ended April 30, 2019, although we expect
+leverage to decline to the low-7x area in 2019 and the mid-5x area by 2020. Longer term, we expect leverage will
+remain high because of its private equity ownership and the likelihood for debt-financed acquisitions or shareholder
+returns.
+Our leverage calculation includes adjustments for the present value of operating lease payments, which add about $46
+million to reported debt and $16 million to EBITDA.
+
+Liquidity: Adequate
+We view Mavenir's liquidity as adequate, reflecting our expectation that sources of liquidity will exceed uses by over
+7x over the next 12 months and that net sources will remain positive, even with a 15% decline in EBITDA. Despite this
+level of liquidity, we believe high-impact, low-probability events would cause the company's liquidity to become
+constrained, and we believe the company has limited access to the public capital markets.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and equivalents of about $59 million as of April
+30, 2019;
+
+• Capital expenditures of around $13 million to $15
+million over the next 12 months; and
+
+• About $60 million available under its senior secured
+revolving credit facility due in 2023;
+
+• Debt amortization of about $5.5 million over the
+next 12 months.
+
+• Limited funds from operations (FFO) over the next
+12 months; and
+• Positive working capital inflow of about $30 million
+to $35 million over the next 12 months, primarily
+due to reduction in inventory and trade receivables.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+Mavenir Private Holdings II Ltd.
+
+Covenant Analysis
+Compliance expectations
+We expect the company will have at least a 35% cushion under its credit facility covenants over the next year.
+
+Requirements
+Mavenir has a springing 7.5x total leverage covenant on its revolving credit facility if it is more than 35% drawn, which
+we do not expect over the next year.
+
+Issue Ratings - Recovery Analysis
+Simulated default assumptions
+• Our simulated default scenario contemplates a default in 2021, primarily due to the loss of a major customer as a
+result of consolidation within the telecom industry and revenue declines in the company's core business due to
+competitive pressure from third-party applications or lower-than-expected growth in its advanced services.
+• We have valued the company on a going-concern basis using a 6x multiple of our projected EBITDA of about $58
+million. The multiple is in line with the multiples we typically use for our small to midsize network software
+providers.
+
+Simplified waterfall
+• EBITDA at emergence: $58 million
+• EBITDA multiple: 6x
+• Gross Recovery value: $346 million
+• Net recovery value for waterfall after administrative expenses (5%): $328 million
+• Estimated senior secured debt: $612 million
+• Value available for senior secured debt: $282 million
+• --Recovery range: 50%-70%; rounded estimate: 50%
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+Mavenir Private Holdings II Ltd.
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+• Group credit profile: b-
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+Mavenir Private Holdings II Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 9, 2019)*
+Mavenir Private Holdings II Ltd.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+13-Apr-2018
+
+B-/Stable/--
+
+Related Entities
+Mavenir Systems, Inc.
+Senior Secured
+
+B-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+

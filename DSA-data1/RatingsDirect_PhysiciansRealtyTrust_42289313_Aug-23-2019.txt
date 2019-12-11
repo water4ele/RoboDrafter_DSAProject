@@ -1,0 +1,1753 @@
+Physicians Realty Trust
+Primary Credit Analyst:
+Michael H Souers, New York (1) 212-438-2508; michael.souers@spglobal.com
+Secondary Credit Analyst:
+Nicolas Villa, New York + 1 (212) 438-1534; nicolas.villa@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 2
+
+Physicians Realty Trust
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Above-average asset quality, coupled with positive industry
+tailwinds, should continue to support solid occupancy, favorable
+re-leasing spreads, and stable cash flows.
+
+Recent tenant issues (LifeCare and the El Paso Surgical Hospital) have
+caused some minor disruptions to cash flows, although we expect the
+long-term impact to be negliglbe.
+
+Well-diversified portfolio by geography and tenant with no market
+representing more than 8% of gross leasable area (GLA) and no
+tenant accounting for more than 6% of annualized base rents
+(ABR).
+
+The company's exposure to properties that are off-campus/unaffiliated with
+major health care systems is modestly higher than pure-play MOB rated
+REIT peers, posing greater risk of vacancy upon lease expiration.
+
+Well-staggered lease expiration schedule with a weighted average
+remaining lease term of approximately 7.5 years.
+
+We believe capital recycling initiatives and a lower cost of capital have helped improve Physicians Realty Trust's
+(DOC's) portfolio quality by enabling the company to accretively acquire higher quality assets. Ongoing capital
+recycling initiatives and a longer-term strategy to become a pure-play, medical office building (MOB)-focused health
+care REIT, have greatly improved DOC's portfolio quality over the past several years. As of June 30, 2019, DOC
+generated 88% cash net operating income from buildings that were either on-campus or affiliated with major health
+care systems, a material increase from the 78% reported as of March 31, 2016. Over that same reporting period, DOC's
+investment grade tenancy surged to 52.8% of GLA compared with 29%, while its average building size increased to
+more than 54,000 sq. ft. (versus an average of slightly below 39,000 sq. ft.). We also consider DOC's portfolio to be
+well-diversified geographically and by tenant, with no MSA representing more than 8% of GLA and no tenant
+accounting for than 6% of ABR.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 3
+
+Physicians Realty Trust
+
+Chart 1
+
+Chart 2
+
+DOC is currently dealing with two tenant disruptions, but the longer-term impact to cash flows should be negligible.
+Despite some recent tenant disruptions, we believe the impact to DOC's portfolio is manageable given the limited
+amount of at-risk ABR. One tenant, LifeCare Holdings LLC (1.5% of ABR), filed for bankruptcy protection in May.
+However, the master lease on DOC's three LifeCare assets is expected to be assumed by the winning bidder at a recent
+auction, with no modifications to the existing lease terms. The other, the former Foundation El Paso Surgical Hospital
+(1.3% of ABR), is still unresolved. While the physicians group has been delinquent on their rent since April, this facility
+will likely be sold in the relatively near term and shouldn't cause any meaningful disruption to cash flows. DOC has
+two additional "watch list" tenants that represent another 1.2% of ABR combined, but DOC expects to be fully repaid
+by both tenants by year end. Furthermore, we view favorably DOC's longer term strategy to divest its long-term acute
+care hospitals (LTACHs) and specialty hospitals as we view these facility types as more challenging to repurpose (or
+re-tenant, should the existing tenant vacate for whatever reason) than MOBs.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 4
+
+Physicians Realty Trust
+
+Outlook
+
+The stable outlook reflects our view that DOC will continue to grow at a healthy pace, largely financed by a
+combination of equity issuance, non-core dispositions, and internally generated free cash flow. We anticipate the
+company will generate stable growth in line with its 2%-3% same-store contractual rent increases. Furthermore, we
+project the company's leverage will remain relatively stable with adjusted debt to EBITDA in the low-6x area over
+the next two years, with debt/undepreciated capital in the mid- to high-30% area.
+
+Upside scenario
+We could raise the rating by one notch if the company successfully recycles capital to further strengthen its asset
+quality to a level closer to that of key peers, continues to increase its scale in a prudent manner (sourced with
+either non-core dispositions or significant equity issuance), while simultaneously maintaining strong performance
+from its core portfolio. To receive strong consideration for an upgrade, DOC would also need to reduce leverage
+such that S&P Global Ratings' adjusted debt to EBITDA approaches the mid-5x range.
+
+Downside scenario
+While highly unlikely over the next two years, we could lower the rating if DOC pursues significant debt-financed
+expansion such that debt to EBITDA rises above 7.5x on a sustained basis. We could also lower the rating if DOC
+faces meaningful tenant stress that results in prolonged poor operating performance.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020;
+• Same-property revenue growth in the range of 2% to
+3% in both 2019 and 2020;
+• Acquisitions in the range of approximately $200
+million to $400 million in both 2019 and 2020;
+
+2018A
+
+2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+5.9 5.9-6.4 5.9-6.4
+
+Fixed-charge coverage (x)
+
+3.7 3.6-4.1 3.6-4.1
+
+Debt/debt and undepreciated capital (%)
+
+36
+
+35-40
+
+35-40
+
+A—Actual; E-Estimated.
+
+• Dispositions of approximately $100 million over the
+next two years; and
+• Common dividends of approximately $190 million in
+2019 and approximately $210 million in 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 5
+
+Physicians Realty Trust
+
+Base-case projections
+We expect same-property revenue growth in the 2%-3% range in both 2019 and 2020. We believe DOC is
+well-positioned to benefit from favorable industry tailwinds such as an aging population and the significant increase in
+outpatient care relative to care delivered at a hospital setting. Coupled with this favorable backdrop, DOC's long
+weighted average lease term of approximately 7.5 years and minimal near-term lease expirations (only 5% of leases
+expiring through 2020), should result in steady cash flows and continued solid occupancy.
+The pace of acquisitions is expected to accelerate slightly in 2019, to a range of $200 million to $400 million. DOC has
+historically relied on a significant equity component in its capital raising efforts, and as of June 30, 2019, debt was 32%
+of the company's total enterprise value (equity was 68%). We expect DOC to utilize its $300 million ATM Program as
+well as select asset sales and free cash flow to prudently fund its acquisitions pipeline over the next two years.
+We expect credit protection measures to remain relatively stable over the next two years. As of June 30, 2019, DOC's
+adjusted debt to EBITDA was 6.2x and its debt to undepreciated capital was 35.1%. We expect these ratios to remain
+relatively stable over the next two years with adjusted debt to EBITDA in the low 6x area and debt to undepreciated
+capital in the mid- to high-30% range. We believe DOC is committed to maintaining a relatively conservative financial
+policy, and that it will continue to grow its portfolio in a leverage-neutral manner.
+Chart 3
+
+Company Description
+DOC is a self-managed health care real estate company organized to acquire, selectively develop, own and manage
+health care properties that are leased to physicians, hospitals, and health care delivery systems. The company's
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 6
+
+Physicians Realty Trust
+
+investment strategy is largely focused on acquiring off-market or lightly marketed MOBs that are affiliated with major
+health care systems. DOC was formed as a Maryland corporation in 2013 around four health care real estate funds
+managed by B.C. Ziegler & Co.
+
+Business Risk: Satisfactory
+As of June 30, 2019, DOC's portfolio consisted of 252 health care properties totaling 13.6 million square feet of gross
+leasable area (GLA) in 30 states. Since the time of its IPO in 2013, DOC has increased its gross real estate investments
+to nearly $4.5 billion (from $124 million at the time of its IPO).
+The company derived 97% of total NOI from MOBs, with 2% from specialty hospitals, and 1% from LTACHs as of
+June 30, 2019. Same-property MOB performance was solid, with the company generating same-store cash NOI of
+3.5% in the second quarter of 2019. DOC's same-store (MOB) properties were 95.5% leased at June 30, 2019, among
+the highest in the industry, and the retention rate is a solid 76%. Moreover, the company's lease expiration schedule is
+well-staggered, with a weighted average lease term of approximately 7.5 years and only 5.0% of leases expiring before
+year-end 2020. Tenants are relatively well diversified compared with other health care REITs, with the largest tenant
+accounting for 5.7% of ABR and the top 10 accounting for 29.6% (of ABR) as of June 30, 2019.
+Chart 4
+
+Although the gap has closed considerably over the past few years, we think the quality of the company's assets
+remains slightly below its closest MOB pure-play peers. As of June 30, 2019, 12% of cash NOI is off-campus and
+unaffiliated to major health care systems. We acknowledge that DOC's off-campus properties aren't located in tertiary
+markets and are likely less vulnerable than the nationwide pool of off-campus MOB properties. However, we view
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 7
+
+Physicians Realty Trust
+
+these properties as somewhat inferior to on-campus/affiliated properties. We believe there is a greater risk attached to
+maintaining the tenants when leases are up for renewal, and there is additional competition from other office buildings
+(so that even if tenants renew, the lessor may be forced to accept lower rates of rent growth). The company is
+gradually tackling this issue with new acquisitions partially funded by the disposal of weaker-positioned MOBs.
+Moreover, while we think tenant disruptions have remained manageable, they have occurred more frequently than
+they have at DOC's closest peers. On May 6, 2019, LifeCare Holdings LLC filed for Chapter 11 bankruptcy protection
+and has not paid DOC contractually-owed rents for April and May 2019. In June 2019, DOC resumed the collection of
+rents and has received full payments for June, July, and August 2019, and is expected to transition its existing lease
+agreement to a new tenant with no lease modifications. DOC's exposure to its three other "watch list" tenants
+represents 2.5% of ABR, although the company expects to collect full rent by year-end 2019 from two of those tenants
+(representing 1.2% of ABR). Given the relatively limited amount of at-risk ABR, in conjunction with DOC's swift
+response in addressing struggling tenants, we believe these tenant disruptions are manageable and will cause
+negligible long-term disruption to cash flows.
+
+Peer comparison
+Table 1
+
+Peer Comparison
+
+Rating as of Aug.
+15, 2019
+
+Physicians
+Realty Trust
+
+Healthcare
+Realty Trust
+
+Healthcare
+Trust of
+America Inc.
+
+Omega
+Healthcare
+Investors Inc.
+
+Sabra Health
+Care REIT Inc.
+
+CareTrust REIT
+Inc.
+
+BBB-/Stable/--
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+BBB-/Stable/--
+
+BB+/Stable/--
+
+BB-/Positive/--
+
+Rolling 12
+months ended
+March 31, 2019
+
+Rolling 12
+months ended
+March 31, 2019
+
+Rolling 12
+months ended
+June 30, 2019
+
+Rolling 12
+months ended
+March 31, 2019
+
+Rolling 12
+months ended
+March 31, 2019
+
+Rolling 12
+months ended
+March 31, 2019
+
+S&P Adjusted (Mil. $)
+Revenues
+
+398.5
+
+447.7
+
+680.6
+
+826.8
+
+706.5
+
+156.1
+
+EBITDA
+
+255.4
+
+256.6
+
+438.7
+
+776.0
+
+471.7
+
+134.7
+
+FFO
+
+189.0
+
+197.2
+
+331.5
+
+553.5
+
+305.5
+
+109.2
+
+51.8
+
+65.5
+
+217.1
+
+267.1
+
+138.9
+
+59.4
+
+202.1
+
+201.0
+
+328.2
+
+546.0
+
+303.5
+
+107.5
+
+38.6
+
+64.7
+
+77.3
+
+18.5
+
+21.2
+
+11.2
+
+Free Operating
+Cash Flow
+
+163.5
+
+136.3
+
+250.9
+
+527.4
+
+282.3
+
+96.3
+
+Discretionary Cash
+Flow
+
+(14.0)
+
+(18.4)
+
+(87.7)
+
+(7.6)
+
+(177.1)
+
+29.6
+
+6.9
+
+11.3
+
+61.7
+
+40.0
+
+22.9
+
+214.4
+
+Debt
+
+1,583.5
+
+1,437.1
+
+2,677.3
+
+4,402.5
+
+3,605.4
+
+679.0
+
+Equity
+
+2,452.4
+
+1,805.8
+
+3,281.3
+
+3,805.6
+
+3,050.8
+
+811.0
+
+Net income from
+continuing
+operations
+Cash flow from
+operations
+Capital
+Expenditures
+
+Cash and
+Short-term
+Investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 8
+
+Physicians Realty Trust
+
+Table 1
+
+Peer Comparison (cont.)
+Adjusted ratios
+EBITDA Margin
+(%)
+
+64.1
+
+57.3
+
+64.5
+
+93.9
+
+66.8
+
+86.3
+
+Return on Capital
+(%)
+
+2.3
+
+2.5
+
+2.5
+
+5.8
+
+3.7
+
+6.2
+
+EBITDA Interest
+Coverage (x)
+
+3.8
+
+4.3
+
+4.0
+
+3.6
+
+2.7
+
+4.9
+
+FFO cash interest
+coverage (x)
+
+3.8
+
+4.4
+
+4.1
+
+3.5
+
+2.9
+
+5.3
+
+Debt/EBITDA (x)
+
+6.2
+
+5.6
+
+6.1
+
+5.7
+
+7.6
+
+5.0
+
+FFO/Debt (%)
+
+11.9
+
+13.7
+
+12.4
+
+12.6
+
+8.5
+
+16.1
+
+Cash flow from
+operations/debt
+(%)
+
+12.8
+
+14.0
+
+12.3
+
+12.4
+
+8.4
+
+15.8
+
+Free operating
+cash flow/debt (%)
+
+10.3
+
+9.5
+
+9.4
+
+12.0
+
+7.8
+
+14.2
+
+Discretionary cash
+flow/debt (%)
+
+(0.9)
+
+(1.3)
+
+(3.3)
+
+(0.2)
+
+(4.9)
+
+4.4
+
+Debt/Debt and
+Equity (%)
+
+39.2
+
+44.3
+
+44.9
+
+53.6
+
+54.2
+
+45.6
+
+Debt Fixed Charge
+Coverage (x)
+
+3.7
+
+4.0
+
+3.9
+
+3.6
+
+2.6
+
+4.9
+
+Total coverage (all
+equity
+distributions) (x)
+
+1.1
+
+1.2
+
+1.2
+
+1.0
+
+1.0
+
+1.4
+
+35.1
+
+33.6
+
+38.9
+
+44.7
+
+50.9
+
+39.0
+
+Debt / debt and
+undepreciated
+equity (%)
+FFO--Funds from operations
+
+Financial Risk: Intermediate
+We believe DOC's prudent funding strategy and relatively low leverage are key strengths to its financial profile. We
+view DOC's capital structure as relatively conservative given its largely unsecured and fixed-rate debt structure, along
+with a well-laddered debt maturity schedule.
+DOC has had a robust appetite for growth in the past, but its pace of acquisitions noticeably abated over the past
+couple of years--it acquired just $271 million of assets in 2018 after exceeding $1.2 billion in both 2016 and 2017. Two
+factors caused this slowdown. First, DOC's stock price declined in late 2017 and in early 2018, limiting the company's
+ability to raise equity capital without materially diluting the existing shareholders. Second, a highly competitive market
+for MOBs has led to lower cap rates, with fewer potential acquisitions exceeding DOC's investment return hurdles.
+Year-to-date through Aug. 7, 2019, DOC's real estate investments (including development commitments) have totaled
+$139.0 million; we expect a greater number of acquisitions to close over the last several months of 2019. We expect
+DOC to fund its growth in a leverage-neutral manner, and for leverage metrics to remain relatively unchanged from
+current levels. As of June 30, 2019, DOC's adjusted debt to EBITDA was 6.2x, with fixed-charge coverage at 3.7x and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 9
+
+Physicians Realty Trust
+
+debt to undepreciated capital at 35.1%.
+Additional factors we consider positives include the company's weighted average interest rate of 3.8% as of June 30,
+2019, and the fact that DOC has no significant debt maturities until the company's credit facility comes due in
+September 2022.
+
+Financial summary
+Table 2
+
+Financial Summary
+--Rolling 12 months
+ended Jun. 30, 2019-Rating History
+
+Fiscal year ended
+Dec. 31, 2018
+
+Fiscal year ended
+Dec. 31, 2017
+
+Fiscal year ended
+Dec. 31, 2016
+
+Fiscal year ended
+Dec. 31, 2015
+
+BBB-/Stable/--
+
+BBB-/Stable/--
+
+BBB-/Stable/--
+
+BB+/Stable/--
+
+BB/Stable/--
+
+Revenues
+
+398.5
+
+400.7
+
+327.4
+
+224.8
+
+120.4
+
+EBITDA
+
+255.4
+
+260.9
+
+199.6
+
+131.8
+
+64.9
+
+FFO
+
+189.0
+
+199.7
+
+158.6
+
+112.9
+
+54.2
+
+51.8
+
+56.2
+
+38.1
+
+30.0
+
+11.8
+
+202.1
+
+209.1
+
+180.8
+
+125.1
+
+61.7
+
+Capital Expenditures
+
+38.6
+
+34.6
+
+23.2
+
+11.3
+
+5.0
+
+Free Operating Cash
+Flow
+
+163.5
+
+174.5
+
+157.6
+
+113.7
+
+56.7
+
+Discretionary Cash
+Flow
+
+(14.0)
+
+(1.6)
+
+(15.1)
+
+(8.3)
+
+(8.2)
+
+6.9
+
+19.2
+
+2.7
+
+15.5
+
+3.1
+
+Debt
+
+1,583.5
+
+1,551.2
+
+1,506.9
+
+1,006.8
+
+504.4
+
+Equity
+
+2,452.4
+
+2,476.1
+
+2,560.0
+
+1,808.8
+
+1,103.4
+
+S&P Adjusted (Mil. $)
+
+Net income from
+continuing operations
+Cash flow from
+operations
+
+Cash and Short-term
+Investments
+
+Adjusted ratios
+EBITDA Margin (%)
+
+64.1
+
+65.1
+
+61.0
+
+58.6
+
+53.9
+
+Return on Capital (%)
+
+2.3
+
+2.3
+
+2.0
+
+1.8
+
+1.3
+
+EBITDA Interest
+Coverage (x)
+
+3.8
+
+3.8
+
+4.1
+
+5.2
+
+5.5
+
+FFO cash interest
+coverage (x)
+
+3.8
+
+4.3
+
+4.9
+
+7.0
+
+6.0
+
+Debt/EBITDA (x)
+
+6.2
+
+5.9
+
+7.5
+
+7.6
+
+7.8
+
+FFO/Debt (%)
+
+11.9
+
+12.9
+
+10.5
+
+11.2
+
+10.7
+
+Cash flow from
+operations/debt (%)
+
+12.8
+
+13.5
+
+12.0
+
+12.4
+
+12.2
+
+Free operating cash
+flow/debt (%)
+
+10.3
+
+11.2
+
+10.5
+
+11.3
+
+11.2
+
+Discretionary cash
+flow/debt (%)
+
+(0.9)
+
+(0.1)
+
+(1.0)
+
+(0.8)
+
+(1.6)
+
+Debt/Debt and Equity
+(%)
+
+39.2
+
+38.5
+
+37.1
+
+35.8
+
+31.4
+
+3.7
+
+3.7
+
+3.9
+
+4.7
+
+4.7
+
+Debt Fixed Charge
+Coverage (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 10
+
+Physicians Realty Trust
+
+Table 2
+
+Financial Summary (cont.)
+--Rolling 12 months
+ended Jun. 30, 2019-Total coverage (all
+equity distributions) (x)
+Debt / debt and
+undepreciated equity
+(%)
+
+Fiscal year ended
+Dec. 31, 2018
+
+Fiscal year ended
+Dec. 31, 2017
+
+Fiscal year ended
+Dec. 31, 2016
+
+Fiscal year ended
+Dec. 31, 2015
+
+1.1
+
+1.1
+
+1.0
+
+1.0
+
+0.8
+
+35.1
+
+36.0
+
+35.3
+
+34.3
+
+30.2
+
+FFO-Funds from operations.
+
+Liquidity: Adequate
+We assess DOC's liquidity as adequate. Our assessment of the company's liquidity profile incorporates the following
+expectations and assumptions:
+• Liquidity sources will exceed uses by at least 1.2x over the next 12 months;
+• Liquidity sources will be positive, even if forecasted EBITDA declines by 10% (a REIT specific threshold for
+adequate liquidity);
+• Sufficient covenant headroom for forecasted EBITDA to decline by 10% without the company breaching covenant
+tests, and debt is at least 10% below covenant levels;
+• A generally satisfactory standing in credit markets; and
+• Sound relationships with banks.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash and equivalents of $6.9 million at
+June 30, 2019;
+
+• Principal mortgage amortization payments of
+roughly $2 million per year;
+
+• Availability of $631 million under its $850 million
+unsecured revolving credit facility due September
+2022; and
+
+• Maintenance capital expenditures (including tenant
+improvements and leasing commissions) of
+approximately $20 million per year;
+
+• Assumed funds from operations of about $200
+million in 2019 and approximately $215 million in
+2020.
+
+• Contracted acquisitions of approximately $75
+million subsequent to the second quarter of 2019
+close;
+• Unfunded development commitments of
+approximately $34 million as of June 30, 2019; and
+• Common dividends of approximately $190 million in
+2019 and $210 million in 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 11
+
+Physicians Realty Trust
+
+Debt maturities
+Chart 5
+
+Covenant Analysis
+Compliance expectations
+As of June 30, 2019, DOC was comfortably in compliance with the financial covenants under its credit facility and
+senior unsecured notes. We believe the company will maintain sufficient covenant headroom over the next 12 to 24
+months.
+
+Requirements
+Table 3
+
+Senior Unsecured Notes Key Covenants
+As of June 30, 2019
+Criteria
+
+Actual Headroom Compliance
+
+Total leverage ratio (%)
+
+Maximum
+
+60.0
+
+35.3
+
+24.7
+
+Yes
+
+Total secured leverage ratio (%)
+
+Maximum
+
+40.0
+
+2.3
+
+37.7
+
+Yes
+
+Maintenance of unencumbered assets (x)
+
+Minimum
+
+1.5
+
+2.9
+
+1.4
+
+Yes
+
+Consolidated debt service (trailing four quarters) (x)
+
+Minimum
+
+1.5
+
+4.0
+
+2.5
+
+Yes
+
+Other Credit Considerations
+Additional potential sources of capital include access to secured debt. Given that DOC's secured leverage ratio was
+2.3% as of June 30, 2019, we believe the company has some flexibility to pursue additional secured debt for
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 12
+
+Physicians Realty Trust
+
+refinancing purposes without jeopardizing the current unsecured debt rating.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+For real estate companies, we typically rate the senior unsecured debt the same as the issuer credit rating unless the
+percentage of secured debt exceeds 35% of total undepreciated assets (or 40% of the fair market value of assets).
+
+Analytical conclusions
+The majority of DOC's properties are unencumbered, and the ratio of secured debt to undepreciated assets was 2.3%
+as of June 30, 2019, which is well below the threshold of 35%. Therefore, we rate the company's unsecured debt
+'BBB-', the same as the issuer credit rating.
+
+Reconciliation
+Table 4
+
+Reconciliation of Physicians Realty Trust Reported Amounts with S&P Global Ratings' Adjusted Amounts (Mil.
+$)
+Rolling 12 months ended June 30, 2019
+
+Debt
+Physicians
+Realty Trust's
+Reported
+Amounts
+
+1,529.0
+
+Shareholders'
+equity Revenue EBITDA
+2,355.3
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+410.6
+
+256.0
+
+101.2
+
+64.9
+
+255.4
+
+202.6
+
+175.1
+
+38.6
+
+S&P Global Ratings' Adjustments:
+Cash interest
+paid
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(64.0)
+
+-
+
+-
+
+-
+
+60.7
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.9
+
+2.5
+
+2.5
+
+(2.5)
+
+(0.5)
+
+-
+
+-
+
+(6.9)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Share-based
+compensation
+expense
+
+-
+
+-
+
+-
+
+9.4
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Dividends
+received from
+equity
+investments
+
+-
+
+-
+
+-
+
+0.1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Nonoperating
+income
+(expense)
+
+-
+
+-
+
+-
+
+-
+
+0.1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Noncontrolling
+interest/minority
+interest
+
+-
+
+97.1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Reported lease
+liabilities
+Operating leases
+Accessible cash
+and liquid
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 13
+
+Physicians Realty Trust
+
+Table 4
+
+Reconciliation of Physicians Realty Trust Reported Amounts with S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+Debt: Other
+Revenue: Other
+Total
+adjustments
+
+0.8
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(12.1)
+
+(12.1)
+
+(12.1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+54.6
+
+97.1
+
+(12.1)
+
+(0.6)
+
+(9.5)
+
+2.5
+
+(66.5)
+
+(0.5)
+
+-
+
+-
+
+Debt
+S&P Global
+1,583.5
+Ratings' Adjusted
+Amounts
+
+Equity Revenue EBITDA
+2,452.4
+
+398.5
+
+255.4
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+91.8
+
+67.3
+
+189.0
+
+202.1
+
+175.1
+
+38.6
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 14
+
+Physicians Realty Trust
+
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• REITrends: Back In The Capital Markets And Largely Well Positioned For Opportunity, May 31, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 21, 2019)*
+Physicians Realty Trust
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+10-Aug-2017
+
+BBB-/Stable/--
+
+27-Feb-2017
+
+BB+/Positive/--
+
+Related Entities
+Physicians Realty L.P.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 16
+
+

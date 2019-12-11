@@ -1,0 +1,617 @@
+Phoenix Services International LLC
+Primary Credit Analyst:
+Florent Blot, Paris +33 1 40 72 25 42; florent.blot@spglobal.com
+Secondary Contacts:
+Clara McStay, New York + 1 212 438 1705; Clara.McStay@spglobal.com
+William R Ferara, New York (1) 212-438-1776; bill.ferara@spglobal.com
+Pranav Natarajan, Toronto + 1 (416) 507 2576; pranav.natarajan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 1
+
+Phoenix Services International LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Average contract maturity of seven to 10 years and high customer renewal
+rates provide some earnings visibility.
+
+High correlation to cyclical steel production can result in volatile
+cash flows and credit metrics.
+
+Variable cost structure and volume-based pricing structure limit margin
+volatility.
+
+Elevated adjusted debt to EBITDA of about 5.5x.
+Operates in a competitive and niche market with a small size
+compared with its peers.
+Sizable customer concentration.
+
+Phoenix Services International LLC is exposed to slowing steel markets. Declining steel production in Europe is
+constraining the company's earnings because this region represents close to 40% of its business. U.S.-based steel
+production (about 45% of operations) had so far been more resilient, but signs of weakness have materialized as we
+entered the second half of the year. As such, we forecast 2019 revenue and EBITDA to decline by 3%-5% and 8%-10%,
+respectively. We expect the decline to be somewhat contained given Phoenix's three newly signed contracts as well as
+a sizable degree of variable costs and fixed-pricing embedded in its activity.
+A limited revenue base and debt to EBITDA of about 5.5x are key rating constraints. We view the company's
+operations as relatively narrow and of lower scale compared with more highly rated industrial service companies.
+While Phoenix has a solid customer retention rate and operating margins track record, its small size makes it more
+vulnerable to competitive pressures and contract renewal risks, the cyclicality of steel production, and the high service
+costs of its elevated debt load of about $450 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 2
+
+Phoenix Services International LLC
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Phoenix Services International LLC will maintain credit metrics
+commensurate with the current rating despite less favorable steel market conditions and operating results. We
+forecast adjusted debt to EBITDA to be close to 5.5x and EBITDA interest coverage to be slightly below 3x over
+the next 12 months.
+
+Downside scenario
+We could lower our ratings on Phoenix over the next 12 months if it generated EBITDA interest coverage
+approaching 1.5x or adjusted debt to EBITDA close to 7x. This would most likely be caused by a large
+debt-financed dividend or acquisition. We view as less likely that weaker earnings could cause this type of
+deterioration in credit metrics in the near term because operating leverage is low and a good portion of the
+company's revenue are contracted.
+
+Upside scenario
+We view an upgrade in the next 12 months as unlikely. Any potential upgrade would be predicated on our view
+that the company and its owner would employ a more conservative financial strategy. At the same time, the
+company would need to maintain stronger cash flows and credit ratios, including adjusted debt to EBITDA of less
+than 4x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 3
+
+Phoenix Services International LLC
+
+Assumptions
+
+Key Metrics
+
+• Real U.S. GDP growth of 2.5% in 2019 and 1.8% in
+2020.
+• Eurozone GDP growth of 1.1% and 1.4% in 2019
+and 2020, respectively.
+• U.S. nonresidential construction decline of 1.4% in
+2019 and subsequent growth of 1.9% in 2020
+• U.S. light vehicle sales of 16.7 million and 16.5
+million in 2019 and 2020.
+
+2018A 2019E 2020E
+EBITDA margin (%)
+
+25.4
+
+22-24
+
+23-25
+
+Debt to EBITDA (x)
+
+4.8
+
+5-6
+
+5-5.5
+
+FFO to debt (%)
+
+13
+
+10-12
+
+11-13
+
+EBITDA interest coverage (x)
+
+2.7
+
+2.5-3
+
+3
+
+A--Actual. E—Estimate
+
+• Average U.S. hot-rolled coil (HRC) prices of about
+$600/ton-$625/ton for the rest of 2019 and in 2020.
+• Lower euro to U.S. dollar exchange rate of 1.14 in
+2019 and 1.15 in 2020, from 1.18 in 2018.
+• Higher U.S. dollar to Brazilian real exchange rate of
+3.90 in 2019 and 3.95 in 2020, from 3.65 in 2018.
+• Revenue to decline by 3%-5% in 2019 and to
+modestly increase thereafter as the company
+executes new contracts and global steel production
+stabilizes.
+• Modestly lower EBITDA margins of 22%-24% in
+2019 and 2020.
+• Growth capital expenditures of about $30 million in
+2019 and $10 million in 2020.
+• Total capital spending of $60 million-$70 million in
+2019, declining to about $50 million in 2020.
+• No dividend payments or material acquisitions in the
+next two years.
+
+Base-case projections
+Less favorable steel market conditions will affect revenue despite site additions. We foresee lower steel activity driven
+by globally weaker demand from auto and construction markets to affect production volumes in the next 12 months,
+especially in Europe, where close to 40% of Phoenix's serviced mills are located. New operations at three sites in the
+U.S., Europe, and the United Arab Emirates should limit the contraction since they will each ramp-up through year-end
+2019.
+Unfavorable foreign exchange and operating costs are keeping EBITDA margins below 25%. We forecast the average
+value of the euro and the Brazilian real against the U.S. dollar to depreciate by about 4% and 6%, respectively, in 2019,
+affecting Phoenix's reported revenue and margins. Continued higher fuel prices and some delays in reducing variable
+operating costs should also constrain the company's adjusted EBITDA margin below its 28%-30% historical range.
+However, annual contract price escalations and recently accelerated labor cuts should help Phoenix maintaining its
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 4
+
+Phoenix Services International LLC
+
+margins slightly below last year's level of 25%.
+Higher growth capital expenditures of $30 million will drive a cash flow deficit in 2019. We forecast the one-time
+investments at the two newly serviced mills and lower earnings to lead to negative free cash flow of close to $15
+million this year, down from a $15 million inflow in 2018. As a result, we do not anticipate any significant debt
+repayment and expect adjusted debt to EBITDA to be in the mid-5x area in the next 12 months.
+
+Company Description
+Phoenix Services International LLC provides steel mills with on-site services, such as slag handling, metal recovery,
+slag sales, large scrap preparation, and scrap handling. The company operates at about 30 customer sites in eight
+countries across the Americas, Europe, and South Africa.
+
+Business Risk: Weak
+Phoenix's business is characterized by its exposure to the cyclical steel industry, a limited size and scope compared
+with peers (about $350 million of revenue), and customer concentration (top 10 sites contribute approximately 75% of
+EBITDA). Such a narrow operating profile makes the company more vulnerable to contract renewal risk and steel
+markets downturns.
+Phoenix is indirectly exposed to volatile steel market conditions and competition from imports through changes in
+production levels (volume-based contracts). We expect weak market conditions in Europe to constrain results in 2019,
+with average year-to-date HRC prices below €500 per ton causing several producers to idle capacity. To mitigate such
+sensitivities, the company aims to focus its operations at lower-cost steel works, such that we expect the earnings
+decrease to be somewhat limited over the next 12 months. During the 2015 downturn, Phoenix's revenue contracted
+by about 12% and its EBITDA remained above $90 million, while some of its steelmaking customers experienced 30%
+to 50% declines in revenue and EBITDA.
+The company is also able to offset part of its exposure to steel sector fundamentals with long-term agreements
+(eight-year average) including base fixed fees and price escalators (primarily for labor and fuel costs). Such agreements
+are typically associated with high switching costs and have allowed Phoenix to generate solid retention rates. These
+considerations, along with the company's highly variable cost structure (for about 80%), were key in maintaining stable
+adjusted EBITDA margins of about 30% during the adverse global market conditions experienced in 2015 and 2016.
+Phoenix's international exposure also provides relief from domestic production cycles, with the so-far more resilient
+North American markets and new contracts expected to partially mitigate the weaker European activity headwind in
+the next 12 months.
+
+Peer comparison
+TMS International Corp. is a direct competitor of Phoenix and its closest rated peer, with relatively similar debt
+leverage of about 5x. The company is bigger in terms of scale because it operates globally at more than 70 sites and
+offers raw material procurement services. Despite having lower and more commodity price-exposed EBITDA margins
+in the 10% area, TMS' larger revenue base (by more than 3x) and positive free cash flow generation through steel price
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 5
+
+Phoenix Services International LLC
+
+cycles are the primary drivers of its higher rating.
+Diversified industrial services and engineered products provider Harsco Corp. competes with Phoenix through its
+environmental segment. Its wider scope of operations and end-market exposure, solid EBITDA margins close to 20%,
+and robust cash flow generation and debt leverage below 3x are the main reasons for the higher credit rating.
+
+Financial Risk: Highly leveraged
+We expect Phoenix's lower earnings to be the primary driver of adjusted debt leverage being in the mid-5x area over
+the next 12 months, from 4.8x last year. This level remains commensurate with our current rating, and we view
+favorably the company's improved EBITDA interest coverage, close to 3x, following its successful refinancing
+transaction at more favorable terms in 2018.
+As the company finalizes its latest growth projects by year-end 2019, we forecast free operating cash flow to remain
+limited beyond this period, at about $10 million per year. The capital intensity associated with Phoenix's newly
+serviced mills (ranging from $5 million to $20 million) and its sizable fixed charges (about $60 million per year) have
+historically constrained free cash flow levels. The company's ownership by financial sponsor Apollo Global
+Management LLC could also result in any cash generated being allocated toward dividend or share repurchases, which
+we view as another constraint to our assessment.
+Despite key initiatives to mitigate margin volatility, Phoenix's credit metrics remain sensitive to cyclical steel markets.
+We estimate that if its total revenue and operating margin were to decline by 10% and 200 basis points, respectively,
+from our base case scenario, its adjusted debt to EBITDA would increase by about 1x to 6.5x. When global steel prices
+reached a cyclical low point in 2015, the company's margins remained relatively stable but its adjusted EBITDA had a
+peak-to-trough decline of about 20% compared with 2014, with debt leverage increasing to 5.2x from 4x.
+
+Liquidity: Adequate
+We view Phoenix's liquidity to be adequate based on the following observations and estimates:
+• Liquidity sources should be close to 2x over the next year,
+• Liquidity sources would continue to exceed uses, even if forecast EBITDA declined by 30%,
+• Sufficient covenant headroom for forecast EBITDA to decline by 15% without the company breaching its first-lien
+leverage ratio, and
+• The company's sound relationships with banks and satisfactory standing in credit markets based on its ability to
+refinance its capital structure last year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 6
+
+Phoenix Services International LLC
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and short-term investments of about $35
+million as of June 30, 2019,
+
+• Capital spending of about $60 million over the next
+12 months,
+
+• Full availability on the company's $65 million
+revolving credit facility as of June, 2019, and
+
+• Peak seasonal working capital outflow of about $15
+million over the next 12 months,and
+
+• Cash funds from operations of $50 million to $55
+million over the next 12 months.
+
+• Yearly term loan amortization of about $5 million.
+
+Debt maturities
+Phoenix does not face any significant upcoming financial obligations as its $465 million first-lien term loan matures in
+March 2025.
+Phoenix Services International LLC Debt Maturities
+Year
+
+Amount ($ mil.)
+
+Description
+
+2019
+
+4.7
+
+Term loan amortization
+
+2020
+
+4.7
+
+Term loan amortization
+
+2021
+
+4.7
+
+Term loan amortization
+
+2022
+
+4.7
+
+Term loan amortization
+
+2023
+
+4.7
+
+Term loan amortization, revolving facility due 2023 (fully undrawn as of June 30, 2019)
+
+Thereafter
+
+434
+
+Term loan balance due 2025
+
+Covenant Analysis
+We do not expect any covenant issues over the next 12 months. Phoenix' credit facility has a springing net first-lien
+leverage covenant of 6.18x, which was not tested as of June 30, 2019. The covenant triggers if the revolving line is
+drawn by more than 30%, and we expect Phoenix to maintain its leverage below the 6.18x limit over the next 12
+months.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We rate the company's $65 million revolving credit facility and $465 million term loan 'B' (in line with the issuer
+credit rating), with a '3' recovery rating. The '3' recovery rating reflects our view that creditors would experience
+meaningful (50%-70%; rounded estimate: 65%) recovery in a payment default.
+• We assessed recovery prospects for lenders on the basis of a reorganization value of about $380 million, reflecting
+an emergence EBITDA of $69 million and a 5.5x multiple.
+• The $69 million emergence EBITDA incorporates recovery assumptions for minimum capital expenditures (at 5% of
+sales) based on our view that Phoenix Services requires greater capital spending, as a percent of sales, than other
+companies in the metals and mining downstream sector. We also incorporate our standard 15% cyclicality
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 7
+
+Phoenix Services International LLC
+
+adjustment for issuers in the metals and mining downstream sector.
+• The 5.5x multiple is in line with the multiples we assign to other companies in the metals and mining downstream
+sector.
+
+Simulated default assumptions
+Our default scenario contemplates that global steel markets will face a prolonged period of depressed prices and
+demand, which leads to Phoenix's customers shutting down its steel sites. At the same time, the loss of some key
+contracts to Phoenix's primary competitors could severely affect earnings. In these scenarios, Phoenix would be
+unable to finance its fixed charges with free cash flow, precipitating a payment default, debt restructuring, or
+bankruptcy filing.
+• Simulated year of default: 2022
+• EBITDA at emergence: $69 million
+• Implied enterprise value multiple: 5.5x
+• Gross enterprise value: $380 million
+
+Simplified waterfall
+• Net enterprise value after 5% administrative costs: $361 million
+• Obligors (U.S. operations)/non-obligors (foreign operations) valuation split: 45%/55%
+• Total value available to secured debt holders: $361 million
+• Estimated first-lien debt claim: $522 million
+• Recovery rating: '3'
+• --Recovery expectation: 50%-70% (rounded estimate: 65%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 8
+
+Phoenix Services International LLC
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : b
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Metals And Mining Downstream Industry, Dec. 20,
+2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 9
+
+Phoenix Services International LLC
+
+Ratings Detail (As Of September 13, 2019)*
+Phoenix Services International LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+22-Jan-2018
+
+B/Stable/--
+
+11-Dec-2017
+
+B/Watch Neg/--
+
+28-Nov-2017
+
+B/Stable/--
+
+28-Jul-2017
+
+B/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 11
+
+

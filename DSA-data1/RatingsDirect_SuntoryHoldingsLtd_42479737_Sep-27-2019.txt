@@ -1,0 +1,1494 @@
+Suntory Holdings Ltd.
+Primary Credit Analyst:
+Ryohei Yoshida, Tokyo (81) 3-4550-8660; ryohei.yoshida@spglobal.com
+Secondary Contact:
+Katsuyuki Nakai, Tokyo (81) 3-4550-8748; katsuyuki.nakai@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+Suntory Holdings Ltd.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Strong brand recognition as a major general beverage manufacturer in
+Japan and overseas with competitive product lines for alcoholic and
+nonalcoholic drinks
+
+A likelihood of profitability remaining weaker than that of its global
+competitors over the next few years, due in part to rising supply
+chain costs in the soft drink market
+
+Balanced and diversified revenue sources, including in key market Japan,
+North America, Europe, and elsewhere in Asia, with a solid business base in
+the spirits segment in the U.S.
+
+Low profitability in the beer business amid a challenging operating
+environment
+
+The second-largest and a steadily increasing share of the Japanese soft
+drink market, backed by successful merchandising and product
+development strategies
+
+High reliance on debt financing, with its debt ratios remaining high
+compared with its peers
+
+Prospects of continued improvement in key financial ratios, underpinned by
+stable cash flow generation under conservative financial management, after
+the acquisition of U.S.-based Beam
+
+Suntory has established a strong brand portfolio through its agile development capabilities that tailor products to
+consumer needs and preferences. S&P Global Ratings believes the Japan-based major general beverage manufacturer
+Suntory Holdings Ltd. can maintain strong brand recognition in Japan and elsewhere. It offers a wide variety of
+competitive product lines for both alcoholic and nonalcoholic drinks. Multiple product categories contribute to overall
+profit, backed by successful merchandising and product development strategies. Its product portfolio is also
+geographically diversified. The company's efforts to develop products that reflect the needs of each consumption
+market have been successful. In addition to key market Japan, the company has solid brand portfolios in North
+America, Europe, and elsewhere in Asia, gained through acquisitions and the establishment of joint ventures. Given
+this, we expect Suntory to steadily generate cash flow in the coming years.
+We expect Suntory's key financial ratios to continue to improve, backed by stable generation of cash flow and
+conservative financial management. The company's ratio of debt to EBITDA, a key cash flow metric, is likely to
+steadily improve to about 3.3x in fiscal 2019, ending Dec. 31, 2019. We then expect it to decrease to about 3.0x the
+following fiscal year. We base this on our view that the company is likely to record solid earnings growth. Support will
+also come from hybrid capital, such as subordinated loans and debt (about ¥130 billion), that the company issued in
+August 2019. The ratio substantially deteriorated as a result of the acquisition of U.S.-based Beam Inc. (Beam Suntory)
+in 2014. However, the ratio had recovered to 3.8x by fiscal 2018. This figure is commensurate with our significant
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+Suntory Holdings Ltd.
+
+assessment of the company's financial risk profile. The improvement was driven by solid business performances and
+prudent financial management that prioritized improvement of the weakened finances. We expect Suntory's financial
+standing to continue improving despite the challenging competitive environment, in light of its stable cash flow
+generation and financial discipline.
+Chart 1
+
+Suntory's profitability is likely to remain weak compared to global peers.We think the company's profitability will
+remain lower than that of major global beverage companies, even when considering differences in scale, operational
+geography, product line, and business field. In the Japanese soft drink business, which accounts for about 30% of total
+sales, competition remains fierce: The market has matured. Supply chain costs, such as those for raw materials
+procurement and logistics, have also risen. These factors are likely to limit any improvement in the company's
+profitability over the next two to three years, in our view. Going forward, profitability is likely to continue to be
+subdued in its beer business, which mainly focuses on the domestic market and generates about 20% of the company's
+total revenue. Suntory's share in its home market is gradually expanding, but the company remains in No. 3 position,
+lagging far behind the top two beer producers. The heavy burdens of product development costs and sales promotion
+expenses amid the fierce competition for share will continue to weigh on Suntory's profitability, in our view.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+Suntory Holdings Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Suntory's debt to EBITDA will improve to 3.0x-3.5x in a year or two. We
+base this view that Suntory's solid performance will continue to be supported by the company's strong brand
+recognition and product development capabilities in the global alcoholic beverage and soft drinks markets. The
+outlook also reflects our view that the company will not make sizable debt-financed acquisitions in the next two
+years or so.
+
+Upside scenario
+We may consider an upgrade if debt to EBITDA is more likely to improve to below 3x on a sustainable basis. This
+could occur if the company steadily strengthens its business base while successfully reducing its reliance on debt
+through prudent financial management.
+
+Downside scenario
+We could downgrade Suntory if its debt to EBITDA were to worsen to below 4x with little prospect of a quick
+recovery. This could occur if its financial standing deteriorated, potentially due to aggressive business acquisitions
+or capital expenditures or a downturn in earnings.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+Suntory Holdings Ltd.
+
+Assumptions
+
+• Real GDP growth in Japan of 0.8% in 2019 and 0.1%
+in 2020; in the U.S. of 2.5% in 2019 and 1.8% in
+2020; in the eurozone economy of 1.1% in 2019 and
+1.3% in 2020; and in Asia-Pacific (excluding Japan)
+of 5.7% in 2019 and 6.0% in 2020 (June 2019
+assumptions)
+• Annual growth in Suntory's sales of about 2% in the
+next year or two, primarily driven by overseas
+businesses
+
+Key Metrics
+
+EBITDA margin (%)
+Debt to EBITDA (x)
+EBITDA interest coverage ratio (x)
+
+2018A
+
+2019F
+
+2020F
+
+15.8
+
+About 16
+
+About 16
+
+3.8 About 3.3 About 3.0
+14.6
+
+About 15
+
+About 15
+
+All figures incorporate S&P Global Ratings
+adjustments. All years are fiscal, ending Dec. 31.
+A--Actual. F--Forecast.
+
+• Steady expansion of Suntory's shares in the
+maturing Japanese soft drinks and alcoholic
+beverages markets through strengthened core
+brands
+• Moderate growth in Suntory's sales volume of
+alcoholic and nonalcoholic beverages in North
+America, Europe, and the Asia-Pacific
+• Moderately high levels of annual capital
+expenditures at ¥120 billion-¥130 billion in the next
+two to three years, driven by a series of supply chain
+initiatives such as increasing the ratio of in-house
+manufacturing
+• Maintenance of current shareholder returns with
+free cash flow after dividends of about ¥130
+billion-¥150 billion annually
+• No sizable debt-financed acquisitions in the next two
+years or so
+
+Base-case projections
+Suntory's EBITDA margin will remain stable at around 16%.Supply chain costs, including raw material procurement
+and logistic costs, will increase. However, its EBITDA margin will be stable at about 16% in the next couple of years.
+This is because the company's efforts to pass on expenses to customers through price hikes, add value to products,
+and cut costs.
+The company's debt to EBITDA will steadily improve. Suntory's ratio of debt to EBITDA will improve to about 3x in
+the next year or two. Stable free cash flow generation and prudent financial management, including the utilization of
+hybrid capital, will help facilitate this improvement.
+
+Company Description
+Suntory is Japan's largest general beverage manufacturer in terms of revenue. Among its main brands are Yamazaki,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+Suntory Holdings Ltd.
+
+Kakubin, Jim Beam, Maker's Mark, The Premium Malt's, Suntory Tennensui, Boss, and Iyemon. By segment, soft
+drinks and foods account for 46% of operating profit, followed by alcoholic beverages (45%), and others (9%) in fiscal
+2018 (ended Dec. 31, 2018). By region for the same period, Japan accounts for 58% of sales, followed by Americas
+(13%), Europe (14%), and Asia and Oceania (15%).
+
+Business Risk: Strong
+We believe Suntory is likely to maintain its strong competitiveness in Japan's soft drink market, backed by successful
+merchandising and product development strategies that address, for example, the needs of health-conscious
+consumers. The company has steadily increased its market share by strengthening its core brands and launching
+high-value-added products, narrowing the gap with the top player, Coca-Cola (Japan) Co. Ltd., in our view. The
+company has also established a fair presence in overseas soft drink markets thanks to the growth of multiple beverage
+brands it has acquired in Europe, Asia, and Oceania. In addition, it has successfully nurtured, expanded, and improved
+its own brands as well as introduced new ones.
+In its alcoholic beverage operations, we expect Suntory to continue to strengthen its competitiveness and revenue
+base in overseas markets. In the spirits segment, the company has a solid business base in the U.S. We think it has also
+strengthened its positions in the spirits markets outside the U.S. through sales of Beam brand drinks in Japan and
+Suntory brand products overseas. It has also promoted its premium products.
+In our view, Suntory has steadily gained additional benefits out of the acquisition of U.S.-based Beam Inc. (Beam
+Suntory) in 2014. The companies procure raw materials and develop products together.
+
+Peer comparison
+We consider Diageo PLC of the U.K., Pernod Ricard S.A. of France, Heineken N.V. of Netherlands, and PepsiCo Inc. of
+the U.S.--a major nonalcoholic beverage company--to be peers of Suntory. Suntory offers nonalcoholic beverages such
+as mineral water, coffee, and tea, and other drinks in a variety of categories, including beers and spirits. The company
+has a broader business scope than Diageo, Pernod Ricard, and Heineken, which rely on specific alcoholic beverage
+categories such as spirits and beers for their earnings. Suntory also has revenue sources in the less discretionary
+segments such as mineral water and tea. These factors support the company's credit quality, in our view.
+Meanwhile, we regard a still lower proportion of its sales from overseas operations (about 40%) compared with the
+four peers as a weakness in our analysis. This is despite the company's efforts to steadily diversify its geographic
+footprint. In addition, its EBITDA margin remains at about 16%, far below the 20%-40% level of the four beverage
+companies. This indicates that Suntory's profitability is lower than that of major global beverage companies, even
+when considering differences in scale, operational geography, and business fields. We view this as another weakness in
+our analysis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+Suntory Holdings Ltd.
+
+Chart 2
+
+Table 1
+
+Suntory Holdings Ltd. -- Peer Comparison
+Suntory Holdings Ltd. Diageo PLC Pernod Ricard S.A. Heineken N.V.
+--Latest fiscal year--
+
+(Mil. ¥)
+Revenues
+
+PepsiCo Inc.
+
+2,250,782
+
+1,778,886
+
+1,162,246
+
+2,822,677
+
+7,136,470
+
+EBITDA
+
+355,003
+
+649,002
+
+346,980
+
+652,063
+
+1,436,267
+
+FFO
+
+266,200
+
+475,272
+
+249,275
+
+467,025
+
+1,138,688
+
+Interest Expense
+
+24,269
+
+62,138
+
+49,595
+
+77,638
+
+179,927
+
+Cash Interest Paid
+
+27,742
+
+63,893
+
+49,725
+
+81,533
+
+164,807
+
+Cash flow from operations
+
+260,618
+
+462,548
+
+231,687
+
+575,555
+
+1,077,765
+
+Capital expenditures
+
+110,712
+
+85,412
+
+48,368
+
+258,137
+
+362,226
+
+Free operating cash flow
+
+149,906
+
+377,136
+
+183,319
+
+317,418
+
+715,539
+
+Discretionary cash flow
+
+124,605
+
+(86,197)
+
+109,087
+
+177,986
+
+(60,896)
+
+Cash and short-term investments
+
+272,425
+
+127,826
+
+97,511
+
+364,658
+
+992,535
+
+Debt
+
+1,349,422
+
+1,479,743
+
+1,036,128
+
+1,821,845
+
+3,297,624
+
+Equity
+
+1,787,419
+
+1,713,071
+
+1,936,904
+
+1,952,045
+
+1,611,586
+
+EBITDA margin (%)
+
+15.8
+
+36.5
+
+29.9
+
+23.1
+
+20.1
+
+Return on capital (%)
+
+8.0
+
+19.9
+
+10.7
+
+12.1
+
+25.1
+
+EBITDA interest coverage (x)
+
+14.6
+
+10.4
+
+7.0
+
+8.4
+
+8.0
+
+FFO cash interest coverage (x)
+
+10.6
+
+8.4
+
+6.0
+
+6.7
+
+7.9
+
+3.8
+
+2.3
+
+3.0
+
+2.8
+
+2.3
+
+FFO/debt (%)
+
+19.7
+
+32.1
+
+24.1
+
+25.6
+
+34.5
+
+Cash flow from operations/debt (%)
+
+19.3
+
+31.3
+
+22.4
+
+31.6
+
+32.7
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+Suntory Holdings Ltd.
+
+Table 1
+
+Suntory Holdings Ltd. -- Peer Comparison (cont.)
+Suntory Holdings Ltd. Diageo PLC Pernod Ricard S.A. Heineken N.V.
+
+PepsiCo Inc.
+
+--Latest fiscal year--
+
+(Mil. ¥)
+Free operating cash flow/debt (%)
+
+11.1
+
+25.5
+
+17.7
+
+17.4
+
+21.7
+
+Discretionary cash flow/debt (%)
+
+9.2
+
+(5.8)
+
+10.5
+
+9.8
+
+(1.8)
+
+FFO--Funds from operations.
+
+Financial Risk: Significant
+Suntory's debt to EBITDA is likely to stay on a moderate improvement path, in our view. We expect the company to
+generate stable free cash flow, thanks to solid business performance, allowing it to reduce debt steadily. As a result, the
+ratio is likely to improve to 3.0x-3.5x in fiscal 2019, and to about 3x in fiscal 2020, respectively, from above 6x after the
+acquisition of Beam.
+We think Suntory has many challenges in its existing businesses. These include:
+• Developing an efficient logistics network;
+• Ensuring mark-up initiatives are in place in its soft drink business; and
+• Further strengthening its brands in the alcoholic beverage business.
+Given the necessity of addressing these issues and the prospect of the company maintaining prudent financial
+management, we think Suntory will likely prioritize strengthening its current business base. It will do so by utilizing the
+benefits of past acquisitions without making sizable acquisitions in the next two to three years.
+Based on our hybrid capital criteria, we classify the hybrid capital Suntory has issued thus far (about ¥400 billion
+outstanding as of September 2019, including both subordinated debt and loans) as having intermediate equity content.
+We attribute this to the issuer's option to defer interest and dividend payments, the instruments' sufficient permanence,
+and their subordination to other debt in liquidation or bankruptcy. In calculating financial measurements for Suntory,
+based on our assessment, we subtract 50% of the above hybrid capital amount from its reported debt outstanding,
+inclusive of hybrids, for the company's adjusted debt.
+We expect Suntory's hybrid capital to continue to account for a relatively large share of total capital. We do not
+assume the issuance amount of hybrid loans or debt will increase further. However, if the company became
+excessively dependent on hybrid capital, leading to a deterioration of its quality, we could view it as a negative factor
+in our assessment of its financial risk profile.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Suntory Holdings Ltd.
+
+Table 2
+
+Suntory Holdings Ltd. -- Financial Summary
+--Fiscal year*-(Mil. ¥)
+Revenues
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2,250,782 2,157,531 2,101,598 2,412,510 2,213,700
+
+EBITDA
+
+355,003
+
+361,403
+
+352,612
+
+354,279
+
+295,921
+
+FFO
+
+266,200
+
+290,364
+
+250,877
+
+256,736
+
+180,194
+
+Interest Expense
+
+24,269
+
+27,837
+
+30,238
+
+32,015
+
+23,599
+
+Cash Interest Paid
+
+27,742
+
+31,030
+
+32,245
+
+36,797
+
+22,793
+
+Cash flow from operations
+
+260,618
+
+271,111
+
+262,494
+
+278,945
+
+171,467
+
+Capital expenditures
+
+110,712
+
+99,379
+
+100,720
+
+107,080
+
+105,125
+
+Free operating cash flow
+
+149,906
+
+171,732
+
+161,774
+
+171,865
+
+66,342
+
+Discretionary cash flow
+
+124,605
+
+147,670
+
+141,031
+
+147,103
+
+36,787
+
+Cash and short-term investments
+
+272,425
+
+359,518
+
+352,519
+
+258,622
+
+199,331
+
+Gross available cash
+
+272,425
+
+359,518
+
+352,519
+
+258,622
+
+199,331
+
+Debt
+
+1,349,422 1,563,289 1,693,413 1,872,586 1,949,280
+
+Equity
+
+1,787,419 1,645,443 1,372,597 1,263,807 1,241,606
+
+Adjusted ratios
+EBITDA margin (%)
+Return on capital (%)
+
+15.8
+
+16.8
+
+16.8
+
+14.7
+
+13.4
+
+8.0
+
+8.2
+
+8.0
+
+7.8
+
+9.1
+
+EBITDA interest coverage (x)
+
+14.6
+
+13.0
+
+11.7
+
+11.1
+
+12.5
+
+FFO cash interest coverage (x)
+
+10.6
+
+10.4
+
+8.8
+
+8.0
+
+8.9
+
+3.8
+
+4.3
+
+4.8
+
+5.3
+
+6.6
+
+FFO/debt (%)
+
+19.7
+
+18.6
+
+14.8
+
+13.7
+
+9.2
+
+Cash flow from operations/debt (%)
+
+19.3
+
+17.3
+
+15.5
+
+14.9
+
+8.8
+
+Free operating cash flow/debt (%)
+
+11.1
+
+11.0
+
+9.6
+
+9.2
+
+3.4
+
+Discretionary cash flow/debt (%)
+
+9.2
+
+9.4
+
+8.3
+
+7.9
+
+1.9
+
+Debt/EBITDA (x)
+
+FFO--Funds from operations. *Fiscal years end Dec. 31.
+
+Liquidity: Strong
+We assess Suntory's liquidity as strong. We expect the company's liquidity sources to exceed 1.5x its uses for the next
+24 months and to continue to exceed its uses even if EBITDA declines 30%.
+Refinancing risk is low given the company's close relationships with its main creditor banks, unused committed
+facilities, and debt maturities spread over time.
+The following liquidity sources and uses include our estimates for the year from June 30, 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+Suntory Holdings Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and deposits of about ¥165 billion
+
+• Debt maturing within one year (including short-term
+borrowings) of about ¥160 billion
+
+• Funds from operations (FFO) of ¥270 billion per
+year
+• Unused committed facilities maturing after a year of
+about ¥200 billion
+• Subordinated debt issuance of ¥128 billion
+
+• Annual capital expenditures of about ¥120
+billion-¥130 billion
+• Annual dividend payments of about ¥25 billion
+• Strategic investments of about ¥30 billion
+
+Covenant Analysis
+No negative covenants on Suntory's debt materially affect its financial activities.
+
+Environmental, Social, And Governance
+
+ESG risks are currently not major rating drivers for Suntory. Regarding social risks, Suntory's operations are
+somewhat susceptible to rapidly changing consumer tastes. Some are arising from demographic changes; for
+example, Japan's beer market by volume has shrank 14 years in a row due to changing consumer preference and
+rising health awareness amid an aging population. Despite these challenges, Suntory has demonstrated steady
+earnings over time by expanding its market shares in both domestic soft and alcohol drinks markets. We believe
+management has mitigated these risk factors with appropriate product development and marketing initiatives.
+Demand for sweetened beverages, such as carbonated soft drinks has continued to decline, mainly in developed
+markets, due to growing concerns over their impact on health. However, we expect a limited impact on Suntory's
+overall business because its sweetened beverages account for a smaller share of overall total beverage sales than
+they do at major global peers.
+Environmental risks are less relevant, in our view. There are direct and indirect long-term risks such as water
+availability, agricultural production, and the global anti-plastic movement. The group has increased its usage of
+recycled PET bottles and preservation of forests, with more than 20 natural water sanctuaries, creating a
+sustainable supply of its beverage products such as mineral water.
+
+Group Influence
+We base the 'BBB' long-term issuer credit rating on Beam Suntory on its status as a core subsidiary of the group as
+well as the 'bbb' group credit profile for Suntory. Our assessment of Beam Suntory as a core subsidiary mainly reflects
+our view that:
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+Suntory Holdings Ltd.
+
+• It is an essential business for the group strategy;
+• Suntory's management team has a strong commitment to support the subsidiary; and
+• Suntory considers it closely linked to its reputation, brands, and risk management.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+The consolidated debt of Suntory, a nonoperating holding company, consists of, among others, loans, bonds,
+subordinated loans, and subordinated bonds as well as loans and bonds of its subsidiaries, including Suntory Beverage
+& Food Ltd. and Beam Suntory. Some of these debts are secured.
+
+Analytical conclusions
+The priority debt ratio (the sum of an issuer's total secured debt and its operating subsidiaries' debt divided by the
+issuer's total debt) for Suntory is just less than 30%. This is below the 50% threshold for us to consider notching down
+the issue rating to reflect risk of structural subordination. We equalize the long-term issue rating on Suntory's senior
+unsecured debt with the long-term issuer credit rating on the company. This is because we see a limited likelihood of
+more senior debt significantly disadvantaging this unsecured debt.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Suntory Holdings Ltd. Reported Amounts With S&P Global Ratings Adjusted Amounts (Mil.
+¥)
+--Fiscal year ended Dec. 31, 2018-Suntory Holdings Ltd. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings
+adjusted
+EBITDA
+
+1,272,771
+
+353,758
+
+250,859
+
+22,224
+
+355,003
+
+250,384
+
+Debt
+
+Shareholders'
+equity
+
+1,592,025
+
+Cash flow
+from
+operations
+
+S&P Global Ratings adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(61,061)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(24,217)
+
+--
+
+Reported lease liabilities
+
+19,166
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+50,635
+
+--
+
+13,759
+
+3,525
+
+3,525
+
+(3,525)
+
+10,234
+
+(135,730)
+
+135,730
+
+--
+
+--
+
+(2,226)
+
+--
+
+--
+
+24,289
+
+--
+
+(52)
+
+(52)
+
+727
+
+--
+
+--
+
+(204,319)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Intermediate hybrids
+reported as debt
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+Suntory Holdings Ltd.
+
+Table 3
+
+Reconciliation Of Suntory Holdings Ltd. Reported Amounts With S&P Global Ratings Adjusted Amounts (Mil.
+¥) (cont.)
+Dividends received from
+equity investments
+Asset retirement obligations
+
+--
+
+--
+
+4,600
+
+--
+
+--
+
+--
+
+--
+
+3,355
+
+--
+
+--
+
+--
+
+19
+
+--
+
+--
+
+Income (expense) of
+unconsolidated companies
+
+--
+
+--
+
+(7,916)
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+4,078
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+378,918
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(9,146)
+
+(9,146)
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+4,482
+
+--
+
+--
+
+--
+
+(242,603)
+
+514,648
+
+1,245
+
+2,887
+
+2,045
+
+(88,803)
+
+10,234
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+266,200
+
+260,618
+
+Total adjustments
+
+S&P Global Ratings adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,349,422
+
+1,787,419
+
+355,003
+
+253,746
+
+24,269
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+Suntory Holdings Ltd.
+
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Reflecting Subordination Risk In Corporate Issue Ratings , March 28, 2018
+• Corporate Methodology , Nov. 19, 2013
+• Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers, Dec. 16, 2014
+• Hybrid Capital: Methodology And Assumptions, July 1, 2019
+• Group Rating Methodology, July 1, 2019
+• Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Methodology: Industry Risk, Nov. 19, 2013
+• Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers, Nov. 13, 2012
+• Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 16, 2019)*
+Suntory Holdings Ltd.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+18-Aug-2014
+
+BBB/Stable/--
+
+Related Entities
+Beam Suntory Inc.
+Issuer Credit Rating
+
+BBB/Stable/NR
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+Suntory Holdings Ltd.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 16
+
+

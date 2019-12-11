@@ -1,0 +1,1592 @@
+Valmont Industries Inc.
+Primary Credit Analyst:
+Clara McStay, New York + 1 212 438 1705; Clara.McStay@spglobal.com
+Secondary Contact:
+William R Ferara, New York (1) 212-438-1776; bill.ferara@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Valmont Industries Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb+
+
+bbb+
+
+BBB+/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading market position within its key niche markets
+
+Exposure to highly cyclical construction and agricultural end markets
+
+Good global diversity with one-third of sales outside of U.S.
+international distribution network
+
+Balanced acquisition and growth policy, amidst continued shareholder-friendly
+activities
+
+Diversified product mix and relatively low customer
+concentration
+
+Short-term demand weakness in irrigation segment due to weak macro
+sentiment and trade war uncertainties
+
+History of stable EBITDA margins and flexible cost structure
+Prudent leverage metrics with strong liquidity
+
+We expect discretionary spending to remain in line with debt to EBITDA of about 2x for the next 12-24 months based on
+Valmont's consistent financial policy. Valmont's financial policy of undertaking bolt-on acquisitions to increase market
+share in key growth markets, investing in its asset base, and distributing cash to shareholders should continue
+supporting debt to EBITDA of 1.5x-2x. We expect debt to EBITDA of 1.8x for 2019, which means Valmont will have a
+tighter cushion under its credit metrics but is still within our expected range for the current rating. However, we do not
+expect Valmont to increase leverage above 2x by undertaking additional debt to finance discretional spending.
+We expect adjusted EBITDA of $350 million-$400 million in 2019 and 2020, supported by robust backlogs for the
+engineering support structures (ESS) and utilities support structures (USS) segments, restructuring efforts and growth
+from acquisitions. We expect EBITDA improvement in 2019 supported by pricing discipline across all segments, stable
+raw material prices, and profitability improvements from restructuring efforts in 2018. We anticipate S&P Global
+Ratings' adjusted EBITDA margins improving to about 13% in 2019 and 2020. However, we note weak demand
+affecting the irrigation segment, weak market conditions in the international offshore wind market, and negative
+foreign exchange movements, as seen during the first half of 2019, could partially offset earnings growth from recent
+acquisitions in 2019 and 2020.
+Valmont benefits from its global footprint and wide product range serving diversified end markets; however, its business
+performance is highly correlated to general macroeconomic conditions.Valmont generates approximately one-third of
+its revenues from outside the U.S. with manufacturing and distribution facilities in Australia, China, and Europe. It also
+has good breadth of products across four distinct, but cyclical, segments, which cater to different markets, including,
+infrastructure, utility sector, coatings, and irrigation market. While Valmont's end markets can demonstrate cyclical
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Valmont Industries Inc.
+
+investment patterns, its geographic and product diversification can help limit downside as other regions may
+experience different demand conditions. For example, in the irrigation segment, international sales from Brazil,
+Europe, and the Middle East helped partially offset weak North America and Australian demand.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' view that Valmont Industries Inc.'s credit measures will remain
+solid over the next two years despite some short-term weakness in some of its segments. Specifically, uncertainty
+around tariffs and trade policies, potential project delays, and lower capital spending by some customers, primarily
+in the Asia-Pacific region could result in some earnings volatility. We believe some of these issues will be partially
+offset in the second half of 2019 and 2020 by healthy demand in its coatings segment and North American
+engineered support structures. We also believe the company will benefit from efficiency gains and higher pricing as
+higher raw material costs are passed along to customers. This should lead to adjusted debt to EBITDA of 1.5x-2x
+and funds from operations (FFO) to debt of 45%-55% over the next two years.
+
+Downside scenario
+We could lower our ratings on Valmont over the next two years if weak irrigation and renewable energy
+end-market demand weakness persists through 2019 such that adjusted EBITDA margins fall below 10%, causing
+adjusted debt to EBITDA to rise above 2x and operating cash flow (OCF) to debt to fall below 35% for a sustained
+period.
+
+Upside scenario
+We view an upgrade as unlikely over the next 24 months unless Valmont significantly strengthened its overall
+business by substantially increasing its size and scope and increasing adjusted EBITDA margins above 18% while
+reducing earnings volatility. Notably, we would expect Valmont to finance any additional acquisitions in a
+leverage-neutral manner. Ultimately, if the company were able to achieve these hurdles and sustain adjusted
+leverage comfortably below 1.5x and FFO to debt of more than 60% for a prolonged period, we could consider an
+upgrade.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Valmont Industries Inc.
+
+Assumptions
+
+Key Metrics
+
+• Real GDP in the U.S. to grow by 2.5% in 2019 and
+1.9% in 2020.
+
+2018A
+EBITDA margin
+
+• U.S. nonresidential construction (including energy)
+to decrease by 1.4% in 2019, before improving at
+1.9% in 2020.
+• Valmont's revenues to grow by approximately
+2%-4% in 2019 and 2020, on the back of both
+organic and acquisition-related growth.
+
+2019E
+
+2020E
+
+12.2% 13.0%-14.0% 13.5%-14.0%
+
+Debt/EBITDA
+
+2.0x
+
+1.5x-2x
+
+1.5x-2x
+
+FFO/debt
+
+35%
+
+40%-50%
+
+40%-50%
+
+Note: Adjusted debt includes operating leases and
+postretirement obligations. FFO--Funds from
+operations. A--Actual. E—Estimate.
+
+• Over this time, adjusted EBITDA margins to
+improve slightly to roughly 13% to 14% as the
+company benefits from lower raw material costs
+(especially steel) and better efficiencies.
+• Capital expenditures (capex) of roughly $95 million
+annually.
+• Valmont to continue making opportunistic share
+repurchases over the next 24 months (as it has over
+the past several years), which we believe will range
+at about $60 million to $80 million annually. At the
+same time, the company will also maintain its
+annual dividend payouts of about $30 million to $40
+million to shareholders.
+• The company will remain acquisitive over the next
+24 months given its history and large cash balance.
+
+Base-case projections
+We expect solid demand growth in several of Valmont's markets in the ESS and USS segments to offset weak demand in
+the irrigation segment and headwinds from foreign exchange volatility. Poor weather conditions in the first half of
+2019, lower net farmer's income, and weaker sentiment driven by trade war uncertainties are hurting demand for
+Valmont's irrigation products as farmers hold off on capital investment. However, increasing investments in upgrading
+and strengthening electrical grids as well as solid order levels from North American transportation and wireless
+communication investments are driving healthy backlogs in its USS and ESS segments. As a result, we expect revenue
+growth of about 2% in 2019 despite unfavorable currency exchange rates from the strengthening dollar affecting
+international revenues. In 2020, we expect revenue growth to recover to 3%-4% as demand from the solar tracker
+business improves and infrastructure and utility investment growth continues.
+We expect Valmont to generate around $200 million of free operating cash flow to go toward shareholder distributions,
+acquisitions, and reinvestment into the asset base. We expect reduced working capital needs from stable input prices
+and improved profitability from restructuring efforts in 2018 to boost free cash flow generation this year. We believe
+the company will generate sufficient cash to return approximately $100 million to its shareholders (share repurchases
+and regular dividends) and additional $100 million towards capex, while continuing its acquisition strategy.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Valmont Industries Inc.
+
+Chart 1
+
+Company Description
+Valmont is a leading producer of metal products, such as lighting and traffic poles, utility poles for electricity
+transmission, communication towers, agricultural irrigation equipment, and other tubular products. The company also
+produces concrete pole structures and provides metal coating services. Valmont operates more than 80 manufacturing
+plants, located on six continents, and sells its products in more than 100 countries. The company generated about $2.7
+billion in sales in fiscal 2018 and operates through four segments including engineered support structures; utility
+support structures; irrigation; and coatings.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Valmont Industries Inc.
+
+Chart 2
+
+Business Risk: Satisfactory
+Our view of Valmont's business and operating prospects incorporates its favorable positions in niche markets,
+including the irrigation pivot market (slightly less than 50% share), utility round and monopole market (about 40%
+share), and steel lighting pole market (about 25% share). In addition, Valmont benefits from its global distribution
+network with a strong international presence and good product and market diversity. Moreover, we believe the
+capital-intensive nature of the markets and high switching costs, given the niche products acts, as significant barriers to
+entry for new players. However, relative to other companies within the broader building materials industry, we
+consider Valmont's business constrained by its size, highly cyclical end markets, and exposure to steel price volatility.
+In general, Valmont's margins are more adversely affected during periods of rapidly rising steel prices, than when steel
+prices are increasing more modestly, because it is unable to pass prices to its customers as quickly as they are rising.
+Prices are typically more resilient under rapidly declining steel prices, as seen this year with current spot prices of $600
+per short ton 30% lower than last year. Robust demand and solid service levels in the ESS segment are supporting
+prices, as such Valmont's margins should benefit this year following the steel price spike in 2018. Valmont has
+exposure to cyclical end markets that are closely linked to broader macroeconomic conditions, such as government
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+Valmont Industries Inc.
+
+spending on infrastructure development, wireless communications investment, oil and gas exploration spending, and
+net farmer's income. For example, in the irrigation segment, weak commodity prices and macroeconomic sentiment
+impact demand as farmers hold off on capital investments. Valmont's cyclicality was evident in 2015 when EBITDA
+declined by 30% as low agriculture commodity prices and weaker infrastructure investment from governments led to a
+sharp decline in Valmont's end market demand.
+Despite the volatility of steel prices and weak farmer sentiment, we expect the company to maintain adjusted EBITDA
+margins of 13%-14% over the next two years, helped by recent acquisitions and improved operating efficiencies from
+restructuring efforts in the ESS and USS segments. Valmont has spent $80 million so far this year on bolt-on
+acquisitions. These include Valmont's recent acquisition of Connect-It Wireless that should expand the company's
+wireless component distribution network and the remaining shares outstanding of United Galvanizing Inc., which will
+further expand Valmont's position in the North America coatings market.
+
+Peer comparison
+Table 1
+
+Valmont Industries Inc. -- Peer Comparison
+Industry Sector: Building Materials & Products
+
+Ratings as of Aug. 8,
+2019
+
+Valmont
+Industries Inc.
+
+Martin Marietta
+Materials Inc.
+
+Lennox
+International Inc.
+
+Vulcan Materials Fortune Brands Home
+Co.
+& Security Inc.
+
+BBB+/Stable/--
+
+BBB+/Stable/A-2
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+BBB+/Stable/--
+
+--Fiscal year ended Dec. 29, 2018-(Mil. $)
+Revenue
+
+2,757.1
+
+4,244.3
+
+3,883.9
+
+4,382.9
+
+5,485.1
+
+EBITDA
+
+336.4
+
+1,165.8
+
+650.0
+
+1,157.3
+
+877.9
+
+Funds from operations
+(FFO)
+
+239.5
+
+963.3
+
+511.4
+
+944.3
+
+691.2
+
+50.5
+
+179.7
+
+48.2
+
+167.5
+
+83.6
+
+Interest expense
+Cash interest paid
+
+49.6
+
+174.8
+
+48.6
+
+147.0
+
+72.5
+
+166.9
+
+781.2
+
+537.0
+
+858.2
+
+629.5
+
+Capital expenditure
+
+72.0
+
+372.9
+
+95.2
+
+465.4
+
+150.1
+
+Free operating cash
+flow (FOCF)
+
+94.9
+
+408.3
+
+441.8
+
+392.8
+
+479.4
+
+Discretionary cash flow
+(DCF)
+
+(64.3)
+
+179.6
+
+(129.2)
+
+78.9
+
+(344.4)
+
+Cash and short-term
+investments
+
+313.2
+
+44.9
+
+46.3
+
+40.0
+
+262.9
+
+Cash flow from
+operations
+
+Debt
+
+685.8
+
+3,810.0
+
+1,221.8
+
+3,484.1
+
+2,405.0
+
+1,135.5
+
+4,949.4
+
+(149.6)
+
+5,202.9
+
+2,180.0
+
+EBITDA margin (%)
+
+12.2
+
+27.5
+
+16.7
+
+26.4
+
+16.0
+
+Return on capital (%)
+
+13.2
+
+9.5
+
+46.2
+
+8.9
+
+15.5
+
+6.7
+
+6.5
+
+13.5
+
+6.9
+
+10.5
+
+Equity
+Adjusted ratios
+
+EBITDA interest
+coverage (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+Valmont Industries Inc.
+
+Table 1
+
+Valmont Industries Inc. -- Peer Comparison (cont.)
+Industry Sector: Building Materials & Products
+Valmont
+Industries Inc.
+FFO cash interest
+coverage (x)
+
+Martin Marietta
+Materials Inc.
+5.8
+
+Debt/EBITDA (x)
+
+Lennox
+International Inc.
+6.5
+
+Vulcan Materials Fortune Brands Home
+Co.
+& Security Inc.
+
+11.5
+
+7.4
+
+10.5
+
+2.0
+
+3.3
+
+1.9
+
+3.0
+
+2.7
+
+FFO/debt (%)
+
+34.9
+
+25.3
+
+41.9
+
+27.1
+
+28.7
+
+Cash flow from
+operations/debt (%)
+
+24.3
+
+20.5
+
+43.9
+
+24.6
+
+26.2
+
+FOCF/debt (%)
+
+13.8
+
+10.7
+
+36.2
+
+11.3
+
+19.9
+
+DCF/debt (%)
+
+(9.4)
+
+4.7
+
+(10.6)
+
+2.3
+
+(14.3)
+
+Source: S&P Global Ratings.
+
+Financial Risk: Modest
+In our view, Valmont's credit measures will remain solid over the next two years despite some short-term weakness
+caused by lower demand in its irrigation segment. We believe some of these issues will be partially offset by strong
+backlogs in the ESS and USS segments and more stable raw materials, and incremental revenues from recent
+acquisitions, along with efficiency gains from additional restructuring activities. This should lead to fully adjusted debt
+to EBITDA of 1.5x-2x, FFO to debt of about 40%, and OCF to debt of 35%-40% over the next two years.
+We continue to expect the company to fund its capital-allocation plans from free cash flow and to include regular
+dividends to shareholders, a moderate degree of share repurchases, consistent capital spending plans, and acquisitions
+funded in a leverage-neutral manner. Specifically, we anticipate slightly higher OCF of about $250 million to $300
+million in 2019, helped by working capital management improvements and more stable raw material costs, to fund
+Valmont's capital spending ($90 million to $100 million annually), dividends ($30 million to $40 million annually), and
+share repurchases (approximately $220 million remaining on the current program). We also expect the company to
+fund all acquisitions (announced and completed) year to date with available cash on hand.
+
+Financial summary
+Table 2
+
+Valmont Industries Inc. -- Financial Summary
+Industry Sector: Building Materials & Products
+--Fiscal year ended Dec. 29-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+2,757.1
+
+2,746.0
+
+2,521.7
+
+2,618.9
+
+3,123.1
+
+EBITDA
+
+336.4
+
+384.3
+
+358.9
+
+294.1
+
+482.4
+
+Funds from operations (FFO)
+
+239.5
+
+270.4
+
+259.5
+
+210.2
+
+332.2
+
+Interest expense
+
+50.5
+
+50.1
+
+50.4
+
+50.5
+
+45.9
+
+Cash interest paid
+
+49.6
+
+50.0
+
+51.1
+
+50.9
+
+39.0
+
+(Mil. $)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Valmont Industries Inc.
+
+Table 2
+
+Valmont Industries Inc. -- Financial Summary (cont.)
+Cash flow from operations
+
+166.9
+
+161.7
+
+234.9
+
+289.0
+
+193.7
+
+Capital expenditure
+
+72.0
+
+55.3
+
+57.9
+
+45.5
+
+73.0
+
+Free operating cash flow (FOCF)
+
+94.9
+
+106.5
+
+176.9
+
+243.6
+
+120.7
+
+Discretionary cash flow (DCF)
+
+(64.3)
+
+40.8
+
+83.8
+
+22.7
+
+(325.2)
+
+Cash and short-term investments
+
+313.2
+
+492.8
+
+399.9
+
+349.1
+
+371.6
+
+Gross available cash
+
+313.2
+
+492.8
+
+399.9
+
+349.1
+
+371.6
+
+Debt
+
+685.8
+
+644.6
+
+690.5
+
+697.5
+
+677.8
+
+1,135.5
+
+1,151.8
+
+982.6
+
+965.2
+
+1,250.4
+
+EBITDA margin (%)
+
+12.2
+
+14.0
+
+14.2
+
+11.2
+
+15.4
+
+Return on capital (%)
+
+13.2
+
+16.1
+
+16.3
+
+10.3
+
+20.0
+
+EBITDA interest coverage (x)
+
+6.7
+
+7.7
+
+7.1
+
+5.8
+
+10.5
+
+FFO cash interest coverage (x)
+
+5.8
+
+6.4
+
+6.1
+
+5.1
+
+9.5
+
+Debt/EBITDA (x)
+
+2.0
+
+1.7
+
+1.9
+
+2.4
+
+1.4
+
+FFO/debt (%)
+
+34.9
+
+42.0
+
+37.6
+
+30.1
+
+49.0
+
+Cash flow from operations/debt (%)
+
+24.3
+
+25.1
+
+34.0
+
+41.4
+
+28.6
+
+FOCF/debt (%)
+
+13.8
+
+16.5
+
+25.6
+
+34.9
+
+17.8
+
+DCF/debt (%)
+
+(9.4)
+
+6.3
+
+12.1
+
+3.3
+
+(48.0)
+
+Equity
+Adjusted ratios
+
+Source: S&P Global Ratings.
+
+Liquidity: Strong
+We view Valmont's liquidity to be strong based on the following observations and estimates:
+• An expectation that liquidity sources (including availability under the company's $600 million revolving credit
+facility) should exceed uses by more than 3x over the next 24 months.
+• An expectation that liquidity sources would continue to exceed uses even if forecast EBITDA were to decline by
+50%.
+• Sufficient covenant headroom for forecast EBITDA to decline by 30% without the company breaching coverage
+tests, and debt of at least 25% below covenant limits.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+Valmont Industries Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of approximately $257 million as of
+June 30, 2019;
+
+• Minimal scheduled debt amortization of $0.8 million
+annually;
+
+• Availability of approximately $556 million (net of the
+$15 million in letters of credit and $30 million
+outstanding as of June 30, 2019) under the revolving
+credit facility maturing in October 2022; and
+
+• Capex of approximately $95 million annually;
+
+• Cash FFO in the range of $270 million and $290
+million annually over the next 24 months.
+
+• Dividends of approximately $30 million to $40
+million annually;
+• Seasonal working capital requirement of $30 million;
+• Modest working capital outflows of about $5 million
+to $10 million in each of the next two years; and
+• We assume annual share repurchases of about $70
+million over the next 12 months to 24 months.
+• We believe the company will remain acquisitive and
+continue to spend its excess cash flows into strategic
+associations.
+
+Debt maturities
+Valmont maintains a favorable debt maturity profile with a weighted-average maturity of six years and its nearest
+maturity of the $600 million revolving credit facility due in October 2022.
+
+Covenant Analysis
+Compliance expectations
+We do not expect any covenant issues over the next two years under our base case forecast. As of June 29, 2019, the
+company was in compliance with all covenants related to the debt agreements with leverage ratio of 2.48x and
+coverage ratio of 7.67x.
+
+Requirements
+Valmont is subject to two financial covenants, which include a maximum leverage ratio (debt to EBITDA) of 3.5x and a
+minimum interest coverage ratio of 2.5x.
+
+Issue Ratings - Subordination Risk Analysis
+As of June 30, 2019, Valmont had approximately $750 million in total debt outstanding, which consisted primarily of
+unsecured debt at the parent level.
+
+Capital structure
+• The company's $600 million revolver (October 2022 maturity) had availability of about $556 million as of June 30,
+2018.
+• Unsecured notes of $450 million due 2044, and $305 million due 2054.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 10
+
+Valmont Industries Inc.
+
+• The company also has $8.5 million in industrial development revenue bonds due 2025, as well as short-term
+borrowing of $11 million.
+
+Analytical conclusions
+We rate Valmont's debt 'BBB+', the same as the issuer credit rating, since the issuer has sufficiently low leverage and
+no significant elements of structural or contractual subordination risks are present in the capital structure, in our view.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Valmont Industries Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Rolling 12 months ended June 30, 2019-Valmont Industries Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+786.7
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+1,081.7
+
+2,769.1
+
+294.4
+
+193.5
+
+41.4
+
+329.4
+
+212.8
+
+39.8
+
+89.5
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(49.1)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(43.3)
+
+--
+
+--
+
+--
+
+100.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+23.4
+
+4.9
+
+4.9
+
+(4.9)
+
+18.4
+
+--
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+113.7
+
+--
+
+--
+
+0.2
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(231.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+11.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+7.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+45.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+--
+
+0.2
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+--
+
+19.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(16.3)
+
+45.3
+
+0.0
+
+35.1
+
+31.9
+
+4.9
+
+(97.3)
+
+18.4
+
+0.0
+
+0.0
+
+Reported lease
+liabilities
+Operating leases
+
+Debt: Tax liabilities
+
+Total adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 11
+
+Valmont Industries Inc.
+
+Table 3
+
+Reconciliation Of Valmont Industries Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+770.4
+
+1,127.0
+
+225.3
+
+2,769.1
+
+329.4
+
+46.3
+
+232.1
+
+231.2
+
+39.8
+
+Source: S&P Global Ratings.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Strong
+• Management and governance: Satisfactory
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : bbb+
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Building Materials Industry, Dec. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 12
+
+89.5
+
+Valmont Industries Inc.
+
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 11, 2019)*
+Valmont Industries Inc.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Unsecured
+
+BBB+
+
+Issuer Credit Ratings History
+11-Aug-2017
+
+BBB+/Stable/--
+
+28-Aug-2015
+
+BBB+/Negative/--
+
+29-Aug-2014
+
+BBB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 14
+
+

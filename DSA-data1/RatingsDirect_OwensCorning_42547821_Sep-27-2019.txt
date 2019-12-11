@@ -1,0 +1,1626 @@
+Owens Corning
+Primary Credit Analyst:
+Chiza B Vitta, Farmers Branch (1) 214-765-5864; chiza.vitta@spglobal.com
+Secondary Contact:
+Thomas J Nadramia, New York + 1 (212) 438 3944; thomas.nadramia@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Owens Corning
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Strong brand names and No. 1 market position in insulation, and No.
+2 positions in residential roofing shingles and composite products.
+
+Exposure to cyclical construction end markets for its roofing and
+insulation segments, and a softening industrial outlook for its composites
+segment.
+
+Stable outlook supported by solid track record of consistent cash
+flow generation.
+
+Roofing segment, which accounts for about 45% of EBIT, sensitive to
+storm activity variability.
+
+Increased geographic footprint with recent acquisitions in Europe,
+and all segments producing close to 10% EBIT margins or above.
+
+Persistent input cost inflation particularly for asphalt.
+
+We continue to view Owens Corning's outlook as stable despite a softening global industrial outlook. Our forecasts of
+slowing U.S. and Eurozone GDP growth rates, as well as contracting to flat construction markets for the rest of 2019,
+portend upcoming headwinds. The company has taken steps in response to the changing market environment,
+including adjusting prices to maintain market share, and in the case of North American residential fiberglass insulation,
+curtailing production to address slowing growth and new entrants. Ultimately, we expect the company to have enough
+cushion in its levels of profitability to maintain adjusted leverage in line with the current rating, around 2.7x through
+the end of 2019.
+We anticipate downward pressure on profitability over the next year. In addition to softening end markets, Owens
+Corning has faced ongoing cost inflation that threatens to narrow margins. Though asphalt costs continue to rise,
+transportation costs have eased in the U.S. The roofing segment has been successful in offsetting rising costs with price
+increases. However, because margins are tighter in the insulation segment, maintaining competitive pricing with a
+similar approach is proving to be more challenging. In all segments, the company continues to focus on operational
+improvements including automation and other cost cutting initiatives to minimize the impact on absolute profitability.
+In this case, as we have seen in the past, we expect the company's balanced market exposure to even out specific
+areas of weakness.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Owens Corning
+
+Chart 1
+
+In our view, management's focus areas will continue to build on the company's key strengths. Management has outlined
+the following areas of focus: organic growth, operating efficiency, and strong free cash flow. Following a two-year
+period of sizable acquisitions ending in 2018, Owens Corning expanded its footprint in Europe and achieved the first
+quarter of double-digit EBIT margins in all of its segments for the first time. Although headwinds in volumes and
+pricing present some top-line pressure, some opportunities for improving efficiencies in recently integrated businesses
+exist. The company is also focused on working capital improvements and expects capital spending to be down $65
+million for 2019, both of which will contribute to maximizing free cash flow.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Owens Corning
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' view that Owens Corning will maintain adjusted leverage in line
+with historical levels in the 2x–3x range over the 24 months. Our outlook takes into account the possibility of
+continued margin compression from slowing end-market activity in the U.S. and Europe, however, our
+assumptions suggest more of a moderate impact on EBITDA. We expect reduced levels of capital spending would
+lessen the impact of lower earnings on FOCF, and we also expect that credit measures will benefit from additional
+debt prepayments. We believe Owens Corning will finish 2019 with leverage around 2.7x and remain in the 2x–3x
+range through 2020.
+
+Downside scenario
+We could downgrade Owens Corning if we expect adjusted leverage to be sustained above 3x or free operating
+cash flow (FOCF; operating cash flow less capital spending) to debt to be sustained below 15%. This could happen
+if the company does not make any additional debt prepayments and if adjusted EBITDA drops over 8%.
+
+Upside scenario
+Though unlikely within 24 months, we would also consider an upgrade if the company diversifies its end markets
+and reduces its exposure to cyclical construction end markets while maintaining adjusted leverage of around 2.5x
+or below. This could happen if the company incorporates a business that contributes significant EBITDA driven by
+end markets less correlated to construction end markets.
+
+Our Base-Case Scenario
+Based on our macroeconomic assumptions, we expect Owens Corning to increase revenue by just below 2% for 2019,
+due to lower GDP growth expectations domestically and abroad still offsetting what we forecast to be shrinking
+residential and nonresidential construction spending. We forecast flat to only marginally stronger growth for 2020
+assuming construction spending begins to recover. We expect the company will refocus on prepayments on its $600
+million term loan due February 2021 (down to $400 million outstanding as of June 30, 2019). The company used the
+loan to finance the Paroc acquisition and delayed previous prepayment plans in favor of share repurchases.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Owens Corning
+
+Assumptions
+
+Key Metrics
+
+• World real GDP growth of 3.3% for 2019 and 3.6%
+for 2020.
+• U.S. real GDP growth of 2.5% for 2019 and 1.8% for
+2020.
+• Nonresidential construction growth rates of negative
+1.4% for 2019 swinging to 1.9% for 2020.
+• Residential construction growth rates of negative
+1.3% for 2019 improving to 1.8% for 2020.
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+2.8 2.6-2.8 2.3-2.5
+
+FOCF to debt (%)
+
+8.4
+
+14-19
+
+18-21
+
+19.4
+
+~19
+
+~19
+
+EBITDA to revenue (%)
+
+A--Actual. E--Expected. FOCF--Free operating cash
+flow.
+
+• 1.3 million housing starts in both 2019 and 2020.
+• Maintenance, repair, and operations (MRO)
+spending increasing at about a 2% rate each of the
+next two years.
+• While we believe that it is highly likely that Owens
+Corning could make additional prepayments on its
+term loan this year, we assume none for 2019 and
+$60 million in prepayments for 2020.
+
+Base-case projections
+We expect FOCF to debt to fall back in line with our expectation for the rating after dipping in 2018. According to the
+company's guidance, it plans to reduce capital spending by $65 million compared to last year as it pivots from
+integration spending to productivity and efficiency initiatives. Other efforts centered on generating free cash flow
+including working capital management should bring FOCF to debt back above 15%.
+We forecast minimal EBITDA margin deterioration despite tightening end markets. Despite a generally softening global
+economic outlook, we anticipate that the company's product mix changes and sustained price increases in some areas
+will mitigate instances of decreasing volumes due to flagging demand.
+
+Company Description
+Owens Corning produces residential and commercial building materials through its roofing and insulation segments.
+Its composites segment supplies a variety of industrial end markets with glass fiber reinforcements and other materials.
+The company maintains leading market positions in many of its major product categories and has manufacturing or
+distribution facilities throughout North America, Asia, and Europe, with the majority of sales attributable to the U.S.
+
+Business Risk: Satisfactory
+Owens Corning has strong, globally recognized brands in building and industrial materials that support the company's
+leading market positions in insulation, composites products, and roofing. Owens Corning maintains a No. 1 market
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Owens Corning
+
+position in insulation, and No. 2 positions in the consolidated residential roofing shingles and composites products
+markets. Revenue contributions are relatively evenly balanced among the three segments, and we consider the
+company's overall profitability to be average among peer building materials producers.
+Despite Owens Corning's leading market position and expansive global footprint, the company is subject to highly
+cyclical and competitive end markets that temper business prospects. For instance, the insulation segment is
+vulnerable to slowing new residential construction markets. Similarly, storm activity can result in some volatility in
+roofing demand and earnings, which leads to additional revenue and earnings (or a lack thereof in "quiet" storm years).
+However, the roofing business is less susceptible to shifts in construction activity, with approximately 75% - 80% of
+roofing demand tied to nondiscretionary roof replacement.
+
+Peer comparison
+Table 1
+
+Alliance Resource Partners L.P. -- Peer Comparison
+Industry Sector: Mining
+
+Ratings as of Sept. 25, 2019
+
+Owens Corning
+
+Masco Corp.
+
+Martin Marietta Materials
+Inc.
+
+Mohawk Industries Inc.
+
+BBB/Stable/--
+
+BBB/Stable/NR
+
+BBB+/Stable/A-2
+
+BBB+/Stable/A-2
+
+Business Risk Profile
+
+3-Satisfactory
+
+3-Satisfactory
+
+2-Strong
+
+3-Satisfactory
+
+Financial Risk Profile
+
+3-Intermediate
+
+3-Intermediate
+
+3-Intermediate
+
+2-Modest
+
+Anchor
+
+bbb
+
+bbb
+
+bbb+
+
+bbb+
+
+--FYE Dec. 31, 2018--
+
+--FYE Dec. 31, 2018--
+
+--FYE Dec. 31, 2018--
+
+--FYE Dec. 31, 2018--
+
+Revenue
+
+7,057.0
+
+8,359.0
+
+4,244.3
+
+9,983.6
+
+EBITDA
+
+1,371.5
+
+1,446.5
+
+1,165.8
+
+1,764.4
+
+Funds from operations (FFO)
+
+1,106.7
+
+1,045.8
+
+963.3
+
+1,489.4
+
+Interest expense
+
+132.8
+
+170.7
+
+179.7
+
+71.4
+
+Cash interest paid
+
+173.8
+
+169.7
+
+174.8
+
+78.8
+
+Cash flow from operations
+
+862.7
+
+1,069.8
+
+781.2
+
+1,264.7
+
+Capital expenditure
+
+537.0
+
+219.0
+
+372.9
+
+783.4
+
+Free operating cash flow
+(FOCF)
+
+325.7
+
+850.8
+
+408.3
+
+481.3
+
+Discretionary cash flow
+(DCF)
+
+(2.3)
+
+(26.2)
+
+179.6
+
+197.2
+
+Cash and short-term
+investments
+
+78.0
+
+559.0
+
+44.9
+
+119.1
+
+Debt
+
+3,894.0
+
+2,969.7
+
+3,810.0
+
+3,576.0
+
+Equity
+
+4,324.0
+
+69.0
+
+4,949.4
+
+7,440.1
+
+EBITDA margin (%)
+
+19.4
+
+17.3
+
+27.5
+
+17.7
+
+Return on capital (%)
+
+10.6
+
+41.6
+
+9.5
+
+10.6
+
+EBITDA interest coverage
+(x)
+
+10.3
+
+8.5
+
+6.5
+
+24.7
+
+FFO cash interest coverage
+(x)
+
+7.4
+
+7.2
+
+6.5
+
+19.9
+
+Adjusted (Mil. $)
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Owens Corning
+
+Table 1
+
+Alliance Resource Partners L.P. -- Peer Comparison (cont.)
+Industry Sector: Mining
+
+Owens Corning
+Debt/EBITDA (x)
+
+Masco Corp.
+
+Martin Marietta Materials
+Inc.
+
+Mohawk Industries Inc.
+
+2.8
+
+2.1
+
+3.3
+
+2.0
+
+FFO/debt (%)
+
+28.4
+
+35.2
+
+25.3
+
+41.7
+
+Cash flow from
+operations/debt (%)
+
+22.2
+
+36.0
+
+20.5
+
+35.4
+
+8.4
+
+28.7
+
+10.7
+
+13.5
+
+(0.1)
+
+(0.9)
+
+4.7
+
+5.5
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Source: S&P Global Ratings;, company reports. FYE--fiscal year ended.
+
+Financial Risk: Intermediate
+We expect Owens Corning to end 2019 with leverage around 2.7x and remain in the 2x–3x range in 2020. The
+company's next major maturity is the term loan due in February 2021.
+We do not anticipate changes in the company's dividend policy over the next two years. However, free cash flow could
+be available for share repurchases under the company's existing authorization, which has 3.6 million shares available
+for repurchase. Finally, after spending over $2 billion on major acquisitions in 2017/2018, we assume a return to
+previous patterns with no major acquisitions incorporated in our projections over the next year.
+
+Financial summary
+Table 2
+
+Owens Corning -- Financial Summary
+Industry Sector: Building Materials & Products
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. $)
+Revenue
+
+7,057.0 6,384.0 5,677.0 5,350.0 5,276.0
+
+EBITDA
+
+1,371.5 1,353.5 1,132.5
+
+946.5
+
+755.5
+
+Funds from operations (FFO)
+
+1,106.7 1,165.7
+
+932.2
+
+788.6
+
+602.6
+
+Interest expense
+
+132.8
+
+121.8
+
+121.3
+
+111.9
+
+125.9
+
+Cash interest paid
+
+173.8
+
+120.8
+
+131.3
+
+124.9
+
+133.9
+
+Cash flow from operations
+
+862.7 1,066.7
+
+990.2
+
+785.6
+
+488.6
+
+Capital expenditure
+
+537.0
+
+337.0
+
+373.0
+
+393.0
+
+363.0
+
+Free operating cash flow (FOCF)
+
+325.7
+
+729.7
+
+617.2
+
+392.6
+
+125.6
+
+Discretionary cash flow (DCF)
+
+(2.3)
+
+481.7
+
+289.2
+
+176.6
+
+25.6
+
+Cash and short-term investments
+
+78.0
+
+246.0
+
+112.0
+
+96.0
+
+67.0
+
+Gross available cash
+
+78.0
+
+246.0
+
+112.0
+
+96.0
+
+67.0
+
+Debt
+
+3,894.0 2,832.4 2,597.8 2,383.6 2,587.9
+
+Equity
+
+4,324.0 4,204.0 3,889.0 3,779.0 3,730.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Owens Corning
+
+Table 2
+
+Owens Corning -- Financial Summary (cont.)
+Industry Sector: Building Materials & Products
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA margin (%)
+
+19.4
+
+21.2
+
+19.9
+
+17.7
+
+14.3
+
+Return on capital (%)
+
+10.6
+
+11.7
+
+11.2
+
+9.0
+
+6.2
+
+EBITDA interest coverage (x)
+
+10.3
+
+11.1
+
+9.3
+
+8.5
+
+6.0
+
+FFO cash interest coverage (x)
+
+7.4
+
+10.6
+
+8.1
+
+7.3
+
+5.5
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+2.8
+
+2.1
+
+2.3
+
+2.5
+
+3.4
+
+FFO/debt (%)
+
+28.4
+
+41.2
+
+35.9
+
+33.1
+
+23.3
+
+Cash flow from operations/debt (%)
+
+22.2
+
+37.7
+
+38.1
+
+33.0
+
+18.9
+
+8.4
+
+25.8
+
+23.8
+
+16.5
+
+4.9
+
+(0.1)
+
+17.0
+
+11.1
+
+7.4
+
+1.0
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Sources: S&P Global Ratings; company reports.
+
+Liquidity: Strong
+We consider Owens Corning's liquidity position to be strong based on the company's cash generation and available
+sources compared to operating and capital expenditure needs over the next 24 months.
+Our assessment includes the following factors and assumptions:
+• Liquidity sources will exceed uses by 2x or more for the upcoming 12 months and remain above 1x over the
+subsequent 12-month period.
+• Liquidity sources would exceed uses over the next year even if EBITDA declines 30%.
+• Sufficient covenant headroom for forecast EBITDA to decline by 30% without the company breaching coverage
+tests, and debt at least 25% below covenant limits.
+• Well-established, solid relationships with banks as evidenced by the commitments and financing made available for
+recent acquisitions.
+• Generally prudent risk management with a track record of prioritizing debt prepayments when leverage approaches
+3x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Owens Corning
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Approximately $947 million of liquidity as of June
+30, 2019, including $92 million cash, $791 million
+available under the $800 million revolving credit
+facility due 2024 and $64 million under the
+receivables securitization facility due 2022 ; and
+
+• We are assuming about $475 million of capital
+spending over the next year with $500 million for
+2020;
+
+• About $1.05 billion of cash flow from operations
+over the next year under our baseline scenario.
+
+• Assuming $200 million in share repurchases
+annually;
+• Though likely in our view, we do not incorporate
+additional debt prepayments in the second half of
+the year; and
+• About $100 million in dividends over the next year.
+
+Debt maturities
+Table 3
+
+Owens Corning -- Debt Maturities
+Debt
+
+Due
+
+Interest rate
+
+Amount outstanding (mil. $)
+
+US$600 mil 4.20% sr unsecd nts due 12/15/2022
+
+2022
+
+4.200%
+
+598
+
+US$400 mil 4.20% sr nts due 12/01/2024
+
+2024
+
+4.200%
+
+394
+
+US$400 mil 3.40% sr nts due 08/15/2026
+
+2026
+
+3.400%
+
+396
+
+US$550 mil 7.00% sr nts due 12/01/2036
+
+2036
+
+7.000%
+
+400
+
+US$600 mil 4.30% sr nts due 07/15/2047
+
+2047
+
+4.300%
+
+588
+
+US$400 mil 4.40% sr nts due 01/30/2048
+
+2048
+
+4.400%
+
+390
+
+US$600 mil term loan due Feb. 2021§
+
+2021
+
+400
+
+US$800 mil revolving credit facility§
+
+2024
+
+0
+
+US$280 mil accounts receivables securitization facility due April 2022
+
+2022
+
+213
+
+Various finance leases
+
+22
+
+Other
+
+9
+
+Total
+
+3,410
+
+Note: As of June 30, 2019. *Amount outstanding excludes letters of credit. §Pricing determined by leverage based grid. Sources: S&P Global
+Ratings; company reports.
+
+Covenant Analysis
+Compliance expectations
+We expect the company to remain covenant compliant over the next 24 months.
+
+Requirements
+In April 2019, Owens Corning extended the maturity of its $800 million revolving credit facility to 2024. The facility
+includes a 2.25x minimum interest expense coverage ratio (also required in the receivables securitization facility
+agreement) and a 60% maximum debt to capitalization ratio.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+Owens Corning
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of June 30, 2019, borrowings in Owens Corning's capital structure totaled $3.41 billion, including $2.77 billion in
+senior unsecured notes maturing 2022–2048, $400 million outstanding on a senior unsecured term loan due in 2021,
+and $213 million under its receivables securitization facility maturing in 2022.
+In August the company issued a 3.95% $450 million green bond due 2029. Proceeds are funding a tender offer for the
+senior notes due 2022 and 2036.
+
+Analytical conclusions
+Owens Corning's debt is largely unsecured with its $280 million receivables-securitization commitment the notable
+exception. Owens Corning's unsecured debt is rated the same as the 'BBB' issuer credit rating because, in our view, the
+proportion of priority debt is low, limiting the risk of subordination for lenders of unsecured debt.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Owens Corning Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Rolling 12 months ended June 30, 2019-Owens Corning reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+3399.0
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+4405.0
+
+7127.0
+
+1262.0
+
+820.0
+
+127.0
+
+1323.5
+
+784.0
+
+94.0
+
+446.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(91.0)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(158.0)
+
+--
+
+--
+
+--
+
+244.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+Operating leases
+
+--
+
+--
+
+--
+
+80.0
+
+11.7
+
+11.7
+
+(11.7)
+
+68.3
+
+--
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+361.8
+
+--
+
+--
+
+11.8
+
+11.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(92.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+46.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+9.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation
+expense
+Asset retirement
+obligations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+Owens Corning
+
+Table 4
+
+Reconciliation Of Owens Corning Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $) (cont.)
+Noncontrolling
+interest/minority
+interest
+
+--
+
+40.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+income/(expense)
+
+--
+
+--
+
+--
+
+(37.0)
+
+(37.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+--
+
+(39.3)
+
+(39.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+--
+
+18.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+519.3
+
+40.0
+
+0.0
+
+61.5
+
+(34.8)
+
+11.7
+
+(260.7)
+
+68.3
+
+0
+
+0
+
+Debt: Fair value
+adjustments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+3,918.3
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+4445.0
+
+785.2
+
+7127.0
+
+1323.5
+
+138.7
+
+1062.8
+
+852.3
+
+94.0
+
+Sources: S&P Global Ratings; company reports.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+446.0
+
+Owens Corning
+
+Related Criteria
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Building Materials Industry, Dec. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Owens Corning's Proposed Senior Notes Rated 'BBB', July 29, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 26, 2019)*
+Owens Corning
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+03-Aug-2016
+
+BBB/Stable/--
+
+26-Oct-2015
+
+BBB-/Positive/--
+
+08-Oct-2009
+
+BBB-/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+Owens Corning
+
+Ratings Detail (As Of September 26, 2019)*(cont.)
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 14
+
+

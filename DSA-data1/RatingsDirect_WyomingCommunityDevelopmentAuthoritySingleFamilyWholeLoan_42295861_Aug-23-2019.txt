@@ -1,0 +1,259 @@
+Wyoming Community Development
+Authority; Single Family Whole Loan
+Primary Credit Analyst:
+Joan H Monaghan, Centennial + 1 (303) 721 4401; Joan.Monaghan@spglobal.com
+Secondary Contact:
+Daniel P Pulter, Centennial (1) 303-721-4646; Daniel.Pulter@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Assets
+Debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+Wyoming Community Development Authority;
+Single Family Whole Loan
+Credit Profile
+US$74.775 mil hsg rev bnds ser 2019-3 due 12/01/2049
+Long Term Rating
+
+AA+/Stable
+
+New
+
+AA+/Stable
+
+Affirmed
+
+Wyoming Comnty Dev Auth SFWHLLN
+Long Term Rating
+
+Rationale
+S&P Global Ratings assigned its 'AA+' long-term rating to the Wyoming Community Development Authority's (WCDA)
+2019 series 3 housing revenue bonds. In addition, WCDA plans to issue 2019 series 4 variable-rate bonds in
+conjunction with and on parity with the 2019 series 3 bonds, secured by the open indenture and a liquidity facility from
+Bank of America N.A., which we will rate separately from this transaction.
+Finally, we affirmed our 'AA+' long-term rating and various short-term ratings on the outstanding bonds previously
+issued under WCDA's 1994 parity indenture. The outlook on all ratings, where applicable, is stable.
+The 'AA+' long-term rating is based on our view of WCDA's 1994 Indenture credit characteristics as evidenced by the
+following strengths:
+• Strong credit quality of the mortgage loan collateral as evidenced by low delinquencies and foreclosures of 2.7%;
+• Strength of the indenture's consolidated cash flow runs, through a variety of stress scenarios, that show an
+unadjusted opening parity of 129.4% and an adjusted parity of 120.2% after accounting for S&P Global Ratings'
+projected losses, as of the July 1, 2018, basis date (updated with significant transactions through June 30, 2019);
+• Very strong reserves that are sized in accordance with our 'AA+' rating-level minimums to provide protection for
+potential loan losses; and
+• Excellent and experienced management of WCDA and strong oversight of the indenture.
+Partly offsetting the above strengths is, in our view, some exposure, approximately 4.3% of loans outstanding, to a
+non-investment-grade mortgage insurer.
+The bond proceeds will be used to refund the authority's outstanding 2016 series 3 housing revenue bonds and to
+make funds available to WCDA to purchase or acquire individual loans, most of which are expected to be insured or
+guaranteed by an agency or instrumentality of the federal government. The bonds are subject to redemption prior to
+maturity, including redemptions from unexpended proceeds, prepayments, and excess revenues, as outlined in the
+official statement.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+Wyoming Community Development Authority; Single Family Whole Loan
+
+Outlook
+The stable outlook reflects our expectation of continued high parity and improved performance of the mortgage
+portfolio. In addition, the outlook reflects our expectation that WCDA will continue to closely monitor the indenture to
+ensure its solid performance.
+
+Upside scenario
+If WCDA were to provide cash flows demonstrating the indenture's ability to withstand our 'AAA' stress assumptions
+for prepayments, variable interest rates, and loss coverage we could take positive rating action.
+
+Downside scenario
+While we find it unlikely, we believe that a significant deterioration in loan performance, the quality of investments,
+material decline of indenture parity, or a lowering of the U.S. sovereign rating could result in negative rating action.
+
+Assets
+WCDA's 1994 indenture continues to perform well and is composed of high-quality assets. The indenture's improving
+financial health has helped it achieve a strong equity position and has given the authority increased flexibility in
+managing its reserve levels for the long term. Credit loan loss coverage is provided through the evaporation of assets
+in cash flow scenarios and overcollateralization. Liquidity well in excess of our 2% of the loans benchmark is provided
+by reserve fund assets and advance claims components of the pool policies.
+According to management, as of June 30, 2019, there were approximately $734.3 million in loans outstanding
+(including approximately $20.2 million outstanding principal balance of loans that were purchased with proceeds of
+bonds but participations in which are pledged to the payment of bonds issued under the 2009 indenture) under the
+program. Approximately 89.0% carry Federal Housing Administration (FHA) insurance or guarantees from the U.S.
+Department of Veterans Affairs (VA) or rural development. The remaining loans are primarily insured by private
+mortgage insurance (PMI) provided by Radian Guaranty or Genworth Mortgage, or are uninsured loans. While loans
+insured by PMI have exposed the agency to higher projected loan losses, we believe that the excess assets available
+under the indenture are sufficient to cover any potential loan losses. Additionally, the authority continues to reduce the
+percentage of the portfolio insured by PMI providers. As of June 30, 2019, insurance coverage for the 1994 indenture
+loans is as follows:
+• FHA: 57.18%
+• VA: 8.36%
+• USDA – Rural Development: 23.47%
+• Private: 7.92%
+• Uninsured or other: 3.07%
+S&P Global Ratings reviewed consolidated cash flow projections and stress scenarios with a July 1, 2018, basis date,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+Wyoming Community Development Authority; Single Family Whole Loan
+
+updated with significant transactions through June 30, 2019, and including preliminary transaction assumptions of the
+2019 series 3 and 4 bond issuance. The cash flows were modeled on a 30-day payment lag, under various prepayment
+scenarios, and show the sufficiency of assets and revenue to pay full and timely debt service, plus program fees.
+Consolidated cash flows are very strong and show an asset-to-liability parity ratio of 129.4%, or $182.9 million in
+excess assets as of July 1, 2018. After applying a 7.28% credit loss stress to the cash flows, parity remains very solid,
+reaching an adjusted 117.83% on the lowest parity date of June 1, 2019, further indicating the stability and
+performance of the indenture.
+According to Mortgage Bankers Assn. statistics for the fourth quarter of 2018, the state of Wyoming had a delinquency
+and foreclosure rate of 3.10% (with delinquencies measured by loans that were more than 60 days delinquent),
+assuming a similar loan composition to WCDA's. During that time, WCDA had a delinquency and foreclosure rate of
+3.11%, a decline from the peak of 7.74% in the fourth quarter of 2012, and a decrease from the 5.2% reported in the
+second quarter of 2016. In the event that actual losses occur under the indenture, we would look to the
+overcollateralization of the indenture to support these losses.
+Investments consist of very high quality U.S. Treasuries, money market funds, U.S. agencies, mortgage-backed
+securities, and cash equivalents. The bonds are additionally secured by three reserve funds: the bond reserve fund, the
+mortgage reserve fund, and a special reserve fund to cover loan losses, as specified in the general and supplemental
+indentures. According to the cash flow analysis, total parity assets excluding mortgage loans equal approximately
+$192.3 million, or 31% of principal amount of bonds outstanding under the indenture.
+
+Debt
+Approximately 89% of WCDA's total debt consists of bonds issued under the authority's 1994 indenture. WCDA has a
+relatively low-risk debt profile and employs strong debt management policies that intentionally manage its risk
+exposure to variable rate debt. According to June 30, 2018, audited financial statements, there were approximately
+$619.6 million of bonds outstanding under the indenture. Of that $119.4 million, or approximately 19%, were
+variable-rate debt. About 69% of the variable-rate debt was hedged through interest-rate swaps with counter parties
+that meet our minimum eligible rating requirements for WCDA's current rating. WCDA actively manages its exposure
+to variable-rate debt and has done so strategically through balancing fixed and variable rate new issuances.
+Variable-rate exposure was approximately 20% as of Dec. 31, 2016, and has remained around that level over the past
+several periods, expected to be even lower at approximately 16.17% after the issuance of the 2019-3 and 4 bonds.
+Ratings Detail (As Of August 22, 2019)
+Wyoming Comnty Dev Auth hsg rev bnds
+Long Term Rating
+
+AA+/Stable
+
+Affirmed
+
+AA+/Stable
+
+Affirmed
+
+AA+/Stable
+
+Affirmed
+
+Wyoming Comnty Dev Auth hsg rev bnds
+Long Term Rating
+Wyoming Comnty Dev Auth hsg rev bnds
+Long Term Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+Wyoming Community Development Authority; Single Family Whole Loan
+
+Ratings Detail (As Of August 22, 2019) (cont.)
+Wyoming Comnty Dev Auth hsg rev bnds
+Long Term Rating
+
+AA+/Stable
+
+Affirmed
+
+AA+/A-1+/Stable
+
+Affirmed
+
+AA+/A-1+/Stable
+
+Affirmed
+
+AA+/Stable
+
+Affirmed
+
+Wyoming Comnty Dev Auth hsg rev bnds
+Long Term Rating
+Wyoming Comnty Dev Auth hsg rev bnds
+Long Term Rating
+Wyoming Comnty Dev Auth hsg rev bnds (Non-amt) ser 5
+Long Term Rating
+
+Wyoming Comnty Dev Auth hsg rev bnds (VRDO) ser 2018-2 dtd 05/01/2018 due 12/01/2048
+Long Term Rating
+
+AA+/A-1+/Stable
+
+Affirmed
+
+Wyoming Comnty Dev Auth hsg rev bnds [var rate - 1994 Indenture] [Federal Home Loan Bank of Des Moines]
+Long Term Rating
+
+AA+/A-1+/Stable
+
+Affirmed
+
+Unenhanced Rating
+
+NR(SPUR)
+
+Current
+
+Wyoming Comnty Dev Auth sin fam hsg bnds ser 2016-1&2
+Long Term Rating
+
+AA+/Stable
+
+Affirmed
+
+Many issues are enhanced by bond insurance.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+

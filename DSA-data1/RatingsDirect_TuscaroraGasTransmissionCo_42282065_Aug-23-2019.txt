@@ -1,0 +1,509 @@
+Tuscarora Gas Transmission Co.
+Primary Credit Analyst:
+Michael V Grande, New York (1) 212-438-2242; michael.grande@spglobal.com
+Secondary Contact:
+Mike Llanos, New York (1) 212-438-4849; mike.llanos@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 1
+
+Tuscarora Gas Transmission Co.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a-
+
+bbb+
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: MINIMAL
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Highly contracted through 2020.
+
+Single-asset pipeline with limited size and scale.
+
+Strong credit measures and predictable cash flows. Customer concentration with one shipper accounting for 75% of capacity.
+Demand is strong in markets with few alternatives. Recontracting risk within 18 months.
+
+Tuscarora serves markets with strong demand, which offsets the pipeline's limited size, scale, and short-term contracts.
+The pipeline serves residential and industrial utility customers in northern California and Nevada that we believe have
+limited alternative supply sources. We believe this mitigates the relatively short-term weighted average contract (about
+three years) and customer concentration.
+Tuscarora's credit ratios remain strong despite recent rate reductions. The company negotiated rate reductions in a
+settlement with the Federal Energy Regulatory Commission (FERC) in May 2019. We expect debt to EBITDA to be in
+the 1.5x-1.6x range and funds from operations (FFO) to debt above 55%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 2
+
+Tuscarora Gas Transmission Co.
+
+Outlook: Stable
+
+The stable outlook on Tuscarora reflects our outlook on parent TCP. Any rating action on TCP will flow through to
+the rating on Tuscarora. The stable outlook on TCP reflects our view that the partnership will have stable cash
+flows from a diversified portfolio of pipeline investments. TCP benefits from its strategic link to parent TC Energy,
+which brings the 'bbb-' SACP up one notch. We expect the partnership to maintain a debt-to-EBITDA ratio
+between 4.0x and 4.5x. We believe there is insufficient separation between TCP and Tuscarora to assess the latter
+as an insulated subsidiary, which could have allowed for a rating above the GCP.
+
+Downside scenario
+We would lower the rating on TCP if we lowered the rating on TC Energy to 'BBB', unless we assessed TCP's
+SACP at least 'bbb'. On a stand-alone basis, we would consider downgrading TCP if debt to EBITDA was above 5x,
+which could result from weak volumes, reduced tolls on any of its pipeline assets, or a more aggressive financing
+strategy to fund future growth initiatives.
+
+Upside scenario
+The most likely route to upgrading TCP would be an upgrade of TC Energy. Absent a TC Energy upgrade, higher
+ratings on TCP would only occur if the partnership's SACP was 'bbb+', the rating on TC Energy was at least 'BBB+'
+and TCP continued to increase its scale and geographic diversity, maintain a fee-based model, and keep debt to
+EBITDA in the 4x area.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• Pipeline is essentially fully contracted at maximum
+firm rates through 2020;
+
+2018A
+Debt/EBITDA (x)
+
+• Contracts rollover with existing customers at max
+rates;
+• Modest revenue and EBITDA declines due to the
+negotiated rate settlement with the FERC in May
+2019;
+
+2019E
+
+2020E
+
+1.4 1.5-1.7 1.5-1.7
+
+FFO/Debt (%)
+
+68.5
+
+55-60
+
+55-60
+
+EBIT/Interest (x)
+
+17.5
+
+9-10
+
+12-15
+
+A--Actual. E—Estimate
+
+• Modest maintenance capital requirements; and
+• All free cash flow distributed to TC PipeLines.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 3
+
+Tuscarora Gas Transmission Co.
+
+Base-case projections
+We expect Tuscarora to maintain stable cash flow and strong credit measures in the next few years. We forecast
+EBITDA of about $14 million, and financial leverage remains low at about 1.6x, funds from operations to debt above
+55%, and interest coverage of at least 10x.
+
+Company Description
+Tuscarora is a 305-mile natural gas pipeline that sources gas from the Gas Transmission Northwest (GTN)
+interconnect at Malin, Oregon and supplies the key demand markets of Northeast California and Northwest Nevada.
+
+Business Risk: Satisfactory
+We base our assessment of Tuscarora's business risk profile on its operations as a single-asset natural gas pipeline,
+with limited size and scale and a somewhat captive investment-grade customer base. The company transports natural
+gas it receives from Canada's Western Sedimentary Basin and Rocky-Mountain sourced areas via GTN to demand
+centers in northern California and Nevada. The majority of Tuscarora's capacity of 230 million cubic feet per day is
+contracted with firm reservation charges through 2020. While this raises the possibility of near-term recontracting risk,
+we believe the pipeline's demand-pull nature and lack of alternate supply sources for its utility customers adequately
+mitigates this risk. Tuscarora's two largest customers are local distribution companies, which are required to maintain
+the capacity necessary to meet their peak day utility loads. Sierra Pacific Power Co. represents about 75% of
+Tuscarora's firm contracted capacity, with Southwest Gas Corp. at 13% and Barrick Goldstrike Mines Inc. at 9%,
+accounting for almost all of the pipeline's total capacity.
+
+Financial Risk: Minimal
+Tuscarora's stand-alone financial risk profile is minimal, reflecting strong credit ratios and low financial leverage. We
+forecast the company's debt-to-EBITDA ratio will be in the 1.5x-1.6x area and FFO to debt will be between 55%-60%
+for the next several years. Tuscarora's capital program is modest, consisting of maintenance spending of less than $1
+million annually. We project all free cash flow of about $13.5 million will be distributed to parent TC PipeLines. We
+expect scheduled amortization of $1 million per year could result in modest improvements to financial metrics, but we
+believe Tuscarora will continue to have a modest amount of debt in its capital structure in consideration of the
+rate-making process with the FERC.
+
+Liquidity: Adequate
+We view Tuscarora's stand-alone liquidity as adequate. Sources minus uses is positive, as the company can self-fund
+its modest capital requirements. Tuscarora does not have a credit facility but will receive support from TCP if needed.
+Tuscarora's FFO is forecast to be about $13 million-$15 million and uses include about $1 million of debt amortization,
+minimal maintenance capital spending, and most of the remaining available cash distributed to TCP.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 4
+
+Tuscarora Gas Transmission Co.
+
+Covenant Analysis
+Compliance expectations
+We expect Tuscarora to have ample cushion under its term loan financial covenants.
+
+Requirements
+Tuscarora's $25 million term loan contains a covenant that requires it to maintain a debt service coverage ratio of 3x.
+As of March 31, 2019, the ratio was 10.1x. The term loan also contains a maximum debt to capitalization covenant of
+45%. As of March 31, 2019, the ratio was about 24%.
+
+Group Influence
+We view Tuscarora as core to TCP because we believe it is highly unlikely to be sold, its business is closely aligned
+with that of TCP's, and in our view will likely receive support from the group under almost all circumstances. The
+assessment, combined with the 'bbb' group credit profile, caps the rating at TCP's group profile. We believe there is
+insufficient separation between TCP and Tuscarora to assess the latter as an insulated subsidiary, which could have
+allowed for a rating above the GCP.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Tuscarora's long-term debt consists of an unsecured $25 million term loan facility due 2020 (not rated). The term loan
+amortizes $1 million annually and has $24 million outstanding at March 31, 2019.
+
+Analytical conclusions
+Tuscarora's term loan is structurally senior to TCP's $1.7 billion unsecured notes but does not affect the partnership's
+issue-level rating of 'BBB'.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Minimal
+
+• Cash flow/Leverage: Minimal
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 5
+
+Tuscarora Gas Transmission Co.
+
+Anchor: aModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bbb+
+
+• Group credit profile: bbb
+• Entity status within group: Core (-1 notch from SACP)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | General: Methodology: Master Limited Partnerships And General Partnerships, Sept. 22,
+2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Midstream Energy Industry, Dec. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Research Update: Ratings Raised On TC PipeLines L.P. And Subsidiary Tuscarora On Stable Cash Flows; Outlooks
+Stable, July 23, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 6
+
+Tuscarora Gas Transmission Co.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Modest
+
+Intermediate
+
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of August 20, 2019)*
+Tuscarora Gas Transmission Company
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Issuer Credit Ratings History
+23-Jul-2019
+
+BBB/Stable/--
+
+30-Apr-2013
+
+BBB-/Stable/--
+
+19-Dec-2011
+
+BBB/Stable/--
+
+Related Entities
+ANR Pipeline Co.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Unsecured
+
+BBB+
+
+NOVA Gas Transmission Ltd.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Unsecured
+
+BBB+
+
+TC Energy Corporation
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Preferred Stock
+Canada National Scale Preferred Share
+
+P-2(Low)
+
+Preferred Stock
+
+BBB-
+
+TC PipeLines L.P.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+TransCanada PipeLines Ltd.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Foreign Currency
+
+A-2
+
+Junior Subordinated
+
+BBB-
+
+Senior Unsecured
+
+BBB+
+
+TransCanada PipeLine USA Ltd.
+Commercial Paper
+Foreign Currency
+
+A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 7
+
+Tuscarora Gas Transmission Co.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 9
+
+

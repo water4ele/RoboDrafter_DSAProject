@@ -1,0 +1,402 @@
+Temasek Holdings (Private) Limited
+Primary Credit Analyst:
+Kah Ling Chan, Singapore (65) 6239-6336; kahling.chan@spglobal.com
+Secondary Contact:
+Bertrand P Jabouley, CFA, Singapore (65) 6239-6303; bertrand.jabouley@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Government Influence
+Rating List
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 1
+
+Temasek Holdings (Private) Limited
+Credit Highlights
+Issuer Credit Rating
+AAA/Stable/A-1+
+
+Overview
+Key strengths
+
+Key risks
+
+Sizable and well-diversified portfolio of quality assets.
+
+Significant exposure to volatile financial services and emerging economies.
+
+Consistent record of prudent investment and active asset rotation. Steady increase in unlisted investments.
+Robust cash flow adequacy.
+
+Infrequent and limited, albeit improving, information disclosure.
+
+Track record of net cash at the parent level.
+Our view of strong support from the Singapore government.
+
+Temasek's credit quality remains unchanged even as an increasing portion of investments are unlisted.
+Singapore-headquartered investment holding company Temasek Holdings (Private) Limited's increasing tilt toward
+unlisted investments weakens the asset liquidity of the company's portfolio. However, this is tempered by the
+increased asset diversity of its portfolio and steady reduction in the portfolio concentration of key assets, stemming
+from an expanding portfolio size.
+Temasek's continued strong affiliation with the government of Singapore. We maintain our view that there is an
+extremely high likelihood of extraordinary and timely support from the government of Singapore to Temasek, given
+the company's strategic role in the local economy.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 2
+
+Temasek Holdings (Private) Limited
+
+Outlook
+
+The stable outlook on Temasek's rating reflects our opinion that Temasek's close relationship with, and the
+likelihood of extraordinary and timely support from, the government will remain intact over the next 24 months.
+We also expect the portfolio concentration of key assets to improve or remain at current level as Temasek
+continuously expands its portfolio.
+
+Downside scenario
+We would lower the rating on Temasek if we lower the sovereign rating on Singapore, or believe the government's
+commitment to the company has reduced. Given our view of the extremely high likelihood of extraordinary
+support from the government of Singapore, we would downgrade Temasek if its standalone credit profile (SACP)
+deteriorates to below 'aa-'.
+We would lower the SACP on Temasek if we saw a deterioration in assets' weighted credit quality to below 'bbb-'.
+This could happen if Temasek substantially increased its exposure to start-up projects, unlisted assets or generally
+to companies with weaker credit profile. We would also lower the SACP on Temasek if asset diversity dropped, or
+if the proportion of unlisted portfolio continued to increase beyond 50%.
+In a remote scenario, negative rating pressure could also escalate on the company's SACP if its loan-to-value ratio
+rose above 10% on a sustained basis, prompting us to reconsider our view of Temasek's very conservative capital
+structure. This could occur if the company undertook large net debt-funded additions to its portfolio or provided
+financial support to its investee companies, such that it could no longer distance itself from their operating and
+financial risks. We could also reconsider our assessment of Temasek's strategic investment capability in that case,
+if we believed it reflected a structural and permanent shift to a more aggressive financial policy from its current
+stance of having limited debt.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 3
+
+Temasek Holdings (Private) Limited
+
+Assumptions
+
+• Temasek continues to be guided by its four
+investment themes, namely transforming
+economies, a rising middle class, deepening
+comparative advantages, and emerging champions.
+In addition, the themes are supplemented by six
+structural trends: longer lifespans, rising affluence,
+sustainable living, smarter systems, more connected
+world, and a sharing economy. These guidelines
+leave the company with substantial flexibility when
+it comes to investing across countries and industries,
+and in its investment horizon.
+• There could be sustained asset rotation, as Temasek
+regularly buys and sell shares based on its return
+considerations.
+
+Key Metrics
+
+2019A 2020E 2021E
+Loan-to-value (%)
+
+(10.3)
+
+<0
+
+<0
+
+Cash flow adequacy (x)
+
+> 0.7
+
+> 0.7
+
+> 0.7
+
+A--Actual. E--Estimate. Loan-to-value (LTV) is defined
+as: {gross debt - cash and cash equivalents, and
+short-term investments} divided by [net portfolio +
+gross debt – cash and cash equivalents, and short-term
+investments]. Reported values as of fiscal year end,
+March 31, 2019: Gross debt: Singapore dollar (S$) 15.1
+billion (US$11.1 billion). Net portfolio: S$313 billion.
+Cash and cash equivalents, and short-term
+investments: S$44.2 billion. Cash flow adequacy is
+defined as cash dividends, interest and fund
+distributions received divided by cash operating and
+tax expenses, and interest paid. Temasek only
+communicates on its net cash position and does not
+publicly disclose its cash flow adequacy ratio.
+
+Company Description
+Temasek was established in 1974 to assume ownership of a diversified portfolio of companies from the Singapore
+government (valued at S$354 million at that time), and it operates on commercial principles. The Minister for Finance,
+a body corporate under the Singapore Minister for Finance (Incorporation) Act (Chapter 183), holds 100% of Temasek,
+which the Singapore Constitution identifies as a key institution of the country.
+
+Business Risk
+Temasek's strong assets portfolio characteristics and above-average investment capabilities continue to underpin its
+credit quality. We anticipate that Temasek will continue to prudently and actively manage its investments.
+Temasek's portfolio diversity has been improving, which in our view reduces concentration risk and overall portfolio
+valuation volatility. The concentration of key assets have reduced over the past few years, underpinned by an
+expanding portfolio base. The proportion of top three assets have decreased substantially to 19% in fiscal 2019, from
+25% five years ago.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 4
+
+Temasek Holdings (Private) Limited
+
+Chart 1
+
+We believe Temasek's portfolio continues to exhibit strong credit quality. We estimate the weighted credit quality of
+Temasek's portfolio to be investment grade. Our ratings on close to 40% of the investments (in terms of value) are 'A-'
+and above.
+However, Temasek's increasing proportion of unlisted assets weigh on its portfolio characteristics. This is because we
+view quoted investments as easier to liquidate and more creditworthy than unlisted investments--though a number of
+unlisted companies have high creditworthiness, such as Singapore's port operator PSA International Pte. Ltd.
+(AA/Stable/--) and power distributor Singapore Power Ltd. (AA/Stable/--). As of end March 2019, unlisted assets
+accounted for about 42% of the S$313 billion net portfolio, the highest ever.
+We believe there will be a continued rebalancing of its portfolio mix toward unlisted investments to generate better
+returns. Based on S&P's estimates, unlisted assets have more than doubled in value to S$131 billion from S$53 billion
+as of March 31, 2012.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 5
+
+Temasek Holdings (Private) Limited
+
+Chart 2
+
+In addition, the actual liquidity of Temasek's large Singapore-incorporated holdings may be more limited than what
+their listed nature suggests.
+Temasek's net portfolio value of S$313 billion on March 31, 2019--continues to cover a broad range of geographies
+and industry sectors such as financial services (25% of total), telecommunications, media & technology (20%),
+Consumer & real estate (17%), transportation & industrials (16%), life sciences & agribusiness (7%) and others (15%).
+Notably, its exposure to growth regions(39%) and the financial services sector could result in some portfolio volatility.
+In our view, Temasek will continue to exhibit above-average strategic investment capability. We assume Temasek's
+management will extend its sound record of rotating assets, cautious risk management, and disciplined investment
+practices. In the past seven years, the company has invested S$25 billion and divested S$19 billion annually on
+average, i.e. 9% and 7% of its average portfolio in the period.
+
+Financial Risk
+Temasek's sustainable track record of limited debt and robust cash flow adequacy anchors our capital structure
+assessment. We anticipate the company will sustain its net cash position (defined as debt less cash and cash equivalent
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 6
+
+Temasek Holdings (Private) Limited
+
+and short-term investments) over the next 24 months at least. While Temasek's net investments over 2013-2019
+amounted to S$41 billion, borrowings remained stable and consistently accounted for less than half of liquidity
+balances. This is owing to the company's strong cash flow adequacy and flexible net returns (dividend paid net of
+equity infusions) to the Minister for Finance. Temasek's liquidity balance has exceeded its debt since 2004.
+We also believe the company will keep enjoying solid cash returns from its portfolio. This expectation is underpinned
+by our opinion of Temasek's strategic influence on a number of subsidiaries' operations, and of their generous dividend
+policy, which is reinforced by Temasek's controlling stakes in the entities. It would take a severe reduction in cash
+dividend income for the company's cash flow adequacy to fall below 1.0x--the point at which Temasek would have to
+use its cash to pay interest, tax and operating expenses.
+Temasek's disclosure of financial information is not on par with listed companies with similar ratings. As an unlisted
+company, Temasek discloses financial information only annually and on a consolidated basis. However, the content of
+information has been improving over the past years, with more public disclosure of unconsolidated financial
+information.
+
+Liquidity
+We view Temasek's liquidity as exceptional as we expect the company's sources of funds to cover its uses by about 3x
+over the next 24 months to end-Mar 2021. Even in a hypothetical scenario of unexpected external shocks, which could
+restrict the company's inflow of dividends or proceeds from divestments, Temasek's sources of liquidity would
+comfortably cover its needs.
+We note that the company has no covenants on its debt instruments, and long-dated debt maturities. The weighted
+average outstanding maturity of debt was about 10 years as of March 31, 2019. In addition, Temasek has well
+established and solid relationships with banks, and a high standing in credit markets.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents and short-term
+investments of S$44.2 billion, exceeding total debt of
+S$15.1 billion by almost three times.
+
+• Short-term debt maturities of S$4.3 billion coming
+due in the subsequent 12 months to March 31, 2020.
+
+• Forecast annual interest income and income from
+investments of about S$500 million-S$800 million.
+• Our forecast of dividends to be received from
+portfolio companies of close to S$7.2 billion-S$7.4
+billion per annum.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+• Operating costs and tax expenses.
+• Interest expenses of up to S$500 million annually.
+• Our expectation that acquisitions could exceed
+disposals.
+• Some net return to its shareholder.
+
+SEPTEMBER 23, 2019 7
+
+Temasek Holdings (Private) Limited
+
+Government Influence
+Our credit assessment on Temasek factors in our view of an extremely high likelihood of extraordinary support from
+the government of Singapore (unsolicited rating AAA/Stable/A-1+) since:
+• Temasek has a critical importance to the Singapore government due to the company's shareholding in some
+sectors, which we believe are strategic for the country's economy.
+• Temasek shows a very strong link with its sole owner, the Singapore government, which is very unlikely to dilute its
+ownership. Under the Singapore Constitution, Temasek is subject to the country's constitutional safeguards where
+Singapore's President has an obligation to protect the company's past reserves.
+We assess Temasek's SACP as 'aaa', based on its strong assets, portfolio characteristics, above-average investment
+capabilities, and minimal leverage. Therefore, the corporate credit rating is 'AAA' by its own merits. Accordingly, the
+benefit from this extremely high likelihood of extraordinary government support would materialize if we lower the
+SACP for Temasek.
+In our view, the company benefits from its ownership by Singapore's Minister for Finance on an ongoing basis as well,
+with a number of domestic, blue-chip companies in its portfolio, such as PSA International Pte. Ltd. and Singapore
+Power Ltd. We also believe that the ongoing support from the government of Singapore gives an edge to Temasek
+when it comes to accessing investment opportunities.
+Likewise, we believe the Minister for Finance supports Temasek's conservative capital structure and investment
+firepower through recurring dividend reinvestment.
+
+Rating List
+Ratings affirmed on the following issue rating:
+Temasek Financial (I) Limited
+Senior Unsecured AAA
+Temasek Financial (II) Private Limited
+Commercial Paper A-1+
+Temasek Financial (IV) Limited
+Senior Unsecured AAA
+
+Ratings Score Snapshot
+Issuer Credit Rating: AAA/Stable/A-1+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 8
+
+Temasek Holdings (Private) Limited
+
+Business risk: Excellent
+• Country risk: Very low
+• Industry risk: Intermediate
+• Investment position: Excellent
+Financial risk: Minimal
+• Cash flow/Leverage: Minimal
+• Funding and capital structure: Neutral
+Anchor: aaa
+Modifiers
+• Liquidity: Exceptional (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile: aaa
+• Sovereign rating: AAA/Stable/A-1+
+• Likelihood of government support: Extremely high (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria | Corporates | Industrials: Methodology: Investment Holding Companies, Dec. 1, 2015
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 9
+
+Temasek Holdings (Private) Limited
+
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+Ratings Detail (As Of September 23, 2019)*
+Temasek Holdings (Private) Limited
+Issuer Credit Rating
+
+AAA/Stable/A-1+
+
+Issuer Credit Ratings History
+16-Feb-2011
+
+AAA/Stable/A-1+
+
+12-Oct-2004
+
+AAA/Stable/--
+
+Related Entities
+Singapore
+Issuer Credit Rating
+
+AAA/Stable/A-1+
+
+Transfer & Convertibility Assessment
+
+AAA
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 11
+
+

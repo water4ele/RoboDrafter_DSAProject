@@ -1,0 +1,570 @@
+Plastipak Holdings Inc.
+Primary Credit Analyst:
+Daniel Lee1, CFA, New York + 1 (212) 438 2716; daniel.lee1@spglobal.com
+Secondary Contact:
+Michael Tsai, New York + 1 (212) 438 1084; michael.tsai@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+Plastipak Holdings Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b+
+
+b+
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Established player in the rigid plastic packaging space, with sizable
+market share in the beverage, food, and home personal care
+markets.
+
+High customer concentration, which limits pricing upside, and significant
+preform sales constrain operating margins that are consistently below other
+packaging players.
+
+Longstanding customer relationships with notable global brands
+that have lasted decades.
+
+Negative market sentiment toward single-use plastics, particularly for
+beverage products.
+
+Primarily serves nondiscretionary end markets, which provides
+predictable, recurring revenue.
+
+Pending Goldman equity redemption could result in additional debt
+financing and deteriorating issue-level ratings.
+
+Beverage products likely to feel the bulk of increased scrutiny toward single-use plastics. Increasingly negative
+sentiment towards plastics could have an impact on Plastipak's beverage packaging solutions business, given its
+exposure to smaller format, single-use containers and the wide availability of alternative substrates (i.e. aluminum
+cans, paper cartons). These headwinds are somewhat offset by the company's focus on increasing its use of recycled
+content and its dedicated, growing recycling asset base.
+Overall operating performance remains steady, despite increasingly negative sentiment. Despite the negative market
+sentiment towards plastics, overall demand remains steady as growth in food and consumer cleaning solutions has
+greatly offset declines in beverage. We expect this trend to continue and to support modest EBITDA growth and
+positive free cash flows over the next year.
+Pending Goldman equity redemption could weaken issue level ratings. Goldman can put its remaining ownership
+interest, which we value at approximately $125 million, to Plastipak in Oct. 2020. Any resulting debt issuance to fund
+the put could result in deteriorating issue-level ratings on the company's senior secured credit facilities and senior
+unsecured notes.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+Plastipak Holdings Inc.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on Plastipak Holdings Inc. reflects our expectation that relatively stable end
+markets, improved product mix, and ongoing productivity initiatives will offset flat sales volumes, ongoing pricing
+pressures, and customer rebates. We expect operating results to support positive free cash flows and a modest
+improvement in credit metrics, though we still expect leverage to be around 5x over the next year.
+
+Downside scenario
+We could lower our ratings on Plastipak if we expected debt to EBITDA to exceed 6x on a sustained basis. We
+estimate this could occur if Plastipak sales growth and operating margins contracted by 200 basis points (bps) and
+150 bps, respectively, from our base-case scenario.
+
+Upside scenario
+We could raise our ratings if Plastipak can improve debt to EBITDA closer to 4x on sustained basis. This could
+occur over the next 12 months if the company's revenue growth and operating margins both improve by about 200
+bps above our base-case scenario.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth rate of 2.5% in 2019 and 1.8%
+in 2020.
+
+2018A
+EBITDA Margin (%)
+
+• Eurozone real GDP rate rate of 1.1% in 2019 and
+1.3% in 2020.
+• Flat to low-single-digit percentage revenue growth
+in 2019 and 2020, driven by increased resin prices
+and flat unit volume growth.
+
+FFO to debt (%)
+Debt to EBITDA (X)
+
+2019E
+
+2020E
+
+8.5 8.5-9.0 8.5-9.0
+13.7
+
+13-14
+
+14-15
+
+5.4 5.0-5.5 4.5-5.0
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• EBITDA margins modestly improving to 8.5%-9.0%
+range through 2020, benefitting from better price
+mix and operational improvements, somewhat offset
+by price reductions and customer rebates.
+• Capital expenditures between $125 million-$135
+million, or about 4% of sales.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+Plastipak Holdings Inc.
+
+Company Description
+Michigan-based Plastipak is a designer and manufacturer of finished rigid plastic packaging solutions and pre-forms
+used in beverage, consumer, food, and industrial applications. The company offers a broad selection of packaging
+solutions, ranging from single-use beverage containers to value-add aersol containers. The company services
+approximately 1,300 customers, including global brands such as Proctor & Gamble and PepsiCo, through 41 facilities
+located in North America, Europe, and South America.
+Chart 1
+
+Chart 2
+
+Business Risk: Fair
+Our assessment reflects Plastipak established market share in niche product categories, long-term customer
+relationships, and nondiscretionary end markets, somewhat offset by its notable customer concentration, constrained
+operating margins that are below that of other packaging companies, and increased market pressures on single-use
+plastics.
+Plastipak operates in the highly competitive plastic packaging market and competes directly with much larger players
+such as Berry Global Group Inc., Graham Packaging (subsidiary of Reynolds Group Holdings Ltd.), Consolidated
+Container Co. LLC, and Silgan Corp. Despite these market dynamics, Plastipak enjoys established market share within
+specific product categories, such as carbonated beverages, and tenured customer relationships that have endured
+despite ongoing industry consolidation and increased competition. Key customers include global players such as
+Procter & Gamble Co., PepsiCo Inc., Kraft Heinz, and Keurig Dr Pepper Inc., with whom Plastipak has relationships in
+excess of 20 years. Plastipak maintains operations in close proximity to customers and continues to invest heavily in
+its facilities and product development to support customers' growth. The company has a track record of product
+innovation that has enabled it to gain share in relatively mature markets. A recent example is the introduction of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+Plastipak Holdings Inc.
+
+plastic aerosol containers, which shifted customers away from metal-based products. We believe these factors support
+Plastipak's tenured relationship as a valued partner and we expect this dynamic to endure; the company is often the
+sole supplier for many of its customers' needs. In addition, the majority of Plastipak's customers represent stable,
+nondiscretionary end markets, thereby providing good visibility and predictable sales volumes through the economic
+cycle. We expect these dynamics to endure.
+However, customer concentration is a notable risk, with Plastipak's top ten customers accounting for roughly 60% of
+total sales. As global brands, these customers regularly leverage their scale and purchasing power, thereby limiting
+Plastipak's pricing upside. In addition, lower margin preforms represent roughly a third of overall sales. These factors
+combine to constrain the company's operating margins, which are consistently below that of packaging peers.
+Although the increasingly negative market sentiment toward plastic packaging will be a sustained headwind for
+Plastipak, we believe the impact will be focused on specific product categories, such as non-/carbonated beverages
+and processed juices, which represent approximately half of total sales. We believe these segments are most
+vulnerable to market pressures, given their exposure to single-use plastic consumables. Within these product
+categories, we believe Plastipak's smaller packaging formats (i.e. 20 ounces and less) are most susceptible to
+substitution risk as alternative solutions (i.e. aluminum cans, glass bottles, paper-based containers) are already well
+established. Substitution risk for larger beverage formats (i.e. one liter and greater) is relatively modest as we do not
+believe there are viable alternative solutions that can be produced on a global scale or a cost efficient basis. While
+market sentiment will also pressure Plastipak's other product categories, we believe these challenges are manageable.
+We do not believe that current alternative substrates, when compared to plastic, can consistently provide the same
+value proposition in terms of production cost, safety, and functionality for liquid-based content such as aerosols,
+consumer cleaning products, and food condiments. This dynamic may change over time, but we expect that it will take
+several years for the market to develop and adopt viable alternative solutions on a large scale. A more likely near-term
+alternative appears to be the increased usage of recycled content, which Plastipak has actively done for several
+decades. Through its Clean Tech operations, Plastipak is one of the largest producers of recycled resin. Over the next
+several years, we expect the company to aggressively expand its plastic recycling assets while increasing the
+proportion of recycled content used in production. However, this alternative is also somewhat constrained as the
+supply of recycling assets and recycled resin far outweighs demand.
+
+Financial Risk: Highly leveraged
+Our assessment reflects our expectation that flat to moderate sales growth combined with stable operating margins
+will support positive free cash flows and leverage of around 5.0x-5.5x.
+Despite increasing market scrutiny on the use of plastic packaging, Plastipak's operating performance has remained
+resilient. Overall demand volume has been relatively steady, with unit volumes down 0.9% (inclusive of the prior year
+having an extra week) through the first half of 2019 (1H19), while fiscal 2018 saw unit volumes up 3.2%. On a product
+basis, volume declines in beverages and industrials were offset by gains in the consumer and food categories.
+Operating margins saw modest improvement through 1H19 as improved price mix and raw material pass-throughs
+more than offset customer rebates and price concession; adjusted EBITDA margins for 1H19 improved 60 bps versus
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+Plastipak Holdings Inc.
+
+the prior year while gross EBITDA grew by $12.7 million.
+We expect these trends to continue through the remainder of fiscal 2019 and over the next 12 months. We expect
+sales volumes to be flat, with declines in beverages to be offset by gains in consumer and food. We also expect flat to
+modestly improving operating margins, driven primarily through improved price mix. These factors should support
+continued positive free cash flows over the next 12 months.
+The company's revolving credit facility usage remains somewhat volatile, with sizable monthly borrowings and
+repayments a recurring theme. While we expect these volatile trends to continue due to the businesses' seasonality, we
+also believe there is room for improvement and that improved working capital usage is a focus area for management
+over the next 12 months.
+As of the end of the second quarter 2019, Goldman Sachs maintained a 9.9% ownership in Plastipak, valued at
+approximately $125 million, which Goldman can "put" to Plastipak in Oct. 2020. If Plastipak is unable to fully redeem
+Goldman's equity interest, Goldman can pursue a sale of the entire company. Plastipak has actively reduced
+Goldman's ownership stake through revolver borrowings. Over the next year, we expect Plastipak to continue
+monetizing Goldman's equity stake, though the magnitude is still to be determined. Our credit metrics reflect
+Goldman's remaining equity interest as debt. Therefore, we do not expect any meaningful change in our credit metrics
+once Goldman's put comes due.
+As Goldman's put approaches maturity, we expect that Plastipak will evaluate multiple funding sources, including
+additional revolver borrowings, debt, and equity financing. Although we don't expect a significant change in our overall
+credit metrics, given Goldman's equity is already being treated as debt, we do anticipate a change to the company's
+capital structure, particularly if it pursues additional debt financing as an option. This in turn could impact our issue
+level ratings and recovery ratings on the company's senior secured credit facilities and senior unsecured notes.
+
+Liquidity: Adequate
+We assess Plastipak's liquidity as adequate. We expect the company's sources will be around 1.9x its uses, and believe
+net sources will remain positive even if EBITDA decreases by 15% from our projected levels. We also believe the
+company's qualitative liquidity measures support our adequate assessment. In particular, we believe the company's
+tightening leverage covenant and potential share repurchase limit Plastipak's ability to withstand an extreme
+high-impact, low-probability event without some need for refinancing.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+Plastipak Holdings Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Balance sheet cash of about $40.5 million as of May
+4, 2019;
+
+• Total working capital (including seasonal outflows)
+of around $105 million pear year;
+
+• About $259 million in borrowing capacity under the
+company's revolving credit facility as of May 4,
+2019; and
+
+• Capital spending of about $125 million to $135
+million per year over the next 12-24 months;
+
+• Funds from operations (FFO) between $180 million
+and $200 million over the next 12-24 months.
+
+• Debt amortization of about $12.5 million annually
+(including term loan and mortgage debt); and
+• Annual dividends of around $10 million.
+
+Debt maturities
+Chart 3
+
+Covenant Analysis
+Compliance expectations
+As of May 4, 2019, Plastipak was in compliance with its maximum secured leverage ratio covenant and minimum
+interest coverage ratio covenant. We expect the company will maintain compliance with these covenants over the
+next 12 months.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+Plastipak Holdings Inc.
+
+Requirements
+Plastipak's credit agreement requires the company maintain a maximum secured net leverage ratio of 4.50x, which
+steps down to 4.25x on the first fiscal quarter ending Nov. 2, 2019, and to 4.0x on the first fiscal quarter ending Oct. 31,
+2020. The credit agreement also requires the company to maintain a minimum interest coverage ratio of 2.50x.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario assumes a payment default in 2023 stemming from declining volume on lower
+end-market demand and increased competition. In addition, market conditions would inhibit the company's ability
+to pass through rising input costs and operating leverage would deteriorate in conjunction with declining volumes.
+As a result, cash flows would deteriorate to the extent that the company would not be able to cover interest
+expense, debt amortization, working capital, and maintenance capital expenditures. Eventually, the company's
+liquidity would become strained to the point where the company cannot continue to operate without a bankruptcy
+filing.
+• We believe the company's underlying business would continue to have considerable value and expect that Plastipak
+would emerge from bankruptcy, rather than liquidate.
+• We assume the company will seek covenant amendments on its path to default--resulting in higher interest
+costs--and anticipate it will have drawn approximately 85% on its revolving credit facilities.
+• We assess recovery prospects on the basis of a gross reorganization value for Plastipak of approximately $996.6
+million, reflecting about $181.2 million of emergence EBITDA and a 5.5x multiple.
+
+Simulated default assumptions
+• Simulated year of default: 2023
+• EBITDA at emergence: $181.2 million
+• EBITDA multiple: 5.5x
+• Gross enterprise value: $996.6 billion
+
+Simplified waterfall
+• Net enterprise value (after 5% admin. costs): $947 million
+• Valuation split in % (obligors/non-obligors): 70/30
+• Priority claims: $80.6 million
+• Value available to first-lien debt claims: $770.5 million
+• Secured first-lien debt claims: $897.5 million
+• --Recovery expectations: (70%-90%: rounded estimate 85%)
+• Value available to unsecured claims: $92.2 million
+• Total Unsecured claims: $642.6 million
+• --Recovery expectations: (10%-30%: rounded estimate 10%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+Plastipak Holdings Inc.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : b+
+
+• Group credit profile: b+
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Containers And Packaging Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 9
+
+Plastipak Holdings Inc.
+
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of August 22, 2019)*
+Plastipak Holdings Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Unsecured
+
+B
+
+Issuer Credit Ratings History
+28-Sep-2017
+
+B+/Stable/--
+
+19-Aug-2010
+
+BB-/Stable/--
+
+23-Jul-2009
+
+BB-/Positive/--
+
+Related Entities
+Plastipak Packaging Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 11
+
+

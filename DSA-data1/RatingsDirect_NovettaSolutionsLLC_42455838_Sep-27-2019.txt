@@ -1,0 +1,450 @@
+Novetta Solutions LLC
+Primary Credit Analyst:
+Alexandra Dima, CFA, Toronto + 1 (416) 507 3227; alexandra.dima@spglobal.com
+Secondary Contact:
+Christopher A Denicolo, CFA, Washington D.C. (1) 202-383-2398; christopher.denicolo@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 1
+
+Novetta Solutions LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Good margins for a service provider, due largely to the ability to retain intellectual
+property rights.
+
+Small size compared to much larger competitors.
+
+Solid position in a niche market.
+
+Concentrated customer base and lack of program
+diversity.
+
+Low capital spending requirements.
+
+Leverage remains high.
+
+We expect top-line growth to drive improved credit metrics, with debt to EBITDA improving from
+9.4x in 2018 to mid- to high-7x in 2019.
+Growth on existing core contracts, robust defense spending, new contract wins, and the Berico acquisition (completed
+November 2018) are drivers for strong revenue growth in 2019. However, delays in contract awards and the ramp up
+of new programs could result in revenues not growing as fast as we expect. We also expect the company to make
+additional tuck-in acquisitions over the next few years.
+
+Novetta remains a small government service provider, with about $255 million to $275 million of
+revenues expected in 2019.
+The company competes against much larger players and is one of the smallest aerospace and defense (A&D) firms we
+rate. However, the company's technological capabilities have allowed it to remain competitive and establish a solid
+position with certain customers, especially intelligence agencies and special operation forces.
+
+Novetta has limited customer diversity and high program concentration, increasing the risk of
+program delays or cancellations.
+The company's top five contracts make up about 50%-60% of revenues, with the top 15 at about 75%, but these
+contracts tend to have fairly stable sales. Almost 80% of sales are to intelligence agencies and special operations
+forces. However, funding for these customers is typically higher priority than other parts of the military.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 2
+
+Novetta Solutions LLC
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that the company's credit ratios will improve over the
+next 12 to 24 months due to modest revenue and earnings growth, although they will remain very weak (with debt
+to EBITDA of more than 7x in 2019). We also expect the company's liquidity to remain adequate.
+
+Upside scenario
+We could raise our ratings on Novetta if revenue and earnings increase faster than we expect, causing debt to
+EBITDA to decline below 7x, and liquidity remains adequate. This improved growth could be caused by the
+company's customers resolving their delays faster than we expect or from additional new contract awards.
+
+Downside scenario
+We could lower our ratings on Novetta in the next 12 months if we believe the company's capital structure has
+become unsustainable because of elevated leverage and cash flows that have turned negative for an extended
+period. This could be caused by a decline in the company's revenue and earnings due to the loss of a major
+contract or because management fails to win new business or to expand contracts. We could also lower our ratings
+if its liquidity becomes severely constrained by prolonged cash outflows or reduced revolver availability due to
+tight covenant headroom.
+
+Our Base-Case Scenario
+Assumptions
+
+• Organic revenue growth around 20% in 2019 and
+10% in 2020 driven by both new contracts and
+growth on existing programs;
+• EBITDA margins remaining relatively flat at around
+14%-15%;
+• Modest capital spending of around $4 million
+annually;
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+9.4 7.2-7.6 7.0-7.4
+
+FFO to debt (%)
+
+2.3
+
+EBITDA interest coverage (x)
+
+1.2 1.4-1.8 1.5-1.9
+
+3-7 3.5-7.5
+
+A--Actual. E—Estimate. FFO—Funds from operations.
+
+• Acquisitions of $25 million in 2020; and
+• No dividends or share repurchases during the
+forecast period.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 3
+
+Novetta Solutions LLC
+
+Company Description
+Novetta provides advanced analytics software and solutions for government and commercial enterprises worldwide.
+Novetta's services include providing proprietary software to intelligence agencies and special operations forces,
+focusing on technologies pertaining to data analytics and cybersecurity. Novetta's customers also include the U.S.
+Department of Homeland Security and law enforcement agencies. In 2015, Novetta was acquired by The Carlyle
+Group, a large private equity firm with a history of investing in aerospace and defense (A&D) companies.
+
+Business Risk: Weak
+Novetta's EBITDA margins, which are between 14%-15%, are higher than most of the other government services
+contractors we rate, most of which have EBITDA margins around 10% or below. Novetta is able to maintain elevated
+margins due to the specialized nature of its work and has customers that are less price sensitive than other parts of the
+military or civilian government agencies. Another contributing factor is that in most cases, when IT work is down for
+government agencies, the government retains the IP. However, Novetta is able to retain the IP rights, allowing it to
+reuse developed software on other contracts.
+
+Financial Risk: Highly leveraged
+The company's credit ratios are improving, although debt leverage will remain high, with debt to EBITDA of 7x-8x.
+Although we expect leverage to improve to below 7.5x by 2020, additional tuck-in acquisitions could result in leverage
+that is higher than we forecast. We expect cash flow generation to be lower in 2019 compared to 2018, driven by
+working capital investments. We expect improvement in 2020 onwards as earnings increase and working capital needs
+subside. Generally the company has very low capital spending requirements.
+
+Liquidity: Adequate
+We assess the company's liquidity as adequate. We believe that Novetta's sources of liquidity will be about 2x its uses
+over the next 12 months, and expect that sources would exceed uses even if EBITDA declined by 15%. However, we
+do not believe Novetta can absorb high-impact, low-probability events without the need for refinancing, or that it has
+high standing in the credit markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 4
+
+Novetta Solutions LLC
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Minimal cash balances as of June 30, 2019;
+
+• Minimal near-term debt maturities consisting of $2
+million amortization on the first-lien term loan; and
+
+• Availability of about $25 million on its $40 million
+revolving credit facility that matures in 2022, due to
+covenant constraints; and
+
+• Modest capex of around $4 million annually.
+
+• Cash from operations between $5 million and $8
+million over the next 12 months.
+
+Covenant Analysis
+The only financial covenant in the company's credit facilities is a springing maximum first-lien leverage ratio of 6x that
+is only tested if the revolver is more than 30% drawn. We don't expect the covenant will be tested over the next 12
+months. However, the amount available for borrowing would be limited by the covenant to about $25 million.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The '3' recovery rating on the first-lien facility and '6' recovery rating on the second-lien term loan are unchanged.
+• The company's capital structure consists of a $40 million first-lien revolver, $200 million first-lien term loan ($194
+million currently outstanding), and $85 million second-lien term loan.
+• We value the company on a going-concern basis using a 5x multiple of our projected emergence EBITDA. Other
+key assumptions at default include LIBOR of 2.5% and the revolver is 85% drawn.
+
+Simulated default assumptions
+• Default year: 2021
+• EBITDA at emergence: $29 million
+• Multiple: 5x
+
+Simplified waterfall
+• Net enterprise value after admin. expenses (5%): $137 million
+• Valuation split (obligor/nonobligors): 100%/0%
+• Collateral value available to first-lien creditors: $137 million
+• Total first-lien debt: $232 million
+• --Recovery expectations: 50%-70%; rounded estimate: 55%
+• Second-lien debt claims: $90 million
+• --Recovery expectations: 0%-10%; rounded estimate: 0%
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 5
+
+Novetta Solutions LLC
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : b-
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Aerospace And Defense Industry, March 25, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 6
+
+Novetta Solutions LLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 13, 2019)*
+Novetta Solutions LLC
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+Issuer Credit Ratings History
+20-May-2016
+
+B-/Stable/--
+
+17-Sep-2015
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 8
+
+

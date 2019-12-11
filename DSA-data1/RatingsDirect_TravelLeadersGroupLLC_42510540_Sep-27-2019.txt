@@ -1,0 +1,553 @@
+Travel Leaders Group LLC
+Primary Credit Analyst:
+Justin D Gerstley, CFA, New York (1) 212-438-1890; justin.gerstley@spglobal.com
+Secondary Contacts:
+Emile J Courtney, CFA, New York (1) 212-438-7824; emile.courtney@spglobal.com
+Daniel Giambrone, New York + 1 (212) 438 8229; daniel.giambrone@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Travel Leaders Group LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Negative/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Solid position in the niche high-end corporate and luxury
+leisure travel segment.
+
+Highly competitive and fragmented travel industry.
+
+Good relationships with suppliers.
+
+Technological disruption and the potential for disintermediation in the
+traditional travel agency business.
+
+Acquisitive strategy partially mitigates disintermediation risk.
+
+Event risk related to contagious illness, violence, extreme weather, and
+terrorism.
+Limited geographic and business diversity compared with other global leisure
+companies.
+Pro forma for acquisitions, adjusted leverage to be close to our 5x downgrade
+threshold through 2019.
+
+We expect that pro forma for acquisitions, operating lease-adjusted debt to EBITDA will be close to our 5x downgrade
+threshold through the end of 2019. Although adjusted leverage exceeded 5x at the end of 2018, we expect significant
+EBITDA growth in 2019 as Travel Leaders Group LLC (TLG) benefits from recent acquisitions, including UK-based
+meeting and event management firm YES in 2019 and hotel wholesaler Bonotel Exclusive Travel in 2018. EBITDA will
+also benefit from the company's cost cutting initiatives as TLG completes IT investments that will standardize
+programs (like its new financial reporting program) among each of its travel agency acquisitions and enable it to
+reduce headcount through 2020. Although this would improve leverage to just below our 5x downgrade threshold, we
+are retaining our negative outlook to reflect the continued weakness in this measure. We could revise the outlook to
+stable if the company is able to deleverage to comfortably less than 5x. However, if further acquisitions lead to greater
+leverage, we could lower our rating.
+TLG's acquisitive strategy has widened service offerings, partially mitigating technology and disintermediation risk.We
+view technological disruption and the potential for disintermediation in the traditional travel agency business as key
+risk factors because we think that it continues to get easier for consumers to book travel online. However, TLG's
+strategy to acquire scale drives higher volumes to key suppliers and an increasing breadth of services to consumers.
+We believe this partially mitigates the disintermediation risk, and can help preserve margin despite the associated
+integration risk.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Travel Leaders Group LLC
+
+The travel industry is heavily dependent on discretionary consumer and corporate travel spending, and as such, TLG
+incurs high selling, general and administrative (SG&A) costs to remain competitive. TLG operates in the highly
+competitive and fragmented travel industry, providing travel services directly to clients in the premium corporate and
+luxury leisure segment. The high degree of competition within the industry requires TLG to spend heavily on SG&A,
+which could continue to constrain margins, especially during an economic downturn. SG&A as a percentage of
+revenue has grown annually for the past five years. However, we anticipate that this trend could reverse as the
+company rolls out its new financial reporting platform, which should enable reduced technology headcount and
+spending through 2020. However, we think that the fragmented nature of the industry would limit TLG's pricing power
+if travel volumes fell.
+
+Outlook: Negative
+
+The negative outlook reflects our expectation that the incremental debt to fund the acquisition of Bonotel,
+combined with higher than previously expected SG&A costs, will result in leverage near our 5x downgrade
+threshold over the next year. We expect TLG will continue to be acquisitive, and additional debt-funded
+acquisitions or cost overruns could result in our measure of total adjusted leverage to exceed 5x over the
+intermediate term.
+
+Downside scenario
+We could lower the rating if TLG makes additional large debt-financed acquisitions, or if it cannot manage costs
+while successfully integrating acquired businesses, such that we believe the company will sustain adjusted leverage
+exceeding 5x.
+
+Upside scenario
+We could revise our outlook on the rating to stable if we believe TLG can maintain leverage of less than 5x, likely
+the result of good cost management and funding future acquisitions without increasing leverage. Higher ratings are
+unlikely at this time, because we believe TLG will utilize leverage capacity for future acquisitions. However, we
+could raise the rating if we are confident that the company will maintain leverage of less than 3.5x, incorporating
+the potential future acquisitions and shareholder returns.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Travel Leaders Group LLC
+
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP grows 2.5% in 2019 and 1.8% in 2020;
+• Consumer spending grows 2.5% in 2019, and 2.0%
+in 2020;
+• Real GDP and consumer spending growth will
+support increases in TLG commission revenue
+because of a willingness of the consumer to spend
+on travel;
+• Revenue grows in the mid- to high- single digit
+percent range in 2019, driven by low- to mid- single
+digit percent organic revenue growth and the impact
+of recent acquisitions;
+
+2018A
+
+2019E
+
+2020E
+
+Adjusted debt/EBITDA (x)
+
+6.0
+
+High- 4
+
+Mid- 4
+
+Adjusted FFO/debt (%)
+
+9.9 High- teens Low-20
+
+Adjusted EBITDA coverage of interest (x)
+
+2.4
+
+3
+
+Mid- 3
+
+*2018A is not pro forma for acquisitions.
+A--Actual. E—Estimate
+
+• Absent further acquisitions, we expect EBITDA to
+grow in the low- to mid- teen percent range in 2019,
+as a result of revenue growth and cost savings
+initiatives;
+• For 2020, we preliminarily expect organic revenue
+to grow in the low- to mid- single digit percent
+range, which coupled with modest margin
+improvement from continued cost savings from the
+rollout of its new financial reporting platform, would
+drive EBITDA growth in the mid- to high- single
+digit percent range; and
+• About $100 million of total acquisitions in 2019, with
+an expectation of at least another $150 million in
+acquisitions annually thereafter. We have assumed
+in our base case forecast that the company
+completes acquisitions at a 6x EBITDA multiple on
+average, and that it funds the transactions with 50%
+debt and 50% cash flow.
+
+Base-case projections
+Our base-case forecast incorporates incremental debt to fund future acquisitions.We assume TLG will continue to
+make tuck-in acquisitions going forward, and that these acquisitions will be at least partially debt-funded. Therefore,
+we incorporate into our base-case measures an assumed level of debt and EBITDA contribution from these
+acquisitions. The company's 2018 acquisition of hotel wholesaler Bonotel Exclusive Travel was larger than average for
+TLG, and nearly entirely debt-funded. However, we believe that TLG typically makes moderate-sized acquisitions and
+funds them with debt plus a mix of available cash and cash flow. We have assumed in our base case forecast that the
+company completes acquisitions at a 6x EBITDA multiple on average, and that it funds the transactions with 50% debt
+and 50% cash flow.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Travel Leaders Group LLC
+
+Ongoing investments could drive margin improvement. In 2018, the company initiated improvements to its digital
+marketing, technology, and finance infrastructure, which increased SG&A and capital spending. The company expects
+to roll out these updated systems starting in the second half of 2019 and in 2020. We anticipate margin improvement
+through 2020 as the company begins to benefit from these initiatives, and TLG should be able to reduce headcount in
+these areas.
+
+Company Description
+TLG is a travel agency organization operating under a variety of divisions and brands. Through some 6,000 travel
+agencies and more than 40,000 commission-based travel agents, the company focuses on high-end corporate and
+luxury leisure travel.
+
+Business Risk: Weak
+Besides being reliant on discretionary spending, TLG is exposed to event risk related to contagious illness, violence,
+extreme weather, or terrorism that can lower travel volumes. In addition, the company has limited geographic and
+business diversity compared with those of other global leisure companies. TLG's solid position in the niche high-end
+corporate and luxury leisure travel segment, as well as its good relationships with affluent clients and its suppliers
+(including airlines, hotels, and cruise lines) partially mitigate these factors.
+We view TLG's strategic marketing agreement with American Express favorably. The five-year contract provides for a
+minimum level of annual payments to TLG from American Express. In return, TLG's travel agents will have the
+opportunity to help expand distribution of American Express credit cards and fulfill travel bookings for some American
+Express customers, among other benefits. Overall, we believe the agreement is a credit positive for TLG, due to the
+fixed minimum payments from American Express and the potential for additional EBITDA if TLG achieves certain
+performance targets. However, there is some execution risk for TLG that makes us uncertain whether the contracted
+payments will recur beyond the initial five-year period.
+
+Financial Risk: Aggressive
+Our financial risk profile reflects our expectation that pro forma for acquisitions, adjusted debt to EBITDA will improve
+to the high- 4x area in 2019, and the mid- 4x area in 2020. EBITDA interest coverage will likely be good, exceeding 3x
+through 2020.
+
+Liquidity: Adequate
+We view TLG's liquidity as adequate. We expect sources of liquidity to exceed uses by 1.2x over the next 12 months,
+even if EBITDA were to underperform our forecast by 15%. We also expect TLG to remain in compliance with its
+maximum total net leverage ratio covenant under its revolving credit facility, even if EBITDA were to underperform
+our forecast by 15%. TLG has no meaningful debt maturities until 2022 when the $50 million revolver matures. We
+believe TLG has sound relationships with its banks, and is committed to maintaining adequate liquidity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Travel Leaders Group LLC
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Availability under the $50 million revolver;
+
+• Capital expenditures of about 3% of revenue in
+2019, slightly moderating as the company completes
+its new IT projects;
+
+• Unrestricted cash on hand of $66 million as of June
+2019; and
+• Growth in cash flow from operations due to
+acquisitions and modest working capital needs.
+
+• Potential acquisitions in 2019 and 2020. Tuck-in
+acquisitions to be funded with cash on hand, and
+larger acquisitions are likely to be at least partially
+funded with additional term loan borrowings;
+• Annual amortization payments of 1% under the
+senior secured term loan; and
+• Small dividends to members, equal to their
+estimated tax liabilities, per TLG's limited liability
+corporation structure.
+
+Covenant Analysis
+Compliance expectations
+TLG is subject to a maximum net leverage covenant of 4.5x, which springs when its revolver draw exceeds 35% of the
+total commitment. We expect the company to remain in compliance with said covenant even if EBITDA were to
+decline 15% below expectations.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our issue-level rating on TLG's senior secured debt is 'B+'. The senior secured credit facility consists of the $50
+million cash flow revolver due 2022 and the $627 million term loan due 2024. The recovery rating is '3', which
+indicates our expectation for meaningful recovery (50% to 70%; rounded estimate 50%) in a payment default.
+• Our simulated default scenario contemplates a default in 2023, primarily because of a cyclical decline in the overall
+travel demand. We assume a reorganization following the default, using an emergence EBITDA multiple of 5.5x to
+value the company, due to highly variable travel patterns over the economic cycle—partially offset by TLG's
+exposure to wealthy clients.
+• We assume a hypothetical default in 2023 would be preceded by American Express opting not to renew its strategic
+agreement with TLG when the contract ends in 2022. Therefore, our emergence valuation does not incorporate any
+value from that agreement.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Travel Leaders Group LLC
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Year of default: 2023
+
+• Emergence EBITDA: $67 million
+
+• EBITDA at emergence: $67 million
+
+• Multiple: 5.5x
+
+• EBITDA multiple: 5.5x
+
+• Gross recovery value: $366 million
+
+• Cash flow revolver: 85% drawn at default
+
+• Net recovery value for waterfall after administrative
+expenses (5%): $348 million
+• Obligor/nonobligor valuation split: 95%/5%
+• Estimated secured debt: $666 million
+• Value available for first-lien claim: $342
+• —Recovery expectation: 50%-70% (rounded
+estimate: 50%)
+All debt amounts include six months of prepetition
+interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Negative/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Travel Leaders Group LLC
+
+Stand-alone credit profile : b+
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 20, 2019)*
+Travel Leaders Group LLC
+Issuer Credit Rating
+
+B+/Negative/--
+
+Senior Secured
+
+B+
+
+Issuer Credit Ratings History
+07-Aug-2018
+
+B+/Negative/--
+
+24-Mar-2015
+
+B+/Stable/--
+
+09-Dec-2014
+
+BB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Travel Leaders Group LLC
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+

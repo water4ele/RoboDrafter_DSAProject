@@ -1,0 +1,1350 @@
+Six Flags Entertainment Corp.
+Primary Credit Analyst:
+Justin D Gerstley, CFA, New York (1) 212-438-1890; justin.gerstley@spglobal.com
+Secondary Contacts:
+Emile J Courtney, CFA, New York (1) 212-438-7824; emile.courtney@spglobal.com
+Daniel Giambrone, New York + 1 (212) 438 8229; daniel.giambrone@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Six Flags Entertainment Corp.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good geographic diversity, which can help mitigate the negative
+impact of inclement weather.
+
+Reliance on consumer discretionary spending, which can be volatile
+over the economic cycle.
+
+Significant barriers to entry in the market due to the high cost of
+developing a theme park near a desirable population center.
+
+A high level of seasonality, which can magnify the effect of extreme
+weather events and unexpected sales missteps when they occur.
+
+High EBITDA margin and relatively low volatility of profitability
+compared with that of other rated companies in the leisure sector.
+
+International projects make the company vulnerable to additional
+operational and reputational risks.
+
+Focus on membership program should help hedge against weather and
+seasonality risks.
+
+Continued growth of Six Flags' membership program has helped the company reduce exposure to seasonality risk.The
+introduction of the company's multitiered membership program in 2018 caused a shift in Six Flags' customer base, as
+some are opting for membership rather than season passes. The number of memberships is up 25% over the second
+quarter in 2018. We expect membership to continue to rise and for churn to be relatively low because unlike season
+passes, Six Flags does not need to resell the membership to customers after the initial year ends. Six Flags also
+recognizes membership revenue monthly (beginning in the second year of a customer's membership). The program
+probably will modestly smooth cash flow during the seasonally weak quarters.
+Because the parks are outdoors, regional operators face the ongoing challenge of cold weather. In addition, the parks
+generate the vast majority of annual EBITDA during the second and third quarters when schools are out of session,
+though the revenue generated in the seasonally strongest quarter as a percentage of annual revenue has declined over
+time. We also believe the use of the Six Flags brand at all of the company's parks facilitates the membership program
+and could give the company a slight advantage over peer Cedar Fair's season pass program. Cedar Fair's parks are
+individually branded, which likely led to the company's decision not to offer a membership program.
+High-margin international licensing deals have the potential to support EBITDA growth; however, delays are
+widespread, and the risk of an accident at an international park not operated by Six Flags could cause brand damage
+to the U.S. parks. Six Flags receives fees for design and development as internationally licensed parks are built, and it
+will receive a percentage of revenue in return for the use of its brand and management services when the parks open
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Six Flags Entertainment Corp.
+
+overseas. However, earlier this year, the Six Flags theme park development in Dubai was discontinued when
+development partner DXB Entertainments PJSC decided not to go forward with Phase 2 of the larger planned
+multi-park project (which included a Six Flags-branded park). This was because the first phase was not achieving
+adequate attendance and was losing money, and the developer no longer deemed the construction of a Six Flags park
+as part of Phase 2 a viable use of capital.
+Six Flags has four planned parks in Nanjing, China, where construction has been halted until Six Flags' development
+partner can reaffirm government approvals to continue construction and eventually operate. However, eight parks in
+Qiddiya, Saudi Arabia, and in Haiyan and Chongqing, China, are still under construction. The company expects it will
+finalize government approvals to operate the two China locations in the near future. Although these development
+projects could eventually generate reliable, high-margin revenue streams, the timing of completion for a number of
+developments is uncertain. On top of this, we believe the involvement of outside operators of Six Flags-branded parks
+could bring potential safety and reputational risks in the event outside operators fail to follow the same high-quality
+safety standards that Six Flags implements in the U.S. This could negatively affect the company's good brand
+reputation in the U.S.
+Six Flags' 26 North American parks provide good geographic diversity to mitigate against weather risks.The company
+continues to perform well, even while navigating one of the rainier years in its history. Six Flags has significant
+geographic diversity across North America, which helps moderate the negative impacts of inclement weather. The
+company also benefits from relatively high barriers to entry in the market due to the high cost of developing a theme
+park near a desirable population center.
+
+Outlook: Stable
+
+The stable outlook reflects the expectation that good anticipated operating performance and strong liquidity will
+offset potential future incremental debt to return capital to shareholders, such that adjusted debt to EBITDA will be
+3.5x-4.0x and funds from operations (FFO) to debt will be 20%-25% through 2020.
+
+Downside scenario
+We could lower the rating if we expect operating performance to materially deteriorate, or if Six Flags undertook a
+debt-financed shareholder distribution that would drive adjusted debt to EBITDA sustainably above 4x.
+
+Upside scenario
+A higher rating is unlikely at this time, as we believe management will continue to return capital to shareholders in
+a manner that sustains leverage at 3x-4x. We could consider a one-notch upgrade if we became confident Six Flags
+would sustain leverage at about 3x or lower.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Six Flags Entertainment Corp.
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020;
+• Growth in U.S. consumer spending of 2.5% in 2019
+and 2.0% in 2020;
+• An average unemployment rate of 3.6% in 2019 and
+2020;
+• We expect consumer spending growth--combined
+with capital investment in new and refreshed rides,
+continued uptake of multitiered membership
+offerings, the acquisition of new parks, and the
+benefit of 365-day operation at the Magic Mountain
+theme park--will drive a mid-single-digit percent
+increase in attendance in both 2019 and 2020;
+
+2018A
+Adjusted debt/EBITDA (x)
+
+2019E
+
+2020E
+
+4.1 3.5-4.0 3.5-4.0
+
+Adjusted FFO/debt (%)
+Adjusted EBITDA coverage of interest (x)
+
+18.3
+
+20-25
+
+20-25
+
+4.7
+
+5
+
+5
+
+A--Actual. E—Estimate.
+
+• In-park spending per capita likely increases in the
+low-single-digit percentage area annually through
+2020 as the company continues to increase the mix
+of season pass and membership attendance.
+Although members may receive free parking and
+other discounts on items in the park, they visit more
+frequently and have higher overall in-park spending
+than nonmembers. This is reinforced by the
+increased penetration of the park operator's
+all-season dining program.
+• Season passholders and members typically attend
+parks more frequently than single-day ticket guests,
+depressing admissions per capita growth in the
+low-single-digit- percentage area annually through
+2020.
+• This translates to total revenue growth in the
+mid-single digits annually through 2020.
+• EBITDA margin remains flat in 2019 despite the
+improvement in revenue, as the company has
+experienced increased costs related to off-season
+expenses and rebranding from the parks acquired in
+June of last year, including Six Flags Darien Lake,
+Splashtown Houston, Wet n' Wild Phoenix, Frontier
+City and White Water Bay in Oklahoma City, and
+Magic Waters in Rockford, Ill. The company also
+faces some incremental headwinds due to
+minimum-wage increases in certain markets.
+Preliminarily, we anticipate adjusted EBITDA
+margin expanding into the low-40% area in 2020
+due to the company's growth in its high-margin
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Six Flags Entertainment Corp.
+
+international licensing business, and as the company
+increases attendance and revenues faster on what is
+a largely fixed cost structure. As a result, EBITDA
+grows in the mid-single-digit percentages in 2019
+and the high single digits in 2020.
+• Six Flags uses all excess cash flow for dividends and
+share repurchases.
+
+Base-case projections
+We anticipate continued revenue growth in the next few years. Following the implementation of Six Flags new
+multitiered membership program in 2018, we expect growth to be primarily driven by increasing its number of
+members, who are signing up for higher-tiered plans than previously offered through the season pass program, and
+acquisitions.
+EBITDA growth is supported by expanding revenue faster than the company's high fixed-cost structure. The company's
+international licensing agreements are asset light and high margin, though there are underlying risks that come with
+development involving outside partners.
+
+Company Description
+Six Flags Entertainment Corp. owns and operates regional theme and water parks under the Six Flags brand name.
+The company's parks offer various thrill rides, water attractions, themed areas, concerts and shows, restaurants, game
+venues, and retail outlets. It owns and operates 26 parks, including 23 parks in the U.S.; two parks in Mexico; and one
+park in Montreal, Canada. The company also licenses its brand internationally, and to date it has signed agreements
+with partners for 12 parks in China and Saudi Arabia.
+
+Business Risk: Satisfactory
+We view the company's high EBITDA margin and low volatility of profitability compared with those of rated
+companies in the leisure sector favorably. Partially offsetting these factors is Six Flags' reliance on consumer
+discretionary spending, which can be volatile through economic cycles, and high competition in the leisure market for
+consumer discretionary time and income. In addition, high vulnerability to seasonality and weather-related risks for Six
+Flags' amusement parks compare unfavorably with that of other higher-rated entities in the leisure industry. This is due
+to Six Flags facing a compressed operating calendar, consistently generating most of its annual EBITDA during the
+second and third quarters. Because the parks are outdoors, together with the compressed operating calendar, the
+company faces higher susceptibility to weather than other leisure operators.
+However, Six Flags has made an effort to reduce the seasonality that weakens the business. Recently, the company
+expanded its Magic Mountain Park to a 365-day operating calendar and rolled-out holiday-themed events at additional
+parks. Six Flags has also been growing its membership pass base, which could help smooth cash flow into
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Six Flags Entertainment Corp.
+
+lower-EBITDA-producing operating quarters. The company has also continued to improve its geographic footprint in
+North America by acquiring five smaller parks in 2018. It has also increased its international exposure through
+asset-light, high-EBITDA-margin licensing agreements with partners in China and Saudi Arabia. Despite the current
+high margins in the licensing business, we believe there are potential safety and reputational risks. Some of the
+licensed parks should begin to open in 2020.
+
+Peer comparison
+Six Flags operates the largest number of parks among--st its closest ratings peers: Cedar Fair and SeaWorld. While
+both Six Flags and Cedar Fair operate the majority of their parks in cold winter climates, SeaWorld has a significant
+revenue concentration across the warmer climates of Florida, Texas, and California, making it the least exposed to
+seasonality of the three peers. SeaWorld, however, has the highest leverage and is still recovering from its reputational
+issues. We view Cedar Fair to be the most susceptible to seasonality risk of the three, given its higher concentration of
+parks in cold climates. On top of this, Six Flags has been focusing on its year-round membership program, while Cedar
+Fair is continuing to focus on season passes. Cedar Fair is also taking on additional debt to fund several acquisitions,
+which will bring the company's leverage slightly higher than that of Six Flags, in the low-4x area.
+Table 1
+
+Six Flags Entertainment Corp.--Peer Comparison
+Industry sector: Leisure operators
+Six Flags Entertainment Corp. Cedar Fair L.P.
+Ratings as of July 17, 2019
+
+BB/Stable/--
+
+SeaWorld Parks & Entertainment Inc.
+
+BB/Negative/--
+
+B+/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+1,463.7
+
+1,348.5
+
+1,372.3
+
+EBITDA
+
+564.8
+
+476.1
+
+383.6
+
+Funds from operations (FFO)
+
+425.1
+
+344.5
+
+286.0
+
+Interest expense
+
+119.5
+
+100.5
+
+95.3
+
+Cash interest paid
+
+109.7
+
+89.4
+
+96.8
+
+Cash flow from operations
+
+418.7
+
+351.5
+
+295.7
+
+Capital expenditure
+
+135.6
+
+187.0
+
+175.6
+
+Free operating cash flow (FOCF)
+
+283.0
+
+164.6
+
+120.1
+
+Discretionary cash flow (DCF)
+
+(95.0)
+
+(47.1)
+
+17.8
+
+44.6
+
+105.9
+
+34.1
+
+Debt
+
+2,321.6
+
+1,637.9
+
+1,690.1
+
+Equity
+
+(117.8)
+
+32.4
+
+265.2
+
+EBITDA margin (%)
+
+38.6
+
+35.3
+
+28.0
+
+Return on capital (%)
+
+22.8
+
+18.4
+
+10.1
+
+EBITDA interest coverage (x)
+
+4.7
+
+4.7
+
+4.0
+
+FFO cash interest coverage (x)
+
+4.9
+
+4.9
+
+4.0
+
+Debt/EBITDA (x)
+
+4.1
+
+3.4
+
+4.4
+
+FFO/debt (%)
+
+18.3
+
+21.0
+
+16.9
+
+Cash flow from operations/debt (%)
+
+18.0
+
+21.5
+
+17.5
+
+Cash and short-term investments
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Six Flags Entertainment Corp.
+
+Table 1
+
+Six Flags Entertainment Corp.--Peer Comparison (cont.)
+Industry sector: Leisure operators
+Six Flags Entertainment Corp. Cedar Fair L.P.
+
+SeaWorld Parks & Entertainment Inc.
+
+FOCF/debt (%)
+
+12.2
+
+10.0
+
+7.1
+
+DCF/debt (%)
+
+(4.1)
+
+(2.9)
+
+1.1
+
+Financial Risk: Significant
+Our financial risk profile reflects our expectation for adjusted debt to EBITDA to remain at 3.5x-4x, and FFO to debt to
+improve to 20%-25% through 2020. Even though we anticipate the company's park portfolio will generate EBITDA
+growth that would otherwise result in improving leverage, the company has historically raised debt and utilized all
+excess cash flow to fund shareholder returns in a manner that maintains debt to EBITDA at 3x-4x.
+
+Financial summary
+Table 2
+
+Six Flags Entertainment Corp.--Financial Summary
+Industry sector: Leisure operators
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+1,463.7
+
+1,359.1
+
+1,319.4
+
+1,263.9
+
+1,175.8
+
+EBITDA
+
+564.8
+
+524.1
+
+510.9
+
+484.2
+
+441.9
+
+Funds from operations (FFO)
+
+425.1
+
+407.6
+
+419.2
+
+394.2
+
+354.4
+
+Interest expense
+
+119.5
+
+105.8
+
+87.6
+
+80.4
+
+76.7
+
+Cash interest paid
+
+109.7
+
+102.1
+
+74.5
+
+75.0
+
+70.8
+
+Cash flow from operations
+
+418.7
+
+447.7
+
+465.1
+
+476.0
+
+394.8
+
+Capital expenditure
+
+135.6
+
+135.2
+
+129.4
+
+114.4
+
+108.7
+
+(Mil. $)
+
+Free operating cash flow (FOCF)
+
+283.0
+
+312.5
+
+335.7
+
+361.6
+
+286.1
+
+Discretionary cash flow (DCF)
+
+(95.0)
+
+(414.1)
+
+(96.3)
+
+(84.5)
+
+(93.6)
+
+44.6
+
+77.5
+
+137.4
+
+99.8
+
+73.9
+
+Cash and short-term investments
+Gross available cash
+
+44.6
+
+77.5
+
+137.4
+
+99.8
+
+73.9
+
+Debt
+
+2,321.6
+
+2,075.1
+
+1,690.9
+
+1,551.0
+
+1,429.2
+
+Equity
+
+(117.8)
+
+(10.7)
+
+299.4
+
+459.9
+
+661.4
+
+EBITDA margin (%)
+
+38.6
+
+38.6
+
+38.7
+
+38.3
+
+37.6
+
+Return on capital (%)
+
+Adjusted ratios
+
+22.8
+
+21.4
+
+14.2
+
+15.5
+
+9.0
+
+EBITDA interest coverage (x)
+
+4.7
+
+5.0
+
+5.8
+
+6.0
+
+5.8
+
+FFO cash interest coverage (x)
+
+4.9
+
+5.0
+
+6.6
+
+6.3
+
+6.0
+
+Debt/EBITDA (x)
+
+4.1
+
+4.0
+
+3.3
+
+3.2
+
+3.2
+
+FFO/debt (%)
+
+18.3
+
+19.6
+
+24.8
+
+25.4
+
+24.8
+
+Cash flow from operations/debt (%)
+
+18.0
+
+21.6
+
+27.5
+
+30.7
+
+27.6
+
+FOCF/debt (%)
+
+12.2
+
+15.1
+
+19.9
+
+23.3
+
+20.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Six Flags Entertainment Corp.
+
+Table 2
+
+Six Flags Entertainment Corp.--Financial Summary (cont.)
+Industry sector: Leisure operators
+--Fiscal year ended Dec. 31--
+
+DCF/debt (%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(4.1)
+
+(20.0)
+
+(5.7)
+
+(5.4)
+
+(6.5)
+
+Liquidity: Strong
+We assess Six Flags' liquidity as strong. We expect that sources of liquidity will exceed uses over the next 12-18
+months, even if EBITDA underperforms our forecast by 30%. In addition, we expect the company to sustain a good
+cushion compared to maximum senior leverage covenant levels in its credit facility. We also expect the company will
+likely be able to absorb high-impact, low-probability events without the need for refinancing. We also believe the
+company will maintain strong liquidity.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash on hand of $114 million as of June 30, 2019;
+
+• Capital expenditures of about $140 million in 2019,
+growing slightly in 2020;
+
+• Full availability under the $350 million revolving
+credit facility as of June 30, 2019; and
+• Our expectation for cash flow from operations of
+about $520 million in 2019 and about $540 million in
+2020.
+
+• We have assumed dividends of approximately $275
+million in 2019, which we expect to grow in line with
+cash flow; and
+• Share repurchases utilizing all remaining excess cash
+flow.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our 'BBB-' issue-level rating and '1' recovery rating on Six Flags' $350 million senior secured revolving credit facility
+due in 2024 and $800 million senior secured term loan due in 2026 indicate our expectation for very high
+(90%-100%; rounded estimate: 95%, capped) recovery for lenders in case of payment default.
+• Our 'BB-' issue-level rating and '5' recovery rating on Six Flags' $1 billion senior unsecured notes due in 2024 and
+$500 million senior unsecured notes due in 2027 indicates our expectation for modest (10%-30%; rounded estimate:
+20%) recovery for lenders in the event of a payment default.
+• Our simulated scenario contemplates a default in 2024 driven by a severe economic downturn and tighter consumer
+credit markets, as well as an overall decline in consumer discretionary spending, resulting in substantially reduced
+demand for Six Flags' memberships and ticket sales.
+• We assume a reorganization following the default, using an emergence EBITDA multiple of 6.5x (consistent with the
+multiples we use for other theme park operators) to value the company.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Six Flags Entertainment Corp.
+
+Simulated default assumptions
+• Year of default: 2024
+• EBITDA at emergence: $234.3 million
+• EBITDA multiple: 6.5x
+
+Simplified waterfall
+• Emergence EBITDA: $234.3 million
+• EBITDA multiple: 6.5x
+• Gross recovery value: $1.52 billion
+• Net recovery value (after 5% administrative costs): $1.45 billion
+• Obligor/non-obligor valuation split: 87%/13%
+• Estimated secured claims: $1.1 billion
+• Value available for secured claims: $1.3 billion
+• --Recovery expectations: 90%-100% (rounded estimate: 95%, capped)
+• Estimated senior unsecured claims: $1.538 billion
+• Value available for unsecured claims: $162 million
+• --Recovery expectations: 10%-30% (rounded estimate: 20%)
+All debt amounts include six months' pre-petition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Six Flags Entertainment Corp.'s Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Six Flags Entertainment Corp.'s reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+2,106.5
+
+(643.1)
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+640.2
+
+524.5
+
+108.0
+
+564.8
+
+413.1
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(30.0)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(98.3)
+
+--
+
+232.9
+
+--
+
+17.0
+
+11.4
+
+11.4
+
+(11.4)
+
+5.5
+
+13.4
+
+--
+
+(5.6)
+
+(5.6)
+
+--
+
+--
+
+--
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Six Flags Entertainment Corp.
+
+Table 3
+
+Reconciliation Of Six Flags Entertainment Corp.'s Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $) (cont.)
+Accessible cash and liquid
+investments
+
+(44.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+(46.7)
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+(2.7)
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+525.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+13.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+(40.0)
+
+(40.0)
+
+--
+
+--
+
+--
+
+Total adjustments
+
+215.1
+
+525.3
+
+(75.4)
+
+(36.9)
+
+11.4
+
+(139.7)
+
+5.5
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+425.1
+
+418.7
+
+Debt: Other
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+2,321.6
+
+(117.8)
+
+564.8
+
+487.6
+
+119.5
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bb
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Six Flags Entertainment Corp.
+
+Related Criteria
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+Six Flags Entertainment Corp.
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Unsecured
+
+BB-
+
+Issuer Credit Ratings History
+30-Nov-2011
+
+BB/Stable/--
+
+23-Nov-2011
+
+BB-/Watch Pos/--
+
+24-Feb-2011
+
+BB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+

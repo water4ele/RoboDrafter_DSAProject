@@ -1,0 +1,1586 @@
+United Rentals Inc.
+Primary Credit Analyst:
+Olya Naumova, New York + 1 (212) 438 0209; olya.naumova@spglobal.com
+Secondary Contact:
+Svetlana Olsha, CFA, New York (1) 212-438-1467; svetlana.olsha@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 1
+
+United Rentals Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Largest North American equipment rental provider with a national branch
+footprint.
+
+Exposed to highly cyclical nonresidential construction and
+industrial spending.
+
+Significant scale provides strong bargaining power over suppliers and
+vendors.
+
+High capital expenditure forecast at about 14% to 16% of revenues
+per year.
+
+Diversified customer base and product range help somewhat reduce
+performance volatility.
+
+Execution risks related to recent large acquisitions.
+
+Track record of maintaining leverage within its target levels, despite sizable
+share repurchases.
+
+Credit measures subject to volatility during periods of stress.
+
+Several factors should enable United Rentals Inc. (URI) to build on its leading market share. S&P Global Ratings
+expects the rental equipment industry to remain generally favorable over the next 12-24 months as modest economic
+expansion and historical underinvestment in infrastructure support continued spending in industrial and nonresidential
+construction sectors. We also expect the benefits of renting the equipment, such as having the right equipment for
+varying projects, capital conservation, and no need for equipment maintenance, to outweigh the costs of ownership for
+customers, especially for large national or multiregional projects.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 2
+
+United Rentals Inc.
+
+Chart 1
+
+We expect URI's credit metrics to improve in fiscal 2019 despite increasing share repurchases. URI's financial policy has
+moderated in 2019 to allow for the integration of BlueLine and BakerCorp in 2018 and to better position the company
+for any potential economic slowdown. Specifically, earlier in 2019 URI tightened its target net debt-to-EBITDA ratio by
+half a turn to the 2x-3x range over the cycle and has a track record of maintaining leverage within its target range. We
+expect no large acquisitions over the next 12 months and believe the company will direct the majority of its free
+operating cash flow (FOCF) towards shareholder returns. We expect adjusted leverage to approach mid-2x by fiscal
+year-end 2019 as the company grows EBITDA by a high-teen percentage and maintains sufficiently large cash
+balances.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 3
+
+United Rentals Inc.
+
+Chart 2
+
+Outlook: Stable
+
+The stable outlook reflects our expectation for solid demand growth, improving equipment rental pricing, and
+steady utilization, and for the company to continue to focus on cost and capital management. This should enable
+URI to improve its leverage to the mid-2x area over the next 12 months, which provides a cushion of about 1x to
+absorb the potential volatility in its EBITDA over the economic cycle and the high degree of capital intensity in its
+industry. We also expect the company to continue to make financial policy decisions--particularly those related to
+share repurchases and future acquisitions--that enable it to sustain this level of leverage over the next 12 months.
+
+Downside scenario
+We could lower the rating if we expect the company to experience a significant decline in end-market demand,
+while sustaining high levels of capital investment that results in leverage increasing and sustaining above 3x. We
+could also lower the rating if the company completes significant share repurchases or debt-funded acquisitions that
+result in the same level of leverage.
+
+Upside scenario
+Although unlikely over the next 12 months, we could raise our rating if we expect the company's debt to EBITDA
+to improve to below 2x in an upcycle while balancing capital investments with cash flow generation. Under this
+scenario, we would also need to be confident that the company's financial policies were aligned with this level of
+leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 4
+
+United Rentals Inc.
+
+Our Base-Case Scenario
+Assumptions
+
+• Long-term demand trends for the equipment rental
+industry in North America are generally positive due
+to relatively lower rental penetration rates in the
+U.S. compared to other developed markets. The
+economics of renting continue to compare favorably
+to those of owning as renting allows customers to
+adjust their fleet to match cyclical end-market
+demand. We expect the equipment rental industry to
+experience stable profitability in 2019, as the supply
+and demand of equipment remain balanced and
+rental rates remain steady or modestly improve.
+
+Key Metrics
+
+Based on these assumptions, we arrive at the following
+credit measures:
+• Debt to EBITDA in the mid-2x area through 2020.
+• FOCF to debt in the 12%-17% range through 2020.
+• Funds from operations (FFO) to debt in the
+30%-35% range through 2020.
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+• Nonresidential structures investment declines by
+1.4% in 2019 and grows by 1.9% in 2020.
+• We expect URI's revenue to increase in the
+mid-teens percentage area in 2019 and in the low- to
+mid-single-digit percentage range in 2020. We
+expect revenue growth to exceed GDP and
+nonresidential construction growth (particularly in
+2019) via improved pricing and sustained equipment
+utilization, as well as benefits from its recent
+acquisitions.
+• URI continues to generate adjusted EBITDA
+margins in the 50% area through 2020, supported by
+the company's economies of scale and continued
+realization of cost efficiencies.
+• The company will make net capital expenditures
+(capex) of about $1.4 billion-$1.5 billion in 2019,
+which we expect will moderate slightly in 2020.
+• The company will maintain a balanced approach to
+internal investment, acquisitions, and share
+repurchases.
+
+Base-case projections
+Improving operating results and better working capital management should generate solid levels of free operating cash
+flow in 2019. Our forecast includes modest EBITDA margin expansion in 2019 of about 100 basis points as the
+company reinvests most productivity gains and cost savings into the business and achieves (although with delays)
+acquisition integration benefits. We also believe URI can leverage its scale and improving sales performance to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 5
+
+United Rentals Inc.
+
+achieve payment agreements with its suppliers that are more advantageous. These drivers should result in in annual
+cash flow generation of about $1.5 billion in 2019 and in excess of $1.8 billion in 2020. Our view of the company's free
+operating cash flow generation is supported by the assumption that the company's relatively young equipment fleet,
+with average age of about four years, will allow URI to cut back on its capital spending and generate sustained levels of
+FOCF in an industry downturn.
+Downside risks to our forecast include a slowing U.S. economy, greater competition, and delayed integration of
+acquisitions that closed in 2018. The rental equipment industry has benefited in recent years from strong economic
+growth in the U.S. and healthy nonresidential and industrial construction activity. However, we believe the near-term
+risk of increased global trade tensions is casting a shadow on the U.S. economy and financial market conditions. URI
+should be able to maintain its gross and EBITDA margins due to its strong relationships with suppliers and because we
+expect it will sustain its fleet utilization rates (particularly with key national and regional accounts) due to its strong
+geographic reach. However, long-term risks around volumes remain if competition intensifies and global economic
+conditions weigh on capital investment decisions of large U.S. corporate customers.
+
+Company Description
+With more than $8 billion of revenues and about 13% North American market share, URI is the largest equipment
+rental company in the world, operating primarily in the U.S. and Canada. The company's core equipment rental
+revenues represent about 86% of overall revenues. URI also generates revenues from sales of new and used
+equipment, supplies, and other services.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 6
+
+United Rentals Inc.
+
+Chart 3
+
+Business Risk: Fair
+URI maintains its no. 1 market position as the largest equipment rental company in the U.S., with over $9 billion of
+total revenue forecasted for 2019. The company operates in the highly competitive and fragmented equipment rental
+industry and is exposed to highly cyclical end-markets (such as construction, industrial, and infrastructure), which we
+believe can limit customer stickiness and pricing power. Still, we believe URI's scale and broad range of products and
+services gives it some ability to match cyclical end-market demand, as well as enhance its purchasing power with
+suppliers. We expect the company to continue to be a consolidator within its industry, as evidenced by its 2018
+acquisitions of BlueLine and BakerCorp, which comes with some integration risk. Still, we expect URI to manage the
+integration of any future acquisitions so that it maintains its strong adjusted EBITDA margins of around 50%, which we
+view as above average compared to equipment rental peers.
+
+Peer comparison
+We compare URI to the following peers in the equipment rental industry:
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 7
+
+United Rentals Inc.
+
+Table 1
+
+United Rentals Inc. -- Peer Comparison
+Industry Sector: Capital Equipment Rental
+
+United Rentals Inc.
+
+Ashtead Group PLC
+
+H&E Equipment
+Services Inc.
+
+HERC Holdings
+Inc.
+
+BB/Stable/--
+
+BBB-/Stable/--
+
+BB-/Stable/--
+
+B+/Stable/--
+
+Ratings as of July 29, 2019
+
+--Fiscal year ended Dec.
+31, 2018--
+
+--Fiscal year ended April 30,
+2019--
+
+--Fiscal year ended Dec. 31, 2018--
+
+(Mil. $)
+Revenue
+
+8,047.0
+
+5,861.2
+
+1,239.0
+
+1,976.7
+
+EBITDA
+
+3,966.5
+
+2,867.7
+
+421.1
+
+697.5
+
+Funds from operations (FFO)
+
+3,465.0
+
+2,583.2
+
+347.2
+
+545.2
+
+Interest expense
+
+518.5
+
+230.8
+
+72.8
+
+146.6
+
+Cash interest paid
+
+492.5
+
+218.0
+
+71.6
+
+138.9
+
+Working capital changes
+
+(46.0)
+
+(50.7)
+
+(52.9)
+
+45.6
+
+Cash flow from operations
+
+2,992.0
+
+766.1
+
+259.1
+
+583.1
+
+Capital expenditure
+
+1,627.0
+
+219.7
+
+339.5
+
+576.7
+
+Free operating cash flow
+(FOCF)
+
+1,365.0
+
+546.3
+
+(80.4)
+
+6.4
+
+548.0
+
+(285.8)
+
+(121.0)
+
+5.3
+
+43.0
+
+16.7
+
+16.7
+
+27.8
+
+12,421.2
+
+5,436.0
+
+1,278.0
+
+2,446.7
+
+3,403.0
+
+3,647.9
+
+256.8
+
+572.7
+
+Annual revenue growth (%)
+
+21.2
+
+21.4
+
+20.3
+
+12.7
+
+EBITDA margin (%)
+
+49.3
+
+48.9
+
+34.0
+
+35.3
+
+Return on capital (%)
+
+Discretionary cash flow
+(DCF)
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+
+14.3
+
+19.8
+
+12.0
+
+7.3
+
+EBITDA interest coverage (x)
+
+7.6
+
+12.4
+
+5.8
+
+4.8
+
+FFO cash interest coverage
+(x)
+
+8.0
+
+12.8
+
+5.9
+
+4.9
+
+Debt/EBITDA (x)
+
+3.1
+
+1.9
+
+3.0
+
+3.5
+
+FFO/debt (%)
+
+27.9
+
+47.5
+
+27.2
+
+22.3
+
+Cash flow from
+operations/debt (%)
+
+24.1
+
+14.1
+
+20.3
+
+23.8
+
+FOCF/debt (%)
+
+11.0
+
+10.1
+
+(6.3)
+
+0.3
+
+4.4
+
+(5.3)
+
+(9.5)
+
+0.2
+
+DCF/debt (%)
+
+Ashtead Group is a U.K based equipment rental company catering to customers operating primarily across the
+industrial and construction end-markets. The company operates through its Sunbelt Rentals subsidiary in the U.S.
+market, and is the second largest equipment rental company in the U.S. Despite similar EBITDA margins, Ashtead's
+higher rating is supported by a more conservative balance sheet, with debt leverage of slightly below 2x.
+H&E Equipment Services (HEES) provides integrated equipment services in the U.S., including equipment rentals, new
+equipment sales, used equipment sales, parts sales, and repair and maintenance services, with a focus on heavy
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 8
+
+United Rentals Inc.
+
+construction and industrial equipment. URI generates a higher proportion of revenues from the high margin rental
+business and maintains a better margin profile.
+HERC Holdings Inc. is the third largest North American equipment rental provider in the fragmented equipment rental
+industry. URI has a larger scale, stronger margin profile, and lower debt leverage than HERC.
+
+Financial Risk: Significant
+URI maintains good credit measures, characterized by an adjusted debt-to-EBITDA ratio of 2.9x and FFO-to-debt ratio
+of slightly over 30% for the 12 months ended June 30, 2019. The company generates solid free operating cash flow,
+which should reach about $1.5 billion in 2019 and yield a free-cash-flow-to-debt ratio of 14%. We believe this level of
+cash flow generation provides management with capacity to prudently pursue bolt-on acquisitions and shareholder
+rewards while maintaining leverage in line with our expectations for the rating.
+Over the cycle, we expect URI to manage capital spending in a manner that allows it to generate consistently positive
+FOCF even while it invests in its fleet. Still, cash flows for equipment rental companies can behave in countercyclical
+manner. We expect that, in favorable market conditions, URI will generate strong profits but its FOCF to debt ratio can
+weaken because of the capital spending required to support growth. Conversely, we expect the company would curtail
+capex and sell equipment to reduce debt as an offset to lower earnings in cyclical downturns.
+
+Financial summary
+Table 2
+
+United Rentals Inc. -- Financial Summary
+Industry Sector: Capital Equipment Rental
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+8,047.0
+
+6,641.0
+
+5,762.0
+
+5,817.0
+
+5,685.0
+
+EBITDA
+
+3,966.5
+
+3,209.0
+
+2,879.0
+
+2,974.5
+
+2,822.5
+
+Funds from operations (FFO)
+
+3,465.0
+
+2,673.2
+
+2,336.3
+
+2,438.1
+
+2,234.9
+
+518.5
+
+442.8
+
+440.7
+
+475.4
+
+507.6
+
+Cash interest paid
+
+492.5
+
+387.8
+
+443.7
+
+476.4
+
+487.6
+
+Working capital changes
+
+(46.0)
+
+8.0
+
+116.0
+
+(92.0)
+
+(135.0)
+
+Cash flow from operations
+
+2,992.0
+
+2,349.2
+
+2,063.3
+
+2,100.1
+
+1,898.9
+
+Capital expenditure
+
+1,627.0
+
+1,339.0
+
+843.0
+
+1,098.0
+
+1,277.0
+
+Free operating cash flow (FOCF)
+
+1,365.0
+
+1,010.2
+
+1,220.3
+
+1,002.1
+
+621.9
+
+548.0
+
+954.2
+
+692.3
+
+213.1
+
+8.9
+
+Cash and short-term investments
+
+43.0
+
+352.0
+
+312.0
+
+179.0
+
+158.0
+
+Gross available cash
+
+43.0
+
+352.0
+
+312.0
+
+179.0
+
+158.0
+
+12,421.2
+
+9,716.2
+
+7,963.0
+
+8,486.0
+
+8,405.5
+
+3,403.0
+
+3,106.0
+
+1,648.0
+
+1,476.0
+
+1,796.0
+
+(Mil. $)
+
+Interest expense
+
+Discretionary cash flow (DCF)
+
+Debt
+Equity
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 9
+
+United Rentals Inc.
+
+Table 2
+
+United Rentals Inc. -- Financial Summary (cont.)
+Industry Sector: Capital Equipment Rental
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Annual revenue growth (%)
+
+21.2
+
+15.3
+
+(0.9)
+
+2.3
+
+14.7
+
+EBITDA margin (%)
+
+49.3
+
+48.3
+
+50.0
+
+51.1
+
+49.6
+
+Return on capital (%)
+
+Adjusted ratios
+
+14.3
+
+14.5
+
+15.1
+
+15.7
+
+14.9
+
+EBITDA interest coverage (x)
+
+7.6
+
+7.2
+
+6.5
+
+6.3
+
+5.6
+
+FFO cash interest coverage (x)
+
+8.0
+
+7.9
+
+6.3
+
+6.1
+
+5.6
+
+Debt/EBITDA (x)
+
+3.1
+
+3.0
+
+2.8
+
+2.9
+
+3.0
+
+FFO/debt (%)
+
+27.9
+
+27.5
+
+29.3
+
+28.7
+
+26.6
+
+Cash flow from operations/debt (%)
+
+24.1
+
+24.2
+
+25.9
+
+24.7
+
+22.6
+
+FOCF/debt (%)
+
+11.0
+
+10.4
+
+15.3
+
+11.8
+
+7.4
+
+4.4
+
+9.8
+
+8.7
+
+2.5
+
+0.1
+
+DCF/debt (%)
+
+Liquidity: Adequate
+We believe URI has adequate liquidity over the next 12 months, supported by ample availability under its $3.75 billion
+asset-based lending (ABL) facility, strong FFO, and modest cash balances. We expect these sources of liquidity to
+exceed liquidity uses by about 2.2x and for net sources to remain positive in the event forecasted EBITDA declines by
+15%. We believe the company has a satisfactory standing in the credit markets, as demonstrated by its recent debt
+issuances at favorable rates, and has an ability to absorb material adverse market events with limited needs to
+refinance given its ABL capacity, good internal cash flow generation, and limited debt maturities over the next 12
+months. Additionally, we believe the company exhibits relatively prudent risk management, as evidenced by the
+reduction in the company's capex during periods of weaker end-market demand.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balances of about $75 million as of June 30,
+2019;
+
+• About $1.4 billion to $1.5 billion of net capex over
+the next 12 months, which include maintenance and
+committed capital spending;
+
+• About $2 billion available under its ABL facility as of
+June 30, 2019; and
+• Our expectation for FFO of about $3.3 billion over
+the next 12 months.
+
+• $945 million balance of the accounts receivable
+securitization facility expiring 2020;
+• Modest working capital outflows;
+• About $10 million of annual debt amortization
+payments.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 10
+
+United Rentals Inc.
+
+Debt maturities
+
+Covenant Analysis
+Compliance expectations
+Under our forecast, we do not expect the springing covenant to be in effect over the next 12 months.
+
+Requirements
+The company is subject to a 1.0x fixed charge covenant under its ABL facility when availability under the facility falls
+below 10% of the maximum commitment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 11
+
+United Rentals Inc.
+
+Environmental, Social, And Governance
+
+We view URI's exposure to environmental risk to be minimal. In our opinion, the most significant environmental
+risk is the disposal of the engine oil and harsh chemicals used to maintain its fleet. The company utilizes
+water-recycling systems in its wash bays and its water withdrawals are not made from sensitive water sources.
+Regarding emissions, fuel-efficiency, and other environmental standards, URI's exposure is much lower compared
+with equipment manufacturers given the focus on rental rather than manufacturing. Should one of the company's
+suppliers fail to comply with environmental regulations, we anticipate URI's liability to any subsequent fines or
+regulatory action would be minimal.
+We believe URI curates a fleet of equipment from original equipment manufacturers (OEMs) and therefore has
+some control over the sustainability of its fleet by choosing equipment that meets its broader environmental goals.
+On the social front, URI is primarily exposed to risks associated with occupational safety. The company has
+instituted policies that reinforce workplace safety, including daily safety trainings and on-site safety managers at
+each branch. These efforts resulted in a 7% reduction in the company's total recordable incident rate between 2016
+and 2017.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates an unexpected and drastic downturn in the nonresidential construction
+industry that severely strains the company's equipment usage, rental rates, revenue, and cash flow.
+• Although we believe URI would likely reorganize after a default, we use a discrete asset value (DAV) approach to
+analyze recovery prospects for most general equipment rental providers. We believe this method provides a
+conservative estimate of the likely value available to creditors, although realization rates could be lower than we
+assume if a large quantity of equipment floods the market.
+• Our DAV starts with the net book value of the company's assets as of June 30, 2019. We assume balance sheet
+accounts are partially diluted to reflect the assumed loss of appraised value through additional depreciation or
+expected contraction in working capital assets in the period leading up to the hypothetical default. We then apply
+realization rates to the assets, reflecting the friction of selling or the discounts potential buyers or restructurers
+would apply in distressed circumstances.
+• We assume realization rates of 75% for rental equipment, 80% for unsold accounts receivable (we exclude the assets
+and liabilities related to URI's accounts receivable special purpose entity), 65% for inventory, and 40% for other
+property and nonrental equipment.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• Jurisdiction: U.S.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 12
+
+United Rentals Inc.
+
+• We assume the ABL facility is 60% drawn at default
+
+Simplified waterfall
+• Net enterprise value: $6.4 billion
+• Collateral/noncollateral valuation split: 91%/9%
+• Collateral value available to ABL and first-lien lenders: $5.8 billion
+• ABL estimate (60% utilization): $2.25 billion
+• --Recovery expectations: Not applicable (unrated)
+• First-lien secured term loan: $974 million
+• --Recovery expectations: 90%-100% (rounded estimate: 95%)
+• Collateral value available to secured noteholders: $2.6 billion
+• Secured second-lien notes: $1.02 billion
+• --Recovery expectations: 90%-100% (rounded estimate: 95%)
+• Total value available to unsecured claims: $2.15 billion
+• Senior unsecured debt and pari passu claims: $7.2 billion
+• --Recovery expectations: 10%-30% (rounded estimate: 25%)
+Notes: All debt amounts above include six months of prepetition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of United Rentals Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--12 months ended June 30, 2019-United Rentals Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+11,580.0
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+3,478.0
+
+8,829.0
+
+3,929.0
+
+2,038.0
+
+590.0
+
+4,352.0
+
+2,794.0
+
+--
+
+1,885.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(105.0)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+Reported lease
+liabilities
+Operating leases
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(543.0)
+
+--
+
+--
+
+--
+
+782.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+264.0
+
+33.4
+
+33.4
+
+(33.4)
+
+230.6
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 13
+
+United Rentals Inc.
+
+Table 3
+
+Reconciliation Of United Rentals Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+Accessible cash
+and liquid
+investments
+
+(67.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+90.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+2.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Workers
+compensation/self
+insurance
+
+83.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Tax
+liabilities
+
+41.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+COGS: Valuation
+gains/(losses)
+
+--
+
+--
+
+--
+
+69.0
+
+69.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Funds from
+operations: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+62.0
+
+--
+
+--
+
+--
+
+Total adjustments
+
+839.6
+
+0.0
+
+0.0
+
+423.0
+
+104.4
+
+33.4
+
+(619.4)
+
+230.6
+
+0.0
+
+0.0
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+12,419.6
+
+Equity Revenue EBITDA
+3,478.0
+
+8,829.0
+
+4,352.0
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+2,142.4
+
+623.4
+
+3,732.6
+
+3,024.6
+
+--
+
+1,885.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 14
+
+United Rentals Inc.
+
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+Strong
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Satisfactory
+
+Ratings Detail (As Of August 19, 2019)*
+United Rentals Inc.
+Issuer Credit Rating
+
+BB/Stable/--
+
+Issuer Credit Ratings History
+19-Apr-2018
+
+BB/Stable/--
+
+21-Aug-2017
+
+BB-/Positive/--
+
+09-Dec-2013
+
+BB-/Stable/--
+
+Related Entities
+United Rentals (North America) Inc.
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Secured
+
+BBB-
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 15
+
+United Rentals Inc.
+
+Ratings Detail (As Of August 19, 2019)*(cont.)
+Senior Unsecured
+
+BB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 17
+
+

@@ -1,0 +1,438 @@
+VetCor Acquisition LLC
+Primary Credit Analyst:
+Adam Dibe, Toronto + 1 (416) 507 3235; adam.dibe@spglobal.com
+Secondary Contact:
+Tulip Lim, New York (1) 212-438-4061; tulip.lim@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+VetCor Acquisition LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strength
+
+Key Risk
+
+Attractive industry tailwinds and no reimbursement risk High adjusted leverage of 7.8x due to acquisition-driven growth strategy
+
+Leverage remains high due to incremental debt issuances. VetCor issued a $110 million delayed-draw term loan in June
+2019 to support its acquisition-driven growth strategy. This strategy has helped support double-digit percent revenue
+growth but also results in high leverage, with adjusted debt to EBITDA to 7.8x as of June 30, 2019. We expect the pace
+of acquisitions to stay high, requiring further debt issuances. VetCor is one of the largest operators of veterinary
+practices in the U.S. and will be a consolidator, but it competes for acquisition targets with larger companies NVA
+Holdings (B/Stable/--) and VCA (owned by Mars Inc.)
+We continue to view the veterinary operating industry as highly attractive because of secular tailwinds, significant
+consolidation opportunities to increase scale, and favorable payment dynamics. Pet ownership continues to increase in
+the U.S., and owners are spending more on animal health. Approximately 89% of veterinary hospitals in the U.S. are
+independently owned, providing ample targets for VetCor's acquisition-driven growth strategy. Most importantly,
+veterinary services are primarily cash pay, which means that veterinary operators lack the reimbursement risk of other
+health care service providers. While the discretionary nature of the spending on veterinary services could leave
+companies more exposed during economic downturns, in the last recession the impact to the industry was not
+dramatic.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+VetCor Acquisition LLC
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that VetCor will continue to generate acquisition-driven double-digit
+percentage revenue growth as well as keep stable EBITDA margins. At the same time, we expect the company's
+aggressive debt-financed growth strategy to result in leverage remaining high and above 7x through 2020.
+
+Downside scenario
+We could lower the rating if VetCor's EBTIDA-to-cash-interest coverage ratio approached 1.6x. This could occur if
+acquisition multiples continue to rise and the company acquires practices that perform poorly, resulting in
+depressed margins and material free cash flow deterioration.
+
+Upside scenario
+Although unlikely due to sponsor ownership, we could raise the rating if the company's financial policy shifts to
+focus on debt reduction, such that leverage is sustained under 5x.
+
+Our Base-Case Scenario
+Assumptions
+
+• Mid-single-digit percentage organic revenue growth,
+driven by slight volume increases and annual price
+inflation.
+• About $150 million of acquisition spending during
+2019, contributing to at least 60 new locations and
+$100 million of pro forma revenue. We expect
+acquisition spending of $150 million in 2020 and
+beyond, supporting total revenue increases in the
+double-digit percentage area.
+
+Key Metrics
+
+2018A 2019E 2020E
+EBITDA margin (%)
+
+19.6
+
+19-20
+
+19-20
+
+Debt to EBITDA (x)
+
+8.2
+
+7.8
+
+7.6
+
+EBITDA-to-cash interest (x)
+
+1.9
+
+2.1
+
+2.1
+
+A--Actual. E--Estimate
+
+• Stable EBITDA margins of about 19.5%, marginally
+below that of peers that operate specialty facilities;
+• Minimal working capital usage; and
+• Capital expenditures of about $10 million-$15
+million per year.
+
+Base-case projections
+Organic revenue growth expected to be in the mid-single-digit percent range. Same-store growth is expected to expand
+faster than GDP growth due to increasing spending on pet health.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+VetCor Acquisition LLC
+
+Overall revenue growth is bolstered by significant acquisition spending. We expect at least $150 million in acquisition
+spending per year, driving revenue growth in excess of 20%. We expect acquisition activity to be primarily funded by
+further incremental debt issuances.
+We expect adjusted leverage to remain high over the next few years. Following the $110 million delayed-draw term
+loan issuance, adjusted leverage was 7.8x for the 12 months through June 30, 2019, and we expect it to be maintained
+above 7.0x. We expect that financial policy will favor investing in growth and shareholder returns over permanent debt
+reduction, keeping leverage elevated over the long term despite anticipated EBITDA growth from increased hospital
+contributions. Still, we expect free cash flow generation in excess of $40 million per year.
+
+Liquidity: Adequate
+We assess VetCor's liquidity as adequate, with sources of cash exceeding uses by at least 1.2x over the next 12 months
+and sources exceeding uses even if EBITDA were to decline by 15%. However, we believe that liquidity is constrained
+by a likely inability to absorb high-impact, low-probability events without refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of $8.4 million as of June 30, 2019;
+
+• Capital expenditures of about $10 million per year
+and
+
+• Cash funds from operations of about $44 million
+over the next 12 months; and
+
+• Annual term loan amortization of about $4.5 million.
+
+• Full availability under the $50 million revolving
+credit facility.
+
+Covenant Analysis
+VetCor has a springing first-lien net leverage covenant on the revolving credit facility. The company had 37%
+headroom on this covenant as of June 30, 2019, and we expect it to maintain at least 30% headroom.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• VetCor's capital structure consists of a $450 million first-lien term loan; a $195 million second-lien term loan; firstand second-lien delayed-draw term loans of $205.0 and $40.0 million, respectively; and a $50.0 million revolving
+facility. All the loans have a seven-year term maturing on July, 2, 2025.
+• We have valued the company on a going-concern basis using a 5.5x multiple of our projected emergence EBITDA,
+which is consistent with the multiple used for similar companies.
+• We estimate that for a default scenario, EBITDA would have to decline significantly from our base-case forecast,
+which could be because of a prolonged economic downturn that lead to poorly performing sites and a sharp
+revenue decline.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+VetCor Acquisition LLC
+
+Simulated default assumptions
+• Simulated year of default: 2022
+• EBITDA at emergence: $75.7 million
+• EBITDA multiple: 5.5x
+
+Simplified waterfall
+• Net enterprise valuation (after 5% administrative costs): $395.4 million
+• Valuation split in % (obligors/nonobligors): 100%/0%
+• Priority claims: 0
+• Collateral value available to first-lien creditors: $395.4 million
+• Secured first-lien debt: $694.6 million
+• --Recovery expectations: 50%-70%; rounded estimate: 55%
+• Secured second-lien debt: $245.6 million
+• --Recovery expectations: 0%-10%; rounded estimate: 0%
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+VetCor Acquisition LLC
+
+• Group credit profile: b
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Health Care Services Industry, April 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 10, 2019)*
+VetCor Acquisition LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Issuer Credit Ratings History
+10-Jul-2018
+
+B/Stable/--
+
+Related Entities
+Excelsior Merger Sub, LLC
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+VetCor Acquisition LLC
+
+Ratings Detail (As Of September 10, 2019)*(cont.)
+Vetcor Professional Practices LLC
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+

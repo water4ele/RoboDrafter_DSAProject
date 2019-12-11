@@ -1,0 +1,1224 @@
+Nakilat Inc.
+Primary Credit Analyst:
+Tommy J Trask, Dubai (971) 4-372-7151; tommy.trask@spglobal.com
+Secondary Contact:
+Sofia Bensaid, Dubai; sofia.bensaid@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Other Credit Considerations
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Nakilat Inc.
+Business Risk: STRONG
+
+a+
+Vulnerable
+
+Excellent
+
+bb+
+
+bbbA+/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Issuer Credit Rating
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Importance to the Qatari strategy for liquefied natural gas (LNG) exports. Portion of debt exposed to floating interest rates.
+Long-term off take agreements with major producers.
+
+Concentrated client base.
+
+High vessel availability.
+
+Nakilat Inc. (Nakilat) is a key player in Qatar's LNG export strategy. S&P Global Ratings believes Nakilat plays a
+critical role in the LNG export industry, which is vital for the Qatari economy, and has a very strong link with the
+Qatari state. Therefore, we believe that Nakilat could benefit from extraordinary government support from Qatar
+during times of stress. Nakilat is a wholly owned subsidiary of Qatar Gas Transportation Company (QGTC). The latter
+is 50% owned by government entities and its chairman (currently the Minister of Energy) is appointed by Qatar
+Petroleum through a special right under the QGTC shareholders' agreement. QGTC is the owner of the world's largest
+LNG fleet and accounts for nearly 12% of worldwide LNG shipments.
+The company's 25-year offtake agreements underpin its stable cash flows. Nakilat has entered into long-term charter
+agreements (25-year terms) with local LNG producer Qatargas for the use of its 25 LNG vessels. Moreover, the charter
+agreements ensure a stable cash inflow to Nakilat through availability-based payments. Therefore, the company is not
+exposed to market risk.
+Nakilat benefits from high vessel availability. Nakilat's vessels (Q-Max and Q-Flax) have demonstrated consistent and
+high availability of approximately 99%. Combined with the availability-based payment mechanism, this results in very
+low revenue volatility.
+The company is exposed to interest-rate risk. Nakilat has nearly $1.0 billion of debt unhedged and exposed to London
+Inter-bank Offered Rate (LIBOR) fluctuations (20% of total debt). However, this is largely mitigated by the current low
+level of LIBOR, the high debt coverage ratios of the company, and the natural hedge by way of cash balances.
+Nakilat is dependent on one main customer. Customer concentration is high, given the company's vessels dedicated to
+Qatargas, which merged with RasGas in 2018. However, Qatargas is a highly creditworthy counterparty and the
+world's largest LNG producer, with production capacity of 77 million tons per annum (MTA).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Nakilat Inc.
+
+Outlook: Stable
+
+The stable outlook on Nakilat mirrors that on Qatar. The outlook reflects our view of Nakilat's importance to
+Qatar's economy and strategy for LNG, which accounts for about 40% of the country's GDP. We consider Nakilat a
+government-related entity (GRE) and see an extremely high likelihood that, in the event of financial stress, the
+Qatar government would provide timely support for Nakilat's debt service requirements.
+
+Downside scenario
+We could downgrade Nakilat following a sovereign downgrade. We believe that Nakilat will likely remain critical to
+Qatar's strategy for LNG exports. We continue to monitor the political sanctions on Qatar and disruptions to the
+flow of vessels through the Strait of Hormuz, along with the effect on Nakilat's ability to operate and generate
+stable earnings. However, this effect has been minimal to date. Over the longer term, we could lower the rating if
+we regarded Nakilat's role as no longer critical to Qatar's LNG distribution due to a change in the government's
+strategy. The rating could also come under pressure if the EBITDA interest coverage ratio fell sustainably below
+2.0x, down from 2.3x for the rolling 12 months to June 30, 2019.
+
+Upside scenario
+An upgrade could result from an upgrade of the sovereign, all other factors remaining constant.
+
+Our Base-Case Scenario
+Our forecast incorporates the assumption that Nakilat's long-term charter contracts will remain in place for the next 12
+years.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Nakilat Inc.
+
+Assumptions
+
+• Positive revenue growth of 0.4% in the next two
+years as a portion of charter revenue is linked to the
+rate of inflation.
+• Stable cost base, reflecting no exposure to changes
+in fuel and personnel expenses, which are borne by
+the charterers as stipulated in the long-term charter
+contracts.
+
+Key Metrics
+
+2018A 2019E 2020E
+EBITDA margin (%)
+
+79%
+
+79%
+
+79%
+
+FFO to debt (%)
+
+8.0
+
+8.8
+
+9.6
+
+EBITDA interest coverage (x)
+
+2.2
+
+2.5
+
+2.6
+
+A--Actual. E—Estimate. FFO--Funds from operations.
+
+• Annual capital expenditure (capex) of about $10
+million, mainly to cover dry dock expenses, which
+we expect to remain relatively stable. We do not
+expect any immediate newbuilding capex, given the
+oversupply of LNG vessels in the global market and
+Nakilat's prudent investment strategy.
+• Maintenance of a six-month debt service reserve
+account, as well as available cash to service debt for
+the next six months. Based on this cash availability
+and the dividend lock-up being met, we assume
+dividend payments of about $136 million for 2019.
+
+Base-case projections
+We expect operating margins to remain stable due to the offtake nature and stability of operating costs.The capex
+required for dry docking is relatively low at approximately $10 million per year, or 1.5% of projected EBITDA.
+However, given that the company's debt fully amortizes over its term, this will push debt and interest coverage ratios
+upward over time.
+
+Company Description
+Nakilat operates as a subsidiary of QGTC. The latter is one of the largest LNG transportation companies in the world
+by capacity, with 69 wholly and jointly owned LNG carriers, four liquefied petroleum gas vessels, and one floating
+storage regasification unit (FSRU). QGTC provides shipping and marine-related services to a range of participants
+within the Qatari hydrocarbon sector.
+As a core subsidiary of QGTC, Nakilat was established to handle the shipping requirements of Qatar's largest LNG
+producers. It owns and operates a fleet of 25 vessels--11 Qatar-Flex type, and 14 Qatar-Max type. These are two of the
+world's largest and most advanced LNG vessel types, with 50% and 80% more cargo capacity, respectively than
+conventional LNG carriers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Nakilat Inc.
+
+Business Risk: Strong
+Although we view the shipping industry as a high-risk sector, Nakilat's established role in shipping LNG around the
+world, its strategic importance to the Qatari government, and its long-term fixed charter contracts with Qatar's largest
+LNG producers mitigate risks that may arise from LNG price volatility or weak charter rates.
+We expect Nakilat to maintain its long-term time charter contracts for the next 12 years with Qatar's largest LNG
+producers--the largest exporters in the world--which insulates it from potential cost increases. The company operates
+with availability-based payment streams under time charter contracts, meaning that the charterer pays for fuel costs,
+port charges, commissions, and a daily hire fee to Nakilat whether the vessel is being used or not. If, for example,
+bunker costs increased materially, the charterers would bear the additional cost.
+Nakilat also has good geographic coverage, shipping LNG cargoes to more than 25 countries. Although the Qatari
+government is suffering from the effects of the ongoing Saudi-led boycott, there is no indication that Qatar's main
+trading partners Japan, South Korea, China, and India, which purchase the bulk of its LNG, will reconsider their
+existing trade arrangements. These four countries account for 55% of Qatar's total exports and depend on LNG as an
+energy source.
+Additional factors supporting our assessment of Nakilat's business profile include:
+• Its reliable operating track record since the delivery of the first vessel in August 2008, with vessel reliability above
+99% for the past five years.
+• The healthy credit quality of charterer Qatargas, an operating subsidiary of government-owned Qatar Petroleum
+(AA-/Stable/--) and the largest LNG producer in the world.
+• Comprehensive insurance policies, including war risk insurance. Together with various provisions under the charter
+agreements, these policies cover Nakilat against political stress scenarios, such as the hypothetical closure of the
+Strait of Hormuz for about 30 months.
+These positive factors are only partly offset by Nakilat's:
+• Exposure to loss-of-vessel incidents, as well as certain uninsured risks, including weather and terrorist events.
+• High exposure to two customers, although counterbalanced by their high credit quality.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+Nakilat Inc.
+
+Chart 1
+
+Peer comparison
+In our view, Nakilat is one of the strongest shipping companies in the world. Although peers such as PAO Sovcomflot,
+Teekay Corp., and A/P Moller Maersk are top industry players, they are less resilient to economic downturns due to
+their spot exposure or, in the case of AP Moller Maersk, exposure to riskier segments such as containerships.
+PAO Sovcomflot and Teekay Corp. are among the top-three largest tanker companies in the world that also provide
+offshore supply services. However, their share of revenue coming from LNG, which is somewhat more stable than
+conventional oil, is relatively low. Unlike Nakilat, both companies have a share of their fleet on spot rates, which
+reduces cash flow visibility and might affect profitability during market downturns. For example, Nakilat has secured
+rates well in excess of LNG spot charter rates, which have been in the range of $60,000 per day in 2018. Since Nakilat
+benefits from fixed-price, long-term charter contracts, its earnings are stable and its EBITDA margins remain high.
+This makes the company more resilient to the macroeconomic environment than peers.
+Table 1
+
+Nakilat Inc.--Peer Comparison
+Industry Sector: Shipping
+
+Rating as of Sept. 11, 2019
+
+Nakilat Inc.
+
+PAO Sovcomflot
+
+A+/Stable/--
+
+BB+/Stable/--
+
+Teekay Corp. A.P. Moller - Maersk A/S
+B+/Stable/--
+
+BBB/Stable/--
+
+--Fiscal year ended Dec. 31, 2018--
+
+(Mil. $)
+Revenue
+
+841.2
+
+1,519.9
+
+1,707.8
+
+39,019.0
+
+EBITDA
+
+678.7
+
+627.8
+
+634.4
+
+5,712.3
+
+Funds from operations (FFO)
+
+375.5
+
+407.6
+
+348.1
+
+4,219.8
+
+Interest expense
+
+302.8
+
+212.8
+
+326.2
+
+1,273.5
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+Nakilat Inc.
+
+Table 1
+
+Nakilat Inc.--Peer Comparison (cont.)
+Cash interest paid
+
+303.2
+
+200.5
+
+286.3
+
+1,125.5
+
+Cash flow from operations
+
+414.0
+
+381.9
+
+254.0
+
+4,145.8
+
+28.9
+
+420.0
+
+679.0
+
+2,817.0
+
+Free operating cash flow
+
+385.1
+
+(38.1)
+
+(425.0)
+
+1,328.8
+
+Discretionary cash flow
+
+182.1
+
+(68.0)
+
+(511.7)
+
+726.8
+
+Cash and short-term investments
+
+338.2
+
+296.4
+
+424.2
+
+4,299.0
+
+4,667.2
+
+3,366.6
+
+5,013.0
+
+14,323.2
+
+706.5
+
+3,350.1
+
+2,867.0
+
+33,392.0
+
+EBITDA margin (%)
+
+80.7
+
+41.3
+
+37.1
+
+14.6
+
+Return on capital (%)
+
+9.0
+
+3.1
+
+4.1
+
+2.5
+
+EBITDA interest coverage (x)
+
+2.2
+
+3.0
+
+1.9
+
+4.5
+
+FFO cash interest coverage (x)
+
+2.2
+
+3.0
+
+2.2
+
+4.7
+
+Debt/EBITDA (x)
+
+6.9
+
+5.4
+
+7.9
+
+2.5
+
+FFO/debt (%)
+
+8.0
+
+12.1
+
+6.9
+
+29.5
+
+Cash flow from operations/debt (%)
+
+8.9
+
+11.3
+
+5.1
+
+28.9
+
+Free operating cash flow/debt (%)
+
+8.3
+
+(1.1)
+
+(8.5)
+
+9.3
+
+Discretionary cash flow/debt (%)
+
+3.9
+
+(2.0)
+
+(10.2)
+
+5.1
+
+Capital expenditures
+
+Debt
+Equity
+Adjusted ratios
+
+Financial Risk: Aggressive
+Since Nakilat was awarded 25-year charter contracts in 2006 and 2007, it has sustained credit ratios close to current
+levels. These include debt to EBITDA of about 7.0x and funds from operations (FFO) to debt of 7%-8%, which we
+forecast will slightly improve as the company amortizes bank debt.
+Although we take into account the relatively weak leverage metrics, our assessment of Nakilat's financial risk profile
+reflects our forecast that the company's ratio of EBITDA interest coverage will remain above 2.0x over 2019-2020. In
+our opinion, EBITDA interest coverage is the correct indicator of the company's future financial leverage due to its
+predictable cash flows and interest-rate payments. Moreover, required capex is low for the coming years, which should
+support the company's stability and visibility of free operating cash flow (FOCF).
+
+Financial summary
+Table 2
+
+Nakilat Inc.--Financial Summary
+Industry Sector: Shipping
+--Fiscal year ended Dec. 31-(Mil. $)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+841.2
+
+839.5
+
+842.7
+
+836.4
+
+834.9
+
+EBITDA
+
+678.7
+
+671.7
+
+669.8
+
+669.4
+
+669.5
+
+Funds from operations (FFO)
+
+375.5
+
+366.0
+
+356.7
+
+350.4
+
+339.3
+
+Interest expense
+
+302.8
+
+307.9
+
+315.2
+
+320.2
+
+331.6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Nakilat Inc.
+
+Table 2
+
+Nakilat Inc.--Financial Summary (cont.)
+Industry Sector: Shipping
+--Fiscal year ended Dec. 31-(Mil. $)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Cash interest paid
+
+303.2
+
+305.7
+
+313.1
+
+319.0
+
+330.3
+
+Cash flow from operations
+
+414.0
+
+349.8
+
+358.4
+
+360.3
+
+381.7
+
+28.9
+
+0.0
+
+0.0
+
+5.8
+
+26.3
+
+Free operating cash flow
+
+385.1
+
+349.8
+
+358.4
+
+354.5
+
+355.4
+
+Discretionary cash flow
+
+182.1
+
+258.8
+
+260.4
+
+194.5
+
+210.4
+
+Cash and short-term investments
+
+338.2
+
+384.7
+
+347.1
+
+305.0
+
+323.7
+
+Gross available cash
+
+338.2
+
+384.7
+
+347.1
+
+305.0
+
+323.7
+
+Capital expenditures
+
+Debt
+Equity
+
+4,667.2 5,165.3 5,385.0 5,597.6 5,803.2
+706.5
+
+565.1
+
+382.1
+
+163.9
+
+72.3
+
+EBITDA margin (%)
+
+80.7
+
+80.0
+
+79.5
+
+80.0
+
+80.2
+
+Return on capital (%)
+
+9.0
+
+8.5
+
+8.4
+
+8.6
+
+8.8
+
+EBITDA interest coverage (x)
+
+2.2
+
+2.2
+
+2.1
+
+2.1
+
+2.0
+
+FFO cash interest coverage (x)
+
+2.2
+
+2.2
+
+2.1
+
+2.1
+
+2.0
+
+Debt/EBITDA (x)
+
+6.9
+
+7.7
+
+8.0
+
+8.4
+
+8.7
+
+FFO/debt (%)
+
+8.0
+
+7.1
+
+6.6
+
+6.3
+
+5.8
+
+Cash flow from operations/debt (%)
+
+8.9
+
+6.8
+
+6.7
+
+6.4
+
+6.6
+
+Free operating cash flow/debt (%)
+
+8.3
+
+6.8
+
+6.7
+
+6.3
+
+6.1
+
+Discretionary cash flow/debt (%)
+
+3.9
+
+5.0
+
+4.8
+
+3.5
+
+3.6
+
+Adjusted ratios
+
+Liquidity: Strong
+We assess Nakilat's liquidity as strong. We expect the company's sources of liquidity to cover uses by more than 1.5x
+over the next 12 months and over 1.0x for the subsequent 12 months. We also expect Nakilat to maintain a sound cash
+position given its conservative financial policies. These include reserve accounts for debt service and dividend
+coverage ratios, which limits any cash upstream from the entity to its parent, QGTC.
+Our liquidity assessment also factors in the company's sound relationship with top-tier banks and its high standing in
+the credit markets, mainly due to its strong relationship with the Qatari government.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+Nakilat Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We estimate liquidity sources for the coming 12
+months from June 30, 2019, include:
+
+We estimate liquidity uses for the same period include:
+
+• Cash and cash equivalents of $357 million.
+
+• Debt amortization of $247 million for the next 12
+months.
+
+• Cash flow from operations of approximately $400
+million.
+
+• Annual dividend distributions of approximately $150
+million for the next two years.
+• Annual capex corresponding to dry dock
+maintenance of about $10 million.
+
+Environmental, Social, And Governance
+
+We consider environmental, social, and governance factors, and particularly environmental factors, relevant for
+our ratings on Nakilat, as an entity operating in the transportation industry.
+Nakilat has a good track record of safety performance with a Lost Time Incident Frequency (LTIF) of 0.05 in 2018,
+compared with an industry average of 0.48. It strives to improve vessel fuel consumption and reduce gas emissions
+through the implementation of monitoring systems, engine upgrades (vessels burning natural gas instead of
+conventional heavy fuel oil) and propeller/hull coating works. All of Nakilat's LNG carriers are Green Award
+certified.
+We assess Nakilat's management and governance as satisfactory, underpinned by a strong operational track
+record. As a fully owned subsidiary of a listed entity (QGTC), Nakilat is subject to Qatar Stock Exchange corporate
+governance rules. That said, its board is dominated by representatives of government and government-related
+entities and Qatar Petroleum holds a golden share, meaning it has the right to appoint the chairman and the vice
+chairman. This leaves the company with limited independent oversight.
+The company is not subject to any nationalization requirements, but was awarded for its efforts in employing
+nationals in 2017. Qataris accounted for 37.5% of the workforce in first-half 2019.
+
+Other Credit Considerations
+Our analysis incorporates Nakilat's ability to obtain financing from domestic and regional banks and capital markets at
+compellingly low rates that are better than peers'. In our view, this indicates a market perception that lending to
+Nakilat is broadly equivalent to lending to the Qatari government.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 10
+
+Nakilat Inc.
+
+Government Influence
+Our rating incorporates Nakilat's continued importance to Qatar's strategy for LNG distribution around the world.
+Nakilat's vessels cover about 40% of the transportation requirements of Qatar's LNG industry, which represents 50% of
+government revenue.
+In our view, the Qatari government is extremely likely to provide timely and sufficient extraordinary support to Nakilat
+if needed. This view is also supported by the substantial oversight and involvement that government officials have on
+Nakilat's financing and strategy. As a result, we apply five notches of uplift to the 'bbb-' stand-alone credit profile to
+arrive at the long-term issuer credit rating of 'A+'.
+
+Issue Ratings - Subordination Risk Analysis
+All debt is issued by Nakilat Inc., the parent company and principal operating entity.
+
+Capital structure
+Nakilat's capital structure comprises $5.0 billion of secured debt (including $850 million senior secured notes) and $617
+million of subordinated debt and subordinated notes.
+
+Analytical conclusions
+We rate Nakilat's senior secured notes at the same level as the long-term issuer credit rating because it ranks pari
+passu with bank debt. We rate Nakilat's subordinated debt one notch lower than the issuer credit rating because it
+ranks behind a significant amount of secured debt in the capital structure.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Nakilat Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Nakilat Inc. reported amounts
+
+Debt
+
+Operating income
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+4937.787
+
+487.559
+
+678.695
+
+401.613
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+(303.2)
+
+--
+
+(270.6)
+
+--
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+12.7
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+12.3
+
+(270.6)
+
+12.7
+
+(303.2)
+
+12.3
+
+S&P Global Ratings' adjustments
+
+Accessible cash & liquid investments
+
+Total adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 11
+
+Nakilat Inc.
+
+Table 3
+
+Reconciliation Of Nakilat Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+EBIT
+
+Funds from operations
+
+Cash flow from
+operations
+
+4,667.2
+
+500.2
+
+375.5
+
+414.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A+/Stable/--
+
+Business risk: Strong
+
+• Country risk: Intermediate
+• Industry risk: High
+• Competitive position: Excellent
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bbb-
+
+• Related government rating: AA• Likelihood of government support: Extremely high (+5 notches from SACP)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 12
+
+Nakilat Inc.
+
+• Criteria - Corporates - Industrials: Key Credit Factors For The Transportation Cyclical Industry, Feb. 12, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 11, 2019)*
+Nakilat Inc.
+Issuer Credit Rating
+
+A+/Stable/--
+
+Senior Secured
+
+A+
+
+Subordinated
+
+A
+
+Issuer Credit Ratings History
+10-Dec-2018
+
+A+/Stable/--
+
+28-Aug-2017
+
+A+/Negative/--
+
+13-Jun-2017
+
+A+/Watch Neg/--
+
+09-Mar-2017
+
+AA-/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 14
+
+

@@ -1,0 +1,1468 @@
+Strabag SE
+Primary Credit Analyst:
+Francesca Mancini, Milan + 390272111231; Francesca.Mancini@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+Strabag SE
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading positions in construction markets in Central Europe and some
+parts of Eastern Europe.
+
+Exposure to the cyclical and competitive construction industry, which is
+inherently subject to project risk.
+
+Vertical integration that provides barriers to entry and strategic access
+to raw materials.
+
+Volatile free cash flow generation during the year, with sizable seasonal
+swings in working capital.
+
+A track record of largely stable operating margins, which indicates
+generally good project execution and cost management.
+
+Lower adjusted EBITDA margins compared to industry average, driven
+by Strabag's exposure mainly to low risk countries.
+
+High standing in the credit markets and solid perceived financial
+stability, underpinned by a reported net cash position.
+
+Sustained capital expenditure (capex), which led to negative
+discretionary cash flows in 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+Strabag SE
+
+Outlook: Stable
+
+The stable outlook on Austria-based construction group Strabag SE reflects S&P Global Ratings' view that the
+company will post an adjusted EBITDA margin of around 6%-7% in 2019 and 2020. We think that Strabag has
+some headroom in its leverage metrics to absorb some expansionary investments and selected bolt-on
+acquisitions. Furthermore, we believe that in 2019-2020 its financial metrics could absorb a likely reversal of the
+exceptionally favorable working capital trend that boosted its gross cash in 2017 and 2018. We expect S&P Global
+Ratings-adjusted funds from operations (FFO) to debt will comfortably exceed 45%, with adjusted debt to EBITDA
+remaining below 2.0x and liquidity staying strong over the next two years.
+
+Downside scenario
+We could consider a negative rating action if Strabag's debt-to-EBITDA ratio rises to more than 2.0x and FFO to
+debt drops to less than 45% over a sustained period. We believe there is room for a potential weakening of credit
+metrics at the current rating level. However, a meaningfully weaker operating performance and materially adverse
+trend in working capital needs could constrain the ratings. Rating pressure may also arise from markedly high debt,
+owing for instance to sizable acquisitions or increased shareholder returns that are not reflected in our base-case
+scenario.
+
+Upside scenario
+We could raise the ratings if we observed a track record of materially positive discretionary cash flows, and FFO to
+debt and debt to EBITDA were more than 60% and less than 1.5x, respectively. We note that Strabag's financial
+metrics during the year are generally significantly weaker, mainly reflecting seasonal working capital requirements.
+We expect free operating cash flow (FOCF) to remain fairly weak over the next two years, driven by a reversal of
+working capital and still-high capex. We would need to see a material and sustainable improvement in FOCF
+before considering an upgrade.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+Strabag SE
+
+Assumptions
+
+• We expect real GDP growth in Germany to slow to
+0.6% in 2019 and 1.1% in 2020; in Austria to 1.7% in
+2019 and 1.6% in 2020; and in CEE to 3.6% in 2019
+and 3.0% in 2020.
+• The construction outlook for 2019-2020 shows
+slower development than 2018 amid softer
+economic expansion. The German building
+construction and civil engineering business is
+expected to slow compared to 2018, while
+construction output in CEE countries should
+continue to grow well above GDP in 2019-2020, in
+particular in Hungary and Poland.
+
+Key Metrics
+
+2018A 2019E
+EBITDA margin (%)*
+FFO to debt (%)*
+Debt to EBITDA (x)*
+
+2020E
+
+6.3
+
+6-7
+
+6-7
+
+N.M.
+
+N.M.
+
+Above 60
+
+0
+
+0 Below 1.5
+
+*All figures are fully adjusted by S&P Global Ratings.
+A--Actual. E--Estimate. N.M.--Not meaningful.
+FFO--Funds from operations.
+
+• We expect output volume to slightly exceed €16
+billion in 2019, underpinning 0.0%-0.5% revenue
+growth in 2019-2020.
+• Operating margins likely to remain stable in the next
+few years, with S&P Global Ratings-adjusted
+EBITDA margin at 6%-7% and an EBIT margin
+around 3.3%.
+• A reversal of the positive working capital trend seen
+in 2017 and 2018, and still-sustained capex, at
+around 4.0% of sales, which will result in negative
+FOCF in 2019-2020.
+• We anticipate about €100 million for bolt-on
+acquisitions annually over the next few years.
+
+Base-case projections
+We expect credit metrics to remain strong in 2019-2020, with FFO to debt well above 60%. However, rating headroom
+should slightly decrease. We also forecast S&P Global Ratings-adjusted net debt to be zero in 2019. However, a
+reversal of the working capital trend of 2017-2018 and still-sustained capex should lead to negative FOCF generation
+in 2019-2020. In our base case we incorporate a cash-out from working capital of €400 million-€500 million in 2019,
+decreasing to around €200 million-€300 million in 2020, and capex at around 4% of consolidated sales. As a result, we
+expect rating headroom to be slightly lower in future.
+
+Company Description
+With annual output of about €16.3 billion in 2018, Strabag is one of Europe's largest construction groups. It operates in
+following three segments:
+• North and West (48% of 2018 output volume with an EBIT margin of 2.2%), mainly including Germany, Poland,
+Belgium, the Netherlands, Luxembourg, and Scandinavia, and the Ground and Hydraulic Engineering segment;
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+Strabag SE
+
+• South and East (28% of 2018 output volume with an EBIT margin of 3.1%), mainly including Austria, Switzerland,
+the Czech Republic, Slovakia, Hungary, south eastern Europe, Russia, and neighboring countries, and the
+Environmental Engineering segment; and
+• International and Special Divisions (24% of 2018 output volume with an EBIT margin of 5.8%), comprising
+International, Tunneling, Construction Materials (except asphalt), Property & Facility Services, Real Estate, and
+Infrastructure Development (concessions).
+Chart 1
+
+We think the company's medium-term strategy will continue to focus on increasing margins by implementing
+cost-efficiency improvements and through the strengthening of risk management policies. We also expect Strabag will
+continue to focus on both organic and inorganic growth opportunities, although we understand management does not
+see many opportunities outside Europe that meet the group's requirements in terms of risk management and
+profitability; therefore, the company will continue to focus mainly on existing markets.
+Strabag is publicly listed with a free float of 13.5%. Its core shareholders are Raiffeisen/UNIQA (27.5%), the
+Haselsteiner family (26.4%), and Rasperia Trading Ltd. (25.9%). Rasperia is a subsidiary of Basic Element Holding,
+which is owned by Russian businessman Mr. Oleg Deripaska. The remaining 6.7% are treasury shares.
+
+Business Risk: Satisfactory
+Strabag benefits from leading market positions in the CEE's engineering and construction markets. Strabag's good
+order backlog, usually covering about one year of earnings, provides good visibility, although it is smaller than some
+peers' mainly reflecting the lower average size of projects. We also consider the company's cost base to be relatively
+flexible, which underpins its credit profile.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+Strabag SE
+
+We assess as positive Strabag's generally effective risk management and lower volatility in profitability metrics than
+the industry average over the past few years. Its profitability is slightly below the industry average. This reflects the
+competitive landscape in countries and segments where the company operates, but also that its projects are less risky
+than those in emerging markets. That said, its strengthening risk management systems and streamlining of parts of the
+organization have delivered operational improvements. The reported EBIT margin was 3.7% in 2018, up from 3.3% in
+2017. However, adjusting 2018 EBIT for the €55.3 million step-up profit related to the full consolidation of
+PANSUEVIA--the German concession company now fully owned by Strabag--EBIT margin would be 3.3%, in line with
+2017. Strabag aims to continue posting EBIT margins exceeding 3.3% in 2019, supported by recent risk management
+measures and the continued strong contribution from the property and facility services and real estate projects, which
+boosted the International and Special Divisions segment's EBIT in 2018.
+The industry's above-average risk constrains the group's business risk profile. Fixed-cost contract pricing and the
+potential for misjudging project expenses or timing can lead to cost overruns, which are usually the liability of the
+contractor. In civil engineering, competitive tenders and large projects with low insight into contract risk and
+performance heighten operating risk.
+
+Peer comparison
+Table 1
+
+Strabag SE--Peer Comparison
+Industry sector: Engineering and construction
+
+Ratings as of Aug. 1, 2019
+
+Strabag SE
+
+ACS, Actividades de Construccion y
+Servicios SA
+
+Salini Impregilo SpA
+
+VINCI S.A.
+
+BBB/Stable/--
+
+BBB/Stable/A-2
+
+BB-/Negative/--
+
+A-/Positive/A-2
+
+--Fiscal year ended Dec. 31, 2018-(Mil. €)
+Revenue
+
+15,221.8
+
+36,658.5
+
+5,747.7
+
+43,721.0
+
+EBITDA
+
+960.3
+
+2,536.6
+
+465.1
+
+7,966.0
+
+Funds from operations (FFO)
+
+810.5
+
+1,963.0
+
+299.7
+
+6,166.5
+
+Interest expense
+
+66.5
+
+475.3
+
+97.9
+
+651.5
+
+Cash interest paid
+
+59.4
+
+455.8
+
+89.9
+
+577.5
+
+Cash flow from operations
+
+672.9
+
+1,227.1
+
+(274.1)
+
+5,447.5
+
+Capital expenditure
+
+643.4
+
+793.1
+
+120.5
+
+2,025.0
+
+29.6
+
+433.9
+
+(394.7)
+
+3,422.5
+
+(80.4)
+
+118.1
+
+(449.1)
+
+1,339.5
+
+2,344.3
+
+7,165.2
+
+1,107.3
+
+7,960.0
+
+0.0
+
+7,080.0
+
+2,101.9
+
+19,878.5
+
+3,653.8
+
+6,055.7
+
+932.1
+
+19,818.0
+
+Free operating cash flow
+(FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+EBITDA margin (%)
+
+6.3
+
+6.9
+
+8.1
+
+18.2
+
+Return on capital (%)
+
+15.5
+
+17.0
+
+3.0
+
+13.4
+
+EBITDA interest coverage (x)
+
+14.4
+
+5.3
+
+4.8
+
+12.2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+Strabag SE
+
+Table 1
+
+Strabag SE--Peer Comparison (cont.)
+Industry sector: Engineering and construction
+
+Strabag SE
+
+ACS, Actividades de Construccion y
+Servicios SA
+
+Salini Impregilo SpA
+
+VINCI S.A.
+
+14.6
+
+5.3
+
+4.3
+
+11.7
+
+0.0
+
+2.8
+
+4.5
+
+2.5
+
+FFO/debt (%)
+
+N.M.
+
+27.7
+
+14.3
+
+31.0
+
+Cash flow from
+operations/debt (%)
+
+N.M.
+
+17.3
+
+(13.0)
+
+27.4
+
+FOCF/debt (%)
+
+N.M.
+
+6.1
+
+(18.8)
+
+17.2
+
+DCF/debt (%)
+
+N.M.
+
+1.7
+
+(21.4)
+
+6.7
+
+FFO cash interest coverage (x)
+Debt/EBITDA (x)
+
+N.M.--Not meaningful.
+
+Our peer analysis includes construction companies ACS, Actividades de Construccion y Servicios SA, the largest
+construction company in Europe, and VINCI S.A., a diversified infrastructure company with a significant portion of
+revenues from more stable concession businesses. Salini Impregilo SpA is a midsize construction company mainly
+focused on infrastructure construction contracts, with a substantial presence in the U.S. and high-risk countries.
+Strabag is a smaller player compared to ACS and Vinci, and its margins are comparatively lower mainly due to its
+revenue concentration in European countries. However, Strabag has historically displayed a consistently lower
+leverage compared to rated peers.
+
+Financial Risk: Modest
+Strabag's modest financial risk profile reflects its robust balance-sheet structure and relatively strong core credit
+metrics. We expect Strabag will maintain careful control over its debt because inherent industry risk can lead to
+significant deterioration in metrics in a relatively short period. In our view, the company has strong liquidity and good
+financial flexibility, which we regard as positive for its financial risk profile. Strabag's demonstrated ability to obtain
+progress payments from customers, which generate working-capital resources, further supports our assessment.
+Strabag has displayed a reported net cash position since 2014, which at year-end 2018 stood at about €1.0 billion,
+leading to nil adjusted debt. As such, S&P Global Ratings-adjusted debt to EBITDA is nil. We consider such a high net
+cash position to be extraordinary and temporary, driven by exceptional working-capital-related cash inflow in 2017
+and 2018. We anticipate that this favorable trend of working capital will likely revert in 2019-2020, leading to
+significant cash absorption. We believe that capex will be sustained in 2019-2020, at around 4.0% of sales. As a result,
+the company's FOCF will likely be fairly weak over the next few years. We also expect that reported operating lease
+liabilities post implementation of IFRS 16 in 2019 will be higher than the current adjustment we add to reported debt,
+thereby increasing reported and S&P Global Ratings-adjusted net debt. However, we expect adjusted net debt to
+remain nil in 2019, then €60 million-€70 million in 2020.
+Strabag has a track record of expansionary spending and debt-financed acquisitions. In 2018, Strabag finalized the
+acquisition of an additional 50% stake in PANSUEVIA, concession company operating the Ulm-Augsburg section of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+Strabag SE
+
+the A8 motorway in Germany, in which the company already had a 50% share, and in doing so reached full ownership.
+
+Financial summary
+Table 2
+
+Strabag SE--Financial Summary
+Industry sector: Engineering and construction
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. €)
+Revenue
+
+15,221.8 13,508.7 12,400.5 13,123.5 12,475.7
+
+EBITDA
+
+960.3
+
+945.9
+
+959.7
+
+947.6
+
+829.0
+
+Funds from operations (FFO)
+
+810.5
+
+864.0
+
+621.8
+
+764.4
+
+661.7
+
+66.5
+
+68.0
+
+73.5
+
+98.0
+
+99.2
+
+Interest expense
+Cash interest paid
+
+59.4
+
+57.4
+
+63.3
+
+82.2
+
+76.5
+
+Cash flow from operations
+
+672.9
+
+1,269.7
+
+205.3
+
+1,188.3
+
+832.5
+
+Capital expenditure
+
+643.4
+
+457.6
+
+412.5
+
+395.8
+
+346.5
+
+29.6
+
+812.1
+
+(207.2)
+
+792.6
+
+486.0
+
+(80.4)
+
+711.4
+
+(277.4)
+
+736.0
+
+428.4
+
+Cash and short-term investments
+
+2,344.3
+
+2,769.3
+
+1,982.7
+
+2,710.9
+
+1,903.3
+
+Gross available cash
+
+2,344.3
+
+2,769.3
+
+1,982.7
+
+2,710.9
+
+1,903.3
+
+0.0
+
+0.0
+
+42.5
+
+0.0
+
+522.1
+
+3,653.8
+
+3,397.7
+
+3,264.6
+
+3,320.6
+
+3,144.3
+
+EBITDA margin (%)
+
+6.3
+
+7.0
+
+7.7
+
+7.2
+
+6.6
+
+Return on capital (%)
+
+15.5
+
+13.8
+
+13.4
+
+10.6
+
+8.3
+
+EBITDA interest coverage (x)
+
+14.4
+
+13.9
+
+13.1
+
+9.7
+
+8.4
+
+FFO cash interest coverage (x)
+
+14.6
+
+16.1
+
+10.8
+
+10.3
+
+9.7
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.6
+
+FFO/debt (%)
+
+N.M.
+
+N.M.
+
+1,462.1
+
+N.M.
+
+126.7
+
+Cash flow from operations/debt (%)
+
+N.M.
+
+N.M.
+
+482.6
+
+N.M.
+
+159.4
+
+FOCF/debt (%)
+
+N.M.
+
+N.M.
+
+(487.2)
+
+N.M.
+
+93.1
+
+DCF/debt (%)
+
+N.M.
+
+N.M.
+
+(652.2)
+
+N.M.
+
+82.0
+
+N.M.--Not meaningful.
+
+Liquidity: Strong
+We consider Strabag's liquidity to be strong and estimate that its liquidity sources will exceed needs by more than 1.5x
+in 2019 and 2020. The company enjoys solid relationships with banks. Perceived stability in the financial markets and
+prudent financial risk management further support our strong liquidity assessment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+Strabag SE
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About €2.4 billion in cash as of Dec. 31, 2018;
+
+• Short-term debt maturities of €276 million in 2019;
+
+• Access to a fully undrawn €400 million syndicated
+loan facility maturing in 2024; and
+
+• Capex of €550 million-€600 million annually over
+the next two years;
+
+• Cash FFO generation of around €800 million.
+
+• Significant cash outflows of about €500 million per
+year related to seasonal working capital needs due
+to the nature of the business;
+• Working capital outflows of up to €300 million-€500
+million per year over the next two years;
+• Bolt-on acquisitions of about €100 million annually;
+and
+• Dividends of about €130 million-€150 million
+annually.
+
+Covenant Analysis
+Compliance expectations
+Headroom under financial covenants is currently ample and we assume no tightening in our base case.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Strabag has two bonds outstanding maturing between 2020 and 2022, amounting to €400 million at Dec. 31, 2018. The
+bonds represent 29% of total consolidated debt, and are all issued at the parent level. The remaining part of the
+financial debt is represented by bank borrowings.
+
+Analytical conclusions
+We rate Strabag's notes 'BBB', the same as the issuer credit rating, because we believe that its leverage is sufficiently
+low to offset any potential subordination risk.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+Strabag SE
+
+Table 3
+
+Reconciliation Of Strabag SE Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018-Strabag SE reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+3,620.7
+
+952.6
+
+558.2
+
+43.9
+
+960.3
+
+736.2
+
+645.0
+
+(90.4)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+1,363.3
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(45.6)
+
+--
+
+--
+
+Operating leases
+
+176.6
+
+--
+
+63.8
+
+12.2
+
+12.2
+
+(12.2)
+
+51.6
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+535.0
+
+--
+
+--
+
+--
+
+8.8
+
+--
+
+--
+
+--
+
+(2,039.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+1.6
+
+(1.6)
+
+(1.6)
+
+(1.6)
+
+Dividends received from equity
+investments
+
+--
+
+--
+
+70.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Deconsolidation/consolidation
+
+(730.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Income (expense) of
+unconsolidated companies
+
+--
+
+--
+
+(84.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+--
+
+19.2
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(70.5)
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+33.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+(42.7)
+
+(42.7)
+
+--
+
+--
+
+--
+
+--
+
+Operating cash flow: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(42.7)
+
+--
+
+(2,058.7)
+
+33.1
+
+7.7
+
+(11.3)
+
+22.6
+
+(149.8)
+
+(63.2)
+
+(1.6)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+810.5
+
+672.9
+
+643.4
+
+Accessible cash and liquid
+investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt¶
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+--
+
+3,653.8
+
+960.3
+
+546.9
+
+66.5
+
+When calculating our adjusted credit ratios, we add to reported debt €535 million of pension liabilities and €177
+million related to capitalized operating leases. Our surplus cash figure incorporates a haircut of about €300 million to
+cash and liquid short-term investments, which we believe would not be immediately available for debt repayment. We
+do not include on- and off-balance-sheet nonrecourse debt relating to the AKA motorway concessions in Hungary and
+to the PANSUEVIA motorway concession in Germany in any of our adjusted leverage ratios. This is because we do
+not expect Strabag will provide financial support to these concessions if they are in need.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+Strabag SE
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Engineering And Construction Industry, Nov. 19,
+2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+Strabag SE
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 9, 2019)*
+Strabag SE
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+22-Jun-2015
+
+BBB/Stable/--
+
+14-Nov-2007
+
+BBB-/Stable/--
+
+25-May-2007
+
+BB+/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 13
+
+

@@ -1,0 +1,451 @@
+PAE Holding Corp.
+Primary Credit Analyst:
+Stephen E Kahn, New York (1) 212-438-5012; stephen.kahn@spglobal.com
+Secondary Contact:
+Christopher A Denicolo, CFA, Washington D.C. (1) 202-383-2398; christopher.denicolo@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings--Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+PAE Holding Corp.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Robust government spending environment
+
+Competes in the highly competitive government services industry
+
+Recent acquisitions have broadened capabilities
+
+Modest scale relative to other government service providers
+
+Diversified customer and contract bases for its size Relatively low margins, as the company utilizes cost savings to bid more competitively
+Debt leverage above 7x and financial sponsor unlikely to reduce leverage below 5x.
+
+New award delays and subsequent protests have slowed earnings growth and an improvement in credit metrics.
+While award protests are common throughout the government services industry, they are currently having an outsized
+impact on PAE Holding Corp., which is counting on new work to replace recently completed and lost contracts. In
+addition, the company has also dealt with delays in new program ramp-up, resulting in slower earnings improvement
+than previously anticipated. These trends are likely to result in debt to EBITDA only improving to 6.3x-6.7x in 2019,
+compared with our previous expectations of 5.0x-5.4x.
+However, new business wins and on-contract growth should result in earnings and credit ratios improving over the next
+12-24 months. PAE's acquisitions over the past few years have helped to expand its range of capabilities and position
+itself for new business wins. The result has been new contract awards, particularly in the National Security Solutions
+(NSS) segment, which is typically higher margin and has better long-term growth prospects. The company has
+managed to supplement the growth in NSS with margin improvement due to increased scale and more efficient project
+management.
+PAE benefits from fairly good contract diversity, limiting the impact of individual contract losses or delays on earnings.
+No contract accounts for more than 7% of PAE's annual revenue, so the loss of a top contract would only have a
+moderate impact on revenues and earnings. While the company's recent challenges arose due to multiple lost
+contracts and delays all occurring at the same time, PAE should be less susceptible to similar issues in the future as it
+takes on new business. Also, recompete risk is modest, as PAE generally has less than 15%-20% of contracts up for
+recompete in any given year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+PAE Holding Corp.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that the company's leverage will improve modestly over the next 12
+months due to higher earnings and some debt reduction, but will remain high. We do not expect its debt to
+EBITDA to fall below 5x because its private equity sponsor will probably undertake further dividends or
+debt-financed acquisitions.
+
+Downside scenario
+We could lower our rating on PAE if debt to EBITDA remains over 7x for the next 12 months and we don't expect
+it to improve. This could occur if the company undertakes a debt-financed acquisition or dividends, faces
+integration challenges, loses material contracts, or encounters profitability issues. We could also lower the rating if
+the company's liquidity position materially deteriorates.
+
+Upside scenario
+PAE's ownership by a private equity firm and the potential for a debt-financed dividend or other transaction that
+could significantly increase its leverage make it unlikely that we will upgrade the company under its current
+ownership structure.
+
+Our Base-Case Scenario
+Assumptions
+
+• Organic revenue growth between 5%-7% annually
+due to a robust federal budget, new business wins,
+and on-contract growth;
+• Total revenue growth supplemented by small
+acquisitions around $25 million annually;
+• Stable EBITDA margins of 5.0%-5.5%;
+• Very modest capital spending around $10 million
+annually; and
+
+Key Metrics
+
+2018a
+FFO to debt (%)
+Debt to EBITDA (x)
+DCF/debt (%)
+
+2019e
+
+2020f
+
+2.7 4.6-5.0 6.2-6.6
+7.7 6.3-6.7 5.6-6.0
+(4.6) 8.1-8.5 4.8-5.2
+
+a--Actual. e--Estimate. f--Forecast. FFO--Funds from
+operations. DCF--Discretionary cash flow.
+
+• No forecasted dividends.
+
+Company Description
+PAE provides integrated services to support missions worldwide. Its services include military aviation and
+ground-vehicle maintenance, expeditionary construction, national army and policy training, civil infrastructure
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+PAE Holding Corp.
+
+support, and development of the criminal justice sector. More broadly, PAE provides foreign assistance and works on
+stability operations around the world. It customers include the U.S. government, defense forces, international agencies,
+and foreign governments. Operations are divided into two business units--GMS (about 75% of revenues), which is
+more focused on Department of Defense, and NSS (25%), which is more intelligence-based. Platinum Equity, a
+private-equity firm, owns PAE.
+
+Business Risk: Weak
+Modest-size PAE participates in the competitive government services market and has relatively low margins, but is
+currently benefitting from sustained robust defense spending. Many of PAE's services are relatively unsophisticated
+and customer relationships are one of the only key barriers to entry. The company has been broadening its customer
+diversity by expanding its work with intelligence and civilian agencies from its military customer base. The
+government services market is historically price-competitive, but customers are focusing more on value and a
+company's capabilities than solely on price in recent years due to increasing defense budgets.
+PAE maintains a flexible cost structure, allowing it to bid effectively in a price-sensitive environment. Most contracts
+are cost-plus, which have limited downside risk, but also create a ceiling for margins. While the company is working to
+decrease costs, we expect it will use cost savings to bid more aggressively, ultimately leaving margins stable.
+
+Financial Risk: Highly leveraged
+PAE's debt to EBITDA was just over 7.5x in 2018, but we expect it to drop to 6.3x-6.7x in 2019 and below 6x by the
+end of 2020 as earnings grow modestly and the company pays down debt. However, we do not expect Platinum to
+actively try to reduce leverage much beyond that point, and if it continued declining, we believe the sponsor would
+pursue large acquisitions or perhaps take a debt-funded dividend. We expect the company to generate good cash flow
+due to low capital expenditures and modest working capital needs, with excess cash likely used to reduce debt unless
+if finds suitable acquisition targets.
+
+Liquidity: Adequate
+We assess PAE's liquidity as adequate, with sources of cash likely to exceed uses by more than 4x for the next 12
+months. We also expect net liquidity sources to be positive, even with a 15% drop in EBITDA. Although we believe
+PAE has sound relationships with its banks, its overall standing in the credit markets is not as strong as that of its
+larger, more well-established competitors and we don't believe that PAE would be able to absorb a low-probability,
+high-impact event without refinancing.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+PAE Holding Corp.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of about $55 million as of June 30, 2019;
+
+• Capital spending of about $10 million per year; and
+
+• Availability of about $90 million under its $150
+million revolving credit facility due 2021; and
+
+• Required term loan amortization of about $30
+million annually.
+
+• Cash from operations of $40 million-$50 million over
+the next 12 months.
+
+Covenant Analysis
+Compliance expectations
+We do not expect the company's usage of the revolver to exceed 87.5%, so it is unlikely that the leverage covenant in
+the asset-based lending (ABL) revolver will be tested in the next year. There are no financial maintenance covenants
+on the term loans.
+
+Requirements
+The ABL revolver has a minimum fixed-charge covenant of 1:1 that is only tested if availability is below 12.5%.
+
+Issue Ratings--Recovery Analysis
+Key analytical factors
+• The company's capital structure consists of a $595 million first-lien term loan ($529 million outstanding) due 2022, a
+$268 million second-lien term loan ($265 million outstanding) due 2023, and a $150 million ABL revolver due 2021
+(not rated).
+• We value the company on a going-concern basis using a 5x multiple of our projected emergence EBITDA. Other
+key assumptions at default include LIBOR of 2.5% and the ABL revolver is 60% drawn. Drawings under the ABL are
+considered priority claims.
+
+Simulated default assumptions
+• Simulated year of default: 2022
+• EBITDA at emergence: $97 million
+• EBITDA multiple: 5x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $460 million
+• Valuation split (obligors/nonobligors): 100%/0%
+• Priority claims: $71 million
+• Collateral available to first-lien creditors: $389 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+PAE Holding Corp.
+
+• First-lien debt claims: $465 million
+• Recovery expectations: 70%-90% (Rounded Estimate: 80%)
+• Collateral available to second-lien creditors: $0
+• Secured second-lien debt claims: $281 million
+• Recovery expectations: 0%-10% (Rounded Estimate: 0%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Aerospace And Defense Industry, March 25, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+PAE Holding Corp.
+
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 25, 2019)*
+PAE Holding Corp.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B+
+
+Senior Secured
+
+CCC+
+
+Issuer Credit Ratings History
+28-Sep-2016
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+

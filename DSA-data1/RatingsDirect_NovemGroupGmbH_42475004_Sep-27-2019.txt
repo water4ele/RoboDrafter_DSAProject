@@ -1,0 +1,510 @@
+Novem Group GmbH
+Primary Credit Analyst:
+Margaux Pery, Paris (33)1-4420-7335; margaux.pery@spglobal.com
+Secondary Contact:
+Anna Stegert, Frankfurt (49) 69-33-999-128; anna.stegert@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Novem Group GmbH
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Global leader in high-end decorative trim elements for premium
+cars' interiors, with an estimated market share of above 40%.
+
+High customer concentration reflective of premium original equipment
+manufacturer (OEM) market, with top-two customers accounting for about
+two-thirds of sales.
+
+Above-average EBITDA margin for the industry, in the high
+teens.
+
+Operates in a cyclical and competitive industry.
+
+Low capital expenditure (capex) for the next two years will
+support free cash flow generation.
+
+Competes with larger players with stronger financial health.
+
+High customer concentration is a key credit risk. Novem Group GmhH relies on two customers for about two-thirds of
+its sales. This is a key credit risk because lower production volumes from these producers due to factors such as
+softening consumer demand, could cause earnings volatility.
+Novem's EBITDA margin is above the industry average. With an EBITDA margin in the high teens, Novem's
+profitability ranks above the industry average. This reflects Novem's efforts to increase the proportion of employees in
+low cost countries such as Mexico, Slovenia, or Czech Republic. It also reflects the high utilization rates in most of
+Novem's plants and the company's ability to control its costs and its scrappage rates.
+S&P Global Ratings expects credit metrics will remain stable. We expect Novem's credit metrics will remain broadly
+stable over the next two years based on our assumption of modest organic growth fueled by its exposure to premium
+cars sales, continued efficiency gains offsetting contractual price reductions, and lower capex needs. Current capacity
+should be sufficient to cover the company's needs.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+Novem Group GmbH
+
+Outlook: Stable
+
+The stable outlook reflects our expectations than Novem will maintain its EBITDA margin in the high teens over
+the next 12 months, despite the weakening auto market. In addition, we expect the company to sustain S&P Global
+Ratings-adjusted debt to EBITDA of around 3.0x-3.5x and free operating cash flow (FOCF) to debt of about 10%.
+
+Downside scenario
+We could lower our ratings on Novem if its funds from operations (FFO) to debt decreased to below 12% or if its
+debt to EBITDA increased toward 4.5x. A large debt-financed acquisition or additional dividend recapitalization
+could also lead to a negative rating action.
+
+Upside scenario
+We could raise our ratings on Novem if it significantly decreased its customer concentration and extended its
+product offering, while maintaining EBITDA margin in the high teens and its FFO to debt near 20%.
+
+Our Base-Case Scenario
+Assumptions
+
+• Global real GDP growth of about 3.3% in 2019,
+down from 3.8% in 2018, with the U.S. at 2.5% in
+2019 from 2.9% in 2018; Europe at 1.3% in 2019
+from 2.2% in 2018; and China at 6.2% in 2019 from
+6.6% in 2018.
+• Net sales up by 2%, benefiting from Novem's
+positioning on premium cars, which should enable
+the company to outperform the market.
+• EBITDA margin to remain broadly stable in the high
+teens.
+
+Key Metrics
+
+2019a*
+
+2020e
+
+2021e
+
+EBITDA margin (%)
+
+High teens High teens High teens
+
+FFO to debt (%)
+
+20
+
+20
+
+20
+
+Debt to EBITDA (x)
+
+3.4
+
+3-3.5
+
+3-3.5
+
+Note: All figures are S&P Global Ratings adjusted. All
+dates refer to fiscal year ending March 31. a--Actual.
+e--Estimate. FFO--Funds from operations. *Pro forma
+the transaction.
+
+• Lower capex of about €20 million-€30 million,
+compared with €39 million in fiscal year 2019 (fiscal
+year ends March 31, 2019) because the company
+has completed its major investment programs.
+• No dividends and no acquisitions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+Novem Group GmbH
+
+Base-case projections
+We expect that Novem will outperform the auto market in revenue terms. Thanks to its positioning on premium autos,
+we expect that Novem will increase its revenue above the market rate. Overall, we forecast growth in net sales of
+about 2% for fiscal 2020. The main risk to our assumption could come from weaker-than-expected sales from key
+customers given the challenging market environment and Novem's large exposure to these automaker companies.
+Novem's EBITDA margin is stable thanks to its cost-efficient industrial footprint. Despite its high-end positioning,
+Novem's customers require prices declines every year for existing platforms, as is typical in the industry. Thanks to its
+cost-efficient industrial footprint, we assume that Novem will be able to offset these prices declines through efficiency
+gains and will be able to maintain an above-average EBITDA margin for the industry in fiscal 2020.
+We expect decreasing capex needs will support free cash flow generation. Novem will reduce its capex investments in
+the next two years as it has already completed its major investment programs with the opening of new plants in
+Mexico and China. We therefore forecast that Novem will generate sizable positive FOCF over the next two years.
+
+Company Description
+Novem designs, manufactures, and supplies decorative interior trim elements to premium original equipment
+manufacturers such as Daimler or BMW. For the 12 months to March 2019, its net sales amounted to about €705
+million and it had about 6,300 employees.
+Bregal, an investment business of Swiss COFRA Holding AG, which was established to consolidate and manage direct
+investments of the Brenninkmeijer family, acquired Novem in 2011. It holds about 86% of the company's equity, while
+management holds the remaining stake.
+
+Business Risk: Weak
+We expect that Novem will sustain its current market position as a leading supplier in the niche market of high-end
+decorative trim elements for the interior of premium cars.
+Novem operates in the competitive and cyclical auto market with no presence in aftermarket, which we typically see
+as more stable. Nevertheless, its exposure to premium cars provides slightly better growth prospects than the overall
+new cars market.
+Novem could be vulnerable to product quality and any attempt by larger competitors to enter the niche market.
+However, it should be more difficult for a new entrant given the complexity of processes and long-standing customer
+relationships.
+
+Financial Risk: Aggressive
+Novem Group used the proceeds of the €400 million notes and €38 million of cash from balance sheet for shareholders
+returns. As part of the transaction, Car Interior Design, the parent company of Novem Group GmbH, received a
+shareholder loan. We exclude this loan from our credit metrics because it qualifies for equity treatment based on the
+documentation we have reviewed.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+Novem Group GmbH
+
+We believe that the shareholders will pursue a conservative financial policy with target leverage remaining below
+opening gross leverage of about 2.7x (equivalent to about 3.5x adjusted debt to EBITDA). We incorporate a degree of
+cushion due to our perception of the financial sponsor ownership. As a result, we do not net cash from gross financial
+debt. The notes documentation includes a specified change of control clause under which the noteholders cannot put
+the notes if consolidated net debt to EBITDA is below 2.5x (which was already the case at launch). The company also
+has some headroom to raise additional secured debt for acquisitions because its fixed-charge coverage ratio is well
+above 2.0x, subject to the fixed-charge coverage ratio being at the same level before and after the acquisition. We note
+that the company could also raise additional unsecured debt based on its current fixed-charge coverage ratio.
+Our adjustments to Novem's reported debt mainly include factoring liabilities, operating leases, and pension liabilities.
+
+Liquidity: Adequate
+We believe that Novem has adequate sources of liquidity to cover its needs over fiscal 2020, even if EBITDA declines
+unexpectedly. Even though the ratio of liquidity sources over needs exceed 1.5x, our assessment of adequate liquidity
+reflects the lack of track record of Novem's high standing in credit markets in comparison with larger auto suppliers
+such as Faurecia.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+Our estimate of Novem's principal liquidity sources,
+pro forma the senior secured debt issuance, include:
+
+This compares with our estimate of the company's
+principal liquidity uses for the same period, which are:
+
+• Cash totaling about €59 million;
+
+• Annual capex of about €20 million-€30 million; and
+
+• Full availability under the €75 million revolving
+credit facility (RCF) due 2023; and
+
+• About €15 million-€20 million of working
+capital-related outflows.
+
+• Our estimate for FFO of about €90 million-€95
+million over the 12 months from March 31, 2019.
+
+Debt maturities
+As of March 31, 2019 (pro forma the transaction), Novem's debt maturities were as follows:
+• 2024: €400 million.
+• The €75 million super senior RCF which matures in 2023 is expected to remain undrawn.
+
+Covenant Analysis
+The RCF is subject to a springing covenant (net consolidated leverage of 4.25x) that is tested when drawings exceed
+35%. The RCF was undrawn at closing of the transaction.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+Novem Group GmbH
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Novem's €400 million senior secured floating rate notes are rated 'B+' with a '3' recovery rating. The recovery
+prospects are constrained by the super senior ranking of the RCF and by factoring liabilities that we consider as
+priority liabilities.
+• The company's €75 million super senior RCF has a 'BB' issue rating with a '1' recovery rating. The recovery
+prospects are supported by the first ranking status of the RCF.
+• Under our simulated default scenario, we assume a payment default in 2023 due to a combination of the following
+factors: production cuts at one or more of Novem's major customers, a sustained economic downturn that reduces
+customer demand for new automobiles, and intense pricing pressure resulting from the competitive actions of other
+auto suppliers and/or raw material vendors.
+• We value Novem as a going concern reflecting its attractive industrial footprint and its know-how in complex
+manufacturing processes for the supply of high-end decorative trim elements.
+
+Simulated default assumptions
+• Year of default: 2023
+• Jurisdiction: Germany
+• EBITDA at emergence: €73 million
+• Enterprise value (EV) multiple: 5x
+• An 85% draw under the RCF at default.
+• Administrative costs of 5% of EV, which is our standard assumption for the auto supplier sector.
+
+Simplified waterfall
+• Gross EV: €366 million
+• Net EV: €348 million
+• Priority liabilities: €20 million
+• Estimated super senior debt claims: €66 million*
+• Recovery expectations: 90%-100% (rounded estimate 95%)
+• Estimated senior secured debt claims: €415 million*
+• Recovery expectations: 50%-70% (rounded estimate 60%)
+*All debt includes six months of prepetition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+Novem Group GmbH
+
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-5 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b+
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Auto Suppliers Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+Novem Group GmbH
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 16, 2019)*
+Novem Group GmbH
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+B+
+
+Senior Secured
+
+BB
+
+Issuer Credit Ratings History
+29-Jul-2019
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+

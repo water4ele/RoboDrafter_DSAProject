@@ -1,0 +1,1654 @@
+Petroleo Brasileiro S.A. - Petrobras
+Primary Credit Analyst:
+Luisa Vilhena, Sao Paulo (55) 11-3039-9727; luisa.vilhena@spglobal.com
+Secondary Contact:
+Felipe Speranzini, Sao Paulo (55) 11-3039-9751; felipe.speranzini@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Rating Above The Sovereign
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Petroleo Brasileiro S.A. - Petrobras
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb
+
+bbBB-/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Brazil National Scale
+brAAA/Stable/--
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Well positioned in terms of upstream proven reserve base.
+
+Exposure to volatile and capital-intensive industries with significant risks
+inherent to oil-price fluctuations.
+
+Favorable prospects for reserve replenishing and future production
+expansion through its focus on pre-salt fields.
+
+Potential government influence on fuel pricing policy, which can harm the
+company’s profitability and cash flow generation.
+
+Strong liquidity position and comfortable debt maturity profile.
+
+Geographic concentration in Brazil.
+
+Petrobras is continuing its divestment plan. The goal is to exit or reduce the company's stake in several segments, such
+as fertilizers, midstream and downstream assets, and shallow water, onshore, and mature oil and gas fields. The result
+will be a company focused on exploration and production (E&P), mainly in deep and ultra-deep water fields, where
+Petrobras has extensive expertise and efficient operations, translating into a substantial competitive advantage.
+Debt reduction to continue with proceeds from asset sales. The company already received about $12.8 billion in the first
+half of 2019, and our base-case forecast assumes about $9 billion in additional asset sales until 2020. These figures
+exclude the sale of eight refineries, which management expects to complete by 2021, given uncertainties about timing
+and amounts. With proceeds from asset sales, we expect Petrobras to continue reducing its gross debt, to reach its
+target of net debt to EBITDA below 1.5x in 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Chart 1
+
+Petrobras will remain exposed to the inherent volatility of oil and gas prices, even more following the divestments in
+midstream and downstream operations. However, the company should be able to mitigate this through the increasing
+share of production in pre-salt fields, where it has been achieving constant increases in productivity, with lifting costs
+as low as $6 per boe in the second quarter of 2019. Also, the company has been focusing on reducing overall costs and
+expenses at various organization levels, such as closing some offices and reducing office space, as well as investing in
+digital initiatives to improve efficiency.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Outlook: Stable
+
+The stable outlook on the company incorporates that on Brazil, which in turns, caps our ratings on Petrobras.
+Given Petrobras' very strong link with the government, we don't believe the company could currently have a higher
+rating than its controlling shareholder. Our outlook also incorporates our view that Petrobras will maintain its solid
+operating performance and fairly stable cash flows, reflecting the contribution from new projects and from its
+profitable upstream assets. We also expect management to remain committed to its primary goal of debt reduction,
+which supports the rating.
+
+Upside scenario
+An upgrade of Petrobras depends on an upgrade of Brazil, or our view of a weaker link between the government
+and Petrobras. That would mean that a likelihood of a government interference during future credit stress
+scenarios--that go beyond the ones already incorporated into our stand-alone credit profile (SACP)--is lower and
+evidence of the impact of such mitigating factors are. A higher SACP could follow greater headroom in the
+company's credit metrics to withstand potentially volatile oil prices or unexpected sovereign interference. In such a
+scenario, we expect the company to maintain adjusted net debt to EBITDA at 2.0x-3.0x, funds from operations
+(FFO) to net debt above 30%, and free operating cash flow (FOCF) to net debt above 10% in a consistent manner
+for the next 12-24 months. It would also require a conservative approach to growth and shareholder remuneration
+and continued supportive production economics at Petrobras' main upstream assets.
+
+Downside scenario
+If we downgrade Brazil, we would take the same rating action on Petrobras. Absent any sovereign rating action,
+while our current assessment of extraordinary government support remains unchanged, a downgrade would occur
+if the company's SACP were to fall to 'b+' or lower. Although currently unlikely, this could follow a sharp and
+pronounced oil price decline or a deterioration in downstream profitability due to a less independent price policy,
+which leads to adjusted net debt to EBITDA consistently above 5.0x and FFO to net debt below 12%.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Assumptions
+
+• Average Brent oil price of $63 per barrel (bbl) for
+2019 (considering the first half of 2019 average and
+our price deck of $60 for the rest of the year). For
+2020, we assume $60/bbl and $55/bbl starting in
+2021.
+• Average exchange rate of R$3.9 per $1 in 2019,
+R$3.95 per $1 in 2020, and R$3.98 per $1 in 2021.
+• Company's oil production in Brazil increasing about
+8.5% in 2019 and 5% annually in the following years.
+This is a result of new production systems, mainly
+extraction in ultra-deep waters.
+
+Key Metrics
+
+2018A 2019E
+
+2020E
+
+EBITDA margin (%)
+
+45.6
+
+45-50
+
+42-48
+
+Debt to EBITDA (x)
+
+3.8
+
+2.3-3.0 2.0-2.7
+
+FFO to debt (%)
+
+18.3
+
+25-35
+
+25-35
+
+FOCF to debt (%)
+
+7.9
+
+10-20
+
+5-15
+
+All figures are S&P Global Ratings adjusted.
+E--Estimate.
+
+• Lifting costs at $10-$11 per boe, benefiting in the
+medium term from the ramp-up of new pre-salt
+fields, in which the company has lower costs.
+• Stable refining costs at about $2.5 per bbl.
+• We assume that Petrobras will keep its gasoline and
+diesel prices in line with international prices,
+reflecting its active pricing strategy.
+• Annual capex of $10 billion - $14 billion in 2019 and
+2020, and $16.5 billion in 2021, mainly for the
+development of pre-salt fields.
+• Cash inflows from asset-sales of about $14 billion in
+2019 and $6 billion in 2020.
+• These proceeds and FOCF used to pay down debt.
+
+Base-case projections
+Petrobras will receive about $9 billion from the government in December 2019, linked to the surplus oil bidding round,
+due to the agreement regarding the transfer of rights. We expect Petrobras to use most or all of the proceeds to invest
+in E&P.
+Focus is on debt reduction, but we believe Petrobras would increase dividends as net leverage target approaches 1.5x.
+Assuming additional cash inflows from asset sales over the next quarters, adequate market conditions with stable or
+increasing oil prices, and controlled capex, the company would likely use some excess cash to remunerate
+shareholders.
+Expected sale of refineries will likely reduce the risk of potential governmental interference in Petrobras' fuel pricing
+mechanics. It could lead to a more free market approach rather than government price limits to control inflation, which
+has historically harmed Petrobras' profitability.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Company Description
+Petrobras is Brazil's national integrated oil and gas company, founded in 1953. It has market capitalization of more
+than $80 billion. The government directly holds 50.3% of the company's voting capital and 28.7% of total capital.
+Petrobras holds and operates the main oil and gas fields in Brazil, with a significant amount of net proven
+reserves--12.0 billion barrels of oil equivalent (boe) according to the Brazilian National Agency of Petroleum, Natural
+Gas, and Biofuels and the Society of Petroleum Engineers. The company's reserves total 9.6 boe, according to the U.S.
+Securities and Exchange Commission's criteria as of December 2018. Petrobras has total oil and gas production of
+about 2.6 million boe (MMboe). Petrobras' downstream activities are refining and marketing. With its significant
+divestment plan that aims to reduce debt, the company is focusing on its core activities: E&P.
+Chart 2
+
+Business Risk: Satisfactory
+Petrobras' E&P business is sound in terms of the scale, quality, lifetime, and replacement reserve level. On the other
+hand, the company is exposed to highly volatile and cyclical commodity sectors, which results in inherent challenges,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Petroleo Brasileiro S.A. - Petrobras
+
+such as reserve replacement and maintaining production levels. Still, we believe Petrobras is now better placed to
+withstand an industry downturn because of better profitability in its downstream business and continued
+cost-reduction efforts in upstream, with an average portfolio breakeven level below $40/bbl. The company has a large
+portfolio of greenfield projects, which should support production growth over the next several years. These projects
+will bring higher-margin barrels that will benefit from a rebalanced cost structure. We also expect Petrobras to
+continue overhauling its exploratory portfolio, actively participating in Brazil's bidding rounds.With the maintenance of
+gasoline and diesel prices in line with international prices, along with cost-cutting initiatives and focus on more
+efficient operations, we expect the company to post EBITDA margin 43%-50% in the next 2-3 years.
+
+Peer comparison
+Petrobras is one of the main oil players in Latin America along with Petroleos Mexicanos (PEMEX), Ecopetrol S.A.,
+and YPF S.A. It compares favorably among these players in terms of production levels and proven reserves. On the
+other hand, Petrobras has historically higher leverage than Ecopetrol and YPF, although it will get closer to these peers
+following the completion of debt reduction.Same as Petrobras, the ratings on the other three Latin American entities
+are linked to their respective sovereign ratings, given their state-owned status and our view of potential support or
+influence. The rating on PEMEX is higher because the sovereign rating is higher than the company's SACP. On the
+contrary, Petrobras and YPF ratings are lower than their respective SACPs because of lower sovereign ratings.We also
+view Petrobras as well positioned among major integrated E&P companies in terms of its reserve base. On the other
+hand, the peers in general have a much lighter balance sheet than Petrobras and have larger scale, sound level of
+integration, and geographic diversity, resulting in higher ratings.
+Table 1
+
+Petroleo Brasileiro S.A. - Petrobras -- Peer Comparison
+Industry Sector: Integrated Oil & Gas
+Petroleo Brasileiro S.A. - Petrobras Petroleos Mexicanos Ecopetrol S.A.
+Ratings as of Sept. 2, 2019
+
+BB-/Stable/--
+
+BBB+/Negative/--
+
+YPF S.A.
+
+BBB-/Stable/-- B-/Negative/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+90,366.1
+
+85,550.5
+
+21,130.0
+
+11,575.4
+
+EBITDA
+
+41,165.4
+
+31,385.6
+
+9,946.0
+
+3,838.9
+
+Funds from operations (FFO)
+
+28,892.6
+
+23,676.0
+
+6,660.3
+
+2,903.9
+
+Interest expense
+
+12,357.5
+
+11,079.5
+
+992.5
+
+794.9
+
+9,319.0
+
+5,867.0
+
+810.1
+
+730.1
+
+Cash flow from operations
+
+23,856.4
+
+1,358.0
+
+6,307.6
+
+2,847.0
+
+Capital expenditure
+
+11,362.3
+
+5,544.9
+
+2,605.8
+
+2,345.1
+
+Free operating cash flow (FOCF)
+
+12,494.1
+
+(4,186.9)
+
+3,701.8
+
+502.0
+
+Discretionary cash flow (DCF)
+
+11,707.3
+
+(4,186.9)
+
+2,338.1
+
+466.9
+
+Cash and short-term investments
+
+14,995.4
+
+4,168.4
+
+1,915.6
+
+1,513.1
+
+157,832.3
+
+143,656.6
+
+12,865.2
+
+10,634.0
+
+73,242.0
+
+(74,267.7)
+
+17,589.2
+
+9,624.2
+
+45.6
+
+36.7
+
+47.1
+
+33.2
+
+Cash interest paid
+
+Debt
+Equity
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Table 1
+
+Petroleo Brasileiro S.A. - Petrobras -- Peer Comparison (cont.)
+Industry Sector: Integrated Oil & Gas
+Petroleo Brasileiro S.A. - Petrobras Petroleos Mexicanos Ecopetrol S.A.
+Return on capital (%)
+
+YPF S.A.
+
+12.2
+
+35.1
+
+24.1
+
+9.2
+
+EBITDA interest coverage (x)
+
+3.3
+
+2.8
+
+10.0
+
+4.8
+
+FFO cash interest coverage (x)
+
+4.1
+
+5.0
+
+9.2
+
+5.0
+
+Debt/EBITDA (x)
+
+3.8
+
+4.6
+
+1.3
+
+2.8
+
+FFO/debt (%)
+
+18.3
+
+16.5
+
+51.8
+
+27.3
+
+Cash flow from operations/debt (%)
+
+15.1
+
+0.9
+
+49.0
+
+26.8
+
+FOCF/debt (%)
+
+7.9
+
+(2.9)
+
+28.8
+
+4.7
+
+DCF/debt (%)
+
+7.4
+
+(2.9)
+
+18.2
+
+4.4
+
+Financial Risk: Aggressive
+With proceeds from asset sales and meaningful FOCF, along with plans for lower capex, we expect Petrobras to
+continue reducing gross debt, at least until next year, to reach its net leverage goal of less than 1.5x. We expect the
+company to continue pre-paying higher cost debt, which will also lead to lower interest burden, as it continues to
+gradually extend its debt tenor. While credit metrics are improving, we might see somewhat higher volatility in the
+future, given that Petrobras will reduce its integration level by divesting midstream and downstream operations,
+increasing its exposure to oil and gas price fluctuations. If amid this potential volatility, the company is able to
+maintain debt to EBITDA below 3.0x, FFO to debt above 30%, and FOCF to debt above 10% in a consistent manner,
+we could revise our financial risk profile assessment to a stronger category.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Chart 5
+
+Financial summary
+Table 2
+
+Petroleo Brasileiro S.A. - Petrobras -- Financial Summary
+Industry Sector: Integrated Oil & Gas
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+349,836.0
+
+283,695.0
+
+282,589.0
+
+321,638.0
+
+337,260.0
+
+EBITDA
+
+159,364.5
+
+127,602.0
+
+136,299.5
+
+133,264.5
+
+106,160.0
+
+Funds from operations (FFO)
+
+111,852.6
+
+86,148.9
+
+86,956.1
+
+84,317.5
+
+67,729.0
+
+Interest expense
+
+47,839.9
+
+48,508.1
+
+54,189.4
+
+50,263.0
+
+38,737.0
+
+Cash interest paid
+
+36,076.9
+
+36,346.1
+
+42,003.4
+
+37,331.0
+
+24,986.0
+
+Cash flow from operations
+
+92,355.6
+
+81,160.9
+
+90,966.1
+
+92,214.5
+
+74,803.0
+
+Capital expenditure
+
+43,987.0
+
+43,614.0
+
+49,289.0
+
+71,311.0
+
+81,909.0
+
+Free operating cash flow (FOCF)
+
+48,368.6
+
+37,546.9
+
+41,677.1
+
+20,903.5
+
+(7,106.0)
+
+Discretionary cash flow (DCF)
+
+45,322.6
+
+37,008.9
+
+41,438.1
+
+20,903.5
+
+(15,841.0)
+
+Cash and short-term investments
+
+58,052.0
+
+80,731.0
+
+71,664.0
+
+100,892.0
+
+69,002.0
+
+(Mil. R$)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Table 2
+
+Petroleo Brasileiro S.A. - Petrobras -- Financial Summary (cont.)
+Industry Sector: Integrated Oil & Gas
+--Fiscal year ended Dec. 31-2018
+Gross available cash
+
+2017
+
+2016
+
+2015
+
+2014
+
+58,052.0
+
+80,731.0
+
+71,664.0
+
+100,892.0
+
+69,002.0
+
+Debt
+
+611,019.0
+
+550,903.8
+
+597,979.7
+
+704,875.8
+
+541,847.3
+
+Equity
+
+283,543.0
+
+269,609.0
+
+252,743.0
+
+257,930.0
+
+310,722.0
+
+EBITDA margin (%)
+
+45.6
+
+45.0
+
+48.2
+
+41.4
+
+31.5
+
+Return on capital (%)
+
+Adjusted ratios
+
+12.2
+
+8.0
+
+6.5
+
+7.1
+
+5.9
+
+EBITDA interest coverage (x)
+
+3.3
+
+2.6
+
+2.5
+
+2.7
+
+2.7
+
+FFO cash interest coverage (x)
+
+4.1
+
+3.4
+
+3.1
+
+3.3
+
+3.7
+
+Debt/EBITDA (x)
+
+3.8
+
+4.3
+
+4.4
+
+5.3
+
+5.1
+
+FFO/debt (%)
+
+18.3
+
+15.6
+
+14.5
+
+12.0
+
+12.5
+
+Cash flow from operations/debt (%)
+
+15.1
+
+14.7
+
+15.2
+
+13.1
+
+13.8
+
+FOCF/debt (%)
+
+7.9
+
+6.8
+
+7.0
+
+3.0
+
+(1.3)
+
+DCF/debt (%)
+
+7.4
+
+6.7
+
+6.9
+
+3.0
+
+(2.9)
+
+Liquidity: Strong
+We assess Petrobras' liquidity as strong. The company's healthy cash balance, significant undrawn bank lines, and
+FOCF support this assessment. We expect Petrobras to continue to have solid access to banks and capital markets,
+given its stronger governance and lighter balance sheet. As a result, we expect the company's sources of liquidity to be
+at least 1.5x higher than its uses for the next 12 months.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash position of R$66.5 billion as of June 2019;
+
+• Short-term debt maturities of R$44.4 billion as of
+June 2019;
+
+• Committed credit facilities equivalent to about R$36
+billion;
+• FFO of about R$100 billion for the next 12 months;
+and
+• Proceeds from already contracted asset sales of
+R$9.8 billion.
+
+• Cash tender offer of the company's notes, totaling
+about R$10 billion, on July 2019;
+• Capex of about R$49 billion for the next 12 months;
+and
+• Dividend distribution equivalent to 25% of net
+income.
+
+Debt maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Chart 5
+
+Covenant Analysis
+Petrobras' outstanding debt obligations don't have acceleration financial covenants. Its BNDES loans have financial
+covenants of net debt to EBITDA of maximum of 5.5x, with no fixed assets given as guarantees. If the company
+breaches the ratio, it's supposed to give 130% of the loan amount as real guarantees.
+
+Compliance expectations
+We expect the company to maintain a very comfortable cushion on BNDES covenants, given that the company
+continues to reduce leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Environmental, Social, And Governance
+
+Governance factors are key drivers of Petrobras' credit quality. The company's market access, operating
+performance, and profitability were severely hit by the corruption investigation that started in 2014. However, we
+believe Petrobras took appropriate measures to improve its internal controls, relationship with suppliers, and
+decision-making process, which prompted us to assess its management and governance as fair (previously, it was
+weak). Though it's too early to say if these changes will be sustainable through future government changes in
+Brazil, we view Petrobras' governance as comparable to those of its global industry peers. We expect oil and gas
+companies' profitability to be cyclical due to price volatility. Until 2014, Petrobras was unable to take full
+advantage of the price peaks to bolster its cash flows because of the government's attempts to contain inflation and
+social tensions by constraining the fuel prices that Petrobras could charge. With the improved governance
+framework and prices now following international parity, we believe Petrobras will be able to benefit from price
+peaks in line with global peers.
+Petrobras' strategy for the next 5-10 years should continue to focus on the company's traditional offshore
+production. We believe that large offshore deepwater and ultradeepwater producers, like Petrobras, and drillers are
+more exposed than global peers to environmental factors, given the potential impact that spills could have on their
+operations.
+The company has committed to zero growth of absolute operating emissions through planned investments in
+natural gas and renewable energy. The capex commitment (about 6.5% of total capex) doesn't represent a risk to
+leverage or profitability, in our view. We also don't think safety and labor relations are a major credit concern at
+this point. The company's reported accident rate is comparable to those of the best companies in the sector.
+
+Rating Above The Sovereign
+Given Petrobras' very strong link with the government, we don't believe the company could currently have a higher
+rating than its controlling shareholder. We acknowledge a meaningful risk of extraordinary government intervention in
+the company during the sovereign's hypothetical fiscal stress. As a result, we don't view Petrobras' ability and
+willingness to service its debt as superior to that of the government. Furthermore, we view the government as a strong
+and stable shareholder, with influence on Petrobras' strategy and business plans and a tight association with the
+company in terms of reputation. Given that minority shareholders don't have veto power or substantial influence over
+cash flow decisions and that the government ultimately controls the board, we assume that if Brazil were to be in
+financial distress, it could draw support from Petrobras, even if the need for it appears remote at this point.
+
+Issue Ratings - Subordination Risk Analysis
+We don't apply a recovery analysis on Petrobras because domestic legislation doesn't provide a clear path to
+restructuring of government related entities in Brazil. Therefore, we're not in a position to assess the timing or
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+Petroleo Brasileiro S.A. - Petrobras
+
+procedures in the event of Petrobras' insolvency.
+
+Capital structure
+Petrobras' capital structure mainly consists of senior unsecured debt (about 50% of total debt) from capital markets
+issued by the financing vehicles, PGF and Pifco, and guaranteed by Petrobras, apart from bank loans. There is no
+material secured debt collateralized by real assets.
+
+Analytical conclusions
+The rating on Petrobras' senior unsecured debt is the same as our issuer credit rating on the company because it has
+limited secured debt. Even if the senior unsecured debt ranked behind the debt issued by subsidiaries in the capital
+structure, we believe the risk of subordination is mitigated by a priority debt ratio that's far less than 50% and by the
+material earnings generated by the parent.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Petroleo Brasileiro S.A. - Petrobras Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. R$)
+--Fiscal year ended Dec. 31, 2018-Petroleo Brasileiro S.A. - Petrobras reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+326,876.0
+
+277,225.0
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+106,603.0
+
+62,957.0
+
+21,848.0
+
+159,364.5
+
+95,846.0
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(9,531.0)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(20,989.0)
+
+--
+
+244,011.3
+
+--
+
+35,488.5
+
+15,087.9
+
+15,087.9
+
+(15,087.9)
+
+20,400.6
+
+57,128.3
+
+--
+
+6,678.0
+
+6,678.0
+
+6,678.0
+
+--
+
+--
+
+(58,052.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+6,584.0
+
+--
+
+--
+
+38,700.4
+
+--
+
+(2,358.0)
+
+(2,358.0)
+
+(2,358.0)
+
+--
+
+--
+
+Exploration costs
+
+--
+
+--
+
+1,904.0
+
+--
+
+--
+
+(1,904.0)
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+11,311.0
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(23,891.0)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+6,318.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2,355.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,085.0)
+
+(1,085.0)
+
+--
+
+--
+
+--
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+Capitalized interest
+Asset retirement obligations
+
+Debt: Tax liabilities
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Table 3
+
+Reconciliation Of Petroleo Brasileiro S.A. - Petrobras Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. R$) (cont.)
+EBITDA: Foreign exchange
+gain/(loss)
+
+--
+
+--
+
+1,646.0
+
+1,646.0
+
+--
+
+--
+
+--
+
+EBITDA: Valuation
+gains/(losses)
+
+--
+
+--
+
+(1,801.0)
+
+(1,801.0)
+
+--
+
+--
+
+--
+
+EBITDA: Other
+income/(expense)
+
+--
+
+--
+
+7,689.0
+
+7,689.0
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+4,600.0
+
+4,600.0
+
+--
+
+--
+
+--
+
+Working capital: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3,864.0
+
+Operating cash flow: Other
+Total adjustments
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3,864.0)
+
+284,143.0
+
+6,318.0
+
+52,761.5
+
+41,767.9
+
+25,991.9
+
+(47,511.9)
+
+(3,490.4)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+111,852.6
+
+92,355.6
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+611,019.0
+
+283,543.0
+
+159,364.5
+
+104,724.9
+
+47,839.9
+
+Until 2018, our debt measures included the net present value of company's future lease payments calculated using a
+7% discount rate as per our criteria. We used the future lease payments reported off-balance sheet within the notes in
+the company's financial statements. About 40% of the amounts that the company reported company as future lease
+commitments as of Dec. 31, 2018, corresponded to assets under construction.
+With the adoption of IFRS 16, Petrobras now reports the present value of future lease commitments related to
+operating assets on its balance sheet. According to our criteria, when a company capitalizes all leases on its balance
+sheet, we generally accept that treatment. As a result, starting in 2019, we will calculate debt measures for Petrobras
+by considering the lease figures it reports in its balance sheet. This means our historical adjusted debt will no longer
+include the future lease commitments related to assets under construction or not yet available for use, but we are
+including those in our forecasts as the assets become operational. While this will result in a significant change in our
+adjusted debt measures, it will be offset by a similar change in EBITDA so that the impact on ratios won't be
+meaningful. For example, our debt to EBITDA ratio for 2018 was 3.8x given leases both for assets in operation and in
+construction. If we were to exclude assets under construction from the lease adjustment, debt to EBITDA for 2018
+would have been 3.4x.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB-/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb
+
+• Likelihood of government support: Very high
+
+Related Criteria
+• General Criteria: Methodology For National And Regional Scale Credit Ratings, June 25, 2018
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Oil And Gas Exploration And Production Industry,
+Dec. 12, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 17
+
+Petroleo Brasileiro S.A. - Petrobras
+
+Related Research
+• Petrobras' Asset Sale And Transfer Of Rights Agreement To Continue Strengthening Balance Sheet, April 10, 2019
+• Petrobras' Stand-Alone Credit Profile Raised To 'bb'; 'BB-' Rating Affirmed On Sovereign Cap; Outlook Still Stable,
+Feb. 21, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+Petroleo Brasileiro S.A. - Petrobras
+Issuer Credit Rating
+
+BB-/Stable/--
+
+Brazil National Scale
+
+brAAA/Stable/--
+
+Senior Unsecured
+Brazil National Scale
+
+brAAA
+
+Issuer Credit Ratings History
+10-Feb-2017
+
+BB-/Stable/--
+
+17-Feb-2016
+
+B+/Negative/--
+
+10-Sep-2015
+
+BB/Negative/--
+
+23-Mar-2015
+
+BBB-/Negative/--
+
+11-Jul-2018
+
+Brazil National Scale
+
+brAAA/Stable/--
+
+16-Aug-2017
+
+brA+/Stable/--
+
+10-Feb-2017
+
+brA/Stable/--
+
+17-Feb-2016
+
+brBBB-/Negative/--
+
+03-Feb-2016
+
+brA+/Negative/--
+
+10-Sep-2015
+
+brAA/Negative/--
+
+26-Aug-2015
+
+brAAA/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 18
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 19
+
+

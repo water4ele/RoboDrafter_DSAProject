@@ -1,0 +1,1590 @@
+SIBUR Holding PJSC
+Primary Credit Analyst:
+Oliver Kroemker, Frankfurt (49) 69-33-999-160; oliver.kroemker@spglobal.com
+Secondary Contact:
+Alexander Griaznov, Moscow (7) 495-783-4109; alexander.griaznov@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+SIBUR Holding PJSC
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Largest integrated gas processing and petrochemical company in
+Russia
+
+High exposure to the Russian economy with about 60% geographical
+concentration of sales and 100% asset concentration in the region
+
+Access to competitively priced hydrocarbon feedstock
+
+Petrochemical industry cyclicality, which we expect will to result in volatility
+of earnings and cash flow
+
+High barriers to entry from extensive feedstock, gas processing,
+and pipeline infrastructure in Russia
+The highly profitable ZapSibNeftekhim (ZapSib) project, which
+will triple the company's basic polymer capacity
+Steady profitability across the cycle, with EBITDA margins above
+30%
+
+SIBUR has access to competitively priced hydrocarbon feedstock. SIBUR Holding PJSC's feedstock is priced based on
+export netbacks and at a significant discount to international prices. The proximity of the company's key production
+assets to the suppliers eliminates most of the feedstock transportation costs and export duties. This leads to SIBUR's
+above-average margins versus Europe, Middle East, And Africa (EMEA) chemical producers that S&P Global Ratings
+has ratings on.
+ZapSib's completion will bolster cash flows. We believe this project will allow the company to process an increased
+share of natural gas liquids (NGL) and convert it into highly profitable polyethylene (PE) and polypropylene (PP),
+nearly tripling SIBUR's basic polymer capacity. This should result in reducing the company's exposure to oil price
+volatility and lead to higher and more stable long-term earnings.
+Exposure to Russian economy remains a constraint to the ratings. SIBUR's heavy presence in Russia exposes the
+company to high foreign exchange volatility and significant cost inflation related to wages, utility costs, and transport.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+SIBUR Holding PJSC
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' view that, based on SIBUR's strong profitability and improved cash
+generation following the upcoming commissioning of the ZapSib project, the company will maintain an adjusted
+funds from operations (FFO)-to-debt ratio above 45% on average, which we view as commensurate with a 'BBB-'
+rating.
+
+Downside scenario
+Pressure on the rating could arise if we believe that SIBUR's average adjusted FFO-to-debt is likely to fall below
+45% without a prospect of a swift recovery, or if its free operating cash flow (FOCF) remained negative. This could
+result from a major drop in petrochemical prices coinciding with the company's decision for a more aggressive
+financial policy or a large-scale debt-financed project.
+
+Upside scenario
+Upside potential for the rating could result from an even-more conservative financial policy and deleveraging to
+achieve and maintain adjusted FFO-to-debt sustainably above 60%. Upside for the rating could also materialize if
+the company solidifies its position and track record as one of the most profitable and resilient companies in our
+petrochemicals rating universe.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+SIBUR Holding PJSC
+
+Assumptions
+
+Key Metrics
+
+• Oil prices of around $60 per barrel (/bbl) in 2019
+and 2020, $55/bbl in 2021 and thereafter
+
+2018A
+EBITDA margin (%)
+
+• EBITDA (including our adjustments) to decrease to
+about 194 billion Russian rubles (RUB) in 2019 from
+a peak of RUB205 billion in 2018, due to weaker
+petrochemicals margins; then increasing strongly to
+RUB237 billion in 2020 and RUB249 billion in 2021,
+based on highly profitable volumes from ZapSib
+
+Free operating cash flow (Bil. RUB)
+FFO-to-debt (%)
+
+2019F
+
+2020F
+
+36.1 38.5-39.0
+
+39.5-40.0
+
+4.2 13.5-14.0 About 100
+45.0 35.5-36.0
+
+54.5-55.0
+
+FFO--Funds from operations. RUB--Russian ruble.
+A--Actual. F--Forecast.
+
+• A decrease in adjusted capital expenditures (capex)
+in 2020 to RUB90 billion from RUB135 billion in
+2019 due to the ZapSib project's completion. We
+factor in an increase in capex to RUB110
+billion-RUB130 billion in subsequent years, to fund
+initial spending on the Amur GCC project. Due to
+the backend-loaded nature of these projects and the
+potential shared burden in a joint-venture (JV)
+structure, we believe our assumptions are rather
+conservative and include some cushion
+• Dividends of RUB 40 billion-RUB50 billion per year
+over the forecast period, reflecting the company's
+increased payout ratio (not less than 35% of
+adjusted net income)
+• SIBUR is considering undertaking another
+multibillion-ruble project of similar size as ZapSib
+and related to Gazprom's planned gas-processing
+plant in the Amur region. While we don't expect a
+decision before year's end, the company has signed
+final ethane supply contracts with Gazprom and
+term sheets regarding a potential JV partnership
+with China Petroleum & Chemical Corp. (Sinopec).
+Capex requirements for this project could be
+substantial, but would follow a backend-loaded
+pattern similar to that observed with ZapSib.
+Therefore, the initial capex we factor into our
+base-case only modestly affects credit metrics after
+2020, when ZapSib should ramp up and
+meaningfully contribute to the company's cash flow
+generation.
+
+Base-case projections
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+SIBUR Holding PJSC
+
+EBITDA will improve after commissioning of ZapSibNeftekhim. We believe ZapSib's ramp-up will add significant and
+highly profitable volumes, which would lead to improved EBITDA as the company's exposure to olefins and
+polyolefins market increases.
+Leverage will remain stable, even following the Amur Gas Plant's potential commissioning. We anticipate the
+FFO-to-debt ratio will remain above 45%, even with the potential commissioning of Amur Gas plant; as the ZapSib
+project start contributing to cash flows.
+Chart 1
+
+Company Description
+SIBUR is the largest integrated gas processing and petrochemical company in Russia, and is headquartered in
+Moscow. Its midstream segment accounts for about more than half of the group's sales and it operates the largest
+infrastructure for processing associated petroleum gas (APG) in Western Siberia. It owns eight of the 10 gas processing
+plants in the region that separate natural gas from raw NGL (a mix of heavier liquid petroleum gas [LPG] and naphtha
+fractions). The group also sources large volumes of raw NGL, for which it has an extensive 1,600 kilometer pipeline
+network and three gas-fractioning units that process raw NGL. Additional 820 kilometers of pipelines relate to APG,
+and about 250 kilometers to natural gas.
+SIBUR also holds leading positions in the domestic market in key petrochemical products produced by its
+petrochemicals segment. These range from intermediates to plastics and organic synthesis products such as glycols,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+SIBUR Holding PJSC
+
+alcohols, and polyethylene terephthalate, through synthetic rubbers to polyolefins such as PE and PP. With the
+commissioning of the world-scale ZabSib project in 2019, which has capacity of 2 million metric tons per year, the
+petrochemicals segment will gain importance and we estimate its share in the group's sales could exceed 60% the
+coming years. In 2018, SIBUR'S EBITDA was about RUB205 billion (US$3.0 billion) on revenue of about RUB569
+billion (US$8.2 billion).
+Chart 2
+
+Business Risk: Fair
+Our assessment of SIBUR's business risk as fair incorporates the size and diversity of the group across energy and
+chemical products and end markets, as well as its access to competitively priced hydrocarbon feedstock in Western
+Siberia. The feedstock is priced based on netbacks, which are significantly cheaper than international prices, given
+export taxation and transport costs. This translates into a highly profitable midstream segment and a favorable
+position on the global cost curve for key petrochemical products. In addition, the above-average profitability of plastics
+and elastomers production in Russia is underpinned by the prevailing domestic shortage, and the absence of export
+taxation on polymers. We also see the group's US$8.9 billon ZapSib project as having a strong rationale because it will
+allow SIBUR to process an increased share of NGL and convert it into highly profitable polyethylene (PE) and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+SIBUR Holding PJSC
+
+polypropylene (PP), nearly tripling the company's basic polymer capacity. Positively, ZapSib will be positioned very
+favorably at the first quartile of the global ethylene cost curve. We estimate SIBUR's existing petrochemicals assets in
+the Tobolsk region operate with EBITDA margins above 45%.
+SIBUR's exposure to Russian country risk is a credit weakness and the largest constraint on the company's business
+risk profile, including significant cost inflation for wages, utility costs, and transport. Its operations are geographically
+concentrated, with about 55% of sales and 100% of assets in Russia.
+Additional business weaknesses include the petrochemical industry's cyclical and capital-intensive nature and the
+sensitivity of SIBUR's profitability to oil prices. The correlation of the price of oil and the Russian ruble, which is a
+significant factor in the company's cost structure, offsets this somewhat. We anticipate that the ZapSib project could
+help reduce this sensitivity somewhat, resulting in more resilient profit generation. A secondary risk factor, in our view,
+is some supplier concentration in the sourcing of APG. Again, the company has made progress in diversifying its
+feedstock base with NGLs, which in 2018 represented more than 40% of the company's feedstock, up from only 20% in
+2012. Finally, large-scale petrochemicals projects involve some degree of execution risk. However, the company has
+built a track record of successfully completing large-scale petrochemical investments with the Tobolsk Polymer Plant
+in 2013 and ZapSib in 2019 (95% completed as of March) and that the Amur Gas Chemical Complex (GCC) project will
+likely happen with a JV.
+
+Peer comparison
+Table 1
+
+SIBUR Holding PJSC -- Peer Comparison
+Industry sector: Chemical companies
+
+Ratings as of Sept.
+6, 2019
+
+SIBUR Holding
+PJSC
+
+PhosAgro
+PJSC
+
+NOVATEK
+PJSC
+
+LUKOIL
+PJSC
+
+BBB-/Stable/--
+
+BBB-/Stable/--
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+MMC Norilsk
+Nickel PJSC
+
+Severstal
+PAO
+
+NLMK PJSC
+
+BBB-/Stable/-- BBB-/Stable/-- BBB-/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RUB)
+Revenue
+
+568,647.0
+
+233,430.0
+
+831,758.0
+
+8,035,889.0
+
+810,393.4
+
+595,816.2
+
+836,503.8
+
+EBITDA
+
+205,110.0
+
+76,056.5
+
+276,294.0
+
+1,202,653.0
+
+432,765.4
+
+217,007.7
+
+250,166.4
+
+Funds from
+operations (FFO)
+
+151,759.6
+
+64,554.4
+
+219,131.0
+
+1,017,676.4
+
+338,009.1
+
+177,564.3
+
+205,743.8
+
+Interest expense
+
+16,144.4
+
+5,055.1
+
+9,995.0
+
+51,168.6
+
+42,466.1
+
+8,958.1
+
+6,854.3
+
+Cash interest paid
+
+28,768.4
+
+5,356.1
+
+3,024.0
+
+48,330.6
+
+40,105.0
+
+7,222.0
+
+4,354.4
+
+Cash flow from
+operations
+
+141,300.6
+
+60,450.4
+
+213,325.0
+
+976,758.4
+
+421,617.8
+
+157,009.4
+
+185,883.2
+
+Capital
+expenditure
+
+137,091.0
+
+38,416.0
+
+90,205.0
+
+444,074.0
+
+107,844.1
+
+46,873.7
+
+44,720.9
+
+4,209.6
+
+22,034.4
+
+123,120.0
+
+532,684.4
+
+313,773.7
+
+110,135.7
+
+141,162.3
+
+(22,916.4)
+
+8,436.4
+
+48,935.0
+
+312,326.4
+
+79,752.6
+
+(26,735.3)
+
+9,916.1
+
+14,783.0
+
+9,320.0
+
+69,260.0
+
+492,650.0
+
+106,594.2
+
+16,319.0
+
+83,192.1
+
+Free operating
+cash flow (FOCF)
+Discretionary cash
+flow (DCF)
+Cash and
+short-term
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+SIBUR Holding PJSC
+
+Table 1
+
+SIBUR Holding PJSC -- Peer Comparison (cont.)
+Industry sector: Chemical companies
+SIBUR Holding
+PJSC
+
+PhosAgro
+PJSC
+
+NOVATEK
+PJSC
+
+LUKOIL
+PJSC
+
+MMC Norilsk
+Nickel PJSC
+
+Debt
+
+337,589.9
+
+141,974.9
+
+Equity
+
+540,464.0
+
+109,821.0
+
+EBITDA margin
+(%)
+
+36.1
+
+Return on capital
+(%)
+
+Severstal
+PAO
+
+130,785.0
+
+254,948.4
+
+536,163.5
+
+91,608.5
+
+92,305.6
+
+886,595.0
+
+4,073,526.0
+
+241,173.6
+
+194,022.2
+
+405,127.3
+
+32.6
+
+33.2
+
+15.0
+
+53.4
+
+36.4
+
+29.9
+
+20.3
+
+22.8
+
+21.5
+
+19.9
+
+44.5
+
+60.5
+
+37.5
+
+EBITDA interest
+coverage (x)
+
+12.7
+
+15.0
+
+27.6
+
+23.5
+
+10.2
+
+24.2
+
+36.5
+
+FFO cash interest
+coverage (x)
+
+6.3
+
+13.1
+
+73.5
+
+22.1
+
+9.4
+
+25.6
+
+48.2
+
+NLMK PJSC
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+1.6
+
+1.9
+
+0.5
+
+0.2
+
+1.2
+
+0.4
+
+0.4
+
+FFO/debt (%)
+
+45.0
+
+45.5
+
+167.6
+
+399.2
+
+63.0
+
+193.8
+
+222.9
+
+Cash flow from
+operations/debt
+(%)
+
+41.9
+
+42.6
+
+163.1
+
+383.1
+
+78.6
+
+171.4
+
+201.4
+
+FOCF/debt (%)
+
+1.2
+
+15.5
+
+94.1
+
+208.9
+
+58.5
+
+120.2
+
+152.9
+
+(6.8)
+
+5.9
+
+37.4
+
+122.5
+
+14.9
+
+(29.2)
+
+10.7
+
+DCF/debt (%)
+RUB--Russian ruble.
+
+Financial Risk: Modest
+SIBUR credit metrics have materially strengthened over the past three years, not least because of its very high
+EBITDA margins of over 35% on average. While we expect modestly weaker results in 2019 owing to lower global
+petrochemical prices, ZapSib's completion on time and on budget in 2019 will mark a milestone in the company's
+development. We anticipate that ZapSib will add significant sales volumes and improve SIBUR's overall profitability,
+thanks to its significant size and favorable position on the global cost curve, while reducing the company's exposure to
+oil price volatility. Based on higher FOCF generation from 2020 of over RUB100 million per year, we anticipate the
+company's ratio of adjusted FFO-to-debt from 2020 will comfortably exceed 50%, as the current capex program is
+ending and the ZapSib project will start contributing. Accordingly, we assess SIBUR's financial risk profile as modest.
+At the same time, we believe that the company has sufficient headroom for new expansion projects, and in recent
+years has maintained leverage in line with is financial policy despite major expansion projects.
+SIBUR's profitability, with EBITDA margins well above 30%, is among the highest of the EMEA chemical producers we
+rate. According to our estimates and company information, ZapSib's ramp-up will add significant and highly profitable
+volumes that should sustainably increase the company's profitability. We see SIBUR's competitive position as
+sustainable, owing to the high barriers to entry based on the extensive feedstock, gas-processing, and pipeline
+infrastructure, which would require heavy investments for oil and gas producers. In addition, the company has
+multiyear contracts (with a weighted-average maturity of 13.6 years) with key suppliers of associated petroleum gas,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+SIBUR Holding PJSC
+
+such as Rosneft, RussNeft, and GazpromNeft. SIBUR's NGL pipeline links Novatek's Purovskiy gas condensate plant
+with its main Tobolsk petrochemical complex. About 90% of NGL supplies are guaranteed under multiyear contracts
+with a weighted-average maturity of 15.4 years.
+
+Financial summary
+Table 2
+
+SIBUR Holding PJSC--Financial Summary
+Industry sector: Chemical companies
+--Fiscal year ended Dec. 31,-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. RUB)
+Revenue
+
+568,647.0 454,619.0
+
+411,812.0 379,852.0 361,000.0
+
+EBITDA
+
+205,110.0 172,218.0
+
+150,479.5 144,558.5 109,858.0
+
+Funds from operations (FFO)
+
+151,759.6 126,457.1
+
+103,630.7 114,525.0
+
+Interest expense
+
+16,144.4
+
+17,881.9
+
+25,922.8
+
+80,641.8
+
+23,982.5
+
+11,805.2
+
+Cash flow from operations
+
+141,300.6 139,661.1
+
+115,107.7 103,790.0
+
+85,553.8
+
+Capital expenditure
+
+137,091.0 125,317.0
+
+135,184.0
+
+75,425.0
+
+65,976.0
+
+4,209.6
+
+14,344.1 (20,076.3)
+
+28,365.0
+
+19,577.8
+
+(22,916.4)
+
+(5,364.9) (36,239.3)
+
+10,240.0
+
+5,504.8
+
+60,635.0 172,083.0
+
+27,667.0
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+
+14,783.0
+
+48,456.0
+
+Debt
+
+337,589.9 301,978.5
+
+357,573.7 458,740.4 238,652.3
+
+Equity
+
+540,464.0 457,158.0
+
+356,738.0 259,053.0 257,981.0
+
+Adjusted ratios
+EBITDA margin (%)
+
+36.1
+
+37.9
+
+36.5
+
+38.1
+
+30.4
+
+Return on capital (%)
+
+20.3
+
+17.8
+
+15.9
+
+15.3
+
+14.7
+
+EBITDA interest coverage (x)
+
+12.7
+
+9.6
+
+5.8
+
+6.0
+
+9.3
+
+FFO cash interest coverage (x)
+
+6.3
+
+5.8
+
+4.1
+
+5.5
+
+7.2
+
+Debt/EBITDA (x)
+
+1.6
+
+1.8
+
+2.4
+
+3.2
+
+2.2
+
+FFO/debt (%)
+
+45.0
+
+41.9
+
+29.0
+
+25.0
+
+33.8
+
+Cash flow from operations/debt (%)
+
+41.9
+
+46.2
+
+32.2
+
+22.6
+
+35.8
+
+1.2
+
+4.8
+
+(5.6)
+
+6.2
+
+8.2
+
+(6.8)
+
+(1.8)
+
+(10.1)
+
+2.2
+
+2.3
+
+FOCF/debt (%)
+DCF/debt (%)
+RUB--Russian ruble.
+
+Liquidity: Adequate
+We assess SIBUR's liquidity as adequate. We estimate that liquidity sources should cover uses by more than 1.2x over
+the 12 months from June 30, 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+SIBUR Holding PJSC
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About RUB19 billion in cash as of June 30, 2019
+
+• About RUB126 billion of capex over the next 12
+months
+
+• About RUB96 billion undrawn committed bank lines
+
+• RUB33 billion of debt repayment in that time
+
+• About RUB178 billion of FFO
+
+• Working capital requirements of about RUB2.5
+billion over the next 12 months
+• Dividend payment of RUB43 billion in the next year
+
+Debt maturities
+Table 3
+
+SIBUR Holding PJSC--Debt Maturities*
+Period
+
+Amount (Bil. RUB)
+
+2019
+
+23.0
+
+2020
+
+34.0
+
+2021
+
+30.0
+
+2022
+2023 and beyond
+
+26.0
+219.0
+
+*As of Dec. 31, 2018. RUB--Russian ruble.
+
+Covenant Analysis
+The company has ample headroom under the maintenance financial covenants in its loan and bond documentations
+over the next 12 months.
+
+Environmental, Social, And Governance
+
+We consider SIBUR's exposure to environmental risk factors as moderately high. The company is building an
+environmental management system of international standards and alignin its code of conduct with best practices.
+SIBUR allocated RUB3.9 billion to various environmental protection activities in 2018, and RUB1.1 billion on
+improving health and safety standards, and reduce its incident rate.
+We view SIBUR's governance as fair, given that its management sets clear and strategic planning processes and
+control guidelines
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+SIBUR Holding PJSC
+
+Reconciliation
+Table 4
+
+Reconciliation Of SIBUR Holding PJSC's Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. RUB)
+--Fiscal year ended Dec. 31, 2018-SIBUR Holding PJSC's reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+532,470.0
+
+201,007.0
+
+165,081.0
+
+945.0
+
+205,110.0
+
+160,409.0
+
+151,438.0
+
+Debt
+
+Shareholders'
+equity
+
+332,411.0
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(24,582.0)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(13,569.0)
+
+--
+
+--
+
+13,334.3
+
+--
+
+7,266.0
+
+1,449.4
+
+1,449.4
+
+(1,449.4)
+
+5,816.6
+
+--
+
+1,661.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(14,783.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+13,750.0
+
+(13,750.0)
+
+(13,750.0)
+
+(13,750.0)
+
+Capitalized
+development costs
+
+--
+
+--
+
+(597.0)
+
+(597.0)
+
+--
+
+--
+
+(597.0)
+
+(597.0)
+
+Dividends received
+from equity investments
+
+--
+
+--
+
+1,937.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+4,637.0
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(10,578.0)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+7,994.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and
+liquid investments
+
+4,966.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(4,503.0)
+
+(4,503.0)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+416.0
+
+--
+
+--
+
+--
+
+--
+
+5,178.9
+
+7,994.0
+
+4,103.0
+
+1,402.4
+
+15,199.4
+
+(53,350.4)
+
+(19,108.4)
+
+(14,347.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+151,759.6
+
+141,300.6
+
+137,091.0
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+337,589.9
+
+540,464.0
+
+205,110.0
+
+166,483.4
+
+16,144.4
+
+RUB--Russian ruble.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+SIBUR Holding PJSC
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Fair
+
+• Country risk: High
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Oil And Gas Exploration And Production Industry,
+Dec. 12, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+SIBUR Holding PJSC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Modest
+
+Intermediate
+
+Significant
+
+Ratings Detail (As Of September 25, 2019)*
+Sibur Holding PJSC
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+22-Aug-2019
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 14
+
+

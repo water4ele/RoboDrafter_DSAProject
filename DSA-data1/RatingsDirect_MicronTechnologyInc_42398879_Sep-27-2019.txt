@@ -1,0 +1,1422 @@
+Micron Technology Inc.
+Primary Credit Analyst:
+Jenny Chang, CFA, New York (1) 212-438-8671; jenny.chang@spglobal.com
+Secondary Contact:
+James W Thomas, New York + (212) 438-0181; james.w.thomas@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 1
+
+Micron Technology Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb+
+
+bb+
+BB+/Positive/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Good position in a consolidated global memory market.
+
+Susceptible to memory supply and demand imbalances with limited
+near-term demand visibility.
+
+Provides both DRAM and NAND memory chips to diversified end market
+segments.
+
+Challenging pricing dynamic can severely depress gross margins.
+
+Favorable long-term industry fundamentals.
+
+Significant capital expenditure requirements to maintain
+technological competitiveness.
+
+Maintenance of a net cash position and solid liquidity consistent with its
+publicly committed financial policy.
+
+Potential high swings in free cash flows.
+
+It's critical for the company to preserve a conservative balance sheet. Micron Technologies Inc. has strengthened its
+balance sheet during the industry growth stage by substantially reducing debt and subsequently maintaining a net cash
+position. Nonetheless, a conservative balance sheet is necessary for a memory company to withstand the sharp
+revenue and cash flow declines inherent in a memory market downturn. Micron's total liquidity position consisting of
+sizeable cash and investments balances of about $7.9 billion and unutilized revolver capacity of $2.5 billion are critical
+funding sources for ongoing capital expenditure (capex) requirements during periods of weak earnings.
+Ongoing trade disputes are exacerbating the current memory downturn.Even though memory suppliers have promptly
+reduced capital spending to adapt to supply-demand conditions, the ongoing U.S.-China trade dispute, including the
+Huawei ban, could prolong the downturn and cause further price erosion. Because memory chip products are
+commodities and because of the breadth of Micron's customer base and promising long-term demand for memory
+content, we remain positive on Micron's credit profile.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 2
+
+Micron Technology Inc.
+
+Outlook: Positive
+
+The positive outlook reflects our expectation that Micron will maintain cost competitiveness, operational
+discipline, and a sizable liquidity position amid the current memory downturn. We also expect the company to
+continue to evaluate and adjust capex as needed over the coming year, and as a result generate break-even to
+modestly negative free cash flow in fiscal 2020.
+
+Upside scenario
+We could raise the rating to investment grade if Micron maintains EBITDA margins of at least 50%, total liquidity
+(cash and short- and long-term investments plus revolver availability) of at least 30% of sales, and a net cash
+position over the coming year.
+
+Downside scenario
+We could revise the outlook to stable if we anticipate Micron's profitability and free cash flows will experience
+multiple periods of sharp declines or if Micron returns to a net debt position. This could arise from a more severe
+memory industry downturn, or if Micron experiences a delay in technology transitions, weakening its competitive
+position. We could also revise the outlook to stable if Micron deviates from its stated financial policy, causing its
+total liquidity position to weaken and leverage to rise.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 3
+
+Micron Technology Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth of 3.6% in 2019 and 3.7% in
+2020.
+• Global real GDP growth of 2.3% in 2019 and 1.7% in
+2020.
+• Fiscal 2019 revenue declines by 25%, reflecting
+memory pricing erosion and soft demand.
+• Fiscal 2020 revenue down in the mid-teens,
+assuming 50% of Huawei revenue remains uncertain
+and down cycle conditions moderate.
+
+2018A
+
+2019E
+
+2020E
+
+Revenue (bil. $)
+
+30.4 22.8-23.0 19.2-20.0
+
+Gross margin (%)
+
+59.0
+
+Mid-40
+
+Mid-30
+
+EBITDA margin (%)
+
+65.0
+
+Mid-50
+
+Mid-40
+
+Free cash flow (bil. $)
+Debt to EBITDA (x)
+
+8.3
+
+2.7-2.9
+
+(0.3)-0.2
+
+Net cash
+
+Net cash
+
+Net cash
+
+Note: Fiscal years end Aug. 31. A--Actual. E--Estimate.
+
+• Fiscal 2019 gross margin in the mid-40% area.
+• Fiscal 2020 gross margin in the mid-30% area,
+resulting from continued memory cost reductions
+and offset by price erosion.
+• Capex of about $9 billion, net of partner
+contributions in fiscal 2019, with the potential to
+decline further in fiscal 2020.
+• Modest share buybacks.
+
+Company Description
+Micron is a major global manufacturer of dynamic random access memory (DRAM) and NAND flash memory chips.
+The company's products are used in an increasingly broad range of applications including mobile devices, network
+servers, autos, and other industrial products. On average, DRAM represents about two-thirds of Micron's total sales
+and a higher portion of the company's total cash flows. The memory semiconductor industry has consolidated over the
+past decade, leaving three main DRAM manufacturers (Samsung, SK Hynix, and Micron) and a handful of NAND
+manufacturers (Samsung, Toshiba, Western Digital, SK Hynix, and Micron).
+
+Business Risk: Fair
+Micron's business risk profile reflects its considerable scale, memory product diversity, and good market position. The
+company procures most of its products through internally owned fabrication facilities. Despite the commodity-like
+nature of memory products, heavy capital requirements and unique intellectual properties are barriers to entry in this
+industry. Increasingly complex process technologies, time to build and equip additional facilities, and lengthy product
+qualification processes generally limit new entrants and constrain incumbents' ability to gain significant share.
+While the industry remains susceptible to supply and demand imbalances (as witnessed over the past few quarters)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 4
+
+Micron Technology Inc.
+
+that can lead to rapid price declines and eroding profitability for all participants, it benefits from strong long-term
+growth prospects from greater memory chip density to back rapid data creation from various sources. Furthermore,
+industrywide profitability levels have also improved substantially since the last downturn from technological
+advancements and a more diverse revenue mix.
+Table 1
+
+Peer Comparison
+Industry sector: semiconductors
+
+Micron Technology Inc.
+
+Western Digital Corp.
+
+Seagate Technology
+PLC
+
+Broadcom Inc.
+
+BB+/Positive/--
+
+BB+/Stable/--
+
+BB+/Stable/--
+
+BBB-/Stable/A-3
+
+Fiscal year ended Aug.
+30, 2018
+
+Fiscal year ended June
+30, 2019
+
+Fiscal year ended June
+28, 2019
+
+Fiscal year ended Nov.
+4, 2018
+
+Revenue
+
+30,391.0
+
+16,569.0
+
+10,390.0
+
+20,848.0
+
+EBITDA
+
+19,888.0
+
+2,746.0
+
+2,068.5
+
+10,653.0
+
+FFO
+
+Ratings as of Sept. 4, 2019
+
+(Mil. $)
+
+20,318.1
+
+1,925.2
+
+1,798.4
+
+9,562.9
+
+Interest expense
+
+403.9
+
+577.5
+
+232.1
+
+659.1
+
+Cash interest paid
+
+373.9
+
+443.8
+
+231.1
+
+578.1
+
+Cash flow from operations
+
+17,371.1
+
+1,590.2
+
+1,769.4
+
+8,945.9
+
+Capital expenditure
+
+8,835.0
+
+1,927.3
+
+599.0
+
+635.0
+
+FOCF
+
+8,536.1
+
+(337.1)
+
+1,170.4
+
+8,310.9
+
+DCF
+
+8,536.1
+
+(1,599.1)
+
+(536.6)
+
+(1,945.1)
+
+Cash and short-term
+investments
+
+6,802.0
+
+3,455.0
+
+2,220.0
+
+4,292.0
+
+0.0
+
+9,583.0
+
+4,333.3
+
+13,829.4
+
+33,054.0
+
+9,967.0
+
+2,162.0
+
+26,657.0
+
+EBITDA margin (%)
+
+65.4
+
+16.6
+
+19.9
+
+51.1
+
+Return on capital (%)
+
+47.0
+
+1.3
+
+23.1
+
+15.3
+
+EBITDA interest coverage
+(x)
+
+49.2
+
+4.8
+
+8.9
+
+16.2
+
+FFO cash interest coverage
+(x)
+
+55.3
+
+5.3
+
+8.8
+
+17.5
+
+0.0
+
+3.5
+
+2.1
+
+1.3
+
+FFO/debt (%)
+
+N.M.
+
+20.1
+
+41.5
+
+69.1
+
+Cash flow from
+operations/debt (%)
+
+N.M.
+
+16.6
+
+40.8
+
+64.7
+
+FOCF/debt (%)
+
+N.M.
+
+(3.5)
+
+27.0
+
+60.1
+
+DCF/debt (%)
+
+N.M.
+
+(16.7)
+
+(12.4)
+
+(14.1)
+
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+N.M.--Not Meaningful. FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 5
+
+Micron Technology Inc.
+
+Financial Risk: Intermediate
+In July, the company raised $1.75 billion of senior unsecured notes and a $1.25 billion delayed-draw term loan. Micron
+intends to use a portion of these proceeds to acquire Intel Corp.'s noncontrolling stake in the IM Flash joint venture
+(JV) and repay the debt that the JV owes to Intel. The JV will terminate at the end of October as previously
+announced. Our base-case assumptions expect the company to maintain a net cash position at the end of fiscal 2019
+and in fiscal 2020. We view Micron's sizable cash and investments, totaling about $8 billion as of May 31, 2019, and
+the full $2.5 billion of capacity under its revolver as liquidity support for the business because an industry downturn
+could substantially reduce the company's cash flows while it still needs to invest in critical technological
+advancements. Over the coming year, as the industry manages through the downturn we expect Micron to deliver
+break-even to modestly negative free cash flows. Given its manageable debt load, we expect the company to continue
+to adhere to its stated financial policy and approach shareholder returns prudently.
+Table 2
+
+Financial Summary
+Industry sector: semiconductors
+--Fiscal year ended Aug. 30-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+BB+/Stable/--
+
+BB/Stable/--
+
+BB/Negative/--
+
+BB/Stable/--
+
+BB/Stable/--
+
+Revenues
+
+30,391.0
+
+20,322.0
+
+12,399.0
+
+16,192.0
+
+16,358.0
+
+EBITDA
+
+19,888.0
+
+10,146.0
+
+3,653.5
+
+5,936.0
+
+5,570.0
+
+FFO
+
+20,318.1
+
+9,536.9
+
+3,201.8
+
+5,623.2
+
+5,358.0
+
+Interest expense
+
+403.9
+
+643.1
+
+531.7
+
+394.8
+
+358.0
+
+Cash interest paid
+
+373.9
+
+510.1
+
+361.7
+
+249.8
+
+169.0
+
+Rating history
+(Mil. $)
+
+Cash flow from operations
+
+17,371.1
+
+8,334.9
+
+3,391.8
+
+5,304.2
+
+5,715.0
+
+Capital expenditures
+
+8,835.0
+
+4,727.0
+
+5,774.0
+
+4,021.0
+
+3,137.0
+
+Free operating cash flow
+
+8,536.1
+
+3,607.9
+
+(2,382.2)
+
+1,283.2
+
+2,578.0
+
+Discretionary cash flow
+
+8,536.1
+
+3,572.9
+
+(2,530.2)
+
+399.2
+
+2,492.0
+
+Cash and short-term investments
+
+6,802.0
+
+5,428.0
+
+4,398.0
+
+3,521.0
+
+4,534.0
+
+Gross available cash
+
+7,275.0
+
+6,045.0
+
+4,812.0
+
+5,634.0
+
+5,353.0
+
+Debt*
+
+0.0
+
+11,778.9
+
+11,435.5
+
+8,678.3
+
+7,258.6
+
+Equity
+
+33,054.0
+
+19,141.8
+
+12,511.4
+
+12,786.0
+
+11,255.0
+
+EBITDA margin (%)
+
+65.4
+
+49.9
+
+29.5
+
+36.7
+
+34.1
+
+Return on capital (%)
+
+47.0
+
+21.6
+
+1.1
+
+17.4
+
+22.1
+
+EBITDA interest coverage (x)
+
+49.2
+
+15.8
+
+6.9
+
+15.0
+
+15.6
+
+FFO cash interest coverage (x)
+
+55.3
+
+19.7
+
+9.9
+
+23.5
+
+32.7
+
+0.0
+
+1.2
+
+3.1
+
+1.5
+
+1.3
+
+FFO/debt (%)
+
+N.M.
+
+81.0
+
+28.0
+
+64.8
+
+73.8
+
+Cash flow from operations/debt (%)
+
+N.M.
+
+70.8
+
+29.7
+
+61.1
+
+78.7
+
+Free operating cash flow/debt (%)
+
+N.M.
+
+30.6
+
+(20.8)
+
+14.8
+
+35.5
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 6
+
+Micron Technology Inc.
+
+Table 2
+
+Financial Summary (cont.)
+Industry sector: semiconductors
+--Fiscal year ended Aug. 30--
+
+Discretionary cash flow/debt (%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+N.M.
+
+30.3
+
+(22.1)
+
+4.6
+
+34.3
+
+*Debt before fiscal year 2018 was shown on a gross basis because of Micron's business risk profile assessment at that time. FFO--Funds from
+operations.
+
+Liquidity: Adequate
+We view the company's liquidity as adequate, with sources of cash exceeding uses over 1.2x over the next 12 months.
+We also expect that net sources would be positive even if EBITDA declined 15% from current levels.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and short- and long-term marketable
+investments totaling about $7.9 billion as of May 31,
+2019.
+
+• Working capital outflow of about $500 million.
+
+• Full availability of the $2.5 billion revolver.
+• Operating cash flow of about $12 billion in fiscal
+2019 and less in fiscal 2020.
+
+• Capex of about $9 billion, net of partner
+contributions in fiscal 2019, with the potential to
+decline further in fiscal 2020.
+• Moderate debt amortization.
+
+Debt maturities
+As of May 31, 2019:
+• Fiscal 2020: $1.040 billion
+• Fiscal 2021: $0 million
+• Fiscal 2022: $719 million
+• Fiscal 2023: $0 million
+• Fiscal 2024 and thereafter: approximately $5.3 billion (includes a $1.25 billion delayed-draw term loan and $1.75
+billion of senior notes raised in July this year)
+
+Covenant Analysis
+The revolving credit facility has a total leverage covenant of 2.75x and an interest coverage covenant of 3.5x for the
+life of the agreement. We expect the company to maintain ample cushion over the coming year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 7
+
+Micron Technology Inc.
+
+Environmental, Social, And Governance
+
+We assess Micron's exposure to environmental risk factors to be relevant to our credit analysis, while its exposure
+to social and governance factors to be less so. Micron has 12 manufacturing sites located in the U.S., Japan,
+Singapore, Malaysia, Taiwan, and China, and its manufacturing operation is subject to various environmental risks
+concerning greenhouse gas emissions, climate change, and hazardous materials and waste. We believe Micron is
+more vulnerable to these risks than fabless semiconductor companies because of its extensive in-house
+manufacturing capabilities. We also believe the company has an established framework to ensure high standards
+on labor, health, and safety at these facilities.
+We view the company's management and governance as satisfactory, reflecting management team's experience,
+expertise, and ability to adjust its ESG strategies when needed. Micron has an independent board of directors with
+no known conflicts of interest. Established under the oversight of its governance and sustainability committee,
+Micron also has a separate and cross-functional sustainability council comprising senior leaders cross all functions
+of the business. This council forms sustainability policies and measures ranging from environment, people, and
+supply chain management, and periodically evaluates their effectiveness and impact on the business on both shortand long-term bases.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We value Micron on a going-concern basis using a 6x multiple of our projected emergence EBITDA, reflecting its
+scale, memory product diversity, and proprietary technologies.
+• We estimate that for Micron to default, EBITDA would need to decline materially because of a steep decline in
+memory prices and demand, inability to reduce manufacturing costs, and strained liquidity from high capital
+spending requirements.
+• We generally cap recovery ratings on unsecured debt by companies in the 'BB' category at '3' to account for the
+greater risk of value impairment by an incremental security pledge to raise new debt, as those companies' credit
+quality deteriorates before default.
+
+Simulated default assumptions
+• Year of default: 2024
+• EBITDA at emergence: $2 billion
+• EBITDA multiple: 6x
+• Revolver is 85% drawn at default
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $11.5 billion
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 8
+
+Micron Technology Inc.
+
+• Senior unsecured debt: $7.6 billion*
+• --Recovery expectation: 50%-70% (rounded estimate: 65%)
+*Assumes all secured debt will be repaid and security liens removed as stipulated in the credit agreement by the year
+of default.
+All debt amounts at default include six months' accrued prepetition interest. Collateral value equals asset pledge from
+obligors less priority claims plus equity pledges from foreign subsidiaries after foreign debt.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Micron Technology Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Fiscal year ended Aug. 31, 2018-Micron Technology Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+4,639.0
+
+32,294.0
+
+19,657.0
+
+14,898.0
+
+342.0
+
+17,400.0
+
+8,879.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid - other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+392.2
+
+--
+
+33.0
+
+17.9
+
+17.9
+
+15.1
+
+--
+
+(6,911.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+44.0
+
+(44.0)
+
+(44.0)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+198.0
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+114.0
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+967.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt - tax liabilities
+
+719.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt - other
+
+Accessible cash and
+liquid investments
+
+262.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Equity - other
+
+--
+
+(207.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+FFO - other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(5,538.1)
+
+760.0
+
+231.0
+
+131.9
+
+61.9
+
+(28.9)
+
+(44.0)
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Cash flow from
+operations
+
+Capital
+expenditures
+
+--
+
+33,054.0
+
+19,888.0
+
+15,029.9
+
+403.9
+
+17,371.1
+
+8,835.0
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 9
+
+Micron Technology Inc.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Positive/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Fair
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Technology Hardware And Semiconductors
+Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 10
+
+Micron Technology Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Modest
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Intermediate
+
+Significant
+
+Ratings Detail (As Of September 5, 2019)*
+Micron Technology Inc.
+Issuer Credit Rating
+
+BB+/Positive/--
+
+Senior Secured
+
+BBB-
+
+Senior Unsecured
+
+BB+
+
+Issuer Credit Ratings History
+21-Dec-2018
+
+BB+/Positive/--
+
+11-Apr-2018
+
+BB+/Stable/--
+
+11-Oct-2017
+
+BB/Positive/--
+
+24-Mar-2017
+
+BB/Stable/--
+
+11-Apr-2016
+
+BB/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 12
+
+

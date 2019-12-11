@@ -1,0 +1,1310 @@
+Moog Inc.
+Primary Credit Analyst:
+Richard A Federico, New York + 1 (212) 438 0319; richard.federico@spglobal.com
+Secondary Contact:
+Christopher A Denicolo, CFA, Washington D.C. (1) 202-383-2398; christopher.denicolo@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Moog Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bb+
+
+bb+
+BB+/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading position in niche market of actuation components. Higher level of acquisitions and shareholder returns could result in higher leverage.
+Good program diversity.
+
+Continued supplier quality issues could impair margins.
+
+Content on growing platforms.
+
+Long-term threat of Boeing entering actuation market.
+
+Stable credit metrics.
+
+We expect credit metrics to remain stable over the forecast period.
+We expect Moog's earnings and free cash flow to improve in 2019 and 2020 over 2018, though 2019 cash flow will be
+weaker than originally expected due to necessary investments in factories and supply chain processes to address
+supplier quality issues. However, we expect Moog will offset this improvement with acquisitions and share
+repurchases. Earnings improvement has come from a decrease in operating expenses, while cash flow improvement is
+the result of higher earnings and lower pension contributions. In 2018, Moog used about $70 million to buy VUES Brno
+s.r.o and smaller Electro-Optical Imaging. Management also initiated a quarterly dividend (about $36 million a year)
+and completed about $94 million of share repurchases. We expect the company to continue to pursue acquisitions and
+repurchase shares, which will likely result in funds from operations (FFO) to debt remaining 28%-32% in 2019 and
+2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Moog Inc.
+
+Chart 1
+
+We believe the Boeing 737 MAX grounding will likely have only a modest impact on earnings.
+While Boeing has lowered its production rate to 42 per month from 52, many of its suppliers have maintained at a rate
+of 52 and are being paid by Boeing at that rate. The company only has modest content on the program (about $50,000
+per shipset) and we expect deliveries of the MAX to resume in the next few months, so the impact on revenues and
+earnings should be limited. If the grounding drags on much past our current forecast or Boeing cuts production further,
+the impact could be larger, but still modest.
+
+Boeing's entry into the actuation market could reduce Moog's market share in the long term.
+Boeing has decided to bring certain actuation components back in-house and could limit how much is done by the
+supply chain on future aircraft models. In 2017, Boeing invested in new facilities in the U.S. and U.K. to manufacture
+actuation systems and components in-house. This could hurt Moog's strong position in actuation, and result in
+weakened revenue and earnings, but will not likely have an impact in the near to medium term.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Moog Inc.
+
+Outlook: Stable
+
+The stable outlook on Moog reflects our expectation that credit measures will be flat over the next 12 months as
+the company benefits from higher earnings due to increased production rates and improved profitability over 2018,
+offset by continued shareholder returns and additional acquisitions. This should result in FFO to debt of 28%-32%
+in 2019 and 2020.
+
+Downside scenario
+We could lower the ratings if FFO to debt declines below 20% over the next 12 months. This would likely result
+from a larger-than-expected acquisition or continued earnings pressure from the weaker industrial, space, and
+energy markets, for example. Although less likely, this could also occur from debt-financed shareholder rewards,
+for example.
+
+Upside scenario
+We could raise our rating on Moog if FFO to debt remains above 30% over the next 12 months and we believe it
+would stay at or above this level even with acquisitions and shareholder returns. This would likely be due to the
+company adopting a less aggressive financial policy, with all acquisitions and shareholder returns funded out of
+free cash flow. Furthermore, we would expect earnings and cash flow to improve due to stronger demand from
+growth programs such as the Airbus A350 and the F-35, and the benefits of cost-reduction and productivity efforts.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Moog Inc.
+
+Assumptions
+
+Key Metrics
+
+• Continued moderate growth in the commercial
+aerospace market driven by increased air traffic;
+
+2018A
+FFO to debt (%)
+
+• Increased U.S. defense spending by the government
+through at least fiscal 2021, with some uncertainty
+afterward;
+• Organic revenue growth of 4%-7% in 2019 and
+1%-5% in 2020, supported by growth in the space
+and defense segment;
+
+2019E
+
+2020E
+
+28.0 28.0-32.0 28.0-32.0
+
+Debt to EBITDA (x)
+
+2.8
+
+FOCF to debt (%)
+
+2.5
+
+2.5-2.9
+
+2.5-2.9
+
+8.0-12.0 15.0-19.0
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Adjusted EBITDA margins improving in 2019 to
+13.5%-14.5% due to improvement in the industrial
+segment from exiting the wind pitch control
+business. In 2020, EBITDA margins are expected to
+remain in the 13.5%-14.5% range after cost savings
+initiatives are offset by the dilutive effect of
+acquisitions;
+• Capital spending of $120 million in 2019 and about
+$100 million in 2020;
+• Acquisitions of $125 million annually;
+• Dividends of $36 million annually; and
+• Share repurchases of about $100 million per year.
+
+Company Description
+Moog manufactures motion and fluid controls and systems for aerospace, defense, and industrial markets. The
+company consists of three segments. Aircrafts controls manufactures flight control systems for commercial and
+military aircraft, along with aftermarket services. Space and defense controls provides controls for satellites, space
+vehicles, missiles, and other defense applications. Lastly, industrial systems manufactures different power generation
+and metal forming components, along with various medical devices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Moog Inc.
+
+Chart 2
+
+Business Risk: Satisfactory
+Moog is a midsize supplier of manufactured components to aerospace, defense, industrial, and medical end markets. It
+has a leading position in actuation components for aircraft. Boeing recently entered this market, which we believe
+won't likely have a near-term impact but could be an issue in the future. Moog is fairly well diversified in the programs
+it works on. The largest, providing actuations systems for the Lockheed Martin F-35 Joint Strike Fighter, accounts for
+less than 5% of revenue. We expect the company's aircraft controls revenue to increase, with the F-35 program leading
+the way as Lockheed ramps up production. We also expect the company's industrial systems segment to be relatively
+flat as the company's exit from its wind-pitch control business in 2018 offsets growth from the VUES Brno s.r.o
+acquisition. Lastly, we expect Moog's space and defense business to continue growing, driven by increased
+government spending on missiles and launch vehicles.
+
+Peer comparison
+Moog is a midsize aerospace parts manufacturer with about $2.7 billion in 2018 revenue. The company does not have
+any direct competitors in all the markets in which it operates, but is a peer to Hexcel, AAR, TransDigm, and Spirit
+AeroSystems. It is similar in size to Hexcel and AAR, but smaller than TransDigm and Spirit AeroSystems. Moog has
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Moog Inc.
+
+better product diversity than all except TransDigm. It has similar margins to that of Spirit and AAR, while TransDigm
+and Hexcel's margins are much stronger.
+Table 1
+
+Moog Inc.--Peer Comparison
+Industry Sector: Aerospace & Defense
+
+Moog Inc.
+
+AAR Corp.
+
+TransDigm Inc.
+
+Spirit
+AeroSystems Inc.
+
+Hexcel Corp.
+
+BB+/Stable/--
+
+BB+/Stable/--
+
+B+/Negative/--
+
+BBB-/Stable/--
+
+BBB/Negative/--
+
+--Fiscal year ended
+Sept. 29, 2018--
+
+--Fiscal year ended
+May 31, 2019--
+
+Revenue
+
+2,709.5
+
+2,051.8
+
+3,811.1
+
+7,222.0
+
+2,189.1
+
+EBITDA
+
+336.3
+
+141.1
+
+1,861.9
+
+1,065.3
+
+520.4
+
+Funds from operations
+(FFO)
+
+259.2
+
+141.1
+
+1,092.1
+
+789.6
+
+436.6
+
+Interest expense
+
+42.4
+
+8.5
+
+668.7
+
+61.2
+
+49.4
+
+Cash interest paid
+
+42.8
+
+0.0
+
+640.6
+
+73.4
+
+48.9
+
+117.9
+
+60.5
+
+1,030.7
+
+775.5
+
+419.6
+
+Capital expenditure
+
+94.5
+
+17.4
+
+73.3
+
+271.2
+
+174.6
+
+Free operating cash
+flow (FOCF)
+
+23.4
+
+43.1
+
+957.4
+
+504.3
+
+245.0
+
+Discretionary cash flow
+(DCF)
+
+(88.1)
+
+22.3
+
+957.4
+
+(365.1)
+
+(161.1)
+
+Cash and short-term
+investments
+
+125.6
+
+21.3
+
+2,073.0
+
+773.6
+
+32.7
+
+Debt
+
+941.2
+
+120.4
+
+10,998.2
+
+1,218.0
+
+991.0
+
+1,225.0
+
+905.9
+
+(1,808.5)
+
+1,238.1
+
+1,322.0
+
+EBITDA margin (%)
+
+12.4
+
+6.9
+
+48.9
+
+14.8
+
+23.8
+
+Return on capital (%)
+
+Ratings as of Aug. 1,
+2019
+
+--Fiscal year ended
+Sept. 30, 2018--
+
+--Year ended Dec. 31, 2018--
+
+(Mil. $)
+
+Cash flow from
+operations
+
+Equity
+Adjusted ratios
+
+11.1
+
+8.9
+
+18.9
+
+31.1
+
+16.1
+
+EBITDA interest
+coverage (x)
+
+7.9
+
+16.6
+
+2.8
+
+17.4
+
+10.5
+
+FFO cash interest
+coverage (x)
+
+7.1
+
+N.M.
+
+2.7
+
+11.8
+
+9.9
+
+Debt/EBITDA (x)
+
+2.8
+
+0.9
+
+5.9
+
+1.1
+
+1.9
+
+FFO/debt (%)
+
+27.5
+
+117.2
+
+9.9
+
+64.8
+
+44.1
+
+Cash flow from
+operations/debt (%)
+
+12.5
+
+50.2
+
+9.4
+
+63.7
+
+42.3
+
+2.5
+
+35.8
+
+8.7
+
+41.4
+
+24.7
+
+(9.4)
+
+18.5
+
+8.7
+
+(30.0)
+
+(16.3)
+
+FOCF/debt (%)
+DCF/debt (%)
+N.M.--Not meaningful.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Moog Inc.
+
+Financial Risk: Intermediate
+Credit metrics remained relatively stable in 2018, despite weaker margins than in 2017, due to a lower amount of debt
+and additional shareholder returns. We expect credit metrics to remain stable in 2019 as continued shareholder returns
+and larger acquisitions offset earnings and free cash flow growth. We expect FFO to debt of 28%-32% in 2019 and
+2020. Management stated that free cash flow would be weaker than originally expected in 2019 due to investments in
+working capital and capital expenditure needs to drive future revenue growth.
+
+Financial summary
+Table 2
+
+Moog Inc.--Financial Summary
+Industry Sector: Aerospace & Defense
+--Fiscal year ended Sept. 29-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. $)
+Revenue
+
+2,709.5 2,497.5 2,411.9 2,525.5 2,648.4
+
+EBITDA
+
+336.3
+
+360.0
+
+348.8
+
+359.6
+
+402.1
+
+Funds from operations (FFO)
+
+259.2
+
+275.3
+
+266.2
+
+289.4
+
+337.2
+
+Interest expense
+
+42.4
+
+41.2
+
+41.5
+
+35.5
+
+18.1
+
+Cash interest paid
+
+42.8
+
+40.5
+
+41.1
+
+30.2
+
+22.9
+
+117.9
+
+233.0
+
+230.5
+
+349.6
+
+302.8
+
+94.5
+
+75.8
+
+67.2
+
+80.7
+
+78.8
+
+Cash flow from operations
+Capital expenditure
+Free operating cash flow (FOCF)
+
+23.4
+
+157.2
+
+163.3
+
+268.9
+
+224.0
+
+Discretionary cash flow (DCF)
+
+(88.1)
+
+129.9
+
+87.3
+
+(117.5)
+
+(56.8)
+
+Cash and short-term investments
+
+125.6
+
+368.1
+
+325.2
+
+309.9
+
+231.3
+
+Gross available cash
+
+125.6
+
+368.1
+
+325.2
+
+309.9
+
+231.3
+
+Debt
+
+941.2
+
+910.6 1,128.6 1,165.6
+
+972.7
+
+Equity
+
+1,225.0 1,214.3
+
+994.1
+
+994.5 1,347.4
+
+Adjusted ratios
+EBITDA margin (%)
+
+12.4
+
+14.4
+
+14.5
+
+14.2
+
+15.2
+
+Return on capital (%)
+
+11.1
+
+11.7
+
+10.5
+
+10.4
+
+11.1
+
+EBITDA interest coverage (x)
+
+7.9
+
+8.7
+
+8.4
+
+10.1
+
+22.2
+
+FFO cash interest coverage (x)
+
+7.1
+
+7.8
+
+7.5
+
+10.6
+
+15.7
+
+Debt/EBITDA (x)
+
+2.8
+
+2.5
+
+3.2
+
+3.2
+
+2.4
+
+FFO/debt (%)
+
+27.5
+
+30.2
+
+23.6
+
+24.8
+
+34.7
+
+Cash flow from operations/debt (%)
+
+12.5
+
+25.6
+
+20.4
+
+30.0
+
+31.1
+
+2.5
+
+17.3
+
+14.5
+
+23.1
+
+23.0
+
+(9.4)
+
+14.3
+
+7.7
+
+(10.1)
+
+(5.8)
+
+FOCF/debt (%)
+DCF/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Moog Inc.
+
+Liquidity: Adequate
+We assess Moog's liquidity as adequate, supported by cash on hand, availability of about $500 million under its $1.1
+billion revolver, and positive cash flow generation. We expect sources of liquidity to be about 6.7x uses over the next
+12 months and that sources would exceed uses even if EBITDA were to decline by 15%. However, we do not believe
+the company would absorb a high-impact, low-probability event without refinancing, and we do not expect the
+company to maintain this level of excess liquidity due to likely acquisitions that are not included in our liquidity
+analysis due to their discretionary nature.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of about $89 million as of June 30, 2019;
+
+• Maintenance capital expenditures of $75 million
+over the next 12 months;
+
+• About $500 million of revolver availability as of June
+30, 2019 after letters of credit and covenant
+limitations; and
+• Cash from operations ranging between $240 million
+and $250 million for the next 12 months.
+
+• Minimal debt maturities over the next several years;
+and
+• Annual dividend of $36 million.
+
+Covenant Analysis
+Compliance expectations
+We expect the company to maintain about 30% cushion under the most restrictive covenant, the maximum net
+leverage ratio, for at least the next 12 months.
+
+Requirements
+The company's revolver is subject to a maximum net leverage ratio of 3.5x and minimum interest coverage ratio of 3x.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Moog's capital structure consists of a $1.1 billion revolving credit facility due 2021, a $130 million accounts
+receivable securitization program due 2020, and $300 million of senior notes due 2022.
+• Default assumptions include LIBOR rising to 250 basis points and that the revolver is 85% drawn at default.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• EBITDA at emergence: $162 million
+• EBITDA multiple: 5.5x
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Moog Inc.
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative expenses): $757 million
+• Obligor/nonobligor split: 43%/57%
+• Collateral value available to first-lien debt: $456 million
+• Estimated first-lien claim: $926 million
+• --Recovery range: 50%-70% (rounded estimate: 60%)
+• Collateral value available to unsecured claims: $169 million
+• Estimated unsecured claims: $777 million
+• --Recovery range: 10%-30% (rounded estimate: 20%)
+
+Reconciliation
+Table 3
+
+Reconciliation Of Moog Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Sept. 30, 2018-Moog Inc. reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+862.8
+
+302.0
+
+213.5
+
+36.2
+
+336.3
+
+102.4
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(34.2)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(36.7)
+
+--
+
+Operating leases
+
+84.3
+
+21.7
+
+6.1
+
+6.1
+
+(6.1)
+
+15.5
+
+Postretirement benefit
+obligations/deferred compensation
+
+84.7
+
+6.8
+
+6.8
+
+--
+
+--
+
+--
+
+(119.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+5.8
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+11.5
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+Debt: Tax liabilities
+Total adjustments
+
+28.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+78.4
+
+34.2
+
+24.4
+
+6.1
+
+(77.0)
+
+15.5
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+941.2
+
+336.3
+
+237.9
+
+42.4
+
+259.2
+
+117.9
+
+S&P Global Ratings' adjusted amounts
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Moog Inc.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Negative (-1 notch)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Aerospace And Defense Industry, March 25, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Moog Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+Moog Inc.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Senior Secured
+
+BB+
+
+Senior Unsecured
+
+BB
+
+Issuer Credit Ratings History
+18-Jul-2017
+
+Foreign Currency
+
+BB+/Stable/--
+
+08-Jul-2016
+
+BB+/Negative/--
+
+02-May-2014
+
+BB+/Stable/--
+
+18-Jul-2017
+
+Local Currency
+
+BB+/Stable/--
+
+08-Jul-2016
+
+BB+/Negative/--
+
+02-May-2014
+
+BB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 13
+
+

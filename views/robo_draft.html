@@ -1,0 +1,119 @@
+<!doctype html>
+<head>
+    <title>RoboDrafter</title>
+    <meta charset="UTF-8">
+
+    <!-- some minimal css defaults -->
+    <link rel="stylesheet"
+          href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+    <link rel="stylesheet" href="https://unpkg.com/sakura.css/css/sakura.css">
+
+    <!-- css goes here -->
+    <style>
+        body {
+            max-width: 75em;
+        }
+
+        .container {
+            display: flex;
+            margin: -24px;
+        }
+
+        .col {
+            margin: 24px;
+        }
+
+        .btn-submit {
+            float: right;
+            margin-top: 12px;
+        }
+
+        .btn-submit:not(:hover) {
+            background-color: pink;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>RoboDrafter</h1>
+    <div class="container">
+        <div class="col">
+            <h2>Input </h2>
+			<p><small>(*Not all inputs are required)</small></p>
+            <form action=".#output" method="post">
+                <label for="company_name">Company Name</label>
+                <input name="company_name" type="text" value="{{ form.company_name }}">
+				
+				<label for="currency">Currency</label>
+                <input name="currency" type="text" value="{{ form.currency }}" list="currencies">
+				<datalist id="currencies">
+					<option value="USD">
+					<option value="EUR">
+					<option value="JPY">
+					<option value="GBP">
+					<option value="AUD">
+					<option value="CAD">
+					<option value="CHF">
+					<option value="CNY">
+					<option value="HKD">
+					<option value="NZD">
+				</datalist>
+				
+				<label for="unit">Unit</label>
+                <input name="unit" type="text" value="{{ form.unit }}" list="units">
+				<datalist id="units">
+					<option value="million">
+					<option value="billion">
+					<option value="trillion">
+					<option value="thoudand">
+				</datalist>
+
+                <label for="cash">Cash and Cash Equivilent</label>
+                <input name="cash" type="text" value="{{ form.cash }}">
+
+                <label for="credit">Credit</label>
+                <input name="credit" type="text" value="{{ form.credit }}">
+				
+				<label for="creditMaturity">Credit Maturity</label>
+                <input name="creditMaturity" type="text" value="{{ form.creditMaturity }}">
+				
+				<label for="ffo">Funds From Operations</label>
+                <input name="ffo" type="text" value="{{ form.ffo }}">
+				
+				<label for="ffoduration">Funds From Operations Duration</label>
+                <input name="ffoduration" type="text" value="{{ form.ffoduration }}" list = "durationList">
+				<datalist id="durationList">
+					<option value = "next 1 year">
+					<option value = "next 2 years">
+				</datalist>
+		</div>	
+		<div class="col">
+				<label for="capex">Annual Capital expenditures</label>
+                <input name="capex" type="text" value="{{ form.capex }}">
+
+                <label for="dividends">Annual Dividend Payment</label>
+                <input name="dividends" type="text" value="{{ form.dividends }}">
+
+                <label for="debt">Annaul Debt Payable</label>
+                <input name="debt" type="text" value="{{ form.debt }}">
+				
+                <label for="workcapout">Annual Working Capital Outflow</label>
+                <input name="workcapout" type="text" value="{{ form.workcapout }}">
+				
+				<label for="date">Date</label>
+                <input name="date" type="date" value="{{ form.date }}">
+
+                <input class="btn-submit" type="submit" value="Submit">
+            </form>
+        </div>
+        <div class="col">
+            <h2 id="output">Output</h2>
+
+            <label for="source_text">Principal Liquidity Sources</label>
+            <textarea name="source_text" rows="10" cols="100">{{ source_text }}</textarea>
+			
+			<label for="use_text">Principal Liquidity Uses</label>
+            <textarea name="use_text" rows="10" cols="100">{{ use_text }}</textarea>
+        </div>
+    </div>
+</body>

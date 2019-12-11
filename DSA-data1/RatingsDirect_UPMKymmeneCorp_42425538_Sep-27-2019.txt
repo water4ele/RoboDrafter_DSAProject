@@ -1,0 +1,1466 @@
+UPM-Kymmene Corp.
+Primary Credit Analyst:
+Desiree I Menjivar, London + 44 20 7176 7822; desiree.menjivar@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+UPM-Kymmene Corp.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+abbb
+
+bbb
+
+BBB/Stable/A-2
+
+Financial Risk: MINIMAL
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Large and diversified operations.
+
+Cyclical industry.
+
+Cost efficiency underpinned by large scale and vertical integration. Still-large exposure to structurally declining communication paper.
+High cash generation and low leverage.
+
+UPM is exposed to some cyclicality, despite its large and diversified operations. With over €10 billion in revenues, it is
+one of the largest and more diversified forest and paper product companies that we rate in Europe. Despite capacity
+rationalizations and its successful diversification into other forest product areas, communication paper (which is in
+structural decline) still accounts for around 44.5% of its external revenues and 20% of EBITDA. That said, UPM is one
+of the more cost-efficient graphic paper producers. The group is also exposed to some price volatility in pulp because
+around 20% of its pulp output is sold externally (pulp, timber, and biofuels generate about 25% of its revenues).
+Cost efficiency is underpinned by large scale and vertical integration.UPM owns forest assets in Finland, Uruguay, and
+the U.S. The group sources 80% of its electricity and all of its pulp needs internally. This leads to a very efficient cost
+base.
+High cash generation and low leverage. The group has historically generated strong cash flows, in excess of €1 billion
+per year. It has a track record of applying excess cash to debt repayments. At year-end 2018, its S&P Global
+Ratings-adjusted leverage was very low at 0.4x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+UPM-Kymmene Corp.
+
+Outlook: Stable
+
+The stable outlook reflects our expectations that UPM's strong and cost efficient market positions will continue to
+support strong cash flows. We expect adjusted leverage to remain below 1.5x over the next 24 months, even
+though UPM's stated financial policy allows for higher leverage.
+
+Downside scenario
+We could lower the rating if UPM's credit metrics deteriorated markedly from current levels such that our
+weighted-average ratio of adjusted FFO to adjusted debt fell below 40% and adjusted debt to adjusted EBITDA
+exceeded 2.5x. While significant headroom currently exists, a deterioration in credit metrics could follow a very
+large debt-funded acquisition, capex, or higher shareholder returns, combined with a sharp deterioration in the
+performance of the business.
+
+Upside scenario
+We could raise the rating if UPM tightened its financial policy and amended its stated maximum leverage ceiling to
+reflect a commitment to maintain credit metrics commensurate with a modest financial risk profile. We would
+consider this to be equivalent to our adjusted weighted-average FFO-to-debt ratio sustainably above 45% and
+adjusted debt-to-EBITDA of less than 2x. We believe this would be in line with a company-reported
+debt-to-EBITDA ratio of about 1.5x. We could also raise the rating if we saw a material improvement in the
+company's business risk profile, possibly via a further expansion into products with higher margins and stronger
+growth prospects.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+UPM-Kymmene Corp.
+
+Assumptions
+
+Key Metrics
+
+• S&P Global Ratings estimates eurozone GDP growth
+of 1.1% in 2019 and 1.3% in 2020.
+EBITDA margin (%)
+
+• Revenue growth of 1% in 2019 driven by pulp (as
+higher volumes offset the negative impact of lower
+prices), electricity (higher prices) and self-adhesive
+label (higher prcies). We expect these to offset
+revenue declines in graphic and specialties paper.
+
+FFO to debt (%)
+Debt to EBITDA (x)
+
+2018A
+
+2019E
+
+2020F
+
+17.8
+
+16-17
+
+17
+
+Above 100 Above 100 Above 100
+0.4
+
+0.3
+
+0.2
+
+A--Actual. E--Estimate. F--Forecast.
+
+• A 100-150 bps decline in EBITDA margins in 2019,
+driven by margin pressures in pulp and specialty
+papers. This will only be marginally offset by modest
+margin improvements in energy. We expect margins
+in the communications paper business to remain
+stable or slightly below 2018 levels.
+• Annual capex of €450 million in 2019 of which
+around €100 million will relate to investments in
+Uruguay. Over 2020-2022 we expect annual capex
+to increase to €1.1 billion, split between
+maintenance capex (€200 million) and investments
+into the new pulp mill in Uruguay and the port
+operations (around €900 million).
+• Dividends of €693 million in 2019 and €650
+million-€700 million in 2020, corresponding to
+30%-40% of operating cash flows.
+• No acquisitions.
+
+Base-case projections
+EBITDA margins. We expect EBITDA margins to decline by 100-150 bps in 2019. In biorefining, we expect a slight
+drop in profitability as higher pulp volumes (which in 2018 were undermined by temporary plant shutdowns for
+repairs) partly offset the negative impact of lower pulp prices. In communications paper, we expect stable to slightly
+declining EBITDA margins for 2019, driven by volume reductions throughout 2019 and price reductions in the second
+half of 2019.
+Dividend policy. The company's dividend policy is to pay 30%-40% of its operating cash flow to shareholders as
+dividends. This year the shareholders received a slightly higher pay-out (50%) as 2018 was an exceptional year. We
+expect annual dividend payments to remain at €600 million-€700 million.
+Leverage. We do not expect any material debt-funded acquisitions and forecast leverage to remain in the minimal
+financial risk category, even if the company decides to proceed with the €2 billion investment in a second pulp mill in
+Uruguay.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+UPM-Kymmene Corp.
+
+Company Description
+Chart 1
+
+With over €10 billion sales and €1.86 billion EBITDA, UPM is one of the largest and most diversified forest and paper
+products companies in the world. The group is listed on the NASDAQ Helsinki stock exchange.
+It has leading positions in European publications paper, fine paper, and self-adhesive label materials. It also has large
+pulp and energy operations, as well as large manufacturing operations for plywood and sawn timber. UPM's 54
+operating plants are spread over 12 countries, primarily in Europe. It has paper production plants in the U.S. and
+China, and some pulp capacity in Uruguay.
+In 2018, external sales were split between communications paper (44.5%), biorefining including pulp, timber, and
+biofuels (21.2%), Raflatac self-adhesive labels for consumer goods (14.2%), specialty papers (11.6%), plywood (4.4%),
+energy (1%), and other operations (3.1%).
+The group's revenue base is well diversified. Its three most important geographies (in terms of sales) are Germany
+(16%), China (11%), and the U.S. (11%). Finland accounts for 8.7% of sales.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+UPM-Kymmene Corp.
+
+Business Risk: Satisfactory
+UPM has a conservative business model, focused on being a cost leader in capital-intensive segments such as pulp,
+graphic paper, and energy generation.
+UPM continuously invests in its asset base to enhance its competitiveness and has historically disposed of
+underperforming assets (such as graphic paper machines). Positive rating factors include UPM's large size; leading
+market positions; product diversity; vertical integration into wood, pulp, and energy; and diverse customer base. The
+business has successfully migrated to higher-margin wood and paper products and decreased its exposure to the
+structurally declining publications paper segment. The group limits the interdependency between divisions by
+operating them independently and ensuring that they are each profitable on a stand-alone basis.
+These strengths are partly offset by the company's still-large exposure to the structurally declining European graphic
+paper industry (via its communications paper divisions), and the cyclical nature of the pulp business. The pulp segment
+has experienced pricing pressure and excess capacity since November 2018, on the back of lower demand from China.
+We expect pulp prices to continue to decline in the short term but note that the large South American pulp producers
+are currently trying to stem the price decline with production cuts.
+
+Peer comparison
+Table 1
+
+UPM-Kymmene Corp.--Peer Comparison
+Industry sector: Paper/forest products
+UPM-Kymmene Corp.
+Issuer credit ratings
+
+Mondi Group
+
+Holmen AB
+
+Svenska Cellulosa Aktiebolaget SCA
+
+BBB/Stable/A-2 BBB+/Stable/-- BBB+/Stable/A-2
+
+BBB/Stable/A-2
+
+--Fiscal year ended Dec. 31, 2018-(Mil. €)
+Revenues
+
+10,483.0
+
+7,481.0
+
+1,704.1
+
+1,843.3
+
+EBITDA
+
+1,925.5
+
+1,729.0
+
+300.9
+
+476.9
+
+Funds from operations (FFO)
+
+1,630.1
+
+1,401.0
+
+258.1
+
+439.7
+
+Interest expense
+
+83.4
+
+99.0
+
+4.9
+
+11.5
+
+Cash interest paid
+
+43.4
+
+80.0
+
+3.9
+
+14.7
+
+1,446.1
+
+1,335.0
+
+229.3
+
+360.1
+
+301.0
+
+765.0
+
+111.5
+
+300.5
+
+1,145.1
+
+570.0
+
+117.8
+
+59.5
+
+Discretionary cash flow (DCF)
+
+532.1
+
+(256.0)
+
+10.5
+
+(44.1)
+
+Cash and short-term investments
+
+888.0
+
+52.0
+
+27.3
+
+63.7
+
+Debt
+
+853.4
+
+2,401.2
+
+346.7
+
+816.1
+
+9,797.0
+
+3,825.0
+
+2,305.0
+
+3,839.1
+
+EBITDA margin (%)
+
+18.4
+
+23.1
+
+17.7
+
+25.9
+
+Return on capital (%)
+
+13.9
+
+21.3
+
+7.7
+
+7.4
+
+EBITDA interest coverage (x)
+
+23.1
+
+17.5
+
+61.5
+
+41.6
+
+Cash flow from operations
+Capital expenditure
+Free operating cash flow (FOCF)
+
+Equity
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+UPM-Kymmene Corp.
+
+Table 1
+
+UPM-Kymmene Corp.--Peer Comparison (cont.)
+Industry sector: Paper/forest products
+UPM-Kymmene Corp.
+FFO cash interest coverage (x)
+
+Mondi Group
+
+Holmen AB
+
+Svenska Cellulosa Aktiebolaget SCA
+
+38.6
+
+18.5
+
+67.0
+
+30.9
+
+0.4
+
+1.4
+
+1.2
+
+1.7
+
+FFO/debt (%)
+
+191.0
+
+58.3
+
+74.4
+
+53.9
+
+Cash flow from operations/debt (%)
+
+169.5
+
+55.6
+
+66.1
+
+44.1
+
+Free Operating Cash Flow /debt (%)
+
+134.2
+
+23.7
+
+34.0
+
+7.3
+
+62.4
+
+(10.7)
+
+3.0
+
+(5.4)
+
+Debt/EBITDA (x)
+
+Discretionary Cash Flow /debt (%)
+
+UPM's peers include Mondi Group, SCA, and Holmen AB. Both UPM and Mondi are highly diversified in terms of
+products and geographies. Holmen and SCA focus on a narrower product range and have a stronger reliance on their
+domestic Nordic markets.
+Mondi's EBITDA margins are stronger due to its presence in emerging markets and its strong focus on cost
+efficiencies.
+
+Financial Risk: Minimal
+UPM's financial risk profile is supported by strong cash flow generation and recently low investments, which have
+resulted in a significant improvement in credit metrics in the past four years. The company aims to maintain net debt
+to EBITDA at approximately 2.0x or less. At the end of 2018, this ratio was negative (with cash on balance sheet
+exceeding gross debt) or 0.4x on an S&P Global Ratings-adjusted basis.
+To calculate our adjusted debt credit metrics for year-end 2018, we added €527 million of pension liabilities, €399
+million of operating leases, and €90 million of reported lease liabilities.
+We also view positively the company's low interest costs and leverage. The company has headroom within its financial
+policy, and the credit rating, to undertake a large expansion project or acquisition.
+Partly offsetting these strengths is UPM's sometimes volatile cash flow generation, which stems from exposure to
+volatile business segments such as pulp and publication paper, where periods of overcapacity can lead to pricing
+pressure.
+
+Financial summary
+Table 2
+
+UPM-Kymmene Corp.--Financial Summary
+Industry sector: Paper/forest products
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+9,812.0 10,138.0
+
+9,868.0
+
+(Mil. €)
+Revenues
+
+10,483.0 10,010.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+UPM-Kymmene Corp.
+
+Table 2
+
+UPM-Kymmene Corp.--Financial Summary (cont.)
+Industry sector: Paper/forest products
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA
+
+1,925.5
+
+1,690.5
+
+1,614.5
+
+1,366.5
+
+1,200.5
+
+Funds from operations (FFO)
+
+1,630.1
+
+1,418.6
+
+1,400.2
+
+1,168.8
+
+1,055.0
+
+83.4
+
+113.9
+
+95.3
+
+90.7
+
+99.5
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+
+43.4
+
+55.9
+
+69.3
+
+57.7
+
+64.5
+
+1,446.1
+
+1,609.6
+
+1,726.2
+
+1,218.8
+
+1,275.0
+
+301.0
+
+304.0
+
+343.0
+
+424.0
+
+373.0
+
+1,145.1
+
+1,305.6
+
+1,383.2
+
+794.8
+
+902.0
+
+Discretionary cash flow (DCF)
+
+532.1
+
+798.6
+
+983.2
+
+421.8
+
+583.0
+
+Cash and short-term investments
+
+888.0
+
+716.0
+
+992.0
+
+626.0
+
+700.0
+
+Gross available cash
+
+888.0
+
+716.0
+
+992.0
+
+626.0
+
+700.0
+
+Debt
+
+853.4
+
+1,372.4
+
+2,223.4
+
+3,097.4
+
+3,564.1
+
+9,797.0
+
+8,664.0
+
+8,238.0
+
+7,944.0
+
+7,480.0
+
+EBITDA margin (%)
+
+18.4
+
+16.9
+
+16.5
+
+13.5
+
+12.2
+
+Return on capital (%)
+
+13.9
+
+11.5
+
+9.7
+
+7.2
+
+5.8
+
+EBITDA interest coverage (x)
+
+23.1
+
+14.8
+
+16.9
+
+15.1
+
+12.1
+
+FFO cash interest coverage (x)
+
+38.6
+
+26.4
+
+21.2
+
+21.3
+
+17.4
+
+0.4
+
+0.8
+
+1.4
+
+2.3
+
+3.0
+
+FFO/debt (%)
+
+191.0
+
+103.4
+
+63.0
+
+37.7
+
+29.6
+
+Cash flow from operations/debt (%)
+
+169.5
+
+117.3
+
+77.6
+
+39.3
+
+35.8
+
+Free operating cash flow /debt (%)
+
+134.2
+
+95.1
+
+62.2
+
+25.7
+
+25.3
+
+Discretionary cash flow /debt (%)
+
+62.4
+
+58.2
+
+44.2
+
+13.6
+
+16.4
+
+Free operating cash flow (FOCF)
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+Liquidity: Strong
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Available cash balance of around €559 million as of
+June 30, 2019.
+
+• Capex of around €800 million in the 12 months to
+June 2020.
+
+• Our forecast of unadjusted FFO of about €1.5
+billion.
+
+• Seasonal working capital outflows of around €160
+million.
+• Dividends of €693 million in 2019 and €650
+million-€700 million in 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+UPM-Kymmene Corp.
+
+Other Credit Considerations
+Because UPM currently has strong cash flow generation and a low level of debt, we assess its financial risk profile as
+minimal. However, if UPM does not find suitable growth opportunities in the next two years, its financial policy allows
+it to make further shareholder returns via dividend payments or share buybacks. The company's financial target is to
+maintain maximum net debt to EBITDA of approximately 2.0x (equivalent to our adjusted net debt to EBITDA of
+about 2.25x) or below.
+We therefore apply a negative financial policy modifier that adjusts our 'a-' anchor for UPM downward by two notches
+to 'bbb', reflecting that leverage could increase materially from what we assume in our base case.
+
+Environmental, Social, And Governance
+
+Environmental and social factors are relevant to Finland-based forest products company UPM, but currently not
+material ratings drivers.
+The group focuses on sustainable forest management and plants around 50 million trees every year. All of UPM's
+forests are certified and 85% of the wood it uses comes from certified forests. Wood harvesting levels are exposed
+to changes in weather conditions.
+The company increasingly focuses on developing renewable and recyclable materials (including fuels and
+chemicals) from bio-based materials. UPM also focuses on using a higher portion of recycled content and energy
+efficiencies (via the production of hydro power, nuclear power, and biomass-based energy at its mills). 70% of the
+energy UPM uses is renewable, resulting in a leaner cost base and lower waste.
+We view governance as a supporting factor for the ratings, reflecting management's experience and expertise,
+governance in line with best practices, and the balance of different stakeholders' interests.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of June 30, 2019, UPM's capital structure comprised $375 million 7.45% unsecured notes due November 2027
+issued by UPM-Kymmene Oyj, €44 million unsecured loans from financial institutions, €562 million lease obligations,
+and €179 million in other unsecured debt.
+
+Analytical conclusions
+The $375 million 7.45% unsecured notes due 2027 issued by UPM-Kymmene Oyj are rated 'BBB', the same as the
+issuer credit rating, as no sources of significant subordination have been identified.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+UPM-Kymmene Corp.
+
+Reconciliation
+Table 3
+
+Reconciliation Of UPM-Kymmene Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. €)
+--Fiscal year ended Dec. 31, 2018-UPM-Kymmene Corp. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+9,792.0
+
+1,865.0
+
+1,895.0
+
+44.0
+
+1,925.5
+
+1,391.0
+
+303.0
+
+Debt
+
+Shareholders'
+equity
+
+685.0
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(252.0)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(15.0)
+
+--
+
+--
+
+Reported lease liabilities
+
+90.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+399.4
+
+--
+
+83.5
+
+26.4
+
+26.4
+
+(26.4)
+
+57.1
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+527.0
+
+--
+
+15.0
+
+15.0
+
+11.0
+
+--
+
+--
+
+--
+
+(848.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+2.0
+
+(2.0)
+
+(2.0)
+
+(2.0)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+13.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+2.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Income (expense) of
+unconsolidated
+companies
+
+--
+
+--
+
+(6.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+2.0
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+5.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(47.0)
+
+(47.0)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation gains/(losses)
+
+--
+
+--
+
+--
+
+(452.0)
+
+--
+
+--
+
+--
+
+--
+
+168.4
+
+5.0
+
+60.5
+
+(455.6)
+
+39.4
+
+(295.4)
+
+55.1
+
+(2.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+1,630.1
+
+1,446.1
+
+301.0
+
+Accessible cash and
+liquid investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+853.4
+
+9,797.0
+
+1,925.5
+
+1,439.4
+
+83.4
+
+UPM has an indirect share in nuclear power plants operated by TVO through its shareholding in PVO, from which it
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+UPM-Kymmene Corp.
+
+buys electricity at cost. UPM's indirect share is 33% in Olkiluoto 1 and 2 and 31% in Olkiluoto 3 (which is currently
+expected to start regular electricity operations in July 2020).
+Although UPM does not provide a guarantee for any of TVO's debt, all shareholders in TVO are obliged to cover their
+proportionate share of TVO's fixed and variable costs related to energy generation, which include interest expenses.
+UPM has also indirectly provided funding to TVO in the form of shareholder loans through PVO to help fund a new
+third reactor.
+Although we acknowledge that UPM benefits from stable electricity, sourced at production cost, we also recognize that
+market prices have significantly decreased over the past few years, and that TVO's production costs will increase when
+the new reactor comes into operation. Although we do not currently adjust UPM's debt for any of TVO's liabilities, we
+continue to monitor the benefit for UPM of its indirect shareholding in TVO versus its obligations and factor the cost of
+its electricity into our base case forecasts.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Minimal
+
+• Cash flow/Leverage: Minimal
+Anchor: aModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Negative (-2 notches)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria | Corporates | General: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+UPM-Kymmene Corp.
+
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Forest And Paper Products Industry, Feb. 12, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 9, 2019)*
+UPM-Kymmene Corp.
+Issuer Credit Rating
+
+BBB/Stable/A-2
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+24-Jul-2018
+
+BBB/Stable/A-2
+
+14-Feb-2017
+
+BBB-/Positive/A-3
+
+25-Aug-2016
+
+BB+/Positive/B
+
+20-Nov-2014
+
+BB+/Stable/B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 13
+
+

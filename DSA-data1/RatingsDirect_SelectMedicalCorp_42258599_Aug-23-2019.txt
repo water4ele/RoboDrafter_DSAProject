@@ -1,0 +1,1071 @@
+Select Medical Corp.
+Primary Credit Analyst:
+Jeffrey Loo, CFA, New York + (212) 438-1069; jeffrey.loo1@spglobal.com
+Secondary Contact:
+David P Peknay, New York (1) 212-438-7852; david.peknay@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 1
+
+Select Medical Corp.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Largest provider of post-acute care services in the U.S., with
+operations in 47 states and the District of Columbia (D.C.).
+
+Exposure to reimbursement risk.
+
+Sizeable scale, with four business segments across the U.S. and
+revenue exceeding $5 billion.
+
+Highly acquisitive to drive growth, which we believe will keep leverage
+around 5x.
+
+Good cash flow, as we anticipate about $180 million in discretionary
+cash flow in 2019.
+
+Partners' put options for Concentra exercisable beginning in February
+2020 would require significant use of cash for three years.
+Operates in a highly fragmented and competitive industry.
+
+We view reimbursement rates as a key long-term risk. We believe the persistent focus on health-care cost containment
+will result in ongoing reimbursement rate pressure, which we view as a key risk to Select Medical's credit profile. Flat
+or small reimbursement rate increases will pressure EBITDA margins, as we anticipate operating costs will rise at a
+faster rate. However, Select has diversified its business mix and lowered its reliance on government payers, which we
+view as the most vulnerable to reimbursement-rate pressure. Medicare currently accounts for about 27% of Select's
+revenue, down from 45% five years ago.
+The Medicare long-term acute-care (LTAC) criteria change limits revenue growth for Select Medical's largest segment.
+Select Medical adjusted its LTAC strategy to accept only compliant patients, which limits volume and revenue growth
+by excluding site-neutral patients but raises revenue per patient day and, thereby, its margins. Based on this strategy,
+the company's patient compliance rate was close to 100% as of second-quarter 2019.
+The LTAC criteria require Medicare patients to spend three days in an intensive-care unit or four days on a ventilator
+to be considered post-intensive care or compliant for the provider to be eligible for a full LTAC payment. Phase I of the
+LTAC criteria began in September 2016, and noncompliant or site-neutral patients were reimbursed at a blended rate
+of the full LTAC rate and the site-neutral rate. Beginning in September 2019, Select's LTACs will begin receiving the
+site-neutral rate for noncompliant patients.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 2
+
+Select Medical Corp.
+
+Third-party put options will likely require material use of cash. We anticipate the company using about $300 million
+each year for the next three years to acquire the remaining ownership of Concentra. Welsh, Carson, Anderson and
+Stowe and Dignity Health own 49.9% of Concentra, and have put options requiring Select to purchase one-third of
+their ownership positions in Concentra each year for the next three years beginning in February 2020. We expect
+Welsh, Carson, and Dignity to exercise their options.
+We expect leverage to remain around 4.5x-5.0x. We expect Select's adjusted debt leverage to remain around 4.5x-5.0x
+over the next two years as the company pursues additional acquisitions. Select has supplemented organic growth with
+several sizeable acquisitions in recent years. We believe the company will pursue additional acquisitions, likely
+requiring additional debt financing that would increase leverage.
+Modest near-term sales growth. We expect modest overall near-term sales growth, as solid growth in Select's Inpatient
+Rehabilitation Facilities (IRFs) is balanced by limited sales growth in its other three segments (LTAC, outpatient
+rehabilitation, and Concentra). Growth in these segments is limited by minimal reimbursement rate increases and by
+Select's LTAC strategy. However, we believe cost controls will contribute to improving EBITDA margins.
+
+Outlook: Stable
+
+The stable outlook reflects our expectations for Select to generate stable-to-improving EBITDA margins and good
+discretionary cash flow of about $180 million-$200 million each year over the next two years and adjusted
+debt-to-EBITDA leverage of 4.5x-5.0x.
+
+Downside scenario
+We could lower our rating if weaker-than-expected patient volume, additional reimbursement cuts, or increased
+operating costs result in deteriorating EBITDA margins, increase in leverage, and decline in discretionary cash
+flow. We would then expect an EBITDA-margin contraction of about 150 basis points (bps) or more and a sizeable
+decline in free cash flow, leading to leverage above 5.5x with limited prospects for improvement.
+
+Upside scenario
+Although we do not expect to raise the rating over the next year, we could do so if we gained confidence that
+Select Medical was committed to a reduced debt leverage profile below 4x sustainably. Such a scenario would
+require EBITDA-margin expansion well above our base-case forecast.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 3
+
+Select Medical Corp.
+
+Assumptions
+
+Key Metrics
+
+Our base case assumes:
+
+Based on these assumptions, we arrive at the following
+credit measures:
+
+• Sales growth in the low single digits over the next
+two years, driven by mid- to high-single-digit IRF
+growth, partially offset by low-single-digit growth in
+LTAC, outpatient rehabilitation, and Concentra
+segments.
+• Adjusted EBITDA improvement of 40 bps on slightly
+better IRF margins, and improved same-hospital
+revenue per (LTAC) patient day based on a 100%
+patient-compliant rate.
+
+• Adjusted debt to EBITDA of about 5.1x in 2019,
+declining to 4.8x in 2020 and funds from operations
+(FFO) to debt of about 12%-14% over the next two
+years.
+• FFO to debt of about 11%-13% over the next two
+years; and
+• Discretionary cash flow of about $180 million-$200
+million annually over the next two years.
+
+Company Description
+Select Medical Corp. is the largest post-acute-care provider in the U.S., with operations in 47 states and D.C. Select
+operates four businesses: Critical Illness Recovery Hospitals (formerly LTAC Hospitals), IRF, Outpatient Rehabilitation
+Clinics, and Occupational Medicine Centers. The company is the largest operator of Critical Illness Recovery
+Hospitals, with 100 hospitals in 28 states; the second-largest operator of IRFs with 28 hospitals in 12 states; the largest
+operator of Outpatient Rehabilitation Clinics with 1,695 clinics in 37 states and D.C.; and the largest operator of
+Occupational Medicine Centers with 526 centers in 41 states, through its 51%- owned Concentra subsidiary.
+Concentra also provides veterans' health-care services, along with primary care and mental health community-based
+outpatient clinics.
+
+Business Risk: Weak
+Our assessment of Select's business risk as weak reflects reimbursement risk, characterized by the potential for rate
+cuts, low rate increases, and possible regulatory changes that can hurt reimbursement. We also view the industry as
+fragmented and competitive, with limited barriers to entry. Partially offsetting these factors is the company's good
+scale (about $5 billion of revenues), good geographic diversification (across 47 states and D.C.), and leading market
+shares in each of its four businesses, where Select has either the largest or second- largest market share. However,
+Medicare reimbursement, which we view as most vulnerable to risk, has declined from 45% of sales in 2014 to 27% of
+sales as of the second quarter of 2019, primarily due to the significant expansion of Concentra, the payer mix of which
+is primarily commercial payers and workers' compensation.
+Select's largest segment--Critical Illness Recovery Hospitals--is facing ongoing operating pressures, including wage
+inflation, partly stemming from a shortage of specialized nurse practitioners required for the treatment of higher-acuity
+patients. Further, we believe reimbursement pressures are very significant for many LTAC providers. Although Select
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 4
+
+Select Medical Corp.
+
+is at about 100% patient compliance, we expect competition for patient referrals to intensify, particularly as the
+blended reimbursement rate for site-neutral patients rolls off in September 2019. Select has increased its educational
+and referral efforts and partnerships at acute-care hospitals in an effort to maintain steady access to high-acuity
+patients.
+The 51% ownership of Concentra, which acquired U.S. HealthWorks in 2018, bolsters the company's competitive
+position as the largest U.S. provider of outpatient rehab services and diversifies its Critical Illness Recovery Hospital
+business. These outpatient businesses also improve Select's overall payer mix profile, as Physiotherapy and Concentra
+predominantly generate revenues from commercial insurers and state workers' compensation programs.
+
+Peer comparison
+We compare Select to other post-acute-care providers, including Encompass Healthcare, and for-profit healthcare
+systems such as HCA Healthcare and Tenet Healthcare. Select is the largest of its post-acute-care peers and has an
+attractive competitive position through its leading market share in this highly fragmented industry.
+Encompass Healthcare (BB-/Stable/--), an operator of rehabilitation facilities, has lower leverage of about 3x and has
+higher EBITDA margins than Select due to a greater mix of higher-margin inpatient rehabilitation hospitals. HCA
+Healthcare (BB+/Stable/--) is one of the largest health care service companies in the U.S. It operates 184 hospitals
+and approximately 2,000 sites of care, including surgery centers, free-standing emergency rooms, urgent-care centers,
+and physician clinics in 21 states and the U.K. HCA has lower leverage at about 3.9x and has higher EBITDA margins
+and generates significantly greater discretionary cash flow (over $900 million) than Select. Tenet Healthcare
+(B/Positive/--), which is one of the largest health-care-service companies in the U.S., generates significantly higher
+revenue than Select but has lower EBITDA margins and a higher leverage of 7x.-8x.
+Table 1
+
+Select Medical Corp. -- Peer Comparison
+Industry sector: Health care services
+Select Medical Corp. Encompass Health Corp. Tenet Healthcare Corp. HCA Healthcare Inc.
+Ratings as of Aug. 12, 2019
+
+B+/Stable/--
+
+BB-/Stable/--
+
+B/Positive/NR
+
+BB+/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+5,081.3
+
+4,277.3
+
+18,313.0
+
+46,677.0
+
+EBITDA
+
+847.7
+
+952.3
+
+2,152.0
+
+8,890.5
+
+Funds from operations (FFO)
+
+537.6
+
+660.5
+
+1,087.1
+
+6,162.4
+
+Interest expense
+
+267.0
+
+174.7
+
+1,069.9
+
+1,867.1
+
+Cash interest paid
+
+262.0
+
+177.0
+
+1,039.9
+
+1,856.1
+
+Cash flow from operations
+
+668.8
+
+802.4
+
+1,181.1
+
+6,953.4
+
+Capital expenditure
+
+167.3
+
+264.5
+
+610.0
+
+3,573.0
+
+Free operating cash flow (FOCF)
+
+501.5
+
+537.9
+
+571.1
+
+3,380.4
+
+Discretionary cash flow (DCF)
+
+494.7
+
+353.4
+
+283.1
+
+922.4
+
+Cash and short-term investments
+
+175.2
+
+69.2
+
+411.0
+
+549.0
+
+Debt
+
+4,490.3
+
+2,852.0
+
+16,286.3
+
+33,986.7
+
+Equity
+
+1,696.7
+
+1,818.7
+
+2,107.0
+
+(2,918.0)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 5
+
+Select Medical Corp.
+
+Table 1
+
+Select Medical Corp. -- Peer Comparison (cont.)
+Industry sector: Health care services
+Select Medical Corp. Encompass Health Corp. Tenet Healthcare Corp. HCA Healthcare Inc.
+Adjusted ratios
+EBITDA margin (%)
+
+16.7
+
+22.3
+
+11.8
+
+19.0
+
+Return on capital (%)
+
+8.2
+
+13.7
+
+7.1
+
+20.6
+
+EBITDA interest coverage (x)
+
+3.2
+
+5.5
+
+2.0
+
+4.8
+
+FFO cash interest coverage (x)
+
+3.1
+
+4.7
+
+2.0
+
+4.3
+
+Debt/EBITDA (x)
+
+5.3
+
+3.0
+
+7.6
+
+3.8
+
+FFO/debt (%)
+
+12.0
+
+23.2
+
+6.7
+
+18.1
+
+Cash flow from operations/debt (%)
+
+14.9
+
+28.1
+
+7.3
+
+20.5
+
+FOCF/debt (%)
+
+11.2
+
+18.9
+
+3.5
+
+9.9
+
+DCF/debt (%)
+
+11.0
+
+12.4
+
+1.7
+
+2.7
+
+Financial Risk: Aggressive
+We expect Select's adjusted debt leverage to generally remain at 4.5x-5.0x over the next two years and for FFO to
+debt to remain at 11%-13% for the same period. Although debt leverage is currently stretched for the rating category,
+we believe the company has the ability to de-leverage over the outlook period through EBITDA expansion. This
+confidence is supported by the company's demonstrated success in margin expansion of acquired entities, as well as in
+navigating the adverse reimbursement environment in its LTAC business and preserving its EBITDA margin in this
+segment. Moreover, we believe the company's good discretionary cash flow generation of about $180 million expected
+in 2019 is a key credit factor supporting the 'B+' rating. However, we expect the company to use much of that free
+cash flow to fund the purchase of the remaining stake in Concentra that Select does not currently own in each of the
+next three years, starting in 2020.
+
+Financial summary
+Table 2
+
+Select Medical Corp.--Financial Summary
+Industry sector: Health care services
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+5,081.3
+
+4,443.6
+
+4,286.0
+
+3,742.7
+
+3,065.0
+
+EBITDA
+
+847.7
+
+726.7
+
+686.1
+
+580.4
+
+478.2
+
+Funds from operations (FFO)
+
+537.6
+
+443.9
+
+406.6
+
+345.2
+
+282.2
+
+Interest expense
+
+267.0
+
+223.4
+
+236.2
+
+165.5
+
+124.9
+
+Cash interest paid
+
+262.0
+
+217.8
+
+208.8
+
+155.8
+
+118.2
+
+Cash flow from operations
+
+668.8
+
+395.2
+
+498.7
+
+326.7
+
+260.3
+
+Capital expenditure
+
+167.3
+
+230.0
+
+158.7
+
+180.2
+
+94.9
+
+Free operating cash flow (FOCF)
+
+501.5
+
+165.3
+
+340.0
+
+146.5
+
+165.5
+
+(Mil. $)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 6
+
+Select Medical Corp.
+
+Table 2
+
+Select Medical Corp.--Financial Summary (cont.)
+Industry sector: Health care services
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Discretionary cash flow (DCF)
+
+494.7
+
+150.0
+
+326.5
+
+104.9
+
+(22.6)
+
+Cash and short-term investments
+
+175.2
+
+122.5
+
+99.0
+
+14.4
+
+3.4
+
+Gross available cash
+
+175.2
+
+122.5
+
+99.0
+
+14.4
+
+3.4
+
+Debt
+
+4,490.3
+
+3,764.3
+
+3,776.2
+
+3,426.9
+
+2,211.1
+
+Equity
+
+1,696.7
+
+1,573.4
+
+1,328.1
+
+1,146.7
+
+786.2
+
+EBITDA margin (%)
+
+16.7
+
+16.4
+
+16.0
+
+15.5
+
+15.6
+
+Return on capital (%)
+
+8.2
+
+7.8
+
+8.0
+
+9.4
+
+10.9
+
+EBITDA interest coverage (x)
+
+3.2
+
+3.3
+
+2.9
+
+3.5
+
+3.8
+
+FFO cash interest coverage (x)
+
+3.1
+
+3.0
+
+2.9
+
+3.2
+
+3.4
+
+Debt/EBITDA (x)
+
+5.3
+
+5.2
+
+5.5
+
+5.9
+
+4.6
+
+FFO/debt (%)
+
+12.0
+
+11.8
+
+10.8
+
+10.1
+
+12.8
+
+Cash flow from operations/debt (%)
+
+14.9
+
+10.5
+
+13.2
+
+9.5
+
+11.8
+
+FOCF/debt (%)
+
+11.2
+
+4.4
+
+9.0
+
+4.3
+
+7.5
+
+DCF/debt (%)
+
+11.0
+
+4.0
+
+8.6
+
+3.1
+
+(1.0)
+
+Adjusted ratios
+
+Liquidity: Adequate
+We assess Select's liquidity as adequate. Sources of cash are likely to exceed uses of cash by more than 1.2x over the
+next 12 months. We believe the company does not have the ability to withstand a high-impact, low-probability event,
+like a significant cut in Medicare reimbursement rates across its segments, without refinancing. Furthermore, we
+believe the company has satisfactory standing in the credit market, sound relationships with its banks, and generally
+prudent risk management.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About $124 million in cash on hand as of June 30,
+2019;
+
+• Mandatory debt amortization of about $12 million
+annually;
+
+• $450 million availability under the revolving credit
+facility; and
+
+• Capital expenditures of about $172 million over the
+next 12 months; and
+
+• Cash FFO of about $377 million over the next 12
+months.
+
+• Working-capital usage of about $26 million over the
+next 12 months.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 7
+
+Select Medical Corp.
+
+Debt maturities
+The below debt maturities account for the expected redemption on Aug. 30, 2019, of $710 million of senior notes due
+in 2021. Following its debt financing in August 2019, Select deposited sufficient funds to redeem all of the outstanding
+senior notes due 2021 on Aug. 30, 2019.
+• $450 million revolving credit facility due 2024;
+• $1.65 billion of senior secured term loans due 2025;
+• $550 million of senior unsecured notes due 2026;
+• $1.1 billion in Concentra first-lien term loans; and
+• $240 million in Concentra second-lien term loans.
+
+Environmental, Social, And Governance
+
+Environmental and social issues are relevant to our analysis but do not currently present a significant driver to the
+rating. We consider Select's key environmental, social, and governance risk to be health care cost-containment
+pressure, which could include unfavorable reimbursement changes. However, we view post-acute-care and
+outpatient providers as offering a less costly service than in-patient, acute-care facilities. We also view outpatient
+services as an attractive alternative, as they are typically more convenient for patients. These factors are included
+in our analysis and assessment of the company's business risk profile.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Select Medical Corp.'s capital structure consists of a $1.65 billion senior secured term loan due in 2025, $550 million
+in unsecured notes due in 2026, and a $450 million revolving credit facility due 2024.
+• Our simulated default scenario contemplates a default in 2023, stemming from a significant decline in
+reimbursement rates and a reduction in allowed visits due to economic deterioration.
+• Given the company's market-leading position in many of its services and in the geographic regions in which it
+operates, as well as the continued demand for its services, we believe Select would remain a viable business and
+would reorganize rather than liquidate in case of payment default.
+• Consequently, we have used an enterprise value methodology to gauge recovery prospects. We valued the
+company as a going concern, using a 5.5x multiple off our projected EBITDA at default, which is consistent with the
+multiple used for similar companies.
+
+Simulated default assumptions
+• Simulated year of default: 2023
+• Implied enterprise value multiple: 5.5x
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 8
+
+Select Medical Corp.
+
+• EBITDA at emergence: $290 million
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $1,515 million;
+• Valuation split in % (obligors/non-obligors): 100%/0%;
+• Collateral value available to secured creditors: $1,515 million;
+• Secured first-lien debt: $2,031 million;
+• Recovery expectations: 70%-90% (rounded to 70%);
+• Total value available to senior unsecured claims: $0;
+• Unsecured debt claims: $1,083 million; and
+• Recovery expectations: 0%-10% (rounded to 0%).
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 9
+
+Select Medical Corp.
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Health Care Services Industry, April 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+Strong
+Satisfactory
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Fair
+
+Ratings Detail (As Of August 16, 2019)*
+Select Medical Corp.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+BB-
+
+Senior Unsecured
+
+B-
+
+Issuer Credit Ratings History
+09-May-2017
+
+B+/Stable/--
+
+25-Mar-2015
+
+B+/Negative/--
+
+30-Apr-2012
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 10
+
+Select Medical Corp.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 12
+
+

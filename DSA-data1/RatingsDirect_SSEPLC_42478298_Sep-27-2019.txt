@@ -1,0 +1,1836 @@
+SSE PLC
+Primary Credit Analyst:
+Matan Benjamin, London (44) 20-7176-0106; matan.benjamin@spglobal.com
+Secondary Contact:
+Beatrice de Taisne, CFA, London (44) 20-7176-3938; beatrice.de.taisne@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+SSE PLC
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb+
+
+bbb+
+
+BBB+/Stable/A-2
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+More than 55% of EBITDA is derived from stable and
+predictable regulated networks.
+
+Although financial headroom in the fiscal year (FY) ending March 31, 2019, was low,
+we expect increased renewable capacity to support cash flow generation from
+FY2020, which will increase headroom.
+
+Improved profitability as SSE gradually shifts the energy
+generation mix toward renewables, which are largely
+subsidized, and away from fossil fuels.
+
+Returns are expected to be lower in the next regulatory periods because the
+regulatory frameworks will be more challenging--for example, companies will have
+less capacity to underspend their total expenditure allowance.
+
+Strong track record in developing and operating energy
+assets, which provides it with opportunities to create value
+through divestments.
+
+Relatively inflexible financial policy.
+
+One of the largest energy companies in the U.K.
+
+The company has announced the sale of its U.K. retail division, which has faced
+political pressure and fierce competition.
+
+SSE's FY2019 results were below expectations. U.K.-based energy utility SSE saw weaker contributions from wholesale
+and retail operations in FY2019. Its results were dented by ongoing competitive pressure, losses associated with its
+trading activities (energy portfolio management; EPM), the suspension of the capacity market, and lower dividends
+from unconsolidated subsidiaries. Funds from operations (FFO) to debt for FY2019 was 15.2%, below our forecast of
+18%-20% and down from the 23.2% in FY2018. A change in accounting standards (IFRIC 18) and a change in our
+methodology for calculating ratios were also factors in the FY2019 ratios' relative weakness.
+Ratios should recover in FY2020, thanks to higher contributions from the wholesale operation. The Beatrice offshore
+windfarm became operational in July 2019, the new Ferrybridge Multifuel 2 site is expected to become operational in
+December 2019. We also expect an improved contribution from the EPM division, after SSE took steps to improve its
+trading activities, including its approach to hedging. Overall, we expect FFO to debt for FY2020 and FY2021 of
+18%-20%.
+SSE has entered into an agreement to sell its U.K. retail division. On Sept. 13, 2019, SSE announced an agreement to
+sell its SSE Energy Services business to OVO Energy Limited, a wholly owned subsidiary of OVO Group Limited, for
+an enterprise value of £500 million: £400 million of cash and £100 million of loan notes. SSE will use the net cash
+proceeds from the transaction to reduce net debt, while its dividend policy will remain unchanged at 80 pence (p) per
+share. The company will retain some of SSE Energy Services' retail activities, specifically the supply of electricity and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+SSE PLC
+
+gas to business customers in the U.K. and residential and business customers in Ireland and Northern Ireland, and
+integrated services for industrial and commercial services.
+The transaction is expected to be completed in late 2019 or early 2020 and is still subject to the necessary regulatory
+approvals. If completed, we expect the sale to have a marginal positive effect on SSE's overall credit quality. In
+particular, we believe it will improve SSE's business risk profile because the company's focus will be on its core
+regulated networks and renewables business. In addition, SSE will use the proceeds from the transaction for debt
+reduction, which will have a marginal positive effect on credit ratios and partially offset the loss of cash flow.
+U.K. regulated utilities are facing increased reset risk, as the 2021-2026 regulatory period approaches and the next price
+control is considered. The proposed framework for RIIO-2 (which stands for revenues = incentives + innovation +
+outputs) indicates that electricity and gas networks, including SSE, would see lower remuneration, a change in
+indexation, and limited capacity to underspend on total expenditure allowances over the next five-year regulatory
+period (for more information, see "U.K. Utilities Are Feeling the Heat," published June 14, 2019, on RatingsDirect). We
+will be able to assess the extent of RIIO-2's impact on SSE's energy transmission and distribution operations once the
+energy networks submit their final business plans and receive the regulator's initial assessment in 2020.
+We continue to view SSE's dividend policy as inflexible. SSE is committed to increasing its dividend per share (DPS)
+ratio at least in line with inflation. However, it modified its policy for FY2020, reducing full-year DPS to 80p from 97.5p
+for March 2019.
+SSE has a strong portfolio of predominantly energy assets, increasingly focused on regulated networks and renewables.
+In FY2019, the company completed the sale of a number of assets, including 50% of the telecommunications business
+for an initial £215 million and stakes in Stronelairg, Dunmaglass, and Clyde wind farms for £837 million. In our view,
+this demonstrates the ongoing capability to develop, operate, and dispose of assets, and enhances capital efficiency
+and flexibility.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that SSE will be able to maintain FFO to debt at about 18%, thanks to
+its regulated networks' stable contribution and an increasing contribution from renewable generation.
+
+Downside scenario
+We could lower the rating on SSE if S&P Global Ratings-adjusted FFO to debt falls sustainably to significantly less
+than 18%. This could occur, for example, if wholesale prices or wholesale generation materially decline from our
+expectations, if SSE undertook debt-funded acquisitions or expansion, or if it earns lower returns from the
+regulated subsidiaries as a result of underperformance of allowances or new regulations.
+
+Upside scenario
+An upgrade could result from a sustained improvement in credit metrics, such that our forecast of adjusted FFO to
+debt improves to clearly above 20% with positive generation of free operating cash flows, stable operating
+performance--especially from trading operations--and clarity on the disposal of supply activities. The target for an
+upgrade would remain 23% absent the separation of the supply business.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+SSE PLC
+
+Our Base-Case Scenario
+Assumptions
+
+• Increased contribution from SSE's renewables from
+new capacity. Continued high competition in retail,
+from which we expect the cash flow contribution to
+stop in the short term.
+• The majority of capital expenditure (capex) is
+regulated or spent on renewable energy. We assume
+an average capex of around £1.1 billion-£1.3 billion
+per year in the next three years, focused on
+extending the regulated asset base and developing
+greater renewables capacity.
+
+Key Metrics
+
+FFO to debt (%)*
+
+2019a
+
+2020e
+
+2021f
+
+15.2
+
+18-20
+
+18-20
+
+EBITDA (bil. £)*
+
+1.8 2.4-2.6 2.6-2.8
+
+FFO cash interest coverage (x)*
+
+5.6 5.5-6.5 5.5-6.5
+
+a--Actual. e--Estimate. f--Forecast. FFO--Funds from
+operations. *S&P Global Ratings-adjusted figures.
+
+• Dividends of 80p per share in 2020, down from
+97.5p per share in 2019. We expect an annual
+increase in dividends of at least the retail price index
+(RPI) rate from 2021.
+
+Base-case projections
+• SSE's average FFO to debt over the next two years is around 18%-20%, compared with 15.2% in March 2019. The
+recovery in the company's credit metrics is a result of the wholesale operation's increased contribution.
+• Debt to EBITDA will be around 3.0x-4.0x over the next three years.
+• Neutral to slightly positive cash flow after capex and dividends, although the announced asset disposal provides
+flexibility.
+
+Company Description
+SSE is a listed, investor-owned energy company with generation, transmission, distribution, and supply operations in
+Scotland, England, Wales, and Ireland, with S&P Global Ratings-adjusted EBITDA of around £1.8 billion as of March
+2019.
+SSE operates in three segments: networks, wholesale, and retail.
+
+Networks
+Under the networks segment, SSE operates the regulated lower voltage distribution of electricity in Scotland and the
+South of England, regulated high voltage transmission of electricity in the North of Scotland, and a 33% stake in Scotia
+Gas Networks (SGN), which operates two regulated gas-distribution networks in Scotland and the South of England.
+The segment's regulated asset value (RAV) as of March 31, 2019 is £8.72 billion. In FY2019, regulated networks
+contributed around 58% of the total EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+SSE PLC
+
+Wholesale
+Under wholesale, SSE is involved in electricity generation, gas storage, EPM, and gas production. As of March 31,
+2019, SSE had total installed capacity of 10.5 gigawatts (GW) and total generation output of 30,835 gigawatt-hours
+(GWh). The contribution from the wholesale division accounted for 30% of EBITDA in FY2019.
+
+Retail
+SSE supplies electricity and gas to business customers in the U.K., electricity and gas to residential and businesses in
+Ireland and Northern Ireland, and integrated services for industrial and commercial services. The company also
+supplies electricity and gas to residential customers in the U.K. SSE has announced the sale of its U.K. supply
+operation, and it accounts this business as assets held for sale.
+Chart 1
+
+Business Risk: Strong
+SSE benefits from a relatively high-quality, diversified portfolio of assets, which results in stable and predictable
+operating cash flows. Regulated distribution and transmission network assets in Scotland and England, and dividends
+received from its now 33% ownership in SGN support about 50% of EBITDA. These networks benefit from a strong
+regulatory framework and have adequate operating performance.
+SSE also has a portfolio of renewable assets in the U.K. (mainly wind and hydro). This amounts to about 35% of SSE's
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+SSE PLC
+
+total generation capacity in the U.K., and benefits from a favorable subsidy regime over the long term. SSE's energy
+generation business is diversified across many plants and energy sources, which provides it with the flexibility to adapt
+to changes in gas, coal, and renewables prices.
+
+A portfolio increasingly focused on regulated networks and long-term subsidized renewables
+SSE's unregulated energy generation business is diversified across several plants and energy sources. This, in our view,
+provides the company with the flexibility to adapt to changes in the price of gas, coal, and renewables, and mitigates
+the risk of changes to policy or regulations. We consider that SSE's renewable assets benefit from a favorable subsidy
+regime that supports the stability of its unregulated revenue.
+Chart 2
+
+SSE had 2.4GW of renewable energy in 2010, and 3.8GW as of March 31, 2019, and it targets capacity of about 4.0GW
+by 2020. Of SSE's 10.5GW generation capacity in Ireland and the U.K., around 11% is hydro and 22% wind (see chart
+2)--and of that wind, about 19% is onshore. The company also has a combined onshore/offshore wind-development
+pipeline of around 8GW. We expect profitability to improve as SSE shifts the energy generation mix toward
+renewables and away from fossil fuels such as coal.
+SSE has a pipeline of transmission connections that could contribute to increasing the regulated asset value (RAV) to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+SSE PLC
+
+around £10 billion by 2023 from £8.7 billion in March 2019.
+The regulated distribution and transmission assets in Scotland and England allow for recovery of efficient operating
+expenses and capex. We consider the regulatory framework in the U.K. to be strong and supportive of the industry. We
+expect SSE's continued investment in the transmission network and renewables to enhance the growth of its regulated
+assets and earnings.
+Chart 3
+
+Like all U.K. network operators, SSE is exposed to periodic regulatory reset risk. We believe that regulatory risk is
+gradually rising, because Ofgem's review process for the next period is already underway. Ofgem has finalized the
+methodology it proposes to implement for the RIIO-2 price control process. One of the main elements of the new
+methodology is the reduction in the allowed cost of capital. We also note Ofgem's effort to balance the interests of
+consumers and investors by introducing mechanisms to limit the potential for material outperformance or
+underperformance by individual companies. As RIIO-2 will not begin until April 2021 for transmission and gas
+distribution (2023 for electricity distribution), we do not have sufficient information to determine the effect on the
+company's credit quality. We expect to be in a better position to do so once SSE submits its final business plans and
+receives the regulator's assessment in 2020 (see chart 4).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+SSE PLC
+
+Chart 4
+
+Peer comparison
+SSE's main domestic peers are Centrica and Scottish Power. Centrica has a stronger market position in retail, but does
+not have any stabilizing regulated activities. As a result, we consider SSE's business risk profile stronger. To maintain
+the 'BBB' rating, Centrica needs to maintain FFO to debt of 30%, compared with 18% for a 'BBB+' rating for SSE.
+SSE's strongest peer is Scottish Power, whose activities include power generation, transmission, distribution, and gas
+operations. Scottish Power is part of the Iberdrola group, which is the second-largest power generator and distributor
+in Spain, as well as the global leader in renewables through its international subsidiaries. Iberdrola needs to maintain
+FFO to debt of 18% to keep its rating at 'BBB+'.
+Germany-based EnBW has a similar business risk profile to SSE. EnBW is the third-largest vertically integrated utility
+in Germany. The group is principally engaged in electricity generation and trading (both about 20% of EBITDA), as
+well as electricity-grid operation (about 55%). The gas activities include gas storage, gas trading, and portfolio
+management, while the downstream business covers the transmission, distribution, and sale of gas. We expect the
+company to achieve FFO to debt of 20% to maintain its current stand-alone credit profile of 'bbb+'.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+SSE PLC
+
+Table 1
+
+SSE PLC--Peer Comparison
+Industry Sector: Energy
+
+Ratings as of Sept. 16,
+2019
+(Mil. £)
+
+SSE PLC
+
+Centrica PLC
+
+Iberdrola S.A.
+
+EnBW Energie
+Baden-Wuerttemberg AG
+
+BBB+/Stable/A-2
+
+BBB/Stable/A-2
+
+BBB+/Stable/A-2
+
+A-/Stable/A-2
+
+--Fiscal year ended March
+31, 2019--
+
+--Fiscal year ended Dec. 31, 2018--
+
+Revenue
+
+7,331.6
+
+29,686.0
+
+31,509.0
+
+18,520.9
+
+EBITDA
+
+1,807.5
+
+2,403.0
+
+8,307.2
+
+2,037.2
+
+Funds from operations
+(FFO)
+
+1,448.2
+
+2,034.2
+
+6,980.3
+
+1,571.7
+
+Interest expense
+
+428.3
+
+457.8
+
+1,611.2
+
+383.0
+
+Cash interest paid
+
+316.4
+
+307.8
+
+1,027.8
+
+222.3
+
+Cash flow from operations
+
+1,187.0
+
+2,091.2
+
+6,244.7
+
+872.2
+
+Capital expenditure
+
+1,486.0
+
+935.7
+
+5,878.3
+
+1,221.3
+
+Free operating cash flow
+(FOCF)
+
+(299.0)
+
+1,155.5
+
+366.4
+
+(349.2)
+
+Discretionary cash flow
+(DCF)
+
+(984.5)
+
+571.7
+
+(1,411.6)
+
+(664.2)
+
+431.6
+
+1,247.0
+
+2,523.1
+
+1,746.0
+
+Debt
+
+9,523.5
+
+4,442.6
+
+35,060.9
+
+7,367.0
+
+Equity
+
+5,774.9
+
+4,508.5
+
+38,581.8
+
+6,522.5
+
+EBITDA margin (%)
+
+24.7
+
+8.1
+
+26.4
+
+11.0
+
+Return on capital (%)
+
+8.2
+
+13.2
+
+7.2
+
+7.0
+
+EBITDA interest coverage
+(x)
+
+4.2
+
+5.2
+
+5.2
+
+5.3
+
+FFO cash interest coverage
+(x)
+
+5.6
+
+7.6
+
+7.8
+
+8.1
+
+Debt/EBITDA (x)
+
+5.3
+
+1.8
+
+4.2
+
+3.6
+
+FFO/debt (%)
+
+15.2
+
+45.8
+
+19.9
+
+21.3
+
+Cash flow from
+operations/debt (%)
+
+12.5
+
+47.1
+
+17.8
+
+11.8
+
+FOCF/debt (%)
+
+(3.1)
+
+26.0
+
+1.0
+
+(4.7)
+
+(10.3)
+
+12.9
+
+(4.0)
+
+(9.0)
+
+Cash and short-term
+investments
+
+Adjusted ratios
+
+DCF/debt (%)
+
+Financial Risk: Significant
+Regulated networks contribute about 55% of SSE's cash flow generation. SSE's earnings benefit from expanding
+network regulated assets and generation capacity as renewables come online, as well as gas production.
+SSE's results for FY2019 were below our expectations, mainly because of a weaker contribution from wholesale and
+retail operations. FFO to debt for FY2019 was 15.2%, compared with our expectations of 18%-20%, and 23.2% for
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+SSE PLC
+
+FY2018. We expect a recovery in the metrics in FY2020, thanks to a higher contribution from the wholesale operation,
+which will benefit from the Beatrice offshore windfarm becoming operational in May 2019; the new Ferrybridge
+Multifuel 2 site, which is expected to become operational in December 2019; and growth in the networks' contribution,
+given higher allowances. Overall, we anticipate FFO to debt for FY2020 and FY2021 of 18%-20%.
+
+Large capex program, skewed toward networks and renewables
+Despite the large capex program putting a strain on the balance sheet, this is mostly directed toward extending the
+transmission network and renewables and, as such, should be credit positive over the medium term. Although SSE is
+generally a good operator and has a strong track record, we believe that there is some execution risk in the company's
+significant capex program. This is notably true for the large projects in offshore wind farms that the company has
+defined in its investment pipeline.
+Of SSE's £1.5 billion capex in the 12 months to March 31, 2019, £1.2 billion was spent on networks and wholesale,
+mainly within renewable generation. We assume an average capex of around £1.1 billion-£1.3 billion per year in the
+next three years.
+Chart 5
+
+We view SSE's dividend policy as inflexible. Although it modified its policy for FY2020, reducing the full-year dividend
+per share (DPS) to 80p from 97.5p for March 2019, SSE is committed to increasing its DPS ratio at least in line with
+inflation. Furthermore, SSE returned to shareholders the majority of the proceeds from the reduction of its share in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+SSE PLC
+
+SGN (resulting in a £500 million share buyback in 2017). Both of these actions illustrate the company's
+shareholder-friendly stance.
+SSE has a scrip dividend program for which uptake is successful (for example, SSE had a 47% uptake in FY2019
+interim dividend), resulting in a cash dividend that is lower than the overall dividend. However, according to the
+company policy, if scrip take-up for full-year dividend exceeds 20%, it will buy back shares.
+Chart 6
+
+Financial summary
+Table 2
+
+SSE PLC--Financial Summary
+Industry Sector: Energy
+--Fiscal year ended Mar. 31-(Mil. £)
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+7,331.6 31,226.4 29,037.9 28,781.3 31,654.4
+
+EBITDA
+
+1,807.5
+
+2,561.3
+
+2,636.8
+
+2,181.4
+
+2,474.1
+
+Funds from operations (FFO)
+
+1,448.2
+
+2,120.0
+
+2,226.5
+
+1,664.0
+
+1,927.4
+
+Interest expense
+
+428.3
+
+463.0
+
+454.6
+
+454.3
+
+447.4
+
+Cash interest paid
+
+316.4
+
+309.2
+
+311.9
+
+391.9
+
+381.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+SSE PLC
+
+Table 2
+
+SSE PLC--Financial Summary (cont.)
+Industry Sector: Energy
+--Fiscal year ended Mar. 31-(Mil. £)
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Cash flow from operations
+
+1,187.0
+
+1,701.5
+
+2,571.4
+
+2,140.5
+
+1,917.0
+
+Capital expenditure
+
+1,486.0
+
+1,521.0
+
+2,211.3
+
+1,928.4
+
+1,566.5
+
+Free operating cash flow (FOCF)
+
+(299.0)
+
+180.5
+
+360.1
+
+212.1
+
+350.5
+
+Discretionary cash flow (DCF)
+
+(984.5)
+
+(771.4)
+
+(398.6)
+
+(452.7)
+
+(196.4)
+
+431.6
+
+232.2
+
+1,427.0
+
+360.2
+
+1,512.3
+
+Cash and short-term investments
+Gross available cash
+
+526.8
+
+232.2
+
+1,427.0
+
+360.2
+
+1,512.3
+
+Debt
+
+9,523.5
+
+9,133.7
+
+8,290.3
+
+8,725.4
+
+7,672.5
+
+Equity
+
+5,774.9
+
+5,129.6
+
+5,064.7
+
+3,975.5
+
+3,814.3
+
+EBITDA margin (%)
+
+24.7
+
+8.2
+
+9.1
+
+7.6
+
+7.8
+
+Return on capital (%)
+
+8.2
+
+11.3
+
+11.3
+
+7.1
+
+8.6
+
+EBITDA interest coverage (x)
+
+4.2
+
+5.5
+
+5.8
+
+4.8
+
+5.5
+
+FFO cash interest coverage (x)
+
+5.6
+
+7.9
+
+8.1
+
+5.2
+
+6.0
+
+Debt/EBITDA (x)
+
+5.3
+
+3.6
+
+3.1
+
+4.0
+
+3.1
+
+FFO/debt (%)
+
+15.2
+
+23.2
+
+26.9
+
+19.1
+
+25.1
+
+Cash flow from operations/debt (%)
+
+12.5
+
+18.6
+
+31.0
+
+24.5
+
+25.0
+
+Adjusted ratios
+
+FOCF/debt (%)
+DCF/debt (%)
+
+(3.1)
+
+2.0
+
+4.3
+
+2.4
+
+4.6
+
+(10.3)
+
+(8.4)
+
+(4.8)
+
+(5.2)
+
+(2.6)
+
+Liquidity: Adequate
+The short-term rating on SSE is 'A-2'. In our view, SSE has adequate sources of liquidity to cover its needs over the 12
+months from March 31, 2019. We expect that the company's sources of liquidity will exceed its uses by at least 1.2x.
+We also anticipate that the company will maintain a sound relationship with banks, a good standing in credit markets,
+and prudent risk management.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash of about £430 million as of March
+31, 2019;
+
+• Debt maturities of about £426 million in next 12
+months;
+
+• Undrawn committed facilities of £1.5 billion
+maturing in 2024; and
+
+• Cash dividends of about £817 million; and
+• Capex of around £1.3 billon for the next 12 months.
+
+• Cash FFO of about £2.1 billion over the 12 months
+ending March 31, 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+SSE PLC
+
+Debt maturities
+Chart 7
+
+Covenant Analysis
+Under the terms of its major borrowing facilities, SSE has just one financial covenant, which requires it to comply with
+an interest-coverage ratio (operating profit to net interest payable of not less than 2.5x). The company maintains
+significant (more than 30%) headroom under this financial covenant.
+
+Other Credit Considerations
+Our comparable rating assessment modifier is positive, to take into account:
+• The business risk profile at the higher end of strong, owing to the significant contribution from stable and
+predictable regulated networks enhancing cash flow predictability; and
+• Our expectation that the financial risk profile will be at the higher end of the significant category (13%-23%).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+SSE PLC
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+SSE's group capital structure consists of £9.1 billion of unsecured debt as of March 31, 2019, of which £1.7 billion of
+unsecured debt was issued by subsidiaries.
+
+Analytical conclusions
+We do not notch down the debt at SSE PLC, since the unsecured debt amount at subsidiaries is only 19%.
+
+Hybrid rating and capacity
+SSE fully utilized its hybrid capacity in previous reported years, up to 2018. It has limited hybrid capacity as of March
+31, 2019, although we expect this to marginally increase over the next few years.
+The next first hybrid call date is in September 2020 (£750 million; 3.875%). The subordinated hybrid capital securities
+issued on March 16, 2017 has a first call date in September 2022.
+SSE has four hybrid issues rated 'BBB-', two notches down from its stand-alone credit profile 'bbb+'--one notch for
+deferral and one notch for subordination.
+
+Reconciliation
+Table 3
+
+Reconciliation Of SSE PLC Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. £)
+--Fiscal year ended March 31, 2019-SSE PLC reported amounts
+S&P Global
+Ratings'
+Interest
+adjusted
+expense
+EBITDA
+
+Cash flow
+from
+operations
+
+Dividends
+
+Capital
+expenditure
+
+1,807.5
+
+1,176.7
+
+689.9
+
+1,508.8
+
+--
+
+(43.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(251.9)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+61.1
+
+19.9
+
+19.9
+
+(19.9)
+
+41.1
+
+--
+
+--
+
+(518.5)
+
+518.5
+
+--
+
+--
+
+(15.3)
+
+15.3
+
+15.3
+
+15.3
+
+--
+
+584.85
+
+(584.9)
+
+--
+
+--
+
+23.3
+
+(23.3)
+
+(23.3)
+
+(23.3)
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+EBITDA
+
+Operating
+income
+
+9,086.8
+
+5,841.3
+
+2,312.8
+
+1,692.2
+
+346.4
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+
+229.3
+
+--
+
+Operating leases
+
+273.4
+
+Intermediate hybrids
+reported as debt
+Intermediate hybrids
+reported as equity
+
+S&P Global
+Ratings'
+adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+SSE PLC
+
+Table 3
+
+Reconciliation Of SSE PLC Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. £) (cont.)
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+--
+
+--
+
+10.4
+
+10.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(526.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+27.7
+
+(27.7)
+
+(27.7)
+
+--
+
+(27.7)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+20.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+121.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Power purchase
+agreements
+
+125.3
+
+--
+
+13.7
+
+8.8
+
+8.8
+
+(8.8)
+
+4.9
+
+--
+
+4.9
+
+Asset retirement
+obligations
+
+628.2
+
+--
+
+--
+
+--
+
+17.4
+
+--
+
+--
+
+--
+
+--
+
+Income (expense) of
+unconsolidated
+companies
+
+--
+
+--
+
+(129.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+77.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Fair value
+adjustments
+
+(139.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Other
+
+(220.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss)
+on disposals of PP&E
+
+--
+
+--
+
+(1,122.2)
+
+(1,122.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Derivatives
+
+--
+
+--
+
+328.2
+
+328.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+190.3
+
+190.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+436.7
+
+(66.4)
+
+(505.3)
+
+(487.1)
+
+81.9
+
+(359.4)
+
+10.3
+
+(8.1)
+
+(22.8)
+
+Funds
+from
+operations
+
+Cash flow
+from
+operations
+
+Dividends
+paid
+
+Capital
+expenditure
+
+1,448.2
+
+1,187.0
+
+681.9
+
+1,486.0
+
+Total adjustments
+S&P Global
+Ratings' adjusted
+amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+9,523.5
+
+5,774.9
+
+1,807.5
+
+1,205.1
+
+428.3
+
+SSE reports under International Financial Reporting Standards (IFRS). We make a number of adjustments to SSE's
+reported figures. The main adjustments for the year ending March 31, 2019, are as follows:
+• Hybrid securities: £1,169.7 million of hybrid securities reported as equity, of which we add £584.9 million to debt,
+since we consider it has intermediate equity content under our criteria.
+• Furthermore, £1,037 million of hybrid securities reported as debt, of which we reduce £518.5 million from debt,
+since we consider it has intermediate equity content under our criteria.
+• Surplus cash: We deduct from debt £526.8 million of cash that we consider unrestricted and surplus as defined by
+our criteria.
+• Operating leases: We add £273.4 million to debt, representing the present value of future minimum lease payments,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 15
+
+SSE PLC
+
+using a discount factor of 7%.
+• Power purchase agreements: We add to debt £125.3 million, representing the present value of SSE's future
+commitments using a discount factor of 7%, to which we apply a risk factor of 50%, reflecting the moderately long
+position.
+• Asset retirement obligations: We add to debt £628.2 million of provisions for decommissioning costs.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/A-2
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bbb+
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• General Criteria: Hybrid Capital: Methodology And Assumptions, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 16
+
+SSE PLC
+
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 16, 2019)*
+SSE PLC
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Foreign Currency
+
+A-2
+
+Junior Subordinated
+
+BBB-
+
+Senior Unsecured
+
+BBB+
+
+Issuer Credit Ratings History
+20-Dec-2018
+
+BBB+/Stable/A-2
+
+19-Sep-2018
+
+A-/Watch Neg/A-2
+
+09-Aug-2017
+
+A-/Stable/A-2
+
+15-Oct-2015
+
+A-/Negative/A-2
+
+15-Oct-2014
+
+A-/Stable/A-2
+
+Related Entities
+Scottish Hydro-Electric Power Distribution PLC
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Senior Unsecured
+
+BBB+
+
+Scottish Hydro-Electric Transmission PLC
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Senior Unsecured
+
+BBB+
+
+Southern Electric Power Distribution PLC
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Senior Unsecured
+
+BBB+
+
+SSE Energy Supply Ltd.
+Issuer Credit Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BBB+/Stable/A-2
+
+SEPTEMBER 16, 2019 17
+
+SSE PLC
+
+Ratings Detail (As Of September 16, 2019)*(cont.)
+SSE Generation Ltd.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 18
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 19
+
+

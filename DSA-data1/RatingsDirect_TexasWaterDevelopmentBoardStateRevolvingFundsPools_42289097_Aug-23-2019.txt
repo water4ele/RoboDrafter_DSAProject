@@ -1,0 +1,239 @@
+Texas Water Development Board;
+State Revolving Funds/Pools
+Primary Credit Analyst:
+James M Breeding, Farmers Branch (1) 214-871-1407; james.breeding@spglobal.com
+Secondary Contact:
+Scott D Garrigan, New York (1) 312-233-7014; scott.garrigan@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Enterprise Risk Profile
+Financial Risk Profile
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 1
+
+Texas Water Development Board; State Revolving
+Funds/Pools
+Credit Profile
+US$836.77 mil st wtr implementation rev fd for Texas rev bnds ser 2019A dtd 10/10/2019 due 10/15/2054
+Long Term Rating
+
+AAA/Stable
+
+New
+
+US$23.02 mil st wtr implementation rev fd for Texas rev bnds ser 2019B dtd 10/10/2019 due 10/15/2049
+Long Term Rating
+
+AAA/Stable
+
+New
+
+Rationale
+S&P Global Ratings assigned its 'AAA' rating to the Texas Water Development Board's (TWDB) series 2019A and
+2019B State Water Implementation Revenue Fund for Texas (SWIRFT) revenue bonds. At the same time, S&P Global
+Ratings affirmed its 'AAA' rating on the TWDB's series 2015, 2016A, 2016B, 2017A, 2017B, 2018A, 2018B, and 2018C
+bonds outstanding. The outlook is stable.
+The ratings reflect the combination of a very strong enterprise risk profile and an extremely strong financial risk
+profile. Certain overriding factors have also been applied, including the extremely strong repayment history regarding
+payments to the TWDB through other financial-assistance programs, and the ability for the sizable
+overcollateralization to address extraordinarily high default or delinquency rates.
+The very strong enterprise risk profile reflects the combination of a low industry risk assessment, coupled with a very
+strong market position score and the geographic diversity of the program participants.
+The extremely strong financial risk profile reflects the extremely strong loss coverage score, further supported by the
+issuer's strong policies and procedures.
+Proceeds of the series 2019A and 2019B bonds will be used to purchase 17 political subdivision obligations (PSOs)
+from 10 different entities. The bonds are secured by the repayment of those PSOs, coupled with funds transferred from
+the State Water Implementation Fund for Texas (SWIFT) to the SWIRFT. In November 2013, state voters approved an
+amendment to the state constitution, which created the SWIFT and the SWIRFT. To initially capitalize the SWIFT,
+$2.0 billion was transferred from the state's economic-stabilization fund and placed in the SWIFT. Funds held in the
+SWIFT are managed by the Texas Treasury Safekeeping Trust Company. The SWIFT was established to provide
+financial assistance for state water plan projects.
+While the balance in the SWIFT is not pledged to the bonds, the use of the funds in the SWIFT is highly restricted and
+can be used only for state water plan projects. Although these projects could include other TWDB programs, it
+remains the board's intent that the corpus of the SWIFT be available to make annual transfers to the SWIRFT to fund
+local water projects. The availability of the SWIFT balance and the board's willingness to approve additional transfers
+to cover any shortfalls in the SWIRFT accounts remain, collectively, the critical factor in our assignment and
+maintenance of the 'AAA' rating. This will be the first transfer from the SWIFT to the SWIRFT for fiscal 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 2
+
+Texas Water Development Board; State Revolving Funds/Pools
+
+With each issuance of bonds, a bond-enhancement agreement is executed and a transfer of funds from the SWIFT to
+the SWIRFT occurs. This transfer is sized to provide for the targeted subsidy amount determined by the TWDB. The
+corpus of the transfer, coupled with projected interest earnings and the scheduled repayments of the PSOs, is designed
+to provide 1.0x annual debt service coverage for each series of bonds. The transfer amount is determined in
+connection with each bond issue. Bonds projected to be issued in subsequent years will not be on parity with these, or
+with any previously issued, bonds. Each bond series is supported by a specific revenue stream, although that stream
+will always include certain PSO repayments and the related transfer from the SWIFT to the respective SWIRFT
+assistance account under that specific bond-enhancement agreement. The TWDB is authorized to execute no more
+than two bond-enhancement agreements each fiscal year.
+Because we view securitizations backed by pools of public-sector assets as highly sensitive to country risk, the rating
+on the securitization is capped at two notches above the sovereign. However, no specific sovereign default stress is
+applied, given the U.S. sovereign rating is 'AA+'.
+
+Outlook
+The stable outlook reflects our expectations that:
+• Embedded policies and procedures will remain in place and will continue to ensure a high level of borrower
+repayments;
+• Proactive financial management will ensure stable cash flows that meet program goals and objectives, while
+providing for adequate coverage of annual debt service;
+• Investment strategies related to management of the SWIFT funds, while established to provide for growth in the
+fund, will also provide for a high level of potentially available funds for SWIRFT programs; and
+• Board management will maintain the ability and willingness to address any SWIRFT account shortfalls through
+additional bond-enhancement agreements.
+
+Downside scenario
+We could lower the rating should there be:
+• A leveraging of the SWIFT that creates a level of stress that the fund is unable to compensate for;
+• A change in the policies, procedures, or governing legislation that allows for, or creates, dilution of the available
+SWIFT balances below a level that we believe is commensurate with the rating; or
+• Unwillingness by management to take appropriate steps to cure any revenue shortfalls in the respective SWIRFT
+accounts.
+
+Enterprise Risk Profile
+The very strong market position score reflects the fact that the program was established through the passage of a
+constitutional amendment, was capitalized via a direct equity contribution, and is managed by a governmental agency.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 3
+
+Texas Water Development Board; State Revolving Funds/Pools
+
+However, additional governmental support or contributions are not anticipated. The TWDB was created in 1957, with
+a mission of providing leadership, information, education, and support for planning, financial assistance, and outreach
+for the conservation and responsible development of water. It is responsible for long-term water planning and is
+primarily responsible for the state's financial programs associated with the water industry, including the establishment
+of policy for the financial programs.
+There is no geographical concentration within the initial rounds of SWIRFT funding, although densely populated areas
+of the state will likely require more funding.
+
+Financial Risk Profile
+Loss coverage
+The loss coverage score reflects the degree to which program cash flows can withstand repayment defaults or
+delinquencies. This is determined by an evaluation of the credit quality of the borrowers within the program, coupled
+with the degree of overcollateralization available to program management.
+Revenues from the PSOs do not initially provide 1.0x coverage of the annual bond principal and interest payments.
+The initial transfer of funds from the SWIFT is designed to cover that shortfall, which in effect creates the subsidy to
+the program participants. As the cash flows are currently structured, and assuming less than 100% recovery of any
+defaults within the program, only a minimal level of defaults can be absorbed unless projected interest earnings on any
+of the indenture accounts are significantly higher than projected, or funds are accumulated in surplus accounts.
+Therefore, collateralization is generally provided through the mechanism that allows, but does not require, TWDB
+management to execute additional bond-enhancement agreements to address any SWIRFT shortfalls. TWDB
+management's ability and willingness to act under this potential circumstance are absolutely the key credit
+consideration for determining the loss coverage score and, ultimately, the assigned rating.
+Other factors that support the extremely strong loss coverage score are the generally high credit ratings on the initial
+participants. Following this round of funding, there will be more than 100 PSOs purchased from 38 separate and
+distinct entities within the state. While not all borrowers are rated, several are highly rated, including Tarrant Regional
+Water District ('AAA'), North Texas Municipal Water District (NTMWD; 'AAA'), El Paso Water Utilities ('AA+'), and the
+City of Houston ('AA'). With the purchase of these PSOs, concentration in the overall program is beginning to
+decrease, with NTMWD now accounting for about 23%of the PSO balance outstanding. However, about one-third of
+the financial assistance is provided to entities rated 'AAA' by S&P Global Ratings, while another 50% of the assistance
+is provided to entities rated 'AA'.
+Over time, however, this percentage could change as the program issues additional debt and provides assistance to
+more entities not highly rated. The effect on the loss coverage score, though, should be minimal given the availability
+of the balance within the SWIFT. Management's intent is to eventually provide financial assistance of more than $27.0
+billion, which would be supported by PSO repayments, and future bond-enhancement agreements. Therefore, the
+investment strategy related to the SWIFT will become more critical as additional leveraging takes place. The SWIFT is
+actively managed by the Texas Treasury Safekeeping Trust Company, with many investment options available to
+maximize returns through a dynamic financial analysis model. In our view, a sufficient portion of the SWIFT is liquid,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 4
+
+Texas Water Development Board; State Revolving Funds/Pools
+
+with a target allocation of at least 10% to be held in cash. This is in addition to the amount annually transferred to the
+SWIRFT program. Other investments include global equities, hedged equities, and global fixed income. The SWIRFT
+accounts are held at the trustee levels with much stricter eligible investments typically associated with a public finance
+bond offering.
+
+Management policies and practices
+Other factors supporting the extremely strong financial risk profile are the strong policies and procedures in place for
+administration of the SWIFT and SWIRFT. Management has an established application process for all of the board's
+financial-assistance programs. Also, each year, TWDB staff review every program participant's financial status. In
+addition, to guard against effects on future debt service payments, sufficiency of PSO revenue is required to be
+calculated at least 40 days in advance of the upcoming principal or interest payment date. Management also has
+well-established investment policies and guidelines.
+Ratings Detail (As Of August 21, 2019)
+Texas Wtr Dev Brd SFRP
+Long Term Rating
+
+AAA/Stable
+
+Affirmed
+
+AAA/Stable
+
+Affirmed
+
+AAA/Stable
+
+Affirmed
+
+AAA/Stable
+
+Affirmed
+
+AAA/Stable
+
+Affirmed
+
+Texas Wtr Dev Brd SFRP
+Long Term Rating
+Texas Wtr Dev Brd SRFP
+Long Term Rating
+Texas Wtr Dev Brd SRFP
+Long Term Rating
+Texas Wtr Dev Brd SRFP
+Long Term Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 5
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 6
+
+

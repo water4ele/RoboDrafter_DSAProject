@@ -1,0 +1,251 @@
+Recovery Report:
+
+Petco Holdings Inc.'s Recovery Rating Profile
+September 17, 2019
+
+Recovery Rating Rationale
+
+PRIMARY CREDIT ANALYST
+
+- S&P Global Ratings is providing our recovery analysis on Petco Holdings Inc.’s $2.5 billion senior
+secured term loan facility due 2023, which has a '3' recovery rating and 'CCC+' issue rating.
+
+Cameron Bybee
+New York
+
+- Our simulated default analysis contemplates a deep economic downturn and steep competition
+that results in a significant drop in sales revenue.
+
++ 1 (212) 438 8298
+
+- We estimate a gross recovery value of $1.68 billion assuming an emergence EBITDA of $336
+million and a 5.0x multiple.
+
+RECOVERY ANALYST
+
+cameron.bybee
+@spglobal.com
+
+Kenny K Tang
+New York
+(1) 212-438-3338
+
+Petco Holdings Inc.--Credit Profile
+Corporate credit rating
+
+kenny.tang
+@spglobal.com
+
+CCC+/Negative/--
+
+Estimated gross enterprise $1.68 bil.
+value at emergence
+Year of default
+
+2021
+
+Facility/Issue
+
+Principal & Interest
+Outstanding at default (1)
+
+Recovery
+rating
+
+Issue
+rating
+
+Expected recovery
+(%)
+
+Maturity
+
+$500 million ABL revolving
+credit facility
+
+$241 mil
+
+NR
+
+NR
+
+N/A
+
+2022
+
+$2.525 billion senior
+secured term loan
+
+$ 2.47 bil
+
+3
+
+CCC+
+
+(50%-70%,
+rounded est. 50%)
+
+2023
+
+$789 million
+
+NR
+
+NR
+
+N/A
+
+2024
+
+Secured debt
+
+Unseurd debt
+Libor + 8% unsecured
+senior PIK-toggle notes
+
+(1) Includes an assumed six months of accrued and unpaid interest. NR--Not rated. N/A--Not applicable.
+
+For the complete issuer credit rating rationale, see the research update on Petco Holdings Inc.,
+published on Aug. 16, 2019, on RatingsDirect.
+
+www.spglobal.com/ratingsdirect
+
+September 17, 2019
+
+1
+
+Recovery Report: Petco Holdings Inc.'s Recovery Rating Profile
+
+Issue Ratings--Recovery Analysis
+Simulated default scenario
+Our simulated default scenario contemplates a significant sales decline due to a deep economic
+slowdown that affects pet-owners' willingness to purchase higher-priced, premium or specialty
+pet food and supplies. The company would also face steep online competition that places
+significant pricing pressure. We anticipate a payment default when cash flows and liquidity fall
+below sufficient levels to cover the company's fixed charge obligations, including debt service
+requirements, minimum capital expenditures, and lease obligations. Our simulated default
+scenario assumes a default in the first half of 2021.
+For our recovery analysis, we assume:
+- Asset-backed lending (ABL) revolver commitment is 60% drawn as limited by a borrowing base,
+minus outstanding letters of credit of roughly $65 million;
+- Mandatory principal amortization is made up to default year; and
+- Six months of accrued and unpaid interest on funded debt.
+
+Valuation
+We believe the company would likely close unprofitable stores, which means revenue would be
+lower but the implementation of cost cutting measures would improve its EBITDA margins in the
+course of a bankruptcy reorganization scenario. As such, we estimate EBITDA of about $336
+million by the time of emergence, to which we apply a 5.0x multiple to reflect the going-concern
+prospects of the emerged company offset by potential ongoing tailwinds in the retail sector.
+- Emergence EBITDA: $336 million
+- EBITDA multiple: 5x
+- Emergence enterprise value: $1.68 billion
+- Total debt outstanding at default: $3.56 billion
+- Assumed ABL claim: $300 million
+
+Outcome
+After a 5% charge for restructuring administrative expenses and $300 million in estimated ABL
+claims, we estimate a meaningful (50%-70%; rounded estimate: 50%) prospect for recovery for
+the $2.47 billion in secured term loan debt outstanding in the event of a payment default.
+
+Legal And Structural Considerations
+Capital structure
+The existing debt structure consists of:
+
+www.spglobal.com/ratingsdirect
+
+September 17, 2019
+
+2
+
+Recovery Report: Petco Holdings Inc.'s Recovery Rating Profile
+
+- $500 million ABL revolver facility;
+- $2.5 billion senior secured term loan facility (principal outstanding of approximately $2.45
+billion); and
+- $750 million senior unsecured notes
+
+Security and guarantee package
+The ABL and first-lien term loan are guaranteed by each of the borrower's existing and future
+domestic subsidiaries, subject to certain exceptions. The ABL is secured by a first-priority lien on
+all current assets of the borrower and guarantors, and a second lien on tangible and intangible
+assets and capital stock of the borrower and guarantors. The first-lien secured term loan facility is
+secured by a first-priority lien on substantially all tangible and intangible assets, capital stock of
+the borrowers and guarantors, and a second lien on the ABL priority collateral. The collateral
+package to both the ABL and the term loan is subject to certain exceptions.
+
+Documentation/covenants
+The ABL revolving credit facility includes a springing financial maintenance covenant that requires
+the company to maintain a fixed charge coverage ratio of not less than 1.0 to 1.0 when and as long
+as excess availability (as defined in the credit agreement) is less than the greater of 1) 10% of the
+line cap, and 2) $30 million. Funds availability under the ABL revolver is governed by a
+borrowing-base formula.
+The term loan does not require the company to comply with financial maintenance covenants.
+However, both credit facility agreements contain negative covenants related to indebtedness,
+liens, fundamental changes in the business, investments, and restricted payments. Within those
+negative covenants are incurrence-style tests that restrict Petco's ability to engage in additional
+borrowing and certain transactions unless it complies with ratio tests such as total net leverage
+and interest coverage.
+
+Insolvency regimes
+Petco has a brand joint venture in Mexico. This venture currently accounts for less than 10% of
+revenues. In the event of a bankruptcy proceeding, the company would likely file for bankruptcy
+protection under the auspices of the U.S. bankruptcy court system and would likely not involve
+foreign jurisdictions.
+
+www.spglobal.com/ratingsdirect
+
+September 17, 2019
+
+3
+
+Recovery Report: Petco Holdings Inc.'s Recovery Rating Profile
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any
+part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or
+retrieval system, without the prior written permission of Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The
+Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party providers, as well as their directors, officers,
+shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or availability of the
+Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results
+obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is”
+basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT
+THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE
+CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and
+opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such
+damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are
+expressed and not statements of fact. S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not
+recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any
+security. S&P assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on
+and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While
+S&P has obtained information from sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due
+diligence or independent verification of any information it receives. Rating-related publications may be published for a variety of reasons
+that are not necessarily dependent on action by rating committees, including, but not limited to, the publication of a periodic update on a
+credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for
+certain regulatory purposes, S&P reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole
+discretion. S&P Parties disclaim any duty whatsoever arising out of the assignment, withdrawal or suspension of an acknowledgment as
+well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their
+respective activities. As a result, certain business units of S&P may have information that is not available to other S&P business units. S&P
+has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each
+analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors.
+S&P reserves the right to disseminate its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites,
+www.standardandpoors.com (free of charge), and www.ratingsdirect.com (subscription), and may be distributed through other means,
+including via S&P publications and third-party redistributors. Additional information about our ratings fees is available at
+www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+www.spglobal.com/ratingsdirect
+
+September 17, 2019
+
+4
+
+

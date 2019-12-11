@@ -1,0 +1,1649 @@
+thyssenkrupp AG
+Primary Credit Analyst:
+Tuomas E Ekholm, CFA, Frankfurt (49) 69-33-999-123; tuomas.ekholm@spglobal.com
+Secondary Contact:
+Tobias Buechler, CFA, Frankfurt (49) 69-33-999-136; tobias.buechler@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk: Satisfactory
+Financial Risk: Aggressive
+Liquidity
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+thyssenkrupp AG
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb-
+
+bbBB-/Developing/B
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Diversification across capital goods and materials end-markets globally; with Limited financial flexibility from weak operating performance and
+well-diversified geographic, product, and customer exposure.
+continuous negative free cash flow.
+Strong technological capabilities, with market leading positions in multiple
+industrial segments.
+
+Significant cost-cutting and restructuring need across all segments,
+except for elevator technology, and central functions.
+
+The elevator technology division's strong and stable cash generation
+capacity, and expected high valuation in case of an IPO or trade sale.
+
+Weakening economic environment and high exposure to cyclical
+steel, auto, and large-scale industrial engineering markets.
+Weak and volatile free cash flow generation due weak margin
+profile and high restructuring needs.
+
+Ongoing negative free cash flow weighs on ratings with planned IPO expected to provide uplift to credit ratios. S&P
+Global Ratings forecasts thyssenkrupp AG's funds from operations (FFO)-to-debt in 2020 will be about 15%, despite
+the planned partial IPO of its elevator technology division, due to the ongoing negative free cash flow and weak
+market conditions. We view adjusted FFO-to-debt of 12%-16% to be in line with a 'BB-' long-term issuer credit rating,
+and 16%-20% with a 'BB' rating, given thyssenkrupp's business mix.
+Free cash flow for the first nine months of fiscal year 2018-2019 was significantly negative at €2.5 billion (compared
+with negative €1.6 billion a year earlier). The main reason for the cash outflow was decrease in net income and
+increased net working capital, in particular at the materials businesses. We expect free cash flow to remain negative for
+the current fiscal year at €1.1 billion and remain negative for the next fiscal year at several hundred million euros.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+thyssenkrupp AG
+
+Despite the risks with the planned partial IPO given volatile capital market conditions, we believe thyssenkrupp will
+execute the transaction, due to the attractive and stable profile of its elevator business, and therefore include the
+transaction in our base-case scenario. We also understand that the group plans to use the proceeds to strengthen its
+balance sheet. The preparations for the transaction are well underway, and we assume thyssenkrupp will dispose
+about 20% of the elevators division's shares and continue to consolidate the new listed entity. Should the transaction
+not materialize and operating performance not improve significantly, we would likely lower our ratings on the
+company.
+thyssenkrupp's board approved the minority IPO unanimously, but under the condition that management evaluates
+offers for a disposal of the division as a whole. The group has since confirmed it will run a dual-track process for the
+elevators division by simultaneously assessing offers regarding a private trade sale as an alternative for the IPO. The
+division's full sale--which we consider a realistic scenario due to interest expressed both by strategic and financial
+investors--would significantly weaken the remaining group's business risk profile, because the elevators division
+provides more than 50% of the group's reported EBITDA.
+A full sale of the division would enable the group to readjust its capital structure due to the expected sale proceeds,
+which according to available estimates could amount to €13 billion-€17 billion in gross value. thyssenkrupp's debt
+(S&P Global Ratings-adjusted) is expected at €12 billion at the end of the current fiscal year including net
+pension-related obligations at about €7.3 billion (including our adjustments), limiting rating upside. With our forecast
+of thyssenkrupp's 2020 performance excluding the elevators division's contribution to group EBITDA, the capital
+structure, including pensions, would need to be reset and leverage reduced for rating stability or potential ratings
+upside. However, we believe it is unlikely that the group's management and shareholders would embrace the prospect
+of running the remaining business, which would have increased volatility, without adjusting accordingly. We
+understand that, in case of a full sale of the elevators business, management would seek to use the proceeds to redeem
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+thyssenkrupp AG
+
+debt and fund the group's pension deficit.
+
+Outlook: Developing
+
+The developing outlook means we could raise, lower, or affirm the ratings depending on the group's ability to
+improve its operating performance and on the outcome of the planned IPO or a trade sale of the elevators
+business.
+In our base-case scenario, we assume that thyssenkrupp will execute the planned IPO, generating €2 billion of net
+cash inflow from the transaction, as well as gaining flexibility to monetize its remaining holding on the new listed
+entity in case needed. We further assume that the group will gradually improve its operating performance and
+margins, which are at an all-time low, and reach modestly positive free operating cash flow (FOCF) by 2021. We
+view adjusted FFO-to-debt of 12%-16% over the next 12 months as in line with a 'BB-' rating, provided the group's
+operating performance starts to improve.
+
+Downside scenario
+Credit risk over the 12-month outlook horizon would likely materialize if the IPO did not proceed and the group's
+operating performance did not improve according to our base-case expectations. In this case, thyssenkrupp would
+not be able to offset the negative free cash flow of 2019 and 2020 with proceeds, which in light of our forecast
+performance would lead to FFO-to-debt of about 12% by 2020 all else equal.
+Also, should operating performance not improve, credit ratios would further weaken, which would likely hamper
+the group's ability to refinance with attractive conditions, and lead to a downgrade.
+
+Upside scenario
+We see limited ratings upside potential for thyssenkrupp over the next 12 months from a purely operational
+perspective, because we do not envision a fast turnaround of the business toward generating positive free cash
+flow. However, because the group has communicated plans to engage in a dual-track process on its elevator
+business, we view a full sale of the business as a realistic option. With available estimates of an enterprise value of
+€13 billion-€17 billion, and adjusted debt at the end of 2019 at about €12 billion (including pensions and leases), a
+full sale would enable the group to reset its balance sheet structure to reflect the cash flow generation capacity of
+the remaining business at a desired credit risk level. For an upgrade, we would need to see FOCF turning positive,
+which enables debt repayment and effective management of the capital structure.
+We understand that management aims to strengthen the group's credit risk profile and that using the bulk of sales
+proceed for this purpose is management's preferred option in a full-sale scenario.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+thyssenkrupp AG
+
+Assumptions
+
+• We expect weakening macroeconomic conditions
+will continue to hamper the group's performance in
+2019 and 2020. Most important, we expect weaker
+demand from the auto sector will continue to
+pressure the group's divisions with high auto
+exposure, namely its steel, materials, and
+component technologies divisions. These are the
+three largest divisions of the group by topline,
+together with elevators, and they are posting very
+weak operating margins, which we expect to persist
+through 2020.
+
+Key Metrics
+
+2017A 2018A* 2019E 2020E 2021E
+Adjusted EBITDA margin (%)
+Adjusted FFO to debt (%)
+Adjusted debt to EBITDA (x)
+
+6.1
+
+4.0
+
+4.4
+
+5.2
+
+6.2
+
+17.3
+
+10.6
+
+10.2
+
+14.6
+
+18.7
+
+4.1
+
+5.2
+
+6.8
+
+5.2
+
+4.3
+
+*Note: 2018 figures are not comparable with those of
+other periods due to steel reported as discontinued
+operations leading to disproportionally high central
+costs. FFO--Funds from operations. A--Actual.
+E--Estimate.
+
+• The elevator division will continue to display steady
+low-single-digits topline growth, with potential for
+margin improvement through ongoing optimization
+of corporate structures and its product portfolio.
+• Marine systems and industrial solutions divisions
+post zero or negative operating margins. We expect
+margins for both divisions will improve through
+2020. In particular, industrial solutions' growing
+order book should help cover fixed costs and
+improve its cash flow profile.
+• thyssenkrupp has placed three heavily
+underperforming businesses (springs and stabilizers,
+systems engineering, and heavy plates) under
+strategic review, and plans to either restructure or
+dispose of them. We expect this will help the group
+increase operating margins and cash flow starting
+from 2020.
+• The topline will be stagnant, at about €41 billion
+over the next two years, and EBITDA before lease
+adjustments of €1.5 billion-€1.6 billion in 2019, and
+€1.8 billion-€1.9 billion in 2020, including our
+assumption of €400 million-€500 million of
+restructuring expenses per year, leading to modest
+EBITDA margins of about 4%.
+• We expect negative free cash flow of around €1.1
+billion for 2019 and several hundred million euros in
+2020. This includes our assumption of annual capital
+expenditures (capex) of about €1.5 billion, and the
+payout of a steel cartel fine imposed on
+thyssenkrupp and transaction-related costs and
+taxes in 2020. For 2019, we expect the fourth
+quarter to be strongly cash-positive, as is always the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+thyssenkrupp AG
+
+case for the company, in particular due to the
+release of working capital toward the fiscal year-end.
+• For base-case modelling purposes, we have included
+the minority IPO with an assumption of closing
+mid-2020 and net cash proceeds after IPO costs of
+about €2 billion, and do not include a meaningful
+change in shareholder distributions or an
+extraordinary dividend over the period.
+
+Current performance
+Over the first nine months of fiscal year 2018-2019, thyssenkrupp's order intake increased 2% to €30.7 billion and sales
+grew year-over-year by 1% to €31.2 billion. Increasingly weaker global economic momentum, a marked downturn in
+the auto sector, and continued high import pressure for steel slowed growth. On top of this, an increase in raw material
+prices, especially iron ore, negatively affected margins. These factors hindered operating earnings, particularly in the
+auto components and materials businesses. Nine-month EBIT of €396 million was significantly down from the prior
+year's €1.1 billion, and margins declined to 1.3% from 3.6%.
+Growth in orders and sales in the first nine months was due solely to the capital goods businesses outweighing decline
+in materials businesses. Elevator technology again recorded a significant increase in orders thanks to the U.S. market
+that drove sales growth as well as several major projects in Asia-Pacific and Europe. Industrial solutions increased its
+order intake and sales mainly in chemical plant construction, while components technology achieved growth
+particularly in industrial components. At marine systems, order intake was lower but sales were significantly higher
+than a year earlier. The materials services and Steel Europe businesses were affected by the overall market slowdown,
+in particular due to a noticeable drop in demand from the auto industry.
+Free cash flow for the first nine months of fiscal year 2018-2019 was significantly negative at €2.5 billion (compared
+with negative €1.6 billion the year before). The main reason for the cash outflow was decrease in net income and
+increased net working capital, in particular at the materials businesses. We expect free cash flow to remain negative for
+this fiscal year at €1.1 billion and remain negative for the next fiscal year at several hundred million euros.
+
+Company Description
+thyssenkrupp is a diversified industrial conglomerate headquartered in Germany with active operation in about 80
+countries worldwide. The company generates €41 billion of sales (2018-2019 forecast) and operates across six
+business areas:
+• Components technology
+• Elevator technology
+• Industrial solutions
+• Marine systems
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+thyssenkrupp AG
+
+• Materials services
+• Steel Europe
+thyssenkrupp has restarted the group's strategic realignment process, after the European Commission formally
+prohibited the proposed merger with Tata Steel Europe on June 2019. Tata Steel and thyssenkrupp AG had agreed to
+merge their European steel businesses in a 50-50 joint venture. The aim was to create a European flat steel supplier
+positioned as a quality and technology leader. This followed the signing of a memorandum of understanding in
+September 2017.
+In May 2019, the group announced that the Tata merger has been called off due to the commission's continuing
+concerns, and it will start reconsolidating its steel operations from third-quarter 2019 (the Steel Europe business was
+reported as discontinued operations in the 2018 annual report). Also in May, the group announced that the planned
+separation of thyssenkrupp into thyssenkrupp Industrials and thyssenkrupp Materials is no longer viable, in light of the
+commission's likely decision and current negative economic momentum.
+The company had announced the separation in September 2018. According to the plan, Industrials would have had
+combined Elevator technology, as well as major parts of components technology and industrial solutions. The
+Materials division would have held the steel joint venture with Tata Steel Europe, materials services, marine systems,
+and industries (formerly part of component technology). Now, instead of the planned spin-off, the group is preparing
+the elevator technology business for an IPO.
+
+Business Risk: Satisfactory
+thyssenkrupp's business risk profile reflects our view of the good visibility of revenues and margins at the elevator
+technology segment, contributing a large share of the company's recurring profitability and cash flow. It also reflects
+diversification of the group's business across several industrial end markets, product lines and geographies. The
+group's main challenge is its weak profitability from overall low performance and high central costs.
+The most important segment for the overall business risk profile is elevator technology, which we expect will
+contribute more than 60% of the group's EBITDA over the forecast horizon, and has high cash conversion due to
+modest capex. Compared with most business models in the capital goods sector, the elevators (€7.6 billion of sales and
+a 11%-12% EBITDA margin) business model is favorable due to the underlying market growth at the level of the global
+GDP growth or higher, its stability driven by global megatrends, such as urbanization, and the four major market
+participants' disciplined behavior.
+thyssenkrupp is the fourth-largest elevator and escalator producer after Otis Elevator Co., KONE Corp., and Schindler
+Elevator Corp. Otis is the largest, with estimated market share of 17%-18% in 2017. thyssenkrupp was at 13%-14% and
+other players were between the two. The elevator market is mature and, outside of Japan, dominated by these players.
+Elevators and escalators are sold with service contracts with significantly higher margins than on equipment. Elevators
+and escalators are very highly used assets, and therefore the service network is the most important asset for all global
+players. Contract renewal rates in the business are high, and the service aspects form an effective barrier to entry.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+thyssenkrupp AG
+
+Aspects positively influencing our assessment are the low volatility of cash flows due to more than 50% of sales being
+aftermarket, significant scale and scope, high diversification in terms of geographies and customers, and high cash
+conversion. At the same time, the elevator business' margins are somewhat below its peers, with an approximately
+16% EBITDA margin, and it has a somewhat smaller scale as the no. 4 global player in the market. We view Elevator
+Technology's stand-alone business profile at the higher end of satisfactory category. We do not rate other elevator
+manufacturers.
+We view components technologies, comprising auto components and forged technologies, as weaker than the
+elevators segment. This is partially due to its relatively low margins in the auto segment, but benefiting from its proven
+technology and position as a global components supplier focusing on products, which are only partially affected by the
+auto industry's shift away from combustion engines.
+The auto segment (with about €5.5 billion in sales) produces high-tech components for the industry. The product
+spectrum in the powertrain area includes integrated camshafts and cylinder head modules. In the chassis area, the
+range incorporates manufactured steering and damper systems as well as springs and stabilizers and axis module
+assembly. We view positively thyssenkrupp position as Tier 1 supplier for the most global auto OEMs, its product
+range containing technologically advanced components such as steering systems, and our view that the expected
+increase of electric vehicle volumes will likely benefit the business. Credit negatives include the limited scale and scope
+of the business compared to large global auto suppliers, the segment's low profitability, and high investment needs.
+The bearings and forged technologies segment produces rather low-tech but high precision components for
+heavy-duty vehicles, industrial applications, and the wind turbine industry. The product offer includes bearings,
+crankshafts and connecting tools.
+Industrial solutions and marine systems, in our view, are the weakest components in thyssenkrupp's non-materials
+business mix. Industrial solutions engages in large-scale turn-key engineering projects in process industries, in
+particular chemicals, mining, and cement. We positively note the company's global market position and technology
+base, the segment's low capex needs, and low fixed cost base. Nevertheless, industrial solutions is losing money, and
+we don't expect it to materially contribute to EBITDA over the forecast period. Further aspects negatively affecting our
+assessment are the end markets' inherent high volatility, and high cash flow volatility and project risks due to the
+nature of the business as a turn-key contractor. Also, marine systems, a manufacturer of surface vessels and
+submarines, is exposed to project-related risks, leading to cash flow volatility; and has weak profitability, currently near
+break-even. However, due to the expected limited revenue and EBITDA contribution in the context of the wider group,
+it has limited relevance in our analysis.
+Materials-related businesses , comprising the group's European steel operations and distribution and trading, benefit
+from established market positions. Materials services is one of the leading steel distributors in Europe (the other being
+ArcelorMittal), contributing about €14 billion in group sales. The business area has market leading position Germany
+and holds top 4 positions in Europe and North America, which we do not expect to change.
+On steel, thyssenkrupp is a large-scale producer with strong presence in more resilient markets and industries. Its
+product mix skews toward premium flat carbon steels, especially for the auto industry and other steel using sectors
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+thyssenkrupp AG
+
+with demanding quality and service requirements. This results in somewhat less volatility in price and volume
+compared with that of pure commodity peers. However, the company's ranking has gone down considerably, from
+being in the top-15 global steel producers globally in 2017 to ranking at 32 in 2018 (according to the WorldSteel
+Association). The European steel market is facing headwinds due to cheaper imports from China resulting in
+oversupply and capacity under-usage, which we do not expect to change in the medium term. Given the steel
+industry's cyclical nature, we expect earnings volatility to persist.
+
+Peer comparison
+Table 1
+
+thyssenkrupp AG -- Peer Comparison
+Industry Sector: Capital Goods/Diversified
+
+Ratings as of Sept. 6, 2019
+
+thyssenkrupp AG
+
+Sandvik AB
+
+Alfa Laval AB
+
+ArcelorMittal
+
+ZF Friedrichshafen
+AG
+
+BB-/Developing/B
+
+A-/Stable/A-2
+
+BBB+/Stable/--
+
+BBB-/Stable/A-3
+
+BBB-/Negative/--
+
+--Fiscal year ended Sept. 30,
+2018--
+
+--Fiscal year ended Dec. 31, 2018--
+
+(Mil. €)
+Revenue
+
+34,777.0
+
+9,835.4
+
+3,996.8
+
+66,410.3
+
+36,929.0
+
+EBITDA
+
+1,408.0
+
+2,349.7
+
+763.7
+
+9,642.4
+
+3,413.5
+
+Funds from operations
+(FFO)
+
+770.6
+
+1,929.9
+
+571.1
+
+8,365.0
+
+2,581.4
+
+Interest expense
+
+396.4
+
+139.6
+
+37.6
+
+876.4
+
+288.1
+
+Cash interest paid
+
+283.4
+
+127.2
+
+31.3
+
+727.9
+
+269.1
+
+Cash flow from operations
+
+346.6
+
+1,586.2
+
+509.4
+
+3,907.9
+
+2,338.4
+
+Capital expenditure
+
+925.0
+
+433.2
+
+146.4
+
+2,886.7
+
+1,647.0
+
+Free operating cash flow
+(FOCF)
+
+(578.4)
+
+1,153.0
+
+363.0
+
+1,021.1
+
+691.4
+
+Discretionary cash flow
+(DCF)
+
+(671.4)
+
+721.5
+
+187.8
+
+631.6
+
+456.4
+
+Cash and short-term
+investments
+
+2,993.0
+
+1,777.8
+
+482.8
+
+1,897.1
+
+922.0
+
+Debt
+
+7,258.8
+
+1,220.5
+
+1,241.9
+
+22,758.1
+
+7,755.4
+
+Equity
+
+3,275.0
+
+5,728.1
+
+2,319.4
+
+37,829.6
+
+7,441.0
+
+EBITDA margin (%)
+
+4.0
+
+23.9
+
+19.1
+
+14.5
+
+9.2
+
+Return on capital (%)
+
+4.4
+
+28.3
+
+17.0
+
+12.3
+
+10.6
+
+EBITDA interest coverage
+(x)
+
+3.6
+
+16.8
+
+20.3
+
+11.0
+
+11.8
+
+FFO cash interest coverage
+(x)
+
+3.7
+
+16.2
+
+19.3
+
+12.5
+
+10.6
+
+Debt/EBITDA (x)
+
+5.2
+
+0.5
+
+1.6
+
+2.4
+
+2.3
+
+10.6
+
+158.1
+
+46.0
+
+36.8
+
+33.3
+
+4.8
+
+130.0
+
+41.0
+
+17.2
+
+30.2
+
+FOCF/debt (%)
+
+(8.0)
+
+94.5
+
+29.2
+
+4.5
+
+8.9
+
+DCF/debt (%)
+
+(9.2)
+
+59.1
+
+15.1
+
+2.8
+
+5.9
+
+Adjusted ratios
+
+FFO/debt (%)
+Cash flow from
+operations/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+thyssenkrupp AG
+
+Financial Risk: Aggressive
+We base our modest assessment of thyssenkrupp's financial risk profile on the company's weakened key credit metrics
+and negative free cash flow, which we expect to continue in 2020. Our base-case scenario assumes that thyssenkrupp's
+FFO-to-debt in 2020 will be around 15%, despite the planned partial IPO, due to ongoing negative free cash flow and
+weak market conditions.
+As of June 30, 2019, thyssenkrupp's gross financial debt had increased to €7.9 billion due to the issuance of €1.5 billion
+of bonds and usage of €1.0 billion of the existing commercial paper program with a maximum emission volume of €1.5
+billion. In July 2019, the company redeemed €1,25 billion of bonds. We primarily adjust thyssenkrupp's debt by adding
+net pension liabilities and the present value of operating leases to the amount of financial debt. We estimate net
+pension liabilities at €7.3 billion (netted by pension related tax assets). Overall, our base-case scenario estimates
+thyssenkrupp's adjusted debt at €12.3 billion at the end of this fiscal year and at €11.1 billion at the end of fiscal
+2019-2020. Cash on balance sheet is netted with financial obligations outstanding.
+
+Financial summary
+Table 2
+
+thyssenkrupp AG -- Financial Summary
+Industry Sector: Capital Goods/Diversified
+--Fiscal year ended Sept. 30-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. €)
+Revenue
+EBITDA
+
+34,777.0 41,447.0 39,263.0 42,778.0 41,304.0
+1,408.0
+
+2,510.5
+
+2,783.5
+
+2,699.0
+
+2,232.0
+
+Funds from operations (FFO)
+
+770.6
+
+1,787.4
+
+1,970.0
+
+1,927.0
+
+1,309.8
+
+Interest expense
+
+396.4
+
+460.1
+
+622.5
+
+705.0
+
+794.2
+
+Cash interest paid
+
+283.4
+
+382.1
+
+489.5
+
+498.0
+
+577.2
+
+Cash flow from operations
+
+346.6
+
+694.4
+
+1,591.0
+
+1,539.0
+
+843.8
+
+925.0
+
+1,520.0
+
+1,351.0
+
+1,268.0
+
+1,151.0
+
+(578.4)
+
+(825.6)
+
+240.0
+
+271.0
+
+(307.2)
+
+Capital expenditure
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+(671.4)
+
+(910.6)
+
+155.0
+
+209.0
+
+(349.2)
+
+Cash and short-term investments
+
+2,993.0
+
+5,292.0
+
+4,105.0
+
+4,535.0
+
+3,979.0
+
+Gross available cash
+
+2,993.0
+
+5,292.0
+
+4,105.0
+
+4,535.0
+
+3,979.0
+
+Debt
+
+7,258.8 10,246.8 12,628.9 11,898.9 11,821.1
+
+Equity
+
+3,275.0
+
+3,405.0
+
+2,609.0
+
+3,307.0
+
+3,199.0
+
+EBITDA margin (%)
+
+4.0
+
+6.1
+
+7.1
+
+6.3
+
+5.4
+
+Return on capital (%)
+
+4.4
+
+8.6
+
+9.1
+
+9.6
+
+7.1
+
+EBITDA interest coverage (x)
+
+3.6
+
+5.5
+
+4.5
+
+3.8
+
+2.8
+
+FFO cash interest coverage (x)
+
+3.7
+
+5.7
+
+5.0
+
+4.9
+
+3.3
+
+Debt/EBITDA (x)
+
+5.2
+
+4.1
+
+4.5
+
+4.4
+
+5.3
+
+10.6
+
+17.4
+
+15.6
+
+16.2
+
+11.1
+
+Adjusted ratios
+
+FFO/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+thyssenkrupp AG
+
+Table 2
+
+thyssenkrupp AG -- Financial Summary (cont.)
+Industry Sector: Capital Goods/Diversified
+--Fiscal year ended Sept. 30-2018
+Cash flow from operations/debt (%)
+
+2017
+
+2016
+
+2015
+
+2014
+
+4.8
+
+6.8
+
+12.6
+
+12.9
+
+7.1
+
+FOCF/debt (%)
+
+(8.0)
+
+(8.1)
+
+1.9
+
+2.3
+
+(2.6)
+
+DCF/debt (%)
+
+(9.2)
+
+(8.9)
+
+1.2
+
+1.8
+
+(3.0)
+
+Liquidity: Adequate
+We assess thyssenkrupp's liquidity as adequate, based on our expectation that sources of liquidity will exceed uses by
+1.7x over the next year. We view the group's bank relationships as well established and its financial risk management
+as prudent. The short-term rating is 'B', reflecting the long-term issuer credit rating and our assessment of the
+company's liquidity.
+thyssenkrupp has no meaningful long-term debt maturities over the next 12 months. From the current bonds, a €750
+million 1.75% note is due in November 2020 and a €850 million 2.75% note in March 2021. We expect thyssenkrupp
+will address these maturities well in advance, based on the group's past practice.
+We estimate that principal liquidity sources for the next 12 months include:
+• Estimated freely available cash and cash equivalents of approximately €1.6 billion (after repayment of a €1.25
+million bond in July 2019);
+• Availability of approximately €3.6 billion under committed credit lines maturing beyond next 12 months. We expect
+the group will remain in line with covenants on its main €2.0 billion syndicated revolving credit facility, committed
+until March 2021; and
+• Cash FFO generation that we estimate at about €1.2 billion
+
+Over the same period, we estimate that principal liquidity uses include:
+• Estimated short-term maturities of approximately €1.1 billion, which we expect the company to roll over;
+• Annual capex of approximately €1.5 billion;
+• Working capital outflow and intrayear swings of about €700 million according to our internal estimates; and
+• Annual moderate dividend payments reflecting the group's financial policy.
+
+Bond maturities
+• 2019: €0
+• 2020: €750 million
+• 2021: €850 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+thyssenkrupp AG
+
+• 2022: €1.25 billion
+• 2023: €0
+• 2024: €1.5 billion
+• 2025: €600 million
+
+Environmental, Social, And Governance
+
+Environmental, social, and governance factors do not affect our rating on thyssenkrupp, albeit over the past two
+years, activist shareholders have initiated significant changes in the group's strategy, leading to the ongoing
+unwinding of the conglomerate structure, and meaningful restructuring and reorganization expenses.
+The group, in our view, has demonstrated the ability to deal with the most meaningful factors for the sector, which
+are management of resources from and environmental perspective and employee management from the social
+point of view, despite the ongoing significant shifts in the group structure. thyssenkrupp has targeted implementing
+an ISO 14001 environmental management system by fiscal year 2019-2020, covering all relevant environmental
+aspects such as reducing wastewater, emissions, and the environmental impact of products through to disposal.
+The most important environmental factor for thysenkrupp is the use of energy. The group's energy consumption
+came to more than 70 terawatt-hours in the 2017-2018 fiscal year. The group's steel operations consume the vast
+majority of this. The remaining operations accounted for six terawatt-hours. thyssenkrupp adheres to a high
+disclosure standards in line with other large international publicly listed groups.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We rate thyssenkrupp's various senior unsecured notes and the €2.0 billion senior revolving credit facility 'BB-'; the
+recovery rating on these debt instruments is '3'.
+• Our recovery expectations are in the upper half of the 50%-70% range (rounded estimate: 65%).
+• Under our hypothetical scenario, a default would follow the planned IPO not materializing, leaving the current debt
+structure in place; a persisting weakness in the industries in which thyssenkrupp operates; and operating setbacks
+leading to deteriorating financial performance, permanent negative free cash flow, and an inability to refinance key
+obligations.
+• We value thyssenkrupp as a going concern, given the significant market positions of several of its core divisions.
+• Nevertheless, we believe that many parts of the company could be broken up and sold separately, and would
+provide significant value to creditors in a break-up scenario.
+• In particular, the stable profile and inherent value of the elevators business would be likely to offer significant
+creditor protection in most thinkable scenarios.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+thyssenkrupp AG
+
+Simulated default assumptions
+• Year of default: 2023
+• EBITDA at emergence: €1.7 billion (we assume maintenance capex at 2% of revenue; cyclical adjustment of 5%,
+which is standard for the sector; operational adjustment of 40%)
+• Implied enterprise value multiple: 6.0x
+• Jurisdiction: Germany
+
+Simplified waterfall
+• Gross recovery value: €10.5 billion
+• Net recovery value for waterfall after administrative expenses (5%) and pension consideration: €6.4 billion
+• First priority claims: €400 million
+• Value available for senior unsecured claims: €6 billion
+• Senior unsecured claims: €9 billion
+• --Recovery range: 50%-70% (rounded estimate: 65%)
+All debt amounts include six months of prepetition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of thyssenkrupp AG Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. €)
+--Fiscal year ended Sept. 30, 2018--
+
+thyssenkrupp AG reported
+amounts
+
+Debt
+
+Shareholders'
+equity
+
+5,234.0
+
+2,806.0
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+1,160.0
+
+472.0
+
+209.0
+
+1,408.0
+
+185.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(354.0)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(232.0)
+
+--
+
+Trade receivables
+securitizations
+
+248.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(36.0)
+
+Operating leases
+
+861.3
+
+--
+
+249.0
+
+51.4
+
+51.4
+
+(51.4)
+
+197.6
+
+3,384.0
+
+--
+
+1.0
+
+1.0
+
+141.0
+
+--
+
+--
+
+(2,493.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+34.0
+
+--
+
+--
+
+--
+
+--
+
+9.5
+
+--
+
+--
+
+--
+
+(5.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+38.0
+
+--
+
+--
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+Dividends received from
+equity investments
+Asset retirement obligations
+Nonoperating income
+(expense)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 13
+
+thyssenkrupp AG
+
+Table 3
+
+Reconciliation Of thyssenkrupp AG Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€) (cont.)
+Noncontrolling
+interest/minority interest
+
+--
+
+469.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+15.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(27.0)
+
+(27.0)
+
+--
+
+--
+
+--
+
+EBITDA: Business
+divestments
+
+--
+
+--
+
+(2.0)
+
+(2.0)
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+(7.0)
+
+(7.0)
+
+--
+
+--
+
+--
+
+2,024.8
+
+469.0
+
+248.0
+
+54.4
+
+187.4
+
+(637.4)
+
+161.6
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+770.6
+
+346.6
+
+Debt: Put options on minority
+stakes
+
+Total adjustments
+
+S&P Global Ratings'
+adjusted amounts
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+7,258.8
+
+3,275.0
+
+1,408.0
+
+526.4
+
+396.4
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB-/Developing/B
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 14
+
+thyssenkrupp AG
+
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Metals And Mining Downstream Industry, Dec. 20,
+2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Auto Suppliers Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+thyssenkrupp AG
+Issuer Credit Rating
+
+BB-/Developing/B
+
+Senior Unsecured
+
+BB-
+
+Issuer Credit Ratings History
+19-Aug-2019
+
+BB-/Developing/B
+
+08-Oct-2018
+
+BB/Developing/B
+
+22-Sep-2017
+
+BB/Watch Pos/B
+
+02-Dec-2014
+
+BB/Stable/B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 15
+
+thyssenkrupp AG
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 17
+
+

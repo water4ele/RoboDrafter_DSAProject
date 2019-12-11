@@ -1,0 +1,1081 @@
+Nomura Holdings Inc. (Holding Company)
+Nomura Securities Co. Ltd. (Lead Bank)
+Primary Credit Analyst:
+Toshihiro Matsuo, Tokyo (81) 3-4550-8225; toshihiro.matsuo@spglobal.com
+Secondary Contact:
+Chizuru Tateno, Tokyo (81) 3-4550-8578; chizuru.tateno@spglobal.com
+
+Table Of Contents
+Major Rating Factors
+Outlook
+Rationale
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Nomura Holdings Inc. (Holding Company)
+Nomura Securities Co. Ltd. (Lead Bank)
+SACP
+
+bbb
+
+Anchor
+
+bbb+
+
+Business
+Position
+Capital and
+Earnings
+Risk Position
+
++
+
+Moderate
+
+-1
+
+Strong
+
++1
+
+Moderate
+
+-1
+
+Funding
+
+Average
+
+Liquidity
+
+Adequate
+
+0
+
+Support
+
++2
+
+ALAC
+Support
+
+0
+
+GRE Support
+
+0
+
+Group
+Support
+
+0
+
+Sovereign
+Support
+
++
+
+Additional
+Factors
+
+0
+
+Issuer Credit Rating
+
+A-/Stable/A-2
+Bank Holding Company ICR
+
+BBB+/Stable/A-2
++2
+
+Note: "Lead bank" above refers to the main operating company of the group, and "bank holding company" refers to the
+holding company.
+
+Major Rating Factors
+Strengths:
+
+Weaknesses:
+
+• Robust franchise and very strong position in Japan's
+securities market
+• Strong capitalization by international comparison
+• Potential government support if needed, given its
+high systemic importance to the country's financial
+system
+
+• Susceptibility of earnings to fluctuations in Japan's
+securities market, leading to highly volatile earnings
+• Market confidence-sensitive funding compared with
+Japan's major commercial banks
+• Limited room to improve profitability, because of
+fierce competition in the domestic securities market
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Nomura Holdings Inc.
+
+Outlook: Stable
+
+Our rating outlooks on Japan-based securities firm Nomura Holdings Inc. (Nomura; BBB+/Stable/A-2) and its
+core subsidiaries such as Nomura Securities Co. Ltd. (A-/Stable/A-2) are stable. They reflect S&P Global Ratings'
+view that the Nomura group is likely to maintain its current position in the domestic securities market for the next
+two years as it carries out a plan for an extensive business overhaul announced in April 2019. We also assume the
+group's transformation of its business model will not lead to a substantial increase in risk appetite.
+We could downgrade Nomura and its core subsidiaries if the group's efforts to restructure its business are
+unsuccessful in a challenging market environment and we think its fundamental earnings capacity is likely to
+remain weak. We would consider a downgrade also if its risk-adjusted capital (RAC) ratio declines and stays below
+10%. This could occur if the group increases its risk appetite or pursues an aggressive capital policy.
+Conversely, we could upgrade Nomura and its core subsidiaries if the Nomura group successfully transforms its
+business model and builds a stable business. Specifically, we might upgrade the entities if the group maintains
+strong capitalization and we see a sustained recovery in its profitability compared with that of its peers, such as
+U.S.-based The Goldman Sachs Group Inc. and Morgan Stanley.
+
+Rationale
+Our ratings on Nomura and its core subsidiaries, including Nomura Securities, reflect the Nomura group's continued
+dominance of Japan's securities market. The ratings also reflect our view that its earnings are volatile owing to their
+susceptibility to swings in global securities markets. We also think it has solid capital relative to the risks the group
+assumes and view its business as more complex than those of commercial banks. We lift our group credit profile (GCP)
+for the Nomura group two notches from its group standalone credit profile (SACP) to factor in a high likelihood of
+extraordinary government support in the event of distress.
+
+Anchor: The 'bbb+' anchor reflects our Banking Industry Country Risk Assessment (BICRA) for Japan
+Our anchor for the Nomura group is 'bbb+', equivalent to our anchor for banks operating primarily in Japan. This
+reflects our analytical approach to incorporate into our assessment of its risk position the complexity of the investment
+banking business as well as the fact that the group operates its business globally. For a typical commercial bank or
+nonbank financial institution, in contrast, we capture risk related to the entity by adjusting the anchor based on the
+weighted average of the economic risk in relevant countries or regions.
+We believe banks operating in Japan face low economic risks by global comparison. Japanese banks benefit from
+operating in a large and diversified economy with various competitive industries. These strengths offset certain
+structural weaknesses, such as Japan's aging society, low economic growth, and the government's limited fiscal
+flexibility to stimulate the economy because of its debt level, which is one of the highest among developed countries.
+Conversely, we view the industry risk Japanese banks face as relatively higher than that in countries with the same
+BICRA score, because of the fragmented market and its low profitability. We believe that the current situation, in
+which banks endure ongoing low profitability, poses a risk to the stability of Japan's banking system.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Nomura Holdings Inc.
+
+Table 1
+
+Nomura Holdings Inc.--Key Figures
+--Fiscal year*-(Bil. ¥)
+Adjusted assets
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+40,859 40,401 42,654 40,881 41,557
+
+Adjusted common equity
+
+2,358
+
+2,405
+
+2,399
+
+2,468
+
+2,472
+
+Total adjusted capital
+
+2,523
+
+2,570
+
+2,564
+
+2,633
+
+2,472
+
+Operating revenues
+
+1,124
+
+1,494
+
+1,395
+
+1,416
+
+1,575
+
+Noninterest expenses
+
+1,154
+
+1,169
+
+1,080
+
+1,231
+
+1,257
+
+Net income
+
+(100)
+
+219
+
+240
+
+132
+
+225
+
+(88)
+
+222
+
+237
+
+160
+
+207
+
+Core earnings
+
+*Fiscal years end March 31 of the following year.
+
+Business position: Relatively weak business stability despite a robust presence in Japan
+The Nomura group's domestic securities business is likely to remain robust, although the stability of group's overall
+business is likely to remain slightly weak. Its earnings are susceptible to fluctuations in global capital markets
+compared with average domestic banks, as indicated by the BICRA. The group has an unfavorable earnings base
+compared with global peers with material investment banking activities, and its earnings became more volatile in the
+past five years. We factor these elements into our assessment of the group's business position.
+We expect the Nomura group to maintain its dominant position and solid business in both the retail and institutional
+securities markets in Japan. It holds the largest amount of retail client assets among its Japanese peers. As of the end
+of March 2019, it held ¥115 trillion in retail client assets, primarily at Nomura Securities. The group's assets under
+management, primarily at major Japanese asset manager Nomura Asset Management, totaled ¥51.4 trillion. Nomura
+Securities has maintained the top ranking in Japan's equity league table for more than 10 years. It has long-standing,
+favorable relationships with companies it provides underwriting services to as their lead manager. Its strong
+distribution networks have further enhanced its market position in investment banking.
+In our view, the Nomura group has a weak market position in overseas business relative to its dominant domestic
+position. Also, its overseas business line and customer base are not as stable as those of global investment banks. In its
+restructuring, the group aims to lower costs in its overseas operations and focus resources on competitive business
+areas. This is because the group's overseas business has struggled to cover costs in a stable manner. Private banking,
+asset management, and investment advisory businesses could counterbalance a relatively volatile institutional
+securities business. But the group's asset management segment accounts for a limited proportion of the group's overall
+net revenue at less than 10%.
+Competition from major banking groups' securities affiliates and from large foreign investment banks is particularly
+fierce in lucrative businesses, such as cross-border finance and merger and acquisition (M&A) advisory. The securities
+arms of domestic banking groups benefit from their parent groups' strong ties with corporate customers, and large
+foreign investment banks can take advantage of their strong global networks. Moreover, Japan's capital markets lack
+diversity: Financing activity for emerging companies is a much smaller-size market in Japan than in the U.S.
+Intensifying the competition further are the aging population and the rise of online brokerages. Revenue from retail
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Nomura Holdings Inc.
+
+operations, which tends to be a face-to-face business, is likely to continue to decline.
+Key issues that our credit analysis focuses on include whether the group's restructuring can build a stable revenue base
+and whether it can restore customer trust. The group has been improving internal and management controls following
+a business improvement order from Japan's Financial Securities Agency in May 2019. The financial watchdog issued
+the order to Nomura Holdings and Nomura Securities in response to a case of improper communications.
+We think the group's streamlining efforts overseas will lower its risk taking and reduce its operating costs to a degree.
+Nevertheless, the group also faces challenges of carrying out business restructuring it announced in April 2019 amid
+the harsh competitive environments it expects to face both in Japan and overseas continuously.
+Table 2
+
+Nomura Holdings Inc.--Business Position
+--Fiscal year*-(%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Total revenue growth (year over year)
+
+(24.8)
+
+7.1
+
+(1.5)
+
+(10.1)
+
+2.1
+
+5.2
+
+7.4
+
+9.2
+
+8.0
+
+7.0
+
+57.0
+
+48.2
+
+45.6
+
+55.0
+
+47.7
+
+Market-sensitive income/operating revenues
+
+30.6
+
+29.6
+
+34.2
+
+26.0
+
+34.1
+
+Pretax profit/operating revenues
+
+(3.4)
+
+22.0
+
+23.1
+
+11.7
+
+22.0
+
+Core earnings/average adjusted common equity
+
+(3.7)
+
+9.3
+
+9.7
+
+6.5
+
+8.7
+
+Net interest income/operating revenues
+Fee income/operating revenues
+
+*Fiscal years end March 31 of the following year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Nomura Holdings Inc.
+
+Chart 1
+
+Capital and earnings: RAC ratio is volatile but likely to stay above 11%
+The group's RAC ratio is likely to stay high by international comparison. We expect it to be in a range of 11%-12% in
+the next two years. The ratio is highly volatile because the group's earnings and exposures are susceptible to
+conditions in securities markets. We don't expect the group to conduct its business in a manner that would materially
+increase its risk-weighted assets. Indeed, it has continued its strategies to flexibly allocate risk limits in accordance with
+the market environment and to maintain strong capitalization. The group's capital quality is adequate, in our view.
+Hybrid securities comprised 6.5% of its total adjusted capital (TAC) as of March 31, 2019.
+We assess the Nomura group to have greater fluctuations in revenue than commercial banks. While its return on
+equity (ROE) has stayed at about 8.0%-9.0% in recent years, it incurred net losses of more than ¥100 billion in fiscal
+2018 (ended March 31, 2019), albeit due in part to one-time losses. The Nomura group may be able to mitigate
+volatility in its operating performance if it achieves its target of ¥140 billion in cost reductions in three years through
+fiscal 2021. Its credit quality might benefit if it builds a cost structure that generates sufficient revenue even in market
+downturns and it establishes a business line with stable revenue. However, it would be difficult to determine whether
+group revenue has become less volatile in just two to three years, in our view. This is because the volatility is rooted in
+its business model.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Nomura Holdings Inc.
+
+Chart 2
+
+Table 3
+
+Nomura Holdings Inc. Risk-Weighted Assets And RAC Ratio
+(Bil. ¥ )
+S&P Global Ratings' risk-weighted assets (S&P RWA): Total credit risk (1)
+Government and central banks
+
+4,982
+152
+
+Institutions and central counterparties
+
+1,975
+
+Corporate
+
+2,566
+
+Retail
+
+0
+
+Securitization
+
+0
+
+Other assets
+S&P RWA: Credit valuation adjustment (2)
+S&P RWA: Total market risk (3)
+S&P RWA: Total operational risk (4)
+S&P RWA before diversification (5)=(1)+(2)+(3)+(4)
+Total adjusted capital (TAC) (6)
+Risk-adjusted capital (RAC) (%) (7)=(6)/(5)
+
+289
+2,193
+10,411
+3,140
+20,727
+2,601
+12.5
+
+As of Sept. 30, 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Nomura Holdings Inc.
+
+Table 4
+
+Nomura Holdings Inc.--Capital
+--Fiscal year*-(%)
+
+2018 2017 2016 2015
+
+Leverage ratio (U.S. GAAP)
+
+6.0
+
+2014
+
+5.8
+
+6.0
+
+5.6
+
+5.9
+
+Adjusted common equity/total adjusted capital
+
+93.5
+
+93.6
+
+93.6
+
+93.7 100.0
+
+Total equity double leverage
+
+93.9
+
+90.5
+
+91.9
+
+95.9
+
+95.5
+
+*Fiscal years end March 31 of the following year.
+
+Table 5
+
+Nomura Holdings Inc.--Earnings
+--Fiscal year*-(%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Personnel expenses/operating revenues
+
+44.2
+
+35.5
+
+35.6
+
+40.5
+
+37.9
+
+102.7
+
+78.2
+
+77.4
+
+86.9
+
+79.8
+
+Core earnings/operating revenues
+
+(7.8)
+
+14.9
+
+17.0
+
+11.3
+
+13.1
+
+Internal capital generation/prior year's equity
+
+(5.0)
+
+6.3
+
+6.8
+
+3.4
+
+6.8
+
+0.2
+
+0.3
+
+0.4
+
+0.3
+
+0.3
+
+Cost-income ratio
+
+Net interest income/average earning assets
+*Fiscal years end March 31 of the following year.
+
+Risk position: Growth in risk assets will likely remain under control while trading-related risk persists
+Our assessment of the Nomura group's risk position incorporates the complexity of its businesses compared with
+commercial banks. The group's earnings will remain exposed to considerable market volatility and counterparty risks,
+in our view. This is because the group centers its earnings structure on its wholesale business. In addition, it has sizable
+derivative and trading businesses, as well as a portfolio of strategically held equities. About half of the group's
+risk-weighted assets under our RAC framework are exposed to market risk.
+We think that in general the Nomura group appropriately manages risk in its trading business. It also reins in overall
+growth of risk-weighted assets. It conducts global equity and fixed-income trading and underwriting mainly for
+customers. Nevertheless, the group has a certain level of exposure to inventory and counter-position risks, where it
+hedges dynamically most of the risks. It can't always hedge effectively, and the group could experience substantial
+losses when market conditions change rapidly.
+We think the group can generally manage risk associated with its considerable holdings of assets with low liquidity.
+Among financial instruments categorized at level 2 and 3 according to Fair Value Measurements under U.S. GAAP,
+residential mortgage-backed securities (RMBS) outstanding totaled about ¥2.8 trillion as of March 31, 2019. We
+believe government-related financial institutions guarantee most of the RMBS. The outstanding balance of financial
+instruments categorized at level 3 grossed about ¥426 billion in assets and about ¥177 billion in liabilities. These
+amount to manageable respective levels of TAC of 17% and 7%. Some of Nomura's major assets outside its trading
+accounts have low liquidity, such as investments in affiliates. However, we view them as manageable relative to its
+capital.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Nomura Holdings Inc.
+
+Table 6
+
+Nomura Holdings Inc.--Funding And Liquidity
+--Fiscal year*-(%)
+Short-term wholesale funding/adjusted assets
+Customer deposits/adjusted assets
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+46.6
+
+46.5
+
+48.4
+
+45.7
+
+43.2
+
+3.4
+
+2.8
+
+2.7
+
+5.4
+
+2.9
+
+*Fiscal years end March 31 of the following year.
+
+Funding and liquidity: Adequate funding structure despite reliance on wholesale funding
+The stability of the group's funding hinges on its creditworthiness and market conditions, in our view. This is because it
+relies more heavily on wholesale funding than other core deposit-funded financial institutions do.
+It prudently manages its funding and liquidity by conducting liquidity stress tests and planning for contingency
+funding. We think the following characteristics of its funding structure largely mitigate risk in its heavy reliance on
+wholesale funding:
+• A matched funded balance sheet, with funding sources diversified by tenor and appropriate for each asset profile;
+and
+• An abundant liquidity portfolio of ¥4.9 trillion that mainly comprises cash, deposits, and government bonds, which
+amounted to about double the unsecured short-term debt as of the end of fiscal 2018.
+Unlike the majority of securities firms domiciled outside of Japan, the Nomura group has access to the central bank's
+funding mechanism. This supports liquidity in times of market stress. In addition, the group is also able to access
+European Central Bank financing through European subsidiary Nomura Bank (Luxembourg) S.A.
+
+External support: High systemic importance in Japan
+We lift our GCP for the Nomura group two notches from the SACP. This is because we believe the Nomura group has
+a high likelihood of receiving extraordinary government support in Japan in the event of distress. We base this view on
+our assessments of the group's high systemic importance in Japan's financial system and the government's tendency to
+be highly supportive of private-sector banks.
+The group has the highest market shares among Japanese securities firms in terms of customer assets and derivative
+assets as well as a strong presence in global capital markets. Japan's Deposit Insurance Law allows the government to
+inject public funds into a broader range of financial institutions, including securities firms' holding companies, if the
+failure of these institutions threatens the stability of the financial system. Japan's Financial Services Agency designates
+Nomura Holdings as a domestic systemically important bank (D-SIB).
+
+Major subsidiaries
+We assess four entities under the umbrella of Nomura Holdings as core subsidiaries of the Nomura group (see chart 3).
+Therefore, we equalize our ratings on these subsidiaries with the GCP for the Nomura group based on our group rating
+methodology.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+Nomura Holdings Inc.
+
+We consider the Nomura group's equity-method affiliate Nomura Research Institute Ltd. (NRI) a moderately strategic
+member of the group. However, NRI's creditworthiness is to some extent insulated from the creditworthiness of the
+group, in our view.
+
+Related Criteria
+• Hybrid Capital: Methodology And Assumptions, July 1, 2019
+• Group Rating Methodology, July 1, 2019
+• Risk-Adjusted Capital Framework Methodology, July 20, 2017
+• Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Guarantee Criteria, Oct. 21, 2016
+• Quantitative Metrics For Rating Banks Globally: Methodology And Assumptions, July 17, 2013
+• Banking Industry Country Risk Assessment Methodology And Assumptions, Nov. 9, 2011
+• Banks: Rating Methodology And Assumptions, Nov. 9, 2011
+• Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Commercial Paper I: Banks, March 23, 2004
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+Nomura Holdings Inc.
+
+Related Research
+• Banking Industry Country Risk Assessment: Japan, Aug. 1, 2019
+Anchor Matrix
+Economic Risk
+
+Industry
+Risk
+
+1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+a
+
+a
+
+a-
+
+bbb+
+
+bbb+
+
+bbb
+
+-
+
+-
+
+-
+
+-
+
+2
+
+a
+
+a-
+
+a-
+
+bbb+
+
+bbb
+
+bbb
+
+bbb-
+
+-
+
+-
+
+-
+
+3
+
+a-
+
+a-
+
+bbb+
+
+bbb+
+
+bbb
+
+bbb-
+
+bbb-
+
+bb+
+
+-
+
+-
+
+4
+
+bbb+
+
+bbb+
+
+bbb+
+
+bbb
+
+bbb
+
+bbb-
+
+bb+
+
+bb
+
+bb
+
+-
+
+5
+
+bbb+
+
+bbb
+
+bbb
+
+bbb
+
+bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+6
+
+bbb
+
+bbb
+
+bbb-
+
+bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb
+
+bb-
+
+b+
+
+7
+
+-
+
+bbb-
+
+bbb-
+
+bb+
+
+bb+
+
+bb
+
+bb
+
+bb-
+
+b+
+
+b+
+
+8
+
+-
+
+-
+
+bb+
+
+bb
+
+bb
+
+bb
+
+bb-
+
+bb-
+
+b+
+
+b
+
+9
+
+-
+
+-
+
+-
+
+bb
+
+bb-
+
+bb-
+
+b+
+
+b+
+
+b+
+
+b
+
+10
+
+-
+
+-
+
+-
+
+-
+
+b+
+
+b+
+
+b+
+
+b
+
+b
+
+b-
+
+Ratings Detail (As Of September 26, 2019)*
+Nomura Holdings Inc.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Senior Unsecured
+
+BBB+
+
+Issuer Credit Ratings History
+01-Aug-2019
+
+BBB+/Stable/A-2
+
+17-Nov-2016
+
+A-/Negative/A-2
+
+23-Oct-2015
+
+BBB+/Negative/A-2
+
+Sovereign Rating
+Japan
+
+A+/Positive/A-1
+
+Related Entities
+Nomura Bank International PLC
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Senior Unsecured
+
+A-
+
+Nomura Derivative Products Inc.
+Issuer Credit Rating
+
+AA-t/Stable/A-1+t
+
+Nomura Financial Products & Services Inc.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Nomura Research Institute Ltd.
+Issuer Credit Rating
+
+A/Stable/--
+
+Nomura Securities Co. Ltd.
+Issuer Credit Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+A-/Stable/A-2
+
+SEPTEMBER 26, 2019 11
+
+Nomura Holdings Inc.
+
+Ratings Detail (As Of September 26, 2019)*(cont.)
+Commercial Paper
+Local Currency
+
+A-2
+
+Nomura Trust & Banking Co. Ltd.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+

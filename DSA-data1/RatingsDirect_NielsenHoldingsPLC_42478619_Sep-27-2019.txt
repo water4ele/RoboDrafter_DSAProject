@@ -1,0 +1,1611 @@
+Nielsen Holdings PLC
+Primary Credit Analyst:
+Jawad Hussain, Chicago + 1 (312) 233 7045; jawad.hussain@spglobal.com
+Secondary Contact:
+Naveen Sarma, New York (1) 212-438-7833; naveen.sarma@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Nielsen Holdings PLC
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Leading global provider of media measurement, retail sales
+data, and market share data.
+
+Pressured margin and cash flow profile due to significant investments as the
+business environment continues to evolve.
+
+Superior position in TV audience measurement.
+
+The Global Connect segment is exposed to clients that are vulnerable to
+economic cycles and negative secular trends.
+
+High proportion of sales under multiyear contracts.
+
+Risks around changing data and privacy regulations landscape.
+Acceleration of audience fragmentation and smaller competitors entering the
+measurement services industry.
+
+Nielsen Holdings PLC benefits from strong market positions in its two principal segments. The company is the leading
+global provider of media measurement, retail sales data, and market share data and its Global Connect and Media
+segments both have strong market positions. Nielsen's television audience measurement service is the industry
+standard in the U.S. and its position as the accepted third-party independent arbitrator of audience measurement is
+unlikely to be displaced over our forecast horizon. The Global Connect segment also benefits from a global footprint.
+Further, the company has high proportion of its sales under multiyear contracts and has strong renewal rates with
+more than 70% recurring revenues.
+Nielsen must adapt to an evolving business landscape. Television consumption is experiencing audience fragmentation
+as viewership shifts toward digital platforms and time-shifted viewing. These shifts require enhanced audience
+measurement capabilities that unify measurement of linear and digital viewership toward a common platform allowing
+for greater standardization in ad buying across distribution mediums. In our opinion, the environment in which Nielsen
+operates is evolving faster than the company's response to the changes. On the Media side, the company hasn't been
+able to establish itself as the de facto standard for measuring audiences on digital platforms, though no other company
+has either. In addition, changing consumer data and privacy regulations (including General Data Protection Regulation
+[GDPR]) are becoming increasingly important. On the Global Connect side, the business is exposed to weak end
+markets, with continued softness in fast-moving consumer goods (FMCG) industry. If the company fails to adapt and
+compete effectively in the evolving media landscape, we would expect Nielsen's earnings to suffer.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+Nielsen Holdings PLC
+
+Nielsen's strategic review could affect financial policy and credit measures.The company will announce the
+conclusions of the strategic review of its business, including the Global Connect segment, when it announces
+third-quarter 2019 earnings results. The outcome could affect our 'BB' issuer credit rating, especially if it decides to sell
+or significantly shrink the business, reducing its scale and potentially some of the positive benefits that result from the
+Media and Global Connect segments sharing common ownership. Additionally, even if the company remains intact,
+we will assess its financial policy after the strategic review and its plans for managing shareholder returns and reducing
+leverage. Historically, Nielsen has aggressively pursued debt-funded acquisitions and returned cash via share
+repurchases to shareholders. However, Nielsen has been less aggressive over the past 18 months and over the past
+three quarters has not repurchased any shares. In our view, we expect Nielsen to continue to prioritize de-leveraging
+over share repurchases until it returns to historical leverage in the low to mid-4x area.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Nielsen's adjusted leverage will modestly decline to the mid- to
+high-4x area over the next year. While we continue to view the company as a leader in audience measurement,
+data, and analytics, it faces intense competitive and secular pressures in its core markets due to secular shifts that
+are hurting its major clients. Due to these pressures we expect growth to be remain challenged over the next year.
+
+Downside scenario
+We could lower our issuer credit rating on Nielsen if its adjusted leverage increases above 5x on a sustained basis,
+which could occur if the company experiences greater operating pressure in both its watch and buy segments,
+resulting in revenue and EBITDA declining and minimal discretionary cash flow generation. Alternatively, if the
+outcome of the strategic review alters our view of the business' strength, we could reassess our view on the rating.
+
+Upside scenario
+While unlikely in our view over the next 12 months, we could raise the rating if our view of the company's
+business/operating metrics improves and it lowers its adjusted leverage to below 4x on a sustained basis. This
+would entail the company returning to growth in the buy segment and greater than mid-single-digit percent growth
+in the watch business, leading to double-digit EBITDA growth and significant discretionary cash flow generation.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+Nielsen Holdings PLC
+
+Assumptions
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020,
+eurozone GDP growth of 1.1% in 2019, and 1.3% in
+2020, and U.K. GDP growth of 1.2% in 2019 and
+1.4% in 2020.
+• Flat to slightly lower revenue in 2019 despite GDP
+growth due to competitive and regulatory
+challenges. Revenue is more in line with GDP in
+2020 at 1%-2%.
+• Global Connect segment revenue declines 1%-2%
+on a constant currency basis in 2019 because of
+weakness in developed markets, partially offset by
+moderating growth in emerging markets. Almost flat
+revenue in 2020 as growth in emerging markets
+stabilizes.
+• Global Media segment revenue growth of 2%-3% in
+2019 and 2020 due to growth in national TV and
+digital businesses, new contract wins, and new
+product launches as the negative impact of GDRP
+subsides.
+
+Key Metrics
+
+2018A
+EBITDA margin (%)
+
+2019E
+
+2020E
+
+26.8 27.0-30.0 26.0-30.0
+
+Debt-to-EBITDA (x)
+
+4.8
+
+4.7-4.9
+
+4.5-4.7
+
+DCF to Debt (%)
+
+0.6
+
+1.0-2.0
+
+2.0-3.0
+
+Note: The 2018 data include $116.4 million in
+aggregate adjustments to the as-reported debt
+(operating leases, accessible cash and liquid
+investments, and post-retirement benefit obligations)
+and about $134 million in aggregate adjustments to
+EBITDA (operating leases and share-based
+compensation expenses). We expect debt adjustments
+to increase to $485.6 million in 2019 and $640.5 million
+in 2020 due to higher lease liabilities, with EBITDA
+adjustments of about $160 million in 2019 and $186
+million in 2020. A--Actual. E--Estimate.
+DCF--Discretionary cash flow.
+
+• Reported EBITDA growth at 1%-2% in 2019 before
+improving by 4%-5% in 2020.
+• Adjusted EBITDA margins, which includes
+restructuring charges, improve by about 80 basis
+points (bps) to 100 bps in 2019 and 2020 driven by
+productivity initiatives and lower restructuring costs.
+• The company generates $100 million to $125 million
+in S&P adjusted discretionary cash flow (adjusted
+free cash flow less dividends and share repurchases)
+in 2019, improving to about $190 million-$215
+million in 2020.
+
+Company Description
+Headquartered in New York City (but incorporated in the U.K.), Nielsen is a leading global information and
+measurement company that provides media and marketing information, analytics, and manufacturer and retailer
+expertise about what and where consumers buy, read, watch, and listen. The company has presence in more than 100
+countries. Starting in 2019, the company reorganized its segments and now reports under the following two segments:
+• Nielsen Global Connect (48% of revenue as of the 12 months ending June 30, 2019): Provides retail transactional
+measurement data, consumer behavior information, and analytics primarily to businesses in the consumer packaged
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+Nielsen Holdings PLC
+
+goods industry.
+• Nielsen Global Media (52%): Provides viewership and listening data and analytics primarily to the media and
+advertising industries for television, radio, print, online, and mobile viewing and listening platforms.
+
+Business Risk: Satisfactory
+As the leading global provider of media measurement and retail sales and market share data, Nielsen benefits from
+strong market position in its two principal businesses. However, we also believe there is a modest risk this strong
+market position could come under pressure in the long term. Nielsen's superior position in TV audience measurement
+could become less important as audience fragmentation accelerates and smaller competitors develop innovative
+audience measurement services. This risk could be tempered by how total audience measurement--and Nielsen's
+platform to connect all of its audience measurement capabilities across devices and platforms to more
+comprehensively measure viewership--develops. If the advertising industry's digital measurement methodology
+remains fragmented it will likely continue to erode Nielsen's competitive position as viewership shifts to digital
+consumption. However, Nielsen can benefit disproportionately if its digital measurement system were to become the
+standard for advertisers similar to its television-based measurement system.
+While Nielsen's core audience measurement business continues to grow modestly, the industry faces pressure due to
+increasing regulations around data privacy, including European data and privacy regulations (GDPR). These
+regulations are creating challenges because data providers need to implement privacy protections and ensure that data
+is safeguarded. Nielsen relies on third parties to provide certain data and services in both of its segments. Due to these
+regulations, suppliers may refuse to license data or charge higher prices, pressuring the company's profitability. We
+expect growing data privacy laws will impede Nielsen's marketing effectiveness business because of reduced access to
+third-party data, making it more difficult to monetize analytics sold to advertisers to measure the effectiveness of
+various marketing campaigns. In addition to these growth challenges, Nielsen is increasing its investment spending in
+both segments to keep pace with the changing business environment. Nielsen needs to continue investing heavily in its
+technology and video measurement capabilities to maintain and grow its market position as viewer consumption
+habits continue to evolve.
+Despite the current challenges, we continue to believe that Nielsen benefits from its strong market positions. Nielsen's
+high proportion of sales under multiyear contracts and strong renewal rates (over 70% contracted at the beginning of
+the year) should help provide some stability to the overall business. The company also has significant geographic
+diversification, with more than 40% of revenues generated outside of the U.S.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+Nielsen Holdings PLC
+
+Chart 1
+
+Peer comparison
+Nielsen's closest peer in the audience ratings business is ComScore (not rated). However, it is significantly smaller than
+Nielsen, lacks a global presence, and has had significant management turnover. Information Resources Inc. (IRI) is a
+peer for Nielsen's Global Connect segment. While IRI is smaller and lacks geographic diversification, it is growing
+much faster in developed markets than Nielsen. We also compare Nielsen to other information and media companies
+that are not direct competitors but provide data analytics.
+Table 1
+
+Peer Comparison
+Industry sector: miscellaneous media and entertainment
+
+Ratings as of Aug. 20, 2019
+
+Nielsen Holdings
+PLC
+
+Thomson Reuters
+Corp.
+
+Moody's Corp.
+
+CBS Corp.
+
+Sirius XM Radio
+Inc.
+
+BB/Stable/--
+
+BBB/Stable/A-2
+
+BBB+/Stable/A-2
+
+BBB/Stable/A-2
+
+BB/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+6,515.0
+
+5,501.0
+
+4,442.7
+
+14,514.0
+
+5,770.7
+
+EBITDA
+
+1,747.0
+
+1,119.5
+
+2,297.5
+
+3,431.5
+
+2,204.6
+
+FFO
+
+1,137.3
+
+511.3
+
+1,633.6
+
+2,902.4
+
+1,824.6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+Nielsen Holdings PLC
+
+Table 1
+
+Peer Comparison (cont.)
+Industry sector: miscellaneous media and entertainment
+Nielsen Holdings
+PLC
+
+Thomson Reuters
+Corp.
+
+Moody's Corp.
+
+CBS Corp.
+
+Sirius XM Radio
+Inc.
+
+Interest expense
+
+417.7
+
+331.2
+
+238.3
+
+523.1
+
+379.1
+
+Cash interest paid
+
+403.7
+
+340.2
+
+221.8
+
+513.1
+
+374.0
+
+1,133.3
+
+2,871.3
+
+1,529.4
+
+1,533.4
+
+1,893.0
+
+Cash flow from operations
+Capital expenditure
+
+520.0
+
+95.0
+
+89.0
+
+165.0
+
+343.8
+
+FOCF
+
+613.3
+
+2,776.3
+
+1,440.4
+
+1,368.4
+
+1,549.2
+
+49.3
+
+(8,147.2)
+
+834.0
+
+506.4
+
+33.5
+
+524.0
+
+2,782.0
+
+1,817.5
+
+322.0
+
+54.4
+
+Debt
+
+8,342.4
+
+1,251.2
+
+4,560.2
+
+11,942.2
+
+7,097.2
+
+Equity
+
+3,043.0
+
+9,171.0
+
+656.5
+
+2,804.0
+
+(1,816.9)
+
+EBITDA margin (%)
+
+26.8
+
+20.4
+
+51.7
+
+23.6
+
+38.2
+
+Return on capital (%)
+
+8.0
+
+3.3
+
+37.3
+
+20.5
+
+32.7
+
+EBITDA interest coverage
+(x)
+
+4.2
+
+3.4
+
+9.6
+
+6.6
+
+5.8
+
+FFO cash interest coverage
+(x)
+
+3.8
+
+2.5
+
+8.4
+
+6.7
+
+5.9
+
+DCF
+Cash and short-term
+investments
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.8
+
+1.1
+
+2.0
+
+3.5
+
+3.2
+
+FFO/debt (%)
+
+13.6
+
+40.9
+
+35.8
+
+24.3
+
+25.7
+
+Cash flow from
+operations/debt (%)
+
+13.6
+
+229.5
+
+33.5
+
+12.8
+
+26.7
+
+FOCF/debt (%)
+
+7.4
+
+221.9
+
+31.6
+
+11.5
+
+21.8
+
+DCF/debt (%)
+
+0.6
+
+(651.1)
+
+18.3
+
+4.2
+
+0.5
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Financial Risk: Aggressive
+The company's adjusted leverage was 5.0x as of June 30, 2019, up from 4.8x at year-end 2018 due to its challenging
+operating environment. We expect leverage to decline to about 4.7x-4.8x by the end of 2019 before improving to the
+mid-4x area in 2020. Historically, the company has had limited discretionary cash flow as it returned all its free
+operating cash flow to shareholders through dividends and share repurchases. However, as leverage has increased
+over the past year the company has stopped its share buybacks in order to use excess cash flow to reduce leverage.
+We expect the company to continue this financial policy until it reduces leverage back toward historical levels in the
+low- to mid-4x area.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+Nielsen Holdings PLC
+
+Table 2
+
+Financial Summary
+Industry sector: miscellaneous media and entertainment
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+6,515.0
+
+6,572.0
+
+6,309.0
+
+6,172.0
+
+6,288.0
+
+EBITDA
+
+1,747.0
+
+1,993.0
+
+1,870.5
+
+1,806.5
+
+1,794.5
+
+FFO
+
+1,137.3
+
+1,386.8
+
+1,375.6
+
+1,331.6
+
+1,324.5
+
+417.7
+
+396.2
+
+351.9
+
+330.9
+
+322.0
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+
+403.7
+
+374.2
+
+337.9
+
+315.9
+
+316.0
+
+1,133.3
+
+1,379.8
+
+1,361.6
+
+1,244.6
+
+1,160.5
+
+Capital expenditure
+
+520.0
+
+489.0
+
+433.0
+
+408.0
+
+412.0
+
+FOCF
+
+613.3
+
+890.8
+
+928.6
+
+836.6
+
+748.5
+
+49.3
+
+276.8
+
+76.6
+
+(238.4)
+
+(73.5)
+
+524.0
+
+656.0
+
+754.0
+
+357.0
+
+273.0
+
+Cash flow from operations
+
+DCF
+Cash and short-term investments
+Gross available cash
+
+524.0
+
+656.0
+
+754.0
+
+357.0
+
+273.0
+
+Debt
+
+8,342.4
+
+8,391.0
+
+7,817.4
+
+7,467.7
+
+7,149.7
+
+Equity
+
+3,043.0
+
+4,443.0
+
+4,293.0
+
+4,627.0
+
+5,133.0
+
+EBITDA margin (%)
+
+26.8
+
+30.3
+
+29.6
+
+29.3
+
+28.5
+
+Return on capital (%)
+
+8.0
+
+9.9
+
+9.5
+
+9.2
+
+8.3
+
+EBITDA interest coverage (x)
+
+4.2
+
+5.0
+
+5.3
+
+5.5
+
+5.6
+
+FFO cash interest coverage (x)
+
+3.8
+
+4.7
+
+5.1
+
+5.2
+
+5.2
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.8
+
+4.2
+
+4.2
+
+4.1
+
+4.0
+
+FFO/debt (%)
+
+13.6
+
+16.5
+
+17.6
+
+17.8
+
+18.5
+
+Cash flow from operations/debt (%)
+
+13.6
+
+16.4
+
+17.4
+
+16.7
+
+16.2
+
+FOCF/debt (%)
+
+7.4
+
+10.6
+
+11.9
+
+11.2
+
+10.5
+
+DCF/debt (%)
+
+0.6
+
+3.3
+
+1.0
+
+(3.2)
+
+(1.0)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Liquidity: Adequate
+We believe that Nielsen has adequate liquidity sources to cover its needs over the next 12 months, supported by its
+significant cash balance, access to the $850 million revolving credit facility ($311 million drawn as of June 30, 2019),
+and relatively low debt amortization. We expect the sources to exceed uses by about 1.8x and net sources to remain
+positive, even if EBITDA declines by 15%. The company has a maximum net debt leverage covenant of 5.5x and we
+expect the company will maintain more than 20% covenant headroom.
+The company has an upcoming maturity of about $800 million 4.5% senior debentures maturing in October 2020. We
+expect the company to address this maturity after it completes its strategic review. However, the company has
+sufficient liquidity to address this maturity without accessing the capital markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+Nielsen Holdings PLC
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash totaling $393 million as of June 30, 2019.
+
+• Annual capital expenditures of about $530
+million-$545 million in 2019 and $520 million-$535
+million in 2020.
+
+• Availability of $539 million under the company's
+$850 million revolving credit facility due 2023.
+• Annual funds from operations of about $1.1 billion in
+2019 and $1.2 billion in 2020.
+
+• Annual cash dividends will total about $500
+million-$510 million in 2019 and about $510
+million-$520 million in 2020.
+• Nielsen has modest debt maturities in 2019 of $24
+million, but sizeable maturities of $854 million in
+2020.
+
+Debt maturities
+Nielsen has modest debt maturities over the next 24 months, with most of its debt maturing in 2022-2023. The 2019
+maturity excludes $151 million of finance leases.
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Nielsen Holdings PLC
+
+Covenant Analysis
+Nielsen is subject to a financial covenant requiring its consolidated total net debt ratio to not exceed 5.5x. We expect
+Nielsen to maintain about 20% or more covenant headroom over the intermediate period.
+
+Environmental, Social, And Governance
+
+We believe that Nielsen faces social risks stemming from its focus on collecting and using personal and consumer
+data in a variety of its businesses. As data collection becomes more pervasive and the digital economy continues to
+grow, we expect increased regulatory and social pressure on companies to ensure high standards of data integrity
+and privacy. The European Union enacted GDPR in 2018 and we expect other jurisdictions to introduce
+regulations on how companies use consumer data. Nielsen, as a leading data analytics company, will need to
+ensure that it is ahead of these evolving regulatory and consumer trends so that it does not face any negative
+effects on its business.
+While risks for data analytic companies will continue to increase, we believe Nielsen has a strong record of
+maintaining data integrity and privacy. Nielsen has a long history of collecting and monetizing consumer data in its
+media and consumer retail businesses. Over the years, it has built a reputation as a trusted third-party source for
+data analytics, which we believe helps its position with consumers, customers, and regulators as data privacy and
+integrity issues become more prominent.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our default risk factors include the following: a shift in the competitive landscape stemming from the proliferation of
+media outlets and increased audience fragmentation, intensifying competition in both of the company's principal
+segments, pressure on the company's revenues as clients demand more information for the same price,
+higher-than-expected capital expenditures to boost the company's technical capabilities to ensure customer
+satisfaction and preserve its competitive position, and the company facing financial strain from underperforming,
+debt-financed acquisitions.
+• As of June 30, 2019, Nielsen's debt capitalization included about $4.9 billion of senior secured credit facilities and
+$4.2 billion of senior unsecured notes. Nielsen Finance LLC, TNC (US) Holdings Inc. (unrated), and Nielsen Holding
+and Finance B.V. (unrated) are co-borrowers under the credit facilities, and Nielsen Finance LLC, Nielsen Finance
+Co., and Nielsen Co. (Luxembourg) S.ar.l. are issuers of the senior notes. The credit facilities are secured by a lien
+on substantially all of the co-borrowers and guarantors' capital stock, and tangible and intangible property (subject
+to 65% of the voting stock of first-tier foreign subsidiaries and other excluded assets). The first-lien debt benefits
+from a priority claim on the collateral. We assume the first-lien collateral accounts for about 60% of our estimated
+emergence value.
+• Nielsen's foreign operating subsidiaries do not guarantee the company's secured and unsecured debt. Therefore, the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+Nielsen Holdings PLC
+
+debt and other liabilities (including trade payables) of foreign operating subsidiaries could be effectively senior to the
+claim of secured or unsecured lenders. In our recovery analysis, we assumed that most foreign subsidiaries would
+continue to operate outside of bankruptcy, and foreign subsidiary liabilities would be unimpaired.
+• We value the company on a going-concern basis given our expectation that, in event of a bankruptcy, the
+reorganized company would benefit from its large market presence in TV audience measurement and from the
+inherent value of its client relationships and the organizational knowledge and expertise in audience measurement
+and data analytics.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• Jurisdiction: U.S.
+• The revolving credit facility is 85% drawn at the time of default.
+
+Simplified waterfall
+• EBITDA at emergence: $880 million
+• EBITDA multiple: 7x
+• Gross recovery value: about $6.1 billion
+• Net enterprise value after administrative costs (5%): $5.8 billion
+• -------------------------------------------------------• Secured debt: $4.4 billion*
+• --Recovery expectations: 90%-100% (rounded estimate: 95%)
+• Senior unsecured notes: $4.3 billion*
+• --Recovery expectations: 30%-50% (rounded estimate: 30%)
+*Note: All debt amounts include six months of prepetition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Nielsen Holdings PLC Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Rolling 12 months ended June 30, 2019-Nielsen Holdings PLC reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+8,494.0
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+2,789.0
+
+6,449.0
+
+1,636.0
+
+(487.0)
+
+397.0
+
+1,821.0
+
+1,116.0
+
+497.0
+
+504.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(203.0)
+
+--
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+Nielsen Holdings PLC
+
+Table 3
+
+Reconciliation Of Nielsen Holdings PLC Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+Cash taxes paid:
+Other
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(377.0)
+
+--
+
+--
+
+--
+
+680.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+144.0
+
+24.4
+
+24.4
+
+(24.4)
+
+119.6
+
+--
+
+--
+
+49.0
+
+--
+
+--
+
+--
+
+2.2
+
+2.2
+
+(2.2)
+
+(2.2)
+
+--
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+159.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(393.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+41.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+15.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+199.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+--
+
+1,413.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+495.6
+
+199.0
+
+0.0
+
+185.0
+
+1,454.6
+
+26.6
+
+(606.6)
+
+117.4
+
+0.0
+
+0.0
+
+Reported lease
+liabilities
+Operating leases
+Incremental lease
+liabilities
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+8,989.6
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+2,988.0
+
+967.6
+
+6,449.0
+
+1,821.0
+
+423.6
+
+1,214.4
+
+1,233.4
+
+497.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+504.0
+
+Nielsen Holdings PLC
+
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+Nielsen Holdings PLC
+
+Ratings Detail (As Of September 16, 2019)*
+Nielsen Holdings PLC
+Issuer Credit Rating
+
+BB/Stable/--
+
+Issuer Credit Ratings History
+16-Aug-2018
+
+BB/Stable/--
+
+06-Jun-2017
+
+BB+/Negative/--
+
+25-Jan-2017
+
+BB+/Watch Neg/--
+
+16-Sep-2015
+
+BB+/Stable/--
+
+Related Entities
+Nielsen Co. (Luxembourg) S.ar.l. (The)
+Senior Unsecured
+
+BB
+
+Nielsen Finance Co.
+Senior Unsecured
+
+BB
+
+Nielsen Finance LLC
+Senior Unsecured
+
+BB
+
+The Nielsen Co. B.V.
+Issuer Credit Rating
+
+BB/Stable/NR
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 15
+
+

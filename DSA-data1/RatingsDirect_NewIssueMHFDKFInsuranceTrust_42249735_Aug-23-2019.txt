@@ -1,0 +1,195 @@
+New Issue: MHF DKF Insurance Trust
+$6. 38 million taxable variable-rate notes series 2019
+Primary Credit Analyst:
+John C Mante, Chicago (1) 312-233-7058; john.mante@spglobal.com
+Research Assistant:
+Bala Ramanujam, New York
+
+Table Of Contents
+Rationale
+Transaction Highlights And Structural Analysis
+Rating Sensitivity
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 1
+
+New Issue: MHF DKF Insurance Trust
+$6. 38 million taxable variable-rate notes series 2019
+Ratings Detail
+New Rating
+Series Rating
+2019
+
+AA+/A-1+
+
+Amount (mil. $)
+6.38
+
+Profile
+Closing date
+
+Aug. 15, 2019.
+
+Maturity date
+
+Aug. 1, 2039.
+
+Structure type
+
+Full support, direct-pay LOC supported by a CLOC.
+
+Obligor
+
+MHF DKF Insurance Trust.
+
+FLOC provider
+
+Affiliated Bank N.A.
+
+CLOC provider
+
+Federal Home Loan Bank of Dallas (rating dependency(i)).
+
+Trustee
+
+Synovus Bank
+
+Remarketing agent
+
+The Frazer Lanier Co. Inc.
+
+(i)S&P Global Ratings' credit rating on the notes is linked to the higher of its ratings on the CLOC and FLOC providers. LOC--Letter of credit.
+FLOC--Fronting letter of cedit. CLOC--Confirming letter of cedit.
+
+Rationale
+S&P Global Ratings assigned its 'AA+/A-1+' rating to MHF DKF Insurance Trust's $6.38 million taxable variable-rate
+notes series 2019 due Aug. 1, 2039.
+The 'AA+/A-1+' rating on the notes reflects the higher of our ratings on the Federal Home Loan Bank of Dallas (FHLB
+Dallas; 'AA+/A-1+'), the confirming letter of credit (CLOC) provider, and Affiliated Bank N.A. ('NR'), the fronting LOC
+(FLOC) provider, during the weekly interest rate mode (the rated mode).
+The 'AA+' long-term component of our rating reflects the higher of our long-term issuer credit ratings on FHLB Dallas
+and Affiliated Bank N.A., and addresses our expectation of full and timely interest and principal payments when the
+noteholders have not exercised the put option. The 'A-1+' short-term component of our rating reflects the higher of our
+short-term issuer credit ratings on FHLB Dallas and Affiliated Bank N.A., and addresses our expectation of full and
+timely interest and principal payments when the noteholders have exercised the put option.
+The letters of credit (LOCs) cover the entire principal balance and 35 days of interest accruals at a 10% maximum note
+rate. During the rated mode, we believe that the coverage amount is sufficient to pay note principal and maximum
+accrued interest considering the same-day interest reinstatement period and any additional time that may elapse
+before a full payment is made to the noteholders.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 2
+
+New Issue: MHF DKF Insurance Trust
+
+In rating this transaction, we reviewed the credit, liquidity, legal, operational, and structural matters that we believed
+were relevant to our analysis, as outlined in our criteria.
+
+Transaction Highlights And Structural Analysis
+When evaluating the notes, S&P Global Ratings considered various risk factors, as described below.
+
+Put option risks
+The notes are a variable-rate issuance with a noteholder option to demand repayment before the notes mature (the put
+or tender option), which is available during the rated mode. The noteholders may exercise the put option during the
+rated mode with notice to the appropriate parties (e.g., the trustee or remarketing agent) according to the transaction's
+terms. Those choosing to exercise their option will receive a price equal to par plus accrued interest funded by the
+remarketing proceeds and, if they are insufficient, by the FLOC proceeds. If the FLOC provider defaults on a demand
+for payment under the FLOC, the CLOC will fund such defaulted payments.
+The CLOC provided by FHLB Dallas allows for a single draw, which would be made only if Affiliated Bank N.A. has
+defaulted on payments under, or repudiated, the FLOC. We believe the risk that the CLOC could become unavailable
+after a single draw is mitigated by provisions in the transaction documents that instruct the trustee to declare an
+acceleration of the notes and draw on the CLOC to fund the principal and interest payable on the notes if the FLOC
+provider has defaulted on any demand for payment or repudiated the FLOC.
+
+Early termination risks
+The transaction structure allows the LOCs to terminate before the notes mature. The LOC termination events include:
+FLOC:
+• FLOC expiration;
+• FLOC replacement; or
+• An event of default under the credit agreement.
+CLOC:
+• CLOC expiration.
+If any of these events occur, the transaction documents require the trustee to draw on the LOCs and repay the notes in
+full before the LOCs terminate or upon note acceleration. In these cases, we believe the coverage amount under each
+LOC is sufficient in the rated mode to fully pay principal and accrued interest on the notes to the date specified in the
+transaction documents.
+
+Other early call or redemption risks
+The transaction documents state that, upon certain other conditions or events, the notes may be called or redeemed.
+In these cases, the transaction documents require the trustee to draw on the LOCs and repay the notes in full. We
+believe the LOC coverage amount is sufficient in the rated mode to pay all principal and accrued interest on the notes
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 3
+
+New Issue: MHF DKF Insurance Trust
+
+to the date specified in the transaction documents.
+
+Rating Sensitivity
+In view of the note structure, changes to our rating on the notes can result from, among other things, changes to our
+ratings on the LOC providers or amendments to the transaction's terms. We will maintain a rating on the notes as long
+as the LOCs have not expired, replaced or otherwise terminated. If any of these condition changes, we will likely
+withdraw our rating on the notes.
+
+Related Criteria
+• General Criteria: Methodology And Assumptions For Analyzing Letter Of Credit-Supported Debt, Feb. 20, 2015
+
+Related Research
+• Federal Home Loan Bank of Dallas, Aug. 30, 2018
+• Global Structured Finance Scenario And Sensitivity Analysis: Understanding The Effects Of Macroeconomic Factors
+On Credit Quality, July 2, 2014
+In addition to the criteria specific to this type of security (listed above), the following criteria articles, which are
+generally applicable to all ratings, may have affected this rating action: "Counterparty Risk Framework: Methodology
+And Assumptions," March 8, 2019; "Post-Default Ratings Methodology: When Does Standard & Poor's Raise A Rating
+From 'D' Or 'SD'?," March 23, 2015; "Global Framework For Assessing Operational Risk In Structured Finance
+Transactions," Oct. 9, 2014; "Methodology: Timeliness of Payments: Grace Periods, Guarantees, And Use of 'D' And
+'SD' Ratings," Oct. 24, 2013; "Criteria For Assigning 'CCC+', 'CCC', 'CCC-', And 'CC' Ratings," Oct. 1, 2012;
+"Methodology: Credit Stability Criteria," May 3, 2010; and "Use of CreditWatch And Outlooks," Sept. 14, 2009.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 4
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 5
+
+

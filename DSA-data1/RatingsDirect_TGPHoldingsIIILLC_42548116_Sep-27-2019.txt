@@ -1,0 +1,530 @@
+TGP Holdings III LLC
+Primary Credit Analyst:
+Raina Patel, New York + 1(212) 438-0894; raina.patel@spglobal.com
+Secondary Contact:
+Chris Johnson, CFA, New York (1) 212-438-1433; chris.johnson@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+TGP Holdings III LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Risks
+
+Key Strengths
+
+Outsourced manufacturing model that could be negatively affected by the
+U.S.-China trade war.
+
+Solid brand strength and category leader in wood-pellet grill
+category.
+
+Small scale and share in overall grill market.
+
+Increasing sales-channel diversification.
+
+Narrow focus on discretionary products that are vulnerable to economic
+downturns.
+Geographical concentration.
+High debt balances.
+
+We expect a modest rebound in margins in 2019 and 2020 as cost-reduction initiatives take hold and the company
+realizes the benefits from diversifiying its manufacturing source, but leverage remains high. TGP's EBITDA margin was
+significantly below our forecast in 2018 due to several factors that increased the company's operating expenses,
+including higher freight expenses and rising inbound shipping costs. Margins also decreased due to the
+macroeconomic headwinds and U.S.-China trade war, which started in earnest in mid-2018, leading to rising steel
+costs and a negative impact on foreign exchange. The company sources the majority of its steel from China, and most
+of its manufacturing is based there as well, which pressured margins as steel prices increased. In addition, the negative
+foreign-exchange impact was only partially offset by currency hedges. In the first half of 2019, TGP announced a
+strategic sourcing shift starting in the fourth quarter of 2019. This--coupled with a reduction of operating expenses
+through warehouse and logistics, stock-keeping-unit rationalization, and successful new product launches--should
+increase adjusted EBITDA margins to above 18%. However, given the relatively high debt load, leverage will likely
+remain around 7x, and EBITDA interest coverage should remain at about 2x. Furthermore, given the highly
+discretionary nature of the company's products, we believe TGP remains very susceptible to an economic downturn.
+As economic volatility and trade tensions continue, we remain cautious of the current macroeconomic backdrop.
+Strong top-line growth in 2019, supported by new product launches, increased market penetration strategies, and efforts
+to improve channel diversification. The company is expected to have revenue growth of about 20% in 2019, stabilizing
+in the mid-single digits thereafter, driven by the new product launches in first half of 2019 and improved household
+penetration by way of higher marketing spend (along with fewer pronounced seasonal fluctuations). Earlier in 2019, the
+company launched its technologically advanced, next generation of wood-pellet grills (the Pro series, Ironwood series,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+TGP Holdings III LLC
+
+and TimberLine series). The company has also made strides in increasing household penetration through brand
+awareness and retail product marketing, with campaigns such as "Try it on a Traeger." The company continues to
+expand its sales channels with better exposure and partnerships with big-box stores such as Home Depot. Current
+household market penetration is approximately 2%, with the company expecting it to meaningfully improve over the
+forecast period through brand awareness, increased marketing, product innovation, and increased in-store promotions.
+We expect 3%-4% annual growth in marketing and sales expenses over the forecast period to support top-line
+accretion.
+
+Outlook: Stable
+
+The stable outlook reflects our view that the company's operating performance improvement will continue as
+higher pricing offsets input cost inflation (particularly for steel). This should allow the company to restore its
+positive free cash flow, repay debt, and improve debt to EBITDA closer to 7x while maintaining EBITDA interest
+coverage of more than 2x. In addition, we expect the company to modestly improve cash generation.
+
+Downside scenario
+We could lower the ratings if the company's operations deteriorate below our base-case forecast due to operating
+headwinds--such as rising steel costs or an inability to sell-through inventory--resulting in negative free cash flow
+and sustained EBITDA interest coverage of less than 2x. We could also lower our ratings if the company's liquidity
+deteriorates such that its covenant cushion drops below 15%.
+
+Upside scenario
+Although unlikely over the next year, we could upgrade the company if it is able to continue to grow revenues and
+EBITDA margins, resulting in free cash flow of more than $20 million and sustained debt to EBITDA below 6x.
+This could occur if the company orchestrates an effective marketing campaign that enables it to gain new
+customers, if its product mix shifts toward higher-margin sales, and if it enters new geographic markets while
+reducing operating expenses.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+TGP Holdings III LLC
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP is expected to grow by 2.5% in 2019 and
+1.8% in 2020.
+• Given that the company's products are highly
+discretionary, we expect around 20% annual sales
+growth in 2019 driven by the new product launches,
+higher pricing, and improving market penetration
+through advertising.
+
+2018A
+
+2019F
+
+2020F
+
+Debt to EBITDA (x)
+
+11 6.8-7.2 6.5-6.8
+
+FFO to debt (%)
+
+1.3 6.0-6.5 7.0-7.5
+
+A--Actual. F--Forecast. FFO--Funds from operations.
+Note: Figures are as reported.
+
+• We expect mid-single-digit-percentage growth in
+2020 and beyond, supported by favorable pricing,
+increased brand awareness due to higher marketing
+spend, channel expansion, and stable core retail
+partnerships.
+• Adjusted EBITDA margin rebounds over the next
+two years at 18%-20% as the company optimizes its
+manufacturing and logistical processes, thus
+reducing operating expenses. The margin headwinds
+faced in the previous year are assumed to normalize
+as the company offsets higher raw-material costs
+and tariff impacts with higher pricing while
+managing its foreign-currency exposure more
+diligently.
+• Working capital remains a modest use of cash flows
+generated in 2019 before returning to historically
+lower levels.
+• Annual capital expenditures (capex) of about $7
+million-$8 million during the forecast period.
+• Free operating cash flow (FOCF) to be positive in
+2019 and above $10 million in 2020.
+• We expect no acquisitions or dividends, while
+excess free cash flow generated is largely applied to
+scheduled debt repayment.
+
+Base-case projections
+Our base case assumes the company will be largely successful in launching new marketing campaigns, strategic
+sourcing shifts, and navigating volatile macroeconomic conditions. We believe that the company will continue to be
+successful with new products launched earlier this year without material disruption in the business from potential
+economic volatility. With high debt leverage of 9.6x as of June 30, 2019, and macroeconomic uncertainty increasing
+from escalating trade tensions between the U.S. and China, we believe execution risk is heightened and that any
+operational missteps could lead to a rapid deterioration in credit metrics.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+TGP Holdings III LLC
+
+Rebounding EBITDA margin of 18%-20%, supported by company's sell-through of inventory and new product launches.
+EBITDA margins are expected to be at 18%-19% in 2019 and then grow by 60 basis points (bps)-80 bps over the next
+two years as the company manages to increase pricing to offset input cost and tariff headwinds. We expect free
+operating cash flow (FOCF) to turn marginally positive by 2019 and above $15 million in 2020 because of improved
+working-capital management. The leverage is expected to reach below 7x and EBITDA interest coverage to approach
+2x over next two years, with better EBITDA realization resulting from improving margins as the company continues to
+make scheduled debt repayments.
+
+Company Description
+Traeger Pellet Grills LLC designs and markets premium outdoor cooking products, specifically wood pellet grills, and
+associated wood pellets, sauces, species, and grilling accessories. Founded in 1985, the company is both the inventor
+and leader of the wood pellet grills category. The company is based in Salt Lake City, Utah.
+
+Business Risk: Weak
+TGP's business risk reflects the company's narrow product focus, its small market share in the overall grill market, the
+seasonality of sales, and the highly discretionary nature of its products. The company primarily sells premium
+wood-pellet grills, which are typically double the price of an average grill. The company also sells wood pellets for the
+grills, sauces, spices, and accessories. Although the company has a strong position in the wood-pellet grill market, it
+competes against much larger and better-known grill makers such as Char-Broil and Weber, which have broader
+product offerings and greater financial resources. In addition, the company is highly susceptible to economic
+downturns, given the discretionary nature of its products and lack of geographical sales diversification. Although the
+company does have healthy margins, we believe that to sustain growth, it must continue to invest and successfully
+execute on its marketing strategy to win new customers.
+
+Financial Risk: Highly leveraged
+Although the company is sponsor-owned, which often is associated with aggressive financial policies, we believe it will
+focus on sustaining the above-industry-average growth of its popular wood-pellet grills by investing in marketing and
+distribution rather than undertaking shareholder returns or debt-financed acquisitions. Over the next year, we expect
+management to focus on improving operating execution and turn-around recently underperforming EBITDA, thereby
+reducing leverage. As of the quarter ended June 30, 2019, the trailing 12-month debt to EBITDA was 9.6x, down from
+11x at fiscal year-end 2018. Still, we believe the company will have good growth as it steadily increases household
+penetration, expands geographically, and rebounds slightly in fiscal 2019, resulting in lower debt to EBITDA of about
+7x and positive FOCF of about $5 million, as margin headwinds moderate and the company's product mix shifts to
+higher-margin sales.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+TGP Holdings III LLC
+
+Liquidity: Adequate
+We assess Traeger's liquidity as adequate, as liquidity sources will exceed uses by 1.4x over the next 12 months and
+continue to do so if EBITDA were to decline by 15%. We categorize the company's standing in the credit market as
+satisfactory due to its debt trading at par. Although we consider the company to have sound banking relationships, we
+do not categorize them as well established and solid. We also do not believe the company could withstand a
+low-probability, high-impact event without the need to refinance. Such an event could be an economic downturn in the
+U.S. economy, causing consumers to trade down from high-priced grill products or delay or forego discretionary
+grilling-equipment purchases.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• $2.7 million in cash and cash equivalents as of June
+30, 2019;
+
+• $3.4 million in scheduled debt amortization annually
+over each of the next three years;
+
+• $32 million of availability under company's $50
+million revolving facility; and
+
+• $8 million of non-seasonal working capital and
+capex over the next 12 months;
+
+• $26.6 million of cash funds from operations over the
+next 12 months.
+
+• $25 million in seasonal working-capital
+requirements; and
+• Capex of $7.6 million over the next 12 months.
+
+Covenant Analysis
+The revolver has a springing maximum first-lien leverage ratio covenant of 7.4x (no stepdown), when revolver
+borrowings exceed 35% of the total commitment ($17.5 million). The covenant is currently not springing. We expect
+the company to continue to be in compliance, and to have greater than 20% cushion at year-end 2019.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+Our default scenario simulates a default in the first half of 2021 due to operational disruptions, a slowdown in
+discretionary consumer spending, and a significant spike in input costs. These factors lead to significant EBITDA and
+cash-flow deterioration, causing a payment default.
+
+Capital structure
+The company's capital structure consists of a $50 million revolving credit facility maturing in 2022, a $341.4 million
+first-lien term loan maturing in 2024, and a $115 million second-lien term loan maturing in 2025.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+TGP Holdings III LLC
+
+Simulated default assumptions
+• Debt service: $44.1 million (default-year interest plus amortization)
+• Maintenance capex: $1.2 million
+• Default EBITDA proxy: $45.3 million
+• Cyclicality adjustment: $2.3 million (5% of default EBITDA proxy)
+• Preliminary emergence EBITDA: $47.6 million
+• Operational adjustment: $0 million (0% of preliminary emergence EBITDA)
+• Emergence EBITDA: $47.6 million
+
+Simplified waterfall
+• Emergence EBITDA: $47.6 million
+• Multiple: 5.5x
+• Gross recovery value: $261.6 million
+• Net recovery value for waterfall after administrative expenses (5%): $248.5 million
+• Obligor/non-obligor valuation split: 100%/0%
+• Total first-lien claims: $387.9 million
+• Value available for first-lien claims: $248.5 million
+• Recovery range: 50%-70% (rounded estimate: 60%)
+• Total second-lien claims: $121.3 million
+• Value available for second-lien claims: $0 million
+• Recovery range: 0%-10% (rounded estimate: 0%)
+Note: All debt amounts include six months of pre-petition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+TGP Holdings III LLC
+
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Consumer Durables Industry, Dec. 12, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+TGP Holdings III LLC
+
+Ratings Detail (As Of September 26, 2019)*
+TGP Holdings III LLC
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+Issuer Credit Ratings History
+26-Sep-2018
+
+B-/Stable/--
+
+06-Sep-2017
+
+B-/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+

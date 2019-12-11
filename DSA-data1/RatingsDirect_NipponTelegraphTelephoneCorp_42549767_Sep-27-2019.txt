@@ -1,0 +1,772 @@
+Nippon Telegraph & Telephone Corp.
+Primary Credit Analyst:
+Hiroyuki Nishikawa, Tokyo (81) 3-4550-8751; hiroyuki.nishikawa@spglobal.com
+Secondary Contact:
+Makiko Yoshimura, Tokyo (81) 3-4550-8368; makiko.yoshimura@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Nippon Telegraph & Telephone Corp.
+Business Risk: STRONG
+Vulnerable
+
+aa
+
+aa-
+
+aa-
+
+Excellent
+
+AA-/Stable/A-1+
+
+Financial Risk: MINIMAL
+Highly leveraged
+
+Issuer Credit Rating
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Maintenance of an overwhelming market position in Japan's
+fixed-line and fiber-to-the-home (FTTH) markets
+
+A likely increase in downward pressure on the company's consolidated
+profitability due to intensifying competition in the mobile communications
+market
+
+A prospect of maintaining a leading position and solid
+customer base in increasingly competitive mobile
+communications markets
+
+A likelihood of the company's overseas information technology (IT) service
+business, which it focuses on as a growth area, taking time to improve
+profitability, due to fierce competition
+
+World-class technology
+Extremely sound financial standing supported by a strong
+ability to generate cash flow
+Expectation of maintaining sound financial standing amid
+continued high capital expenditure and shareholder returns
+
+Japan-based telecommunications company Nippon Telegraph & Telephone Corp. (NTT) is likely to maintain a leading
+position and a strong customer base in an increasingly competitive domestic mobile communications market. It also
+maintains an overwhelming market position in Japan's fixed-line and FTTH markets. The NTT group has a dominant
+share of about 70% of the domestic fixed-line and FTTH markets. S&P Global Ratings expects the group to maintain
+strong competitiveness in the maturing FTTH business with an increase in its number of customers through
+wholesales services. In the domestic mobile communications market, competition is likely to further intensify due to
+both government initiatives to promote competition and the planned market entry of Japan-based online marketplace
+operator and electronic commerce company Rakuten Inc. However, we think the NTT group can maintain an
+industry-leading position and a solid customer base in the domestic mobile communications market. We hold this view
+because NTT DOCOMO Inc., the group's core mobile communications subsidiary, has high communication quality
+and strong brand recognition. In addition, the company offers a service bundling mobile communications services with
+FTTH services with discounted prices. It also has the capability to reduce its mobile phone rates, given its ample
+EBITDA.
+The group's consolidated profitability will likely recover in the following two years after a temporary decline, which
+stemmed from mobile phone rate cuts. In the next year, we expect the group's consolidated profitability to come under
+pressure arising from substantial cuts in its mobile phone rates and upfront expenses to reduce future costs of its
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Nippon Telegraph & Telephone Corp.
+
+fixed-line business. After next year, profitability will likely improve, though moderately, because of cost reductions and
+other factors. The NTT group's profitability is slightly lower than that of global major peers, which we consider a
+constraint on our ratings on the company. We expect downward pressure on the ratings to increase if the group's
+profitability falls below our assumptions or the profitability's recovery will be delayed by intensifying competition in
+the mobile communications business.
+We project the NTT group will maintain extremely sound financial standing supported by its ability to generate very
+strong cash flow. The group plans to step up capital investments in next-generation 5G mobile wireless products and
+services as well as overseas investment. At the same time, we expect the group to make efforts to improve efficiency
+in investment through the use of existing 4G infrastructure. The group is likely to continue to undertake an aggressive
+shareholder return policy. Even so, we expect it to maintain its extremely sound financial standing, under a
+conservative financial policy thanks to use of strong consolidated cash flow.
+
+Outlook: Stable
+
+The stable outlook on NTT reflects our view that the group's consolidated profitability will temporarily decline in
+the next year or so due to mobile phone rate cuts and intensifying competition in its mobile communications
+business but will recover in the following two years or so, because of cost reductions. We believe the NTT group
+can sustain its leading position and high competitiveness in domestic telecommunications by maintaining its solid
+customer base through price cuts. We also expect the NTT group to maintain its extremely sound financial
+standing in the immediate future under prudent financial management.
+
+Downside scenario
+We may consider downgrading NTT if competition in fixed-line and mobile communications markets continues to
+intensify, significantly weakening the group's market position; or if its consolidated EBITDA margin is highly likely
+to fall below 27% for a sustained period despite efforts to cut costs. We may also lower the rating if we see a
+greater likelihood of NTT's ratio of debt to EBITDA consistently exceeding 1.5x. This could occur, for example, as
+a result of a deterioration of earnings, or aggressive investments or shareholder returns. A downgrade would also
+be possible if we concluded that material changes to regulations would significantly weaken the group's credit
+quality.
+
+Upside scenario
+Conversely, we may raise the rating if competitive pressure on the NTT group's main businesses eases and we
+anticipate material improvement in its market positions and profitability. However, we think this scenario is
+unlikely for the foreseeable future given the current severe competitive environment and the group's slightly lower
+profitability than the global average in the industry.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Nippon Telegraph & Telephone Corp.
+
+Assumptions
+
+Key Metrics
+
+• Real GDP growth in Japan of 0.8% in 2019 and 0.1%
+in 2020 (June 2019 estimates).
+
+2018A
+EBITDA margin (%)
+
+• A moderate increase in NTT DOCOMO's mobile
+communications subscriptions, supported by
+subscribers' increasing use of multiple devices.
+• Intensifying competition in the domestic mobile
+communications market as Rakuten enters the
+market and the government pursues initiatives to
+promote competition in that market.
+
+Debt/EBITDA (x)
+FFO/debt (%)
+
+2019F
+
+2020F
+
+27.7 About 26 About 27
+1.2
+
+1.3-1.5
+
+1.3-1.5
+
+64.5 About 60 About 60
+
+All figures are S&P Global Ratings-adjusted. A--Actual.
+F--Forecast. All years are fiscal, ending March 31 of the
+following year.
+
+• A moderate decline in revenue and EBITDA margin
+for the NTT group's mobile communications
+business in the next year or so due to substantial
+cuts in mobile phone rates, and a slight recovery of
+its profitability afterward, thanks to cost reductions
+and other factors.
+• A continued decrease in operating revenue in its
+regional communications business due to persistent
+decline in revenue from fixed-line telephony.
+• A minor decline in EBITDA margin in its regional
+communications business in the next year or so due
+to lower profits and upfront expenses to reduce
+future costs, followed by a slight margin recovery,
+stemming from cost reductions and other factors.
+• A gradual increase in revenue in its IT service
+business thanks to measures to enhance earnings
+and reduce costs, especially in overseas operations,
+leading to moderate improvement in EBTDA
+margin.
+• Annual consolidated capital expenditure of about
+¥1.7 trillion.
+• Major shareholder returns that are mostly affordable
+given the company's free operating cash flow
+(FOCF).
+
+Company Description
+NTT is a pure holding company that controls a number of operating subsidiaries. The NTT group of companies is
+Japan's largest communications operator, and it covers:
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Nippon Telegraph & Telephone Corp.
+
+• Regional communications (Nippon Telegraph and Telephone East Corp. [NTT East] and Nippon Telegraph and
+Telephone West Corp. [NTT West]);
+• Long-distance and international communications (NTT Communications Corp.);
+• Mobile communications (NTT DOCOMO Inc. [AA-/Stable/A-1+]); and
+• Data communications (NTT DATA Corp.).
+The NTT group controls roughly 70% of the domestic FTTH market.
+
+Financial summary
+Table 1
+
+Nippon Telegraph & Telephone Corp. -- Financial Summary
+--Fiscal year*-(Mil. ¥)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenues
+
+11,879,842
+
+11,791,994
+
+11,382,026
+
+11,531,293
+
+11,086,351
+
+EBITDA
+
+3,290,375
+
+3,401,559
+
+3,354,314
+
+3,427,688
+
+3,244,344
+
+FFO
+
+2,624,629
+
+2,782,155
+
+2,839,492
+
+3,035,059
+
+2,647,781
+
+Interest Expense
+
+38,055
+
+45,714
+
+49,688
+
+53,287
+
+55,259
+
+Cash Interest Paid
+
+52,045
+
+45,788
+
+49,266
+
+53,243
+
+56,038
+
+Cash flow from operations
+
+2,442,489
+
+2,667,157
+
+2,946,116
+
+2,739,441
+
+2,415,377
+
+Capital expenditures
+
+1,671,121
+
+1,707,011
+
+1,698,454
+
+1,633,770
+
+1,799,184
+
+771,368
+
+960,146
+
+1,247,662
+
+1,105,671
+
+616,193
+
+Free operating cash flow
+Discretionary cash flow
+
+57,528
+
+453,171
+
+625,232
+
+811,565
+
+78,024
+
+Cash and short-term investments
+
+946,134
+
+811,941
+
+989,057
+
+1,121,351
+
+885,516
+
+Gross available cash
+
+946,134
+
+811,941
+
+989,057
+
+1,121,351
+
+885,516
+
+Debt
+
+4,066,113
+
+3,565,933
+
+3,655,515
+
+3,594,271
+
+3,865,078
+
+11,728,394
+
+11,959,516
+
+11,442,281
+
+11,159,310
+
+10,962,669
+
+EBITDA margin (%)
+
+27.7
+
+28.8
+
+29.5
+
+29.7
+
+29.3
+
+Return on capital (%)
+
+11.5
+
+12.4
+
+12.0
+
+10.6
+
+9.3
+
+EBITDA interest coverage (x)
+
+86.5
+
+74.4
+
+67.5
+
+64.3
+
+58.7
+
+FFO cash interest coverage (x)
+
+51.4
+
+61.8
+
+58.6
+
+58.0
+
+48.2
+
+1.2
+
+1.0
+
+1.1
+
+1.0
+
+1.2
+
+FFO/debt (%)
+
+64.5
+
+78.0
+
+77.7
+
+84.4
+
+68.5
+
+Cash flow from operations/debt (%)
+
+60.1
+
+74.8
+
+80.6
+
+76.2
+
+62.5
+
+Free operating cash flow/debt (%)
+
+19.0
+
+26.9
+
+34.1
+
+30.8
+
+15.9
+
+Discretionary cash flow/debt (%)
+
+1.4
+
+12.7
+
+17.1
+
+22.6
+
+2.0
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+FFO--Funds from operations. *Fiscal years end March 31 of the following year.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+AA-/Stable/A-1+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Nippon Telegraph & Telephone Corp.
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Minimal
+
+• Cash flow/Leverage: Minimal
+Anchor: aa
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : aa-
+
+• Related government rating: A+
+• Likelihood of government support: Low (no impact)
+• Rating above the sovereign: (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Methodology: The Impact Of Captive Finance Operations On Nonfinancial Corporate Issuers, Dec. 14, 2015
+• Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers, Dec. 16, 2014
+• Key Credit Factors For The Telecommunications And Cable Industry, June 22, 2014
+• Ratings Above The Sovereign--Corporate And Government Ratings: Methodology And Assumptions, Nov. 19, 2013
+• Methodology: Industry Risk, Nov. 19, 2013
+• Corporate Methodology, Nov. 19, 2013
+• Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Nippon Telegraph & Telephone Corp.
+
+• Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+Strong
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 26, 2019)*
+Nippon Telegraph & Telephone Corp.
+Issuer Credit Rating
+
+AA-/Stable/A-1+
+
+Commercial Paper
+Local Currency
+
+A-1+
+
+Senior Secured
+
+AA-
+
+Issuer Credit Ratings History
+20-Jan-2015
+
+Foreign Currency
+
+AA-/Stable/A-1+
+
+28-Jan-2013
+
+AA/Negative/A-1+
+
+21-May-2007
+
+AA/Stable/A-1+
+
+20-Jan-2015
+
+Local Currency
+
+AA-/Stable/A-1+
+
+28-Jan-2013
+
+AA/Negative/A-1+
+
+21-May-2007
+
+AA/Stable/A-1+
+
+Related Entities
+NTT DOCOMO Inc.
+Issuer Credit Rating
+
+AA-/Stable/A-1+
+
+Commercial Paper
+Local Currency
+
+A-1+
+
+Senior Unsecured
+
+AA-
+
+NTT Finance Corp.
+Issuer Credit Rating
+
+AA-/Stable/A-1+
+
+Commercial Paper
+Local Currency
+
+A-1+
+
+Senior Unsecured
+
+AA-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+

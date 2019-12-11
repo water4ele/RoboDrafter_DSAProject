@@ -1,0 +1,1599 @@
+Viasat Inc.
+Primary Credit Analyst:
+Chris Mooney, CFA, New York (1) 212-438-4240; chris.mooney@spglobal.com
+Secondary Contact:
+Justin D Gerstley, CFA, New York (1) 212-438-1890; justin.gerstley@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Viasat Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb-
+
+bb-
+
+bbBB-/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Participation in growth markets
+
+Increasing supply of satellite capacity industrywide
+
+Well positioned, albeit in niche markets
+
+High capital intensity results in significantly negative free operating cash flow (FOCF)
+for at least the next two years
+
+Favorable mix among residential, mobility, and
+government customers
+
+Potential for increased competition from low-earth orbit (LEO) constellations in
+development
+Potential for launch or in-orbit failures
+International opportunities may not materialize
+
+Almost half of ViaSat's revenue comes from the government segment.
+Demand from this segment is influenced by unstable geopolitical factors, and contracts can be terminated abruptly if
+defense budgets are cut. We also believe demand for certain products, such as radios, can be lumpy and correlated to
+wartime spending. However, the risk of contract cancellation is mitigated by good program diversity and participation
+in the high-priority communications and cybersecurity areas of defense spending. Furthermore, Viasat has
+demonstrated an ability to capture new awards and grow revenue significantly over the past decade, which we expect
+will continue.
+
+Viasat is targeting niche addressable markets that have room for growth, including residential
+broadband and in-flight connectivity (IFC).
+We forecast an addressable market of about 10 million-12 million households in the U.S. that cannot be served by
+terrestrial networks in an economically efficient manner due to their rural location. Based on this forecast, we think this
+market is roughly 25% penetrated by ViaSat and Hughes, which provides future growth prospects for the company
+given the increasing importance of internet in the lives of consumers. Separately, the majority of airlines outside the
+U.S. still do not have an in-flight Wi-Fi provider, presenting a significant opportunity for growth for years to come if
+Viasat can continue to secure new awards.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Viasat Inc.
+
+Investments in global capacity will result in elevated capital spending for at least the next three
+years, requiring access to capital.
+We expect capex to increase in fiscal year ending March 31, 2020 to around $750 million-$850 million as construction
+on the ViaSat-3 constellation and related investments in ground infrastructure picks up. In addition, customer premise
+equipment investments will also likely increase moderately with broadband gross additions. Therefore, we expect a
+cumulative cash burn of at least $1 billion through 2022 that will likely need to be funded through external sources
+given the company's cash and revolver availability was around $810 million as of June 30, 2019.
+
+The industry could face longer-term oversupply from new satellites.
+The current very high throughput satellites (VHTS) in development that both Hughes and ViaSat expect to launch in
+2021 will drastically increase the amount of bandwidth available over the Americas. While this will enable faster
+internet speeds, enabling opportunities to increase average revenue per user (ARPU), there is the potential for price
+compression if subscriber growth does not materialize. Separately, there are several LEO constellations in
+development that aim to target the global in-home and in-flight broadband markets. While the LEO business case is
+challenged by inherent inefficiencies of stranded capacity over oceans, if one or more of the constellations gains
+funding, we believe increased competition could limit earnings growth potential for Viasat longer term.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that leverage will remain between 3x-4x over the next year as
+meaningful earnings growth is offset by higher net debt to fund investments in ViaSat-3. However, we expect
+FOCF to remain significantly negative for at least the next two years.
+
+Downside scenario
+We could lower the rating if operational performance weakens due to competitive pressures in the satellite services
+segment, causing elevated churn and pricing pressure such that leverage rises above 5x.
+
+Upside scenario
+Although unlikely over the next year, we could raise the rating if the company generates positive FOCF on a
+sustained basis, with leverage below 4x. It would also need to demonstrate the profitable capture of new business
+opportunities justifying an adequate return on investment for the ViaSat-3 constellation.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Viasat Inc.
+
+Assumptions
+
+• Performance is less susceptible to adverse
+macroeconomic conditions and more affected by
+secular trends including increasing demand for
+bandwidth among residential consumers, airline
+passengers, and government agencies.
+• Revenue growth of 10%-15% per year over the next
+two years driven by an increase in government
+revenues, more commercial aircraft entering service,
+and higher residential ARPU.
+
+Key Metrics
+
+2019A
+
+2020E
+
+2021F
+
+Debt to EBITDA (x)
+
+4.0
+
+3.0-3.5
+
+3.0-3.5
+
+FFO to debt (%) (%)
+
+18.3
+
+25-30
+
+25-30
+
+FOCF to debt (%)
+
+(15) (15)-(20) (15)-(20)
+
+A—Actual. E—Estimate. F—Forecast. FFO—Funds
+from operations. FOCF—Free operating cash flow.
+
+• EBITDA gradually improving to 25% by fiscal year
+ending March 31, 2020 and 26% in 2021 from about
+21% currently due to higher volumes as the
+company's cost base is largely fixed.
+• Capex to revenue of around 35% over the next two
+years as the company invests in the ViaSat-3
+constellation.
+
+Base-case projections
+Residential broadband subscriber growth remains soft, but ARPU remains robust.
+We believe the satellite anomaly with ViaSat-2 has impaired residential growth. It reduced capacity on the satellite to
+260 Gbps compared to its initial estimate of 300 Gbps, resulting in the company focusing more on higher-value plans
+and less on volume growth. Therefore, we project only modest subscriber growth of about 2%-3% per year with
+pricing rising 3%-5% as customers move up-tier. Overall, we project in-home broadband revenue (which accounts for
+the majority of satellite services revenue) to grow by about 5%-7% per year through 2020.
+
+Nonresidential broadband growth continues to accelerate substantially.
+The number of planes in service is now 1,335 as of June 30, 2019, up 76% year over year, which supports our forecast
+for revenue growth of more than 100% in fiscal 2020. We expect net adds of 375-400 in 2020 based on backlog of 510
+planes, which should drive further growth in 2021 of about 50%. New verticals such as community Wi-Fi and
+enterprise also continue to grow.
+
+Company Description
+ViaSat primarily provides satellite broadband services to residential customers in North America and governments and
+enterprises globally, including commercial airlines. The company provides satellite broadband services in North
+America through three owned satellites and leases global satellite capacity to provide international services. ViaSat put
+its second-generation high-throughput satellite (ViaSat-2) in service in February 2018, and has begun construction on
+the ViaSat-3 constellation, including three satellites that will cover the Americas, EMEA, and Asia-Pacific, to be
+launched in that order.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Viasat Inc.
+
+Business Risk: Fair
+We primarily consider the narrow market for satellite broadband services, the company's limited scale relative to
+global satellite service providers, and significant revenue concentration from the U.S. government. These factors are
+somewhat offset by our view that ViaSat-2 will support growth over the next few years due to additional capacity and
+speed capabilities, notably helping to further scale its IFC business and improve revenue diversity.
+We believe the addressable market in the U.S. for residential satellite broadband is limited because around 90% of
+homes are served by cable operators, which mostly offer faster data speeds, cheaper service, and higher data caps.
+Furthermore, rural demographics that the company targets are unfavorable in the sense that disposable income tends
+to be below the national average and many customers place a lower value on the importance of internet. Still, we
+believe that broadband adoption in these markets will increase over time and ViaSat will be able to further penetrate
+the existing residential broadband satellite market and, to some degree, expand the addressable market by capturing
+digital subscriber line (DSL) customers that have slower speeds. ViaSat primarily faces competition from Hughes
+Satellite Systems Corp. in the U.S., where Hughes has about two-thirds share of the residential market and ViaSat has
+about one-third. Hughes put its high-throughput satellite (Jupiter 2) in service significantly ahead of ViaSat's (in March
+2017), although ViaSat-2 offers speeds up to 100 Mbps compared to speeds of 25 Mbps from Jupiter 2.
+We believe the additional capacity and speed capabilities of ViaSat-2 will support the company's growth over the next
+few years. With a greater percentage (25%-50%) of capacity dedicated to commercial applications on ViaSat-2 than
+ViaSat-1 (under 10%), we expect revenue growth from commercial applications will outpace revenue growth from
+residential broadband. ViaSat competes globally with Panasonic, Thales, Gogo, Global Eagle and Inmarsat for IFC. We
+believe Viasat is well positioned in North America as a vertically integrated provider and will be able compete more
+effectively globally once ViaSat-3 satellites are launched over EMEA and Asia, planned for 2021 and 2022,
+respectively. However, we also consider that as a later entrant to IFC, with limited global coverage for many years,
+and with a shorter track record relative to the competition Viasat may find it difficult to take share from rivals.
+ViaSat generates around 26% of revenue from the U.S. government, which despite healthy performance, in our view,
+carries the risk of volatility amid potential budgetary constraints and uncertain political trends. However, given current
+demand for global mobile broadband and information security, we believe the company can leverage its existing
+relationships with various branches of the government to increase government revenue.
+Viasat plans to launch its next constellation of ultra high throughput satellites in the coming years, called ViaSat-3.
+This constellation will have 8x the capacity of Viasat's current fleet combined, with each satellite expected to offer
+over 1 Terabit per second (Tbps). We expect that the ViaSat-3 fleet will accelerate growth in satellite services including
+consumer broadband, IFC, and enterprises over the coming years both domestically and internationally. As the
+company creates truly global coverage it will be able to expand into new verticals and geographies while also
+supplementing existing segments. However, there is still a significant amount of execution risk associated with this
+strategy beginning with risk of satellite failure. In order to mitigate this risk, Viasat carries launch insurance should a
+satellite fail and it also carries in-orbit insurance on ViaSat-2, ViaSat-1, and WildBlue-1 and intends to seek in-orbit
+insurance for the ViaSat-3 fleet.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Viasat Inc.
+
+Peer comparison
+Table 1
+
+Viasat Inc.--Peer Comparison
+Industry Sector: Satellite
+Hughes
+Satellite
+Viasat Inc. Systems Corp.
+Ratings as of Sept.
+11, 2019
+
+BB-/Stable/--
+
+BB/Stable/--
+
+--Fiscal year
+ended March
+31, 2019--
+
+Gogo Inc.
+
+Inmarsat PLC
+
+Speedcast
+International
+Ltd.
+
+CCC+/Negative/--
+
+BB/Watch Neg/--
+
+B/Watch Neg/--
+
+Global Eagle
+Entertainment Inc.
+CCC/Developing/--
+
+--Year ended Dec. 31, 2018--
+
+(Mil. $)
+Revenue
+
+2,068.3
+
+2,097.7
+
+893.8
+
+1,465.2
+
+623.1
+
+647.1
+
+EBITDA
+
+449.2
+
+1,056.9
+
+235.2
+
+785.2
+
+130.4
+
+125.0
+
+Funds from
+operations (FFO)
+
+329.1
+
+761.3
+
+74.7
+
+623.3
+
+82.6
+
+20.1
+
+Interest expense
+
+133.2
+
+300.0
+
+182.5
+
+149.1
+
+30.3
+
+119.1
+
+Cash interest paid
+
+118.3
+
+290.8
+
+160.1
+
+164.2
+
+33.0
+
+97.1
+
+Cash flow from
+operations
+
+356.0
+
+858.8
+
+(30.4)
+
+557.5
+
+73.6
+
+3.7
+
+Capital
+expenditure
+
+647.3
+
+416.7
+
+108.2
+
+547.0
+
+61.2
+
+43.5
+
+Free operating
+cash flow (FOCF)
+
+(291.4)
+
+442.1
+
+(138.6)
+
+10.5
+
+12.5
+
+(39.8)
+
+Discretionary cash
+flow (DCF)
+
+(320.2)
+
+442.1
+
+(138.6)
+
+(59.6)
+
+(0.3)
+
+(39.8)
+
+261.7
+
+2,457.0
+
+223.5
+
+288.9
+
+68.9
+
+39.2
+
+Debt
+
+1,796.7
+
+1,567.9
+
+1,805.0
+
+2,248.0
+
+675.7
+
+1,549.8
+
+Equity
+
+1,916.1
+
+2,392.5
+
+(268.8)
+
+1,336.8
+
+281.8
+
+(226.3)
+
+EBITDA margin
+(%)
+
+21.7
+
+50.4
+
+26.3
+
+53.6
+
+20.9
+
+19.3
+
+Return on capital
+(%)
+
+(0.4)
+
+10.9
+
+2.2
+
+8.8
+
+5.4
+
+(9.8)
+
+EBITDA interest
+coverage (x)
+
+3.4
+
+3.5
+
+1.3
+
+5.3
+
+4.3
+
+1.0
+
+FFO cash interest
+coverage (x)
+
+3.8
+
+3.6
+
+1.5
+
+4.8
+
+3.5
+
+1.2
+
+Cash and
+short-term
+investments
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.0
+
+1.5
+
+7.7
+
+2.9
+
+5.2
+
+12.4
+
+FFO/debt (%)
+
+18.3
+
+48.6
+
+4.1
+
+27.7
+
+12.2
+
+1.3
+
+Cash flow from
+operations/debt
+(%)
+
+19.8
+
+54.8
+
+(1.7)
+
+24.8
+
+10.9
+
+0.2
+
+FOCF/debt (%)
+
+(16.2)
+
+28.2
+
+(7.7)
+
+0.5
+
+1.8
+
+(2.6)
+
+DCF/debt (%)
+
+(17.8)
+
+28.2
+
+(7.7)
+
+(2.7)
+
+(0.0)
+
+(2.6)
+
+• We view Viasat's business somewhat more favorably than Hughes' due to better diversification of services. Hughes
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Viasat Inc.
+
+primarily focuses on the residential satellite broadband market in the U.S. where it competes directly with Viasat.
+Both companies have recently put new high-throughput satellites over North America with greater data speeds and
+caps to support growth. However, the two companies are pursuing different strategies. ViaSat has made a
+commitment to expand globally through ViaSat-3, which requires significant capital, leading to negative free
+operating cash flow and leverage currently between 3x-4x. Alternatively, Hughes has over $2 billion of cash on its
+balance sheet and has committed thus far to build one additional satellite over North America. While it has appetite
+for mergers and acquisitions, its stronger financial profile and positive cash generation result in a higher rating than
+on ViaSat.
+• We view Viasat's business more favorably than that of Gogo and Global Eagle, which compete directly with Viasat
+in commercial aviation. Both of these companies lease capacity from other satellite providers and both are highly
+leveraged with tight liquidity profiles. Despite declining wholesale rates, we believe limited ability to purchase
+additional capacity necessary to compete more effectively presents a challenge for these two companies.
+• Speedcast leases satellite capacity to provide mobility solutions. We view the company's business as comparatively
+weaker given the company's niche focus as a reseller of capacity in the maritime and energy mobility sectors, where
+competition is expected to increase, and the company's customer concentration in the maritime space with Carnival
+and Royal Caribbean.
+• While we believe ViaSat-3 will improve the company's product offerings and scale, its current size and the
+geographic reach of its satellite fleet are much more limited than that of global satellite service providers such as
+Intelsat and Inmarsat.
+
+Financial Risk: Aggressive
+We expect debt to EBITDA --which was 3.6x for the 12 months ended June 30, 2019--to remain in the 3x-4x range
+over the next 2-3 years, as earnings growth of 40%-50% in 2020 and 10%-20% in 2021 and 2022 is offset by increasing
+debt to fund capital investments.
+While we believe it is prudent to invest in enhanced satellite capability and coverage, it is unclear when cash flow will
+turn positive. Under our base case, we project a cash flow deficit of $300 million-$400 million per year over the next
+two years as the company funds the ViaSat-3 constellation. However, management plans to invest in ViaSat-4 longer
+term, which should have similar or better relative productivity advances as prior generations. The architecture will be
+scalable, which would allow VSAT-4 to be compatible with existing ground infrastructure and lower research and
+development costs, but the timing and amount of related capex in uncertain. While FOCF will be negative for the
+foreseeable future, other credit metrics are relatively strong for the rating, including funds from operations (FFO) to
+debt projected around 25% and EBITDA interest coverage projected above 4x.
+
+Financial summary
+Table 2
+
+Viasat Inc.--Financial Summary
+Industry Sector: Satellite
+June 2019 March 2019 December 2018 September 2018 June 2018
+(Mil. $)
+Revenue
+
+537.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+557.2
+
+554.7
+
+517.5
+
+438.9
+
+SEPTEMBER 20, 2019 7
+
+Viasat Inc.
+
+Table 2
+
+Viasat Inc.--Financial Summary (cont.)
+Industry Sector: Satellite
+June 2019 March 2019 December 2018 September 2018 June 2018
+EBITDA
+
+112.6
+
+138.8
+
+127.7
+
+97.9
+
+63.1
+
+Funds from operations (FFO)
+
+96.6
+
+80.8
+
+102.1
+
+80.5
+
+46.9
+
+Interest expense
+
+27.1
+
+30.8
+
+40.5
+
+31.5
+
+27.5
+
+Cash interest paid
+
+16.0
+
+56.2
+
+25.6
+
+17.5
+
+16.2
+
+Cash flow from operations
+
+45.9
+
+119.7
+
+98.4
+
+60.7
+
+58.3
+
+Capital expenditure
+
+176.8
+
+152.3
+
+153.6
+
+188.9
+
+152.6
+
+Free operating cash flow (FOCF)
+
+(130.8)
+
+(32.6)
+
+(55.1)
+
+(128.2)
+
+(94.3)
+
+Discretionary cash flow (DCF)
+
+(133.2)
+
+(33.3)
+
+(76.7)
+
+(128.8)
+
+(100.3)
+
+Cash and short-term investments
+
+129.9
+
+261.7
+
+43.4
+
+44.5
+
+54.8
+
+Gross available cash
+
+129.9
+
+261.7
+
+43.4
+
+44.5
+
+54.8
+
+Debt
+
+1,615.7
+
+1,796.7
+
+1,725.8
+
+1,765.2
+
+1,673.5
+
+Equity
+
+1,973.3
+
+1,916.1
+
+1,886.0
+
+1,884.3
+
+1,891.9
+
+Adjusted ratios
+EBITDA margin (%)
+
+21.0
+
+21.7
+
+18.7
+
+17.5
+
+17.9
+
+Return on capital (%)
+
+0.7
+
+(0.4)
+
+(1.6)
+
+(2.5)
+
+(2.4)
+
+EBITDA interest coverage (x)
+
+3.5
+
+3.4
+
+2.9
+
+2.8
+
+2.8
+
+FFO cash interest coverage (x)
+
+3.9
+
+3.8
+
+4.2
+
+3.6
+
+3.1
+
+Debt/EBITDA (x)
+
+3.6
+
+4.0
+
+4.7
+
+5.7
+
+5.7
+
+20.9
+
+18.3
+
+16.0
+
+12.6
+
+11.8
+
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+18.7
+
+19.8
+
+16.9
+
+16.1
+
+15.0
+
+FOCF/debt (%)
+
+(22.9)
+
+(16.2)
+
+(21.2)
+
+(20.9)
+
+(18.7)
+
+DCF/debt (%)
+
+(24.4)
+
+(17.8)
+
+(22.9)
+
+(22.5)
+
+(20.4)
+
+Liquidity: Adequate
+We expect sources of liquidity will exceed uses by about 1.5x over the next 12 months and net sources would remain
+positive, even with a 15% decline in forecasted EBITDA. We believe the company has enough liquidity to fund capital
+investments over the next year, but that it will require external capital over the next 2-3 years. We believe the
+company will have access to capital given its relatively low leverage and healthy growth rates, but it could pull back
+significantly on capital spending if necessary.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Viasat Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of $129 million as of June 30, 2019.
+
+• Capex of $750 million to $850 million over the next
+year.
+
+• Revolver availability of $681 million as of June 30,
+2019.
+• FFO of $450 million to $500 million over the next 12
+months.
+
+• $20 million of required debt repayment over the
+next year under the export-import facility due 2025.
+
+Debt maturities
+In addition to the $127 million export-import facility, the company has $700 million of notes due 2025 and $600
+million due 2027.
+
+Covenant Analysis
+Compliance expectations
+We believe Viasat will maintain at least a 15% cushion against its covenants over the next year.
+
+Requirements
+The company's credit facilities include financial covenants, including a maximum total leverage covenant of 4.75x
+(which increases to 5.25x for six quarters following a satellite launch) and a minimum interest coverage covenant of
+3.25x.
+
+Issue Ratings - Recovery Analysis
+The '1' recovery on Viasat's $600 million 5.625% secured notes due 2027 reflects our expectation for very high
+(90%-100%) recovery in a simulated default. The issue-level rating is 'BB+'.
+The '6' recovery rating on ViaSat's $700 million 5.625% senior unsecured notes due 2025 indicates our expectation for
+negligible (0%-10%; rounded estimate: 5%) recovery for lenders in the event of a payment default. The issue-level
+rating is 'B'.
+The company's revolving credit facility and export-import credit facility are currently unrated.
+
+Key analytical factors
+• Our simulated default scenario contemplates heightened competitive pressures from terrestrial network providers,
+satellite operators, and satellite service providers, which leads to increased churn and pricing pressure. This, in
+conjunction with high operating costs associated with near-term satellite launches, erodes profitability. This would
+cause the company's cash flow to decline to the point that it cannot cover its fixed charges (interest expense,
+required amortization, and minimum maintenance capital expenditures), and eventually lead to a default in 2022.
+• Other default assumptions include an 85% draw on the revolving credit facility; no future draws on the
+export-import facility and required amortization payments of $20 million annually; the spread on the revolving
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+Viasat Inc.
+
+credit facility rises to 5% as covenant amendments are obtained; and all debt includes six months of prepetition
+interest.
+• The export-import facility is assumed to have $90 million outstanding at default. This facility is directly
+collateralized by ViaSat-2 so the secured notes are subordinated to the export-import facility with respect to the
+value of ViaSat-2. In the event that ViaSat-2 is insufficient to meet the export-import claims, then the export-import
+facility would share ratable with the unsecured noteholders with respect to the remaining value. We believe
+ViaSat-2 value exceeds $90 million and therefore have shown the export-import facility as a priority claim ahead of
+the secured notes for simplicity.
+• We have valued the company on a going-concern basis using a 6x multiple of our projected emergence EBITDA to
+reflect the company's satellite assets and customer relationships, which is in line with that of most other satellite
+operators we rate.
+
+Simulated default assumptions
+• Default year: 2022
+• EBITDA at emergence: $242 million
+• EBITDA multiple: 6x
+
+Simplified waterfall
+• Gross recovery value: $1.45 billion
+• Net recovery value for waterfall after administrative expenses (5%): $1.37 billion
+• Obligor/nonobligor valuation split: 100%/0%
+• Priority claim on ViaSat-2: $90 million
+• Value available for senior secured debt: $1.28 billion
+• Estimated senior secured debt: $1.24 billion
+• --Recovery expectations: 90%-100% (rounded estimate: 95%)
+• Value available for senior unsecured: $40 million
+• Estimated senior unsecured debt: $720 million
+• --Recovery expectations: 0%-10% (rounded estimate: 5%)
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+Viasat Inc.
+
+Table 3
+
+Reconciliation Of Viasat Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--12 months ended June 30, 2019-Viasat Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+1,402.6
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+1,963.2
+
+2,166.4
+
+310.6
+
+(14.2)
+
+49.9
+
+453.9
+
+320.2
+
+--
+
+716.1
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1.8)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(35.1)
+
+--
+
+--
+
+--
+
+338.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+Operating leases
+
+--
+
+--
+
+--
+
+61.6
+
+35.5
+
+35.5
+
+(35.5)
+
+26.1
+
+--
+
+--
+
+(129.9)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized
+interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+44.6
+
+(44.6)
+
+(44.6)
+
+--
+
+(44.6)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+81.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+4.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+10.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+4.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+213.1
+
+10.1
+
+0.0
+
+143.3
+
+39.9
+
+80.1
+
+(117.0)
+
+(18.5)
+
+0.0
+
+(44.6)
+
+Accessible cash
+and liquid
+investments
+
+Debt: Workers
+compensation/self
+insurance
+Total
+adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+1,615.7
+
+Equity Revenue EBITDA
+1,973.3
+
+2,166.4
+
+453.9
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+25.7
+
+130.0
+
+336.9
+
+301.7
+
+--
+
+671.5
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB-/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 11
+
+Viasat Inc.
+
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb-
+
+Related Criteria
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 12
+
+Viasat Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 20, 2019)*
+Viasat Inc.
+Issuer Credit Rating
+
+BB-/Stable/--
+
+Senior Secured
+
+BB+
+
+Senior Unsecured
+
+B
+
+Issuer Credit Ratings History
+21-Jun-2017
+
+BB-/Stable/--
+
+11-Feb-2016
+
+B+/Positive/--
+
+15-Feb-2012
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 14
+
+

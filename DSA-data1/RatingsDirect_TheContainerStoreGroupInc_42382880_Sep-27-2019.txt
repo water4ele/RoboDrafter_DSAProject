@@ -1,0 +1,1250 @@
+The Container Store Group Inc.
+Primary Credit Analyst:
+Cameron Bybee, New York + 1 (212) 438 8298; cameron.bybee@spglobal.com
+Secondary Contact:
+Diya G Iyer, New York (1) 212-438-4001; diya.iyer@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings--Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+The Container Store Group Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Broad assortment of exclusive and unique organization
+merchandise.
+
+Small market share in the highly fragmented storage and organization product
+and service segment.
+
+Positive momentum in the Custom Closets portion of the
+business continues to drive comparable sales growth.
+
+Operating performance susceptible to economic and housing downturns due to
+highly discretionary nature of products sold.
+Leonard Green & Partners' significant ownership of more than 50% of the
+common stock increases the risk of a future leveraging event, in our view.
+
+We expect sales growth from positive comparable sales and modest unit additions will alleviate expected margin
+pressures. We project The Container Store Group (TCS) will report modest sales growth of 2% to 3% for the fiscal year
+ending March 2020. Sales are better as a result of positive momentum from the Custom Closets portion of the
+business, which in fiscal 2018 and the first quarter of 2019 contributed meaningfully to overall comparable sales
+growth, providing an overall lift of 300 and 500 basis points (bps) respectively. We believe this growth will somewhat
+offset margin pressures from increased marketing, unfavorable mix shifts, labor, and direct material costs at Elfa we
+anticipate for the remainder of the year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+The Container Store Group Inc.
+
+Chart 1
+
+The company has taken strategic action to combat Chinese tariffs, but further tariffs are a risk.The Container Store's
+Chinese imports make up roughly 36% of merchandise as of March 30, 2019. The company affirmed its fiscal 2019
+guidance including the impacts of tariffs increasing to 25%. However, there remains a risk that tariffs will be expanded,
+which could negatively affect operating performance to the extent the company cannot absorb the impact or is
+required to increase pricing to preserve margins.
+Credit metrics are improving but we remain cautious on the sustainability of the company's performance. For the fiscal
+year ended March 30, 2019, The Container Store's S&P Global Ratings' adjusted leverage was 3.8x, a meaningful
+decline from 4.6x the year prior. However, we remain cautious on the company's ability to sustain positive
+performance momentum, particularly if the economy slows or enters a recession. In particular, we highlight that
+Custom Closets represent roughly half of the company's sales, with price points ranging from around $1,000 to
+$10,000. We view purchases of Custom Closets merchandise as very discretionary given the high average ticket, and
+thus view The Container Store as more exposed to possible negative impacts from consumer spending declines
+relative to other retailers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+The Container Store Group Inc.
+
+Chart 2
+
+Controlling ownership by a financial sponsor increases the risk of a leveraging event.Leonard Green & Partners'
+continues to hold significant ownership of more than 50%, which weighs on our view of the company's financial risk
+profile given the potential to exercise significant influence over financial policies. We believe the likelihood of debt
+financed shareholder returns or other aggressive actions remains elevated through the next 12 months.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+The Container Store Group Inc.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on The Container Store Group Inc. reflects our expectation for continued
+modest operating performance improvement with generally stable revenue and adjusted EBITDA margins. This
+occurs as the company benefits from maintaining pricing (because of its niche industry position) and continued
+focus on cost controls.
+
+Upside scenario
+We would consider an upgrade if we believe operating performance improvements are sustainable even in a
+pressured macroeconomic environment, leading to adjusted leverage maintained below 4x. This scenario could
+occur if same-store sales increase at a mid-single-digit rate and adjusted EBITDA margins expand by more than
+200 bps from current levels. In addition, we would need to believe the risk of a releveraging event is low, which
+would likely require the private equity sponsor to reduce its ownership stake below 40%.
+
+Downside scenario
+We could lower the ratings if we expect total adjusted debt to EBITDA to increase to above 5.5x. This could occur
+if operating performance and profitability decreased meaningfully due to increased competition from traditional
+and online competitors, and reduced consumer spending.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020
+with unemployment under 4%;
+Debt/EBITDA (x)
+
+• Low-single-digit revenue growth roughly in line with
+our forecast for U.S. GDP due to low-single-digit
+growth in comps and a few store additions for 2019;
+• Gross margins pressure of 10 to 20 bps as the
+company experiences the impact of unfavorable mix
+shift and increased direct material costs;
+
+FFO/Debt (%)
+FFO cash interest coverage (x)
+
+2018A
+
+2019E
+
+2020E
+
+3.8x
+
+High-3.0x
+
+High-3.0x
+
+16.5% High-teens High-teens
+3.1x
+
+High-3.0x
+
+High-3.0x
+
+A--Actual. E—Estimate
+
+• Selling, general, and administrative expenses are
+slightly higher from higher marketing and labor costs
+and expenses related to the new distribution center
+in 2019;
+• Modestly higher capital expenditure of around $40
+million in 2019, declining to around $30 million in
+2020 as the company wraps up spending related to
+the new distribution center.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+The Container Store Group Inc.
+
+Base-Case Projections
+We believe TCS will generate positive free cash flow of about $20 million for 2019. We also expect higher capital
+spending, which includes increased spending related to the completion of its second distribution center. However, our
+forecast for slightly higher operating cash flows leads to free operating cash flow that is roughly flat with fiscal 2018.
+
+Company Description
+TCS is a specialty retailer of storage and organization products operating through 92 retail stores across 33 U.S. states
+and wholly-owned Swedish subsidiary Elfa International that designs and manufactures component-based shelving and
+drawer systems. Financial sponsor Leonard Green & Partners maintains substantial 55% ownership (as of July 5, 2019)
+in the company.
+
+Business Risk: Weak
+TCS has small market share (with about 92 stores) in the fragmented storage and organization segment of the retail
+industry. The company sells highly discretionary products in our view (particularly the custom closets portion of the
+business that represents half of revenue) and faces intense competitive pressures from mass-merchant and online
+retailers in the remaining storage and organization part of business.
+We expect TCS will be able to achieve generally stable operating performance driven by its continued focus on
+growing private-label custom closets while managing expenses. However, our expectations for increased costs lead to
+roughly flat EBITDA over the next 12 months. Gross margin declines at Elfa have historically weighed on overall
+margins, largely due to increases in material costs, which we expect to continue.
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+The Container Store Group Inc.
+
+TCS' key initiative is to maintain current positive momentum in the Custom Closets portion of the business by adding
+a new product line (Avera), rebranding stores, and focus on increasing omnichannel sales. The company has a loyalty
+program (POP!), with roughly 7.7 million members as of the end of the first quarter of 2019, and continues to focus on
+digital spending in line with competitors.
+For fiscal 2019 (year ending March 2020), we project comparable-store sales growth in the low-single digits and a lowto mid-single-digit increase in total sales. This is largely the result of two additional stores opening and a same-store
+sales lift from Custom Closets. Company initiatives, including the expansion of private-label offerings, the
+well-maintained store base, and disciplined pricing strategy will also help maintain modest same-store sales growth
+longer term.
+We assess the comparable rating analysis, which is a holistic view of the stand-alone credit profile, as negative given
+its relatively smaller scale compared with rated peers, highly discretionary merchandise offering that could lead to
+meaningful sales pressure in an unfavorable macroeconomic environment, and weaker operating performance
+compared with industry peers over the past several years.
+
+Peer comparison
+Floor & Decor Holdings Inc. and At Home Group Inc. are higher-rated peers that operate in the hard surface flooring
+and home decor retail segments. Both have historically had greater comparable sales growth, benefitting from their
+position as low cost leaders in their retail segments due to favorable consumer demand and focus on value-priced
+merchandise across all retail categories.
+Table 1
+
+The Container Store Group Inc. -- Peer Comparison
+Industry Sector: Miscellaneous Retailers
+The Container Store Group
+Inc.
+
+Floor & Decor Holdings Inc.
+
+At Home Group Inc.
+
+B/Stable/--
+
+BB-/Stable/--
+
+B+/Negative/--
+
+Ratings as of Aug. 12, 2019
+
+--Fiscal year ended March 30,
+2019--
+
+--Fiscal year ended Dec. 27,
+2018--
+
+--Fiscal year ended Jan. 26,
+2019--
+
+(Mil. $)
+Revenue
+
+895.1
+
+1,709.8
+
+1,165.9
+
+EBITDA
+
+179.3
+
+286.8
+
+282.3
+
+Funds from operations (FFO)
+
+113.8
+
+228.4
+
+178.2
+
+Interest expense
+
+56.2
+
+58.6
+
+90.9
+
+Cash interest paid
+
+53.7
+
+57.3
+
+87.1
+
+114.9
+
+232.9
+
+122.7
+
+Capital expenditure
+
+33.7
+
+151.4
+
+354.4
+
+Free operating cash flow (FOCF)
+
+81.2
+
+81.5
+
+(231.7)
+
+Discretionary cash flow (DCF)
+
+81.1
+
+81.5
+
+(231.7)
+
+Cash flow from operations
+
+Cash and short-term investments
+
+7.4
+
+0.6
+
+11.0
+
+Debt
+
+689.2
+
+1,018.8
+
+1,577.2
+
+Equity
+
+264.7
+
+584.3
+
+711.1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+The Container Store Group Inc.
+
+Table 1
+
+The Container Store Group Inc. -- Peer Comparison (cont.)
+Adjusted ratios
+EBITDA margin (%)
+
+20.0
+
+16.8
+
+24.2
+
+Return on capital (%)
+
+8.4
+
+13.0
+
+8.7
+
+EBITDA interest coverage (x)
+
+3.2
+
+4.9
+
+3.1
+
+FFO cash interest coverage (x)
+
+3.1
+
+5.0
+
+3.0
+
+Debt/EBITDA (x)
+
+3.8
+
+3.6
+
+5.6
+
+FFO/debt (%)
+
+16.5
+
+22.4
+
+11.3
+
+Cash flow from operations/debt
+(%)
+
+16.7
+
+22.9
+
+7.8
+
+FOCF/debt (%)
+
+11.8
+
+8.0
+
+(14.7)
+
+DCF/debt (%)
+
+11.8
+
+8.0
+
+(14.7)
+
+N.M.--Not meaningful
+
+Financial Risk: Aggressive
+Our assessment reflects the company's controlling ownership (about 55% of equity) by Leonard Green. While debt
+leverage was down to 3.8x as of fiscal 2018 from 4.6x the previous year, the controlling ownership by a financial
+sponsor ownership continues to weigh on our view of financial risk given the potential to exercise significant influence
+over financial policies.
+We forecast TCS' funds from operations (FFO) to total debt to be stable in the 16% to 18% range in 2019 and 2020 as
+incremental lease obligations related to new store openings offset modest EBITDA growth. We expect leverage to
+improve only moderately through both earnings growth and debt reduction through required amortization payments.
+
+Financial summary
+Table 2
+
+The Container Store Group Inc. -- Financial Summary
+Industry Sector: Miscellaneous Retailers
+Fiscal year ended March
+2019
+
+2018
+
+2017
+
+2016
+
+Revenue
+
+895.1
+
+857.2
+
+819.9
+
+794.6
+
+EBITDA
+
+179.3
+
+155.1
+
+157.3
+
+133.3
+
+Funds from operations (FFO)
+
+113.8
+
+108.4
+
+106.9
+
+90.1
+
+56.2
+
+53.6
+
+45.0
+
+44.4
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+
+53.7
+
+50.5
+
+42.8
+
+42.3
+
+114.9
+
+118.4
+
+95.9
+
+90.6
+
+Capital expenditure
+
+33.7
+
+27.6
+
+28.5
+
+46.4
+
+Free operating cash flow (FOCF)
+
+81.2
+
+90.7
+
+67.4
+
+44.2
+
+Discretionary cash flow (DCF)
+
+81.1
+
+90.7
+
+67.4
+
+44.2
+
+7.4
+
+8.4
+
+10.7
+
+13.6
+
+Cash flow from operations
+
+Cash and short-term investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 8
+
+The Container Store Group Inc.
+
+Table 2
+
+The Container Store Group Inc. -- Financial Summary (cont.)
+Industry Sector: Miscellaneous Retailers
+Fiscal year ended March
+2019
+Gross available cash
+
+2018
+
+2017
+
+2016
+
+7.4
+
+8.4
+
+10.7
+
+13.6
+
+Debt
+
+689.2
+
+716.2
+
+726.0
+
+738.9
+
+Equity
+
+264.7
+
+248.7
+
+221.8
+
+207.1
+
+EBITDA margin (%)
+
+20.0
+
+18.1
+
+19.2
+
+16.8
+
+Return on capital (%)
+
+8.4
+
+6.6
+
+7.4
+
+5.6
+
+EBITDA interest coverage (x)
+
+3.2
+
+2.9
+
+3.5
+
+3.0
+
+FFO cash interest coverage (x)
+
+3.1
+
+3.1
+
+3.5
+
+3.1
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+3.8
+
+4.6
+
+4.6
+
+5.5
+
+FFO/debt (%)
+
+16.5
+
+15.1
+
+14.7
+
+12.2
+
+Cash flow from operations/debt (%)
+
+16.7
+
+16.5
+
+13.2
+
+12.3
+
+FOCF/debt (%)
+
+11.8
+
+12.7
+
+9.3
+
+6.0
+
+DCF/debt (%)
+
+11.8
+
+12.7
+
+9.3
+
+6.0
+
+N.M.--Not meaningful
+
+Liquidity: Adequate
+We forecast the company will have adequate liquidity for operating needs over the next 12 months, with liquidity
+sources exceeding uses. We believe TCS has sound relationships with its banks, generally satisfactory standing in the
+credit markets, and faces no near-term maturity risks.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Balance sheet cash of $11.4 million as of June 29,
+2019;
+
+• Capital spending of roughly $40 million by
+fiscal-year-end March 2020;
+
+• About $57 million of availability under the $100
+million asset-based loan (ABL) facility; and
+
+• $25 million of estimated seasonal working capital
+outflows; and
+
+• Cash FFO of more than $60 million in the next 12
+months.
+
+• Required debt amortization of about $7 million per
+year.
+
+Debt maturities
+As of fiscal-year-end 2018, the company's debt maturities were as follows. There are no near-term refinancing needs,
+with most debt maturing in 2023.
+• Fiscal 2019: $7 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+The Container Store Group Inc.
+
+• Fiscal 2020: $7 million
+• Fiscal 2021: $7 million
+• Fiscal 2022: $7 million
+• Fiscal 2023: $242 million
+
+Covenant Analysis
+The credit agreement includes a maximum leverage covenant of 5x. In addition, the $100 million ABL revolving credit
+facility is subject to a springing fixed-charge coverage covenant of 1x if the company fails to maintain availability of at
+least $10 million, which we do not expect to be triggered over the next 12 months. We forecast adequate headroom
+under the maximum leverage covenant over the next 12 months.
+
+Issue Ratings--Recovery Analysis
+Key Analytical Factors
+• Our 'B' issue-level rating on the amended $257.4 million senior secured term loan that matures in September 2023 is
+'B'. The recovery rating remains '3', reflecting our expectation for meaningful (50% to 70%; rounded estimate: 65%)
+recovery in the event of default.
+• Our simulated default scenario contemplates a default in 2022, resulting from declines in revenue and EBITDA
+because of increased competition from home furnishing retailers and other discounters, weakness in the housing
+market, a slowdown in the economy that leads to lower consumer discretionary income, and management's
+difficulty executing its growth strategies. These factors all lead to declining demand for storage and custom storage
+products and a loss of market share and require aggressive promotions and discounting to move inventory.
+• Our recovery analysis assumes that, in a hypothetical bankruptcy scenario, the senior secured term loan holders
+would benefit from a first-priority lien on the personal property of the company and subsidiary guarantors that is not
+otherwise pledged as collateral for ABL facility, where the term loan facility has a second-priority lien. We think the
+first-lien term loan lenders would benefit from the first-lien security pledge that includes capital stock of the
+borrower and subsidiary guarantors and 65% of the capital stock of foreign subsidiaries.
+• In addition, we assume the company's Elfa division would not be a party to any bankruptcy proceedings and that
+the associated Elfa debt would be satisfied by the overseas operations.
+• We assume the company emerges from a bankruptcy event and value the company on a going-concern basis using
+a 5x multiple applied to our projected emergence-level EBITDA, in line with other comparable peers in the home
+décor and furniture industry. We estimate a gross emergence value of $233 million.
+• We believe a 47% EBITDA decline (from 2018 levels) or $46.5 million emergence EBITDA level is a prudent
+rebound from a default scenario. This is assuming that if 20% of company's stores close and it is subject to inventory
+clearance at discounted rates with cost cutting, the company could return to the mid-7% EBITDA margin level.
+• After adjusting for the value we attribute to estimated administrative expenses and priority claims (ABL facility), we
+forecast about $164 million in collateral value available to satisfy first-lien term loan claims.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 10
+
+The Container Store Group Inc.
+
+Simulated Default Assumptions
+• Simulated year of default: 2022
+• EBITDA at emergence: $46.5 million
+• Implied EV multiple: 5x
+• Estimated gross EV at emergence of about $232.6 million.
+
+Simplified Waterfall
+• Net EV after 5% administrative costs: $221 million
+• Valuation split % (obligors/nonobligors/unpledged): 100/0/0
+• ABL-related and other priority claims: $57 million
+• Senior secured term loan claims: $252 million
+• --Recovery expectations: 50%-70% (rounded estimate: 65%)
+All debt amounts include six months of prepetition interest. Priority claims includes estimated claims for mortgage
+notes.
+
+Reconciliation
+Table 3
+
+Reconciliation Of The Container Store Group, Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+Fiscal year ended March 30, 2019
+The Container Store Group Inc. reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+267.5
+
+87.6
+
+51.3
+
+27.3
+
+179.3
+
+54.9
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(11.8)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(24.9)
+
+--
+
+410.7
+
+88.7
+
+28.7
+
+28.7
+
+(28.7)
+
+60.0
+
+7.7
+
+0.2
+
+0.2
+
+0.1
+
+--
+
+--
+
+--
+
+2.8
+
+--
+
+--
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Share-based compensation
+expense
+Nonoperating income (expense)
+
+--
+
+--
+
+0.3
+
+--
+
+--
+
+--
+
+Debt: Workers compensation/self
+insurance
+
+2.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Tax liabilities
+
+1.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.1)
+
+(0.1)
+
+--
+
+--
+
+--
+
+421.7
+
+91.7
+
+29.1
+
+28.9
+
+(65.5)
+
+60.0
+
+EBITDA: Gain/(loss) on disposals
+of PP&E
+Total adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+The Container Store Group Inc.
+
+Table 3
+
+Reconciliation Of The Container Store Group, Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+689.2
+
+179.3
+
+80.5
+
+56.2
+
+113.8
+
+114.9
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-5 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : b
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 12
+
+The Container Store Group Inc.
+
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• General Criteria: Rating Implications Of Exchange Offers And Similar Restructurings, Update, May 12, 2009
+• ARCHIVE - Criteria - Corporates - General: 2008 Corporate Criteria: Rating Each Issue, April 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 4, 2019)*
+The Container Store Group, Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Issuer Credit Ratings History
+15-Nov-2013
+
+B/Stable/--
+
+Related Entities
+The Container Store Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 14
+
+

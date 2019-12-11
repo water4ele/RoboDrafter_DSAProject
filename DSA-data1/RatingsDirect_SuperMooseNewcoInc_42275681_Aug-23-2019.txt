@@ -1,0 +1,554 @@
+SuperMoose Newco Inc.
+Primary Credit Analyst:
+Neilson H Lin, New York (1) 212-438-1233; neilson.lin@spglobal.com
+Secondary Contact:
+Christian Frank, San Francisco + 1 (415) 371 5069; christian.frank@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 1
+
+SuperMoose Newco Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Market leader in the public safety and administrative software
+market.
+
+Post-merger integration issues that disrupt business operations and prolong
+restructuring costs.
+
+High recurring revenue and retention rates.
+
+Narrow product focus contributing to smaller scale than other technology
+software companies.
+
+Low customer concentration.
+
+Intensely fragmented and competitive public sector market.
+High adjusted leverage of mid-11x projected by the end of 2019.
+
+2019 results and credit metrics are below expectations due to integration disruption, but recurring revenue and cost
+savings should support improvement in 2020. Performance for SuperMoose Newco Inc. (dba CentralSquare
+Technologies) has fallen below expectations due to business disruption from integration activities following its
+formation from the merger of three predecessor companies (Superion, Aptean, and TriTech) in Aug. 2018. However,
+we believe that high recurring revenue in the low-70% area will support stable revenue performance in 2020 and that
+EBITDA will increase with cost reductions. We expect leverage in the mid-11x area at the end of 2019, above our prior
+estimate in the low-8x area, and that cash flow will be negative due to one-time integration costs. We expect leverage
+to fall to the high-8x area in 2020 with adequate cash flow to support debt service.
+Long replacement cycle of CentralSquare's public market software solutions and growth in cloud revenue will continue
+to drive good recurring revenue. CentralSquare Technologies focuses on public safety and public administrative
+software solutions. The long replacement cycle of these products, an average of 15 years, is due to the highly ingrained
+nature of solutions and the high switching costs for end customers. CentralSquare's cloud revenue also increased to the
+mid-teens percent area of total revenue, which we expect to drive recurring revenue growth.
+We assume annual state and local government software spending to be in the low-single-digit percent area and that
+CentralSquare will outperform that. We believe CentralSquare is one of the market leaders in both public safety and
+public administrative solutions. CentralSquare continues to win new city contracts in its public safety and
+administrative solutions post consolidation. As customers look to migrate off legacy solutions, CentralSquare should
+use its technological expertise to provide newer solutions that drive future growth.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 2
+
+SuperMoose Newco Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our view that CentralSquare will increase EBITDA in 2020 by implementing cost
+reductions and expanding its revenue base along with state and local government software investment spending.
+This will allow the company to generate modest cash flow of $10 million-$30 million annually.
+
+Downside scenario
+We could lower the rating if we come to view the capital structure as unsustainable, which would occur if we think
+CentralSquare is likely to sustain negative cash flow after required debt amortization. This would likely happen if
+cost reductions disrupt the business into 2020, lower service and support quality, or slowing product innovation,
+which could result in customer defections and declining new license sales. This could also occur if state and local
+government customers reduce software investment spending because of an economic downturn that reduces tax
+revenue.
+
+Upside scenario
+Although unlikely over the next year, we could raise the rating if CentralSquare sustains leverage at or below the
+mid-7x area and free operating cash flow (FOCF) to debt above 5%. It would need to implement planned cost
+reductions and sustain them over several quarters without disrupting the business and realizing mid-single-digit
+percent revenue growth.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 3
+
+SuperMoose Newco Inc.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• Real U.S. GDP growth of 2.5% in 2019 and 1.8% in
+2020.
+
+2018A
+Debt to EBITDA (x)
+
+• Annual software industry revenue growth in the
+mid-single-digit percent area.
+• Annual state and local government software
+spending growth in the low-single-digit percent area.
+
+Unadjusted FOCF (Mil. $)
+
+2019E
+
+2020E
+
+low-11 11.3-11.6 8.9-9.1
+N.M.
+
+(35)-(45)
+
+10-30
+
+A--Actual. E--Estimate. FOCF--Free operating cash
+flow. N.M.--Not meaningful.
+
+• Revenue growth in the low- to mid-single-digit
+percentages in 2019, supported by acquisitions but
+below our expectations due to disruption caused by
+its cost restructuring. Low-single–digit percent
+revenue growth thereafter, in line with our
+expectations for the state and local government
+software industry due to cross-selling opportunities,
+supported by high recurring revenue.
+• A modest EBITDA margin decline in 2019 as
+disruption from CentralSquare's cost restructuring
+offset the savings. That increases to above 2018
+levels in 2020 as recurring revenue helps stabilize
+revenue growth and the company continues realizes
+cost savings.
+• Capitalized software development cost treated as an
+operating expense. We do not add back change in
+deferred revenue, but we will make adjustments for
+purchase accounting deferred revenue write downs.
+• Deferred revenue sources that offset working capital
+uses.
+• Annual capital expenditures (capex) and capitalized
+software development totaling 4% of revenues in
+2019.
+• No dividends.
+• No assumptions about acquisitions in our forecast
+because of uncertainty around timing and sizing.
+
+Base-case projections
+We expect operating performance to stabilize in 2020 and that leverage will fall to the high-8x area. We think
+CentralSquare's high recurring revenue in the mid-60% area will support stable revenue performance in 2020 and that
+it will expand EBITDA margins through cost reductions. As a result, we expect leverage to fall to the high-8x area.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 4
+
+SuperMoose Newco Inc.
+
+Cash flow will turn positive in 2020. We expect unadjusted FOCF of negative $35 million-$45 million in 2019, mainly
+as a result of leveraged buyout-related transaction costs. As those roll off and CentralSquare realizes the benefit from
+cost reductions, we expect FOCF to be $10 million-$30 million in 2020.
+
+Company Description
+CentralSquare Technologies provides public safety and public administration software solutions to governments,
+municipalities, public safety agencies, and courts and justice system agencies. Its solutions help customers with
+computer-aided dispatch, records and jail management, finance, and human capital management. CentralSquare is
+owned by financial sponsors Bain Capital and Vista Equity Partners. Its financials are private.
+
+Business Risk: Weak
+Our view reflects CentralSquare's limited operating scale among other technology software companies. CentralSquare
+also has a narrow focus on public sector solutions, which limits its product portfolio diversity. We also believe the
+public sector market is highly fragmented and intensely competitive. Not only do larger and better capitalized
+competitors, such as Motorola and Northrop Grumman, compete with CentralSquare in the overall public solutions
+market, there are also niche competitors such as Hexagon and Tyler Technologies.
+However, we believe CentralSquare has market-leading capabilities that offset some of those risks. Its solutions drive
+an average 15-year customer relationship. We also view favorably the company's mid-60% area recurring revenue,
+over 100% net revenue retention, and very low customer concentration as additional factors that offset business risk.
+
+Financial Risk: Highly leveraged
+Our assessment reflects expected leverage in the mid-11x area as of year-end 2019. We expect leverage to improve to
+the high-8x area in 2020 as cost savings are achieved. However, we note that CentralSquare's financial sponsor
+ownership will likely limit sustained deleveraging in the long term as we expect the sponsors to use balance sheet
+capacity for debt-financed acquisitions or shareholder returns.
+CentralSquare has annual capex and capitalized software development costs, which we consider an operating expense
+totaling around 4% of revenue. While we note that unadjusted FOCF is expected to be negative in fiscal 2019, most of
+that is one-time in nature and will be gone by 2020. We expect modest positive unadjusted FOCF in 2020.
+CentralSquare will also have access to its $125 million revolving credit facility, providing liquidity in the current time of
+transition.
+
+Liquidity: Adequate
+We view CentralSquare's liquidity as adequate. We believe coverage of uses will be above 4x over the next 12 months,
+and net sources will be positive even with a 15% decline in EBITDA. Although our quantitative assessment suggests a
+stronger score, liquidity is limited to adequate since the company would likely need to refinance to absorb a
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 5
+
+SuperMoose Newco Inc.
+
+high-impact, low-probability event. It has adequate but not high standing in the credit markets given the
+speculative-grade spreads on its debt.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Approximately $29 million cash and short-term
+investments as of March 31, 2019.
+
+• Annual capex of approximately $18 million in 2019
+and $10 million in 2020.
+
+• $80 million available under its revolving credit
+facility expiring in 2023 (expected draw of $45
+million in the second quarter of 2019).
+
+• Mandatory debt amortization of approximately $10
+million in 2019.
+
+• Negative FOCF of approximately the low-$20
+million area in fiscal 2019, from one-time platform
+integration and restructuring costs. We expect that
+to be positive by more than $30 million in 2020.
+
+Debt maturities
+• First-lien term loan with a balance of more than $950 million; required annual amortization of approximately $10
+million, with the balance due in 2026.
+• Second-lien term loan with a balance of $380 million due in 2027.
+
+Covenant Analysis
+Compliance expectations
+
+Requirements
+
+We expect CentralSquare to maintain adequate
+cushion under the first-lien leverage ratio in its
+revolving credit facility. The term loans are not subject
+to financial covenants.
+
+CentralSquare has to maintain a maximum first-lien
+leverage ratio of 8.2x, when greater than 40% of the
+revolver is utilized. While we expect the revolver to be
+drawn in second quarter of 2019, CentralSquare will
+have a 35% EBITDA cushion on the 8.2x leverage ratio
+and draw the revolver below the 40% cutoff.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 6
+
+SuperMoose Newco Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+
+• Our issue-level rating on the company's first-lien debt is 'B' with a '2' recovery rating. Our issue-level rating on its
+second-lien term loan is 'CCC' with a '6' recovery rating.
+• Our simulated default scenario assumes a payment default in 2021 because of integration missteps that cause
+poor sales execution and underinvestment in products, increasing customer attrition, and significantly
+decreasing new license sales. These factors would lead to lower revenue, cash flow, and liquidity.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Year of default: 2021
+
+• Net enterprise value (after 5% administrative costs):
+$797 million
+
+• EBITDA at emergence: $129 million
+• EBITDA multiple: 6.5x
+• Revolving credit facility: 85% drawn at default
+
+• Valuation split (obligors/nonobligors): 85%/15%
+• Value available to secured creditors: $773 million
+• Secured first-lien debt: $1.07 billion
+• --Recovery expectations: 70%-90% (rounded
+estimate: 70%)
+• Value available to unsecured creditors: $24 million
+• Secured second-lien debt: $399 million
+• --Recovery expectations: 0%-10% (rounded
+estimate: 5%)
+All debt amounts include six months of prepetition
+interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 7
+
+SuperMoose Newco Inc.
+
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Positive
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : bIssuer Credit Rating: B-/Stable/-Business risk: Weak
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Financial policy: FS-6 (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 8
+
+SuperMoose Newco Inc.
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Software And Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 19, 2019)*
+SuperMoose Newco, Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+31-Jul-2018
+
+B-/Stable/--
+
+Related Entities
+CentralSquare Technologies LLC
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 9
+
+SuperMoose Newco Inc.
+
+Ratings Detail (As Of August 19, 2019)*(cont.)
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 11
+
+

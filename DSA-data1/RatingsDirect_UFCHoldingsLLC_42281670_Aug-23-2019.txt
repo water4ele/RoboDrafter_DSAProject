@@ -1,0 +1,561 @@
+UFC Holdings LLC
+Primary Credit Analyst:
+Jing Li, New York + 1 (212) 438 1529; Jing.Li@spglobal.com
+Secondary Contact:
+Emile J Courtney, CFA, New York (1) 212-438-7824; emile.courtney@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 1
+
+UFC Holdings LLC
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Well-recognized brand and dominant market position in mixed martial arts
+promotion.
+
+Highly leveraged financial risk.
+
+The new media rights agreement with ESPN will partially mitigate business
+risks by replacing volatile event-driven pay-per-view revenue streams with a
+fixed fee.
+
+Unforeseen need to cancel or postpone events because of fighter
+injuries, and the popularity cycle of athletes.
+
+Ownership by Endeavor, which could provide some liquidity and operational
+support.
+
+Event risks such as fatal injuries, changes to the rules and
+regulations governing the sport, and UFC's legal status in some
+jurisdictions.
+The media rights agreement with ESPN would require some fans
+to adjust to an unfamiliar platform for pay-per-view bouts.
+
+UFC's domestic media rights agreement with ESPN will likely reduce operating variability over time. UFC and ESPN
+signed a media rights agreement in May 2018, which was further expanded in March 2019 to include pay-per-view
+(PPV) events and a longer contract maturity. In return for fixed media rights fees, UFC exclusively distributes its PPV
+and non-PPV bouts through ESPN linear and ESPN+ in the U.S. UFC and ESPN also extended the duration of the
+media rights agreement they reached in May 2018 to seven years from five years. As a result, UFC estimates that
+about 70% of total 2019 pro forma revenue will be contractually fixed, compared with less than 40% previously. We
+believe this agreement will partially mitigate key business risks, such as the unforeseen need to cancel or postpone
+events because of fighter injuries and the popularity cycle of athletes, by replacing volatile revenue from UFC's
+event-driven PPV business model with a fixed-fee, contractually recurring revenue stream and providing multiyear
+revenue visibility. The longer media rights agreement also enables UFC to plan over a longer time horizon while
+focusing on securing international media rights fees and generating sponsorship dollars. We believe the ESPN
+agreement likely reflects the growing acceptance and maturity of mixed martial arts (MMA) as a sport.
+Although revenue risk is lessened over the next several years, a potential intermediate-term risk factor for UFC may be
+that the new agreement creates a hurdle for viewership habits among fans who do not currently subscribe to ESPN+,
+such as having to adjust to an unfamiliar platform. Viewers of PPV bouts would need to subscribe to ESPN+ over the
+duration of the current contract, compared to previously when fans could purchase PPV bouts a la carte through a
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 2
+
+UFC Holdings LLC
+
+variety of cable subscriptions. The new agreement could reduce PPV purchases if some fans do not become ESPN+
+subscribers.
+We expect significant deleveraging in 2019. We expect UFC's domestic media rights contract with ESPN will
+significantly increase revenue and EBITDA in 2019, improve UFC's financial risk, and substantially deleverage the
+company from the very high 9x lease and preferred stock-adjusted debt to EBITDA that resulted when an
+Endeavor-led investor consortium purchased the company in 2016. We also believe higher revenue from the new
+contract will likely expand EBITDA margin, despite some operating investments and capital expenditures, because
+UFC's scope and cost of content production will likely increase at a slower rate than revenue.
+Financial risk will remain high despite deleveraging. Despite our expectation for deleveraging, we forecast lease and
+preferred stock-adjusted debt to EBITDA of high-6x in 2019, which represents very high financial risk. Although the
+preferred stock has no maturity date and carries a non-cash dividend to be paid in kind (PIK), we view the preferred
+equity as debt-like because there is a call provision and a PIK rate of 13%, which is high compared to interest costs on
+other funded debt. As a result, we do not believe the preferred equity stake is intended to be a permanent part of the
+capital structure because the high PIK rate is an incentive for the company's owners to redeem it, possibly using
+incremental debt. In addition, we expect UFC will have several large cash outflows in 2019, including earn-out
+payments, redemptions of profit units, and distributions for parent tax liabilities. These cash outflows reduce UFC's
+ability to repay debt.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that total lease- and preferred stock-adjusted debt to EBITDA will
+improve to the high-6x area by fiscal year-end 2019, which is below our 7.5x downgrade threshold on the
+company. We expect this will primarily be driven by growth in domestic media rights revenue, resulting in EBITDA
+margin expansion and more stable cash flow.
+
+Downside scenario
+We could lower the rating if UFC's operations deteriorate and underperform our base-case expectations, causing
+adjusted debt to EBITDA to stay above 7.5x. We could also lower the rating if adjusted EBITDA coverage of cash
+interest expense decreases and remains below 2x.
+
+Upside scenario
+An upgrade is currently unlikely given UFC's high leverage. We could raise the rating if a combination of EBITDA
+growth and debt reduction results in adjusted leverage sustained below 5.5x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 3
+
+UFC Holdings LLC
+
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP grows 2.2% in 2019 and 1.7% in 2020.
+• U.S. real consumer spending increases 2.5% in 2019
+and 2% in 2020.
+• Total revenue increases about 20% in 2019, which
+reflects content revenue growth driven by domestic
+and international media rights contracts,
+low-single-digit percent live event revenue growth
+from assumed modest ticket price and attendance
+growth, high-single-digit percent sponsorship
+revenue growth supported by ESPN's distribution
+platform, and high-single-digit percent consumer
+products revenue growth.
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+8.6 High-6 Mid-6 area
+
+FFO to debt (%)
+
+5.5
+
+10
+
+11
+
+EBITDA to interest (x)
+
+1.4
+
+2
+
+2
+
+A--Actual. E--Estimated. FFO--Funds from operations.
+
+• Adjusted EBITDA grows 20%-30% in 2019,
+primarily driven by the ESPN domestic media rights
+contract that results in some margin expansion. Our
+forecast incorporates the $25 million management
+fee to Endeavor Operating Co. LLC.
+• Total revenue increases in the mid-single-digit
+percent in 2020, which primarily reflects content
+revenue growth driven by annual escalators in the
+media rights contracts, modest growth in live event
+revenue, and mid-single-digit percent growth in
+sponsorship and consumer products revenue.
+• Adjusted EBITDA grows in the low- to
+mid-single-digit percent area in 2020, primarily
+driven by annual escalators in the media rights
+contracts.
+• Our measure of adjusted debt to EBITDA
+incorporates operating lease liabilities, the preferred
+stock, which we view as debt-like, and certain
+EBITDA add-backs. We also net cash against debt in
+our measure.
+• We expect UFC to pay $89 million in earn-out
+payments to stakeholders and about $60 million to
+redeem profit units and distribute cash for tax
+purposes in 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 4
+
+UFC Holdings LLC
+
+Company Description
+UFC is the world's largest promoter of MMA as measured by revenue. The company produces events internationally
+and generates revenue from media rights fees, live event production, sponsorships, and licensing of consumer
+products. UFC is owned by a consortium of investors led by Endeavor.
+
+Business Risk: Fair
+UFC has a well-recognized brand and has a dominant market position in the promotion of MMA events. We believe
+UFC's continued growth is aided by a multiyear domestic media rights agreement with ESPN, which provides revenue
+visibility and relatively high-margin cash flows. Over the medium term, we believe increasing broadcast agreement
+fees in the U.S. and abroad will drive TV broadcasting revenue to become a larger source of total revenue and
+EBITDA. These long-term television contracts are a more stable revenue stream than PPV viewership or
+ticketing-based revenues, and we view the shift toward more stable revenue sources as a positive long-term credit
+factor.
+We believe management recognizes that building UFC's talent pipeline is an ongoing risk factor to the company's
+long-term business model. While UFC benefits from a strong fan base, we believe it needs to continue developing
+fighters who appeal to its 18- to 34-year-old target demographic. This is because the company's business model is
+primarily event-driven and could be significantly affected by an event cancellation or injuries to marquee fighters. The
+company has adopted some strategies that we believe will partially mitigate that volatility in future periods. These
+include marketing multiple fights at events and planning back-up matches and fighters in the event of injuries, among
+other remedial training and safety actions to lessen their frequency and severity.
+UFC also needs to preserve the current regulatory acceptance of the sport to maintain its competitive advantage.
+Changes to the rules and regulations governing the sport and its legal status in some jurisdictions, particularly in light
+of a potential fatal injury, could significantly affect UFC's financial performance and long-term viability. Conversely,
+New York State's sanctioning of MMA in 2016 provided the company access to a lucrative live events market and
+related commercial opportunities.
+We believe there is some risk that UFC could produce too much content for distribution and inadvertently dilute
+viewership across multiple distribution channels and demand for its marquee fights. However, this risk will probably be
+partly mitigated over the next several years by locking in sizable contractual revenue streams with ESPN. By
+broadening consumer exposure to the sport--which could increase interest--the ESPN contract could provide UFC with
+another way to boost its talent pipeline.
+Endeavor, the parent company of operating subsidiary WME IMG, controls and owns a majority stake in UFC. WME
+IMG has a management agreement with UFC and receives $25 million annually in management fees. There are other
+significant minority equity investors, including Silver Lake Partners and KKR & Co. L.P., which do not have a
+controlling position. We believe UFC is strategically important to Endeavor, and that Endeavor and other minority
+investors may offer some modest temporary support to UFC if it unexpectedly needs liquidity. In addition, we view
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 5
+
+UFC Holdings LLC
+
+operational support by WME IMG favorably because it could drive additional revenue opportunities in events and
+sponsorship arrangements. However, we do not believe UFC is integral to enough to Endeavor's identity and future
+strategy to warrant a strong, long-term commitment of support from Endeavor if UFC encounters structural financial
+difficulty.
+
+Financial Risk: Highly leveraged
+We forecast total lease- and preferred stock-adjusted debt to EBITDA of high-6x in 2019, improving to the mid-6x area
+in 2020. We expect EBITDA coverage of interest expense to be about 2x through 2020. The high leverage is partly
+offset by relatively good EBITDA coverage of cash interest expense of about 3x in 2019 and mid-3x in 2020, and our
+expectation the company will have adequate liquidity.
+
+Liquidity: Adequate
+UFC has an adequate liquidity profile. We expect liquidity sources over the next 12-24 months to exceed uses by at
+least 1.2x. We believe net liquidity sources would remain positive even if EBITDA declines by 15%. We believe UFC
+has sound banking relationships, as evidenced by its recent success completing an incremental debt issuance.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balances of $183 million as of June 30, 2019.
+
+• Regularly scheduled debt amortization under the
+first-lien term loan.
+
+• Full availability under the $162.5 million revolving
+credit facility.
+• Cash flow from operations above $175 million in
+2019.
+
+• Capital expenditures of about $30 million-$40
+million.
+• Cash distributions and payments for tax-related
+purposes, earn-out payments to shareholders, and
+equity redemptions of about $150 million in 2019.
+
+Covenant Analysis
+The revolving credit facility has a springing first-lien leverage covenant of 6.5x, which is triggered when the revolver is
+drawn more than 35%. We expect UFC to be compliant with this covenant over our forecast period.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The issue-level rating on UFC Holdings LLC's first-lien term loan and revolving credit facility is 'B+'. The '2'
+recovery rating indicates our expectation for substantial recovery (70%-90%; rounded estimate: 70%) of principal in
+the event of a payment default.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 6
+
+UFC Holdings LLC
+
+• Our simulated default scenario contemplates a payment default occurring in 2022 due to a substantial decline in
+UFC's cash flow because of a combination of factors. These factors could include an inability to meet minimum
+event requirements related to the ESPN media rights agreements, poorly timed production costs and investments,
+leveraging cash distributions to shareholders, a failure to retain or recruit key performers, greater competition from
+new entrants or alternative sports categories, and unsuccessful new business ventures.
+• We assume UFC would reorganize following a default and used an emergence EBITDA multiple of 6.5x to value the
+company.
+
+Simulated default assumptions
+• Year of default: 2022
+• EBITDA at emergence: $244 million
+• EBITDA multiple: 6.5x
+• Cash flow revolver: 85% drawn at default
+
+Simplified waterfall
+• Net recovery value (after 5% administrative expense): $1.51 billion
+• Obligor/nonobligor valuation split: 100%/0%
+• Estimated first-lien claims: $2.02 billion
+• --Recovery range: 70%-90% (rounded estimate: 70%)
+Note: All debt amounts include six months of prepetition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 7
+
+UFC Holdings LLC
+
+• Financial policy: Neutral
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : b
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of August 20, 2019)*
+UFC Holdings LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Issuer Credit Ratings History
+25-May-2018
+
+B/Stable/--
+
+22-Jul-2016
+
+B/Negative/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 8
+
+UFC Holdings LLC
+
+Ratings Detail (As Of August 20, 2019)*(cont.)
+Related Entities
+Endeavor Operating Company LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+IMG Worldwide Holdings LLC
+Senior Secured
+
+B
+
+William Morris Endeavor Entertainment, LLC
+Senior Secured
+
+B
+
+WME IMG Holdings, LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 10
+
+

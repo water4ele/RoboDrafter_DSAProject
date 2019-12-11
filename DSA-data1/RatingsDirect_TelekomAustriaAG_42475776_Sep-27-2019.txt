@@ -1,0 +1,1809 @@
+Telekom Austria AG
+Primary Credit Analyst:
+Xavier Buffon, Paris (33) 1-4420-6675; xavier.buffon@spglobal.com
+Secondary Contact:
+Lukas Paul, Frankfurt + 49 693 399 9132; lukas.paul@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Group Influence
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+Telekom Austria AG
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb+
+
+bbb+
+
+BBB+/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Leading telecommunications operator in Austria, with about 37% mobile and
+55% fixed-line broadband subscriber market shares.
+
+Fierce competition in the domestic mobile business from
+Hutchison Drei, T-Mobile, and mobile virtual network operators
+(MVNOs), as well as in several CEE markets.
+
+Favorable domestic frequency holdings, with about half of the total spectrum
+available in Austria.
+
+May face some pressure to scale up its fixed-network
+investments in Austria, given that 50 megabits per second
+(Mbps) broadband coverage is less than 50%.
+
+No. 1 or No. 2 mobile positions in five of its six Central and Eastern European
+(CEE) mobile markets, complemented by an expanding fixed-line offering.
+
+Partly inflexible cost structure in Austria due to a high proportion
+of civil servants in the workforce (19% in 2018 at the group
+level).
+
+Robust free operating cash flow (FOCF) generation of €400 million-€500
+million and supportive financial policy targeting further deleveraging, with
+limited merger and acquisition (M&A) risks.
+
+Exposure to very high country risks in Belarus.
+
+S&P Global Ratings expects Telekom Austria AG to further deleverage over 2020-2021. We anticipate that Telekom
+Austria's financial risk profile will strengthen in 2020-2021, based on the company's financial policy to deleverage
+toward 1.5x, from 2.0x at June 30, 2019. We also see limited M&A risks and continued sound operating performance,
+leading to slightly increasing EBITDA and the capacity to cut debt. This is based on steady discretionary cash flow
+(DCF) generation of about €300 million annually before spectrum investments.
+We expect the company's sound operating performance to continue. We forecast positive service revenue growth,
+supported by mobile Wi-Fi router uptake and an improving customer mix on the fixed side, stemming from TV and
+fiber upselling and from the enterprise segment. This should mitigate the negative trend in retail fixed voice and some
+modest pressure on the fixed broadband subscriber base.
+We think foreign operations will provide faster growth. In our view, the company's CEE operations will provide
+additional growth and increasing opportunities to sell higher-end fixed and mobile converged services. This geographic
+diversity across six different countries should also mitigate country and volatility risks.
+The company is likely to see a slight EBITDA increase. Telekom Austria has a relatively rigid cost structure due to the
+high share of civil servants (45% of domestic employees, and 19% at the group level), and heavy annual cash
+restructuring outflows of €100 million. However, we foresee the slight potential for improving margins due to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+Telekom Austria AG
+
+cost-cutting measures. We forecast EBITDA growth of 2% per year (after restructuring costs) spurred by positive
+service revenue.
+
+Outlook: Stable
+
+The outlook is stable because we expect Telekom Austria will continue to increase its service revenue in the
+Austrian and CEE markets and successfully manage its cost base. We also expect that management will remain
+focused on further improving credit metrics.
+In our view, credit metrics will steadily and sustainably strengthen to levels commensurate with the rating in
+2020-2021--namely adjusted debt to EBITDA of below 2.5x, funds from operations (FFO) to debt of 35%-40%, and
+FOCF (before spectrum outlays) to debt approaching 15%.
+
+Downside scenario
+Rating downside could occur if the company's operating performance or deleveraging path failed to meet our
+forecasts, preventing adjusted debt to EBITDA from strengthening sustainably below 2.5x and FOCF to debt
+toward 15%. This could result from a less conservative financial policy than we anticipate, fiercer competition and
+lower prices than we expect, or higher-than-expected capital expenditure (capex). In addition, if we lower our
+rating on the majority shareholder America Movil S.A.B. de C.V. (AMX; A-/Negative/--) to 'BBB' or below, this
+could prompt a downgrade.
+
+Upside scenario
+Rating upside is unlikely since this would require a financial policy geared toward materially lower leverage than
+we currently foresee.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+Telekom Austria AG
+
+Assumptions
+
+• Organic annual revenue growth of 1%-2% in
+2019-2021, compared with 1.8% in 2018, supported
+by positive service revenue trends in Austria and
+growth in mobile, fixed broadband, and TV in other
+markets.
+• Approximately stable or very slightly progressing
+S&P Global Ratings-adjusted EBITDA margins of
+about 33% in 2019-2021, based on International
+Financial Reporting Standards (IFRS) 16 accounting.
+• Cash outflows for restructuring of €100 million per
+year.
+• Capex, excluding spectrum costs, of about €800
+million, due to fixed broadband investments in
+Austria and mobile network upgrades in all markets,
+plus moderate spectrum costs.
+
+Key Metrics
+
+2018A 2019E 2020F
+
+2021F
+
+EBITDA margin (%)
+
+32
+
+33
+
+33-34
+
+33-34
+
+Capex to sales (%)*
+
+17
+
+17-18
+
+17-18
+
+17-18
+
+Debt to EBITDA (x) §
+
+2.7
+
+2.6
+
+FFO to debt (%)
+
+36
+
+34
+
+35
+
+37-38
+
+FOCF to debt (%)*
+
+12
+
+11-12
+
+11-12
+
+13-14
+
+2.5 2.3-2.4
+
+*Excluding spectrum. All figures are based on
+International Financial Reporting Standards 16
+accounting from 2019 onward. A--Actual. E--Estimate.
+F--Forecast. FOCF--Free operating cash flow.
+FFO--Funds from operations. Capex--Capital
+expenditure.
+
+• Annual dividends of about €140 million.
+• Small bolt-on acquisition spending of €20 million
+annually.
+• About €400 million for spectrum payments in
+2019-2021.
+
+Base-case projections
+We forecast steadily declining adjusted leverage. We expect debt to EBITDA (IFRS 16 figures) of 2.6x in 2019, 2.5x in
+2020, and 2.3x in 2021, compared with 2.7x in 2018 (pro forma IFRS 16 as by our estimates).
+The company's cash flow metrics will strengthen. We forecast adjusted FFO to debt will increase toward 37%-39% by
+2021 and adjusted FOCF (excluding spectrum outlays) to debt of 11%-12% in 2019, progressing toward 13%-15%
+thereafter.
+
+Company Description
+Headquartered in Vienna, Telekom Austria is the leading telecom operator in Austria and a mobile operator in
+Bulgaria, Croatia, Belarus, Slovenia, Serbia, and Macedonia. It also provides fixed-line broadband, telephony, and TV
+services in all of these countries except Serbia. In 2018, the domestic market contributed about 60% of the group's
+€4.4 billion in revenue and two-thirds of its €1.5 billion EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+Telekom Austria AG
+
+Business Risk: Satisfactory
+Telekom Austria benefits from its strong incumbent market position in Austria and robust market positions in most of
+its six CEE markets. However, this is balanced by intense competition in the mobile segment, both domestically and
+internationally.
+A key factor in our assessment of Telekom Austria's business risk is the company's leading position in Austria's
+wealthy, albeit mature and relatively small, market for fixed and mobile telecom services, and its solid positions in CEE
+mobile markets (see chart 1).
+Chart 1
+
+The company had an Austrian mobile subscriber market share of about 37% in first-half 2019, ahead of T-Mobile and
+Hutchison Drei. In addition, we think Telekom Austria is likely to benefit from its ample spectrum holdings. Once
+spectrum reassignments to Telekom Austria from Hutchison Drei are completed in 2020, the company will hold half of
+the spectrum available in the 800 megahertz (MHz), 900 MHz, and 1,800 MHz bands, up from about 44% today.
+That said, competition in Austria's mobile market remains intense, reinforced by the presence of several MVNOs,
+which will continue to constrain pricing. In addition, we think the recent acquisition of UPC by T-Mobile could
+modestly dent Telekom Austria's mobile market share over time, because we expect T-Mobile to actively cross-sell its
+mobile plans to UPC's broadband and TV customers.
+Telekom Austria reported a 55% fixed-line broadband market share in first-half 2019, well ahead of DT-UPC Austria
+(see chart 2). Historically, the Austrian broadband market has oriented toward the development of mobile broadband,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+Telekom Austria AG
+
+and fixed broadband penetration has lagged the EU average. In addition, competitive conditions have led to a decrease
+of Telekom Austria's mobile and fixed broadband subscriber market shares by about 2 percentage points (pps) over the
+past two years.
+That said, the company's market share in fixed retail broadband remains significantly stronger than most of its
+incumbent peers in Europe.
+Chart 2
+
+In fixed line, we believe Telekom Austria benefits from the limited presence of alternative high-speed broadband
+infrastructure in its domestic market. The cable network of the main fixed broadband competitor UPC, now owned by
+T-Mobile Austria, covers less than 40% of Austrian households. Outside the UPC footprint, Telekom Austria mainly
+competes with mobile broadband products, in addition to some competition based on regulated wholesale access to its
+own network and small local utility-owned cable networks. In these areas, we think the company's competitive
+position could be enhanced by its ongoing fixed-network upgrade program.
+Including hybrid broadband products, which bundle fixed and mobile technologies, Telekom Austria offered
+broadband with download speeds of at least 40 Mbps to 98% of all Austrian households at year-end 2018. Given that
+only 25% of the company's customers subscribed to products with above 40 Mbps download speeds as of December
+2017, we see further potential for upselling.
+We think that Telekom Austria's profitable and cash-generative operations in six CEE mobile markets (No. 1 or No. 2
+in five countries) help to diversify its revenue base and provide incremental scale. The largest international operations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+Telekom Austria AG
+
+(by revenue) are its subsidiaries in Croatia, which reported a 37% mobile market share and an EBITDA margin of
+about 32% in first-half 2019. This compared with 39% mobile market share and 39% EBITDA margin in Bulgaria and
+42% mobile market share and 45% EBITDA margin in Belarus. Since 2015, Telekom Austria has strengthened its
+fixed-mobile convergence offering in CEE through various acquisitions of smaller fixed-line or cable operators. It is
+now able to offer fixed telephony, broadband, and TV in all of its markets except Serbia. In Serbia and in other
+countries without its own fixed-line infrastructure, Telekom Austria utilizes Wi-Fi routers to compete with converged
+players and save on wholesale access fees.
+Telekom Austria's foreign mobile operations face fierce competition, particularly in Slovenia, Serbia, and Bulgaria. In
+our view, this contributes to revenue and earnings volatility, which we think is generally higher for the company's
+international operations than for its domestic business. Telekom Austria's subsidiary in Belarus is subject to high
+country risks and foreign exchange-rate volatility.
+
+Peer comparison
+We rate Telekom Austria at the same level as peers like Telia and Elisa. Although it is larger and more diversified than
+Elisa, the latter has significantly lower leverage. Conversely, Telekom Austria has a smaller scale than Telia and its
+geographic portfolio is exposed to higher volatility risks, but we expect it to have lower leverage. We think Telekom
+Austria's business risk is similar to that of Proximus, with greater geographic diversity mitigated by related country
+risks. Our rating on Proximus is higher, however, due the company's very low leverage and a one-notch uplift
+stemming from potential government support.
+Table 1
+
+Telekom Austria AG--Peer Comparison
+Industry sector: Diversified telecom
+
+Rating as of Sept. 16, 2019
+
+Telekom Austria AG
+
+Koninklijke KPN
+N.V.
+
+Deutsche Telekom
+AG
+
+BBB+/Stable/A-2
+
+BBB/Stable/A-2
+
+BBB+/Watch
+Neg/A-2
+
+Elisa Oyj
+
+PPF Arena 1 BV
+
+BBB+/Stable/A-2
+
+BB+/Stable/--
+
+--Fiscal year ended Dec. 31, 2018--
+
+(Mil. €)
+Revenue
+
+4,435.4
+
+5,638.0
+
+75,656.0
+
+1,831.5
+
+1,908.2
+
+EBITDA
+
+1,408.6
+
+2,341.5
+
+24,715.3
+
+670.2
+
+832.8
+
+Funds from operations
+(FFO)
+
+1,197.8
+
+2,036.1
+
+19,481.3
+
+576.1
+
+678.2
+
+122.2
+
+335.1
+
+3,404.1
+
+30.2
+
+81.8
+
+Interest expense
+Cash interest paid
+
+147.1
+
+314.4
+
+4,537.1
+
+25.8
+
+71.7
+
+1,166.4
+
+2,103.1
+
+19,933.9
+
+529.1
+
+761.3
+
+Capital expenditures
+
+768.1
+
+1,107.0
+
+12,202.0
+
+227.4
+
+309.0
+
+Free operating cash flow
+
+398.4
+
+996.1
+
+7,731.9
+
+301.7
+
+452.3
+
+Discretionary cash flow
+
+264.8
+
+431.1
+
+3,386.9
+
+38.6
+
+39.3
+
+63.6
+
+644.0
+
+3,679.0
+
+80.9
+
+435.0
+
+Debt
+
+3,344.9
+
+6,939.9
+
+80,178.6
+
+1,159.7
+
+3,806.1
+
+Equity
+
+2,409.5
+
+2,408.5
+
+43,437.0
+
+1,126.9
+
+2,163.0
+
+Cash flow from operations
+
+Cash and short-term
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+Telekom Austria AG
+
+Table 1
+
+Telekom Austria AG--Peer Comparison (cont.)
+Adjusted ratios
+EBITDA margin (%)
+
+31.8
+
+41.5
+
+32.7
+
+36.6
+
+43.6
+
+Return on capital (%)
+
+6.9
+
+8.9
+
+6.9
+
+17.6
+
+6.3
+
+EBITDA interest coverage
+(x)
+
+11.5
+
+7.0
+
+7.3
+
+22.2
+
+10.2
+
+FFO cash interest coverage
+(x)
+
+9.1
+
+7.5
+
+5.3
+
+23.3
+
+10.5
+
+Debt/EBITDA (x)
+
+2.4
+
+3.0
+
+3.2
+
+1.7
+
+4.6
+
+FFO/debt (%)
+
+35.8
+
+29.3
+
+24.3
+
+49.7
+
+17.8
+
+Cash flow from
+operations/debt (%)
+
+34.9
+
+30.3
+
+24.9
+
+45.6
+
+20.0
+
+Free operating cash
+flow/debt (%)
+
+11.9
+
+14.4
+
+9.6
+
+26.0
+
+11.9
+
+Discretionary cash
+flow/debt (%)
+
+7.9
+
+6.2
+
+4.2
+
+3.3
+
+1.0
+
+Financial Risk: Intermediate
+Telekom Austria's M&A strategy has moderated compared with our previous expectations. We therefore believe that
+the company's financial risk profile will steadily improve in the next two years, mainly due to management's
+willingness to reduce leverage and our view that sustained sound operating performance should provide adequate
+capacity to trim debt, except for one-off spectrum outlays.
+
+Financial summary
+Table 2
+
+Telekom Austria AG--Financial Summary
+Industry sector: Diversified telecom
+--Fiscal year ended Dec. 31-(Mil. €)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+4,435.4
+
+4,382.5
+
+4,211.5
+
+4,026.6
+
+4,018.0
+
+EBITDA
+
+1,408.6
+
+1,357.9
+
+1,319.0
+
+1,300.7
+
+1,212.9
+
+Funds from operations (FFO)
+
+1,197.8
+
+1,171.7
+
+1,065.7
+
+1,072.5
+
+964.2
+
+122.2
+
+133.9
+
+173.2
+
+205.7
+
+204.6
+
+Interest expense
+Cash interest paid
+
+147.1
+
+143.6
+
+204.7
+
+196.1
+
+198.2
+
+1,166.4
+
+1,105.6
+
+1,055.1
+
+1,060.2
+
+916.3
+
+Capital expenditures
+
+768.1
+
+699.6
+
+809.7
+
+715.7
+
+747.0
+
+Free operating cash flow
+
+398.4
+
+406.1
+
+245.4
+
+344.5
+
+169.2
+
+Discretionary cash flow
+
+264.8
+
+256.0
+
+195.0
+
+294.3
+
+130.1
+
+Cash and short-term investments
+
+63.6
+
+202.4
+
+464.2
+
+911.5
+
+1,032.5
+
+Gross available cash
+
+63.6
+
+202.4
+
+464.2
+
+911.5
+
+1,032.5
+
+Debt
+
+3,344.9
+
+3,292.0
+
+3,269.4
+
+3,554.1
+
+3,476.7
+
+Equity
+
+2,409.5
+
+2,604.1
+
+2,443.3
+
+2,126.0
+
+1,918.0
+
+Cash flow from operations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Telekom Austria AG
+
+Table 2
+
+Telekom Austria AG--Financial Summary (cont.)
+Industry sector: Diversified telecom
+--Fiscal year ended Dec. 31-(Mil. €)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA margin (%)
+
+31.8
+
+31.0
+
+31.3
+
+32.3
+
+30.2
+
+Return on capital (%)
+
+6.9
+
+6.2
+
+7.3
+
+8.6
+
+6.0
+
+EBITDA interest coverage (x)
+
+11.5
+
+10.1
+
+7.6
+
+6.3
+
+5.9
+
+FFO cash interest coverage (x)
+
+9.1
+
+9.2
+
+6.2
+
+6.5
+
+5.9
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+2.4
+
+2.4
+
+2.5
+
+2.7
+
+2.9
+
+FFO/debt (%)
+
+35.8
+
+35.6
+
+32.6
+
+30.2
+
+27.7
+
+Cash flow from operations/debt (%)
+
+34.9
+
+33.6
+
+32.3
+
+29.8
+
+26.4
+
+Free operating cash flow/debt (%)
+
+11.9
+
+12.3
+
+7.5
+
+9.7
+
+4.9
+
+Discretionary cash flow/debt (%)
+
+7.9
+
+7.8
+
+6.0
+
+8.3
+
+3.7
+
+Liquidity: Strong
+We assess Telekom Austria's liquidity as strong, based on our expectation that sources will cover uses by more than
+1.5x in the 12 months started July 1, 2019. In addition, we assess Telekom Austria's financial risk management as
+prudent, and we think that the company has well-established, solid relationships with its banks, underpinned by the
+repeated issuance of bank facilities at highly favorable terms and with a variety of lenders.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We estimate that the principal liquidity sources over
+the 12 months from July 1, 2019, include:
+
+For the same time period, we estimate that principal
+liquidity uses include:
+
+• Cash and liquid investments of about €44 million.
+
+• Short-term debt and commercial paper maturities of
+about €0.3 billion including licenses.
+
+• Availability of a €1 billion committed revolving
+credit facility (RCF) due 2024.
+• Sizable FFO of €1.2 billion.
+
+• Capex (including spectrum payments) of €0.8 billion.
+• Dividends of €0.1 million.
+
+Debt maturities
+Table 3
+
+Telekom Austria AG--Debt Maturities*
+Period
+
+Amount (Mil. €)
+
+2020
+
+0
+
+2021
+
+750.0
+
+2022
+
+750.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+Telekom Austria AG
+
+Table 3
+
+Telekom Austria AG--Debt
+Maturities* (cont.)
+Period
+
+Amount (Mil. €)
+
+2023
+
+300.0
+
+2024
+
+0
+
+2025
+
+0
+
+2026
+
+750.0
+
+*As of June 30, 2019.
+
+Environmental, Social, And Governance
+
+The group's energy consumption is its main environmental consideration. Increasing data traffic results in
+ever-increasing energy use, with the company's electricity consumption increasing by about 5% in 2018. The group
+has a policy in place to achieve energy efficiency, with a reported a 24% gain between 2017 and 2018. In 2018, the
+group reported 62% of its energy needs were met from renewable sources. We think ongoing plans to increase
+fiber-to-the-home deployment will also help to contain potential upward pressure on energy costs. As a result,
+these costs are not a material risk to our forecast.
+
+Group Influence
+We continue to regard Telekom Austria as a moderately strategic subsidiary of its 51% shareholder AMX. That said,
+our 'BBB+' rating on Telekom Austria is based on our stand-alone view of its credit quality, and does not include any
+uplift from potential extraordinary group. Any uplift for potential group support is capped at one notch below the
+parent rating, which is 'A-', whereas our view of Telekom Austria's stand-alone credit quality is 'bbb+'. Still, we
+understand that AMX is regularly involved in the company's strategic decisions and day-to-day management, and also
+supportive of its financial policy, which is a positive factor captured in our stand-alone assessment.
+
+Government Influence
+We continue to regard Telekom Austria as a government-related entity (GRE), based on the 28.4% stake held by
+Austria (AA+/Stable/A-1+). That said, our 'BBB+' rating on Telekom Austria is based on our stand-alone view of its
+credit quality, and does not include any uplift from potential extraordinary government support. We see a low
+likelihood of timely and sufficient extraordinary government support for Telekom Austria in the event of financial
+distress.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+Telekom Austria AG
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+The vast majority of debt is senior unsecured and located at the group's financing entity, Telekom Finanzmanagement
+GmbH.
+
+Analytical conclusions
+The long-term issue rating on the company's senior unsecured debt is 'BBB+', in line with the issuer credit rating,
+because no significant elements of subordination risk are present in the capital structure.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Telekom Austria AG Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€)
+--Fiscal year ended Dec. 31, 2018-Telekom Austria AG reported amounts
+
+Debt
+Reported
+
+Shareholders'
+equity EBITDA
+
+2,782.0
+
+S&P Global
+Ratings'
+Operating Interest
+adjusted
+income expense
+EBITDA
+
+Cash flow
+from
+operations Dividends
+
+Capital
+expenditure
+
+2,446.8
+
+1,390.9
+
+434.4
+
+82.3
+
+1,408.6
+
+1,232.3
+
+167.3
+
+771.5
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(63.7)
+
+--
+
+--
+
+--
+
+Cash taxes paid Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(84.2)
+
+--
+
+--
+
+--
+
+Operating leases
+
+362.3
+
+--
+
+80.4
+
+25.7
+
+25.7
+
+(25.7)
+
+54.7
+
+--
+
+--
+
+Debt-like hybrids
+
+--
+
+--
+
+--
+
+--
+
+3.0
+
+(33.8)
+
+(33.8)
+
+(33.8)
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+186.3
+
+--
+
+4.5
+
+4.5
+
+3.3
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash &
+liquid investments
+
+(33.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+3.4
+
+(3.4)
+
+(3.4)
+
+--
+
+(3.4)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+0.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+0.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(160.0)
+
+(40.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+203.3
+
+--
+
+--
+
+--
+
+4.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+5.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Captive finance
+operations
+Asset retirement
+obligations
+Nonoperating
+income (expense)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+Telekom Austria AG
+
+Table 4
+
+Reconciliation Of Telekom Austria AG Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€) (cont.)
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(83.5)
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+2.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt - Contingent
+considerations
+
+4.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+4.9
+
+4.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA - Other
+
+--
+
+--
+
+(73.5)
+
+(73.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+562.8
+
+(37.3)
+
+17.7
+
+(33.4)
+
+39.9
+
+(210.8)
+
+(65.9)
+
+(33.8)
+
+(3.4)
+
+Equity EBITDA
+
+Interest
+EBIT expense
+
+Funds
+from
+operations
+
+Cash flow
+from Dividends
+operations
+paid
+
+Capital
+expenditures
+
+2,409.5
+
+400.9
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+Adjusted
+
+3,344.9
+
+1,408.6
+
+122.2
+
+1,197.8
+
+1,166.4
+
+133.6
+
+768.1
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Intermediate
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+Telekom Austria AG
+
+Stand-alone credit profile : bbb+
+
+• Group credit profile: a• Entity status within group: Moderately strategic (no impact)
+• Related government rating: AA+
+• Likelihood of government support: Low (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology: The Impact Of Captive Finance Operations On Nonfinancial
+Corporate Issuers, Dec. 14, 2015
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+Telekom Austria AG
+
+Ratings Detail (As Of September 16, 2019)*
+Telekom Austria AG
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Issuer Credit Ratings History
+12-Aug-2019
+
+BBB+/Stable/A-2
+
+23-May-2017
+
+BBB/Positive/A-2
+
+11-Aug-2014
+
+BBB/Stable/A-2
+
+Related Entities
+America Movil S.A.B. de C.V.
+Issuer Credit Rating
+CaVal (Mexico) National Scale
+
+A-/Negative/-mxAAA/Stable/mxA-1+
+
+Junior Subordinated
+
+BBB
+
+Senior Unsecured
+CaVal (Mexico) National Scale
+
+mxAAA
+
+Senior Unsecured
+
+A-
+
+Telefonos de Mexico S.A. de C.V.
+Issuer Credit Rating
+CaVal (Mexico) National Scale
+
+A-/Negative/-mxAAA/Stable/mxA-1+
+
+Senior Unsecured
+CaVal (Mexico) National Scale
+
+mxAAA
+
+Senior Unsecured
+
+A-
+
+Telekom Finanzmanagement GmbH
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Telmex Internacional S.A.B. de C.V.
+Issuer Credit Rating
+CaVal (Mexico) National Scale
+
+mxAAA/Stable/mxA-1+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 16
+
+

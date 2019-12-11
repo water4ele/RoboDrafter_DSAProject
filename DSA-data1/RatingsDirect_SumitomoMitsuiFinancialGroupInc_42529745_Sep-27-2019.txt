@@ -1,0 +1,1179 @@
+Sumitomo Mitsui Financial Group
+Inc. (Holding Company)
+Sumitomo Mitsui Banking Corp. (Lead Bank)
+Primary Credit Analyst:
+Toshihiro Matsuo, Tokyo (81) 3-4550-8225; toshihiro.matsuo@spglobal.com
+Secondary Contact:
+Chizuru Tateno, Tokyo (81) 3-4550-8578; chizuru.tateno@spglobal.com
+
+Table Of Contents
+Major Rating Factors
+Outlook
+Rationale
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Sumitomo Mitsui Financial Group Inc. (Holding Company)
+Sumitomo Mitsui Banking Corp. (Lead Bank)
+SACP
+
+a
+
+Anchor
+
+bbb+
+
+Business
+Position
+
++
+
+Strong
+
++1
+
+Capital and
+Earnings
+
+Adequate
+
+0
+
+Risk Position
+
+Adequate
+
+0
+
+Funding
+
+Above
+Average
+
+Liquidity
+
+Strong
+
++1
+
+Support
+
+0
+
+ALAC
+Support
+
+0
+
+GRE Support
+
+0
+
+Group
+Support
+
+0
+
+Sovereign
+Support
+
+0
+
++
+
+Additional
+Factors
+
+0
+
+Issuer Credit Rating
+
+A/Positive/A-1
+Bank Holding Company ICR
+
+A-/Positive/NR
+
+Major Rating Factors
+Strengths:
+
+Weaknesses:
+
+• Strong business position backed by a leading market
+position in Japan
+• Stable funding and strong liquidity backed by its
+domestic retail deposit base
+• High likelihood of extraordinary government
+support if needed
+
+• Continued decline in net interest margins on
+domestic loans because of a tough competitive
+environment
+• A growing need for foreign currency-denominated
+funds because of rising overseas loan assets while
+foreign currency funding is weaker than yen funding
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Sumitomo Mitsui Financial Group Inc.
+
+Outlook: Positive
+
+S&P Global Ratings' outlooks on Japan-based megabank Sumitomo Mitsui Financial Group Inc. (SMFG), its lead
+bank Sumitomo Mitsui Banking Corp. (SMBC), and the group's core banking subsidiaries are positive. The outlooks
+reflect our view that there is at least a one-in-three chance in the next two years or so we will upgrade SMFG, the
+nonoperating financial holding company of SMBC Group, and its core banking subsidiaries, all of which
+incorporate our assessment of potential extraordinary government support. This could be the case if we raise our
+long-term sovereign credit rating on Japan. We view SMBC Group's stand-alone credit profile (SACP) as stable,
+while the outlook on our sovereign credit rating on Japan is positive.
+We may revise down the outlooks to stable in the event that any of three cases hurt the group's creditworthiness,
+in our view. First, if we change the outlook on our long-term sovereign rating on Japan to stable. Second, if rapid
+growth in the group's risk-weighted assets drags down its risk-adjusted capital (RAC) ratio below 7% on a sustained
+basis. And third, if an increase in foreign currency-denominated funding alters its funding structure.
+
+Rationale
+The ratings on SMFG and its core banking subsidiaries reflect our view that the group maintains a strong competitive
+position in Japan's commercial banking and retail financial markets and that SMBC Group's revenue is well-diversified
+by region and business line. Our RAC ratio for SMBC Group has been improving in recent years because the group has
+taken measures to restructure group companies and reduce strategic shareholdings. These are part of its endeavors to
+meet banking regulatory requirements for global systemically important banks (G-SIBs) and to strengthen its
+governance structure.
+Conditions to generate earnings remain severe. Although the group continues to enjoy higher spreads on domestic
+lending than other banks, any improvement is unlikely. Therefore, we assess the group SACP as 'a' (the group SACP
+excludes the likelihood of receiving extraordinary government support in a time of need).
+The group has a high likelihood of receiving extraordinary government support in times of need, in our opinion.
+However, this does not provide any uplift to the ratings as long as our sovereign rating on Japan is 'A+'. We believe
+the group's nonoperating holding company, SMFG, is also likely to receive extraordinary government support.
+However, the long-term issuer credit rating on SMFG is one notch lower than those on its core operating banks,
+reflecting structural subordination as a nonoperating holding company.
+
+Anchor:'bbb+' for SMBC Group reflects rising overseas exposure and an economic risk score of '3'
+Our bank criteria use our Banking Industry Country Assessment (BICRA) economic risk and industry risk scores to
+determine a bank's anchor, the starting point in assigning an issuer credit rating. We assess SMBC Group's anchor as
+'bbb+', which is equivalent to the anchor for a bank operating primarily in Japan.
+Economic risk in Japan's banking sector is relatively low by global comparison. As a result, the economic risk score for
+Japan is '2'. Japanese banks benefit from operating in a large and diversified economy with various competitive
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Sumitomo Mitsui Financial Group Inc.
+
+industries. In addition, debt held by corporations and individuals generally grows moderately, which leads to sound
+financial profiles in the private sector. Meanwhile, core retail deposits constitute a large share of systemwide funding
+needs.
+These strengths offset certain structural weaknesses, such as Japan's aging society, low economic growth, and the
+government's limited fiscal flexibility to stimulate the economy because of its debt level, which is one of the highest
+among developed countries.
+Conversely, we view the industry risk that Japanese banks face as relatively higher than that faced by peer countries in
+the same BICRA group. Therefore, we set the industry risk score for Japan at '4' because of the fragmented market and
+its low profitability. We believe that the current situation, in which banks are enduring ongoing low profitability, poses
+a risk to the stability of Japan's banking system.
+The combination of SMBC Group's weighted-average economic risk score of '3' and Japan's industry risk score of '4'
+results in an anchor of 'bbb+' for the group. Our '3' economic risk score for the group reflects the group's expanding
+exposure to overseas countries and regions we regard as having higher economic risk than Japan, as well as changes
+in our economic risk scores for these countries and regions. The score also incorporates qualitative assessments of
+factors such as its business strategies.
+Table 1
+
+Sumitomo Mitsui Financial Group Inc. Key Figures
+--Fiscal year*-(Bil. ¥)
+Adjusted assets
+Customer loans (gross)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+193,325
+
+189,608
+
+188,755
+
+178,188
+
+175,355
+
+78,227
+
+75,275
+
+82,633
+
+77,053
+
+74,977
+
+Operating revenues
+
+2,907
+
+3,020
+
+2,945
+
+2,868
+
+2,970
+
+Noninterest expenses
+
+1,689
+
+1,791
+
+1,783
+
+1,697
+
+1,633
+
+789
+
+864
+
+829
+
+829
+
+890
+
+Core earnings
+
+*Fiscal years end March 31 of the following year.
+
+Business position: Strong in domestic commercial and retail banking
+We assess SMBC Group's business position as strong. It maintains a strong competitive position in the domestic
+commercial and retail banking markets. SMFG is a bank holding company that owns one of the largest banks in Japan,
+with assets totaling ¥204 trillion as of the end of fiscal 2018 (ended March 31, 2019). The group's main operating bank,
+SMBC, provides traditional commercial banking services using its nationwide network in Japan and its overseas
+operations. Groupwide revenue is well-diversified by region and business line, including leasing, brokerage and
+investment services, and credit card and consumer finance.
+SMBC Group's expansion of its overseas operations in recent years has allowed it to establish a well-balanced business
+portfolio, in our view. It consists of the retail and wholesale business units, which conduct business mainly in Japan,
+the global markets business unit, and the international business unit. Profit from the international business unit made
+up 33% of the group's total net operating profit in fiscal 2018. The group is likely to continue to strengthen its overseas
+businesses, such as banking in Asia excluding Japan. Forming part of this foothold is the February 2019 merger of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Sumitomo Mitsui Financial Group Inc.
+
+Indonesian lender PT Bank Tabungan Pensiunan Nasional Tbk (BTPN) and PT Bank Sumitomo Mitsui Indonesia
+(SMBC Indonesia).
+SMBC Group does not have an extensive retail deposit base in major currency countries outside Japan. This may
+pressure its ability to take on foreign currency funding stably when market conditions deteriorate. This contrasts with
+its ample liquidity and abundant funding in the domestic currency. It also constrains further growth of its overseas
+business. As a result, through flexible control of its overseas loan assets, the group aims to strengthen its revenue base
+in areas that do not require material growth in foreign currency assets.
+SMBC Group has stable customer bases in both retail and corporate banking in Japan. Domestic retail deposits are
+stable. SMBC Group has strong main bank relationships with many corporate customers, and these customers have
+maintained long-term relationships with the group. SMBC Group has established groupwide business units to further
+support client needs. Specifically, it has integrated its management structure across the group's legal entities, including
+SMBC and nonbank group companies.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Sumitomo Mitsui Financial Group Inc.
+
+Chart 2
+
+Capital and earnings: Improved and stable RAC ratio indicates continued adequate capital
+We expect SMBC Group to maintain adequate capital, with its improved RAC ratio remaining stable in the next two
+years or so. We expect a group RAC ratio of 7.25%-7.75% in the next two years. The ratio was 8.3% as of the end of
+September 2018, steadily improving from below 6% as of the end of March 2012. Our expected range takes into
+account our view that the group is likely to shift its management focus slightly to shareholder returns and business
+expansion. This is because the group has good prospects for meeting the target capital ratio set under the final rule of
+Basel III regulatory requirements. As a result, we expect growth of risk-weighted assets, the denominator of the RAC
+ratio, to slightly outpace that of its capital.
+SMBC Group's RAC ratio is susceptible to volatility in unrealized gains on equity holdings. As of the end of September
+2018, 9% of its risk-weighted assets was attributable to market-risk exposure. This includes exposure to equities and
+fund-related holdings in its banking account, excluding the trading account. If a fall in stock prices lowers unrealized
+gains, its risk-weighted assets would increase and weaken its RAC ratio. This is because we factor in unrealized gains
+in such exposure. We estimate the RAC ratio would decline about 0.5 percentage point if the unrealized gains were to
+be half of ¥1.9 trillion, which was the amount as of the end of September 2018, provided that other factors remain
+unchanged.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Sumitomo Mitsui Financial Group Inc.
+
+We assess SMBC Group's capital quality as adequate. Its ratio of hybrid securities to total adjusted capital (TAC) was
+about 12% as of the end of September 2018. We include its Additional Tier 1 hybrids in our TAC calculation because
+we regard their equity content as intermediate given their coupon deferral and principal writedown features.
+Conversely, we do not include SMBC Group's Basel III Tier 2 hybrids in our TAC calculation because we regard their
+equity content as low. These hybrids with low equity content, which are eligible for inclusion in the calculation of
+regulatory capital, accounted for about 16% of the group's TAC as of the end of September 2018.
+We estimate SMBC Group's earnings buffer at 40 basis points (bps) to 60 bps over the next one to two years. We
+consider this modest, reflecting our view of a continued decline in net interest margins, primarily in loans to domestic
+small and midsize enterprise (SME) borrowers. We base our estimate on our assumption that the normalized loss rate
+over its credit risk exposure would be 0.27% under our RAC framework. However, the group's actual credit costs have
+remained low in recent years amid Japan's stable credit market.
+We believe SMBC Group is likely to have stable revenue because of the group's limited reliance on highly volatile
+business. Net interest income and fees and commissions made up 84% of the group's gross operating income in fiscal
+2018. Trading revenue, which it earned mainly from trading gains on government bonds, made up a limited share of
+less than 10%.
+The group aims to improve its overhead ratio to about 60% in the medium to long term. To achieve this target, it is
+improving productivity and efficiency through digitalization and reorganization of retail branches. The ratio was 60.3%
+in fiscal 2018 after rising above 62% in fiscal 2016 from about 55% prior to that.
+Table 2
+
+Sumitomo Mitsui Financial Group Inc. Capital And Earnings
+--Fiscal year*-(%)
+Tier 1 capital ratio
+Double leverage
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+18.2
+
+16.7
+
+14.1
+
+13.7
+
+12.9
+
+107.1
+
+111.4
+
+111.7
+
+116.7
+
+124.0
+
+Net interest income/operating revenues
+
+45.8
+
+46.0
+
+46.1
+
+49.6
+
+50.7
+
+Fee income/operating revenues
+
+36.6
+
+35.4
+
+34.5
+
+35.1
+
+33.7
+
+Market-sensitive income/operating revenues
+
+6.7
+
+8.5
+
+9.5
+
+9.7
+
+8.2
+
+58.1
+
+59.3
+
+60.5
+
+59.2
+
+55.0
+
+Preprovision operating income/average assets
+
+0.6
+
+0.6
+
+0.6
+
+0.6
+
+0.8
+
+Core earnings/average managed assets
+
+0.4
+
+0.4
+
+0.4
+
+0.4
+
+0.5
+
+Noninterest expenses/operating revenues
+
+*Fiscal years end March 31 of the following year.
+
+Table 3
+
+Sumitomo Mitsui Financial Group Inc. Risk-Weighted Assets And RAC Ratio
+(Bil. ¥ )
+S&P Global Ratings' risk-weighted assets (S&P Global Ratings' RWA): Total credit risk
+(1)
+Government and central banks
+Institutions and central counterparties
+Corporate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+86,008
+
+1,322
+4,053
+66,076
+
+SEPTEMBER 25, 2019 7
+
+Sumitomo Mitsui Financial Group Inc.
+
+Table 3
+
+Sumitomo Mitsui Financial Group Inc. Risk-Weighted Assets And RAC Ratio (cont.)
+Retail
+
+8,670
+
+Securitization
+
+1,390
+
+Other assets
+
+4,496
+0
+
+S&P Global Ratings' RWA: Credit valuation adjustment (2)
+
+13,460
+
+S&P Global Ratings' RWA: Total market risk (3)
+
+5,663
+
+S&P Global Ratings' RWA: Total operational risk (4)
+
+105,131
+
+S&P Global Ratings' RWA before diversification (5)=(1)+(2)+(3)+(4)
+
+8,742
+
+Total adjusted capital (TAC) (6)
+
+8.3
+
+Risk-adjusted capital (RAC) (%) (7)=(6)/(5)
+As of Sept. 30, 2018.
+
+Chart 3
+
+Risk position: Limited volatile businesses and stable asset quality
+We expect SMBC Group's loan portfolio to grow moderately and its performance to remain stable. In our view, the
+major risk to SMBC Group is credit risk related to commercial banking. Corporate exposure made up 77% of its
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Sumitomo Mitsui Financial Group Inc.
+
+credit-risk assets (as defined under our RAC framework) as of the end of September 2018, while retail exposure made
+up 10%. The group's ratio of gross nonperforming loans (NPLs) remained low at 0.9%, and the ratio of its credit costs
+to average loan balance was about 0.2% as of the end of fiscal 2018.
+Credit costs may not fully capture higher credit risk because they generally reflect past loan performance. We regard
+sharp fluctuations in exchange rates and a decline in Japan's GDP as potential risk factors for SMEs' credit quality. In
+addition, one characteristic of Japan's banking industry is a main bank system, where banks and corporations value
+long-term stable relationships. Thus, if the business performance of large borrowers with which SMBC Group has close
+relationships deteriorates, the group may incur large losses or experience an increase in NPLs.
+SMBC Group is focusing on overseas expansion, mainly in the lending business. The international business division
+held about 38% of its groupwide regulatory risk-weighted assets as of the end of fiscal 2018. Overseas loans dominate
+the distribution of assets with low probability of default under the group's internal rating scores. Therefore, the group's
+overseas loan portfolio is unlikely to cause losses far exceeding the normalized loss rate under our RAC framework, in
+our opinion.
+We believe SMBC Group is exposed to market risk mainly from its cross-shareholdings and government bond
+portfolio. In particular, its banking book has material exposure to interest rate risk that the RAC framework does not
+cover. Nevertheless, SMBC Group's Japanese government bond holdings were about ¥6.2 trillion as of the end of fiscal
+2018, a significant reduction from about ¥27 trillion as of the end of fiscal 2012. SMBC Group held about ¥9.0 trillion
+in foreign bonds in the same period. We believe SMBC Group's interest risk is likely to remain manageable.
+In our view, SMBC Group benefits from diversification of risk under our RAC framework. The adjusted RAC ratio,
+reflecting increased risk from concentration or reduced risk from diversification, was 0.4 percentage point higher than
+the nonadjusted ratio as of the end of September 2018.
+SMBC Group's business complexity is average compared with that of major global financial groups. SMBC Group has
+extensive operations in multiple countries and regions, making its business somewhat complex. However, the
+investment banking business accounts for a limited portion of the group's overall earnings.
+Table 4
+
+Sumitomo Mitsui Financial Group Inc. Risk Position
+--Fiscal year*-(%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Growth in customer loans
+
+3.9
+
+(8.9)
+
+7.2
+
+2.8
+
+7.0
+
+New loan loss provisions/average customer loans
+
+0.1
+
+0.1
+
+0.2
+
+0.1
+
+0.0
+
+Net charge-offs/average customer loans
+
+0.2
+
+0.3
+
+0.3
+
+0.1
+
+0.1
+
+Gross nonperforming assets/customer loans + other real estate owned
+Loan loss reserves/gross nonperforming assets
+
+0.9
+
+0.9
+
+1.1
+
+1.2
+
+1.5
+
+69.3
+
+81.6
+
+74.4
+
+67.5
+
+60.9
+
+*Fiscal years end March 31 of the following year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Sumitomo Mitsui Financial Group Inc.
+
+Chart 4
+
+Chart 5
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Sumitomo Mitsui Financial Group Inc.
+
+Funding and liquidity: Solid core deposit base and ample liquidity
+In our view, SMBC Group has a large pool of domestic retail customers, which provides a stable base of core deposits
+that it draws from for its funding needs. Accordingly, we believe SMBC Group's funding is above average and its
+liquidity position is strong. Since Sept. 30, 2016, core customer deposits have consistently made up about 70% of its
+funding base. At the same time, the group's stable funding ratio, as defined by S&P Global Ratings, has held steady
+above 100% (involving some proxies for calculating the ratio), hovering in the range of 110%-120% since Sept. 30,
+2016.
+SMBC Group's ratio of total loans to customer deposits [(loans + lease receivables and lease assets - loan loss reserve)
+/ (deposits excluding negotiable certificate of deposits)] was 64% as of the end of fiscal 2018, indicating strong
+liquidity. Unrestricted cash and Japanese government bond holdings more than covered its short-term wholesale
+funding, which also indicates strong liquidity.
+We think foreign currency-denominated funding remains an important issue for the group, which has embarked on
+measures to secure stable foreign currency funding. Its ability to secure foreign currency funding constrains further
+growth in its overseas loan portfolio, in our view. SMBC Group is dependent on wholesale funding in foreign
+currencies because it lacks an overseas retail deposit base. Overseas loans extended by SMBC and the group's major
+overseas banking subsidiaries totaled $235 billion as of the end of fiscal 2018, up about 42% in the past five years,
+excluding the effects of foreign exchange rates. In tandem with this, SMBC Group has secured stable foreign currency
+funding by more than doubling its customer deposits, including central bank deposits, to ¥222 billion in the past five
+years. It has also diversified its funding, issuing the first Japanese euro-denominated covered bonds in November
+2018. It has also reduced reliance on short-term market funding in foreign currencies. Indeed, its outstanding balance
+of foreign currency-denominated bonds, including total loss-absorbing capacity (TLAC) debt, totaled about $61.1
+billion as of the end of March 2019.
+Table 5
+
+Sumitomo Mitsui Financial Group Inc. Funding And Liquidity
+--Fiscal year*-(%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Core deposits/funding base
+
+71.2
+
+69.7
+
+70.8
+
+71.1
+
+66.0
+
+Customer loans (net)/customer deposits
+
+63.6
+
+64.2
+
+69.6
+
+69.1
+
+73.5
+
+*Fiscal year ends March 31 of the following year.
+
+Support: High systemic importance in Japan, but no notch-up
+We consider SMBC Group highly likely to receive extraordinary government support in times of need. This reflects our
+view of the group's high systemic importance in Japan and the government's highly supportive tendency toward
+private-sector banks in Japan. We base our assessment on SMBC Group's large presence in the Japanese financial
+system as one of three megabank groups, as well as laws stipulating potential support, and the government's record of
+support for the banking sector.
+Nevertheless, our issuer credit ratings on SMBC Group's core operating banks are on par with the group SACP even
+after accounting for the likelihood of the group receiving extraordinary government support. This is because its "group
+SACP is only one notch lower than the sovereign rating on Japan, which limits the degree of government support
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+Sumitomo Mitsui Financial Group Inc.
+
+factored into our issuer credit ratings.
+
+Hybrid issue ratings
+We rate SMFG-issued Basel III-compliant subordinated bonds as 'BBB+', two notches below the group SACP. The
+notching reflects subordination risk and structural subordination because the bonds are issued by the nonoperating
+holding company. We did not deduct any additional notch for loss absorption upon the occurrence of a nonviability
+event. This is because:
+• We believe the government would likely provide extraordinary, preemptive support to systemically important banks
+at a relatively early stage if they were to suffer financial distress; and
+• Preemptive government support through a capital injection would not constitute a nonviability event and, therefore,
+would not lead to a writedown of principal or equity conversion of the hybrid.
+We rate preferred securities issued by SMFG's special-purpose corporations--Basel II-compliant preferred securities
+included in the Tier 1 capital ratio--as 'BBB-', four notches lower than the group SACP. The notching from the group
+SACP reflects subordination risk, partial or untimely payment risk on the dividends as Tier 1 capital, and structural
+subordination because the securities are linked to the nonoperating holding company.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+Sumitomo Mitsui Financial Group Inc.
+
+Related Criteria
+• Risk-Adjusted Capital Framework Methodology, July 20, 2017
+• Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Guarantee Criteria, Oct. 21, 2016
+• Bank Hybrid Capital And Nondeferrable Subordinated Debt Methodology And Assumptions, Jan. 29, 2015
+• Quantitative Metrics For Rating Banks Globally: Methodology And Assumptions, July 17, 2013
+• Banking Industry Country Risk Assessment Methodology And Assumptions, Nov. 9, 2011
+• Banks: Rating Methodology And Assumptions, Nov. 9, 2011
+• Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Commercial Paper I: Banks, March 23, 2004
+• Assessing Bank Branch Creditworthiness, Oct. 14, 2013
+• Group Rating Methodology, Nov. 19, 2013
+Anchor Matrix
+Economic Risk
+
+Industry
+Risk
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+
+a
+
+a
+
+a-
+
+bbb+
+
+bbb+
+
+bbb
+
+-
+
+-
+
+-
+
+-
+
+2
+
+a
+
+a-
+
+a-
+
+bbb+
+
+bbb
+
+bbb
+
+bbb-
+
+-
+
+-
+
+-
+
+3
+
+a-
+
+a-
+
+bbb+
+
+bbb+
+
+bbb
+
+bbb-
+
+bbb-
+
+bb+
+
+-
+
+-
+
+4
+
+bbb+
+
+bbb+
+
+bbb+
+
+bbb
+
+bbb
+
+bbb-
+
+bb+
+
+bb
+
+bb
+
+-
+
+5
+
+bbb+
+
+bbb
+
+bbb
+
+bbb
+
+bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+6
+
+bbb
+
+bbb
+
+bbb-
+
+bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb
+
+bb-
+
+b+
+
+7
+
+-
+
+bbb-
+
+bbb-
+
+bb+
+
+bb+
+
+bb
+
+bb
+
+bb-
+
+b+
+
+b+
+
+8
+
+-
+
+-
+
+bb+
+
+bb
+
+bb
+
+bb
+
+bb-
+
+bb-
+
+b+
+
+b
+
+9
+
+-
+
+-
+
+-
+
+bb
+
+bb-
+
+bb-
+
+b+
+
+b+
+
+b+
+
+b
+
+10
+
+-
+
+-
+
+-
+
+-
+
+b+
+
+b+
+
+b+
+
+b
+
+b
+
+b-
+
+Ratings Detail (As Of September 25, 2019)*
+Sumitomo Mitsui Financial Group Inc.
+Issuer Credit Rating
+
+A-/Positive/NR
+
+Senior Unsecured
+
+A-
+
+Subordinated
+
+BBB+
+
+Issuer Credit Ratings History
+16-Apr-2018
+
+A-/Positive/NR
+
+29-Nov-2017
+
+A-/Stable/NR
+
+29-Nov-2016
+
+A-/Positive/NR
+
+27-Nov-2015
+
+A-/Stable/NR
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+Sumitomo Mitsui Financial Group Inc.
+
+Ratings Detail (As Of September 25, 2019)*(cont.)
+17-Sep-2015
+
+A-/Stable/A-2
+
+Sovereign Rating
+Japan
+
+A+/Positive/A-1
+
+Related Entities
+Banco Sumitomo Mitsui Brasileiro S.A.
+Issuer Credit Rating
+Brazil National Scale
+
+brAAA/Stable/brA-1+
+
+SMBC Aviation Capital Ltd.
+Issuer Credit Rating
+
+A-/Stable/--
+
+SMBC Bank EU AG
+Issuer Credit Rating
+
+A/Positive/A-1
+
+SMBC Derivative Products Ltd.
+Issuer Credit Rating
+
+AA-/Stable/--
+
+SMBC Nikko Securities Inc.
+Issuer Credit Rating
+
+A/Positive/A-1
+
+SMFG Preferred Capital JPY 3 Ltd.
+Preferred Stock
+
+BBB-
+
+Sumitomo Mitsui Banking Corp.
+Issuer Credit Rating
+
+A/Positive/A-1
+
+Commercial Paper
+
+A-1
+
+Senior Unsecured
+
+A
+
+Senior Unsecured
+
+A-1
+
+Short-Term Debt
+
+A-1
+
+Subordinated
+
+A-
+
+Sumitomo Mitsui Banking Corp. (Brussels Branch)
+Commercial Paper
+
+A-1
+
+Sumitomo Mitsui Banking Corp. (China) Ltd.
+Issuer Credit Rating
+
+A/Positive/A-1
+
+Sumitomo Mitsui Banking Corp. (Dusseldorf Branch)
+Commercial Paper
+
+A-1
+
+Sumitomo Mitsui Banking Corp. Europe Ltd.
+Issuer Credit Rating
+
+A/Positive/A-1
+
+Sumitomo Mitsui Banking Corp. (Sydney Branch)
+Certificate Of Deposit
+
+A/A-1
+
+Senior Unsecured
+
+A
+
+Sumitomo Mitsui Finance and Leasing Co. Ltd.
+Issuer Credit Rating
+
+A-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 15
+
+

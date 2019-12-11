@@ -1,0 +1,804 @@
+Vertiv Group Corp.
+Primary Credit Analyst:
+James T Siahaan, CFA, New York (1) 212-438-3023; james.siahaan@spglobal.com
+Secondary Contact:
+Henry Fukuchi, New York (1) 212-438-2023; henry.fukuchi@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Vertiv Group Corp.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Negative/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong player in the data- and communication-center market.
+
+Moderate size with limited end-market diversity.
+
+Good geographic diversity and customer retention.
+
+Weak pass-through ability.
+
+Flexible cost structure.
+
+Elevated leverage and risks associated with financial sponsor ownership.
+
+The negative rating outlook reflects the company's elevated leverage profile.Vertiv Group Corp. has high leverage, with
+an adjusted-debt-to-EBITDA ratio exceeding 9x on a trailing-12-months basis as of June 30, 2019. It was 7x on an
+annualized basis of second-quarter earnings. Free cash flow is also weak, at negative $81 million for the 12 months
+ended June 30, 2019, though it improved from negative $343 million at the same point last year.
+We believe the company has good prospects to strengthen its credit measures over the next couple of years given its
+operational improvements, which we expect to materialize more meaningfully; the rolloff of previously incurred costs
+pertaining to the digital initiative; and the solid backlog that will support some credit metrics improvement. In our base
+case, we expect Vertiv's leverage ratio to ease to the low-6x area over the next 12 months. The company could also
+organically expand over 5% in 2019.
+However, there is a 1-in-3 chance that the credit measures may not improve to that extent because of macro-related
+uncertainties and the potential for unfavorable changes in product mix, market share, or operating costs.
+Vertiv benefits from a strong market position in its markets. It has good global presence (revenues are split at roughly
+45% from the U.S. and Canada and 55% from the rest of the world) and market positions. The company estimates that
+it accounts for roughly 15% of the $20 billion global data center market. It is the second-largest player in the roughly
+$8 billion power management space and has leading positions in large uninterruptible power supply, services and
+consulting, thermal management, and software. However, it serves specialized markets and competes against much
+larger, well-established companies that also maintain solid presence within Vertiv's markets.
+We believe solid profitability is likely, reflecting the company's ongoing focus on reducing costs through operational
+initiatives and maintaining a flexible cost structure. Vertiv's backlog of about $1.5 billion is healthy, and it has a diverse
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Vertiv Group Corp.
+
+customer base with strong retention characteristics. Its exposure to cyclical end markets and modest scale compared
+to higher-rated peers partially offset the positive factors.
+
+Outlook: Negative
+
+Our negative outlook reflects the 1-in-3 potential that we may lower our ratings on Vertiv during the next year if it
+does not improve credit ratios to more acceptable levels for the rating. An adjusted-debt-to-EBITDA ratio
+remaining above 7x with unclear prospects for improvement could prompt a downgrade. This scenario could arise
+if operational improvements are delayed or not fully realized, the cost environment remains challenging or
+worsens, and with unfavorable shifts in product mix or market share. This could also happen if a sale of the
+company increases leverage or delays the pace of improvement.
+
+Upside scenario
+We could revise the outlook to stable if Vertiv's growth and operational initiatives come to fruition and it becomes
+apparent that its adjusted–debt-to-EBITDA ratio will remain below 7x. Profitable bookings from the company's
+solid backlog, meaningful procurement savings, and gains from channel and digital investments could bring this
+about.
+While less likely, we could raise the rating on Vertiv if credit measures rapidly improve enough such that the
+leverage ratio approaches 5.5x and we expect it to remain there. This more remote scenario could be due to a
+successful IPO and if the proceeds, in addition to providing liquidity for shareholders, are also used to repay
+substantial debt, including the $500 million of senior unsecured payment-in-kind (PIK) notes issued by the indirect
+parent. An upgrade would also require strong evidence that the sponsor will pursue a less aggressive financial
+policy.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Vertiv Group Corp.
+
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020;
+
+2018A
+EBITDA margin (%)
+
+• Europe real GDP growth of 1.1% in 2019 and 1.3%
+in 2020;
+• Asia-Pacific (APAC) real GDP growth of 5.1% in
+2019 and 5.3% in 2020;
+
+Debt to EBITDA (x)
+FFO to debt (%)
+
+2019E
+
+2020E
+
+2021E
+
+6.5 11.5-12 12.5-13
+
+13-14
+
+11.3
+
+6-6.5
+
+0.3
+
+7-7.5
+
+5.2-5.7
+
+5-5.5
+
+8.5-9 9.5-11.5
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Low-single-digit percentage revenue growth driven
+by strong end-market demand across regions, solid
+order backlog, and slightly moderating colocation
+segment growth;
+• Adjusted EBITDA margins in the low-teens
+percentage area, helped by cost savings realized
+from operational initiatives;
+• Capital expenditure (capex) of $70 million-$75
+million in future years;
+• $60 million in aggregate of dividend outlays each
+year to the indirect parent level holding company to
+fund twice-yearly interest payments on that entity's
+$500 million unsecured PIK toggle notes;
+• Roughly $50 million annually for acquisitions; and
+• Modest debt repayment.
+
+Company Description
+With trailing-12-months sales of about $4.4 billion as of June 30, 2019, Columbus, Ohio-based Vertiv primarily
+manufactures power and thermal management equipment and provides services for data and communication centers.
+It also makes products and software for commercial and industrial use.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Vertiv Group Corp.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Vertiv Group Corp.
+
+Chart 2
+
+Business Risk: Fair
+Our view reflects its strong position in the niche data- and communication-center market, scale, long-standing
+customer relationships, and low customer concentration (its top 10 account for about 20% of total sales). It is also
+geographically well-diversified with operations across the Americas; Europe, the Middle East, and Africa (EMEA); and
+APAC.
+The ratings also take into consideration Vertiv's competition with large, well-capitalized companies including Eaton
+Corp. PLC and Schneider Electric S.E. Additionally, its heavy concentration in the data- and communication-center
+end markets exposes the company to cyclical fluctuations and potential shifts in customer demand.
+We assess Vertiv's management and governance as fair. Management has specified financial and operational goals for
+its restructuring and cost-reduction program and a strategic plan to support growth and profitability. However, we
+score governance factors such as board effectiveness and management independence negative due to the company's
+financial sponsor ownership and resulting lack of independence.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Vertiv Group Corp.
+
+Peer comparison
+Table 1
+
+Vertiv Group Corp. -- Peer Comparison
+Industry Sector: Capital Goods/Diversified
+Vertiv Group Corp.
+
+nVent Electric PLC
+
+Evoqua Water Technologies Corp.
+
+B/Negative/--
+
+BBB-/Stable/--
+
+B/Stable/--
+
+Ratings as of Sept. 5, 2019
+
+--Fiscal year ended Dec. 31, 2018--
+
+--Fiscal year ended Sept. 30, 2018--
+
+(Mil. $)
+Revenue
+
+4,285.6
+
+2,213.6
+
+1,339.5
+
+EBITDA margin (%)
+
+6.5
+
+19.7
+
+13.7
+
+Return on capital (%)
+
+0.5
+
+8.1
+
+5.5
+
+EBITDA interest coverage (x)
+
+1.2
+
+11.5
+
+3.0
+
+Adjusted ratios
+
+FFO cash interest coverage (x)
+
+1.1
+
+9.8
+
+3.8
+
+11.3
+
+2.4
+
+5.7
+
+0.3
+
+32.1
+
+12.7
+
+Cash flow from operations/debt (%)
+
+(3.8)
+
+33.9
+
+8.8
+
+FOCF/debt (%)
+
+(7.1)
+
+30.2
+
+0.9
+
+DCF/debt (%)
+
+(9.0)
+
+18.8
+
+0.5
+
+Debt/EBITDA (x)
+FFO/debt (%)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+We included nVent Electric PLC because, like Vertiv, it supplies network power and thermal management products.
+We included Evoqua Water Technologies Corp. because it is also a highly leveraged issuer in the capital goods
+industry with the same rating.
+
+Financial Risk: Highly leveraged
+Our assessment of Vertiv contemplates its adjusted debt to EBITDA of about 6x-6.5x and funds from operations (FFO)
+to adjusted debt of about 12% in the next 12 months.
+Adjusted debt to EBITDA is elevated, driven by various costs related to restructuring, financing transactions, and
+merger and acquisition activity, coupled with high debt. We expect the materialization of operational improvements,
+improved backlog, improved EBITDA margins, and profitability should support the restoration of credit metrics to
+more appropriate levels. These ratios assume Vertiv does not make large, debt-financed acquisitions beyond our
+base-case forecasts while maintaining steady mid-single-digit percent expansion from ongoing growth investments and
+bolt-on acquisitions.
+Vertiv is owned by financial sponsor Platinum Equity. We expect credit metrics will continue to be highly leveraged,
+consistent with aggressive financial policies of its owners. Our ratings incorporate modest acquisition activity and the
+potential for financial policy events over time that are not more onerous than we expect.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Vertiv Group Corp.
+
+Financial summary
+Table 2
+
+Vertiv Group Corp. -- Financial Summary
+Industry Sector: Capital Goods/Diversified
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+4,285.6
+
+3,879.4
+
+4,307.4
+
+4,378.7
+
+EBITDA margin (%)
+
+6.5
+
+9.5
+
+10.7
+
+11.2
+
+Return on capital (%)
+
+0.5
+
+(0.6)
+
+5.5
+
+7.7
+
+EBITDA interest coverage (x)
+
+1.2
+
+1.0
+
+12.0
+
+41.1
+
+FFO cash interest coverage (x)
+
+1.1
+
+1.7
+
+13.6
+
+48.0
+
+11.3
+
+9.2
+
+6.7
+
+0.4
+
+0.3
+
+3.9
+
+8.9
+
+256.8
+
+Cash flow from operations/debt (%)
+
+(3.8)
+
+0.0
+
+11.6
+
+206.4
+
+FOCF/debt (%)
+
+(7.1)
+
+(1.1)
+
+10.3
+
+187.2
+
+DCF/debt (%)
+
+(9.0)
+
+(19.5)
+
+7.2
+
+(1.5)
+
+(Mil. $)
+Revenue
+Adjusted ratios
+
+Debt/EBITDA (x)
+FFO/debt (%)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Liquidity: Adequate
+We assess Vertiv's liquidity as adequate. We expect the company's sources will be at least 1.2x its uses, and believe net
+sources would remain positive even if EBITDA decreases by 15% from our projections.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About $110 million cash as of June 30, 2019.
+
+• Annual debt amortization of about $25 million.
+
+• Availability of about $296 million under its $455
+million asset-based loan (ABL) facility as of June 30,
+2019.
+
+• Working capital outflow of $80 million-$90 million in
+2019.
+• Maintenance capex of $45 million each year.
+
+• FFO of about $220 million–$280 million annually for
+next two years.
+
+Debt maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Vertiv Group Corp.
+
+Chart 3
+
+Note: $500 million PIK toggle notes issued by Vertiv Intermediate Holding Corp. are due Feb. 15, 2022.
+
+Covenant Analysis
+Compliance expectations
+
+Requirements
+
+We expect Vertiv to be in compliance with its
+covenants for the next few quarters.
+
+The ABL is subject to a springing minimum 1x
+fixed-charge coverage ratio when availability is less
+than the greater of 10% of the total commitments and
+$30 million.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+
+Our simulated default scenario contemplates a default in 2022 due to a deep global recession that sharply reduces
+sales volume. We assume pricing pressures exacerbate the distress and cause cash shortfalls that lead to a default.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Vertiv Group Corp.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• We value the group as a going concern given its
+good reputation and strong customer relationships.
+
+• Emergence EBITDA: $344 million
+
+• Year of default: 2022
+• Jurisdiction: U.S.
+• Valuation split (obligors/nonobligors): 50%/50%
+
+• Multiple: 5.5x
+• Gross recovery value: $1.89 billion
+• Net enterprise value (after 5% administrative costs):
+$1.8 billion
+• ABL priority claims: $248 million*
+• Net recovery value available to first-lien debt claims:
+$1.24 billion
+• Secured first-lien debt claims: $2.11 billion*
+• --Recovery expectations: 50%-70% (rounded
+estimate: 65%)
+• Net recovery value available to second-lien debt
+claims: $22.2 million
+• Secured second-lien debt claims: $126 million*
+• --Recovery expectations: 10%-30% (rounded
+estimate: 15%)
+• Net recovery value available to senior unsecured
+creditors: $315 million
+• Senior unsecured debt claims: $1.79 billion*
+• --Recovery expectations: 10%-30% (rounded
+estimate: 15%)
+• Remaining value for senior unsecured PIK note
+creditors: $0 million
+• Senior unsecured PIK note: $500 million
+• --Recovery expectations: 0%-10% (rounded
+estimate: 0%)
+*Debt amounts assume six months of prepetition
+interest outstanding at default.
+Collateral value includes asset pledges from obligors
+(after priority claims) plus equity pledges in
+nonobligors. We assume usage of 60% on the
+company's ABL facility (unrated) at default.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Vertiv Group Corp.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Negative/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Vertiv Group Corp.
+
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria | Insurance | General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 6, 2019)*
+Vertiv Group Corp.
+Issuer Credit Rating
+
+B/Negative/--
+
+Senior Secured
+
+B
+
+Senior Secured
+
+B-
+
+Senior Unsecured
+
+B-
+
+Issuer Credit Ratings History
+31-Aug-2018
+
+B/Negative/--
+
+16-Sep-2016
+
+B+/Stable/--
+
+Related Entities
+Vertiv Intermediate Holding Corp.
+Senior Unsecured
+
+CCC+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 13
+
+

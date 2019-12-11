@@ -1,0 +1,1268 @@
+VF Corp.
+Primary Credit Analyst:
+Mariola Borysiak, New York (1) 212-438-7839; mariola.borysiak@spglobal.com
+Secondary Contact:
+Diane M Shand, New York (1) 212-438-7860; diane.shand@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+VF Corp.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a
+
+a
+
+a
+
+A/Stable/A-1
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+One of the largest U.S. apparel companies, with a portfolio of strong and
+diverse brands
+
+Participation in a very fragmented and competitive apparel
+industry
+
+Solid and consistent cash-flow generation
+
+Exposure to foreign-currency headwinds
+
+Conservative financial policies
+
+Portfolio rationalization remains the company's top priority. Over the past two years, the company acquired
+Williamson-Dickie, Icebreaker, and Altra. It also divested Nautica, Reef, and Van Moer, and it completed the spin-off of
+Kontoor Brands. We expect the company will continue to actively manage its portfolio of brands to operate with
+greater speed and agility, strengthen its position in faster-growing categories, and strengthen its margin profile. We
+believe the company has made substantial progress in these areas with its recent portfolios changes, which should
+enhance operational performance.
+The EBITDA margin should remain above the industry average. The company's brands resonate well with customers
+because of its ability to continually innovate and deliver products on trend. The company is transitioning to a
+consumer- and retail-centric operating model, which will help it meet consumers' needs across all channels. Its
+effective marketing strategy and its pricing and purchasing power will allow it to maintain solid EBITDA margin at
+about 18% over the next one to two years. Increasing market volatility and the uncertain geopolitical environment,
+especially with regard to tariff increases on goods sourced from China, are risks that should be manageable and not
+significantly affect the company's profitability given its well-diversified supplier base.
+We believe the company will maintain its historically disciplined financial policy and conservative balance sheet as it
+continues to focus on making bolt-on acquisitions. Following the recent spin-off of Kontoor Brands, the company used
+a portion of the proceeds to repay about $600 million of short-term borrowings. We expect the company to maintain
+conservative financial policies, and while it will likely pursue bolt-on acquisitions and leverage could temporarily
+exceed 2x, we expect the company will prioritize debt reduction and will reduce leverage below 2x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+VF Corp.
+
+Outlook: Stable
+
+The stable outlook reflects our view that VF Corp. will manage its leverage at 1.5x-2.0x as it continues to pursue
+bolt-on acquisitions. Leverage could temporarily increase above 2.0x; however, we expect the company will
+demonstrate financial discipline and bring leverage back toward the mid-1x area in 12-18 months following an
+acquisition.
+
+Downside scenario
+We could lower the ratings if VF Corp's strategic and financial policy becomes more aggressive and the company
+engages in more shareholder-friendly activities, or if it pursues aggressive debt-financed acquisitions such that
+leverage increases to and stays above 2.0x. In addition, we could lower the ratings if the margin profile of VF
+Corp.'s businesses deteriorates due to an unexpected rise in input costs such that the company is unable to pass
+them on to customers, or competitive pressures such that debt to EBITDA increases above 2.0x for an extended
+period.
+
+Upside scenario
+An upgrade is unlikely over the next one to two years given its acquisition strategy, but over the longer term, one
+could result from the company further strengthening its market position while successfully managing its brands in
+the highly competitive apparel sector, thus improving margins and maintaining debt leverage below 1.5x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+VF Corp.
+
+Assumptions
+
+• U.S. GDP growth of 2.5% and 1.8% in 2019 and
+2020, respectively, and a global GDP growth rate of
+about 3% over the next two years will support the
+company's global expansion and top-line growth.
+• Revenues for fiscal 2020 (ending March 30, 2020)
+will decrease by about 15% from 2019 levels due to
+the spin-off of the Jeanswear segment, offset to
+some extent by strength in core brands and digital
+and international platforms driving overall growth.
+Beyond fiscal 2020, we expect revenues to grow
+in-line with the GDP growth rate.
+
+Key Metrics
+
+Debt/EBITDA (x)
+
+2019A
+
+2020E
+
+2021E
+
+1.6
+
+1.5-1.7
+
+1.5-1.7
+
+FFO/debt (%)
+
+50.7 54.0-57.0 50.0-55.0
+
+EBITDA/interest (x)
+
+13.4 14.0-15.0 14.0-16.0
+
+A--Actual. E—Estimate.
+
+• We expect the EBITDA margin to improve by about
+100 basis points toward mid-18% over the next two
+years, driven by an ongoing mix shift toward
+higher-margin businesses and stronger selling,
+general, and administrative leverage with the
+phasing of restructuring charges partially offset by
+dis-synergies from the Kontoor separation.
+• Capital expenditures (capex) of about $400 million
+in fiscal 2020, primarily due to infrastructure
+investments, with capex to normalize to about $300
+million thereafter.
+• Free operating cash flow of slightly below $1 billion
+in fiscal 2020 and increasing to about $1.1 billion in
+2021.
+• Cash dividends of about $700 million and share
+repurchases of about $400 million-$500 million over
+the next two years.
+
+Base-case projections
+Sales growth and margins will remain healthy. Continued momentum in the company's The North Face and Vans
+brands, solid performance in international markets, and its direct-to-consumer segment will support stable revenue
+growth, despite ongoing challenges in the U.S. wholesale segment.
+
+Company Description
+VF Corp. is one of the largest designers and manufacturers of branded lifestyle apparel footwear and related products.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+VF Corp.
+
+Business Risk: Strong
+VF Corp. maintains a leading position as one of the largest U.S. apparel companies, with pro forma revenue of a little
+less than $12 billion for fiscal 2020 (ending March 30, 2020). The company will continue to have solid positions in the
+outdoor, active, and work lifestyle segments and maintain a portfolio of well-diversified and recognized brands, which
+include Vans, The North Face, Timberland, Kipling, and Williamson-Dickie. The company will also continue to benefit
+from diversified distribution channels, strong product development capability, efficient global supply chain, and pricing
+and purchasing power (in part because of its innovative fabric), all of which have enabled it to generate above-average
+margins and profitability.
+
+Peer comparison
+Selected rated peers for VF Corp. include PVH Corp., Ralph Lauren Corp., and NIKE Inc. All these peers have good
+product, channel, and geographic diversification. However, PVH's business relies heavily on its Tommy Hilfiger and
+Calvin Klein brands, while Ralph Lauren's brand portfolio is predominantly related to the Ralph Lauren name. Also,
+both these companies are smaller in scale than VF Corp. NIKE, with revenues of nearly $40 billion, is the largest seller
+of athletic footwear, apparel, equipment, and accessories.
+NIKE and Ralph Lauren's credit measures are stronger, with leverage below 1x and about 1x, respectively. PVH's
+leverage is about 3x, but we expect leverage could increase toward 4x for an acquisition. The company, however,
+would be able to reduce leverage below 4x shortly after the acquisition.
+Table 1
+
+VF Corp.--Peer Comparison
+Industry sector: Textile and
+apparel
+
+Ratings as of Sept. 5, 2019
+
+VF Corp.
+
+PVH Corp.
+
+NIKE Inc.
+
+Ralph Lauren Corp.
+
+A/Stable/A-1
+
+BBB-/Stable/--
+
+AA-/Stable/A-1+
+
+A-/Stable/A-2
+
+--Fiscal year ended Feb. --Fiscal year ended May 31,
+03, 2019-2019--
+
+--Fiscal year ended March
+30, 2019--
+
+--Fiscal year ended March
+31, 2019-(Mil. $)
+Revenue
+
+13,848.7
+
+9,656.8
+
+39,117.0
+
+6,313.0
+
+EBITDA
+
+2,438.2
+
+1,709.1
+
+6,388.0
+
+1,298.9
+
+Funds from operations
+(FFO)
+
+1,991.4
+
+1,329.7
+
+5,284.3
+
+1,071.2
+
+181.5
+
+247.5
+
+324.7
+
+129.1
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+
+86.9
+
+240.9
+
+346.7
+
+125.7
+
+1,984.0
+
+1,168.3
+
+6,280.3
+
+1,016.8
+
+306.8
+
+379.5
+
+1,119.0
+
+197.7
+
+1,677.2
+
+788.8
+
+5,161.3
+
+819.1
+
+Discretionary cash flow
+(DCF)
+
+759.5
+
+452.0
+
+(473.7)
+
+125.8
+
+Cash and short-term
+investments
+
+543.0
+
+452.0
+
+4,663.0
+
+1,987.5
+
+3,927.0
+
+4,283.1
+
+2,699.7
+
+1,048.4
+
+Free operating cash flow
+(FOCF)
+
+Debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+VF Corp.
+
+Table 1
+
+VF Corp.--Peer Comparison (cont.)
+Industry sector: Textile and
+apparel
+VF Corp.
+
+PVH Corp.
+
+NIKE Inc.
+
+Ralph Lauren Corp.
+
+4,298.5
+
+5,828.0
+
+9,040.0
+
+3,287.2
+
+EBITDA margin (%)
+
+17.6
+
+17.7
+
+16.3
+
+20.6
+
+Return on capital (%)
+
+21.5
+
+10.0
+
+41.9
+
+17.0
+
+EBITDA interest coverage
+(x)
+
+13.4
+
+6.9
+
+19.7
+
+10.1
+
+FFO cash interest coverage
+(x)
+
+23.9
+
+6.5
+
+16.2
+
+9.5
+
+1.6
+
+2.5
+
+0.4
+
+0.8
+
+FFO/debt (%)
+
+50.7
+
+31.0
+
+195.7
+
+102.2
+
+Cash flow from
+operations/debt (%)
+
+50.5
+
+27.3
+
+232.6
+
+97.0
+
+FOCF/debt (%)
+
+42.7
+
+18.4
+
+191.2
+
+78.1
+
+DCF/debt (%)
+
+19.3
+
+10.6
+
+(17.5)
+
+12.0
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+Financial Risk: Modest
+Financial summary
+VF Corp. continues to demonstrate conservative financial policies, including a balanced approach to pursuing ongoing
+bolt-on acquisitions while keeping leverage within stated targets by prudently managing shareholder returns. We
+believe VF Corp. will manage its leverage at 1.5x-2.0x. Although we believe it will pursue bolt-on acquisitions, and
+leverage could temporarily increase above 2.0x, we expect the company will demonstrate financial discipline and
+deemphasize its share repurchases in order to bring leverage back toward the mid-1x area.
+Table 2
+
+VF Corp.--Financial Summary
+Industry sector: Textile and apparel
+2019*
+
+2017¶
+
+2016¶
+
+2015¶
+
+2014¶
+
+(Mil. $)
+Revenue
+
+13,848.7 11,811.2 12,019.0 12,376.7 12,282.2
+
+EBITDA
+
+2,438.2
+
+2,247.6
+
+2,375.4
+
+2,532.5
+
+2,509.1
+
+Funds from operations (FFO)
+
+1,991.4
+
+1,746.9
+
+1,771.3
+
+2,023.8
+
+1,979.1
+
+181.5
+
+171.5
+
+176.4
+
+175.3
+
+164.2
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+Free operating cash flow (FOCF)
+
+86.9
+
+169.5
+
+169.2
+
+169.7
+
+159.8
+
+1,984.0
+
+1,606.2
+
+1,580.5
+
+1,393.0
+
+1,812.3
+
+306.8
+
+234.7
+
+175.8
+
+254.5
+
+234.1
+
+1,677.2
+
+1,371.5
+
+1,404.7
+
+1,138.5
+
+1,578.2
+
+Discretionary cash flow (DCF)
+
+759.5
+
+(513.5)
+
+(231.8)
+
+(159.4)
+
+371.5
+
+Cash and short-term investments
+
+543.0
+
+566.1
+
+1,227.9
+
+945.6
+
+971.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+VF Corp.
+
+Table 2
+
+VF Corp.--Financial Summary (cont.)
+Industry sector: Textile and apparel
+2019*
+
+2017¶
+
+2016¶
+
+2015¶
+
+2014¶
+
+543.0
+
+566.1
+
+1,227.9
+
+945.6
+
+971.9
+
+Debt
+
+3,927.0
+
+4,106.9
+
+2,668.1
+
+2,749.9
+
+2,293.3
+
+Equity
+
+4,298.5
+
+3,719.9
+
+4,940.9
+
+5,384.8
+
+5,630.9
+
+EBITDA margin (%)
+
+17.6
+
+19.0
+
+19.8
+
+20.5
+
+20.4
+
+Return on capital (%)
+
+21.5
+
+20.9
+
+22.4
+
+24.1
+
+24.2
+
+EBITDA interest coverage (x)
+
+13.4
+
+13.1
+
+13.5
+
+14.5
+
+15.3
+
+FFO cash interest coverage (x)
+
+23.9
+
+11.3
+
+11.5
+
+12.9
+
+13.4
+
+1.6
+
+1.8
+
+1.1
+
+1.1
+
+0.9
+
+FFO/debt (%)
+
+50.7
+
+42.5
+
+66.4
+
+73.6
+
+86.3
+
+Cash flow from operations/debt (%)
+
+50.5
+
+39.1
+
+59.2
+
+50.7
+
+79.0
+
+FOCF/debt (%)
+
+42.7
+
+33.4
+
+52.6
+
+41.4
+
+68.8
+
+DCF/debt (%)
+
+19.3
+
+(12.5)
+
+(8.7)
+
+(5.8)
+
+16.2
+
+Gross available cash
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+*Fiscal year ended March 30, 2019. ¶Fiscal years ended in December.
+
+Liquidity: Strong
+The short-term rating on VF Corp. is 'A-1', and we assess its liquidity as strong, reflecting our forecast that the
+company's sources of cash will exceed its uses by about 2x over the next 12 months, and about 2.5x for the following
+12 months. We expect that sources will continue exceeding uses even if EBITDA declines by 30%. We believe the
+company has well-established and solid relationships with banks and high standing in credit markets, as unsecured
+notes currently trade at a premium. We expect VF Corp. will have the ability to weather market turbulence without
+refinancing and also has generally prudent risk management, as the revolver and cash balances demonstrate
+management's planning to ensure strong, but not exceptional, liquidity throughout its seasonal operating cycle.
+Furthermore, we expect the company will be in compliance with its maximum debt-to-capital covenant.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of $606 million as of June 29, 2019;
+
+• Seasonal working-capital requirement of about $700
+million per year;
+
+• Availability of $2.2 billion under its $2.25 billion
+revolving credit facility expiring December 2023;
+and
+• Forecast cash funds from operations of about $1.4
+billion-$1.5 billion over the next two years.
+
+• Capex of about $400 million over the next 12
+months, normalizing to $260 million annually
+thereafter;
+• Dividends of about $700 million per year; and
+• We exclude share repurchases from our liquidity
+calculation, as we consider these discretionary in
+nature.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+VF Corp.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+The company's capital structure consists of senior unsecured notes and a senior unsecured global revolving credit
+facility. All notes are issued by VF Corp., and the revolving credit facility is co-issued by VF Corp. and a few
+international subsidiaries, giving the company liquidity in its foreign markets. All debt is issued pari passu.
+
+Analytical conclusions
+With no material priority obligations ranking ahead of VF Corp.'s senior unsecured obligations, we rate all senior
+unsecured debt 'A', the same as the issuer credit rating.
+
+Reconciliation
+Table 3
+
+Reconciliation Of VF Corp.'s Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Mar. 31, 2019-VF Corp.'s reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+2,786.2
+
+1,976.8
+
+1,675.8
+
+108.1
+
+2,438.2
+
+1,664.2
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(359.8)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(13.6)
+
+--
+
+182.1
+
+--
+
+--
+
+--
+
+--
+
+37.0
+
+1,143.5
+
+356.2
+
+73.4
+
+73.4
+
+(73.4)
+
+282.8
+
+53.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(515.9)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+105.2
+
+--
+
+--
+
+--
+
+--
+
+Trade receivables securitizations
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+Share-based compensation
+expense
+Nonoperating income (expense)
+
+--
+
+--
+
+(23.0)
+
+--
+
+--
+
+--
+
+277.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1,140.8
+
+461.4
+
+50.4
+
+73.4
+
+(446.8)
+
+319.8
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+3,927.0
+
+2,438.2
+
+1,726.2
+
+181.5
+
+1,991.4
+
+1,984.0
+
+Debt: Tax liabilities
+Total adjustments
+
+S&P Global Ratings' adjusted
+amounts
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+VF Corp.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A/Stable/A-1
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : a
+
+Related Criteria
+Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings
+, March 28, 2018
+General Criteria: Methodology For Linking Long-Term And Short-Term Ratings
+, April 7, 2017
+Criteria - Corporates - Industrials: Key Credit Factors For The Branded Nondurables Industry
+, May 7, 2015
+Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers
+, Dec. 16, 2014
+General Criteria: Group Rating Methodology
+, July 1, 2019
+Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+VF Corp.
+
+, Nov. 19, 2013
+Criteria - Corporates - General: Corporate Methodology
+, Nov. 19, 2013
+General Criteria: Country Risk Assessment Methodology And Assumptions
+, Nov. 19, 2013
+General Criteria: Methodology: Industry Risk
+, Nov. 19, 2013
+General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers
+, Nov. 13, 2012
+General Criteria: Use Of CreditWatch And Outlooks
+, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 9, 2019)*
+VF Corp.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Commercial Paper
+Local Currency
+Senior Unsecured
+
+A-1
+A
+
+Issuer Credit Ratings History
+11-Apr-2014
+
+A/Stable/A-1
+
+27-Feb-2013
+
+A-/Stable/A-2
+
+28-Jul-2011
+
+A-/Negative/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+

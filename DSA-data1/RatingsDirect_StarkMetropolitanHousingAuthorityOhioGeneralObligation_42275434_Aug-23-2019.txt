@@ -1,0 +1,1068 @@
+Stark Metropolitan Housing Authority,
+Ohio; General Obligation
+Primary Credit Analyst:
+Ki Beom K Park, New York (1) 212-438-8493; kib.park@spglobal.com
+Secondary Contact:
+Joshua C Saunders, Chicago (1) 312-233-7059; joshua.saunders@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Comparative Analysis
+Extraordinary Government Support
+Enterprise Profile
+Financial Profile
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 1
+
+Stark Metropolitan Housing Authority, Ohio;
+General Obligation
+Credit Profile
+US$3.4 mil tax-ex certs of part (Energy Improvement Measures Proj) ser 2019 due 08/01/2039
+Long Term Rating
+
+A-/Stable
+
+New
+
+A-/Stable
+
+New
+
+US$0.0 mil ICR due 12/31/2099
+Long Term Rating
+
+Rationale
+S&P Global Ratings assigned its 'A-' rating to the Stark Metropolitan Housing Authority (SMHA), Ohio's series 2019
+certificates of participation (COPs). At the same time, S&P Global Ratings assigned its 'A-' issuer credit rating (ICR) to
+SMHA. The outlook is stable.
+The rating on the COPs reflects our view of SMHA's full-faith-and-credit pledge to lease payments that will flow
+through to certificate holders.
+The ratings on SMHA reflect the authority's stand-alone credit profile (SACP) of 'bbb+' and our view that there is a
+moderate likelihood that the U.S. government would provide timely and sufficient extraordinary support to SMHA in
+the event of financial distress.
+The rating also reflects our view of the authority's:
+• Strong enterprise risk profile supported by strong demand on the affordability in the region and operating
+performance;
+• Adequate financial risk profile due to Authority's low leverage position and strong liquidity position that would
+support to repay debt obligations in a timely manner;
+• Good management team, with sound policies and strategy to build stronger asset quality and continue to provide
+various social services for tenants.
+Offsetting the above-mentioned strengths are what we consider:
+• Susceptibility to year-over-year federal funding levels and limited revenue sources, which lead to volatility in
+financial performance; and
+• Repayment obligations with U.S. Department of Housing and Urban Development (HUD) to settle an Office of
+Inspector General report.
+Given its reliance on government support for approximately 74% of its revenue, the authority is vulnerable to potential
+funding cuts from the U.S. Dept. of Housing and Urban Development (HUD). HUD is the main source of public funding
+for affordable housing and, as a federal government entity, is bound to congressional budget decisions. Recent funding
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 2
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+increases alleviate some of the authority's operating risk, maintain consistent levels of financial performance for the
+remainder of this year, and sustain the number of households receiving housing vouchers and low income public
+housing support.
+In 2013, the Office of the Inspector General (OIG) published a report concluding that approximately $10.5 million in
+operating and capital funds were used on ineligible expenditures. As a result of the findings in the report, SMHA
+entered into two repayment agreements with HUD: a Capital Fund Repayment plan and a Low-Rent Public Housing
+Repayment plan. The former will be paid through a reduction in annual capital funds over the next 10 years while the
+latter will be paid through non-federal funds over the next 38 years. We view the repayment plans with HUD as a
+significant weight on the authority from both a financial and strategic standpoint.
+SMHA's mission is to provide low-income households with safe, decent, and affordable housing opportunities in Stark
+County. It also strives to help residents achieve self-sufficiency and improve their overall quality of life. SMHA serves
+over 4,000 families through its low-income public housing and Housing Choice Vouchers (HCV) programs. It
+administers 1,643 HCVs, which consist of:
+• Standard HCVs,
+• Family Unification Program vouchers,
+• Moderate rehabilitation vouchers,
+• Continuum of Care Rental Assistance vouchers,
+• HOME Tenant-base Rental Assistance vouchers,
+• Mental Health and Recovery Services vouchers, and
+• Veterans Affairs-supported housing vouchers.
+The COPs will be issued to finance and refinance the acquisition and installation of energy-saving equipment at 12
+properties. COP proceeds will be used to pay capitalized interest during installation periods, debt service reserve fund
+sized at six months MADS as well as COP issuance costs. The COPs are backed by SMHA's general revenue pledge.
+Debt service is expected to be fully covered by HUD subsidies, specifically the Frozen Rolling Base subsidy.
+In our opinion, SMHA has the potential to improve its financial strength and long-term stability, but this will depend
+heavily on its ability to:
+• Maintain demand for housing stock,
+• Maximize resources for public housing redevelopment and the development of mixed-finance housing,
+• Find alternative revenue sources, and
+• Reduce expenses.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 3
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+Outlook
+The stable outlook reflects what we consider SMHA's strong relationship with the communities it serves and its market
+demand, evidenced by the strong need for this housing market segment.
+The Authority's strong operational and administrative efficiencies factor into the outlook. However, its dependence on
+federal subsidies and grants, as mentioned above, continues to constrain the rating. Key rating factors will reflect
+SMHA's ability to:
+• Manage its volatile net operating income,
+• Engage in various market participants to provide additional income sources, and
+• Leverage the necessary resources to carry out its development plans.
+
+Downside scenario
+The Authority's inability to maintain existing housing stocks could impair its financial strength during the outlook
+period of two years and result in a lower rating. A lower rating is also likely if a negative trend of EBITA interest
+coverage below 1x or the liquidity ratio falls below 1.05x.
+
+Upside scenario
+Continued efforts to improve Authority's asset could play an integral role in improving SMHA's finances. We could
+raise the rating if SMHA were to increase non-HUD revenue sources, and significantly improve its EBITDA to levels
+more commensurate with those of higher rated peers.
+
+Comparative Analysis
+Table 1 details how SMHA compares in key measurements to its peers. We believe SMHA relies on social housing
+activity in the same manner as most traditional U.S. PHAs, whereby federal subsidies provide the primary revenue
+stream. SMHA's ratio of HUD subsidies to total revenue has remained steady in recent years, and was 73% in fiscal
+2018. Like other cities with high living costs, SMHA is considered to have strong economic fundamentals, providing
+low-cost social rent over market rent to meet very high demand for low-rent housing in Canton. SMHA is on par with
+its U.S. peers in terms of revenue from social housing activity and vacancy rates. However, its financial performance
+(profitability) is weak for a traditional U.S. PHA. Overall, SMHA is in line with its peers in terms of debt and liquidity
+profiles.
+Table 1
+
+Housing Authorities Comparative Analysis
+
+Entity
+Stark
+Metropolitan
+Housing
+Authority
+
+ICR
+Rating
+A-
+
+Revenues from
+Government
+(%)
+
+Pop.
+Growth
+(%)
+
+Social rent
+as % of
+Market
+rent
+
+Vacancy
+Rate (%)
+
+EBITDA /
+Revenues
+(%)
+
+73.5
+
+(0.2)
+
+30.5
+
+4.0
+
+8.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+Debt / EBITDA /
+EBITDA
+Interest
+4.3
+
+6.7
+
+Liquidity
+Ratio
+3.0
+
+AUGUST 19, 2019 4
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+Table 1
+
+Housing Authorities Comparative Analysis (cont.)
+
+Entity
+
+ICR
+Rating
+
+Revenues from
+Government
+(%)
+
+Pop.
+Growth
+(%)
+
+Social rent
+as % of
+Market
+rent
+
+Vacancy
+Rate (%)
+
+EBITDA /
+Revenues
+(%)
+
+Debt / EBITDA /
+EBITDA
+Interest
+
+Liquidity
+Ratio
+
+Lucas
+Metropolitan
+Housing
+Authority
+
+A+
+
+82.5
+
+0.2
+
+26.0
+
+3.1
+
+10.4
+
+5.9
+
+5.9
+
+1.5
+
+Cuyahoga
+Metropolitan
+Housing
+Authority
+
+A+
+
+86.8
+
+(0.2)
+
+19.2
+
+3.9
+
+7.6
+
+11.2
+
+4.3
+
+2.8
+
+Housing
+Authority of the
+City of
+Milwaukee
+
+A+
+
+65.0
+
+0.5
+
+45.8
+
+2.3
+
+1.8
+
+7.5
+
+1.7
+
+3.4
+
+Boston Housing
+Authority
+
+A+
+
+84.0
+
+0.6
+
+23.3
+
+2.0
+
+6.5
+
+9.2
+
+3.5
+
+2.5
+
+Baltimore City
+Housing
+Authority
+
+A+
+
+89.5
+
+0.4
+
+13.1
+
+6.8
+
+10.4
+
+1.5
+
+15.2
+
+2.0
+
+Philadelphia
+Housing
+Authority
+
+A+
+
+84.6
+
+0.2
+
+28.1
+
+6.8
+
+13.4
+
+6.7
+
+20.9
+
+7.0
+
+Housing
+Authority of the
+City of Los
+Angeles
+
+A+
+
+94.6
+
+0.3
+
+15.4
+
+1.1
+
+2.0
+
+5.0
+
+4.1
+
+6.1
+
+ELM City
+Community
+
+A+
+
+91.3
+
+0.0
+
+9.2
+
+3.3
+
+12.8
+
+0.8
+
+47.6
+
+4.2
+
+A
+
+82.0
+
+0.3
+
+18.8
+
+3.7
+
+5.9
+
+16.2
+
+2.0
+
+0.7
+
+A-
+
+76.1
+
+(0.3)
+
+30.0
+
+6.0
+
+5.1
+
+3.5
+
+7.5
+
+5.7
+
+Newark Housing
+Authority
+Fall River
+
+Extraordinary Government Support
+As a government-related entity (GRE) and under our GRE criteria, we view SMHA as having a "strong" link with the
+U.S. government based on the government's history of strong credit support for the public housing sector under certain
+circumstances. We also view SMHA as having a "limited importance" role to the government, since an SMHA credit
+default would only have a limited effect on the government. In accordance with our criteria, and based on the
+combined "strong" link and "limited importance" role, we view the likelihood of extraordinary support that may be
+available to this GRE when required as moderate.
+
+Enterprise Profile
+Industry risk
+Our view of the U.S. PHA industry risk translates into a score of '2', combining sub-scores of '2' for cyclicality and
+competitive risk, with no adjustment for the government's supportive policies toward the industry. Economic cycles
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 5
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+are more likely to affect U.S. PHAs than other social service types because real estate fluctuations can change asset
+values. Real estate markets also tend to be overbuilt, leading to depressed occupancy rates, rentals, and property
+values. However, residential rental markets normally pose less risk relative to other property classes, and U.S. PHAs'
+collective focus on affordable housing typically lends further stability. Competitive risk is fairly low due to effective
+entry barriers in many jurisdictions, minimal substitution risk, and overall stability in growth and margins. In addition,
+ongoing government subsidies, other support, and oversight limit volatility, with the overall importance of the service
+delivered, thereby limiting the potential for negative governmental intervention.
+
+Economic fundamentals and market dependencies
+Stark Metropolitan Housing Authority was established under Ohio law in 1939 to provide public housing and related
+services for Stark County. The Authority receives subsidies, primarily for operations and modernization activities, from
+the federal government. HUD, as the primary overseer of PHAs, is responsible for allocating subsidies for all PHAs
+nationwide.
+Like many PHAs nationwide, regional market demand for SMHA's services exceeds available supply. The Authority
+owns and operates 2,544 public housing units; it administers 1,643 HCVs. Based on SMHA data, average social rent as
+a percentage of market rent in its main region of operation is approximately 31%, indicating SMHA provides housing
+at a deep discount to a low- and moderate-income population.
+On the other hand, the county's population is shrinking, at less of a percent on average annually, and the city often falls
+in the shadow of the 3-Cs of Ohio (Cleveland, Cincinnati, and Columbus). Although this isn't enough to dramatically
+impact our overall assessment of the Authority's economic fundamentals, which we view as very strong, we are
+interested in how SMHA will continue to identify and mitigate this weakness going forward.
+
+Strategy and management
+Following the report published by the OIG, several key positions in SMHA's management team have experienced
+turnover. Most notably, the executive director, Herman Hill, was appointed right as the report was being published and
+the authority entered into its recovery plan. Hill possesses over 12 years of public housing experience and has
+administered numerous HUD-funded programs and grants. Hill was closely involved in the authority's implementation
+of the recovery plan and has made effective hiring and training an important goal of the authority since his
+appointment. In 2014, the chief financial officer, Jeffrey Patterson, and the Interim director of planning and
+development, Ashley Wright, were appointed. Patterson has several decades of experience in both the public and
+private sector. Wright has since taken over as director of planning and director after successfully working to strengthen
+SMHA's local partnerships and planning and development. Most recently, Kevin Schaack was appointed director
+human resources and risk management in May of 2017. Schaack has over 20 years of human resources experience in
+both the private and public sectors. We believe that this turnover, coupled with the OIG report published in 2013,
+represent a significant turning point for the Authority. We will continue to monitor changes in the senior management
+team and assess its ability to incorporate new opportunities to expand its leveraging capacity, coupled with its efforts
+to implement ongoing and planned capital improvements.
+We expect senior staff members to continue working closely with one another to meet the Authority's mission and
+bring operations and projects into compliance with overall strategic goals. Internal policies and procedures are
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 6
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+institutionalized and built into the fabric of all SMHA operations. Under HUD guidelines, the Authority operates
+through multiple on-site management offices, as opposed to one centralized location, intended to enhance asset
+management. The Authority has also been building relationships in the community and partnering with various
+organizations, including:
+• Ohio Housing Finance Agency;
+• Massillon Fair Housing Department;
+• Ohio Civil Rights Commission Fair Housing; and
+• Ohio Department of Medicaid.
+These partnerships seek to transform not only housing in certain neighborhoods, but also in surrounding communities,
+to cultivate long-term economic sustainability.
+We believe SMHA operates under a defined strategic plan to guide its operations. The Authority's six-member
+leadership team includes individuals with various levels of experience. The team meets with the weekly to review
+reports from each department and address short-, medium-, and long-term needs.
+SMHA is overseen by a five-member board of commissioners. Its members are appointed by the mayor, county
+commissioners, probate court, and Stark County Common Pleas Court. One probate court-appointed member must be
+a public housing resident, as mandated by the federal Quality Housing and Work Responsibility Act of 1998. Members
+serve five-year terms, with staggered terms allowing experienced members to remain on the board during periods of
+transition. The board sets forth the authority's operational policies and procedures, and it meets bimonthly to review
+reports and discuss and vote on agenda items, policy changes, and the annual budget.
+
+Asset quality and operating performance
+SMHA either owns or operates approximately 2,544 public housing units serving over 4,000 individuals. Like many
+other PHAs nationwide, market demand for public housing vastly exceeds available supply. In our opinion, SMHA
+demonstrates strong property management efficiencies. One key area in which SMHA exhibits operational strength, in
+our view, is its average vacancy rate, which has remained 4% over the past three years. Furthermore, the average
+vacancy rate was 3% as of June 2019. The portfolio's average age is around 50 years.
+We believe that SMHA has underspent on maintenance based on our assessment of SMHA's housing stock and past
+capital expenditures. Although the issuance of the COPs will address much needed maintenance, we believe that the
+HUD repayment plans further encumber the authority reducing the available of funds to an aging portfolio. We will
+continue to monitor how the authority addressing capital improvements in the coming years.
+
+Financial Profile
+Financial performance
+Given the HUD repayment plans and lack of diversified funding opportunities (Non-HUD revenue), we have adjusted
+the overall risk profile for SMHA one category below our indicative assessment. As SMHA operates within a smaller
+county of Ohio, we believe that their local market is less likely to attract investors and other opportunities, and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 7
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+therefore be more difficult for the Authority to find alternative funding sources. We believe that these factors coupled
+with the Authority's current financial position, put additional strain in the near-term. We will continue to monitor how
+SMHA's future development plans affect their financial profile over the coming years.
+According to audited financials, EBITDA remained fairly consistent between 2016 and 2018. The authority's income in
+terms of EBITDA-to-revenue has remained 9% over the past three years and is comparable with that of traditional U.S.
+PHAs. Looking at net operating income, SMHA has operated at a loss--albeit shrinking--over the past three years. We
+believe the authority's heavy reliance on federal funding as a percentage of total revenue, coupled with the inherent
+uncertainty of future appropriations, continues to impede the rating. Moreover, we expect the steady decline in federal
+government spending to persist, significantly burdening the authority's efforts to maintain profitability, operating
+income, and perhaps liquidity.
+
+Debt
+Total debt outstanding as of fiscal year-end 2018 was $ 20.1 million, down from $22.4 million, in fiscal 2016. The
+decrease was partially due to refinancing 2007 serial bonds, issued for renovations at three high-rise buildings, which
+occurred in March 2018. In addition, an equipment lease from Fifth Third bank terminated in 2018.
+The authority has two component units, each owning and operating separate projects. Alliance Senior Tower LLC
+oversees Alliance Tower and Hunter House LLC oversees Hunter House, both of which are multifamily residential
+housing projects in Stark County. Both projects are included in SMHA's overall portfolio and provide an additional
+revenue source, because the authority earns a management fee.
+In connection with the OIG report published in 2013, the authority has entered into two repayment agreements with
+HUD. The Capital Fund Repayment agreement will be paid in 10 annual payments through a reduction in the annual
+Capital Fund Program. The Low-Rent Public Housing Repayment agreement will be paid in 38 annual payments,
+which will be paid through nonfederal funds.
+In addition, given the issuance of the COPs, we understand that the authority's liabilities will increase by roughly $3.4
+million. In connection with the COP, HUD will provide several subsidies, particularly the rolling base subsidy, to
+subsidize the debt service on the COPs.
+SMHA's debt-to-EBITDA ratio has improved to 3.5x in 2018 from 4.9x in 2016. Similarly, its EBITDA-to-interest ratio
+improved to 7.4x in 2018 from 6.1x in 2016.
+
+Liquidity
+SMHA's liquidity has steadily improved from 3.7x in 2016 to 5.4x in 2018, partly reflecting delayed capital funds. Over
+the next two years, we project SMHA liquidity sources, including cash from operations, cash and equivalents, and
+current investments, will likely be $5.8 million. Furthermore, we expect liquidity uses (including debt service less
+noncash working capital) will increase due to additional debt service from debt acquired in 2019 and could average
+$1.75 million during the next two years. We conducted stress testing to our liquidity analysis to factor in the potential
+impacts of the HUD repayment plans, which we believe may more accurately reflect the authority's liquidity position.
+Accordingly, we used the authority's worst performing years in terms of cash flow from operations and working
+capital. Despite our stress testing, we project a 3.0x liquidity ratio in two years, which we consider extremely strong.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 8
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+Financial policies
+We believe SMHA's financial policies are formalized but somewhat lacking in terms of specificity. The authority's
+liquidity and debt management policies are included in a financial policy handbook but no formal metrics are present.
+SMHA's financial management benefits from planning and budgeting, with implementation enhanced through its
+financial reporting system. The budget cycle is organized and institutionalized. The board is updated on each project's
+performance once a month. Although SMHA does not have a documented investment policy, we understand it is in
+compliance with HUD investment guidelines. To date, the authority maintains all investments in money market
+accounts and government agency securities. We consider SMHA strong at its current rating level.
+Table 2
+
+Stark Metropolitan Housing Authority Projected Liquidity Ratios
+2019
+
+2020
+
+310,334
+
+310,334
+
+Cash and liquid investments
+
+5,587,642
+
+5,587,642
+
+Total sources of liquidity
+
+5,897,976
+
+5,897,976
+
+276,480
+
+276,480
+
+Interest and principal payments due on debt over the next 12 months
+
+1,350,005
+
+1,669,445
+
+Total uses of liquidity
+
+1,626,485
+
+1,945,925
+
+3.63
+
+3.03
+
+Liquidity sources ($)
+Cash and liquid investments (current values)
+
+Liquidity uses ($)
+Projected working capital excluding cash outflows
+
+Liquidity ratio (x)
+
+Table 3
+
+Stark Metropolitan Housing Authority Financial Summary
+2016
+
+2017
+
+2018
+
+7,585,121
+
+10,636,047
+
+9,176,443
+
+Total long-term assets
+
+67,559,057
+
+57,815,264
+
+55,881,751
+
+Total assets
+
+75,144,178
+
+68,451,311
+
+65,058,194
+
+Average total assets
+
+37,572,089
+
+71,797,745
+
+66,754,753
+
+2,978,073
+
+3,361,497
+
+3,715,917
+
+Total long-term liabilities
+
+19,423,671
+
+20,462,666
+
+16,387,876
+
+Total liabilities
+
+22,401,744
+
+23,824,163
+
+20,103,793
+
+Net assets/equity ($)
+
+52,742,434
+
+44,627,148
+
+44,954,401
+
+Net assets/equity, end of year
+
+54,789,659
+
+47,240,441
+
+44,183,211
+
+Average equity
+
+26,371,217
+
+48,684,791
+
+44,790,775
+
+Total liabilities and net assets/equity
+
+75,144,178
+
+68,451,311
+
+65,058,194
+
+6,872,935
+
+6,974,774
+
+6,739,275
+
+21,015,929
+
+21,246,161
+
+21,724,985
+
+Assets ($)
+Total current assets
+
+Liabilities ($)
+Total current liabilities
+
+Revenue ($)
+Rental income
+Total contributions and grants
+Other income
+
+626,877
+
+585,476
+
+1,098,741
+
+Total revenue
+
+28,515,741
+
+28,806,411
+
+29,563,001
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 9
+
+Stark Metropolitan Housing Authority, Ohio; General Obligation
+
+Table 3
+
+Stark Metropolitan Housing Authority Financial Summary (cont.)
+2016
+
+2017
+
+2018
+
+Operations and maintenance
+
+6,236,335
+
+6,925,459
+
+6,499,640
+
+Housing assistance payments
+
+7,647,397
+
+7,398,438
+
+8,408,361
+
+Expenses ($)
+
+Deprecitation/amortization
+
+4,487,763
+
+4,120,551
+
+3,575,308
+
+General and administrative
+
+12,059,077
+
+11,994,737
+
+11,995,226
+
+Total operating expenses
+
+30,430,572
+
+30,439,185
+
+30,478,535
+
+(378,600)
+
+(5,891,993)
+
+2,007,233
+
+17,708
+
+16,460
+
+48,207
+
+Adjustments to net operating income ($)
+Gain (loss) on sale of assets
+Interest and investment income
+Interest expense
+
+419,527
+
+388,779
+
+357,629
+
+Change in net assets/equity (net income)
+
+(2,702,093)
+
+(7,549,218)
+
+782,277
+
+Net assets/equity, beginning of year
+
+61,121,863
+
+54,789,659
+
+47,240,441
+
+Net assets/equity, end of year
+
+54,789,659
+
+47,240,441
+
+44,183,211
+
+Net cash from operating activities
+
+310,334
+
+821,428
+
+2,873,475
+
+Net cash from investing activities
+
+(343,959)
+
+(346,735)
+
+(1,435,620)
+
+Net cash from financing activities
+
+(604,367)
+
+1,857,483
+
+(1,426,916)
+
+Net increase/decrease in cash equivalents
+
+(637,992)
+
+2,332,176
+
+10,939
+
+2,572,932
+
+2,487,777
+
+2,659,774
+
+12,683,650
+
+11,827,924
+
+9,217,754
+
+1,365,429
+
+1,244,505
+
+1,440,082
+
+4.0
+
+4.0
+
+4.0
+
+Average social rent as percentage of market rent in main region of operation (%)
+
+32.6
+
+29.7
+
+30.5
+
+Average dwelling price as percentage of national average (%)
+
+38.5
+
+39.3
+
+41.0
+
+EBITDA/revenue (%)
+
+9.0
+
+8.6
+
+9.0
+
+Debt/EBITDA (x)
+
+4.9
+
+4.8
+
+3.5
+
+EBITDA interest coverage (x)
+
+6.1
+
+6.4
+
+7.4
+
+(91,485)
+
+449,109
+
+2,564,053
+
+Key measurements
+EBITDA ($)
+Debt ($)
+Debt service ($)
+Voids, vacancy (% of revenue)
+
+Funds from operations ($)
+Cash from operations ($)
+
+310,334
+
+821,428
+
+2,873,475
+
+Cash and liquidity ($)
+
+4,029,212
+
+6,361,388
+
+6,372,327
+
+Working capital excluding cash ($)
+
+1,077,978
+
+1,397,913
+
+(276,480)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 11
+
+

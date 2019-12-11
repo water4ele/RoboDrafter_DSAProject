@@ -1,0 +1,376 @@
+Minneapolis-St. Paul Metro Airports
+Commission, Minnesota; Airport
+Primary Credit Analyst:
+Scott Shad, Centennial (1) 303-721-4941; scott.shad@spglobal.com
+Secondary Contact:
+Todd R Spence, Farmers Branch (1) 214-871-1424; todd.spence@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Enterprise Risk
+Financial Risk
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 1
+
+Minneapolis-St. Paul Metro Airports Commission,
+Minnesota; Airport
+Credit Profile
+US$184.935 mil subord arpt rev & rev rfdg bnds (governmental/non-AMT) ser 2019A due 01/01/2049
+Long Term Rating
+
+A+/Stable
+
+New
+
+US$109.62 mil subord arpt rev & rev rfdg bnds (private activity/AMT) ser 2019B due 01/01/2049
+Long Term Rating
+
+A+/Stable
+
+New
+
+US$34.025 mil subord arpt rev rfdg bnds (private activity/non-AMT) ser 2019C due 01/01/2028
+Long Term Rating
+
+A+/Stable
+
+New
+
+Rationale
+S&P Global Ratings assigned its 'A+' long-term rating to the Minneapolis-St. Paul Metro Airports Commission (MAC),
+Minn.'s estimated $328.6 million series 2019 subordinate airport revenue and revenue refunding bonds, issued for the
+Minneapolis-St. Paul International Airport (MSP). At the same time, S&P Global Ratings affirmed its 'AA-' long-term
+rating on the airport's senior airport revenue bonds, and its 'A+' long-term rating on the airport's subordinate airport
+revenue bonds outstanding. The outlook is stable.
+The ratings reflect our opinion of MSP's very strong enterprise risk profile and strong financial risk profile. The ratings
+also reflect a positive holistic analysis adjustment we apply to accurately reflect the overall creditworthiness of MSP,
+given its relatively high enplanement levels. We expect these will continue due to the airport's dominant role and
+strategic importance in the state and surrounding regions, with a large origin and destination (O&D) base serving an
+expanding metro area, and steady commitment from Delta Air Lines Inc. The ratings also reflect a history of fiscally
+conservative financial management practices that we expect to produce relatively favorable total debt service
+coverage (DSC).
+The very strong enterprise risk profile reflects MSP's essential role as the dominant airport in the region, with high
+activity levels serving a large, growing, and economically vibrant service area with minimal competition and a
+moderate airline cost structure. Although there is significant air carrier concentration as a Delta hub, the airline
+use-and-lease agreement contains a commitment from Delta to maintain hubbing and minimum flight-to-fleet levels.
+Our financial risk profile assessment reflects our expectation that MSP will maintain strong DSC (S&P Global
+Ratings-calculated) and liquidity, and very strong debt capacity as it funds its $1.2-billion, seven-year capital
+improvement plan (CIP). The airport plans to fund a manageable $303 million of its CIP with new debt, including $203
+million from the series 2019 bonds, which will also refinance a portion of its bonds outstanding. We have incorporated
+this additional leverage into our analysis by considering pro forma metrics.
+The enterprise risk profile reflects our view of the airport's:
+• Very strong market position. The airport has an economically deep and diverse service area, relatively high activity
+levels (18.4 million enplanements in fiscal 2018), limited competition, moderate cost structure, and generally
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 2
+
+Minneapolis-St. Paul Metro Airports Commission, Minnesota; Airport
+
+favorable enplanement trends. High air carrier concentration as a Delta hub tempers this assessment;
+• Extremely strong service area economic fundamentals, which include favorable economic activity as measured by
+GDP per capita, a large population of approximately 3.6 million in the Minneapolis-St. Paul-Bloomington
+metropolitan statistical area (MSA), above-average expected population growth, and unemployment rates that are
+lower than the national average;
+• Low industry risk relative to that of other industries and sectors; and
+• Extremely strong management and governance, with management achieving a steady track record of managing
+MSP. We consider management's financial planning and risk management practices to be sophisticated, somewhat
+conservative, and supportive of credit quality, as well as fitting with the complexities inherent in operating a
+large-hub airport.
+The financial risk profile reflects our view of the airport's:
+• Strong financial performance, as evidenced by DSC (S&P Global Ratings-calculated) that has steadily improved to
+2.6x in fiscal 2018 from 1.8x in fiscal 2014, and that we expect will decline but remain strong at about 1.6x despite a
+step-up in debt service and also including the effects of the series 2019 bonds and additional debt in 2022;
+• Very strong debt and liabilities capacity, with debt to net revenues that we expect will remain within a range of
+5x-10x, near historical levels, including the effects of the proposed series 2019 bonds and the airport's manageable
+additional debt plans to support its CIP; and
+• Strong liquidity and financial flexibility, reflecting our expectation that management will maintain liquidity of at least
+$190 million in fiscal 2019, or 350 days' cash on hand and 11% of debt outstanding (including the 2019 bonds),
+following a planned spenddown to fund a portion of its CIP needs and other postemployment benefits (OPEB)
+liabilities.
+The airport system's net revenues secure the bonds. Senior bonds are secured by a senior lien on, and pledge of, the
+system's net revenues. Subordinate bonds are secured by a subordinate lien on, and pledge of, the system's net
+revenues. As of July 2019, MSP had approximately $1.45 billion of debt secured by net revenues. This includes $681
+million in senior-lien debt; $652 million in subordinate-lien debt; and $114 million of notes outstanding, including a $71
+million draw from the airport's credit facility with Wells Fargo N.A. The credit facility provides for the issuance of up to
+$150 million of subordinate revolving obligations. All debt is fixed-rate, and MSP has no exposure to swaps,
+variable-rate debt, or privately placed bonds. We expect the airport's total debt will peak at approximately $1.68 billion
+by fiscal 2019, then decline as debt rolls off, even given the potential issuance of $100 million in fiscal 2022.
+Proceeds from the series 2019 bonds will fund various capital improvement projects, primarily in Terminal 1; refund
+and defease the senior-lien series 2009A, 2009B, 2010A, 2010B bonds, and subordinate-lien series 2010C and 2010D
+bonds; and repay approximately $20.6 million from its outstanding credit agreement with Wells Fargo. In addition, the
+series 2019 bond proceeds will fund capitalized interest, a debt service reserve, and pay issuance costs. The
+anticipated par amount of the series 2019 bonds is $328.6 million, consisting of approximately $125.6 million for the
+refinancing and $203.0 million in new money for the capital improvement projects.
+We consider the bond provisions credit neutral. The senior-lien additional bonds test (ABT) is based on historical
+figures. The subordinate-lien ABT, unlike the senior-lien ABT, is more typical of those seen in subordinate-lien
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 3
+
+Minneapolis-St. Paul Metro Airports Commission, Minnesota; Airport
+
+issuances by other airports. However, S&P Global Ratings analyzes MSP's combined DSC figure, for senior and
+subordinate, in determining credit quality.
+The airport provides air transportation services for the Minneapolis-St. Paul-Bloomington MSA, which is the 16th
+largest MSA in the U.S., as well as the surrounding catchment area. The airport system is composed of MSP, which is
+the major commercial airport for the service area and in Minnesota; and six general-aviation facilities: St. Paul
+Downtown, Flying Cloud, Crystal, Anoka County/Blaine, Lake Elmo, and Airlake airports. In fiscal 2018, the airport
+system had total operating revenues of $373.3 million and 18.4 million enplaned passengers.
+
+Outlook
+The stable outlook reflects our view that MSP's enplanement levels will remain at about 18 million, supporting stable
+financial metrics even given modest additional debt needs during the next two years.
+
+Upside scenario
+We do not expect to raise the rating during the outlook period due to high airline carrier concentration and exposure
+to connecting traffic as a Delta hub, along with manageable additional debt needs.
+
+Downside scenario
+We could lower the rating if enplanement levels drop significantly, or debt capacity materially weakens as the airport
+debt-finances its CIP.
+
+Enterprise Risk
+Our assessment of the enterprise risk profile considers MSP's service area economic fundamentals, industry risk,
+market position, and management and governance.
+
+Economic fundamentals
+The airport's primary service area, the Minneapolis-St. Paul-Bloomington MSA, has what we consider extremely strong
+economic fundamentals. Favorable indicators include the MSA's estimated GDP per capita of approximately $74,268;
+estimated unemployment rate of 2.7%, compared with the U.S. rate of 3.9%; population of over 3.6 million; and
+three-year projected population growth rate that, at 2.6%, is more than the U.S. population's three-year projected
+growth rate. We anticipate that the service area's economic fundamentals will continue to promote strong demand for
+O&D air travel at MSP.
+We consider the MSA broad and diverse. With steady job gains, low unemployment, and a generally strong private
+sector anchored by 18 well-known Fortune 500 companies, the city's employment base remains strong and diversified.
+As of the third quarter of 2018, the largest industries by share of total jobs included health care and social assistance
+(18.6% of total employment), professional and technical services (11.5%), finance and insurance (10.1%), educational
+services (9.3%), and accommodation and food services (8.7%).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 4
+
+Minneapolis-St. Paul Metro Airports Commission, Minnesota; Airport
+
+Market position
+We consider MSP's overall market position very strong. This reflects our view of the airport's relatively high activity
+levels due to its important service provision to a large, diverse, and economically prosperous primarily O&D market,
+as well as its role as an important connecting hub for Delta. MSP's market position benefits from the lack of significant
+competition within its primary service area. However, tempering our assessment is MSP's high air carrier
+concentration (Delta accounted for approximately 71% of total enplanements in fiscal 2018) and moderately high
+exposure to connecting passengers (39% of total enplanements).
+MSP was the 16th-busiest U.S. airport by enplaned passengers in 2018. From fiscal years 2009-2017, the airport's total
+enplanements rose every year from 15.6 million to 18.4 million, respectively, increasing 2.1%, on average, per year.
+Enplanement levels remained flat in fiscal 2018 at 18.4 million--largely attributable to Delta shifting strategy for
+connecting enplanements, which have since stabilized. Consequently, for the first six-months of 2019, enplanements
+are up 2.9% compared with the same period in 2018. The primary factor for the historical enplanement growth was
+O&D enplaned passengers, not connecting traffic, as a result of the expansion of service offerings from low-cost and
+ultra-low-cost carriers, coupled with strong demand from the service area. For example, MSP's O&D enplaned
+passenger market share increased to 11.3 million, or 61.2% of enplanements, in fiscal 2018 from 8.3 million, or 53.5%,
+in fiscal 2009, an increase of 3.0 million versus total enplanement growth of 2.9 million during the same period. We
+view this favorably due to less reliance on connecting passengers as a Delta hub.
+MSP is the only major commercial airport for the service area and in Minnesota, with minimal competition from
+regional airports. The nearest large hub airport, Chicago O'Hare International, is 396 miles away. In addition to the
+expansion of low-cost carriers, MSP's O&D enplanement growth is also partially attributable to serving a diverse and
+expanding local economy. MSP, in Hennepin County, is in the strong, diverse service area economy of the
+Minneapolis-St. Paul-Bloomington MSA, which serves as a regional economic center for the upper Midwest states. The
+economy is anchored by service, trade, and manufacturing. Hennepin County is an integral part of a strong regional
+economy that continues to outperform the nation.
+Despite strong enplanement growth, there is high air carrier concentration because MSP is the second-largest Delta
+hub in terms of weekly scheduled domestic departing seats in the U.S., behind Atlanta. In fiscal 2018, the leading
+carrier with the largest market share of enplanements was Delta, at 71%, which we consider very concentrated when
+compared with that of peers. We believe Delta's commitment to MSP through its use-and-lease agreement, particularly
+the hub covenant, partially mitigates this concentration. Sun Country Airlines held the second-largest market share at
+6.4%, and American Airlines was third at 5.7%.
+The concentration of Delta in terms of traffic volume and as a revenue generator remains a credit risk, in our opinion.
+However, Delta has some legal and financial incentives to continue its significant presence at MSP and use it as an
+important connecting hub in its domestic and international route system. These include a covenant in the airline lease
+agreements between Delta and MSP that expire in 2030 agreeing to maintain a certain level of daily departing flights
+from the airport (the hubbing covenant) and favorable gate and concession revenue-sharing agreements. We expect
+Delta's commitment to the airport to remain steady, comparable with historical activity levels; however, a significant
+reduction in activity or service levels could be a credit risk. In particular, should the airline cut its MSP operations,
+emphasizing other hubs in its system, we would view the market position as moderately weaker.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 5
+
+Minneapolis-St. Paul Metro Airports Commission, Minnesota; Airport
+
+In our view, MSP maintains good pricing power. A history of prudent cost management supports this view. The cost
+per enplaned passenger (CPE), as per our calculations, was about $6.77 in fiscal 2018, up slightly from $6.27 in fiscal
+2017 due to flat enplanement levels. The airport has historically maintained CPE at similarly moderate and stable
+levels, and we expect it will stay below $9 following the series 2019 bonds and the additional proposed debt in fiscal
+2022, allowing MSP to maintain strong pricing power and rate-setting flexibility.
+
+Management and governance
+The managerial and governance assessment reflects the airport's strategic positioning; risk management and financial
+management; and organizational effectiveness.
+Management has a track record of meeting or exceeding its strategic financial targets. MSP has a formal target to
+maintain DSC of 2.4x on senior airport revenue bonds and all-in DSC of 1.4x (both as per the indenture). The airport
+also maintains a six-month operations and maintenance reserve, funds a DSC account, and has an informal target to
+maintain 365 days' cash. In addition, MSP has a goal to maintain a CPE in the lower third of large-hub airports. We
+believe management's financial planning practices and policies have contributed to the airport's good financial
+performance, and maintenance of financial metrics that support the current rating.
+MSP calculates airline rates and charges according to a hybrid rate-making methodology. We consider the
+use-and-lease agreements credit neutral. However, the hubbing covenant provides some strength to the Delta
+agreement. MSP and the airlines are finalizing new agreements, which are expected to be completed by the end of
+2019 with no material changes from the existing agreements. Delta's use-and-lease agreement runs until 2030; for
+non-hub carriers, the use-and-lease agreements run through 2023 or 2030.
+We consider the management team very experienced and effective in running all aspects of the airport. Management
+provides strong financial oversight and conservative debt management practices, with all debt fixed-rate and no
+variable-rate debt or swaps.
+
+Financial Risk
+Our assessment of MSP's financial risk profile as strong reflects the airport's strong financial performance, very strong
+debt and liabilities capacity, and strong liquidity and financial flexibility. We considered MSP's historical performance
+and pro forma figures that reflect the effect of the proposed series 2019 bonds and the airport's additional debt plans in
+2022. Our financial profile assessment also considers MSP's financial policies, which we consider credit neutral.
+We evaluated the financial forecast that was done in connection with the proposed series 2019 bond issue. The
+forecast, in our opinion, assumes reasonable enplanement growth of 1.2% from 2019-2025, comparable with the
+airport's historical compound annual enplanement growth rate of 1.2% from 2008-2018, and relatively stable CPE. If
+actual enplanements are lower than forecast, we expect the airline cost structure could be higher than the peak $8.69
+per enplanement forecast in fiscal 2025. However, we expect MSP's financial metrics (i.e., DSC, debt to net revenue,
+days' cash on hand, and unrestricted reserves to debt) over the forecast period (2019-2025) will be comparable with
+historical levels.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 6
+
+Minneapolis-St. Paul Metro Airports Commission, Minnesota; Airport
+
+Our numerator calculation for DSC and for net revenue used for debt to net revenue is the same, adding interest
+income and PFC revenues applied to debt service to EBIDA. However, our calculation excludes transfers from the
+coverage fund as compared to the indenture.
+
+Financial performance
+Our financial performance assessment reflects our expectation that DSC (S&P Global Ratings-calculated) will remain
+strong despite a step-up in debt service, and including the effects of the proposed series 2019 bonds and potential
+additional debt in fiscal 2022. Historically, MSP's DSC has been steadily improving, bolstered by increasing net
+revenues, and modestly declining debt service since fiscal 2014. For example, DSC improved to 2.6x in fiscal 2018
+from 1.8x in fiscal 2014. However, debt service in fiscal 2019 steps up considerably to about $136 million, and
+escalates to $153 million at the end of the forecast period in fiscal 2025. Despite this increase, we expect DSC, per our
+calculations, to remain strong at about 1.6x during the forecast period, including the effects of the proposed series
+2019 bond issue and additional debt in fiscal 2022. Our DSC metrics, like the airport's, evaluate coverage of all
+senior-lien and subordinate-lien obligations. Bond indenture DSC, which includes transfers from the coverage fund in
+the numerator, was 2.07x and 2.42x for fiscal years 2017 and 2018, respectively. Management forecasts DSC, per the
+indenture, of 1.86x in fiscal 2019.
+We believe MSP's good degree of rate-setting flexibility supports its ability to maintain strong coverage levels. MSP
+maintains moderate CPE compared with that of other airports of similar size. Furthermore, the airport faces little
+competition within its service area. These factors, in addition to manageable debt needs, afford MSP a relatively strong
+degree of rate-setting flexibility.
+
+Debt and liabilities
+We assess MSP's debt and liabilities capacity as very strong, based on debt-to-net-revenue metrics, per our
+calculations, of 6.7x in fiscal 2018. We expect they will remain within a range of 5x-10x, as modest anticipated growth
+in net revenues along with amortization of existing debt will likely offset the additional debt MSP will issue to support
+its CIP. We expect the airport's total debt outstanding will climb to $1.68 billion by fiscal 2019, then decline as debt
+rolls off, even given the anticipated 2022 bond issuance.
+Management updates its seven-year CIP annually, with the latest update for the 2019-2025 CIP adopted by MSP in
+December 2018, providing a roadmap for implementing the component projects, including targeted completion dates,
+budgets, and anticipated funding plan. The total cost of the updated CIP is about $1.2 billion. Key larger components
+of the airport's 2019-2025 CIP include Terminal 1 maintenance and improvements ($434.3 million), baggage claim and
+ticket lobby operational improvements ($192.4 million), and airfield and runway improvements ($108.3 million).
+Following the issuance of the series 2019 bonds, MSP's current plans indicate that it will fund approximately $100
+million of the CIP with additional subordinate-lien general airport revenue bond debt in 2022, which we consider
+manageable given additional amortization of existing debt. Debt per enplanement totaled $83 in 2018, and we project
+it will increase to $92 in fiscal 2019 including the series 2019 bonds based on the forecast, then steadily decline given
+limited additional debt needs in the near term.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 7
+
+Minneapolis-St. Paul Metro Airports Commission, Minnesota; Airport
+
+Liquidity and financial flexibility
+The liquidity and financial flexibility assessment reflects our expectation that airport management will maintain
+unrestricted cash reserves that will exceed at least 350 days' cash on hand, a level we consider strong. MSP's liquidity
+declined significantly to $290 million in fiscal 2018 from $411 million in fiscal 2017, as management used a portion of
+unrestricted reserves for capital projects to reduce borrowing needs, and also transferred $66 million to reduce its
+OPEB liability following the adoption of Governmental Accounting Standards Board No. 75. In fiscal 2018, MSP's $290
+million in unrestricted reserves equaled 557 days' cash on hand, and 19% of total debt. However, management
+anticipates drawing further upon its available unrestricted reserves to fund its CIP, and forecasts--which we consider
+conservative--indicate unrestricted reserve levels will fall to about $190 million in fiscal 2019, or 350 days' cash on
+hand, and 11% of total debt outstanding including the series 2019 bonds. We expect days' cash to remain at least
+strong given management's informal target to maintain 365 days' cash on hand.
+Furthermore, MSP has access to a line of credit totaling $150 million that it uses for interim CIP financing, and
+management plans to retire approximately $20.6 million of the drawn balance of $71 million with the series 2019 bond
+proceeds. As a result, we expect MSP to have $50.4 million of its line of credit outstanding following the series 2019
+bonds, and $99.6 million in undrawn capacity for capital projects.
+Ratings Detail (As Of August 16, 2019)
+Minneapolis St Paul Metro Arpts Comm subord arpt rev bnds
+Long Term Rating
+
+A+/Stable
+
+Affirmed
+
+AA-/Stable
+
+Affirmed
+
+AA-/Stable
+
+Affirmed
+
+Minneapolis St Paul Metro Arpts Comm AIRPORTS
+Long Term Rating
+Minneapolis St Paul Metro Arpts Comm AIRPORTS
+Long Term Rating
+
+Minneapolis-St Paul Metro Arpts Commn sub arpt rev rfdg bnds
+Long Term Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+A+/Stable
+
+Affirmed
+
+AUGUST 16, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 9
+
+

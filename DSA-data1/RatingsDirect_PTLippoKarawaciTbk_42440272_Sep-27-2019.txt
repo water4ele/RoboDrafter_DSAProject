@@ -1,0 +1,1451 @@
+PT Lippo Karawaci Tbk.
+Primary Credit Analyst:
+Fiona Chen, Singapore + 65 6216 1085; fiona.chen@spglobal.com
+Secondary Contact:
+Kah Ling Chan, Singapore (65) 6239-6336; kahling.chan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 1
+
+PT Lippo Karawaci Tbk.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Established property developer in Indonesia
+
+Soft Indonesian property market conditions
+
+Diversified business segments in different asset classes Most debt at holding company with limited cash flows
+High leverage amid soft operating performance
+Limited record of new leadership team
+
+Liquidity has substantially improved. PT Lippo Karawaci Tbk.'s (Lippo) rights issue of US$787.5 million--completed on
+July 16, 2019--has significantly improved liquidity. Furthermore, there is approximately US$140 million left over from
+the US$150 million bond tender exercise in March 2019, which supplements the firm's liquidity and working capital.
+We thus believe that there is sufficient buffer in Lippo's liquidity until it can complete the sale of Puri Mall in the
+second quarter of 2020. We expect net cash inflow of US$140 million from the sale of Puri Mall. With all these capital
+events, the company will have sufficient holding company (holdco) liquidity to meet rental and interest obligations
+over the next 12-18 months.
+Revamped leadership team should aid business continuity, but we expect improvement will not manifest until mid-2020.
+The significant equity injected via the rights issue buys time for the new leadership team to bring the business back on
+a normal track while meeting the interest and rental-expense obligations. We believe management has adequate
+expertise and sufficient time to understand the business, and is committed to drive business continuity and growth.
+However, the record of successful implementation of business strategy and delivery of operation target remain
+untested. Management plans to launch a revised concept for middle-market residential units in mid-2020, which will
+further support business continuity and bolster property development earnings post 2020.
+Holdco performance and cash flow remain the focus. We believe that Lippo's holdco performance will continue to be
+the main driver of the company's credit profile. This is because the bulk of the consolidated entity's debt sits at the
+holdco, including US$826 million of rated senior unsecured bonds. At the same time, we believe expansionary capital
+spending at two key subsidiaries, PT Lippo Cikarang Tbk. (Cikarang) and PT Siloam International Hospitals Tbk.
+(Siloam), prevents them from contributing dividends toward offsetting Lippo's interest payments. Therefore, we believe
+the financial performance at the holdco better captures the company's interest-servicing capability.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 2
+
+PT Lippo Karawaci Tbk.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Lippo will have sufficient liquidity and adequate cash flow over the
+next 12-18 months, backed by proceeds from the July rights issue and asset sales that are planned over the next
+few months.
+
+Downside scenario
+We could lower the rating if liquidity at the holdco declines with no prospect of recovery. This may materialize if
+Lippo fails to hit--by December 2019--the key benchmarks that it needs to achieve to sell Puri Mall by June 2020,
+or if aggressive investments in working capital or expansion lead to a material shortfall between liquidity available
+to the holdco and interest servicing requirements.
+We could also lower the rating in the event of protracted weakness in the company's property sales in 2020.
+Evidence of rating pressure would be a sum of cash balance and cash flows below Indonesian rupiah 2 trillion on
+an ongoing basis.
+
+Upside scenario
+An upgrade would be contingent upon management demonstrating a consistent operating strategy and the
+successful delivery of operational targets over the next two years. The upgrade would also be contingent upon
+Lippo showing steady property sales, prudent capital spending, a sound liquidity buffer, and keeping its EBITDA
+interest coverage above 2.0x sustainably. An upgrade would also be contingent upon no major debt maturities over
+a two-year period.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 3
+
+PT Lippo Karawaci Tbk.
+
+Assumptions
+
+Key Metrics
+
+• Indonesia's real GDP to grow by 5.1% in 2019,
+increasing to 5.4% in 2020.
+
+2018A
+FFO-to-debt
+
+• Country's property market to be stagnant, with
+2%-3% annual growth over the period.
+• Lippo's property performance will be driven by its
+launching plan and timing of asset sales.
+• We deconsolidate the financials of the two major
+subsidiaries, Cikarang and Siloam, when assessing
+Lippo's financial metrics.
+
+2.8%
+
+2019E
+
+2020E
+
+-9.2%
+
+About 6%
+
+Debt-to-EBITDA
+
+7.5x
+
+Above 10x About 5.7x
+
+EBITDA interest coverage
+
+0.9x Less than 0.5x About 2.0x
+
+A--Actual. E--Estimate. *2018 was consolidated
+including Cikarang and Siloam. 2019-2020 is pro-forma
+holdco numbers excluding Cikarang and Siloam.
+
+• Holdco property sales to be Indonesian rupiah (IDR)
+928 billion in 2019, mostly from existing inventory
+sales. Property sales will rise to IDR3.3 trillion in
+2020 driven by the launch of a project, which the
+company labels Urban Homes.
+• Sale of Puri Mall to LMIRT for IDR3.7 trillion to be
+completed in first half of 2020. We expect the net
+cash inflow of the sale to be IDR2.0 trillion, by
+factoring in Lippo's potential subscription for LMIRT
+shares, if LMIRT funds the sale with a rights issue.
+• Lippo's holdco revenue to be about IDR2.9 trillion in
+2019, peaking in 2020 at IDR6.8 trillion backed by
+the sale of Puri Mall, before declining to IDR4.2
+trillion in 2021 as we do not expect further asset
+sales.
+• We expect a similar trend for the EBITDA margin,
+which we believe will be about 12% in 2019 due to
+lackluster sales, about 34% in 2020, as the sale of
+Puri Mall results in higher margin than most
+property sales.
+• We assume recurring revenue from fee-based
+businesses--such as hotels, hospitality, and retail
+malls--to grow gradually, but equal to the holdco's
+recurring sales, general, and administration cash
+expenses.
+• Capital spending to be IDR610 billion over the next
+two years.
+
+Base-case projections
+We expect weak 2019 credit ratios due to absence of asset sales and benign property sales. Credit ratios will improve
+in 2020 substantially backed by the sale of Puri Mall. The proposed new launch of the Urban Homes project in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 4
+
+PT Lippo Karawaci Tbk.
+
+mid-2020 will only meaningfully benefit credit ratios in 2021, due to the time lag between sales, and revenue and cash
+flow recognition.
+
+Company Description
+Lippo is the property arm of the Lippo conglomerate and one of the largest listed property groups in Indonesia with
+total assets of US$3.8 billion as of June 30, 2019. Lippo's key business divisions include property development,
+operation of hospitals, commercial (hospitality and retail malls), as well as managing Singapore-listed Lippo Malls
+Indonesia Retail Trust (LMIRT). Lippo mainly targets the Indonesian middle to upper class segment in its property
+development and healthcare businesses. Two key listed subsidiaries generate the bulk of Lippo's revenues: Cikarang, a
+property developer; and Siloam, the largest hospital operator in Indonesia.
+
+Business Risk: Weak
+Lippo has dominant market position and business diversification through subsidiaries Cikarang and Siloam. Despite the
+control of both entities, these broader business segments have not translated to stable earnings and cash flows to the
+holdco over the past two to three years. This is because both entities' expansion plans limit their ability to upstream
+cash to the parent, and we expect this trend will continue over next two years. There will be substantial cash leakage if
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 5
+
+PT Lippo Karawaci Tbk.
+
+the subsidiaries upstream funds via dividends, given the significant minority interests in both entities.
+At the same time, Lippo's business is highly dependent on the Indonesian market, and thus carries concentration risk.
+This has adversely affected the company's operating performance in the property sector, where conditions are weak.
+At the holdco level, Lippo has not launched significant new projects over the past 18 months. We expect holdco
+property performance to remain soft in 2019 given the absence of project launches. As of the end of June 2019, Lippo's
+holdco achieved IDR384 billion in property sales, meeting 41% of our full year expectation.
+We expect the company to launch its Urban Homes project in mid-2020, with annual property sales of about IDR2
+trillion over the next two to three years. The proposed launch, if successful, should support Lippo's cash flow and
+EBITDA recognition post 2020.
+Lippo's hospital segment, being the largest private hospital operator in Indonesia, has yielded strong growth in its bid
+to capture Indonesia's fast-growing demand for healthcare. However, aggressive investment into the business has
+wiped out free operating cash flows, and will continue to do so, as Siloam remains in a ramp-up phase. In addition,
+Siloam's lower margins relative to the group's property development arm have translated into lower consolidated
+margins compared with other domestic property developers.
+
+Peer comparison
+Table 1
+
+PT Lippo Karawaci Tbk.--Peer Comparison
+PT Lippo
+Karawaci Tbk.
+
+PT Alam Sutera
+Realty Tbk.
+
+PT Modernland
+Realty Tbk.
+
+PT Pakuwon Jati
+Tbk.
+
+Vingroup Joint
+Stock Co.
+
+Revenues
+
+11,056,978.0
+
+3,975,258.2
+
+2,124,202.8
+
+7,080,668.4
+
+76,593,667.1
+
+EBITDA
+
+2,871,649.8
+
+1,944,498.2
+
+537,753.5
+
+3,545,824.5
+
+10,484,014.5
+
+(Mil. IDR)
+
+FFO
+
+615,070.5
+
+1,319,420.6
+
+64,044.8
+
+2,798,430.0
+
+4,223,846.0
+
+Interest expense
+
+3,202,290.4
+
+694,338.0
+
+451,019.9
+
+418,031.0
+
+4,026,946.5
+
+Cash interest paid
+
+1,741,809.4
+
+589,602.5
+
+421,934.8
+
+366,868.9
+
+2,679,036.1
+
+(2,815,747.5)
+
+780,082.1
+
+(681,019.3)
+
+2,364,842.6
+
+(6,010,346.5)
+
+917,543.0
+
+728,409.0
+
+92,870.1
+
+762,010.5
+
+33,540,059.1
+
+Free operating cash flow
+
+(3,733,290.5)
+
+51,673.1
+
+(773,889.4)
+
+1,602,832.1
+
+(39,550,405.6)
+
+Discretionary cash flow
+
+(3,810,044.5)
+
+51,673.1
+
+(1,040,937.8)
+
+1,272,184.4
+
+(40,310,610.9)
+
+3,539,835.0
+
+665,535.1
+
+555,465.0
+
+4,457,220.8
+
+12,036,531.0
+
+Debt
+
+21,608,791.6
+
+7,797,726.8
+
+5,822,575.1
+
+5,734,295.1
+
+66,046,560.3
+
+Equity
+
+24,747,068.0
+
+9,551,357.1
+
+6,829,799.4
+
+15,311,681.5
+
+69,355,028.9
+
+EBITDA margin (%)
+
+26.0
+
+48.9
+
+25.3
+
+50.1
+
+13.7
+
+Return on capital (%)
+
+Cash flow from operations
+Capital expenditures
+
+Cash and short-term
+investments
+
+Adjusted ratios
+
+(0.3)
+
+11.2
+
+4.2
+
+17.0
+
+8.7
+
+EBITDA interest coverage
+(x)
+
+0.9
+
+2.8
+
+1.2
+
+8.5
+
+2.6
+
+FFO cash interest
+coverage (x)
+
+1.4
+
+3.2
+
+1.2
+
+8.6
+
+2.6
+
+Debt/EBITDA (x)
+
+7.5
+
+4.0
+
+10.8
+
+1.6
+
+6.3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 6
+
+PT Lippo Karawaci Tbk.
+
+Table 1
+
+PT Lippo Karawaci Tbk.--Peer Comparison (cont.)
+PT Lippo
+Karawaci Tbk.
+
+PT Alam Sutera
+Realty Tbk.
+
+PT Modernland
+Realty Tbk.
+
+PT Pakuwon Jati
+Tbk.
+
+Vingroup Joint
+Stock Co.
+
+2.8
+
+16.9
+
+1.1
+
+48.8
+
+6.4
+
+Cash flow from
+operations/debt (%)
+
+(13.0)
+
+10.0
+
+(11.7)
+
+41.2
+
+(9.1)
+
+Free operating cash
+flow/debt (%)
+
+(17.3)
+
+0.7
+
+(13.3)
+
+28.0
+
+(59.9)
+
+Discretionary cash
+flow/debt (%)
+
+(17.6)
+
+0.7
+
+(17.9)
+
+22.2
+
+(61.0)
+
+FFO/debt (%)
+
+FFO--funds from operations. IDR--Indonesian rupiah
+
+We view PT Alam Sutera Realty Tbk., PT Modernland Realty Tbk., PT Pakuwon Jati Tbk., and Vingroup Joint Stock
+Co. as close peers of Lippo.
+Lippo has a better business diversification than generic domestic peers, due to its recurring income from retail malls
+and hospital segments. Nevertheless, Lippo's diversified businesses through subsidiaries fail to translate into better
+earning quality at the holdco level. All Indonesian developers are exposed to concentration risk in the Indonesian
+property market, which has performed poorly in recent years.
+We believe both Lippo and Vingroup JSC, Vietnam's biggest property developer, have established brand equity in their
+respective markets, commanding premium prices to their product launches. Vingroup has diverse income streams
+outside of property development, and operates at a larger scale but in a more volatile Vietnam market than Lippo.
+In terms of financial position, Lippo's higher leverage than its peers' highlights its history of aggressive debt-funded
+expansion, especially in healthcare. The greater contribution from the company's healthcare arm also lowers the
+company's consolidated EBITDA. We see similar levels of leverage across regional peers, characteristic of the
+capital-heavy property development sector. In contrast, the high proportion of recurrent income and prudent growth
+strategies of PT Pakuwon Jati Tbk., a peer Indonesian developer, has pulled that company's debt-to-EBITDA below
+3x.
+
+Financial Risk: Highly leveraged
+Lippo's financial position is characterized by the holdco's sizable U.S. denominated debt, sizable interest and rental
+expenses, and modest operating cash flows.
+The US$787.5 million rights issue completed on July 16, 2019, will significantly improve Lippo's holdco cash flow and
+liquidity. The Riady family, the controlling shareholder, subscribed to its share of the rights issue--mainly through PT
+Inti Anugerah Pratama--though we do not have visibility on the source of funds. We expect the planned sale of Puri
+Mall in the first half of 2020 will bolster Lippo's financial and liquidity position. The company has entered into a
+conditional sales and purchase agreement with LMIRT and we estimate that it will result in net inflow of about US$140
+million. These substantial capital events will help Lippo's business continuity and support Lippo's cash flow until
+end-2020. Lippo's cash flow post 2020 will depend on the launch of projects at the holdco level in mid-2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 7
+
+PT Lippo Karawaci Tbk.
+
+Lippo's leverage will improve modestly thanks to debt repayment, but it remains highly leveraged. Lippo has repaid an
+US$8.7 million note through a tender offer, a US$50 million bank loan and US$75 million private bond using proceeds
+from its rights issue, resulting in total reduction of debt and annual interest obligations of US$134 million and US$12
+million, respectively. While this modestly improves its credit metrics, we continue to forecast thin interest serving
+capability at the holdco. This is because the company will have limited operating cash flows at the holdco level, and
+we expect no dividends from subsidiaries Cikarang and Siloam.
+
+Financial summary
+Table 2
+
+PT Lippo Karawaci Tbk.--Financial Summary
+Industry sector: Homebuilders and real estate developers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. IDR)
+Revenues
+EBITDA
+FFO
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditures
+
+11,056,978.0 10,070,738.0 10,962,448.0
+
+8,910,178.0 11,655,041.7
+
+2,871,649.8
+
+1,471,290.8
+
+2,874,229.6
+
+2,799,617.0
+
+4,073,534.4
+
+615,070.5
+
+(708,749.5)
+
+641,384.6
+
+944,734.6
+
+2,498,184.4
+
+3,202,290.4
+
+2,386,222.4
+
+3,018,365.0
+
+2,361,508.9
+
+1,424,828.7
+
+1,741,809.4
+
+1,606,319.4
+
+1,692,360.0
+
+1,247,611.7
+
+1,124,946.9
+
+(174,403.4) (2,308,768.8)
+
+1,275,885.2
+
+(2,815,747.5) (4,272,355.5)
+917,543.0
+
+1,153,668.0
+
+552,531.0
+
+504,911.6
+
+646,469.8
+
+Free operating cash flow
+
+(3,733,290.5) (5,426,023.5)
+
+(726,934.4) (2,813,680.4)
+
+629,415.4
+
+Discretionary cash flow
+
+(3,810,044.5) (5,471,285.5)
+
+(813,769.4) (3,331,146.3)
+
+278,287.7
+
+Cash and short-term investments
+Gross available cash
+
+3,539,835.0
+
+4,598,668.0
+
+5,210,308.0
+
+7,757,438.3
+
+9,085,602.1
+
+3,539,835.0
+
+4,598,668.0
+
+5,210,308.0
+
+4,767,454.9
+
+6,190,366.7
+
+Debt
+
+21,608,791.6 20,547,247.6 20,396,417.9 19,182,239.9 16,007,372.3
+
+Equity
+
+24,747,068.0 24,367,204.0 19,413,447.0 18,916,764.6 17,620,829.9
+
+Adjusted ratios
+EBITDA margin (%)
+
+26.0
+
+14.6
+
+26.2
+
+31.4
+
+35.0
+
+Return on capital (%)
+
+(0.3)
+
+0.9
+
+6.0
+
+5.5
+
+12.7
+
+EBITDA interest coverage (x)
+
+0.9
+
+0.6
+
+1.0
+
+1.2
+
+2.9
+
+FFO cash interest coverage (x)
+
+1.4
+
+0.6
+
+1.4
+
+1.8
+
+3.2
+
+Debt/EBITDA (x)
+
+7.5
+
+14.0
+
+7.1
+
+6.9
+
+3.9
+
+FFO/debt (%)
+
+2.8
+
+(3.4)
+
+3.1
+
+4.9
+
+15.6
+
+Cash flow from operations/debt (%)
+
+(13.0)
+
+(20.8)
+
+(0.9)
+
+(12.0)
+
+8.0
+
+Free operating cash flow/debt (%)
+
+(17.3)
+
+(26.4)
+
+(3.6)
+
+(14.7)
+
+3.9
+
+Discretionary cash flow/debt (%)
+
+(17.6)
+
+(26.6)
+
+(4.0)
+
+(17.4)
+
+1.7
+
+FFO--funds from operations. IDR--Indonesian rupiah
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 8
+
+PT Lippo Karawaci Tbk.
+
+Liquidity: Less than adequate
+We assess Lippo's holdco liquidity as less than adequate. This reflects our view that the holdco generates limited
+operating cash flows and has a lack of satisfactory standing in credit markets.
+In addition, the company is in breach of an incurrence covenant of fixed-charge coverage ratio of 2.0x for its U.S.
+dollar denominated notes. Breaching the incurrence covenant does not require immediate payment of the principal but
+will hinder Lippo from making additional borrowing in case of liquidity stress.
+We expect the holdco's liquidity sources to cover uses by about 1.2x. This is largely driven by Lippo's completed rights
+issue and the expected sale of Puri Mall.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of about IDR4.0 trillion as of March
+31, 2019.
+
+• Debt repayment of about IDR2.1 trillion in the 12
+months ending March 31, 2020, including a US$75
+million private bond.
+
+• Expected operating cash inflow of about IDR2.7
+trillion in the 12 months ending March 2020.
+• Rights issue proceeds of about IDR7.2 trillion
+completed in July 2019.
+
+• Expected operating cash outflow of about IDR6.0
+trillion in the same period.
+• Capital expenditure of about IDR610 billion in the
+next 12 months.
+• Share subscription of Cikarang of IDR2.7 trillion
+completed in July 2019.
+
+Debt maturities
+Table 3
+
+PT Lippo Karawaci Tbk.--Debt Maturities*
+Debt due in
+
+Amount (Bil. IDR)
+
+Rest of 2019
+
+1,086.3
+
+2020
+
+1,065.0
+
+2021
+
+88.0
+
+2022
+
+5,902.9
+
+2023 and afterwards
+
+6,044.9
+
+Total
+
+14,187.1
+
+*As of March 31, 2019. IDR--Indonesian rupiah
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 9
+
+PT Lippo Karawaci Tbk.
+
+Environmental, Social, And Governance
+
+Although we assess Lippo's corporate governance to be neutral to our credit assessment, the company was
+associated with the Meikarta project, which faced corruption allegations. Lippo has since sold down its share of the
+subsidiary to a minority stake, and the local corruption investigation bureau has indicted the relevant personnel
+involved.
+Lippo's property development activities expose it to environmental risks, but we do not believe these are material
+to the rating. The company has a long record of good development and management of townships in Indonesia. Its
+subsidiary Cikarang received three Indonesia green awards in 2017, thanks to its efforts in biodiversity
+development, saving water, and pollution prevention.
+On the social front, Lippo is frequently engaged in community-giveback programs, from organizing frequent health
+awareness seminars to collaborating with other companies within the Lippo group to award scholarships.
+However, we do not believe these factors affect the rating.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Lippo's borrowings are mostly comprised of senior unsecured bonds at the holdco. This includes US$409 million of
+7.00% notes due April 2022, and US$417.03 million of 6.75% notes due October 2026. Most debt at Lippo's operating
+subsidiaries consists of operating leases.
+
+Analytical conclusions
+We equate our ratings on Lippo's outstanding U.S. dollar senior unsecured notes with our 'B-' issuer credit rating on
+Lippo. This is because all of the company's assets are located in Indonesia, a jurisdiction where we believe the priority
+of claims in a theoretical bankruptcy is highly uncertain due to the weak jurisdictional context.
+
+Reconciliation
+Table 4
+
+Reconciliation Of PT Lippo Karawaci Tbk. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. IDR)
+--Fiscal year ended Dec. 31, 2018-PT Lippo Karawaci Tbk. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+14,694,733.0
+
+17,737,909.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+1,812,760.0
+
+1,136,856.0
+
+694,344.0
+
+2,871,649.8
+
+Cash flow
+from
+operations
+(3,409,355)
+
+SEPTEMBER 12, 2019 10
+
+PT Lippo Karawaci Tbk.
+
+Table 4
+
+Reconciliation Of PT Lippo Karawaci Tbk. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. IDR) (cont.)
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(514,770)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,288,230)
+
+--
+
+176,590.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+6,479,705.6
+
+--
+
+646,404.8
+
+453,579.4
+
+453,579.4
+
+(453,579.4)
+
+192,825.5
+
+257,763.0
+
+--
+
+11,703.0
+
+11,703.0
+
+11,703.0
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+2,042,664.0
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+400,782.0
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+(1,720,305)
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+400,782.0
+
+Noncontrolling
+interest/minority interest
+
+--
+
+7,009,159.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+6,914,058.6
+
+7,009,159.0
+
+1,058,889.8
+
+(1,255,022.6)
+
+2,507,946.4
+
+(2,256,579.4)
+
+593,607.5
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+615,070.5
+
+(2,815,747.5)
+
+Reported lease liabilities
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+21,608,791.6
+
+24,747,068.0
+
+2,871,649.8
+
+(118,166.6)
+
+3,202,290.4
+
+IDR--Indonesian rupiah
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 11
+
+PT Lippo Karawaci Tbk.
+
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Less than adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Health Care Services Industry, April 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Criteria For Assigning 'CCC+', 'CCC', 'CCC-', And 'CC' Ratings, Oct. 1, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 12
+
+PT Lippo Karawaci Tbk.
+
+Ratings Detail (As Of September 12, 2019)*
+PT Lippo Karawaci Tbk.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+18-Jul-2019
+
+B-/Stable/--
+
+14-Mar-2019
+
+CCC+/Watch Pos/--
+
+24-Jan-2019
+
+CCC+/Negative/--
+
+24-Apr-2018
+
+B-/Negative/--
+
+12-Dec-2017
+
+B/Stable/--
+
+18-Aug-2017
+
+B+/Watch Neg/--
+
+28-Jul-2016
+
+B+/Stable/--
+
+13-Jan-2016
+
+BB-/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 14
+
+

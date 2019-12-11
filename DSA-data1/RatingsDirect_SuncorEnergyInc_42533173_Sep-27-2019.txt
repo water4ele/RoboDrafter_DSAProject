@@ -1,0 +1,2019 @@
+Suncor Energy Inc.
+Primary Credit Analyst:
+Michelle S Dathorne, Toronto (1) 416-507-2563; michelle.dathorne@spglobal.com
+Secondary Contact:
+Wendell Sacramoni, CFA, Toronto (1) 416-507-2552; wendell.sacramoni@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Suncor Energy Inc.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a-
+
+a-
+
+a-
+
+A-/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Large, low decline, oil sands-focused upstream asset
+base
+
+Upstream production economics vulnerable to unscheduled production outages, as the
+largely fixed cost oil sands operations account for the majority of Suncor's upstream
+production
+
+Heavy oil price exposure substantially offset by oil
+sands upgrading and downstream refining capacity
+
+High level of discretionary spending reduces financial profile cushion to absorb
+unexpected high-impact operational or market shocks
+
+Increasing projected return on capital as spending
+trends down to largely maintenance levels
+
+Uncertainty in transportation has factored into a continued WCS differential reducing
+prices and net backs.
+Relatively high upstream unit production costs due to oil sands-dominant upstream
+product mix
+
+Consistent operating performance at oil sands operations, supplemented by production growth from conventional
+Canadian and international operations, will support production increases in 2019 and 2020. Our base-case scenario
+estimates 2019 production should increase by about 8%, net of Alberta's mandated production curtailment, from the
+company's 2018 daily average production of 732,000 barrels of oil equivalent (boe) per day. Despite the continuation
+of Alberta's production curtailment through 2020, we expect Suncor Energy Inc.'s production will continue increasing.
+Relatively high upstream unit cash operating costs compared with those of E&P peers focused on conventional oil and
+gas development. Based on our estimated unit break-even costs (our estimate of the company's full cycle costs), which
+use depreciation, depletion, and amortization as a proxy for finding and development costs, our June 30, 2019
+estimate of US$39.74 is the highest among the selected peers. Suncor's cash operating costs are higher than those of its
+peers, primarily due to the company's focus on oil sands development and production and costs associated with its
+upgrading operations.
+Strong revenue generation, supported by the company's light oil-focused upstream product mix and the margin uplift
+accruing from its downstream operations, relative to reduced forecast spending, results in increasing annual return on
+capital (RoC). S&P Global Ratings' annual projected RoC is estimated to increase and remain above its 2018 calculated
+RoC of 10.6%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Suncor Energy Inc.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that Suncor will consistently maintain its five-year
+(2017-2021), weighted-average funds from operations (FFO)-to-debt ratio above 45%. Consistently high operating
+reliability at the company's oil sands mining projects, improved cash flow generation in its downstream segment,
+and continued debt reduction have effectively tempered the potential adverse effects of weak Canadian crude oil
+prices. Our base-case scenario assumes continued dividend increases and ongoing share repurchases throughout
+our 2019-2021 forecast period, resulting in materially weaker discretionary cash flow (DCF)-to-debt ratios relative
+to our previous forecast. Nevertheless, as we expect Suncor's future annual and weighted-average FFO-to-debt
+ratios will remain above 45%, we expect the company's cash flow and leverage metrics will continue to support the
+'A-' credit rating.
+
+Downside scenario
+We expect Suncor's overall business risk profile will not change during our 24-month outlook period, so a negative
+rating action would likely occur if the company's cash flow and leverage profile deteriorated relative to our
+expectations. If the five-year, weighted-average FFO-to-debt ratio decreased to the bottom end of the 30%-45%
+range, with the DCF-to-debt ratio below 10%, and we believed cash flow metrics would remain at these levels, we
+would lower the rating to 'BBB+'.
+
+Upside scenario
+We believe Suncor's upstream and downstream operations are unlikely to achieve the scale or geographic scope to
+support a higher rating, so an upgrade could only occur if the company strengthens and maintains its five-year,
+weighted-average FFO-to-debt ratio above 60%. At this level, Suncor's financial risk profile would both support an
+'A' rating and accommodate materially lower levels of positive DCF generation. Although we view an upgrade as
+unlikely during our outlook period, we believe the company's FFO-to-debt ratios could strengthen above 60% in
+the medium term if Suncor can maintain or decrease the full-cycle costs of its upstream segment, while generating
+top-quartile return metrics.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Suncor Energy Inc.
+
+Assumptions
+
+• S&P Global Ratings' West Texas Intermediate price
+assumptions (published July 29, 2019) of US$55 per
+barrel for 2019, through to 2021
+• Brent price assumptions of US$60 per barrel in 2019
+and 2020, and US$55 per barrel in 2021, published
+July 29, 2019
+• Natural gas price assumption of US$2.25 per million
+British thermal units (Btu) for 2019, US$2.5 per
+million Btu for 2020, and US$2.75 per million Btu for
+2021 (published July 29, 2019)
+• Assumed Western Canadian Select (WCS) discount
+of US$20 per barrel for the rest of 2019, 2020, and
+2021
+• Canadian AECO natural gas price assumption of
+US$1.25 per MMBtu for the rest of 2019 and 2020,
+and US$1.50 per MMBtu for 2021
+• Canada-U.S. foreign exchange rate of C$1.34,
+C$1.32, and C$1.30 for 2019, 2020, and 2021,
+respectively
+
+Key Metrics
+
+Based on these assumptions, we forecast the following
+five-year (2017-2021), fully adjusted, weighted-average
+cash flow metrics:
+• Debt-to-EBITDA in the 1.6x-1.8x range
+• FFO-to-debt in the 46%-48% range
+• DCF-to-debt less than 5%
+--Fiscal year-end Dec. 31-2018A
+
+2019E
+
+2020E
+
+2021E
+
+FFO-to-debt (%)
+
+49
+
+46-49
+
+45-48
+
+48-51
+
+Debt-to-EBITDA (x)
+
+1.8 1.6-1.9 1.6-1.9 1.5-1.8
+
+DCF-to-debt (%)
+
+(1.2)
+
+5-8
+
+5-8
+
+6-9
+
+Note: All figures are S&P Global Ratings adjusted.
+FFO--Funds from operations. DCF--Discretionary cash
+flow. A--Actual. E--Estimate.
+
+• Production growth through the 2019-2021 forecast
+period supported by the ramp-up of Fort Hills and
+projects in Atlantic Canada and Norway, and an
+expectation of alleviation of production curtailments
+by 2021
+• Production at the company's legacy integrated oil
+sands mining project and Fort Hills at 90% of design
+capacity, and production levels at the Syncrude
+project estimated at 85% of design capacity, with
+2019-2020 production lowered to reflect the impact
+of mandatory production curtailments in Alberta
+• Annual capital spending of C$5.0 billion-C$5.5
+billion throughout the 2019-2021 forecast period
+• Annual dividend payments of about C$2.5 billion in
+2019, increasing throughout the 2019-2021 forecast
+period
+• Ongoing share repurchases throughout the
+2019-2021 forecast period
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Suncor Energy Inc.
+
+Base-case projections
+Improved revenue and cash flow generation, relative to our previous December 2018 forecast, supported by our
+increased crude oil price assumptions, partially offset by Canadian regional price discounts.S&P Global Ratings'
+updated cash flow estimates for the 2019-2021 forecast period have increased by about 6% from its December 2018
+forecast, largely due to its higher Brent and WTI price assumptions. Higher benchmark prices, the depreciated
+Canadian dollar, and increased cash flow contribution from the downstream segment have effectively offset the wider
+assumed price discounts for all grades of Canadian crude oil, and reduced 2019 and 2020 oil production due to the
+Alberta government's mandated production curtailment.
+S&P Global Ratings' projected fully adjusted net debt adversely affected by International Financial Reporting
+Standards (IFRS) 16 reporting changes and the depreciated Canadian dollar. Despite the expectation of continued
+debt reduction throughout our 2019-2021 forecast period, our estimated 2019 fully adjusted net debt has increased by
+about 11% from our 2018 base-case estimate, primarily due to increased reported liabilities under IFRS 16 and the
+increased converted U.S. dollar-denominated debt, caused by the depreciated Canadian dollar.
+Increasing projected positive free operating cash flow (FOCF) will fund ongoing dividend payments and share
+repurchases. Based on our estimates of increasing positive FOCF throughout our 2019-2021 forecast period, we
+believe Suncor should be able to fully fund its targeted discretionary spending from generated cash flow and cash on
+hand. Therefore, the company's gross debt should not increase as a result of its shareholder-friendly initiatives.
+Nevertheless, relatively low levels of forecast DCF tempers the cushion to offset unanticipated adverse, high-impact
+operational or market events.
+
+Company Description
+Suncor is an integrated oil and gas company with its upstream operations focused on producing synthetic crude oil
+and bitumen from its oil sands segment and conventional crude oil. In addition to its large oil sands mining and in-situ
+operations (including its 58.74% ownership in the Syncrude project), Suncor's exploration and production (E&P)
+segment is involved in offshore operations off the east coast of Canada and in the North Sea. The company also owns
+onshore conventional assets in Libya and Syria. There is no production from Syria, and Libya contributes a very small
+portion of the company's total production.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Suncor Energy Inc.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Suncor Energy Inc.
+
+Chart 2
+
+The refining and marketing segment refines crude oil and operates an extensive retail network. With Suncor's 462,000
+barrels per day of total refining capacity largely configured to process heavy crude feedstock, the high complexity of
+the company's refineries, with deep conversion capability, limit the company's exposure to lower value fuel products.
+Other assets include four wind projects and an ethanol plant.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Suncor Energy Inc.
+
+Chart 3
+
+Business Risk: Strong
+The ratings on Suncor reflect the company's large oil sands-focused resource base, with visibility to multidecade,
+non-declining stable production; its integrated portfolio of refineries configured to process heavy crude feedstock; and
+our expectation of improving RoC metrics.
+We include Suncor's total proven reserves and its probable oil sands reserves in our assessment of the company's
+upstream division's business risk profile. This very large resource base is the primary factor supporting our strong
+business risk profile assessment. Our adjusted reserves base of 6.3 billion boe, which includes total year-end 2018 net
+proven reserves of 4.1 billion boe, and probable oil sands reserves, position the company well relative to 'A' rated E&P
+oil and gas companies. Even before considering its probable oil sands reserves, the company's 4.1 billion boe proven
+reserves base is one of the largest in the North American E&P investment-grade rated peer group, exceeded by only
+Conoco Phillips, Canadian Natural Resources Ltd. (CNRL), and Chevron Corp. Moreover, its proved developed (PD)
+reserve life index (RLI) of about 12.8 years provides visibility to low-risk stable production. This very long PD RLI is
+characteristic of the company's oil sands-focused upstream operations, and materially exceeds that of its E&P peers
+focused on conventional oil and gas development. Among its investment-grade North American peers, only CNRL's
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Suncor Energy Inc.
+
+18.2-year PD RLI is larger, also reflecting CNRL's large exposure to oil sands (both mining and thermal) development.
+Chart 4
+
+The high portion of oil sands production in Suncor's upstream product mix results in relatively high consolidated U.S.
+dollar-equivalent unit cash operating and break-even costs of about US$25.76 and US$39.74 per boe at June 30, 2019,
+respectively. Given the high fixed component associated with oil sands production (both mining and in-situ),
+production shortfalls, caused by scheduled or unscheduled outages, will materially increase oil sands production unit
+cash operating costs. If Suncor is able to maintain high operating reliability at its oil sands operations, its unit cash
+operating costs should benefit from increasing economies of scale, as synthetic and bitumen crude oil production is
+sustained at consistent levels.
+Despite the relatively high cash costs associated with oil sands production, Suncor's profitability, which we assess
+based on our calculated RoC for the consolidated company, benefits from both the upstream segment's improved
+operating reliability and the company's integrated downstream operations. Our assessment of Suncor's five-year
+(2017-2021) RoC, at 10.5%, ranks the company's profitability at the higher end of the midrange of the global integrated
+oil and gas peer group. As we expect the company will continue to generate high levels of positive free operating cash
+flow, its annual RoC should continue to strengthen.
+
+Peer comparison
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Suncor Energy Inc.
+
+Table 1
+
+Suncor Energy Inc. -- Peer Comparison
+Industry Sector: Integrated Oil & Gas
+
+Suncor
+Energy Inc. ConocoPhillips
+Rating as of
+July 1, 2019
+
+A-/Stable/A-2
+
+Canadian
+Natural
+Resources Ltd.
+
+EOG
+Resources
+Inc.
+
+A/Stable/A-1 BBB+/Stable/A-2 A-/Stable/A-2
+
+Occidental
+Petroleum
+Corp.
+
+Chevron Corp.
+
+Husky
+Energy Inc.
+
+BBB/Stable/A-2 AA/Stable/A-1+ BBB/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. Mix curr.)
+
+C$
+
+$
+
+C$
+
+$
+
+$
+
+$
+
+C$
+
+Revenue
+
+38,823.0
+
+36,417.0
+
+21,027.0
+
+17,007.6
+
+17,824.0
+
+158,902.0
+
+22,252.0
+
+EBITDA
+
+13,363.5
+
+17,019.0
+
+10,251.0
+
+8,477.4
+
+9,681.5
+
+39,257.5
+
+4,829.5
+
+Funds from
+operations
+(FFO)
+
+11,677.4
+
+12,702.9
+
+9,528.9
+
+7,946.8
+
+9,093.8
+
+32,248.8
+
+4,363.9
+
+EBIT
+
+7,147.1
+
+10,328.1
+
+5,151.1
+
+4,634.7
+
+5,743.7
+
+22,088.7
+
+2,065.1
+
+Interest expense
+
+1,394.1
+
+1,338.1
+
+1,164.6
+
+339.0
+
+574.7
+
+1,716.7
+
+516.1
+
+Cash interest
+paid
+
+919.1
+
+1,027.1
+
+947.1
+
+300.6
+
+477.7
+
+1,050.7
+
+279.6
+
+Working capital
+changes
+
+408.0
+
+635.0
+
+1,697.0
+
+(230.1)
+
+(444)
+
+(300.0)
+
+130.0
+
+Cash flow from
+operations
+
+10,697.4
+
+12,941.9
+
+10,195.9
+
+7,858.4
+
+7,804.8
+
+30,919.8
+
+4,229.9
+
+Capital
+expenditure
+
+5,250.0
+
+6,580.0
+
+4,372.0
+
+6,052.0
+
+4,929.0
+
+13,619.0
+
+3,578.0
+
+Free operating
+cash flow
+(FOCF)
+
+5,447.4
+
+6,361.9
+
+5,823.9
+
+1,806.4
+
+2,875.8
+
+17,300.8
+
+651.9
+
+Dividends paid
+
+2,333.0
+
+1,363.0
+
+1,562.0
+
+438.0
+
+2,374.0
+
+8,502.0
+
+419.5
+
+61.4
+
+1,999.9
+
+2,979.9
+
+1,304.9
+
+(746.2)
+
+8,194.8
+
+232.4
+
+Cash and
+short-term
+investments
+
+2,221.0
+
+7,625.0
+
+625.0
+
+1,555.6
+
+3,033.0
+
+9,395.0
+
+2,866.0
+
+Gross available
+cash
+
+2,221.0
+
+7,625.0
+
+625.0
+
+1,555.6
+
+3,033.0
+
+10,345.0
+
+2,866.0
+
+Debt
+
+23,780.4
+
+16,346.5
+
+25,455.6
+
+5,994.4
+
+9,977.6
+
+42,162.4
+
+6,912.3
+
+Equity
+
+44,005.0
+
+32,064.0
+
+31,974.0
+
+19,364.2
+
+21,330.0
+
+155,642.0
+
+19,177.0
+
+Debt and equity
+
+67,785.4
+
+48,410.5
+
+57,429.6
+
+25,358.6
+
+31,307.6
+
+197,804.4
+
+26,089.3
+
+Annual revenue
+growth (%)
+
+21.1
+
+25.1
+
+26.3
+
+50.6
+
+42.5
+
+24.6
+
+19.7
+
+EBITDA margin
+(%)
+
+34.4
+
+46.7
+
+48.8
+
+49.8
+
+54.3
+
+24.7
+
+21.7
+
+EBIT margin
+(%)
+
+18.4
+
+28.4
+
+24.5
+
+27.3
+
+32.2
+
+13.9
+
+9.3
+
+Return on
+capital (%)
+
+10.6
+
+20.5
+
+8.8
+
+19.1
+
+18.3
+
+11.1
+
+8.1
+
+9.6
+
+12.7
+
+8.8
+
+25.0
+
+16.8
+
+22.9
+
+9.4
+
+Discretionary
+cash flow (DCF)
+
+Adjusted ratios
+
+EBITDA
+interest
+coverage (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Suncor Energy Inc.
+
+Table 1
+
+Suncor Energy Inc. -- Peer Comparison (cont.)
+Industry Sector: Integrated Oil & Gas
+
+Suncor
+Energy Inc. ConocoPhillips
+
+Canadian
+Natural
+Resources Ltd.
+
+EOG
+Resources
+Inc.
+
+Occidental
+Petroleum
+Corp.
+
+Chevron Corp.
+
+Husky
+Energy Inc.
+
+EBITDA cash
+interest
+coverage (x)
+
+14.5
+
+16.6
+
+10.8
+
+28.2
+
+20.3
+
+37.4
+
+17.3
+
+FFO cash
+interest
+coverage (x)
+
+13.7
+
+13.4
+
+11.1
+
+27.4
+
+20.0
+
+31.7
+
+16.6
+
+Debt/EBITDA
+(x)
+
+1.8
+
+1.0
+
+2.5
+
+0.7
+
+1.0
+
+1.1
+
+1.4
+
+FFO/debt (%)
+
+49.1
+
+77.7
+
+37.4
+
+132.6
+
+91.1
+
+76.5
+
+63.1
+
+Cash flow from
+operations/debt
+(%)
+
+45.0
+
+79.2
+
+40.1
+
+131.1
+
+78.2
+
+73.3
+
+61.2
+
+FOCF/debt (%)
+
+22.9
+
+38.9
+
+22.9
+
+30.1
+
+28.8
+
+41.0
+
+9.4
+
+DCF/debt (%)
+
+0.3
+
+12.2
+
+11.7
+
+21.8
+
+(7.5)
+
+19.4
+
+3.4
+
+Debt/debt and
+equity (%)
+
+35.1
+
+33.8
+
+44.3
+
+23.6
+
+31.9
+
+21.3
+
+26.5
+
+Financial Risk: Intermediate
+Our financial risk profile assessment for Suncor is unchanged. Despite our expectation of ongoing share repurchases,
+and continued dividend increases, the company's financial risk profile remains commensurate with an intermediate
+assessment. Our updated cash flow forecast for the 2019-2021 period estimates about a 6% increase in total FFO
+relative to our previous December 2018 forecast, with annual RoC increasing throughout this period.
+Increased estimated cash flow generation over our 2019-2021 forecast period, and the expectation of continued debt
+reduction during this period, despite a small offsetting increase in our projected capital spending estimates for
+2019-2021, have strengthened our five-year (2017-2021) fully adjusted FFO-to-debt ratio. With our updated five-year
+weighted average FFO-to-debt ratio estimated in the 46%-48% range, and our projected annual FFO-to-debt ratio
+continuing to improve beyond 2019, we believe the company's cash flow and leverage profile should accommodate
+continued dividend increases and ongoing share repurchases. Although our projected fully adjusted annual net debt
+amounts have been adversely affected by both our Canada-U.S. foreign exchange rate assumptions and the
+reclassification of some leasing obligations under the IFRS 16 lease accounting rules, we expect Suncor will continue
+reducing debt over our forecast period; therefore, we expect its financial risk profile should remain fairly stable over
+the next two-three years.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+Suncor Energy Inc.
+
+Table 2
+
+Suncor Energy Inc. -- Financial Summary
+Industry Sector: Integrated Oil & Gas
+--Fiscal year ended Dec. 31-(Mil. C$)
+Revenue
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+38,823.00 32,051.00 26,891.00 29,618.00 40,255.00
+
+EBITDA
+
+13,363.5
+
+11,232.0
+
+7,596.0
+
+9,112.0
+
+12,935.0
+
+Funds from operations (FFO)
+
+11,677.4
+
+9,487.2
+
+6,284.3
+
+6,176.0
+
+8,974.1
+
+EBIT
+
+7,147.1
+
+5,305.8
+
+713.7
+
+625.0
+
+5,983.9
+
+Interest expense
+
+1,394.1
+
+1,397.8
+
+1,531.7
+
+1,274.0
+
+1,124.9
+
+Cash interest paid
+
+919.1
+
+1,083.8
+
+1,183.7
+
+1,034.0
+
+896.9
+
+Working capital changes
+
+408.0
+
+(173)
+
+(308)
+
+78.0
+
+(122)
+
+10,697.4
+
+8,589.2
+
+5,494.3
+
+6,710.0
+
+8,731.1
+
+Capital expenditure
+
+5,250.0
+
+5,822.0
+
+5,985.0
+
+6,220.0
+
+6,530.0
+
+Free operating cash flow (FOCF)
+
+5,447.4
+
+2,767.2
+
+(490.7)
+
+490.0
+
+2,201.1
+
+Dividends paid
+
+2,333.0
+
+2,124.0
+
+1,877.0
+
+1,648.0
+
+1,490.0
+
+Cash flow from operations
+
+Discretionary cash flow (DCF)
+
+61.4
+
+(769.8)
+
+(2,367.7)
+
+(1,201)
+
+(959.9)
+
+Cash and short-term investments
+
+2,221.0
+
+2,672.0
+
+3,016.0
+
+4,049.0
+
+5,495.0
+
+Gross available cash
+
+2,221.0
+
+2,672.0
+
+3,016.0
+
+4,049.0
+
+5,495.0
+
+Debt
+
+23,780.4
+
+21,832.3
+
+23,577.8
+
+19,472.4
+
+14,213.6
+
+Equity
+
+44,005.0
+
+45,383.0
+
+44,630.0
+
+39,039.0
+
+41,603.0
+
+Debt and equity
+
+67,785.4
+
+67,215.3
+
+68,207.8
+
+58,511.4
+
+55,816.6
+
+Annual revenue growth (%)
+
+21.1
+
+19.2
+
+(9.2)
+
+(26.4)
+
+0.1
+
+EBITDA margin (%)
+
+34.4
+
+35.0
+
+28.2
+
+30.8
+
+32.1
+
+EBIT margin (%)
+
+18.4
+
+16.6
+
+2.7
+
+2.1
+
+14.9
+
+Return on capital (%)
+
+10.6
+
+7.8
+
+1.1
+
+1.1
+
+10.8
+
+Adjusted ratios
+
+EBITDA interest coverage (x)
+
+9.6
+
+8.0
+
+5.0
+
+7.2
+
+11.5
+
+EBITDA cash interest coverage (x)
+
+14.5
+
+10.4
+
+6.4
+
+8.8
+
+14.4
+
+FFO cash interest coverage (x)
+
+13.7
+
+9.8
+
+6.3
+
+7.0
+
+11.0
+
+Debt/EBITDA (x)
+
+1.8
+
+1.9
+
+3.1
+
+2.1
+
+1.1
+
+FFO/debt (%)
+
+49.1
+
+43.5
+
+26.7
+
+31.7
+
+63.1
+
+Cash flow from operations/debt (%)
+
+45.0
+
+39.3
+
+23.3
+
+34.5
+
+61.4
+
+FOCF/debt (%)
+
+22.9
+
+12.7
+
+(2.1)
+
+2.5
+
+15.5
+
+0.3
+
+(3.5)
+
+(10)
+
+(6.2)
+
+(6.8)
+
+35.1
+
+32.5
+
+34.6
+
+33.3
+
+25.5
+
+DCF/debt (%)
+Debt/debt and equity (%)
+FFO--Funds from operations.
+
+Liquidity: Strong
+We assess Suncor's liquidity profile as strong. Our assessment reflects the projected increase in cash flow generation
+and capital spending largely focused on sustaining existing operations. Our muted spending estimates are, however,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+Suncor Energy Inc.
+
+offset by our expectation of high levels of discretionary spending in the upcoming 24 months. Nevertheless, under our
+crude oil and natural gas price assumptions, we estimate that cash flow from operations would fully fund the
+company's capital program during our 24-month liquidity assessment period. Specifically, we estimate Suncor's ratio of
+total liquidity sources relative to projected uses at about 1.5x in the 12-month period beginning July 1, 2019, and at
+about 1.9x in the subsequent 12 months.
+Our liquidity assessment also incorporates the following assumptions:
+• Suncor's net sources of liquidity (after satisfying all funding requirements) will remain positive, even if its EBITDA
+declines 30%
+• The company will retain its good standing in capital markets and a good relationship with its banking syndicate
+• With Suncor having only one debt-to-capital covenant, we believe there is no likelihood of a covenant breach during
+the next two years
+Our short-term and global scale commercial paper (CP) ratings on the company are 'A-2', and the Canada scale CP
+rating is 'A-1(Low)'. These ratings reflect our expectation that Suncor will maintain available same-day back-stop
+facilities to cover 100% of all CP maturities as they come due.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Projected annual FFO of C$10 billion-C$11 billion
+
+• Annual capital spending of C$5.0 billion-C$5.5
+billion in the liquidity assessment period
+
+• Total availability of C$6.9 billion under the
+company's credit facilities at June 30, 2019
+• Cash on hand of about C$2.1 billion at June 30, 2019
+
+• The repayment of upcoming debt maturities
+• Annual dividend payments of C$2.5 billion-C$2.6
+billion
+• Share repurchases of C$1.5 billion-C$2 billion
+
+Debt maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+Suncor Energy Inc.
+
+Chart 5
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 14
+
+Suncor Energy Inc.
+
+Environmental, Social, And Governance
+
+The oil and gas industry has high exposure to environmental and social risks due to the production of greenhouse
+gas creating commodities, the potential environmental damage caused by its operations and the environmental
+and social risks in the supply chain, most notably the protracted delays in completing new pipeline projects
+We view the environmental considerations that have mostly triggered ongoing social activism against pipeline
+development and oil sands production to be less supportive of credit quality for Canadian oil and gas companies
+focused on oil sands development relative to the broader oil and gas sector. With 93% of its 2018 production from
+Canada and about 86% of its projected 2019 production coming from its oil sands (mining and in-situ) operations,
+Suncor is highly exposed to stringent environmental regulations, conflicting provincial regulations, and Indigenous
+activism. Protracted delays in constructing pipelines have led to wide hydrocarbon differentials for the industry,
+which have adversely affected revenue and profitability for oil and gas companies. In our view, the pervasive and
+persistent challenges to pending pipeline expansion projects have created a structural disadvantage for Canadian
+E&P companies, as constrained egress capacity from western Canada has translated into significant price discounts
+for several grades of Canadian crude, particularly heavy oil. Suncor's upgrading and refining capacity does insulate
+its production from the prevailing volatile price discounts for Canadian heavy oil; however, the company's revenue
+and overall profitability remain vulnerable to persistent price discounts for its lighter crudes sold into the open
+market.
+In addition to Canada's clearly defined emissions reduction policies, environmental regulations in the North Sea,
+U.K., are also well defined, covering abandonment and reclamation (asset retirement obligations), oil spills, and
+emissions, among other items. Suncor has negligible exposure to Libya and changes to the environmental
+regulatory framework would not have a meaningful impact on the company.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+We expect the capital structure will include committed credit facilities and senior unsecured debt. At June 30, 2019,
+there was total debt outstanding of C$15.2 billion.
+
+Analytical conclusions
+All debt, including the committed revolving credit facilities, and CP outstanding, is unsecured. Given there are no
+material priority obligations ranking ahead of the company's senior unsecured obligations, we rate Suncor's senior
+unsecured debt 'A-', at the same level as the issuer credit rating.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 15
+
+Suncor Energy Inc.
+
+Table 3
+
+Reconciliation Of Suncor Energy Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+C$)
+--Fiscal year ended Dec. 31, 2018-Suncor Energy Inc. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+Debt
+
+Revenue
+
+EBITDA
+
+Operating
+income
+
+17,350.0
+
+38,986.0
+
+12,839.0
+
+7,101.0
+
+797.0
+
+13,363.5
+
+10,580.0
+
+5,406.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(645)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(644)
+
+--
+
+--
+
+Operating leases
+
+1,736.3
+
+--
+
+392.5
+
+119.1
+
+119.1
+
+(119.1)
+
+273.4
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+1,088.6
+
+--
+
+56.0
+
+56.0
+
+56.0
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+(2,221)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+156.0
+
+(156)
+
+(156)
+
+(156)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+117.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+5,281.6
+
+--
+
+--
+
+--
+
+266.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+122.0
+
+--
+
+--
+
+(122)
+
+--
+
+--
+
+Asset retirement
+obligations
+Exploration costs
+Debt: Other
+
+545.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Revenue:
+Finance/interest income
+
+--
+
+(34)
+
+(34)
+
+(34)
+
+--
+
+--
+
+--
+
+--
+
+Revenue: Other
+
+--
+
+(129.0)
+
+(129.0)
+
+(129.0)
+
+--
+
+--
+
+--
+
+--
+
+EBIT: Finance/interest
+income
+
+--
+
+--
+
+--
+
+34.0
+
+--
+
+--
+
+--
+
+--
+
+6,430
+
+(163)
+
+525
+
+46
+
+597
+
+(1,686)
+
+117
+
+(156)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+11,677
+
+10,697
+
+5,250
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+23,780
+
+38,823
+
+13,364
+
+7,147
+
+1,394
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A-/Stable/A-2
+
+Business risk: Strong
+
+• Country risk: Very low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 16
+
+Suncor Energy Inc.
+
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: aModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Oil Refining And Marketing Industry, March 27,
+2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Oil And Gas Exploration And Production Industry,
+Dec. 12, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• S&P Global Ratings Lowered Its Henry Hub Natural Gas Price Assumption For The Rest Of 2019 And For 2020,
+2021; Long-Term U.S. Natural Gas, Canadian AECO, And Crude Oil Price Assumptions Unchanged, July 29, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 17
+
+Suncor Energy Inc.
+
+• S&P Global Ratings Lowers Its Western Canadian Select Price Assumptions To Reflect Continued Volatility In
+Differentials, Feb. 7, 2019
+• S&P Global Ratings Expands Its Published Price Assumptions To Include Canadian AECO Benchmark Gas Price,
+Feb. 7, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 25, 2019)*
+Suncor Energy Inc.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Canada National Scale Commercial Paper
+
+A-1(LOW)
+
+Senior Unsecured
+
+A-
+
+Issuer Credit Ratings History
+07-Jun-2017
+
+A-/Stable/A-2
+
+18-Apr-2016
+
+A-/Negative/A-2
+
+05-Oct-2015
+
+A-/Watch Neg/A-2
+
+26-Sep-2014
+
+A-/Stable/A-2
+
+Related Entities
+Suncor Energy Ventures Corporation
+Issuer Credit Rating
+
+A-/Stable/--
+
+Senior Unsecured
+
+A-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 18
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 19
+
+

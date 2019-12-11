@@ -1,0 +1,1000 @@
+Mitsubishi Corp.
+Primary Credit Analyst:
+Katsuyuki Nakai, Tokyo (81) 3-4550-8748; katsuyuki.nakai@spglobal.com
+Secondary Contact:
+Kei Ishikawa, Tokyo (81) 3-4550-8769; kei.ishikawa@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook: Stable
+Our Base-Case Scenario
+Key Metrics
+Company Description
+Business Risk Profile: Strong
+Financial Risk Profile: Modest
+Funding And Liquidity
+Environmental, Social, And Governance
+Group Companies
+Issue Ratings--Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+Mitsubishi Corp.
+Credit Highlights
+Issuer Credit Rating
+A/Stable/A-1
+
+Overview
+Key strengths
+
+Key risks
+
+Stable profit generation, backed by a highly diversified business portfolio and
+the largest business foundation in its industry
+
+Profits and cash flow to remain prone to market volatility, given
+risk exposures to resource-related sectors remains sizable
+
+Excellent decision-making on investments and divestments in resources and
+energy, effective investment portfolio management, and a strong record of
+building global networks and gathering information
+
+Likely continuation of substantial spending for growth and
+shareholder returns, and a possibility of additional financial
+burdens if the performance of Chiyoda Corp. deteriorates again
+
+Conservative financial discipline, through which the company has balanced
+operating cash flow and new investments
+Adjusted capital (risk buffer), is likely to exceed the risk-based
+capital(risk-weighted assets) required under our 'A' stress scenario
+
+Based on the well-diversified, strong business portfolio, Mitsubishi Corp. will likely continue to generate strong profits.
+S&P Global Ratings expects net profits of Japan-based general trading and investment company (GTIC) Mitsubishi
+Corp. to steadily increase in the next one or two years. They stood at around ¥600 billion in fiscal 2018. We expect the
+increase to be driven by steady profit contributions, mainly from nonresource businesses including food and other
+living essentials, automotive, and infrastructure. Mitsubishi Corp. has continuously strengthened its business portfolio,
+mainly in nonresource sectors. Thus, we believe the company has become less susceptible to external factors and
+resource prices. Some of the company's businesses, including convenience store Lawson Inc., face increasingly harsh
+competition. Mitsubishi Corp. is likely to continue to experience difficulties in identifying new investment opportunities
+that will lead to long-term profit contributions. However, we believe the company can achieve strong and stable profits
+by further enhancing its competitiveness in strong, strategic business areas and replacing assets in the business
+portfolio in a timely manner. We think its strategic business areas include retail, logistics and renewable energy.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+Mitsubishi Corp.
+
+Chart 1
+
+Mitsubishi Corp.'s financial burdens are likely to remain manageable, although its financial capacity may weaken
+relative to its current rating. Improvements in Mitsubishi Corp.'s capital adequacy against risk-weighted assets, an
+important consideration in our credit analysis, is likely to slow down. This is because of higher spending for growth
+and shareholder returns. In fiscal 2019, we expect the company's free cash flow to decline year on year. We expect it
+to end in negative territory after distributions to shareholders, including share buybacks of up to ¥300 billion. We also
+expect Mitsubishi Corp.'s investments, compared to fiscal 2018, to increase further in the next one to two years.
+However, we think Mitsubishi Corp. will remain able to manage its financial burdens in the next one to two years for
+two main reasons. First, we expect the company to continue generating solid operating cash flow, backed by a strong
+business performance, while at the same time generating cash by switching businesses. Second, we think the company
+will remain disciplined and maintain sound financial measures, such as capital adequacy, when determining
+shareholder returns.
+Mitsubishi Corp.'s strategy of increasing earnings by raising its enterprise value will be tested with its management of
+the turnaround of underperforming portfolio company Chiyoda Corp.Mitsubishi Corp. may suffer additional financial
+burdens if Chiyoda Corp.'s performance deteriorates again. The GTIC has announced it will provide ¥160 billion in
+financial support to its equity-method affiliate, which posted a net loss in fiscal 2018 because of worsening profitability
+at an overseas plant. Mitsubishi Corp. plans to make it a consolidated subsidiary. We consider the result of Chiyoda's
+turnaround plan to be one of the key elements in our credit assessment. Mitsubishi Corp. operates businesses in
+various sectors, providing business support and sending managers to the companies it invests in, as well as to group
+companies. We therefore believe the company's investment portfolio has become more complex. Mitsubishi Corp.
+aims to increase profitability and manage its portfolio appropriately. In our view, it has therefore become more
+important that the company further strengthens its strategic business areas, enhances its asset selection, and optimizes
+replacement timing for the assets in its portfolio.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+Mitsubishi Corp.
+
+Chart 2
+
+Outlook: Stable
+
+The stable outlook reflects our view that the company's capital adequacy will steadily improve in the next year or
+two. We base this view on our expectation that despite more spending, the company will accumulate shareholders'
+equity through the steady retention of net profits and uphold a conservative investment policy. The outlook also
+reflects our expectation that Mitsubishi Corp. will achieve a steady return on risk-weighted assets (RORA) of
+around 15%.
+
+Upside scenario
+We will consider an upgrade if profits and profitability from resource and nonresource businesses continue to
+grow, steadily pushing Mitsubishi Corp.'s RORA beyond 20%. Additionally, we may upgrade the company if its net
+profit and shareholders' equity improve faster than we assume and we determine that its adjusted capital will
+improve and significantly surpass the level required for risk-based capital under our 'A' stress scenario.
+
+Downside scenario
+We would consider lowering Mitsubishi Corp.'s ratings if its net profit falls far short of ¥400 billion in fiscal 2019.
+This could happen if, for example, there are impairment losses in the resource segment because of a drop in
+commodity prices, or if Chiyoda Corp.'s performance worsens. We would also consider a downgrade if the
+company again becomes excessively aggressive on investments and shareholder returns. Such circumstances
+could lead us to see a heightened likelihood of its free cash flow turning significantly negative, to the point that
+adjusted capital falls below the required risk-based capital under our 'A' stress scenario and stays there.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+Mitsubishi Corp.
+
+Our Base-Case Scenario
+
+Assumptions
+• Annual real GDP growth in Japan of 0.8% in 2019 and 0.1% in 2020 (June 2019 assumptions); and global growth
+of 3.3% and 3.6% (July 2019 assumptions)
+• Crude oil, copper, iron ore, and other resources at price assumptions we apply globally in our credit analyses
+• No impairment losses on the multi-billion yen scale from investments in resource businesses or Chiyoda Corp.,
+and no requirement to provide additional funds to Chiyoda
+• Stable profitability, with RORA at around 15% in the next three years
+• Net investments (investments minus depreciation and divestitures) of about ¥700 billion in both fiscals 2019 and
+2020
+• No material changes in the company's dividend payment policy
+• Dividend payouts of above ¥200 billion and share buybacks of ¥300 billion in fiscal 2019
+• No substantial increase in outstanding debt from March 31, 2019
+• Adjusted capital (risk buffer) likely to remain above risk-based capital (risk-weighted assets) required under our
+'A'-category stress scenario in the next one to two years
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+Mitsubishi Corp.
+
+Key Metrics
+
+2018a
+
+2019f
+
+2020f
+
+Net income (bil. ¥)
+
+590.7
+
+About 600.0
+
+About 650.0
+
+Shareholders' equity (adjusted for subordinated loans) (tril. ¥)
+
+About 6.9
+
+About 7.0
+
+About 7.5
+
+Adjusted debt (adjusted for subordinated loans, etc.)(tril. ¥)
+
+About 5.2
+
+About 5.5
+
+About 5.5
+
+Adjusted free cash flow (bil. ¥)
+
+About 442.3
+
+About 250.0
+
+About 400.0
+
+Adjusted net debt to equity (x)
+
+0.8
+
+About 0.8
+
+About 0.7
+
+Net income does not include S&P Global Ratings' adjustments. Adjusted debt is the amount of interest-bearing debt, minus the amount equivalent
+to 75% of cash and cash equivalents and 50% of subordinated loan S&P considers having intermediate equity content, plus guarantees, leases,
+and unfunded pension liabilities. Free cash flow incorporates our adjustments for lease and pension liabilities. a--Actual. f--Forecast. All years are
+fiscal, ending March 31 of the following year.
+
+Base-case projections
+Mitsubishi Corp.'s overall net profit will increase moderately, driven by steady improvement in nonresource
+businesses. Despite growing uncertainties on the external environment and resource prices, the company's net
+profit is likely to grow steadily and exceed ¥600 billion from fiscal 2019 onward. Company efforts to strengthen the
+competitiveness of existing businesses, such as retail, logistics and automotive, and the divesture of assets in a
+timely manner will facilitate this improvement.
+Despite larger investments and returns to shareholders, Mitsubishi Corp. will maintain positive free cash flow,
+balancing adjusted capital and risk-weighted assets. Large investments and share buybacks will reduce the
+company's free cash flow in fiscal 2019. However, it will recover to the fiscal 2018 level, as a result of the
+company's conservative financial management. Consequently, adjusted capital will be kept in line with the
+risk-based capital required under our 'A'' stress scenario.
+
+Company Description
+Mitsubishi Corp. plans, develops, manufactures, sells, and trades a wide range of products. It operates in the fields of
+energy, metals, machinery, chemicals, and living essentials. It also engages in resource development,
+infrastructure-related projects, and financing. The company operates through with its direct affiliates under the
+following structure:
+• Natural gas department;
+• Petroleum and chemicals, industrial materials business group;
+• Mineral resources business group;
+• Industrial infrastructure and power solution department;
+• Urban development and mobility department; and
+• Food industry and consumer industry department.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+Mitsubishi Corp.
+
+Chart 3
+
+Business Risk Profile: Strong
+We believe Mitsubishi Corp. will continue to post strong profits, leveraging its strong business foundation, which is the
+industry's largest. The company's performance is backed by a well-diversified portfolio. Its assets and revenue sources
+are geographically diversified across Australia, Asia, Europe, and North and South America, in addition to Japan. We
+expect the company to remain competitive in its abilities to partner with other major companies, build business
+networks, and gather information globally.
+Mitsubishi Corp.'s trading business has a solid customer base, supported by diverse customers and stable business
+relationships, including with other Mitsubishi group members. We believe it has a competitive advantage over its peers
+in licenses, contracts, and commercial rights; brand reputation and business development skills; and business
+infrastructure and capabilities. We expect Mitsubishi Corp. to generate stable earnings from nonresource businesses,
+such as automotive, food, industrial finance, logistics and development, and infrastructure. The company's investment
+business is slightly smaller in scale and scope than those of major global players in the resource and energy fields.
+However, we believe Mitsubishi Corp.'s investment business has stronger strategic investment capabilities in terms of
+decision-making on opportunities and divestitures and management of its investment portfolio.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+Mitsubishi Corp.
+
+In our view, the importance of appropriate management of the investment portfolio will rise for Mitsubishi Corp. as it
+works to maintain stability and profitability. Mitsubishi Corp. operates in diverse fields, providing business support and
+sending managers to companies it has invested in, as well as to about 1,400 group companies. Consequently, the
+company's investment portfolio has become increasingly complex.
+We also recognize Mitsubishi Corp.'s efforts to facilitate stable business operations and better profitability. The
+company posted large impairment losses in the resource segment in fiscal 2015, which could not be fully offset by
+profits from nonresource businesses. Reflecting on this, it categorized businesses into those sensitive to market
+volatility and those that are relatively stable. It is currently working to refine its market risk sensitivity measures.
+Mitsubishi Corp. also focuses on areas in which it has advantages, and disposing and withdrawing from businesses in
+which it does not have expertise.
+However, equity-method affiliate Chiyoda Corp. posted a net loss of ¥214.9 billion in fiscal 2018, because of an
+unprofitable overseas plant. Amid increasing uncertainty about the macroeconomic environment, we think it is
+increasingly important for Mitsubishi Corp. to further strengthen businesses it considers strategic, enhance its asset
+selection, and determine optimal timing for replacing assets.
+Peer Comparison
+Mitsubishi
+Corp.
+
+Mitsui & Co.
+Ltd.
+
+Sumitomo
+Corp.
+
+Marubeni
+Toyota
+Corp. Tsusho Corp.
+
+Sojitz Corp.
+
+--Fiscal year ended March 31, 2019--
+
+(Mil. ¥)
+Gross profit
+
+ITOCHU
+Corp.
+
+1,987,811
+
+838,467
+
+1,563,772
+
+923,193
+
+729,675
+
+638,429
+
+240,957
+
+Core earnings*§
+
+905,767
+
+639,478
+
+547,051
+
+427,637
+
+306,002
+
+245,530
+
+102,957
+
+Net income
+
+590,737
+
+414,215
+
+500,523
+
+320,523
+
+230,891
+
+132,622
+
+70,419
+
+Operating cash flow§
+
+716,033
+
+440,114
+
+534,785
+
+288,536
+
+320,430
+
+223,221
+
+103,174
+
+(273,687)
+
+(719,036)
+
+201,149
+
+(51,317)
+
+22,528
+
+(137,546)
+
+(42,200)
+
+442,346
+
+-278,922
+
+735,934
+
+237,219
+
+342,958
+
+85,675
+
+60,974
+
+Cash and cash
+equivalents§
+
+1,032,247
+
+717,080
+
+465,160
+
+504,630
+
+382,267
+
+349,396
+
+216,457
+
+Interest-bearing debt§
+
+5,205,525
+
+4,475,722
+
+3,313,998
+
+3,031,345
+
+2,614,959
+
+1,279,369
+
+773,221
+
+Investing cash flow
+Free cash flow§
+
+Shareholders' equity§
+
+6,936,920
+
+4,807,808
+
+3,690,116
+
+2,906,199
+
+1,946,726
+
+1,389,616
+
+661,607
+
+Capital§
+
+12,142,445
+
+9,283,530
+
+7,004,114
+
+5,937,544
+
+4,561,685
+
+2,668,985
+
+1,434,828
+
+Total assets§
+
+16,803,380
+
+12,172,184
+
+10,471,359
+
+8,144,173
+
+6,980,905
+
+4,504,599
+
+2,347,214
+
+Return on equity (%)§
+
+8.5
+
+8.6
+
+13.6
+
+11.0
+
+11.9
+
+9.5
+
+10.6
+
+Return on assets (%)§
+
+3.5
+
+3.4
+
+4.8
+
+3.9
+
+3.3
+
+2.9
+
+3.0
+
+Net debt-to-equity
+ratio (x)§
+
+0.8
+
+0.9
+
+0.9
+
+1.0
+
+1.3
+
+0.9
+
+1.2
+
+Based on company data. *After depreciation and amortization. §After S&P Global Ratings' adjustments: (1) Core earnings are defined as
+operating profit before provision for doubtful receivables + net interest income + dividend income + equity income. (2) Operating cash flow and
+free cash flow are adjusted for both lease obligations and post-retirement benefit obligations. (3) Cash and cash equivalents are equivalent to 75%
+of the actual outstanding balance. (4) Interest-bearing debt excludes cash and cash equivalents, and includes guarantee, lease, and unfunded
+post-retirement benefit obligations. (5) Shareholders' equity includes 50% of subordinated loan. (6) Return on equity is net income per
+shareholders' equity. (7) Return on assets is net income per total assets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+Mitsubishi Corp.
+
+Financial Risk Profile: Modest
+Mitsubishi Corp.'s investment business faces an inherent risk of impairment loss. This is because it continuously makes
+large investments and because revenues from resource-related investments are susceptible to commodity market
+volatility. Even with growing macroeconomic uncertainty and resource price concerns, we believe the company's solid
+business foundation will help generate robust profits in its nonresource segment in the next year or two. This, in turn,
+will underpin the company's overall profits.
+For fiscal 2019, we expect the company's free cash flow after shareholders rewards, including share buybacks of up to
+¥300 billion, to be negative. The company is also likely to spend more in fiscal 2019 than 2018's ¥895.8 billion in new
+and maintenance investments. Mitsubishi Corp. has announced it plans to provide ¥160 billion in financial support to
+Chiyoda Corp. We think it has become more likely that Mitsubishi Corp. will have to take on additional financial
+burdens if Chiyoda Corp.'s performance deteriorates again. The results of efforts to turnaround Chiyoda Corp. are one
+of the key elements in our assessment of Mitsubishi Corp.'s creditworthiness.
+Mitsubishi Corp. has focused on enhancing its financial standing and has taken steps to recover its risk buffer.
+Specifically, it issued subordinated debt and took out subordinated loans totaling ¥600 billion in 2015 and 2016. We
+regard the subordinated debt and loans as having intermediate equity content. We believe it is highly likely to maintain
+a conservative financial policy under which it aims to enhance free cash flow management, with an eye on balancing
+operating cash flow and fresh investments. Thus, in our opinion, it is unlikely that the company's solid financial
+foundation will weaken drastically anytime soon.
+Mitsubishi Corp.'s adjusted capital is likely to exceed risk-based capital required under our 'A' stress scenario. We base
+this view on our expectation that high and steady net profit in the next year or two will expand shareholders' equity.
+Mitsubishi Corp.'s ratio of net debt to equity was solid at 0.8x as of the March 31, 2019. We expect the ratio to
+continue to improve gradually in the next one to two years. As a result, Mitsubishi Corp.'s level of indebtedness does
+not constrain our assessment of its capital adequacy. Accordingly, we continue to assess Mitsubishi Corp.'s capital
+adequacy as strong, the second-highest score on a six-point scale.
+
+Profitability
+We expect Mitsubishi Corp. to generate at least ¥600 billion in net profit in fiscals 2019 and 2020. We assume resource
+prices will remain stable and the company's profits from nonresource businesses will grow steadily, at a moderate
+pace. Mitsubishi Corp.'s RORA is likely to move around 15% in the next three years. The RORA is also likely to lag
+those of ITOCHU Corp. and Sumitomo Corp., reflecting the company's sizable equity method investments and its
+exposure to resource businesses.
+
+Risk position and asset risk management capabilities
+Mitsubishi Corp. aims to increase its earnings opportunities through new investments. It also aims to offload
+weak-performing investments. Therefore, we think a material increase in the company's annual investments (net basis)
+in the next one to two years is unlikely.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 9
+
+Mitsubishi Corp.
+
+Mitsubishi Corp.--Key Financial Indicators
+Fiscal year*
+(Mil. ¥)
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+1,209,894
+
+1,098,877
+
+1,328,638
+
+1,886,640
+
+1,987,811
+
+Core earnings§†
+
+597,612
+
+33,731
+
+638,130
+
+883,779
+
+905,767
+
+Net income
+
+400,574
+
+(149,395)
+
+440,293
+
+560,173
+
+590,737
+
+Operating cash flow†
+
+841,718
+
+749,225
+
+637,432
+
+801,576
+
+716,033
+
+(154,852)
+
+(503,854)
+
+(179,585)
+
+(317,583)
+
+(273,687)
+
+Gross profit
+
+Investing cash flow
+Free cash flow†
+
+686,866
+
+245,371
+
+457,847
+
+483,993
+
+442,346
+
+Cash and cash equivalents†
+
+1,434,894
+
+1,316,932
+
+1,061,477
+
+937,154
+
+1,032,247
+
+Interest-bearing debt†
+
+5,996,787
+
+5,914,352
+
+5,380,147
+
+5,004,697
+
+5,205,525
+
+Shareholders' equity†
+
+6,055,555
+
+5,167,522
+
+6,089,011
+
+6,565,211
+
+6,936,920
+
+Capital†
+
+12,052,342
+
+11,081,874
+
+11,469,158
+
+11,569,908
+
+12,142,445
+
+Total assets†
+
+16,994,921
+
+15,149,986
+
+15,983,568
+
+16,258,508
+
+16,803,380
+
+Return on equity (%)†
+
+6.6
+
+-2.9
+
+7.2
+
+8.5
+
+8.5
+
+Return on assets (%)†
+
+2.4
+
+-1.0
+
+2.8
+
+3.4
+
+3.5
+
+Net debt-to-equity ratio (x)†
+
+1.0
+
+1.1
+
+0.9
+
+0.8
+
+0.8
+
+Based on company data. *Ends March 31 of the following year. §After depreciation and amortization. †After S&P Global Ratings' adjustments: (1)
+Core earnings are defined as operating profit before provision for doubtful receivables + net interest income + dividend income + equity income.
+(2) Operating cash flow and free cash flow are adjusted for both lease obligations and post-retirement benefit obligations. (3) Cash and cash
+equivalents are equivalent to 75% of the actual outstanding balance. (4) Interest-bearing debt excludes cash and cash equivalents, and includes
+guarantee, lease, and unfunded post-retirement benefit obligations. (5) Shareholders' equity includes 50% of subordinated loan. (6) Return on
+equity is net income per shareholders' equity. (7) Return on assets is net income per total assets.
+
+Funding And Liquidity
+We assess Mitsubishi Corp.'s funding as adequate. Although it has strong, ongoing needs for foreign
+currency-denominated funding, we believe it can sufficiently handle these needs. This is because it has the ability to
+generate steady operating cash flow. It also has a record of raising foreign currency-denominated funds and it makes
+use of foreign exchange hedging. We assume Mitsubishi Corp. will basically cover long-term investments with
+long-term financing and place sufficient importance on matching maturities and currencies.
+We assess Mitsubishi Corp.'s liquidity as adequate, based on data as of March 31, 2019. We expect Mitsubishi Corp.
+will maintain annual liquidity sources of at least 1.1x its uses in the next 12 months. Mitsubishi Corp.'s liquidity is
+unlikely to deteriorate significantly, given its strong relationships with major lenders, including Japan's three
+megabanks, and its status as a core company within the wider Mitsubishi group.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 10
+
+Mitsubishi Corp.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about ¥1.0 trillion
+(excluding Lawson Bank)
+
+• Interest-bearing debt due in the next 12 months of
+about ¥1.5 trillion
+
+• Projected annual funds from operations of about
+¥800 billion
+
+• Annual capital expenditures for replacements of
+¥300 billion
+
+• Unused portions of commitment facilities maturing
+after a year or beyond
+• Contracted asset sales
+
+Environmental, Social, And Governance
+
+We view environmental risk is the most significant environment, social, and governance (ESG) risk for Mitsubishi
+Corp. The company invests in large-scale, off-shore resource development projects, including petroleum, natural
+gas, iron ore, and coal. The company started to work on divesting coal mine projects in Australia in 2018 and has
+sold all interests in fuel coal assets. Mitsubishi Corp. has also been working to increase the proportion of renewable
+energy in its power generation business. In its power generation business, it targets a ratio of renewable to all
+power generation of at least 20% by 2030 (based on generation volume). Related to this, the company has been
+leading the construction of an offshore wind farm. Considering these efforts, we believe environmental risk will
+remain largely manageable to Mitsubishi Corp. in the next five years.
+In our opinion, social and governance risks are less significant for Mitsubishi Corp. We recognize that both equity
+method affiliates and consolidated subsidiaries in the resource development field face the risk of large-scale
+accidents due to events such as natural disasters. However, the company's investments are principally in projects
+operated by global major players, such as oil majors and large resource development companies. Further, the
+company is mostly a minority investor in these projects. However, we consider social risk mitigation to be
+important for these investments. We believe the company needs to collaborate with those leading the projects it
+has invested in and enhance operation controls. This is an important factor in our credit analysis of Mitsubishi
+Corp.
+For governance, we consider as Mitsubishi Corp.'s strengths its strategy building process, risk management
+capability, and management's comprehensive knowledge. We believe these strengths will continue to underpin the
+company's strong business foundation and ability to generate solid cash flow relative to peers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 11
+
+Mitsubishi Corp.
+
+Group Companies
+Under our group rating methodology, we categorize Mitsubishi Corp.'s two financing arms, Mitsubishi International
+Corp. and Mitsubishi Corp. Finance PLC, and New Century Insurance Co. Ltd. as core subsidiaries. We thus equalize
+our long-term issuer credit ratings and outlooks on the three subsidiaries with those on Mitsubishi Corp.
+
+Issue Ratings--Subordination Risk Analysis
+Capital structure
+Mitsubishi Corp.'s consolidated debt consists of unconsolidated bank loans, corporate bonds, and subordinated loans
+at the parent level, plus subsidiaries' bank loans and corporate bonds.
+
+Analytical conclusions
+We equalize our long-term issue rating on Mitsubishi Corp.'s senior unsecured debt with our long-term issuer credit
+rating on the company. This reflects our view that issuers we assess to have a financial risk profile of modest have
+leverage low enough to limit the possibility any lenders might be significantly disadvantaged relative to other lenders.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A/Stable/A-1
+
+Business risk: Strong
+• Country risk: Intermediate
+• Industry risk: Intermediate
+• Competitive position: Strong (Trading business: Strong; Investment business: Strong)
+• Trading and investment business weights: Company with balance between trading and investment business
+
+Financial risk: Modest
+• Capital adequacy: Strong
+• Profitability: Adequate
+• Risk position: Average
+• Asset risk management capabilities: Adequate with strong risk controls
+
+Anchor: a
+Modifiers: 0
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Funding and liquidity: Adequate/adequate (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 12
+
+Mitsubishi Corp.
+
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers, Dec. 16, 2014
+• Methodology For Rating General Trading And Investment Companies, June 10, 2015
+• Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+• Methodology: Industry Risk, Nov. 19, 2013
+• Corporate Methodology, Nov. 19, 2013
+• Group Rating Methodology, Nov. 19, 2013
+• Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+Ratings Detail (As Of August 22, 2019)*
+Mitsubishi Corp.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Commercial Paper
+Local Currency
+Subordinated
+
+A-1
+BBB+
+
+Issuer Credit Ratings History
+17-May-2017
+
+A/Stable/A-1
+
+25-Mar-2016
+
+A/Negative/A-1
+
+28-Mar-2008
+
+A+/Stable/A-1
+
+Related Entities
+Mitsubishi Corp. Finance PLC
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Commercial Paper
+Foreign Currency
+
+A-1
+
+Mitsubishi International Corp.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Commercial Paper
+
+A-1
+
+New Century Insurance Co. Ltd.
+Financial Strength Rating
+Local Currency
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+A/Stable/--
+
+AUGUST 22, 2019 13
+
+Mitsubishi Corp.
+
+Ratings Detail (As Of August 22, 2019)*(cont.)
+Issuer Credit Rating
+Local Currency
+
+A/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 15
+
+

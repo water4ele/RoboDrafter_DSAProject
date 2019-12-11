@@ -1,0 +1,1676 @@
+Rayonier Inc.
+Primary Credit Analyst:
+Pablo A Garces, Dallas + 1 (214) 765 5884; pablo.garces@spglobal.com
+Secondary Contact:
+Thomas J Nadramia, New York + 1 (212) 438 3944; thomas.nadramia@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Rayonier Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/NR
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Consistent, above-average profitability, with EBTIDA margins of 35%-40%.
+
+Little discretionary cash flow as a timber REIT after distributing
+80% or more of available cash.
+
+Diverse timberlands holdings across the U.S. South, Pacific Northwest, and
+New Zealand, which mitigates regional economic and environmental risks
+(e.g., fire, disease).
+
+Expectation that longer-term debt leverage will likely stay in the
+3.5x-4x range due to potential acquisitions and returns to
+shareholders.
+
+Lower earnings volatility than peers due to superior locations close to stable
+wood and pulp end markets.
+
+Recent earnings weakness in Pacific Northwest logs due to export
+markets, exacerbated by tariffs.
+
+Very strong levels of asset protection for lenders with debt to capitalization of
+about 25% after adjusting for market value of timberlands.
+
+Smaller revenue base, product diversity, and EBITDA compared
+to larger peers such as Weyerhaeuser Co.
+
+Rayonier is likely to remain a pure-play timberland holder and harvester.
+The company derives more than two-thirds of its EBITDA from timber operations, considerably more than its peer
+group. Rayonier sells nearly half of its harvest output for pulp wood, which has more stable demand and pricing.
+Rayonier has a history of more stable earnings than competitors that convert logs into wood products and serve
+different markets.
+
+Rayonier's leverage has recently increased, though we expect it to remain in the current range for the
+foreseeable future.
+Rayonier's leverage has risen over the last four quarters to 3.5x as of June 2019 from 2.8x at September 2018. We
+expect the company's leverage to remain in the 3.5x-4.0x range at the end of 2019 and 2020.
+
+Rayonier's timberlands are geographically diverse and in close proximity to its end markets.
+Rayonier's 2.6 million acres of timberlands are also geographically diversified throughout the U.S South, Pacific
+Northwest, and New Zealand, well located to serve U.S. pulp and sawlog markets, export markets to China and Asia,
+and a small but growing export market served from the U.S. East Coast.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+Rayonier Inc.
+
+Outlook: Stable
+
+We expect Rayonier Inc. to continue to have favorable operating results in 2019 despite softer pricing and demand
+for Pacific Northwest logs on account of weak Chinese demand. We expect Rayonier to produce adjusted EBITDA
+of approximately $270 million-$290 million for fiscal 2019.
+Under our base-case scenario, we project Rayonier will maintain adjusted debt to EBITDA of 3.5x-4.0 in 2019 and
+2020, and maintain EBITDA-to-interest coverage ratios of more than 6x. These levels continue to support the
+current rating given the strong levels of asset protection afforded by the market value of its timberland holdings
+compared to debt, which equates to an adjusted debt-to-debt plus capital ratio of 25%. Despite current market
+weakness, we expect debt leverage to remain below Rayonier's longer-term target range of 4.0x to 4.5x absent any
+meaningful acquisitions.
+
+Downside scenario
+Although unlikely over the next 24 months, we could lower our rating if Rayonier's level of asset protection,
+specifically its adjusted debt-to-capitalization ratio, materially diminished due to larger losses, asset impairments,
+or larger timberlands sales to fund shareholder-friendly activities. We could also lower our rating if debt to EBITDA
+exceeded 5x or if EBITDA to interest fell below 3x on a sustained basis. Such a scenario could occur due to
+significantly weaker-than-expected log and lumber prices, approximately 20%-25% lower log prices than our
+forecast. We believe such a drop in prices and volumes would result from a 40%-50% drop in U.S. housing starts.
+
+Upside scenario
+Although unlikely, we would consider an upgrade if Rayonier were to maintain leverage meaningfully below 3x and
+funds from operations (FFO) to debt above 30% for the next 24 months, in addition to maintaining its high level of
+asset protection. This could occur amid continuous and significant improvement in log prices and more robust
+demand in construction and pulp wood markets, with the adoption of a more conservative financial policy by the
+company.
+
+Our Base-Case Scenario
+Our forecast assumes that log volumes (particularly in the U.S. South) will improve over the previous year, mainly due
+to improving U.S. housing starts and higher saw timber prices from greater demand in domestic and export markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+Rayonier Inc.
+
+Assumptions
+
+• Harvest volumes of 6.2 million-6.3 million tons in
+the company's Southern segment, 1.2 million tons in
+the Pacific Northwest segment, and 2.75 million tons
+in New Zealand for 2019.
+• 2020 harvest volumes of 6.1 million tons in the U.S.
+South, 1.3 million tons in the Pacific Northwest, and
+2.6 million tons in New Zealand.
+• Flat to slightly improved Southern timber pricing in
+2019. For 2020, assuming U.S. housing starts
+continue to number about 1.3 million, we expect
+modest strengthening in Southern log pricing due to
+supply constraints in other wood baskets,
+particularly Canada.
+
+Key Metrics
+
+2018A 2019E
+
+2020E
+
+Operating cash flow to debt (%) 33.0
+
+20-25
+
+20-25
+
+FFO to debt (%)
+
+30.2
+
+20-25
+
+20-25
+
+Debt to EBITDA (x)
+
+2.9
+
+3.5-4.0 3.5-4.0
+
+A—Actual. E—Estimate. FFO—Funds from
+operations.
+
+• Pacific Northwest log prices remain at their current
+low levels for the rest of 2019, due to uncertainty
+regarding export markets. We assume flat pricing in
+2020.
+• Log prices in New Zealand will remain weak, as they
+were in the first half of 2019, due to continued high
+log inventories and lower-cost alternative timber.
+
+Base-case projections
+• Selling, general, and administration expenses of 4%-5% of sales, in line with historical averages.
+• No acquisitions assumed in our forecast.
+• Real estate EBITDA of about $65 million-$70 million in each of 2019 and 2020, excluding any large dispositions.
+• Approximately $140 million in dividend payments in each of 2019 and 2020, representing 70%-80% of free cash
+flow.
+
+Company Description
+Rayonier is the second-largest publicly traded timberland holder after Weyerhaeuser Co. Rayonier owns or leases
+approximately 2.6 million acres of timberlands located in the southern U.S. (1.81 million acres) and Pacific Northwest
+(379,000 acres). It also has a 77% ownership interest in Matariki Forestry Group, a New Zealand joint venture, which
+owns or leases approximately 410,000 acres (292,000 net plantable acres) of timberlands in New Zealand. The
+company derives about 70% of its EBITDA from timberland operations and the remainder from real estate and trading.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+Rayonier Inc.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+Rayonier Inc.
+
+Chart 2
+
+Business Risk: Satisfactory
+Rayonier holds a solid position as a major supplier of pulpwood and saw logs in the U.S. While it is the second-largest
+timber REIT in the U.S., it is much smaller than peer Weyerhaeuser Co. in terms of timberlands (2.6 million acres
+compared to 12.4 million acres for Weyerhaeuser), harvest volumes (10 million tons versus 41 million tons), and
+revenues ($743 million versus $6.9 billion over the last four quarters). However, Rayonier does produce higher margins
+as a pure-play timber REIT, as it does not own saw mills nor manufacture any wood products. As a result, Rayonier
+has above–average EBITDA margins of about 35%-40%.
+The company has diverse timberlands holdings across the major wood baskets of the southern U.S. and Pacific
+Northwest--giving it access to export markets--as well as New Zealand. Its U.S. South holdings are near pulp mills,
+which provides some competitive advantages because both pulp and saw log timber normally have a limited shipping
+radius of less than 100 miles.
+Rayonier's earnings are considerably less volatile than those of timber REITs that have sizeable exposure to cyclical
+wood products (lumber, panels, and oriented strand board) like Weyerhaeuser Co. and PotlachDeltic Corp. Those
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+Rayonier Inc.
+
+companies have historically shown wider swings in earnings than Rayonier, particularly during housing cycles or
+periods of depressed lumber prices, as is currently the case. In 2018, approximately 45% of Rayonier's global harvest
+(including 60% of its U.S. South region harvest) was for pulp wood, which historically has had more stable demand and
+pricing than saw timber. This provides the company with a consistent revenue and earnings base.
+Rayonier benefits from a low fixed-cost structure typical of timber harvesting companies, with spending largely limited
+to silviculture, i.e., cultivating and maintaining the growth and health of forestlands. It also outsources harvesting
+operations to third-party providers. In times of slack log demand, harvest can be deferred and forest holdings become
+more valuable as tree stands continue to grow and mature into more valuable saw timber.
+Rayonier also possesses significant real estate holdings that it has identified as having higher better use--specifically
+around the Interstate 95 corridor in the southern U.S.--which should provide a consistent stream of real estate
+development income over the next 10 years as these properties are developed or sold. This segment contributes
+roughly $70 million-$100 million in annual revenues (excluding any extraordinary large dispositions) with a high
+adjusted EBITDA contribution (90% or more is not unusual). We expect the company to generate $65 million to $70
+million of EBITDA from this segment in 2019.
+
+Peer comparison
+Table 1
+
+Rayonier Inc.--Peer Comparison
+Industry Sector: Paper/Forest
+Products
+
+Rating as of Sept. 12, 2019
+
+Rayonier Inc.
+
+PotlatchDeltic Corp.
+
+Weyerhaeuser Co.
+
+West Fraser Timber
+Co.
+
+Norbord Inc.
+
+BBB-/Stable/--
+
+BBB-/Negative/--
+
+BBB/Negative/A-2
+
+BBB-/Stable/--
+
+BB/Stable/--
+
+--12 months ended June 2019-(Mil. $) (Mixed Currency)
+
+US$
+
+US$
+
+US$
+
+C$
+
+C$
+
+Revenues
+
+743.4
+
+903.7
+
+6,881.0
+
+5,478.0
+
+2,064.0
+
+EBITDA
+
+276.3
+
+222.0
+
+1,663.0
+
+544.1
+
+359.6
+
+FFO
+
+234.7
+
+201.4
+
+1,187.3
+
+304.6
+
+253.9
+
+37.8
+
+34.2
+
+373.7
+
+49.5
+
+40.0
+
+Interest Expense
+Cash Interest Paid
+Cash flow from operations
+Capital expenditures
+
+39.0
+
+20.3
+
+387.7
+
+38.5
+
+35.7
+
+248.7
+
+156.4
+
+766.3
+
+333.6
+
+298.6
+
+71.5
+
+54.1
+
+387.0
+
+387.0
+
+174.5
+
+Free operating cash flow
+
+177.2
+
+102.3
+
+379.3
+
+(53.4)
+
+124.1
+
+Discretionary cash flow
+
+17.4
+
+(73.4)
+
+(1,063.7)
+
+(596.4)
+
+(395.9)
+
+131.0
+
+98.0
+
+212.0
+
+16.0
+
+315.0
+
+Cash and short-term
+investments
+Debt
+
+976.1
+
+767.4
+
+6,653.3
+
+1,181.6
+
+709.2
+
+3,740.0
+
+1,246.1
+
+8,724.0
+
+2,621.0
+
+749.0
+
+EBITDA margin (%)
+
+37.2
+
+24.6
+
+24.2
+
+9.9
+
+17.4
+
+Return on capital (%)
+
+2.9
+
+6.9
+
+7.7
+
+7.4
+
+9.6
+
+EBITDA interest coverage (x)
+
+7.3
+
+6.5
+
+4.4
+
+11.0
+
+9.0
+
+Equity
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+Rayonier Inc.
+
+Table 1
+
+Rayonier Inc.--Peer Comparison (cont.)
+FFO cash interest coverage (x)
+
+7.0
+
+Debt/EBITDA (x)
+
+10.9
+
+4.1
+
+8.9
+
+8.1
+
+3.5
+
+3.5
+
+4.0
+
+2.2
+
+2.0
+
+FFO/debt (%)
+
+24.0
+
+26.2
+
+17.8
+
+25.8
+
+35.8
+
+Cash flow from
+operations/debt (%)
+
+25.5
+
+20.4
+
+11.5
+
+28.2
+
+42.1
+
+Free operating cash flow/debt
+(%)
+
+18.2
+
+13.3
+
+5.7
+
+(4.5)
+
+17.5
+
+Discretionary cash flow/debt
+(%)
+
+1.8
+
+(9.6)
+
+(16.0)
+
+(50.5)
+
+(55.8)
+
+Financial Risk: Significant
+Our assessment of Rayonier's financial risk reflects our view of solid asset protection and coverage ratios driven by
+ownership of valuable salable timberland (for which an active market exists) with a market value of 4x-5x greater than
+debt. As of June 2019, adjusted debt to capitalization was about 25%, which supports the investment-grade rating.
+We expect Rayonier to maintain credit metrics in line with the rating over the next 24 months, aided by solid cash flow
+generation. We project debt to EBITDA of 3.5x-4.0x and FFO to adjusted debt of 20%-25% in 2019 and 2020 (weaker
+than 2018 levels), assuming the company does not finance any sizable acquisition or pay any special dividends in that
+time frame. Current demand and pricing for Pacific Northwest logs are weak due to underwhelming Chinese export
+markets. However, pricing and demand for Southern saw logs is stable. We expect further strengthening in demand
+and prices for Southern wood fiber over the next two to three years as supply tightens due to lower harvesting in
+Canada.
+Rayonier's rating is supported by its healthy and consistent FFO generation of $225 million-$275 annually, more than
+sufficient to meet its capital requirements and working capital needs. This, along with a strong liquidity position,
+should enable the company to maintain its shareholder remuneration policies of distributing 70%-80% of free cash
+flow, including meaningful dividends.
+
+Financial summary
+Table 2
+
+Rayonier Inc.--Financial Summary
+Industry Sector: Paper/Forest Products
+--Year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+816.1
+
+819.6
+
+788.3
+
+544.9
+
+603.5
+
+EBITDA
+
+329.4
+
+286.8
+
+253.3
+
+223.8
+
+255.0
+
+Funds from operations (FFO)
+
+(Mil. $)
+
+287.1
+
+242.4
+
+208.9
+
+183.5
+
+191.2
+
+Interest expense
+
+39.1
+
+41.9
+
+39.9
+
+38.7
+
+51.6
+
+Cash interest paid
+
+40.2
+
+43.9
+
+43.9
+
+40.1
+
+55.0
+
+313.4
+
+259.8
+
+208.7
+
+182.4
+
+283.3
+
+Cash flow from operations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+Rayonier Inc.
+
+Table 2
+
+Rayonier Inc.--Financial Summary (cont.)
+Industry Sector: Paper/Forest Products
+--Year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+71.8
+
+80.6
+
+67.3
+
+60.0
+
+123.7
+
+241.6
+
+179.2
+
+141.4
+
+122.4
+
+159.6
+
+90.7
+
+52.0
+
+17.9
+
+(102.5)
+
+(99.8)
+
+Cash and short-term investments
+
+148.4
+
+112.7
+
+85.9
+
+51.8
+
+161.6
+
+Gross available cash
+
+148.4
+
+112.7
+
+85.9
+
+51.8
+
+161.6
+
+Debt
+
+950.6 1,050.3 1,120.8
+
+927.6
+
+745.4
+
+Capital expenditure
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+Equity
+
+3,794.2 3,771.9 3,746.7 3,422.1 3,874.3
+
+Adjusted ratios
+EBITDA margin (%)
+
+40.4
+
+35.0
+
+32.1
+
+41.1
+
+42.3
+
+Return on capital (%)
+
+3.7
+
+3.1
+
+2.8
+
+2.6
+
+2.8
+
+EBITDA interest coverage (x)
+
+8.4
+
+6.8
+
+6.4
+
+5.8
+
+4.9
+
+FFO cash interest coverage (x)
+
+8.1
+
+6.5
+
+5.8
+
+5.6
+
+4.5
+
+Debt/EBITDA (x)
+
+2.9
+
+3.7
+
+4.4
+
+4.1
+
+2.9
+
+FFO/debt (%)
+
+30.2
+
+23.1
+
+18.6
+
+19.8
+
+25.6
+
+Cash flow from operations/debt (%)
+
+33.0
+
+24.7
+
+18.6
+
+19.7
+
+38.0
+
+FOCF/debt (%)
+
+25.4
+
+17.1
+
+12.6
+
+13.2
+
+21.4
+
+9.5
+
+5.0
+
+1.6
+
+(11.1)
+
+(13.4)
+
+DCF/debt (%)
+
+Liquidity: Strong
+Our assessment of Rayonier's liquidity is strong, based on the following observations and estimates:
+• An expectation that liquidity sources (including availability under the company's $200 million revolving credit
+facility) should exceed uses by at least 1.5x over the next 12 months remaining above 1.0x over the subsequent
+12-month period.
+• An expectation that liquidity sources would continue to exceed uses, even if EBITDA were to decline by 30%.
+• Sufficient covenant headroom for forecasted EBITDA to decline by 30% without the company breaching coverage
+tests, and debt is at least 25% below covenant limits.
+• Our expectation that the company is likely to absorb high impact, low-probability events without refinancing. Our
+expectation is based on Rayonier's well-staggered maturity profile with nearest significant maturity in 2022 and
+asset protection provided by $4.5 billion-$5.2 billion of timberlands.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Rayonier Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• $130.9 million of cash on hand as of June 30, 2019.
+
+• Capital expenditure requirements of $70 million-$75
+million per year.
+
+• Availability of $198.4 million under the company's
+$200 million revolving credit facility as of June 30,
+2019.
+
+• Annual dividends of about $140 million.
+
+• Forecast annual FFO of $230 million to $255 million
+in 2019 and 2020.
+
+Debt maturities
+Table 3
+
+Rayonier Inc. Debt Maturities
+Interest Rate (%) Amount Outstanding (Mil. $)
+Lease obligations
+
+N.A.
+
+Revolving credit facility due 2020 L + 1.250
+
+104
+0
+
+Senior notes due 2022
+
+3.75
+
+325
+
+Term loan due 2024
+
+L + 1.625
+
+350
+
+Term loan due 2026
+
+L + 1.900
+
+300
+
+Sources: Company 2019 10-Q; S&P Global Ratings. N.A.--Not applicable.
+
+Covenant Analysis
+Compliance expectations
+As of June 30, 2019, Rayonier was in compliance with its financial ratio covenants, with ample cushion. Under our
+base-case scenario, the company will remain comfortably within compliance of financial ratio requirements.
+
+Requirements
+Rayonier's term loans and revolving credit facility are subject to a maximum debt-to-capital covenant of 65% and
+minimum EBITDA to interest coverage of 2.5x.
+
+Issue Ratings - Subordination Risk Analysis
+The company has minimal secured debt or obligations that would rank as having priority over its unsecured debt in a
+hypothetical post-default recovery scenario.
+
+Capital structure
+As of June 30, 2019, Rayonier's capital structure consisted of the following:
+• $200 million revolving credit facility (undrawn, $1.6 million in letters of credit) due in August 2020;
+• $325 million senior notes due 2022;
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+Rayonier Inc.
+
+• $350 million in term loan due 2024; and
+• $300 million term loan due 2026.
+
+Analytical conclusions
+Rayonier's unsecured senior notes are rated 'BBB-', the same as the long-term issuer credit rating. Rayonier's capital
+structure has no material priority debt above its unsecured debt.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Rayonier Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--12 months ended June 30, 2019-Rayonier Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+972.8
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+1,500.9
+
+743.4
+
+257.5
+
+130.2
+
+31.5
+
+276.3
+
+245.5
+
+155.6
+
+71.6
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2.6)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(32.6)
+
+--
+
+--
+
+--
+
+104.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+Operating leases
+
+--
+
+--
+
+--
+
+9.6
+
+6.2
+
+6.2
+
+(6.2)
+
+3.4
+
+--
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+23.6
+
+--
+
+--
+
+(0.0)
+
+(0.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(124.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0.1
+
+(0.1)
+
+(0.1)
+
+--
+
+(0.1)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+6.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+0.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+99.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Equity: Fair value
+adjustments
+
+--
+
+2,139.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA:
+Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+--
+
+(0.1)
+
+(0.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Foreign
+exchange
+gain/(loss)
+
+--
+
+--
+
+--
+
+(0.3)
+
+(0.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+Rayonier Inc.
+
+Table 4
+
+Reconciliation Of Rayonier Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $) (cont.)
+EBITDA:
+Derivatives
+
+--
+
+--
+
+--
+
+(0.1)
+
+(0.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+--
+
+2.8
+
+2.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBIT: Other
+Total adjustments
+
+--
+
+--
+
+--
+
+--
+
+(3.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3.3
+
+2,239.1
+
+0.0
+
+18.7
+
+6.4
+
+6.3
+
+(41.5)
+
+3.3
+
+0.0
+
+(0.1)
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+976.1
+
+3,740.0
+
+136.6
+
+743.4
+
+276.3
+
+37.8
+
+234.7
+
+248.7
+
+155.6
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/NR
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Strong
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb-
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+71.5
+
+Rayonier Inc.
+
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Forest And Paper Products Industry, Feb. 12, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 16, 2019)*
+Rayonier Inc.
+Issuer Credit Rating
+
+BBB-/Stable/NR
+
+Senior Unsecured
+
+BBB-
+
+Issuer Credit Ratings History
+13-Nov-2014
+
+BBB-/Stable/NR
+
+08-Jul-2014
+
+BBB/Stable/NR
+
+27-Jan-2014
+
+BBB+/Watch Neg/NR
+
+Related Entities
+Rayonier Forest Resources L.P.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+

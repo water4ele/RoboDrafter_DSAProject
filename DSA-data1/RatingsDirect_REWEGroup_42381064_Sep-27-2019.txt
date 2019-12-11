@@ -1,0 +1,1809 @@
+REWE Group
+Primary Credit Analyst:
+Patrick Janssen, Frankfurt (49) 69-33-999-175; patrick.janssen@spglobal.com
+Secondary Contact:
+Raam Ratnam, CFA, CPA, London (44) 20-7176-7462; raam.ratnam@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+REWE Group
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/A-3
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong market positions in German (no. 2), Austrian (no. 1), and
+Czech (no. 1) supermarket businesses, with modest but increasing
+diversification in less saturated Eastern Europe.
+
+Tough price competition in Germany, especially from discount operators.
+
+Innovative retailer, being one of the first to introduce food-to-go
+formats and to focus on regional and organic products, as well as
+to roll out nationwide online food retailing in Germany.
+
+Higher volatility in the travel and do-it-yourself sectors than in food retailing,
+albeit with equally fierce competition.
+
+Strong merchandising strategy of expanding product lines with
+continuous improvement in quality and freshness, supporting
+brand positioning.
+
+Planned store openings, modernization strategy, and investments in real
+estate, which will require high capital expenditures resulting in negative free
+operating cash flow for next two-to-three years on a reported basis.
+
+Supportive financial policy commitment for an investment-grade
+rating, including possible reduction of capital expenditures and
+real estate investment in case of weaker operating performance.
+
+A heavy debt burden, mostly due to capitalized operating lease debt (75%)
+and gradually increasing due to the debt-financed capital expenditures and
+Lekkerland acquisition resulting in constrained forecast credit metrics despite
+earnings growth.
+
+An entrenched market position in Germany, with strong store presence and formats, developed online offering, and
+diversification in Eastern Europe all supporting growth prospects.REWE Group's distinct position in food retailing with
+stores in mostly urban areas focused on supermarket, discount, and convenience formats; and increasing share of
+organic, regional, and fresh merchandise positions the group well, especially considering the very competitive home
+market in Germany exhibiting a high share of discount stores. In addition, the group's expansion in less saturated
+Eastern Europe results in strong growth in international retail business segment with S&P Global Ratings expecting
+about 6% annual revenue growth in this segment for the next two years.
+High capital expenditure requirements support growth strategy, resulting in negative reported free operating cash flow
+and constrained credit metrics. Rewe has a long-term investment strategy, with store expansion and modernization
+and investment into real estate and logistical capabilities to support long-term business growth with management
+estimated annual capital expenditures (capex) of over €2 billion for the next three years resulting in negative reported
+free operating cash flow (FOCF). We expect additional debt of €300 million-€500 million per year from 2019-2021 to
+fund these investments. Despite solid earnings growth, this will somewhat weaken our adjusted credit metrics for the
+group. Compared with 2018, we expect adjusted funds from operations (FFO) to debt to weaken by 1%-2% over the
+next two-to-three years following this higher capital expenditure spending.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+REWE Group
+
+Planned debt funded acquisition of Lekkerland contributes to Rewe's convenience offering and logistical capabilities but
+weakens credit metrics further. We believe that the acquisition of the convenience food and tobacco wholesaler
+Lekkerland with meaningful logistical capabilities allowing the "Rewe to go" concept to roll out on a larger scale and
+developing the so far comparably low-convenience food share in the German food retail market compared with the
+U.K. The acquisition also provides the group with additional logistical capabilities (in terms of trucks and warehouses)
+to support the general delivery services.
+However, the combined effects of higher capex and the Lekkerland acquisition could weaken the existing groups
+adjusted pro forma FFO to debt to 23%-24% in 2020 and 2021.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+REWE Group
+
+Outlook: Stable
+
+The stable outlook on Germany-based food retailer Rewe Group reflects S&P Global Ratings' view that the group
+will continue to defend or strengthen its already sound position in the German and Austrian food retail markets,
+resulting in robust sales growth of 4%-5% in 2019 and 2020 and approximately stable underlying margins. In light
+of the significant planned capex, we expect reported FOCF will remain negative over the next two years. This,
+combined with the planned Lekkerland acquisition, will increase debt and moderately constrain credit metrics,
+which should lead to adjusted debt to EBITDA of slightly above 3.0x-3.2x (3.2x-3.3x pro forma Lekkerland) and
+adjusted FFO to debt of 24%-26% (23%-24% pro forma Lekkerland) in 2019 and 2020.
+
+Downside scenario
+We could lower our ratings if the group's profitability is lower than we expect. This could happen should there be
+shortfalls in the more volatile do-it-yourself (DIY) and travel business units, price pressure from multinational
+discount retailer accelerate, and there be higher-than-expected costs from Rewe's move into the online food
+segment and the integration of Lekkerland. Specifically, we could lower the ratings if our adjusted FFO to debt fell
+below 20%.
+We could also lower the ratings if cash generation weakened further, owing to accelerated capital spending and
+working capital investment, or if we perceive a more aggressive financial policy regarding capital investment or
+acquisitions.
+
+Upside scenario
+An upgrade is unlikely in the next two years, given the intense competition in Rewe's home market of Germany,
+and planned debt-funded acquisition and the expected negative reported FOCF, owing to planned investments in
+stores and the online food business. However, we could consider raising our ratings should adjusted FFO to debt
+improved sustainably to above 30%, and if management is committed to maintaining this by achieving at least
+positive reported FOCF.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+REWE Group
+
+Assumptions
+
+• Real GDP to grow by 1.1%-1.3% in the Eurozone in
+2019 and 2020 and 0.6% and 1.1% in Germany in
+2019 and 2020 respectively, in combination with
+continuously low unemployment in Rewe's core
+markets, Germany and Austria. We view this as a
+moderately supportive macroeconomic
+environment.
+• CPI will remain at about 1.4% annually in Germany
+and 1.1% annually in the Eurozone, which should
+limit further upside for consumer spending
+moderately. Food prices should increase slightly
+more than the overall consumer prices.
+
+Key Metrics
+
+2018A
+
+2019P
+
+2020E
+
+Revenue growth (%)
+
+8.0
+
+4.0-5.0
+
+3.5-4.5
+
+EBITDA margin (%)
+
+7.7
+
+7.1-7.5
+
+7.1-7.5
+
+Debt to EBITDA(x)
+
+2.9
+
+3.0-3.2
+
+3.0-3.2
+
+FFO to debt (%)
+
+26.3 25.0-25.5 24.5-25.5
+
+FOCF to debt (%)
+
+10.7
+
+9.5-10.5
+
+8.0-9.5
+
+*Excluding any impact from the Lekkerland
+acquisition. A--Actual. P--Projected. E--Estimate.
+FFO--Funds from operations. FOCF--Free operating
+cash flow.
+
+• Within the food retail sector, hypermarkets will
+continue to face increasing challenges owing to the
+shift in consumer spending to convenience and
+discount stores. Rewe benefits from this trend,
+because the group focuses on midsize supermarkets
+and has a sizable discount format--and increasingly
+also convenience formats--rather than
+hypermarkets.
+• Rewe's revenues in its core markets will grow
+slightly faster than the food retail market overall, by
+4.0%-5.0% in 2019 and 2020 assuming like-for-like
+growth of 2.0%-2.5%, in line with the market, and
+new store openings focused on Central and Eastern
+Europe.
+• Reported EBITDA margin will dip to about 3.2% in
+2019 after 3.5% in 2018, due to a one-off noncash
+positive impact in 2018, and mostly stable
+thereafter. This should translate into an S&P Global
+Ratings-adjusted EBITDA margin of 7.1%-7.5% over
+the next three years compared with 7.7% in 2018.
+• Gradually increasing capex of about €2.1 billion in
+2019 and €2.2 billion-€2.4 billion per year thereafter
+will be fueled by substantial expansions such as
+discretionary real estate purchases of leased stores,
+store openings, renovation, and investments in new
+automated warehouses. We consider the €1.8
+billion-€1.9 billion per year in 2017 and 2018 more
+typical for a food retailer of this size in Western
+Europe.
+• With the higher capex, annual negative reported
+FOCF will be substantial, at €100 million-€400
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+REWE Group
+
+million. This, along with increasing store leases, will
+result in S&P Global Ratings-adjusted debt
+increasing significantly to €14 billion in 2021 from
+€12 billion in 2018.
+• No material dividends in 2019 and 2020 and
+excluding the impact of the Lekkerland acquisition
+because it is still subject to regulatory approval.
+
+Base-Case Projections
+Robust like-for-like sales growth as main support for earnings and cash flows coupled with store openings in
+international markets. Rewe is building on a strong brand with attractive offerings and formats. Its inclusion of private
+label products supports like-for-like sales. It is also opening stores in mainly less saturated international markets such
+as Eastern Europe.
+Intense competition in German food retailing and already-high share of food discounters limit margin upside. While the
+increasing sales share of higher-margin organic private label products and increasing sales of higher-margin
+convenience food merchandise supports gross margin, we believe the fierce competition from discounters in Germany
+and other markets limits further upside on margins over the next three years.
+High capex and planned acquisitions increase S&P Global Ratings-adjusted debt. Despite solid earnings growth, high
+planned capex and committed acquisition of Lekkerland will drive-up S&P Global Ratings-adjusted debt over the next
+two-to-three years and constrains S&P Global Ratings-adjusted credit metrics.
+
+Company Description
+Rewe is Germany's second-largest food retailer and the leading supermarket operator in Austria and the Czech
+Republic, with over €53 billion in reported annual revenues in 2018. The group generates about 60% of its revenues in
+the German food retail segment, the international food retail segment contributes about 27%, and the travel and DIY
+segments--mostly in Germany--represent the remaining 13%.
+The group operates the majority of its stores on its own. At the same time, the group also supplies independent
+retailers in Germany and Austria. In Germany, the group runs a partnership model in the food retailing segment, in
+which an independent retailer (holding: 80%) and Rewe (holding: 20%) form a general partnership. This partnership
+became a cooperative associate of Rewe, which subleases the stores and equipment to about 1,000 partners.
+Retail in Germany (including DIY) accounts for about 64% of group retail revenues, with Austria representing about
+14%. The remainder comes largely from sales in the Czech Republic (5%), as well as Italy and Hungary (2% and 1%,
+respectively). The group is also present as a food retailer in Romania, Bulgaria, Croatia, Russia, Slovakia, Lithuania,
+and Ukraine. The group is active in the tourism business in Germany, the U.K., the Nordic countries, Switzerland, the
+Netherlands, Belgium, Poland, Czech Republic, Hungary, and Slovakia.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+REWE Group
+
+Chart 2
+
+Business Risk: Satisfactory
+Rewe has a no. 2 market position in German food retailing and a no. 1 position in the Austrian and Czech supermarket
+business. The acquisition of Kaiser's Tengelmann stores in Berlin, the sky-supermarkets in northern Germany, and the
+partnership with Rewe Dortmund--formerly a stand-alone Rewe retail chain--have strengthened the group's position in
+the German retail market and contributed to recent sales and earnings growth. Rewe generates more than 85% of its
+revenues in food retail, where spending is somewhat nondiscretionary and less volatile than in non-food retail
+segments. The Rewe brand is among the leading brand names in terms of value in the German retail sector, resulting
+in high brand recognition.
+In our view, Rewe's merchandising strategy is consistent with its strong market position. In the food retail sector, the
+company operates by expanding the product lines of regional, organic, and sustainable products in Germany and
+internationally. Like other peers in the European food retail sector, Rewe focuses on expanding its share of its own
+private label products, which generally command higher margins than branded products. The group's strong revenue
+base and widespread network enable it to test and expand new retail concepts, such as its "Rewe-to-go" convenience
+food format. This leads to a successful product and brand positioning, accompanied by good store locations, often in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+REWE Group
+
+urban locations where there is high foot traffic.
+Rewe is a leader in online food retailing in its core markets of Germany and Austria, offering both delivery services and
+in-store pick-up of pre-ordered baskets. The services are available in all of Germany's major metropolitan areas and
+being rolled out nationwide. Rewe's investment in more automated logistics and continuous improvement of online
+services put the group in a leading position in online food sales, which is becoming more popular in Germany and
+Austria.
+Our view of Rewe's business is constrained by stiff price competition in Germany, especially from discount operators
+Aldi and Lidl, and this effectively caps any meaningful expansion in gross margins of standard grocery products. We
+see the discounters move to a higher-end merchandise mix by adding more low-priced, branded products as a
+potential threat to Rewe and its discount chain Penny, since Penny's strategy always focused on branded discount
+products. Nevertheless, we see Rewe's increasing share of fresh, regional, and organic products as a promising
+response to the discounters' move.
+Despite its topline growth, we believe that rising personnel expenses, store renovation, and restructuring of acquired
+lower-margin stores limit any meaningful improvement in its EBITDA margin, which is in the middle of the 5%-10%
+range that we view as average for the food retailers.
+The acquisitions and organic revenue growth over the past few years position the group well among the top 10
+supermarket chains in Europe, resulting in improved negotiation power with suppliers. We see this further supported
+by the established purchasing partnership with supermarket chains Ahold Delhaize in Benelux and Leclerc in France,
+which benefit from similar product mixes and proximity of regions without significant overlap. Nevertheless, unlike its
+France-based peers Carrefour, Auchan, and Casino, Rewe does not have significant exposure to fast-growing emerging
+markets, such as China or Brazil, which limits our view of its diversification.
+The group's revenue exposure to the travel and DIY sectors of about 13%, both of which we believe have higher
+volatility than food retailing, moderately constrain our view of its business risk. Despite a no. 3 position in the German
+DIY market, we see the market as inherently competitive, given the five-to-six similarly strong competitors, low
+margins, and being subject to disruption by online players. Rewe's tourism segment is the no. 1 tour operator in the
+Czech Republic and no. 2 in Germany, but still smaller compared with peers such as Tui, the market leader in Europe.
+In this respect, we value the more asset light nature of Rewe's travel segment compared to Tui, which own airplanes,
+hotels, and cruise ships.
+
+Peer comparison
+Table 1
+
+Rewe Group--Peer Comparison
+Industry Sector: Supermarkets
+
+Ratings as of Aug. 23,
+2019
+
+Rewe Group
+
+Carrefour S.A.
+
+Ahold Delhaize
+N.V.
+
+BBB-/Stable/A-3
+
+BBB/Stable/A-2
+
+BBB/Stable/A-2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+Metro AG
+
+Auchan Holding
+
+Tesco PLC
+
+BBB-/Watch
+Neg/A-3
+
+BBB-/Negative/A-3
+
+BB+/Positive/B
+
+SEPTEMBER 4, 2019 8
+
+REWE Group
+
+Table 1
+
+Rewe Group--Peer Comparison (cont.)
+2018
+
+2019
+
+(Mil. €)
+Revenue
+
+53,377.8
+
+76,533.0
+
+62,791.0
+
+29,476.0
+
+42,864.8
+
+72,330.3
+
+EBITDA
+
+4,084.4
+
+3,080.8
+
+5,476.5
+
+1,781.5
+
+1,885.6
+
+5,087.9
+
+Funds from
+operations (FFO)
+
+3,153.2
+
+2,143.9
+
+4,387.7
+
+1,186.0
+
+1,401.3
+
+3,831.0
+
+Interest expense
+
+696.8
+
+574.9
+
+813.8
+
+346.5
+
+288.8
+
+997.8
+
+Cash interest paid
+
+681.7
+
+562.9
+
+808.8
+
+329.5
+
+331.7
+
+909.2
+
+Cash flow from
+operations
+
+3,104.2
+
+2,635.6
+
+4,791.7
+
+990.0
+
+1,460.0
+
+3,030.7
+
+Capital expenditure
+
+1,818.4
+
+1,611.0
+
+1,779.0
+
+454.0
+
+1,826.6
+
+1,452.0
+
+Free operating cash
+flow (FOCF)
+
+1,285.8
+
+1,024.6
+
+3,012.7
+
+536.0
+
+(366.6)
+
+1,578.6
+
+Discretionary cash
+flow (DCF)
+
+1,051.7
+
+790.6
+
+252.7
+
+273.0
+
+(821.4)
+
+930.4
+
+639.2
+
+4,125.0
+
+3,376.0
+
+1,298.0
+
+2,319.1
+
+2,605.8
+
+11,997.6
+
+10,206.5
+
+12,980.2
+
+5,905.8
+
+8,415.5
+
+16,034.6
+
+6,541.9
+
+10,592.0
+
+14,816.0
+
+3,131.0
+
+9,395.4
+
+14,203.7
+
+EBITDA margin (%)
+
+7.7
+
+4.0
+
+8.7
+
+6.0
+
+4.4
+
+7.0
+
+Return on capital (%)
+
+8.8
+
+3.3
+
+10.9
+
+11.2
+
+(5.2)
+
+10.5
+
+EBITDA interest
+coverage (x)
+
+5.9
+
+5.4
+
+6.7
+
+5.1
+
+6.5
+
+5.1
+
+FFO cash interest
+coverage (x)
+
+5.6
+
+4.8
+
+6.4
+
+4.6
+
+5.2
+
+5.2
+
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+2.9
+
+3.3
+
+2.4
+
+3.3
+
+4.5
+
+3.2
+
+FFO/debt (%)
+
+26.3
+
+21.0
+
+33.8
+
+20.1
+
+16.7
+
+23.9
+
+Cash flow from
+operations/debt (%)
+
+25.9
+
+25.8
+
+36.9
+
+16.8
+
+17.3
+
+18.9
+
+FOCF/debt (%)
+
+10.7
+
+10.0
+
+23.2
+
+9.1
+
+(4.4)
+
+9.8
+
+8.8
+
+7.7
+
+1.9
+
+4.6
+
+(9.8)
+
+5.8
+
+DCF/debt (%)
+
+Financial Risk: Significant
+In 2019, Rewe-Zentralfinanz eG megred with Rewe-Zentral AG (earlier both entities were joint parents).
+Rewe-Zentralfinanz eG is now the sole parent of the group. The group's consolidated financial statements include
+REWE-Zentralfinanz eG and subsidiaries.
+Rewe reports its independent retailers (partners of the cooperative group) as an equity affiliate in the group accounts.
+We fully consolidate earnings and include these operations in the adjusted EBITDA, FFO, and cash flow figures. We
+believe the partners and the Rewe group's credit risk are closely linked, given the same brand and strategy, shared
+group functions, same country of operation, and cross holdings. Moreover, we believe that the group controls cash
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+REWE Group
+
+flows generated at the partners to some extent, because its contractually agreed role as provider of stores equipment
+and key merchandise supplier for the partners result in its ability to increase prices if needed.
+The Lekkerland transaction is subject to regulatory approval. If it proceeds, we expect Rewe to report an increase in
+debt and moderately weakening credit metrics compared to our base-case. Pro forma the Lekkerland acquisition, we
+forecast adjusted FFO to debt of 23%-24% in 2019 and 2020, which still provides modest headroom under our stated
+downgrade trigger of 20% and is only marginally less than our expected FFO to debt of 24%-26% for the existing
+group.
+In our view, the acquisition and substantial planned capex investments are the main constraints for the rating. The
+negative reported FOCF resulting from the high capex will increase adjusted financial leverage, leaving the group with
+limited headroom for any operating underperformance. Therefore, we forecast a comparatively weak adjusted
+FOCF-to-debt ratio of only 8%-11% in 2019 and 2020. In our view, the recent strong trading in 2018 and the group's
+track record of solid earnings growth reduces the overall risk of any unexpected operating underperformance.
+We see some part of the investments as important for success, such as the new automated warehouses, store
+renovations, and expansion. However, we perceive the annual outlay of about €500 million, mainly devoted to real
+estate buy-backs of previously rented stores, as a rather flexible part of the investment program, which can be scaled
+back or discontinued if needed to support credit metrics without any business impact. Supporting this is our view of
+Rewe's stated financial policy commitment, including a potential reduction of these investments if needed to maintain
+an investment-grade rating.
+
+Financial summary
+Table 2
+
+Rewe Group--Financial Summary
+Industry Sector: Supermarkets
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. €)
+Revenue
+
+53,377.8 49,424.3 45,636.0 43,699.3 42,162.9
+
+EBITDA
+
+4,084.4
+
+3,725.6
+
+3,383.9
+
+3,395.1
+
+3,199.2
+
+Funds from operations (FFO)
+
+3,153.2
+
+2,842.7
+
+2,416.4
+
+2,658.2
+
+2,496.5
+
+696.8
+
+643.2
+
+630.5
+
+645.3
+
+630.6
+
+Interest expense
+Cash interest paid
+
+681.7
+
+659.7
+
+662.5
+
+649.1
+
+636.0
+
+Cash flow from operations
+
+3,104.2
+
+2,723.8
+
+2,322.9
+
+2,125.7
+
+2,173.7
+
+Capital expenditure
+
+1,818.4
+
+1,879.0
+
+1,578.9
+
+1,306.0
+
+1,363.5
+
+Free operating cash flow (FOCF)
+
+1,285.8
+
+844.8
+
+744.0
+
+819.7
+
+810.2
+
+Discretionary cash flow (DCF)
+
+1,051.7
+
+658.6
+
+729.3
+
+788.9
+
+804.2
+
+Cash and short-term investments
+
+639.2
+
+653.4
+
+615.8
+
+636.0
+
+426.4
+
+Gross available cash
+
+639.2
+
+653.4
+
+615.8
+
+636.0
+
+426.4
+
+11,997.6 11,320.2
+
+9,565.3
+
+9,897.9
+
+9,931.3
+
+5,723.3
+
+5,303.5
+
+4,957.0
+
+Debt
+Equity
+
+6,541.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+6,174.6
+
+SEPTEMBER 4, 2019 10
+
+REWE Group
+
+Table 2
+
+Rewe Group--Financial Summary (cont.)
+Industry Sector: Supermarkets
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA margin (%)
+
+7.7
+
+7.5
+
+7.4
+
+7.8
+
+7.6
+
+Return on capital (%)
+
+8.8
+
+8.6
+
+7.8
+
+9.3
+
+9.4
+
+EBITDA interest coverage (x)
+
+5.9
+
+5.8
+
+5.4
+
+5.3
+
+5.1
+
+FFO cash interest coverage (x)
+
+5.6
+
+5.3
+
+4.6
+
+5.1
+
+4.9
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+2.9
+
+3.0
+
+2.8
+
+2.9
+
+3.1
+
+FFO/debt (%)
+
+26.3
+
+25.1
+
+25.3
+
+26.9
+
+25.1
+
+Cash flow from operations/debt (%)
+
+25.9
+
+24.1
+
+24.3
+
+21.5
+
+21.9
+
+FOCF/debt (%)
+
+10.7
+
+7.5
+
+7.8
+
+8.3
+
+8.2
+
+8.8
+
+5.8
+
+7.6
+
+8.0
+
+8.1
+
+DCF/debt (%)
+
+Liquidity: Adequate
+The short-term credit rating is 'A-3'. We view the group's liquidity as adequate and mainly limited by the planned
+capex. Our liquidity assessment also reflects substantial undrawn committed bank lines and is further supported by the
+following:
+• We project sources of liquidity, including cash and projected cash flows, will exceed uses by almost 1.3x over the
+next 12 months, and will remain near this level for the subsequent 12 months.
+• We forecast that net sources of cash will remain positive even if EBITDA declines by 30% from our base-case
+operating scenario in the coming year.
+• We project sufficient covenant headroom for our estimated EBITDA to decline by 30% without the group breaching
+coverage tests.
+• We view positively the group's generally prudent risk management and well-established, solid relationships with its
+banks.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+REWE Group
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We estimate sources of liquidity to be about €4.8
+billion in the next 12 months, including:
+
+Uses of liquidity should amount to about €3.7 billion
+for the next 12 months, including the following:
+
+• About €500 million in available cash and equivalents
+as of May 31, 2019;
+
+• Debt maturities and short-term debt instruments of
+about €600 million;
+
+• Undrawn committed bank lines of approximately
+€1.7 billion;
+
+• Seasonal peak working capital requirement of €300
+million-€350 million; and
+
+• Cash FFO of €1.6 billion-€1.7 billion;
+
+• Capex and payments for committed acquisitions of
+€2.5 billion-€3.0 billion.
+
+• Working capital inflows of about €70 million;
+• Committed asset sales of €70 million-€90 million, in
+line with those of previous years; and
+• Committed acquisition finance in a similar amount
+to contracted acquisitions.
+
+Debt maturities
+• 2019: €602 million
+• 2020: €40 million
+• 2021: €100 million
+• 2022: €29 million
+• Thereafter: €1.46 billion
+
+Covenant Analysis
+Compliance expectations
+We expect Rewe will fully comply with the covenant included in its revolving credit facility. In the next two-to-three
+years, we anticipate covenant headroom of 35%-45%.
+
+Requirements
+The group is required to comply with an adjusted debt-to-adjusted EBITDA ratio of less than 6.15x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 12
+
+REWE Group
+
+Environmental, Social, And Governance
+
+We do not anticipate environmental and social factors will have a material impact on our ratings. Rewe is exposed
+to sustainability of resources, human health, pollution, and waste management, among others. We consider food
+retail, the group's largest segment, as the main driver for our ESG analysis.
+Rewe faces changing consumer preferences across Europe toward regional, organic, and sustainably produced
+food. The group has a strong track record in rolling out private-label products, which have emphasized regional
+and organic products (the strongest growing category) in recent years. Rewe Bio has become the largest organic
+food brand in Germany.
+In conjunction with labor management, the group supports individual entrepreneurship through its cooperative
+structure with independent retailers in Germany and Austria, giving independent retailers discretion on
+compensation and store-level decisions. This secures a high-quality workforce required for customer-facing tasks
+and the company's ability to execute multichannel initiatives to maintain a competitive advantage.
+As one of largest retailers in Europe, the company encourages transparent supply chains and logistics with less
+waste and energy consumption. Rewe was the first German supermarket to remove plastic bags and cut its carbon
+emissions by half since 2006. Governance factors support credit quality and we continue to view management's
+expertise and experience positively. The group's financial reporting and transparency is generally in line with those
+of other private companies.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Rewe Group Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018-Rewe Group reported amounts
+
+Debt
+Reported
+
+Shareholders'
+equity EBITDA
+
+1,865.1
+
+S&P Global
+Ratings'
+Operating Interest
+adjusted
+income expense
+EBITDA
+
+Cash flow
+from
+operations Dividends
+
+Capital
+expenditure
+
+6,431.8
+
+1,843.1
+
+598.1
+
+55.0
+
+4,084.4
+
+1,486.1
+
+41.8
+
+1,793.7
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(202.7)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+Reported lease
+liabilities
+Operating leases
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(51.1)
+
+--
+
+--
+
+--
+
+854.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+9,148.2
+
+--
+
+1,871.6
+
+630.6
+
+630.6
+
+(630.6)
+
+1,241.0
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 13
+
+REWE Group
+
+Table 3
+
+Reconciliation Of Rewe Group Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€) (cont.)
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+702.5
+
+--
+
+(0.6)
+
+(0.6)
+
+11.2
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(572.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+40.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+59.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+110.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss)
+on disposals of PP&E
+
+--
+
+--
+
+19.8
+
+19.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA:
+Unconsolidated
+companies
+
+--
+
+--
+
+310.1
+
+310.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBIT:
+Unconsolidated
+companies
+
+--
+
+--
+
+--
+
+(26.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Funds from
+operations:
+Unconsolidated
+companies
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(46.8)
+
+--
+
+--
+
+--
+
+Operating cash flow:
+Unconsolidated
+companies
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+377.1
+
+--
+
+--
+
+Dividends:
+Unconsolidated
+companies
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+192.3
+
+--
+
+Capital expenditure:
+Unconsolidated
+companies
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+24.7
+
+Total adjustments
+
+10,132.5
+
+110.1
+
+2,241.3
+
+993.0
+
+641.8
+
+(931.2)
+
+1,618.1
+
+192.3
+
+24.7
+
+Interest
+EBIT expense
+
+Funds
+from
+operations
+
+Cash flow
+from Dividends
+operations
+paid
+
+Capital
+expenditure
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+Adjusted
+
+11,997.6
+
+Equity EBITDA
+6,541.9
+
+4,084.4
+
+1,591.1
+
+696.8
+
+3,153.2
+
+3,104.2
+
+234.1
+
+1,818.4
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/A-3
+
+Business risk: Satisfactory
+
+• Country risk: Low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 14
+
+REWE Group
+
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Credit Conditions EMEA: Double, Double Toil And Trouble, June 27, 2019. Full article at
+http://www.standardandpoors.com/pt_LA/web/guest/article/-/view/sourceId/100039697
+• Bulletin: Food Retailer REWE's Acquisition Of Lekkerland Reduces Rating Headroom Despite Robust Operating
+Performance, May 29, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 15
+
+REWE Group
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+Significant
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 4, 2019)*
+REWE Group
+Issuer Credit Rating
+
+BBB-/Stable/A-3
+
+Issuer Credit Ratings History
+17-Mar-2010
+
+BBB-/Stable/A-3
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 17
+
+

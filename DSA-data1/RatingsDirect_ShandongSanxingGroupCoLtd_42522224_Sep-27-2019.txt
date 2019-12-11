@@ -1,0 +1,1517 @@
+Shandong Sanxing Group Co. Ltd.
+Primary Credit Analyst:
+Polly Ng, Hong Kong + 852 2532 8068; polly.ng@spglobal.com
+Secondary Contact:
+Flora Chang, Hong Kong + 852 2533 3545; flora.chang@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Shandong Sanxing Group Co. Ltd.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Market leader with more than 50% volume share in the niche corn oil segment within
+China's large and competitive edible oil industry.
+
+Small player in the competitive aluminum industry
+with supplier concentration.
+
+Good operating efficiency with stable EBITDA margin of 13%-15%, given location of
+production capacity close to raw material sources, and economies of scale.
+
+Limited pricing power and exposure to volatile raw
+material costs.
+
+Improving business diversity with rising profit contribution from aluminum products.
+
+High debt leverage and slow deleveraging prospects
+conditional on capex reduction.
+Ongoing exposure to refinancing pressure due to
+short-dated debt profile.
+
+Debt maturities in 2019 are manageable, although reliance on short-term debt could increase.Shandong Sanxing Group
+Co. Ltd. (Sanxing) has bullet debt maturities of Chinese renminbi (RMB) 1.8 billion due in September to December of
+2019, and RMB1.2 billion due in 2020. This debt is significantly higher than the parent company's unrestricted cash for
+debt repayment of about RMB500 million as of June 30, 2019. Sanxing's refinancing plan includes property sales
+proceed of RMB250 million, proceeds from sale of financial investments of RMB350 million, and a newly obtained
+bank loan of RMB250 million. The company's issuance of a three-year public bond of RMB319 million in August 2019
+will also fund its debt repayment. The issuance demonstrates Sanxing's access to onshore long-term financing.
+However, we believe the company is likely to resort to short-term financing to repay its debt maturities in 2020, given
+tight credit conditions and low investor appetite for long-term debt issued by privately owned enterprises. The
+short-debt maturity profile will expose Sanxing to refinancing risks.
+Leverage will remain high. Expanding the aluminum processing segment over the past six years has resulted in high
+leverage for Sanxing. We expect the company's leverage to stabilize over the next two years. However, this hinges on
+capital expenditure (capex) falling significantly during the period, given operating cash flows will remain low and
+curtailed by interest expense servicing.
+Dominant market position in the niche corn oil industry will remain intact. Sanxing accounts for 50%-60% of the
+production in China's corn oil industry, with its own brand "Changshouhua" and a role as a contracted manufacturer
+for leading edible oil companies. The company's scale and proximity to raw materials are key supports for its
+competitive position and provide cost advantages over smaller manufacturers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Shandong Sanxing Group Co. Ltd.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Shandong Sanxing Group Co. Ltd.
+
+Outlook: Stable
+
+The stable outlook on Sanxing reflects our expectation that the company will refinance its debt maturities in 2019,
+given its satisfactory access to the domestic bond market in China and banking relationships.
+We also expect Sanxing's free cash flow to remain positive, driven by a stabilization of its corn oil business and
+lower capex in the next 12 months.
+
+Downside scenario
+We could lower the rating if Sanxing's debt-to-EBITDA ratio exceeds 5.0x. This could happen if the company's
+capital investment is more aggressive than we anticipate, driven by continuous fast capacity expansion or large
+acquisitions.
+We could also lower the rating if Sanxing encounters difficulty in rolling over its upcoming maturities, which would
+have a meaningful negative impact on its liquidity position.
+We could also lower the rating if the company's revenue continues to decline, signaling a potential deterioration in
+its competitive position.
+
+Upside scenario
+We could raise the rating if Sanxing lengthens its debt maturities to higher than two years. Alternatively, we could
+raise the rating if the company lowers its debt-to-EBITDA ratio below 4.0x on a sustained basis, while maintaining
+adequate liquidity.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Shandong Sanxing Group Co. Ltd.
+
+Assumptions
+
+• China's GDP will grow 6.2% in 2019 and 2020, from
+6.6% in 2018. Despite a slowdown, economic
+expansion will continue to support consumption
+growth in China over the next two to three years.
+• Growth in edible oil consumption (including corn oil)
+will be 2%-4%, given the nature of food staples.
+• Demand for aluminum products will continue to
+increase broadly on par with China's GDP growth,
+driven by rising demand and improving aluminum
+prices due to reduced capacity.
+
+Key Metrics
+
+2018A
+EBITDA margin (%)
+
+2019E
+
+2020E
+
+15.7 13.5-14.0 13.5-14.0
+
+Debt/EBITDA (x)
+
+4.4
+
+4.3-4.6
+
+4.2-4.5
+
+EBITDA/Interest (x)
+
+3.4
+
+3.3-3.7
+
+3.5-3.9
+
+FFO/Debt (%)
+
+12.7 12.0-14.0 13.0-15.0
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Annual capex will normalize to RMB250
+million-RMB400 million in 2019-2020, from RMB750
+million in 2017 and RMB167 million in 2018, mainly
+for maintenance because capacity expansion in
+aluminum products is complete.
+• Annual cash dividend to be limited in 2019-2020.
+
+Base-case projections
+Revenue growth to be 5%-7% in 2019, from 2% in the first half of 2019 and a 2% decline in 2018. Stabilizing corn oil
+prices should increase corn oil sales by 2%-4% per year in 2019-2020, with stable sales volume, after the corn oil
+segment's revenue declined by 7% in 2018. Aluminum products sales will also grow 5%-10% in 2019 and 2020, driven
+by the acquisition of a new automobile client and a gradual ramp up of capacity. But growth in aluminum product sales
+will be lower than the 23% growth in 2018 because the company has tightened its terms for credit sales to small
+customers to control the risk of bad debts.
+Broadly stable operating performance over the next 12-24 months. We believe steady organic growth of corn oil and an
+improved demand-supply equation from reduced aluminum capacity will support stability in Sanxing's operations. The
+company has flat EBITDA in the first half of 2019. Our base-case estimate is that the company's EBITDA will remain
+stable at RMB1.7 billion–RMB1.8 billion in 2019-2020, compared to RMB1.86 billion in 2018.
+Moderately positive discretionary cash flow and stable debt balance over the next 12-24 months. Operating cash flow
+to increase slightly to RMB350 million–RMB550 million in 2019-2020, from approximately RMB300 million in 2018, as
+the company reverses some inventory buildup alongside previous expansion. Discretionary cash flow will remain
+slightly positive as capex will normalize to RMB250 million–RMB400 million during the period.
+
+Company Description
+Sanxing is the largest corn oil manufacturer in China. The company is also engaged in the production and distribution
+of lightweight aluminum alloy products in China.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Shandong Sanxing Group Co. Ltd.
+
+Business Risk: Weak
+We view Sanxing's small market share in China's edible oil industry as a key constraint to its business strength. The
+company had a 3.2% share of the edible oil retail market in 2018, according to Euromonitor, compared with 40% and
+14% share for the top two companies. Sanxing's small scale limits its pricing power, especially amid an edible oil
+supply glut and falling edible oil price. The company's corn oil revenue declined to RMB6.2 billion in 2018, after
+peaking at RMB7.5 billion in 2016, mainly due to falling prices as volume remained broadly stable at about 400,000
+tons during the period.
+Sanxing will continue to face substitution risk and competitive pressure from manufacturers of other edible oils, given
+the large size of that market. Although the company accounts for 50%-60% of China's corn oil industry volume, corn
+oil is a small segment of the edible oil market. Soybean oil, representing 50% of edible oil in China, will likely see
+higher price volatility due to U.S.-China trade tensions that have limited soy bean imports from the U.S. The price
+volatility of soybean oil will likely trickle down to corn oil and pressure Sanxing's revenue growth. We forecast the
+company's corn oil volume growth will slow to 1%-2% over the next two years, compared with the average growth of
+7% during 2012-2017.
+We believe Sanxing's expansion into aluminum processing and the growing contribution from the operation exposes it
+to higher earnings volatility. The company expanded into lightweight alloy manufacturing in 2013 to benefit from its
+cost advantage given its proximity to the largest Chinese upstream aluminum producer, China Hongqiao Group Ltd.
+Its products include railway carriages, shipping containers, and lightweight auto-parts. We estimate aluminum alloy
+products will account for 25%-28% of Sanxing's revenue in 2019-2020, from 20% in 2017 and 14% in 2014. While the
+expansion adds business diversity, it also exposes the company to higher earnings volatility, given more volatile raw
+material prices. Gross profit margin in the operation was 7.5%-18% during 2013-2018.
+Furthermore, due to Sanxing's miniscule scale and limited track record, its lightweight alloy volume prediction is
+uncertain. The company usually enters into contracts of one to two years with its customers. It does not have any
+captive customers and clients' stability is not tested, which makes future volume prediction difficult. Its lightweight
+alloy utilization rate declined to 60%-70% in 2018, from 80% in 2017, following its new capacity rollout. We only
+forecast a gradual ramp up of utilization rate in 2019-2020. Nevertheless, the company has good customer diversity,
+which helps to mitigate the client retention risk. Its top five customers account for 13% of the segment sales.
+Sanxing's stable corn oil profitability provides some visibility on its earnings. This segment will account for 50%-60%
+of gross profit through 2020. Sanxing has steadily enhanced its product portfolio by increasing sales of branded oil to
+mitigate the revenue headwind. The gross profit contribution of Sanxing's branded oil segment has increased to 36% in
+2017, from 31% in 2014, while contribution of non-branded oil remained at 19%. Branded oil commanded 28%-35%
+gross profit margin, compared to non-branded oil's gross margin of less than 15% during 2013-2018. We expect
+continual portfolio enhancement will support Sanxing's steady earnings. We believe its higher oil yields and better
+access to raw materials also contribute to stable profitability. The company's production plants for corn oil are
+strategically located in major corn-producing regions in China.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Shandong Sanxing Group Co. Ltd.
+
+Chart 2
+
+Chart 3
+
+Peer comparison
+Table 1
+
+Shandong Sanxing Group Co. Ltd.--Peer Comparison
+Industry sector: Packaged and branded food
+Shandong Sanxing Group Co. Ltd. Fufeng Group Ltd. High Liner Foods Inc. Tereos SCA
+--Average of past three years-(Mil. RMB)
+Revenues
+
+11,773.4
+
+12,867.1
+
+6,856.5
+
+34,977.7
+
+EBITDA
+
+1,698.2
+
+2,060.7
+
+480.8
+
+4,123.1
+
+FFO
+
+806.5
+
+1,703.6
+
+319.7
+
+2,941.1
+
+Interest Expense
+
+459.4
+
+191.7
+
+131.6
+
+1,074.1
+
+Cash Interest Paid
+
+445.1
+
+129.6
+
+121.9
+
+970.4
+
+Cash flow from operations
+
+267.5
+
+1,614.4
+
+287.6
+
+3,005.7
+
+Capital expenditures
+
+705.9
+
+1,746.5
+
+128.3
+
+3,013.6
+
+Free operating cash flow
+
+(438.4)
+
+(132.0)
+
+159.3
+
+(7.9)
+
+Discretionary cash flow
+
+(448.6)
+
+(392.1)
+
+69.1
+
+(180.6)
+
+Cash and short-term investments
+
+2,021.6
+
+1,053.4
+
+48.4
+
+3,525.4
+
+Gross available cash
+
+2,021.6
+
+1,053.4
+
+48.4
+
+3,525.4
+
+Debt
+
+8,033.2
+
+2,241.0
+
+2,726.2
+
+19,071.2
+
+Equity
+
+7,830.0
+
+9,093.4
+
+1,621.9
+
+19,821.1
+
+EBITDA margin (%)
+
+14.4
+
+16.1
+
+7.0
+
+11.8
+
+Return on capital (%)
+
+8.5
+
+13.9
+
+8.0
+
+3.5
+
+EBITDA interest coverage (x)
+
+3.7
+
+13.0
+
+3.7
+
+3.8
+
+FFO cash interest coverage (x)
+
+2.8
+
+15.9
+
+3.7
+
+4.1
+
+Debt/EBITDA (x)
+
+4.8
+
+1.1
+
+5.7
+
+4.7
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Shandong Sanxing Group Co. Ltd.
+
+Table 1
+
+Shandong Sanxing Group Co. Ltd.--Peer Comparison (cont.)
+Industry sector: Packaged and branded food
+Shandong Sanxing Group Co. Ltd. Fufeng Group Ltd. High Liner Foods Inc. Tereos SCA
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+10.0
+
+81.9
+
+12.2
+
+15.4
+
+3.3
+
+72.9
+
+11.9
+
+15.9
+
+Free operating cash flow/debt (%)
+
+(5.6)
+
+(9.9)
+
+7.2
+
+(0.0)
+
+Discretionary cash flow/debt (%)
+
+(5.7)
+
+(22.6)
+
+3.9
+
+(0.9)
+
+FFO--Funds from operations. RMB--Chinese renminbi.
+
+We consider Fufeng Group Ltd., High Liner Foods Inc., and Tereos SCA as comparable peers for Sanxing because all
+of them are market leaders in their respective niche product segments within the packaged foods sector.
+Compared with Fufeng, Sanxing has two distinct operations in corn oil and aluminum and has similar profitability but
+materially weaker operating cash flows. Fufeng benefits from a better scale because its dominance in monosodium
+glutamate and amino acids arises from corn-processing. Sanxing has much higher debt leverage than Fufeng, due to its
+fast capacity expansion to grow its aluminum products business.
+Compared with High Liner Foods, which produces frozen food, Sanxing is much larger in scale, more profitable, and
+has better business diversity.
+Tereos, the third-largest sugar producer globally, and Sanxing generate revenue from volatile commodity products.
+But Sanxing has lower geographic diversity; Tereos operates in both Europe and Brazil.
+Sanxing has higher profitability than Tereos and High Liner Foods, but lower than Fufeng. Over the past three years,
+Sanxing's EBITDA margin has been 14.4%, compared to Fufeng's 16%, Tereos' 12%, and High Liner Food's 7%.
+Chart 4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Shandong Sanxing Group Co. Ltd.
+
+Financial Risk: Aggressive
+We expect Sanxing's debt leverage to remain high at more than 4x through 2021, constraining its credit quality. The
+company's expansion into aluminum processing increased leverage to 4.4x in 2018, from 3.1x in 2013, after
+accumulated capex of RMB4.4 billion in 2014-2017. During the same period, the company generated negative free
+cash flow, as inventory build-up alongside the expansion resulted in meagre operating cash flow of RMB200 million
+annually.
+Leverage should stabilize at 4.2x-4.6x in 2019-2020, from 4.4x in 2018, given our expectation of significant capex
+reduction over the next two years. Sanxing has started exercising some financial discipline. The company cut capex to
+RMB167 million in 2018 and to RMB287 million in the first half of 2019. Our base-case assumes that Sanxing's capex
+will remain low at RMB250 million–RMB400 million in 2019-2020 as its expansion comes to a close. We also estimate
+Sanxing's operating cash flow will increase modestly to RMB350 million–RMB550 million backed by improved
+inventory turnover with increasing preorder sales to corn oil and aluminum clients. The resulting marginally positive
+discretionary cash flow of RMB100 million–RMB200 million will keep the company's total debt stable in 2019-2020.
+Our sensitivity analysis shows Sanxing has rating headroom for an additional RMB800 million for capex or acquisition.
+Our base-case assumes the company's total debt will remain RMB8.0 billion–RMB8.3 billion in 2019-2020, including a
+balance of external guarantees of RMB500 million-RMB600 million.
+
+Financial summary
+Table 2
+
+Shandong Sanxing Group Co. Ltd.--Financial Summary
+Industry sector: Packaged and branded food
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenues
+
+11,855.2
+
+12,075.8
+
+11,389.3
+
+10,433.1
+
+9,104.2
+
+EBITDA
+
+1,859.6
+
+1,718.0
+
+1,517.0
+
+1,362.6
+
+1,234.5
+
+FFO
+
+1,044.9
+
+694.8
+
+679.7
+
+548.8
+
+576.8
+
+Interest Expense
+
+552.1
+
+459.9
+
+366.2
+
+420.9
+
+315.1
+
+Cash Interest Paid
+
+544.0
+
+449.7
+
+341.4
+
+369.3
+
+317.4
+
+Cash flow from operations
+
+286.5
+
+441.0
+
+74.9
+
+149.3
+
+110.7
+
+Capital expenditures
+
+166.9
+
+754.1
+
+1,196.6
+
+1,356.5
+
+1,121.5
+
+Free operating cash flow
+
+119.5
+
+(313.0)
+
+(1,121.6)
+
+(1,207.2)
+
+(1,010.7)
+
+Discretionary cash flow
+
+93.9
+
+(313.0)
+
+(1,126.8)
+
+(1,214.6)
+
+(1,025.5)
+
+Cash and short-term investments
+
+2,053.2
+
+2,326.7
+
+1,684.8
+
+2,097.2
+
+1,945.8
+
+Gross available cash
+
+2,053.2
+
+2,326.7
+
+1,684.8
+
+2,097.2
+
+1,945.8
+
+Debt
+
+8,226.1
+
+8,060.3
+
+7,813.0
+
+6,544.8
+
+5,086.9
+
+Equity
+
+8,292.8
+
+7,838.2
+
+7,358.9
+
+6,903.7
+
+5,991.2
+
+15.7
+
+14.2
+
+13.3
+
+13.1
+
+13.6
+
+(Mil. RMB)
+
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Shandong Sanxing Group Co. Ltd.
+
+Table 2
+
+Shandong Sanxing Group Co. Ltd.--Financial Summary (cont.)
+Industry sector: Packaged and branded food
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Return on capital (%)
+
+9.0
+
+8.3
+
+8.2
+
+10.4
+
+11.5
+
+EBITDA interest coverage (x)
+
+3.4
+
+3.7
+
+4.1
+
+3.2
+
+3.9
+
+FFO cash interest coverage (x)
+
+2.9
+
+2.5
+
+3.0
+
+2.5
+
+2.8
+
+4.4
+
+4.7
+
+5.2
+
+4.8
+
+4.1
+
+12.7
+
+8.6
+
+8.7
+
+8.4
+
+11.3
+
+Debt/EBITDA (x)
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+3.5
+
+5.5
+
+1.0
+
+2.3
+
+2.2
+
+Free operating cash flow/debt (%)
+
+1.5
+
+(3.9)
+
+(14.4)
+
+(18.4)
+
+(19.9)
+
+Discretionary cash flow/debt (%)
+
+1.1
+
+(3.9)
+
+(14.4)
+
+(18.6)
+
+(20.2)
+
+FFO--Funds from operations. RMB--Chinese renminbi.
+
+Liquidity: Less than adequate
+We assess Sanxing's liquidity as less than adequate, due to its sizable maturing debt. The company's sources of
+liquidity are likely to cover its needs by 1.0x over the 12 months ending June 30, 2020.
+Sanxing may not be able to absorb certain low-probability but significant risks, such as simultaneous credit distress of
+all guaranteed external debt. Although its external guaranteed debt only represents 8% of its total debt, such credit
+distress will likely tighten the company's liquidity. That's given its high short-term debt (RMB3.9 billion) relative to its
+cash balance of RMB2.3 billion as of June 30, 2019.
+Diverse funding sources mitigate Sanxing's liquidity risk. The company has reasonable access to domestic capital
+markets, as indicated by its issuance of three-year notes in August 2019. Sanxing has sound relationships with onshore
+local banks, given its low bank finance cost of about 5.5%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Shandong Sanxing Group Co. Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about RMB2.3 billion
+as of June 30, 2019.
+
+• Debt maturities of about RMB3.9 billion over the 12
+months ending June 30, 2020, including about
+RMB2.1 billion in short-term bank loans, RMB1.3
+billion in corporate bonds, and RMB500 million in
+short-term notes.
+
+• Cash funds from operations of about RMB1.0 billion
+over the 12 months ending June 30, 2020.
+• Completed debt issuance of a three-year
+medium-term note program of about RMB319
+million in August 2019, to refinance upcoming debt
+maturities.
+• Property sales proceeds of RMB250 million over the
+six months ending Dec. 31, 2019.
+
+• Working capital outflows of RMB300
+million-RMB400 million during this time.
+• Annual maintenance and committed capex of about
+RMB350 million.
+
+• Sale of financial investment of RMB350 million over
+the six months ending Dec. 31, 2019.
+• Newly obtained bank loan of RMB250 million during
+July-August 2019.
+
+Debt maturities
+Table 3
+
+Shandong Sanxing Group Co. Ltd.--Debt Maturities
+Year
+
+Amount (Mil. RMB)
+
+2020
+
+4,099
+
+2021
+
+3,264
+
+2022
+
+0
+
+2023 and beyond
+
+0
+
+Total
+
+7,363
+
+As of June 30, 2019. RMB--Chinese renminbi.
+
+Covenant Analysis
+Sanxing's U.S. dollar bond has no financial covenants, and the company has adequate covenant headroom on its bank
+loan. We estimate Sanxing will still be compliant with its covenant even after a 30% decline in EBITDA. Meanwhile,
+the company's onshore public bonds have cross-default guarantee.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of June 30, 2019, Sanxing has about RMB1,07 billion in senior secured debt, about RMB2.5 billion in senior
+unsecured debt at the operating subsidiaries level, and about RMB4.9 billion in senior unsecured debt at the parent
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Shandong Sanxing Group Co. Ltd.
+
+level.
+
+Analytical conclusions
+We rate Sanxing's guaranteed senior unsecured notes at 'B+', the same as the issuer credit rating on the company. The
+parent guarantee provided by Sanxing to Knight Castle Investments Ltd., a wholly owned financing subsidiary, is
+unconditional and irrevocable, and therefore qualifies for rating substitution treatment, in our view. In addition, we
+believe the risk of subordination is not significant because the company's priority debt ratio is only 42%, less than our
+50% threshold for notching down the issue rating.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Shandong Sanxing Group Co. Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-Shandong Sanxing Group Co. Ltd. reported amounts
+
+EBITDA
+
+Operating
+income
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow from
+operations
+
+6,526.3
+
+1,842.1
+
+1,324.8
+
+1,859.6
+
+829.7
+
+--
+
+--
+
+--
+
+--
+
+(270.6)
+
+--
+
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(544.0)
+
+--
+
+Cash interest paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Trade receivables securitizations
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease liabilities
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Incremental lease liabilities
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt-like hybrids
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Equity-like hybrids
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Intermediate hybrids reported
+as debt
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Intermediate hybrids reported
+as equity
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+--
+
+134.1
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(543.2)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+1,766.6
+
+--
+
+--
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+7,600.6
+
+Cash taxes paid
+
+Reported
+S&P Global Ratings' adjustments
+
+Debt - Guarantees
+
+625.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA - Other
+
+--
+
+--
+
+17.4
+
+17.4
+
+--
+
+--
+
+EBIT - Other
+
+--
+
+--
+
+--
+
+(17.4)
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+Shandong Sanxing Group Co. Ltd.
+
+Table 4
+
+Reconciliation Of Shandong Sanxing Group Co. Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB) (cont.)
+Total adjustments
+
+625.5
+
+1,766.6
+
+17.4
+
+134.1
+
+(814.6)
+
+(543.2)
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+8,226.1
+
+8,292.8
+
+1,859.6
+
+1,458.9
+
+1,044.9
+
+286.5
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Low
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Negative (-1 notch)
+• Financial policy: Neutral (no impact)
+• Liquidity: Less than adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria - Corporates - Industrials: Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Metals And Mining Downstream Industry, Dec. 20,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+Shandong Sanxing Group Co. Ltd.
+
+2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 24, 2019)*
+Shandong Sanxing Group Co. Ltd.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Issuer Credit Ratings History
+26-Mar-2019
+
+B+/Stable/--
+
+03-Dec-2017
+
+BB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+

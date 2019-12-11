@@ -1,0 +1,1575 @@
+Sealed Air Corp.
+Primary Credit Analyst:
+Daniel Lee1, CFA, New York + 1 (212) 438 2716; daniel.lee1@spglobal.com
+Secondary Contact:
+Michael Tsai, New York + 1 (212) 438 1084; michael.tsai@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Sealed Air Corp.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb+
+
+bb+
+BB+/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Global leader in packaging solutions for highly
+perishable food items.
+
+Muted to slightly negative organic growth expectations over the next 12 months as exposure
+to cyclical end-markets and currency headwinds offset growth in the food care segment.
+
+Growing global consumption of animal protein
+Sizable, ongoing investments will be required to support long-term shift toward parcel-ready
+supports steady demand for food services segment. packaging solutions.
+Established provider of protective packaging
+solutions in the growing e-commerce market.
+
+Acquisition-dependent growth strategy and sizable ongoing restructuring costs will limit any
+meaningful debt reduction.
+
+Shift to parcel-ready packaging solutions will be the primary focus over the next several years. We expect Sealed Air to
+aggressively expand its offerings of parcel-ready solutions to support the ever growing e-commerce market and
+increasingly constrained fulfillment value chain. Bolt-on opportunities, like its recent acquisition of Automated
+Packaging Systems (APS), are most likely to be Sealed Air's means of expanding its parcel-ready offerings.
+Expect flat to negative organic revenue growth over the next 12 months. A slowdown in Sealed Air's product care
+segment and currency headwinds have offset steady growth in the food care segment. We expect this trend to
+continue because weakness in key end-markets, such as industrial and electronics, is likely to persist.
+Don't expect meaningful deleveraging any time soon. With the company's muted operating outlook and various cash
+needs over the next year, including ongoing restructuring costs and potential bolt-on acquisitions, we don't expect any
+meaningful debt reduction over the next few years. At best, we expect leverage to be at the higher end of the 4x to 5x
+range, with any additional bolt-on acquisition only likely to further weaken credit metrics.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Sealed Air Corp.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Sealed Air will maintain leverage in the 4x to 5x range, despite our
+expectations for muted operating performance over the next 12 months. We expect that stable demand in the
+company's food care segment will largely offset weakness in its product care segment. We expect that the
+company will maintain positive operating cash flows, which should be sufficient to meet the majority of cash
+obligation, such as capital expenditures and shareholder rewards.
+
+Downside scenario
+We could lower our ratings on Sealed Air if the company's credit metrics weakened to above 5x on a sustained
+basis. This could occur if the company's operating margins declined by 300 basis points (bps) below our base case
+scenario. We could also lower our ratings if the company pursues acquisitions or shareholder rewards that result in
+credit metrics deteriorating to the aforementioned levels.
+
+Upside scenario
+Although highly unlikely, we could raise our ratings on Sealed Air if its credit metrics improved to well below 4x on
+a sustained basis. In addition to any improved credit metrics, we would require Sealed Air to explicitly commit to
+financial policies supportive of an investment grade rating.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Sealed Air Corp.
+
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020;
+
+2018A
+EBITDA margin (%)
+
+• Flat to low-single-digit percent pro forma revenue
+growth in fiscals 2019 and 2020, which incorporate
+flat-to-negative organic growth and currency
+headwinds, offset by acquisition contributions;
+• Restructuring charges of $115 million in 2019 and
+$125 million in 2020, related to the Reinvent SEE
+initiative;
+
+Adjusted debt to EBITDA (x)
+FFO to debt (%)
+
+2019E
+
+2020E
+
+18.1% 17.5-18.5 18-18.5
+4.3
+13.6
+
+5-5.25
+
+4.5-5
+
+11.5-13 13-13.5
+
+A--Actual. E--Estimate.
+
+• $135 million of benefits through 2020, driven by
+headcount reduction and productivity improvement
+associated with Reinvent SEE and from APS
+acquisition synergies;
+• Adjusted EBITDA margins of about 17.5%-18.5%
+through fiscal 2020;
+• Working capital outflows of about $20 million-$25
+million annually;
+• Capital expenditures (capex) of about $210 million
+in 2019 and about $225 million in 2020;
+• Acquisition spending of about $100 million in 2020;
+and
+• Share repurchases and dividends of about $225
+million-$250 million annually.
+
+Company Description
+Sealed Air Corp. is a designer and manufacturer of packaging systems and solutions, primarily focused on perishable
+foods and parcel protection. The company operates through two segments: food care (61% of 2018 sales) and product
+care (39%). The food care segment provides packaging materials and fully integrated packaging systems used by
+perishable food processors that predominantly focus on fresh red meat, smoked and processed meats, poultry, and
+dairy (solids and liquids). The product care segment provides both value-add (i.e. inflatable bubble wrap, surface
+protection, temperature control) and stand-alone solutions (i.e. padded envelopes) that focus on the protection and
+integrity of products during shipment. Sealed Air serves about 50,000 customers across 48 countries through 100
+facilities located throughout the globe. The company generated sales of $4.7 billion and adjusted EBITDA of $801
+million for the trailing 12 months ended June 30, 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Sealed Air Corp.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Sealed Air Corp.
+
+Chart 2
+
+Business Risk: Strong
+Our assessment reflects Sealed Air's established position as a leader in the highly perishable food space, somewhat
+offset by the product care segment's exposure to cyclical end-markets and changing market dynamics in e-commerce,
+which could pressure the segment over the next few years.
+Sealed Air is an established leader within the highly perishable food packaging space. The company has developed
+innovative solutions, such as vacuum-shrink wrapping systems, that have become the industry standard for packaging
+and maintaining food quality and stringent health requirements for highly perishable items, such as uncooked and
+cooked animal proteins, seafood, and dairy products. Sealed Air provides these solutions through its food care
+segment, which offers both fully integrated packaging systems and related materials. This operating segment enjoys
+predictable, recurring sales volumes supported by stable demand trends in global protein consumption. In addition, we
+believe Sealed Air enjoys modest barriers-to-entry in this niche market due to the stringent regulations governing food
+safety standards; the company's expansive network of packaging systems, which are fully integrated into customers'
+production processes; and few, if any, viable alternatives. We believe long-term growth trends remain favorable, as
+global per capita meat consumption continues to rise and increasing consumer preference for fresh, uncooked protein
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+Sealed Air Corp.
+
+should support growing demand for Sealed Air's food packaging systems and solutions.
+Sealed Air is also a notable provider of parcel protection solutions. Through the product care segment, the company
+offers a wide range of protective solutions, such as bubble wrap and air pillows, that have become ubiquitous within
+shipping packages. This segment enjoys good end-market diversity, supported by its broad application. It also has
+significant exposure (31% of product care sales) to the e-commerce market, which is expected to see sustained,
+multiyear growth. However, competition is high because there are a number of direct competitors (i.e. Pregis) and
+alternatives solutions, such as crumpled paper (i.e. Ranpak), that offer similar value-add functions (i.e. void fill,
+cushioning) to that of Sealed Air.
+There are several macro and industry-specific challenges that we see affecting the product care segment over the next
+several years. Despite its good end-market diversification, the segment has significant exposure to cyclical
+end-markets, such as the industrials and electronics (roughly half of its sales). A slowdown in these markets has
+contributed to volume declines in recent quarters, and we expect this trend to persist in line with macro-demand
+trends. There is also growing concern over the environmental impact of single-use plastics. This has driven many
+customers to assess alternative solutions, such as paper-based protection, despite plastics being a relatively lower-cost
+option. Finally, there is growing demand for parcel-ready shipping, particularly within e-commerce. Parcel-ready
+solutions focuses on automated, form-fitted packaging that has protective cushioning materials already embedded into
+the shipping parcel. We expect this shift to improve the overall fulfillment throughput time, but also reduce demand for
+a la carte protective packaging, such as air cushions and bubble wrap.
+We believe the company's "Reinvent SEE" strategy will somewhat address these challenges. Announced in December
+2018, the Reinvent SEE initiative is an overhaul of the company's entire value chain, with an emphasis on product
+innovation, speed-to-market, and operational and productivity improvements. As part of its focus on product
+innovation and speed-to-market, we expect Sealed Air to shift its product care segment to focus more on stand-alone,
+parcel ready solutions. We view this shift favorably because it is consistent with changing market dynamics, including
+increasing automation and improving fulfillment throughput time in the e-commerce market and reducing the use of
+single-use plastics. It should also strengthen the company's value proposition as a one-stop-shop for packaging
+solutions, particularly within the e-commerce segment, and thereby strengthening customer relations. However, this is
+a multiyear strategy that we believe will require significant investment before realizing sizable, tangible benefits. We
+expect the company to pursue this strategy primarily through acquisitions, such as its recent $510 million purchase of
+APS.
+
+Peer comparison
+Table 1
+
+Sealed Air Corp.--Peer Comparison
+Industry sector: packaging
+
+Ratings as of Sept. 9, 2019
+
+Sealed Air Corp.
+
+Silgan Holdings Inc.
+
+Berry Global Group Inc.
+
+Packaging Corp. of
+America
+
+BB+/Stable/--
+
+BB+/Stable/--
+
+BB+/Negative/--
+
+BBB/Stable/--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+--Fiscal year ended Sep. 29,
+2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+Revenue
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+4,732.7
+
+4,448.9
+
+7,869.0
+
+7,014.6
+
+SEPTEMBER 11, 2019 7
+
+Sealed Air Corp.
+
+Table 1
+
+Sealed Air Corp.--Peer Comparison (cont.)
+Industry sector: packaging
+
+Sealed Air Corp.
+
+Silgan Holdings Inc.
+
+Berry Global Group Inc.
+
+Packaging Corp. of
+America
+
+EBITDA
+
+854.6
+
+623.9
+
+1,381.5
+
+1,591.0
+
+Funds from operations
+(FFO)
+
+497.7
+
+447.5
+
+1,058.9
+
+1,333.4
+
+Interest expense
+
+203.8
+
+127.2
+
+289.6
+
+118.6
+
+Cash interest paid
+
+201.9
+
+129.3
+
+283.6
+
+116.8
+
+Cash flow from operations
+
+479.9
+
+537.7
+
+1,038.9
+
+1,227.3
+
+Capital expenditure
+
+162.3
+
+191.0
+
+327.0
+
+546.9
+
+Free operating cash flow
+(FOCF)
+
+317.6
+
+346.8
+
+711.9
+
+680.4
+
+Dividends paid
+
+104.1
+
+44.5
+
+0.0
+
+268.1
+
+(377.0)
+
+294.4
+
+678.9
+
+404.4
+
+271.7
+
+72.8
+
+381.0
+
+361.5
+
+Debt
+
+3,665.0
+
+2,427.2
+
+5,905.3
+
+2,703.6
+
+Equity
+
+(348.6)
+
+881.3
+
+1,434.0
+
+2,672.4
+
+EBITDA margin (%)
+
+18.1
+
+14.0
+
+17.6
+
+22.7
+
+Return on capital (%)
+
+21.3
+
+11.5
+
+10.6
+
+21.0
+
+EBITDA interest coverage
+(x)
+
+4.2
+
+4.9
+
+4.8
+
+13.4
+
+FFO cash interest coverage
+(x)
+
+3.5
+
+4.5
+
+4.7
+
+12.4
+
+Discretionary cash flow
+(DCF)
+Cash and short-term
+investments
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.3
+
+3.9
+
+4.3
+
+1.7
+
+FFO/debt (%)
+
+13.6
+
+18.4
+
+17.9
+
+49.3
+
+Cash flow from
+operations/debt (%)
+
+13.1
+
+22.2
+
+17.6
+
+45.4
+
+8.7
+
+14.3
+
+12.1
+
+25.2
+
+(10.3)
+
+12.1
+
+11.5
+
+15.0
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Sealed Air's peer group includes Silgan Holdings, Berry Global Inc., and Packaging Corp. of America. Sealed Air is one
+of the smaller companies in the peer group in terms of overall sales volume, but comparable based on adjusted
+EBITDA.
+Silgan is a manufacturer of rigid packaging solutions (primarily metal) and closures used mainly in food applications.
+Silgan is an indirect competitor to Sealed Air because most of Silgan's food-related solutions focus on non-perishables
+items with an extended shelf life. Berry Global, pro forma for its acquisition of RPC, is one of the largest players in the
+packaging space and possibly the largest in plastics. Berry somewhat competes with Sealed Air in the food end-market
+because Berry also provides various film solutions for packaging and storing meat products. Packaging Corp. of
+America is a manufacturer of paper-based packaging solutions used across various end-markets and applications that
+emphasis product protection. Packaging Corp. competes somewhat with Sealed Air's product care segment because
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Sealed Air Corp.
+
+both companies offer solutions that focus on similar protection solutions, but Packaging Corp.'s offerings tend to focus
+on heavier product applications.
+Other notable private competitors include Reynolds, which competes directly with the food care segment, and Pregis,
+which offers plastic protection solutions similar to those of the product care segment.
+
+Financial Risk: Aggressive
+Our assessment reflects our expectation that the company will maintain leverage between 4x and 5x, despite our
+expectation for flat sales trends and ongoing restructuring costs.
+Sealed Air's overall operating performance was down for the first half of 2019. Sales were down 1% (up 4% on a
+constant currency basis) because currency headwinds and core declines in product care were partially offset by core
+growth in food care and acquisition contributions. Adjusted EBITDA margins saw a 200 bps decline primarily due to
+higher legacy restructuring costs and costs associated with Reinvent SEE. Adjusted debt to EBITDA was
+approximately 5x for the 12 months ended June 30, 2019.
+Over the next 12 months, we expect many of these factors to persist, contributing to flat to low-single-digit percentage
+sales declines. On a segment basis, we expect flat to slightly lower food care sales, with low-single-digit percentage
+growth in core volumes offset by currency headwinds. Within product care, we expect overall sales to be flat to slightly
+up, with core volume declines and currency headwinds largely offset by contributions from the APS acquisition. We
+expected adjusted EBITDA margins to be about 18% since ongoing Reinvent SEE restructuring costs are somewhat
+offset by contributions from completed restructurings and acquisition synergies.
+We expect that the company will be able to satisfy capital expenditures and shareholder rewards primarily through
+operating cash flows, with ample capacity on its $1 billion credit facility to address any shortfalls. Given that Sealed
+Air's debt capital structure comprises primarily notes, we do not expect any meaningful debt reduction over the next
+several years. If anything, we believe total leverage is more likely than not to increase as the company continues to
+pursue bolt-on, debt-funded acquisitions, such as APS, as it shifts product care to more parcel-ready solutions. As a
+result, we expect that the company will pursue dollar-for-dollar refinancing as its various tranches of notes approach
+maturity.
+Given all these factors, we expect that Sealed Air will still be able to maintain leverage in the 4x to 5x range over the
+next 12 months, albeit at the very high end of the range.
+While the recent dismissal of Sealed Air's former CFO does not reflect well on the company, we believe it is an isolated
+incident. More importantly, we do not believe it is a reflection of the company's internal controls or financial reporting,
+which are the areas of greatest risk.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+Sealed Air Corp.
+
+Table 2
+
+Sealed Air Corp.--Financial Summary
+Industry sector: packaging
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. $)
+Revenue
+
+4,732.7 4,461.6 6,778.3 7,031.5 7,750.5
+
+EBITDA
+
+854.6
+
+766.5 1,134.1 1,144.1 1,061.2
+
+Funds from operations (FFO)
+
+497.7
+
+379.1
+
+775.4
+
+799.2
+
+1.8
+
+Interest expense
+
+203.8
+
+216.7
+
+230.9
+
+241.3
+
+304.6
+
+Cash interest paid
+
+201.9
+
+225.7
+
+232.9
+
+243.3
+
+727.3
+
+Cash flow from operations
+
+479.9
+
+905.1
+
+933.9
+
+773.1
+
+771.9
+
+Capital expenditure
+
+162.3
+
+173.5
+
+264.7
+
+178.6
+
+147.7
+
+Free operating cash flow (FOCF)
+
+317.6
+
+731.6
+
+669.2
+
+594.5
+
+624.2
+
+Discretionary cash flow (DCF)
+
+(377.0)
+
+(712.3)
+
+299.9
+
+(323.6)
+
+326.3
+
+Cash and short-term investments
+
+271.7
+
+594.0
+
+363.7
+
+359.4
+
+322.6
+
+Gross available cash
+
+271.7
+
+594.0
+
+363.7
+
+359.4
+
+322.6
+
+Debt
+
+3,665.0 2,982.4 4,454.0 4,682.4 4,576.5
+
+Equity
+
+(348.6)
+
+152.3
+
+609.7
+
+EBITDA margin (%)
+
+18.1
+
+17.2
+
+16.7
+
+16.3
+
+13.7
+
+Return on capital (%)
+
+21.3
+
+14.3
+
+16.2
+
+15.2
+
+12.2
+
+EBITDA interest coverage (x)
+
+4.2
+
+3.5
+
+4.9
+
+4.7
+
+3.5
+
+FFO cash interest coverage (x)
+
+3.5
+
+2.7
+
+4.3
+
+4.3
+
+1.0
+
+Debt/EBITDA (x)
+
+4.3
+
+3.9
+
+3.9
+
+4.1
+
+4.3
+
+FFO/debt (%)
+
+13.6
+
+12.7
+
+17.4
+
+17.1
+
+0.0
+
+Cash flow from operations/debt (%)
+
+13.1
+
+30.3
+
+21.0
+
+16.5
+
+16.9
+
+8.7
+
+24.5
+
+15.0
+
+12.7
+
+13.6
+
+(10.3)
+
+(23.9)
+
+6.7
+
+(6.9)
+
+7.1
+
+527.1 1,162.8
+
+Adjusted ratios
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Liquidity: Adequate
+We assess Sealed Air's liquidity as adequate and estimate that sources over the next 12-18 months will exceed uses by
+about 4.4x and believe that its net sources will remain positive even if forecast EBITDA declines by 15%. Qualitative
+factors, including covenant headroom, the company's sizable share-repurchase programs, and our view that Sealed Air
+could not withstand a high-impact, low-probability event without some need for refinancing preclude a stronger
+assessment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 10
+
+Sealed Air Corp.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• $222 million in balance sheet cash as of June 30,
+2019;
+
+• Working capital outflows of about $20 million-$30
+million annually,
+
+• About $822 million of availability under the
+company's revolving credit facilities as of June 30,
+2019; and
+
+• Capital expenditures (capex) of about $210
+million-$225 million over next 12-24 months, and
+• Cash dividends of about $100 million annually.
+
+• FFO of over $450 million annually.
+
+Debt maturities
+Chart 7
+
+Covenant Analysis
+Compliance expectations
+As of June 30, 2019, the company was in compliance with its maximum net leverage ratio covenant, and we expect it
+to remain compliant, with at least 15% headroom, over the next 12 months.
+
+Requirements
+Sealed Air's credit agreement requires that the company's maximum net leverage ratio does not exceed 4.5x on the
+last day of each fiscal quarter. However, this ratio is increased to 5x for the first four full quarters following a material
+acquisition.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 11
+
+Sealed Air Corp.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates severe cash flow stress resulting in a payment default in 2024. We
+assume that resin costs are very high for a prolonged period and that the company cannot fully pass these increases
+through to customers because of weak recessionary economic conditions and decreased demand.
+• We valued Sealed Air on a going-concern basis, since we believe company creditors would realize greater recovery
+through reorganization rather than liquidation.
+• We estimate a $3.1 billion gross recovery value based on an emergence EBITDA of $515 million and a 6x EBITDA
+multiple.
+• 85% of the revolver is drawn at default.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• EBITDA at emergence: $515 million
+• EBITDA multiple: 6x
+• Gross enterprise value: $3 billion
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $3 billion
+• Valuation split in % (obligors/non-obligors): 70/30
+• Priority claims: $55 million
+• Value available to first-lien debt claims: $2.5 billion
+• Secured first-lien debt claims: $1.6 billion
+• --Recovery expectations: (90%-100%: rounded estimate 95%)
+• Value available to unsecured claims: $1.2 billion
+• Total unsecured claims: $3.1 billion
+• --Recovery expectations: (30%-50%: rounded estimate 35%)
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 12
+
+Sealed Air Corp.
+
+Table 3
+
+Reconciliation Of Sealed Air Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Rolling 12 months ended June 30, 2019-Sealed Air Corp. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+3,474.3
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+(341.2)
+
+4,720.2
+
+698.6
+
+567.1
+
+189.1
+
+801.8
+
+604.4
+
+99.8
+
+189.4
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(87.3)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(191.4)
+
+--
+
+--
+
+--
+
+114.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+Operating leases
+
+--
+
+--
+
+--
+
+31.6
+
+4.2
+
+4.2
+
+(4.2)
+
+27.4
+
+--
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+152.7
+
+--
+
+--
+
+(6.7)
+
+(6.7)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(50)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+6.5
+
+(6.5)
+
+(6.5)
+
+--
+
+(6.5)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+28.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+8.3
+
+--
+
+--
+
+0.5
+
+0.5
+
+0.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+7.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+148.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+59.0
+
+59.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Asset retirement
+obligations
+Nonoperating
+income (expense)
+Debt: Tax liabilities
+EBITDA: Settlement
+(litigation/insurance)
+costs
+EBITDA: Other
+Total adjustments
+
+--
+
+--
+
+--
+
+(9.7)
+
+(9.7)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+373.3
+
+0.0
+
+0.0
+
+103.2
+
+55.2
+
+11.2
+
+(289.4)
+
+20.9
+
+0.0
+
+(6.5)
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+3,847.6
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+(341.2)
+
+622.3
+
+4,720.2
+
+801.8
+
+200.3
+
+512.4
+
+625.3
+
+99.8
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 13
+
+182.9
+
+Sealed Air Corp.
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb+
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Containers And Packaging Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 14
+
+Sealed Air Corp.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 11, 2019)*
+Sealed Air Corp.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Senior Secured
+
+BBB-
+
+Senior Unsecured
+
+BB+
+
+Issuer Credit Ratings History
+26-Sep-2017
+
+Foreign Currency
+
+BB+/Stable/--
+
+28-Mar-2017
+
+BB/Watch Pos/--
+
+10-Dec-2013
+
+BB/Stable/--
+
+26-Sep-2017
+
+Local Currency
+
+BB+/Stable/--
+
+28-Mar-2017
+
+BB/Watch Pos/--
+
+10-Dec-2013
+
+BB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 16
+
+

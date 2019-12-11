@@ -1,0 +1,710 @@
+Texas Gas Transmission LLC
+Primary Credit Analyst:
+Stephen Scovotti, New York (1) 212-438-5882; stephen.scovotti@spglobal.com
+Secondary Contact:
+Jacqueline R Banks, New York + (212) 438-3409; Jacqueline.Banks@spglobal.com
+Research Assistant:
+Rebecca A Hu, CPA, New York
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Texas Gas Transmission LLC
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb+
+
+bbb+
+
+BBB-/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Large percentage of high-quality customers including investment-grade
+counterparties.
+
+Modestly lower contract renewal rates.
+
+Majority of revenues are derived from long-term transportation contracts with
+revenues independent of gas prices.
+
+Changing natural gas market dynamics could further
+pressure rates for contract renewals.
+
+We consider Texas Gas Transmission LLC a core operating subsidiary of parent
+company Boardwalk Pipeline Partners L.P.
+
+Weaker credit measures in 2020.
+
+Restructured contracts with Southwestern Energy will affect cash flows and credit metrics in 2019 and 2020.Texas Gas
+Transmission LLC (Texas Gas) restructured its contracts with Southwestern Energy in the Fayetteville and Greenville
+laterals in late 2017. We expect the company will feel the impact of this restructuring in 2019 and 2020, especially
+since Southwestern Energy is Texas Gas' largest shipper in these two laterals. The Fayetteville Lateral is located
+primarily in Arkansas and transports natural gas from the Fayetteville shale production area to Texas Gas' pipelines,
+while the Greenville Lateral is located in Mississippi. Texas Gas had initially placed these expansion projects into
+service between 2008 and 2010.
+The restructured contract's terms include an extension through 2030 at much lower rates and reduces Southwestern's
+existing volume commitment on the Fayetteville lateral from 800,000 million British thermal units (mmBtu) per day to
+100,000 mmBtu per day in November 2017 through October 2020 at existing rates. Starting in 2021, committed
+volumes on the Fayetteville and Greenville laterals will increase.
+On Dec. 3, 2018, Southwestern sold its Fayetteville and Greenville assets to Flywheel Energy (unrated). As part of the
+sale, Flywheel Energy must fulfill Southwestern's commitments to Texas Gas. We view this unfavorably because the
+restructured contracts will continue to hurt cash flows and credit metrics in 2019 and 2020.
+Revenues are independent of gas prices, making them less volatile. Texas Gas is a single asset natural gas pipe and
+does not benefit from any company integration. Additionally, there is minimal commodity price exposure. An
+overwhelming majority of Texas Gas' revenues are derived from long-term transportation contracts whose revenues
+are independent of gas prices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Texas Gas Transmission LLC
+
+Outlook: Stable
+
+The stable outlook on Texas Gas reflects that of Boardwalk Pipeline Partners L.P. Our stable outlook on Boardwalk
+Pipeline Partners L.P. reflects our expectation that its adjusted debt to EBITDA will be 4.5x-5.0x in both 2019 and
+2020. We expect Boardwalk's capital spending will remain relatively high in 2019 as the company focuses on
+growth projects backed by long-term contracts. While the company still has some significant contract expirations
+in 2019 and 2020, we expect lower contracting rates to be offset by growth projects that were recently
+implemented or will be in 2019 and 2020. The company's largest growth project is the Coastal Bend Header
+project relating to Boardwalk's other subsidiary, Gulf South.
+
+Downside scenario
+The most likely downside scenario for Texas Gas would be a downgrade of Boardwalk. We would lower the rating
+on Boardwalk if its growth projects have delays or cost overruns, or if the company renews material contracts that
+are expiring over the next two years at much lower rates than we expect, increasing leverage above 5.5x on a
+sustained basis.
+
+Upside scenario
+We could raise the rating on Texas Gas if we raised the rating on Boardwalk. We could consider a positive rating
+action if Boardwalk recontracts material projects rolling off at acceptable rates, executes its growth projects, and
+maintains debt to EBITDA in the low-4x range.
+
+Our Base-Case Scenario
+Assumptions
+
+• Macroeconomic variables are not key drivers of our
+forecast due to the contracted nature of Texas Gas'
+cash flows.
+• Revenue decline of about 10% in 2019 due to lower
+volumes relating to the renegotiated Southwestern
+transportation contracts.
+
+Key Metrics
+
+2018A 2019E 2020E
+Debt to EBITDA(x)
+FFO to debt (%)
+
+1.8x
+
+<2.5
+
+<2.5
+
+50.3%
+
+35-45
+
+30-40
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Capital spending between $20 million-$50 million in
+2019 and 2020 .
+
+Company Description
+Texas Gas is one of the primary entities in Boardwalk's pipeline and storage business. It is a long-haul interstate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Texas Gas Transmission LLC
+
+natural gas pipeline that moves gas from Gulf Coast supply areas to on-system markets in the midwest and off-system
+markets in the northeast. It is composed of approximately 5,975 miles of pipeline, with an average daily throughput of
+approximately 2.8 billion cubic ft. (Bcf) per day. It owns nine natural gas storage fields located in Indiana and
+Kentucky, with working gas storage capacity of approximately 84 Bcf of gas. Boardwalk has made portions of the
+Texas Gas system bi-directional in order to transport natural gas from the Marcellus and Utica shale regions to
+Louisiana due to an overabundance of natural gas supply in the system's northern end market. Having a bi-directional
+pipeline in the north allows it to further diversify and benefit from supply there. Texas Gas directly serves local
+distribution companies, municipalities, and power generators.
+
+Business Risk: Satisfactory
+The satisfactory business risk profile reflects the large percentage of fixed-fee revenues, primarily investment-grade
+customer base, and the impact of the pressures on contract renewal rates. The rating on Texas Gas reflects our
+assessment of the credit quality of its parent, Boardwalk Pipeline Partners. Over 90% of Boardwalk's revenues are
+subscribed under long-term firm contracts, mainly with investment-grade customers. Roughly 80% of revenues come
+from capacity reservation charges, which are independent of throughput levels. The average weighted contract life for
+Texas Gas' transportation capacity is about 5.5 years. An overwhelming majority of Texas Gas' revenues are derived
+from long-term natural gas transportation contracts that have revenues independent of gas prices but that depend on
+agreements from natural gas producers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Texas Gas Transmission LLC
+
+Chart 1
+
+For Texas Gas, 20% of contracts roll off in 2019 and 12.5% in 2020. We believe that re-contracted volumes could be at
+significantly lower rates and that these new growth projects are critical to Texas Gas' growth as existing contracts roll
+off.
+Changing market dynamics resulting from an oversupply of shale gas and weaker basis differentials could further
+pressure rates for contract renewals. The decline in volumes transported on the Fayetteville lateral have affected
+Texas Gas in its restructured contracts with Southwestern at less favorable terms. Southwestern negotiated lower
+prices in exchange for extending the contract term to 2030, whereas the original contract expired in 2021.
+
+Financial Risk: Modest
+Texas Gas' stand-alone financial risk profile is stronger than that of its parent. We view Texas Gas' financial risk profile
+as modest and expect debt to EBITDA to be below 2.5x in the next two years. We assume that Texas Gas will manage
+its short-term cash shortfalls via its cash management program with Boardwalk. We do not expect Texas Gas to issue
+any debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Texas Gas Transmission LLC
+
+Liquidity: Adequate
+We assess Texas Gas' liquidity as adequate. As of June 30, 2019, its revolving credit facility, with availability of $400
+million, was undrawn. We expect liquidity sources to exceed uses by more than 2x over the next 12 months, which
+would usually indicate a "strong" assessment. However, qualitative factors, such as the company's ability to access the
+debt capital markets during a period of financial stress, limits our assessment at adequate.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash on hand of about $26 million as of June 30,
+2019;
+
+• Capital spending of about $35 million over the next
+12 months; and
+
+• Funds from operations of $200 million-$220 million
+over the next 12 months;
+
+• Advances of $180 million to Boardwalk over the
+next 12 months.
+
+• Working capital inflows of $5 million-$10 million
+over the next 12 months; and
+• As of June 30, 2019, full availability of the
+company's $400 million revolving credit facility,
+which matures in May 2022.
+
+Covenant Analysis
+Compliance expectations
+At June 30, 2019, Texas Gas was in compliance with its debt covenants, and we believe it will remain in compliance
+with its covenants over the next 12 months.
+
+Requirements
+Boardwalk has a revolving credit facility that includes itself, Texas Gas, Gulf South, and Gulf Crossing as borrowers.
+Boardwalk's revolver covenants require the partnership and its subsidiaries to maintain a maximum total leverage ratio
+of 5.0x, which steps up to 5.5x for the three quarters following an acquisition and includes pro forma cash flow credit
+for projects under construction.
+
+Group Influence
+The issuer credit rating on Texas Gas is capped at 'BBB-', which is the same as Boardwalk. Under our group rating
+methodology, we assess Texas Gas as a core subsidiary of Boardwalk, reflecting our view that it is highly unlikely to be
+sold, operates in lines of business that are integral to the overall group strategy, and has a strong long-term
+commitment from senior management.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Texas Gas Transmission LLC
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of June 30, 2019, Texas Gas' capital structure consists of its senior unsecured revolving credit facility, with a
+borrowing capacity of $400 million, $440 million 4.5% senior unsecured notes due 2021, and $100 million 7.25% senior
+unsecured notes due 2027.
+
+Analytical conclusions
+The unsecured debt rating is 'BBB-' which is the same as the issuer credit rating because there is no structural or
+contractual subordination of the issues.
+
+Reconciliation
+Table 1
+
+Reconciliation Of Texas Gas Transmission LLC Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Texas Gas Transmission LLC reported amounts
+
+Debt
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+535.0
+
+225.5
+
+29.4
+
+304.3
+
+277.4
+
+40.1
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+(0.5)
+
+--
+
+--
+
+Cash taxes paid: other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+(26.9)
+
+--
+
+--
+
+Reported lease liabilities
+Accessible cash and
+liquid investments
+Capitalized interest
+Asset retirement
+obligations
+Nonoperating income
+(expense)
+Total adjustments
+
+8.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0.1
+
+(0.1)
+
+(0.1)
+
+(0.1)
+
+7.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.7
+
+--
+
+--
+
+--
+
+--
+
+15.4
+
+1.7
+
+0.1
+
+(27.5)
+
+(0.1)
+
+(0.1)
+
+Debt
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+550.4
+
+227.2
+
+29.5
+
+276.8
+
+277.3
+
+40.0
+
+S&P Global Ratings' adjusted amounts
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Texas Gas Transmission LLC
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb+
+
+• Group credit profile: bbb• Entity status within group: Core (-2 notches from SACP)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Midstream Energy Industry, Dec. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+Texas Gas Transmission LLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 20, 2019)*
+Texas Gas Transmission LLC
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Senior Unsecured
+
+BBB-
+
+Issuer Credit Ratings History
+06-Mar-2015
+
+Foreign Currency
+
+10-Feb-2014
+11-Feb-2010
+06-Mar-2015
+
+BBB-/Stable/-BBB-/Negative/-BBB/Stable/--
+
+Local Currency
+
+BBB-/Stable/--
+
+10-Feb-2014
+
+BBB-/Negative/--
+
+11-Feb-2010
+
+BBB/Stable/--
+
+Related Entities
+Boardwalk Pipeline Partners L.P.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Gulf South Pipeline Co. L.P.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Senior Unsecured
+
+BBB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 11
+
+

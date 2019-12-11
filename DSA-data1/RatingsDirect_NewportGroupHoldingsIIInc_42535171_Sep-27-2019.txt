@@ -1,0 +1,378 @@
+Newport Group Holdings II Inc.
+Primary Credit Analyst:
+Ben Hirsch, CFA, New York + 1 (212) 438 0240; ben.hirsch@spglobal.com
+Secondary Contact:
+Minesh Patel, CFA, New York (1) 212-438-6410; minesh.patel@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Newport Group Holdings II Inc.
+Overview
+Key Strengths
+
+Key Risks
+
+Good industry tailwinds from increased regulation.
+
+Highly leveraged debt capitalization that reduces flexibility.
+
+Recurring revenue streams that support earnings
+visibility.
+
+Financial sponsor ownership, which increases risk of prioritizing shareholder-friendly
+financial policy.
+Smaller scale of revenues than larger players.
+
+Credit Highlights
+The company's high leverage restricts financial and operational flexibility. We view Newport Group Holdings II Inc.'s
+leverage, forecast at 5.4x (on an S&P Global Ratings basis) at year-end 2019, as high. In May 2019, leverage rose to the
+high-5x area after it completed its acquisition of PNC Bank's noncore retirement business. Key factors driving leverage
+reduction include expected earnings from onboarding the 403(b) book of business from Vanguard in the second half of
+2019 and earnings contribution from the PNC acquisition.
+Newport is controlled by private equity sponsor Kelso & Co. Given our expectations that financial sponsors often use
+leverage to maximize their investment returns, we expect it to be sustained above 5x over the next 12-24 months.
+Nevertheless, healthy EBITDA margins and modest capital expenditure (capex) needs provide sufficient cash flow to
+meet its debt service.
+Newport's small business scale and narrow product focus limit ratings upside. Relative to the U.S. retirement savings
+industry and ratings peers, Newport operates within a narrow product focus and at a smaller scale by revenue and
+earnings. Newport specializes in servicing 401(k) and 403(b) defined contribution plans (64% of revenues), with $235
+million in revenue expected in 2019.
+Other independent service providers such as Ascensus LLC offer government 529 savings and health savings account
+recordkeeping and administration in addition to retirement accounts. They are expanding revenue and geographic
+scale rapidly through industry consolidation.
+Good industry tailwinds and recurring revenue streams should support earnings growth over the next 12 months.
+Newport's business model benefits from high (85%) recurring revenue from service fees with high retention rates (95%)
+from per-plan and -participant fees in its largest segment, retirement recordkeeping and administration. S&P Global
+Ratings recognizes the through-cycle demand stability both in the numbers of 401(k) plans and total participants over
+time. We believe recent regulatory trends such as state-sponsored retirement plans and multiple employer retirement
+plans indicate a broader bipartisan regulatory approach aimed at increasing retirement savings. This should support
+organic revenue and earnings expansion.
+Additionally, increasing regulatory complexity should support demand for outsourced regulatory expertise, particularly
+among small to midsize businesses. We forecast Newport's free cash flow to debt at approximately 5.4% in 2019 and
+10% in 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Newport Group Holdings II Inc.
+
+Outlook
+
+The stable outlook reflects our expectation for stable operating performance and modest improvement in EBITDA
+margins, primarily through increased efficiencies and cross-selling opportunities. Despite higher interest expense in
+2019, we expect Newport Group will generate free cash flow of approximately $20 million over the next 12
+months, which will likely be used to pay down debt or fund accretive acquisitions.
+
+Downside scenario
+We could lower our ratings if operating performance weakens or if unforeseen changes in regulatory requirements
+weaken the company's competitive position or adversely affects margins such that debt to EBITDA rises to and is
+sustained above 7x. We could also lower our rating if Newport pursues debt-financed dividends or acquisitions that
+lead to leverage sustained above our downgrade threshold.
+
+Upside scenario
+Although highly unlikely over the next 12 months, we could consider raising our ratings if Newport significantly
+strengthens its business scale and broadens its product mix, possibly through good execution of its cross-selling
+strategy and new business wins. We could also consider an upgrade if it significantly improves key credit metrics
+through solid operating performance and a less aggressive financial policy, such that S&P Global Ratings-adjusted
+debt to EBITDA is sustained below 5x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Newport Group Holdings II Inc.
+
+Assumptions
+
+Key Metrics
+
+• Real U.S. GDP growth of 2.5% in 2019 and 1.8% in
+2020;
+
+• S&P Global Ratings-adjusted debt to EBITDA
+around 5.4x as of Dec. 31, 2019; and
+
+• U.S. unemployment rate of 3.6% in 2019 and 2020;
+
+• Free operating cash flow to debt of approximately
+5.4% in 2019, increasing to approximately 10% in
+2020.
+
+• Mid-single-digit percent total revenue growth in
+2019 to approximately $235 million, driven by
+increased retirement services scale as a result of the
+PNC business acquisition and the activation of
+contracts with Vanguard in the second half of the
+year;
+• Low- to mid-single-digit percent organic revenue
+growth rates thereafter, driven by cross-selling
+opportunities and steady annual retirement plan and
+participant increases;
+• S&P Global Ratings-adjusted EBITDA margins in the
+high-20% area in 2019 and 2020, driven by the
+incorporation of the higher-margin PNC acquisition
+and its larger average plans, which we expect can be
+serviced with Newport's existing capabilities;
+• S&P Global Ratings-adjusted debt of about $385
+million, which includes about $23 million of debt
+adjustments such as capitalized operating leases;
+• Capex of around 1.7% of revenues annually;
+• Small tuck-in acquisitions; and
+• No shareholder returns.
+
+Company Description
+Newport Group is an independent provider of recordkeeping and administrative services for qualified and nonqualified
+retirement plans. It serves financial institutions, large companies, and small to midsize businesses through three
+segments:
+• Retirement services: Accounting for approximately 64% of revenues, generated by per-plan and -participant fees
+collected from recordkeeping and administration for qualified (54%) and nonqualified (10%) defined contribution
+retirement plans.
+• Insurance services: Accounting for approximately 23% of revenues, Newport designs, implements, and administers
+insurance policies for corporate clients (and assumes no underwriting risk).
+• Consulting services: Accounting for approximately 13% of revenues, consists primarily of investment advisory
+services for large corporations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Newport Group Holdings II Inc.
+
+Business Risk
+Our assessment considers Newport's small scale of operations and narrow focus within the highly competitive and
+rapidly consolidating human resources (HR) services-based business process outsourcing (BPO) market, as well as its
+dependence on its channel partners. We view favorably Newport's good revenue visibility from its service fee revenue,
+low overall top-line equity market risk exposure, high customer switching costs, and scalable cost structure.
+Competition comes from larger, well-capitalized players such as Automatic Data Processing Inc. (AA/Stable/A-1+)
+and Conduent Inc. (BB/CW Neg/--), as well as other modestly larger independent recordkeepers such as Ascensus
+(B-/Stable/--). Compared to the rapid debt-financed acquisition growth strategy of Ascensus, Newport operates on a
+smaller scale by revenues, earnings, plans, and assets administered, albeit with reduced top-line equity market risk
+exposure by comparison. Mitigating factors in our analysis include Newport's supportive industry drivers such as
+increasing demographic, macroeconomic, and bipartisan legislative tailwinds that will underpin overall retirement plan
+and participant volume growth over the long term. S&P Global Ratings also believes that secular trends toward
+outsourcing will also support Newport's business prospects over the next 2-3 years, as companies increasingly
+delegate noncore functions to third party outsourcers to improve productivity and increase organizational agility by
+decreasing business costs.
+On May 6, 2019, Newport acquired PNC's vested interest defined contribution plan recordkeeping business to enhance
+scale in retirement services. We expect adjusted EBITDA margin improvement of at least 300 basis points through
+2020, largely driven by the incorporation of the higher-margin acquisition. We expect Newport to further extend its
+value into its larger client base through 2019 and 2020 by cross-selling insurance plan design and administration into
+its upsized qualified and nonqualified client-base, resulting in cash flow generation of approximately $20 million in
+2019 and $35 million in 2020.
+
+Financial Risk
+Our assessment reflects Newport's high S&P Global Ratings-calculated leverage, which is expected to decline to 5.4x
+by year-end 2019, and its financial policy risk posed by financial sponsor ownership. Our leverage calculation includes
+our standard operating lease adjustment, which adds $23 million to debt and $6 million to EBITDA. We do not net
+cash against debt given the company's financial sponsor ownership.
+Newport's high leverage could restrict its ability to affect further industry consolidation actions, or to capitalize on
+growth opportunities presented by unanticipated shifts in regulatory or technological trends within its markets, which
+are characterized by rapid change. However, in our base-case scenario, we forecast that Newport will naturally
+deleverage as it incorporates the larger-than-average plans from the PNC acquisition and continues its cross-selling
+initiatives.
+Other ratings peers within HR outsourcing, such as Ascensus and Alight Solutions LLC (B/Stable/--) have aggressively
+increased their debt capitalization over the last 24 months for shareholder returns and acquisitions. Newport has
+maintained a relatively more reserved financial policy posture.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Newport Group Holdings II Inc.
+
+Liquidity
+We view Newport's liquidity as adequate, based on our expectations that sources of cash will exceed uses by at least
+1.2x over the next 12 months, and that net sources would be positive even if EBITDA were to decline by 15%. We
+anticipate Newport's liquidity profile will benefit from positive free cash flow and low debt amortization over the next
+12 months.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• $10 million balance sheet cash available as of June
+30, 2019;
+
+• Approximately $4 million in annual capex;
+
+• $20.4 million in undrawn revolving credit capacity
+as of June 30, 2019; and
+• Annual cash funds from operations of $30
+million-$40 million in 2019.
+
+• Working capital needs between $10 million and $15
+million in 2019; and
+• Annual debt amortization of approximately $3
+million.
+
+Covenant Analysis
+Compliance expectations
+The revolving credit facility is subject to a minimum interest coverage ratio of 2x and a springing consolidated total
+secured leverage covenant when the revolver is 35% drawn. As of March 31, 2019, Newport had cushion in excess of
+35% against both covenants.
+
+Issue Ratings - Recovery Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Newport Group Holdings II Inc.
+
+Key analytical factors
+
+• Newport's capital structure consists of the pari passu $30 million senior secured revolving credit facility due
+Sept. 13, 2023; $304 million first-lien term loan due in September 2025; and $60 million second-lien term loan
+due in September 2026.
+• Badger Merger Sub Inc. is the borrower, and the debt is guaranteed by all material domestic subsidiaries.
+• The secured debt has a '3' recovery rating and 'B' issue-level rating, reflecting our expectation for meaningful
+(rounded estimate: 55%) recovery in the event of a payment default. We do not rate the second-lien term loan.
+• Our simulated default scenario contemplates a 2022 default amid regulatory changes that reduce demand for
+retirement and insurance plans or a reputation-damaging information technology security breach, resulting in
+significantly lower cash flows.
+• We assume Newport would reorganize in a default scenario due to its established sales channel partnerships
+with major financial institutions and insurance firms. As a result, we value the company on a going-concern
+basis using a 5.5x multiple of EBITDA.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Simulated year of default: 2022
+
+• Valuation split in % (obligors/nonobligors): 100/0
+
+• EBITDA at emergence: $36 million
+
+• Net recovery value after administrative expenses
+(5%): $190 million
+
+• Multiple: 5.5x
+• Gross enterprise value: about $200 million
+
+• Secured first-lien debt claims: $329 million
+• --Recovery expectations: 50%-70% (rounded
+estimate: 55%)
+All debt amounts include six months of prepetition
+interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating: B/Stable/-Business Risk: Weak
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Newport Group Holdings II Inc.
+
+Financial Risk: Highly leveraged
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers:
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital Structure: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Financial policy: FS-6 (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Ratings Detail (As Of September 25, 2019)*
+Newport Group Holdings II, Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+26-Jul-2018
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Newport Group Holdings II Inc.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+

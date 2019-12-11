@@ -1,0 +1,1497 @@
+Universal Corp.
+Primary Credit Analyst:
+Arpi Gupta, CFA, New York (1) 212-438-1676; arpi.gupta@spglobal.com
+Secondary Contact:
+Chris Johnson, CFA, New York (1) 212-438-1433; chris.johnson@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Universal Corp.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb
+
+bbb
+
+BBB/Stable/NR
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading position in the global independent leaf tobacco processing
+industry with longstanding customer relationships.
+
+Highly concentrated product focus in tobacco leaf, an industry facing
+secular decline in global consumption.
+
+Track record of conservative financial policies and sustained modest
+leverage.
+
+Uncertainty around impact of heightened regulatory risk.
+
+Long history of relatively consistent profitability and free cash flow
+generation.
+
+Although cigarette volume declines have been accelerating, we view the potential ban on certain next generation
+products (NGP) as a likely tailwind for the company's operations. One of the key factors driving the accelerating
+volume declines of tobacco leaf has been lower demand for cigarettes driven by growing consumer willingness to
+switch to alternative products, such as e-cigarettes. Amid growing concerns about the health risks posed by vaping and
+the evolving regulatory environment, adult consumers would likely revert to cigarettes as e-cigarettes become harder
+to buy reversing the decade-long decline in smoking rates. This, combined with Universal Corp.'s (Universal's) high
+levels (highest since fiscal 2015) of uncommitted tobacco leaf inventories, could result in better processing and sales
+volumes growth rates.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Universal Corp.
+
+Chart 1
+
+Chart 2
+
+We expect the company will maintain a conservative financial policy consistent with our ratings even as it explores
+additional investment opportunities. Universal has a well-established track record of conservative financial policies
+including minimal share repurchases as a proportion of its total authorization, which have been sufficiently covered by
+its free cash flow generation. Thus far, the company has not been as active in mergers and acquisitions (M&A)
+spending as its competitor, Pyxus International, and has maintained its focus on core tobacco leaf operations. The
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Universal Corp.
+
+company announced that it is now in the process of identifying future acquisition opportunities to expand its business
+into adjacent agribusiness industries and mitigate the impact of tobacco consumption declines. However, we believe it
+will continue taking a disciplined approach to investments. We believe possible future acquisitions will be capitalized
+such that the company's leverage does not exceed the 2x area, leaving significant headroom to our downgrade trigger.
+Profitability and free cash flow generation will remain robust.Although the company will continue to face a tough
+operating landscape, given that its core market remains under pressure, we believe cash flow generation remains
+healthy. We believe the company will generate approximately $130 million of annual operating cash flows, which
+should sufficiently cover its annual capital expenditures of about $45 million and dividends of about $75 million while
+leverage modestly declines. Debt to EBITDA for the trailing-12-months ended June 30, 2019, totaled 1.6x and we
+project leverage will decline to the 1.0x area by fiscal year-end 2020, driven by lower seasonally-elevated debt
+balances and modest EBITDA growth.
+
+Outlook
+
+The stable outlook reflects our expectation that Universal will sustain leverage near or below 1.5x and EBITDA
+interest coverage above 10x over the next 12-24 months. Improving crop supplies, supply chain efficiency
+improvements, coupled with the expectation that Universal will not meaningfully increase debt for acquisitions
+support our expectations.
+
+Downside scenario
+We could lower the ratings if we forecast weaker credit measures, including debt to EBITDA sustained above 2x
+and EBITDA interest coverage below 10x, which we estimate could occur if year-end debt increases by about $100
+million or annual EBITDA falls 15%-20%. This would most likely occur if crop levels largely decline in the
+company's tobacco source regions or from significant price volatility. Several factors can lead to price volatility,
+including periodic supply gluts or noncompetitive pricing in certain regions, changes in procurement strategies by
+Universal's large cigarette customers (including an increase in direct sourcing), or changes in macroeconomic
+conditions (including extreme foreign exchange movements or heightened country risk, particularly in Africa or
+Brazil). In addition, if tobacco leaf sourced from Brazil increases to 25% or more of Universal's total sourcing
+needs, we could consider its Federal Republic of Brazil sovereign risk exposure material, resulting in a possible
+downgrade.
+
+Upside scenario
+A higher rating is much less likely, but could occur if there is a significant shift in the company's business risk
+profile, such as if it broadens its product portfolio beyond tobacco leaf or if more business is outsourced by tobacco
+manufacturers to independent suppliers, resulting in higher market share and profits.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Universal Corp.
+
+Assumptions
+
+• U.S. GDP growth rate of 2.5% in 2019 and 1.8% in
+2020. World GDP growth rate of 3.3% in 2019 and
+3.6% in 2020.
+• Low-single-digit sales growth in fiscal year 2020
+(ending March 2020) driven by higher demand for
+wrapper tobacco, strong carry over sales in Brazil,
+and increased volumes in Asia; offset by weaker
+performance in U.S. due to oversupply of flue-cured
+and burley tobacco and ongoing declines in
+consumer demand for traditional combustible
+cigarettes.
+
+Key Metrics
+
+2020E
+
+2021E
+
+2022E
+
+Debt to EBITDA (x)
+
+1.0x-1.5x
+
+1.0x-1.5x
+
+1.0x-1.5x
+
+FFO to debt (%)
+
+65%-70% 70%-75% 70%-75%
+
+All figures are S&P Global Ratings adjusted.
+E--Estimate. FFO--Funds from operations.
+
+• Beyond 2020, we expect sales growth in the
+low-single-digits as increased sales volumes to
+major customers offset secular volume declines and
+lower exports sales; albeit with a fair degree of risk
+because of weather-related future crop yield
+uncertainty.
+• Adjusted EBITDA margins expand by 50 basis
+points (bps) to about 11% in fiscal 2020 reflecting
+improved margin contribution from South America,
+Africa and Asia along with increasing margins of
+Other Tobacco Operations because of supply chain
+efficiencies. The improvement in EBITDA margins
+are partially offset by softness in the U.S. market due
+to pricing pressure in response to tobacco
+oversupply, declining domestic demand and lack of
+export demand from China in wake of the ongoing
+trade war between the U.S. and China. Adjusted
+EBITDA margins remain in the 10% to 11% range
+thereafter.
+• Working capital remains only a modest use of cash
+in our forecast allowing the company to generate
+operating cash flows (OCF) of more than $130
+million in fiscal year 2020 and beyond.
+• Annual capital expenditures total $40 million to $45
+million driven by maintenance, cost efficiency
+projects, and customer-mandated spending to
+update certain tobacco processing facilities. About
+25% of those capital expenditures will be for
+growth/non-maintenance investments.
+• FOCF around $95 million in fiscal 2020 and above
+$100 million thereafter during the forecast period.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Universal Corp.
+
+• Annual dividends total at least $75 million annually.
+• Annual discretionary cash flow (DCF) is near
+break-even to a slight outflow after annual share
+repurchases totaling about $20 million.
+• Modest bolt-ons are not projected, but we anticipate
+that any possible future acquisition would not lead
+to debt to EBITDA above 2x on a sustained basis.
+
+Company Description
+Universal is a leaf tobacco merchant and processor with operations in more than 30 countries. It sources tobacco leaf
+through a global network of farmers with whom it has developed long-tenured relationships, cures and treats the
+tobacco, then sells it to tobacco manufacturers (mainly cigarette, but also cigar and other tobacco products). In
+addition to the core leaf tobacco business, the company is also involved in other smaller-scale tobacco and
+agribusiness opportunities. The company also has a subsidiary, AmeriNic Inc., which produces liquid nicotine for
+electronic nicotine delivery systems.
+
+Business Risk: Satisfactory
+Our assessment of Universal's business risk profile reflects its strong market position and longstanding customer
+relationships but also narrow business focus and high customer concentrationUniversal has significant local expertise
+particularly in developing markets, which enables it to manage thousands of farmers with seed/fertilizer, agronomy,
+and financial support and acts as a barrier to entry. The company also benefits from its long and established customer
+relationships with the largest tobacco manufacturers in the world. We believe Universal has a history of consistent and
+healthy profitability. Still, we believe the company has relatively high customer concentration, as its top five customers
+represent more than 60% of total revenues. Moreover, the evolving scale of vertical integration at these major
+customers enables them to compete with Universal for leaf tobacco purchases in a number of markets, thereby
+somewhat diluting the company's competitive positioning.
+We have also factored Universal's narrow business focus into our assessment. The company is concentrated in the
+tobacco leaf industry, which we believe has, at best, flat growth prospects with a fair degree of regulatory risk,
+particularly to its end customers. Recent regulatory developments include the FDA proposing a ban on menthols and
+reduction in nicotine levels in combustibles, though we view the risk to Universal's business from these developments
+as remote in the near to medium term.
+Earnings volatility is an significant risk for the company despite good geographic diversity. Universal has a relatively
+diverse asset footprint particularly in the key Brazilian, African, Philippines, and North American markets, with the
+ability to shift production over time with incremental investment. Despite this broad diversification, we believe its
+exposure to certain higher risk regions, such as the African continent, could lead to earnings volatility given the greater
+economic and political uncertainties of conducting business in those regions. We are less concerned about currency
+risk associated with operating in these geographies because we believe currency risk is partly mitigated by the fact that
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Universal Corp.
+
+international tobacco trade is generally conducted in and the company finances most of its tobacco operations in U.S.
+dollars. Nevertheless, short-term fluctuations in profitability because of several factors, including frequent supply and
+demand imbalances, could hamper sales and green leaf prices year over year.
+
+Peer comparison
+We compare Universal to Pyxus International Inc. (Pyxus), which is also a tobacco leaf supplier, but also to several of
+its rated customers, which are combustible cigarette manufacturers such as Altria Group Inc. (Altria), British American
+Tobacco PLC (BAT), and Imperial Brands PLC (Imperial). Universal has a larger scale and stronger profit margins
+compared with Pyxus, whose small scale makes it more vulnerable to industry supply/demand imbalances and limits
+its bargaining power. Universal has also been more disciplined with its investments and has consistently implemented
+cost reduction initiatives resulting in the company sustaining superior EBITDA margins of about 11% compared with
+Pyxus's average EBITDA margins of 7%-8%. Pyxus has relatively lower sourcing from emerging markets than
+Universal, but Universal has a demonstrated history of effectively managing large number of farmer relationships along
+with having a better and more comprehensive approach to managing geopolitical risks. The ratings on Pyxus are
+further constrained by its aggressive financial policies, deteriorating credit ratios with leverage remaining above 10x,
+and weak liquidity.
+Universal's tobacco customers such as Altria, BAT, and Imperial are much larger in scale, have stronger market
+positions and better brand equity, along with having significantly higher profitability- all of which support a stronger
+competitive position for these companies. Nonetheless, Universal's strong credit metrics support the rating. Universal's
+leverage is lower than that of other rated tobacco companies, reflecting its moderate financial policies and balanced
+approach to M&A and shareholder returns. Several peers like BAT and Imperial have much higher leverage but our
+ratings on BAT reflect our view that the company will deleverage to the mid-3x area over the next year, while Imperial
+is focusing on asset disposals, which coupled with its prudent financial policy and strong cash flow generation should
+help decrease leverage.
+Universal continues to demonstrate its commitment to maintaining the investment-grade rating by keeping debt
+balances low even as it explores opportunities for additional investments into adjacent agribusiness industries.
+Therefore, we believe Universal's leverage and cash flow ratios will remain comparably better than those of our
+selected peers, with leverage near or below 1.5x.
+Table 1
+
+Universal Corp. -- Peer Comparison
+Industry Sector: Tobacco
+
+Ratings as of Sep.
+24, 2019
+
+Universal Corp.
+
+Pyxus International
+Inc.
+
+Altria Group Inc.
+
+British American
+Tobacco PLC
+
+Imperial Brands
+PLC
+
+BBB/Stable/NR
+
+CCC+/Negative/--
+
+BBB/Stable/A-2
+
+BBB+/Stable/A-2
+
+BBB/Stable/A-2
+
+--Fiscal year ended
+March 31, 2019-(Mil. Mix curr.)
+
+--Fiscal year ended
+March 31, 2019--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+--Fiscal year ended
+Sep. 30, 2018--
+
+$
+
+$
+
+$
+
+£
+
+£
+
+Revenue
+
+2,227.2
+
+1,801.6
+
+19,627.0
+
+24,492.0
+
+15,399.0
+
+EBITDA
+
+235.3
+
+134.7
+
+10,467.5
+
+10,810.0
+
+3,764.0
+
+FFO
+
+171.3
+
+(22.7)
+
+7,446.0
+
+7,329.5
+
+2,842.5
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Universal Corp.
+
+Table 1
+
+Universal Corp. -- Peer Comparison (cont.)
+Interest expense
+Cash interest paid
+Cash flow from
+operations
+Capital expenditure
+FOCF
+DCF
+
+20.3
+
+141.3
+
+707.5
+
+1,652.5
+
+523.5
+
+19.2
+
+130.8
+
+714.5
+
+1,589.5
+
+514.5
+
+175.2
+
+(219.2)
+
+8,420.0
+
+8,847.5
+
+2,643.5
+
+38.8
+
+47.7
+
+238.0
+
+943.0
+
+394.0
+
+136.5
+
+(266.9)
+
+8,182.0
+
+7,904.5
+
+2,249.5
+
+59.2
+
+(266.9)
+
+1,094.0
+
+3,276.5
+
+461.5
+
+Cash and short-term
+investments
+
+297.6
+
+192.0
+
+1,333.0
+
+2,780.0
+
+775.0
+
+Debt
+
+253.9
+
+1,630.8
+
+29,197.6
+
+44,850.6
+
+12,002.1
+
+1,377.5
+
+189.1
+
+14,828.0
+
+65,688.0
+
+6,445.0
+
+EBITDA margin (%)
+
+10.6
+
+7.5
+
+53.3
+
+44.1
+
+24.4
+
+Return on capital (%)
+
+11.1
+
+5.0
+
+26.3
+
+9.1
+
+13.1
+
+EBITDA interest
+coverage (x)
+
+11.6
+
+1.0
+
+14.8
+
+6.5
+
+7.2
+
+FFO cash interest
+coverage (x)
+
+9.9
+
+0.8
+
+11.4
+
+5.6
+
+6.5
+
+Debt/EBITDA (x)
+
+1.1
+
+12.1
+
+2.8
+
+4.1
+
+3.2
+
+FFO/debt (%)
+
+67.5
+
+(1.4)
+
+25.5
+
+16.3
+
+23.7
+
+Cash flow from
+operations/debt (%)
+
+69.0
+
+(13.4)
+
+28.8
+
+19.7
+
+22.0
+
+FOCF/debt (%)
+
+53.8
+
+(16.4)
+
+28.0
+
+17.6
+
+18.7
+
+DCF/debt (%)
+
+23.3
+
+(16.4)
+
+3.7
+
+7.3
+
+3.8
+
+Equity
+Adjusted ratios
+
+N.M.--Not meaningful; FFO--Funds from operations; FOCF--Free operating cash flow; DCF--Discretionary cash flow
+
+Financial Risk: Modest
+Universal sustains fairly stable cash flows, has strong interest coverage, and conservatively funds shareholder returns,
+despite high working capital financing requirements. The company maintained a fiscal year-end cash balance of more
+than $200 million for consecutive years. Combined with its stable free cash flow generation of more than $100 million
+annually, this will sufficiently cover any share repurchases, dividends, and potential future acquisitions, which we do
+not expect to be large. Therefore, we forecast the company's modest debt leverage will remain stable with year-end
+debt to EBITDA consistently near 1.5x or lower. Moreover, despite the company's large seasonal tobacco inventory
+financing requirements that lead to high inter-period debt balances and additional working capital interest costs, the
+company continues to cover its interest costs well, with strong EBITDA interest coverage more than 10x in our
+base-case projections largely unchanged from current trailing-12-month levels. The company's efficient operations and
+low, mainly maintenance capex further support its financial profile as there is sufficient processing capacity across the
+tobacco industry. The company's minimal capex needs allow its highly seasonal working capital borrowings to be
+consistently paid down by the end of the company's annual operating cycle.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Universal Corp.
+
+Financial summary
+Table 2
+
+Universal Corp. -- Financial Summary
+Industry Sector: Tobacco
+Fiscal year ended March 31
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+2,227.2
+
+2,033.9
+
+2,071.2
+
+2,120.4
+
+2,271.8
+
+EBITDA
+
+235.3
+
+225.8
+
+234.0
+
+232.7
+
+216.8
+
+FFO
+
+171.3
+
+149.0
+
+177.8
+
+168.5
+
+141.9
+
+Interest expense
+
+20.3
+
+18.4
+
+24.5
+
+25.5
+
+26.7
+
+Cash interest paid
+
+19.2
+
+18.4
+
+18.9
+
+25.5
+
+28.8
+
+175.2
+
+92.9
+
+258.6
+
+184.4
+
+228.3
+
+(Mil. $)
+
+Cash flow from operations
+Capital expenditure
+
+38.8
+
+34.0
+
+35.6
+
+47.2
+
+58.4
+
+136.5
+
+58.9
+
+223.0
+
+137.2
+
+169.9
+
+59.2
+
+(24.7)
+
+(20.5)
+
+82.5
+
+78.3
+
+Cash and short-term investments
+
+297.6
+
+234.1
+
+284.0
+
+319.4
+
+248.8
+
+Gross available cash
+
+297.6
+
+234.1
+
+284.0
+
+319.4
+
+248.8
+
+FOCF
+DCF
+
+Debt
+
+253.9
+
+351.0
+
+309.7
+
+401.5
+
+450.7
+
+1,377.5
+
+1,383.2
+
+1,324.6
+
+1,344.7
+
+1,288.7
+
+EBITDA margin (%)
+
+10.6
+
+11.1
+
+11.3
+
+11.0
+
+9.5
+
+Return on capital (%)
+
+11.1
+
+11.0
+
+11.3
+
+10.8
+
+9.4
+
+EBITDA interest coverage (x)
+
+11.6
+
+12.3
+
+9.6
+
+9.1
+
+8.1
+
+FFO cash interest coverage (x)
+
+9.9
+
+9.1
+
+10.4
+
+7.6
+
+5.9
+
+Debt/EBITDA (x)
+
+1.1
+
+1.6
+
+1.3
+
+1.7
+
+2.1
+
+FFO/debt (%)
+
+67.5
+
+42.5
+
+57.4
+
+42.0
+
+31.5
+
+Cash flow from operations/debt (%)
+
+69.0
+
+26.5
+
+83.5
+
+45.9
+
+50.7
+
+FOCF/debt (%)
+
+53.8
+
+16.8
+
+72.0
+
+34.2
+
+37.7
+
+DCF/debt (%)
+
+23.3
+
+(7.1)
+
+(6.6)
+
+20.5
+
+17.4
+
+Equity
+Adjusted ratios
+
+N.M.--Not meaningful; FFO--Funds from operations; FOCF--Free operating cash flow; DCF--Discretionary cash flow
+
+Liquidity: Adequate
+Our liquidity assessment of adequate reflects our forecast that sources of liquidity will exceed uses by about 1.4x over
+the next year, and that net liquidity sources would remain positive even if EBITDA falls 15%. We don't believe the
+company has the ability to absorb high-impact, low probability events such as long-term crop supply disruptions or an
+industry-wide initiative for tobacco manufacturers to significantly increase insourcing tobacco supplies without
+refinancing. We believe the company has sound banking relationships and satisfactory standing in credit markets. We
+believe the company maintains a generally prudent financial risk management to maintain adequate liquidity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Universal Corp.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of about $168 million as of June 30,
+2019;
+
+• About $405 million in working capital outflows
+including peak seasonal needs;
+
+• Full availability under the $430 million revolving
+credit facility maturing December 2023; and
+
+• $30 million maintenance capital expenditures; and
+• Annual dividends of about $75 million over the next
+12 months.
+
+• Cash funds from operations of about $168 million
+over the next 12 months.
+
+Environmental, Social, And Governance
+
+Universal is highly exposed to social factors because it relies heavily on leaf tobacco, which is primarily used to
+manufacture traditional combustible cigarettes. Universal faces heightened social risk by virtue of its customer
+profile. The company's primary end-product, leaf tobacco, is used principally in manufacturing traditional
+combustible cigarettes, which have been widely associated with increased health risks. Although the company has
+been facing volume pressures driven by declines in tobacco consumption as a result of increasing consumer health
+awareness and ever-increasing regulatory oversight, Universal has been able to maintain stable profitability by
+providing additional value-added services to its customers, including blending and physical testing of tobacco,
+service cutting, and manufacturing reconstituted leaf tobacco. We believe the company will remain challenged by
+the effects of the health and regulatory risks its customers face and believe this is a material social risk. However,
+we believe Universal's longstanding relationships with its largest customers including Altria Group Inc., British
+American Tobacco plc, China Tobacco International, Inc., Imperial Brands plc, Japan Tobacco Inc., and Philip
+Morris International Inc. position it well to navigate through these industry challenges.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Universal Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+Fiscal year ended March 31, 2019
+Universal Corp. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+1,337.1
+
+214.6
+
+162.0
+
+17.5
+
+235.3
+
+164.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(44.9)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(16.5)
+
+--
+
+37.9
+
+--
+
+13.5
+
+2.8
+
+2.8
+
+(2.8)
+
+10.7
+
+Debt
+
+Shareholders'
+equity
+
+422.5
+
+Cash taxes paid
+
+S&P Global Ratings' adjustments
+
+Operating leases
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Universal Corp.
+
+Table 3
+
+Reconciliation Of Universal Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+Postretirement benefit
+obligations/deferred
+compensation
+
+48.3
+
+--
+
+(0.8)
+
+(0.8)
+
+--
+
+--
+
+--
+
+(267.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+8.2
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+6.8
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+42.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+Debt: Guarantees
+
+2.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+10.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Equity: Other
+
+--
+
+(2.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+15.5
+
+--
+
+--
+
+--
+
+(168.7)
+
+40.4
+
+20.8
+
+24.2
+
+2.8
+
+(64.1)
+
+10.7
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+171.3
+
+175.2
+
+Debt: Tax liabilities
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+253.9
+
+1,377.5
+
+235.3
+
+186.2
+
+20.3
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/NR
+
+Business risk: Satisfactory
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+Universal Corp.
+
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bbb
+
+Related Criteria
+• Criteria - Corporates - Industrials: Key Credit Factors For The Agribusiness And Commodity Foods Industry, Jan.
+29, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Ratings Above The Sovereign--Corporate And Government Ratings: Methodology And
+Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 25, 2019)*
+Universal Corp.
+Issuer Credit Rating
+
+BBB/Stable/NR
+
+Issuer Credit Ratings History
+28-Sep-2017
+
+BBB/Stable/NR
+
+04-Sep-2015
+
+BBB-/Stable/NR
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+Universal Corp.
+
+Ratings Detail (As Of September 25, 2019)*(cont.)
+06-Jan-2014
+
+BBB-/Negative/NR
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 14
+
+

@@ -1,0 +1,698 @@
+Newcastle Coal Infrastructure Group
+Pty Ltd.
+Primary Credit Analyst:
+Richard Timbs, Sydney (61) 2-9255-9824; richard.timbs@spglobal.com
+Secondary Contact:
+Meet N Vora, Sydney (61) 2-9255-9854; meet.vora@spglobal.com
+
+Table Of Contents
+Project Description
+Credit Highlights
+Outlook
+Performance Update
+S&P Global Ratings Base Case
+S&P Global Ratings Downside Case
+Peer Comparison
+Rating Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+Credit Rating(s)
+Senior Secured
+US$10 mil 5.58% US PP nts ser 2013D due 11/14/2025
+Foreign Currency
+
+BBB/Stable
+
+US$100 mil 5.67% US PP nts ser 2014A due 11/14/2023
+Foreign Currency
+
+BBB/Stable
+
+US$100 mil fltg rate Syndicated bank ln due 09/15/2028
+Foreign Currency
+Guarantor
+
+BBB/Stable
+NCIG Holdings Pty Ltd.
+
+US$120 mil 4.72% US PP nts ser 2012B due 12/14/2022
+Foreign Currency
+
+BBB/Stable
+
+US$135 mil 4.14% US PP nts ser 2012A due 12/14/2019
+Foreign Currency
+
+BBB/Stable
+
+US$221.61 mil 5.43% bank ln ser D due 03/06/2021
+Foreign Currency
+
+BBB/Stable
+
+US$25 mil 4.76% nts ser 2013A due 11/14/2020
+Foreign Currency
+
+BBB/Stable
+
+US$278.5 mil fltg rate Syndicated bank ln due 09/15/2023
+Foreign Currency
+Guarantor
+
+BBB/Stable
+NCIG Holdings Pty Ltd.
+
+US$50 mil fltg rate US PP nts ser 2013B due 11/14/2023
+Foreign Currency
+
+BBB/Stable
+
+US$500 mil 4.40% Guaranteed nts due 09/29/2027
+Foreign Currency
+
+BBB/Stable
+
+US$633.8 mil fltg rate bank ln ser E due 06/15/2022
+Foreign Currency
+
+BBB/Stable
+
+US$65 mil 5.43% US PP nts ser 2013C due 11/14/2023
+Foreign Currency
+
+BBB/Stable
+
+US$70 mil 4.92% US PP nts ser 2012C due 12/14/2024
+Foreign Currency
+Senior Secured
+
+BBB/Stable
+BBB/Stable
+
+Project Description
+Newcastle Coal Infrastructure Group (NCIG) operates a coal export terminal located in the Port of Newcastle on the
+central coast in the State of New South Wales. The multi-user terminal has an approved capacity of 66 million metric
+tons per annum (mtpa). It is fully contracted under 10-year, evergreen ship-or-pay contracts. NCIG commenced
+operations in 2010 under a lease from Newcastle Port that expires in 2043, and NCIG holds a 10-year extension
+option. NCIG is 100% mutually owned by most of its shippers.
+As of June 30, 2019, NCIG had approximately US$2.16 billion of senior secured debt and its parent, NCIG Holdings
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+Pty Ltd. (NCIGH), had approximately US$500 million of junior debt.
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Stable cash flow with full operational cost pass-through and capped financial cost pass-through to shippers Refinance risk
+One of two coal export terminals in the Port of Newcastle
+
+Longer term exposure to coal sector
+
+Limited recontracting risk
+
+Stable cash flow with cost pass-through. Revenues (via the toll charges) are structured to cover the terminal's operating
+and finance costs. The terminal's take-or-pay agreements with shippers are 10-year evergreen contracts and all
+operating costs can be passed through to shippers on an uncapped basis. Finance costs can be passed through to
+shippers subject to a cap, while no dividends are paid or payable. The current finance toll charge is about A$5 per ton
+compared with the cap of about A$10 per ton. We base our assessment on an assumed finance cap of about A$7 per
+ton, considering assumed break-even prices for miners. The socialization mechanism, whereby lost revenue from a
+shipper can be spread across the other shippers, provides further protection against the loss of other shippers.
+One of two coal export terminals in the Port of Newcastle. NCIG is one of two terminals handling coal delivered from
+the Hunter Valley coal basin for export. Contracted demand for capacity is full at both terminals. NCIG's shippers'
+source mines are characterized by attractive product quality and have relatively large marketable reserve bases that
+underpin long mine lives.
+Limited recontracting risk. The contractual structure of NCIG is slightly stronger relative to peers because the
+contracts limit any contract renewal risk, given that they are evergreen in nature. Nonrenewal by a shipper would lead
+to a requirement to repay the shipper's share of the project debt. We consider all shippers to be replaceable, and
+therefore, assume no material shipper revenue risk or counterparty dependency.
+Refinance risk. All of NCIG's bank debt facilities have scheduled amortization profiles specified in the documentation.
+While there are no covenants mandating amortization on NCIG's nonbank debt, NCIG has had in place a
+board-approved policy and practice since 2013 to structure the overall amortization profile such that senior debt will
+be fully repaid by 2038. In the most recent refinancing, NCIG replaced a bullet repayment U.S. private placement (PP)
+facility with amortizing bank debt facilities. The numerous debt tranches spread the refinancing risk over various time
+periods.
+Longer term exposure to the coal sector. While Chinese demand for coal may be moderating, we expect increasing
+demand in other parts of Asia, including India, to continue to support the Australian coal export market. Over the
+longer term, demand for coal relative to renewables is likely to fall, even from Asia, as economies transition to more
+environmentally friendly sources of fuel for energy.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+Outlook
+
+The stable outlook for both the senior and junior debt reflects our view that the terminal will operate at a
+contracted capacity of 66 mtpa for the foreseeable future. Demand for throughput may begin to slightly exceed
+current contracted capacity within a few years. NCIG is able to operate in excess of its contracted capacity at up to
+75 mtpa, but would need environmental authority approval to do so.
+In addition, we consider NCIG would continue to manage the ship-or-pay contracts such that it generates stable
+cash flow and makes timely cash calls to cover any unbudgeted costs. We would expect any future rating
+movement to be slightly different across the senior and junior debt because the senior debt would benefit more
+from a higher assumed toll charge and is also more resilient to downside risks. This view reflects the relative size of
+the senior and junior debt, and the fact that our forecast revenue profile is based on an assumed finance charge
+(that could be borne by shippers) rather than the actual toll charge, which is sized to cover operating and finance
+costs.
+
+Downside scenario
+The ratings would come under pressure if contracted volumes were to drop or if the fundamental competitiveness
+of the Hunter Valley coal market, including demand and price, were to materially decline. Such conditions may
+lead us to reduce our expected maximum toll charge. In particular, a minimum senior debt service coverage ratio
+(DSCR) declining below 1.60x with no prospect of timely recovery above that level could result in a lowering of the
+senior rating.
+Downward rating momentum for both the senior and junior debt could also occur if we consider that shippers can't
+be easily replaced or if the project were to materially defer the amortization profile of the senior debt. In addition,
+we could lower the ratings if NCIG fails to appropriately manage its refinance exposure and refinance its bullet
+maturities well ahead of time.
+
+Upside scenario
+An upgrade is unlikely over the next 12 months. A higher rating for both the senior and junior debt could result
+from a sustained increase in coal prices over the next two to three years, boosting margins for the mines in the
+region, along with strong growth in actual tonnage throughput. Any such strengthening in coal industry conditions
+may increase our expected maximum toll charge for NCIG.
+
+Performance Update
+NCIG's throughput for the year ended June 30, 2019, was approximately 53mt, consistent with that in the previous
+financial year. Operating costs have remained largely steady given the stable throughput, which is credit neutral
+because operating costs are passed on to the shippers in the toll charge.
+NCIG completed a notional US$340 million refinancing in June 2019, establishing commitments to replace USPP and
+bank debt with bank debt. The new committed facility is to be used for repayment of Bank Facility D (repaid in June
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+2019), and the USPP notes due December 2019 (about US$135 million) and November 2020 (about US$25 million).
+We note that this new facility does not result in an increase in total debt because it can only be drawn to repay existing
+debt.
+
+S&P Global Ratings Base Case
+Assumptions
+• Operating cost component of the toll charge based on contracted capacity levels;
+• The financing cost component of toll charge revenue set at A$7.00 per ton (split as approximately 80% U.S. dollar
+and approximately 20% Australian dollar per ton), compared with the current contractual finance cap of
+approximately A$10;
+• Operations and maintenance costs in line with management's forecasts;
+• Future refinance margins of 250 basis points over base rates;
+• Consumer Price Index at 2.5%; and
+• LIBOR in accordance with S&P Global Ratings' forward curve.
+
+Key Metrics
+Senior debt:
+• Minimum DSCR of 1.85x in December 2024; and
+• Average DSCR of 2.07x until the maturity of the senior debt in 2038.
+Junior debt:
+• Minimum DSCR of 1.28x in December 2024; and
+• Average DSCR of 1.88x until the maturity of the junior debt in 2043.
+The total actual DSCR will always be about 1x because NCIG's toll charges are designed to cover annually all
+operating and financing costs with no profit margin. In order to calculate market relevant DSCRs, our base-case cash
+flow considers revenues at our maximum forecast finance charge, which we currently assume to be A$7 per ton. This
+finance charge is sized having regard to estimated shipper profit margins at the lower end of the pricing cycle.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+Chart 1
+
+Table 1
+
+Preliminary Operations Phase SACP
+--Preliminary operations phase SACP outcome in column headers---Minimum DSCR ranges shown in the cells below*-aa
+
+a
+
+bbb
+
+bb
+
+b
+
+1-2
+
+=> 1.75
+
+1.75–1.20
+
+1.20–1.10
+
+<1.10§
+
+<1.10§
+
+3-4
+
+N/A
+
+=> 1.40
+
+1.40–1.20
+
+1.20–1.10
+
+< 1.10
+
+5-6
+
+N/A
+
+=> 2.00
+
+2.00–1.40
+
+1.40–1.20
+
+< 1.20
+
+7–8
+
+N/A
+
+=> 2.50
+
+2.50–1.75
+
+1.75–1.40
+
+< 1.40
+
+9–10
+
+N/A
+
+=> 5.00
+
+5.00–2.50
+
+2.50–1.50
+
+< 1.50
+
+11-12
+
+N/A
+
+N/A
+
+N/A
+
+=> 3.00x
+
+< 3.00
+
+OPBA
+
+*DSCR ranges include values at the lower but not upper bound. For example, for a range of 1.20x-1.10x, a value of 1.20x is excluded while a
+value of 1.10x is included. §To determine the outcome in these cells, the key factors are typically the forecasted minimum DSCR (with at least
+1.05x generally required for the 'BB' category), as well as relative break-even performance and liquidity levels. Please see "Project Finance:
+Project Finance Operations Methodology," published Sept. 16, 2014. SACP--Stand-alone credit profile. OPBA--Operations phase business
+assessment. DSCR--Debt service coverage ratio. N/A--Not applicable.
+
+S&P Global Ratings Downside Case
+Assumptions
+• Revenues decreased by 15% and revenue losses not socialized;
+• Operations, maintenance, and lifecycle cost pass-through maintained;
+• Refinancing margin increased to 400 basis points;
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+• LIBOR increased to 600 basis points; and
+• Inflation of 1.5%.
+
+Key Metrics
+Senior debt
+• Minimum DSCR of 1.12x in December 2024; and
+• Average DSCR of 1.24x until the maturity of the senior debt in 2038.
+Junior debt
+• Minimum DSCR of 0.85x in December 2024, with the ratio falling below 1.0x in 2019, (i.e. unpaid interest on the
+junior debt will capitalize while senior debt is outstanding); and
+• Average DSCR of 1.42x until the maturity of the junior debt in 2043.
+The results of our downside scenario do not affect our base-case assessment for the senior debt.
+The results of our downside scenario provide an insight into the default risk of the junior debt. As a result of junior
+ratios remaining below 1.0x for more than three years under our downside scenario, our downside assessment for the
+junior debt is 'b+', which caps the rating on the junior debt.
+
+Peer Comparison
+Table 2
+
+Ratings Score Snapshot And Peer Comparison
+Newcastle Coal Infrastructure Group
+Pty Ltd
+
+Adani Abbot Point Terminal
+Pty Ltd.
+
+DBCT Finance Pty
+Ltd.
+
+Operations phase SACP (senior debt)
+Asset class operations stability
+
+3
+
+3
+
+3
+
+Performance risk
+
+2
+
+2
+
+1
+
+Operations phase business
+assessment
+
+5
+
+5
+
+3
+
+Minimum DSCR
+
+1.85
+
+1.83
+
+1.82
+
+Average DSCR
+
+2.07
+
+3.49
+
+2.21
+
+bbb+
+
+bbb+
+
+a-
+
+Preliminary SACP
+Downside assessment
+Capital structure and avg. DSCR
+Liquidity
+Comparative ratings analysis
+
+bbb
+
+a
+
+a
+
+No
+
+Yes
+
+Yes
+
+Neutral
+
+Neutral
+
+Neutral
+
+(1)
+
+(1)
+
+(1)
+
+Counterparty rating adjustments
+
+None
+
+None
+
+None
+
+Sovereign rating limitation
+
+None
+
+None
+
+None
+
+bbb
+
+bbb-
+
+bbb
+
+Operations phase SACP
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+Table 2
+
+Ratings Score Snapshot And Peer Comparison (cont.)
+Newcastle Coal Infrastructure Group
+Pty Ltd
+
+Adani Abbot Point Terminal
+Pty Ltd.
+
+DBCT Finance Pty
+Ltd.
+
+Modifiers (senior debt)
+Parent linkage
+
+De-Linked
+
+De-Linked
+
+De-Linked
+
+Structural protection
+
+Neutral
+
+Neutral
+
+Neutral
+
+Full credit guarantee
+
+N/A
+
+N/A
+
+N/A
+
+Senior debt issue rating
+
+BBB
+
+BBB-
+
+BBB
+
+SACP--Stand-alone credit profile. DSCR--Debt service coverage ratio.
+
+Rating Score Snapshot
+Operations phase SACP (Senior Debt)
+• Operations phase business assessment: 5
+• Preliminary SACP: bbb+
+• Downside impact on preliminary SACP: bbb (no impact)
+• Liquidity: Neutral (no impact)
+• Comparative analysis assessment: Negative (-1 notch)
+• Adjusted preliminary operations phase SACP: bbb
+• Operations counterparty ratings adjustment: N/A
+• Financial counterparty ratings adjustment: N/A
+• Operations phase SACP: bbb
+Modifiers (Senior Debt)
+• Parent linkage: De-Linked
+• Structural protection: Neutral
+• Senior debt issue rating: BBB
+Operations phase SACP (Junior Debt)
+• Operations phase business assessment: 5
+• Preliminary SACP: bb
+• Downside impact on preliminary SACP: b+ (-2 notches)
+• Liquidity: Neutral (no impact)
+• Comparative analysis assessment: Neutral (no impact)
+• Adjusted preliminary operations phase SACP: b+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+• Operations counterparty ratings adjustment: N/A
+• Financial counterparty ratings adjustment: N/A
+• Operations phase SACP: b+
+Modifiers (Subordinated Debt)
+• Parent linkage: De-Linked
+• Structural protection: Neutral
+• Junior debt issue rating: B+
+N/A—Not applicable.
+
+Operations phase SACP
+The operations phase stand-alone credit profile (SACP), excluding any adjustments related to the structure of the
+transaction, drives the issue rating on NCIG's senior debt, given that the project is fully operational and has no
+construction risk. The issue rating reflects the following factors:
+• We consider the operations and maintenance task to be relatively simple and straightforward. NCIG also benefits
+from strong ship-or-pay contracts, which further limit operational risk because shippers are required to pay even if
+no coal is shipped.
+• We assume a certain level of market risk, which we assess to be low, despite the contractual framework and existing
+ship-or-pay contracts insulating the project from most volume fluctuations. We consider demand for coal export
+port capacity out of Newcastle to likely continue, given our forecast of coal production in the Hunter Valley and
+long-term demand for Hunter Valley coal. We believe NCIG's ability to pass through increased costs to shippers is
+limited in extended periods of low coal prices. Given the amortization structure within NCIG's bank debt and NCIG's
+approach to partial amortization of capital market debt, we make no adjustments for its debt structure, noting that
+no covenants exist that mandate the amortization profile of the capital markets debt. If NCIG were to reduce the
+rate of amortization to cut shippers' overall costs, we could then lower the ratings if we assessed that the overall
+debt structure had weakened.
+• The operations phase SACP for the senior debt incorporates a negative one-notch adjustment, reflecting subdued
+longer-term prospects of the coal mining sector globally and the fact that further deterioration could lead us to
+reassess our market-related assumptions.
+• The operations phase SACP for the junior debt incorporates an effective negative two-notch adjustment, reflecting
+weak coverages under our downside stress scenario. There is no junior debt reserve and the ratios fall below 1x
+under our stress scenario.
+
+Operations counterparties
+Counterparty
+• We assign a counterparty dependency assessment (CDA) to counterparties that we consider to be not easily
+replaceable without significant time or cash-flow implications. This CDA could then constrain our project finance
+issue rating. Currently, no such constraint exists for NCIG.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+Revenue counterparty
+• We consider the existing shippers as replaceable, and therefore, do not assign a CDA. Supporting this view is the
+occasional trading of capacity between existing users. Furthermore, the socialization of revenue across users, which
+is embedded in the ship-or-pay contracts, acts, in practice, as a de-facto replacement should a user default on its
+contract.
+
+Operations and maintenance (O&M) counterparty
+• NCIG performs the O&M services.
+
+Financial counterparties
+• NCIG has bank accounts with the Australia and New Zealand Banking Group Ltd. (ANZ). In addition, it has interest
+rate and cross currency swaps with ANZ, the Commonwealth Bank of Australia (CBA), Sumitomo Mitsui Banking
+Group, National Australia Bank Ltd., Oversea-Chinese Banking Corp. Ltd., Industrial and Commercial Bank of China
+Ltd., United Overseas Bank Ltd., and Canadian Imperial Bank of Commerce. Letters of credit (LoC) provided by
+financial institutions rated at least 'A' back shippers' obligations under the ship-or-pay contracts and shippers'
+obligations to fund the senior debt service reserve account.
+• The ratings on these institutions are comfortably above the project ratings and do not currently constrain the issue
+ratings.
+
+Liquidity
+• We assess NCIG's liquidity as neutral. NCIG can pass on uncapped operating costs to the shippers, and finance
+costs up to a cap. In addition, NCIG has a US$85 million debt service reserve that is sized to cover six months of
+senior debt service.
+• In the event that any shipper did not meet its payment commitments, NCIG has access to liquid security equivalent
+to 12 months' revenue.
+• We expect NCIG to continue to actively manage its debt maturities well ahead of time. Following the recent
+refinancing, the senior debt maturities of US$135 million in December 2019 and US$25 million in November 2020
+are earmarked for repayment, and the bank facility due in March 2021 was repaid in June 2019.
+
+Related Criteria
+• Criteria | Corporates | Project Finance: Project Finance Transaction Structure Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Operations Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Framework Methodology, Sept. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Structured Finance | General: Counterparty Risk Framework Methodology And Assumptions, June 25,
+2013
+• Criteria - Corporates - Project Finance: Project Finance Construction And Operations Counterparty Methodology,
+Dec. 20, 2011
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Newcastle Coal Infrastructure Group Pty Ltd.
+
+S&P Global Ratings Australia Pty Ltd holds Australian financial services license number 337565 under the Corporations Act 2001. S&P Global
+Ratings' credit ratings and related research are not intended for and must not be distributed to any person in Australia other than a wholesale
+client (as defined in Chapter 7 of the Corporations Act).
+
+Related Entities (As Of September 24, 2019)*
+NCIG Holdings Pty Ltd.
+Subordinated
+
+B+/Stable
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+

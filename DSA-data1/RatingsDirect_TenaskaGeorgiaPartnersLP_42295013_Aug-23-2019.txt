@@ -1,0 +1,543 @@
+Tenaska Georgia Partners L.P.
+Primary Credit Analyst:
+Marianne Du, Toronto (1) 416-507-2543; marianne.du@spglobal.com
+Secondary Contact:
+Antonio L Bettinelli, San Francisco (1) 415-371-5067; tony.bettinelli@spglobal.com
+
+Table Of Contents
+Project Description
+Credit Highlights
+Outlook
+Performance Update
+Base Case
+Downside Case
+Peer Comparison
+Rating Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+Tenaska Georgia Partners L.P.
+Credit Rating(s)
+Senior Secured
+US$275 mil 9.50% sr secd bnds due 02/01/2030
+Local Currency
+
+BBB+/Stable
+
+Senior Secured
+
+BBB+/Stable
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country.
+
+Project Description
+Tenaska Georgia Partners L.P. (TGP) is a 945-megawatt (MW) gas-fired, simple-cycle peaking facility located 40 miles
+southwest of Atlanta. TC Generation LLC (35%), Diamond Generating Corp. (30%), and affiliates of Tenaska (35%)
+own the project.
+The project generates capacity and energy revenue under the terms of a 29-year tolling agreement with Exelon
+Generation Co. LLC (Exelon; BBB+/Stable/A-2). General Electric Co. (GE; BBB+/Stable/A-2) provides maintenance
+services under a long-term service agreement (LTSA).
+The project's developer, Tenaska, has constructed more than 10,000 MW of domestic and international generation
+capacity projects.
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Contractual framework that considerably limits volatility of cash flows Rating capped by the creditworthiness of Exelon
+A simpler mechanical process as a peaking facility
+
+Retained operational risks
+
+A well-structured LTSA with GE
+
+The project has a strong contractual framework that considerably limits cash flow volatility.
+• The tolling contract fully allocates market demand, price, fuel supply, and electric transmission risks to Exelon. The
+contractual nature of the project makes it relatively insensitive to the dispatch factor and eliminates exposure to fuel
+expenses.
+• Capacity payments cover fixed expenses and debt service. Start-charge and energy payments compensate TGP for
+incremental operations and maintenance (O&M) expenses, and the project has limited sensitivity under our stress
+cases.
+• Risk of contract termination is low. Exelon can terminate the power purchase agreement(PPA) after 20 years of
+commercial operation by providing one year's advanced notice and paying the partnership $175 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+Tenaska Georgia Partners L.P.
+
+The project's operating performance has been stable, benefiting from a simpler mechanic process and
+a well-structured LTSA.
+• The project has operated well since being commissioned and maintained availabilities at or near 100%. As a
+simple-cycle peaking facility, the project runs for shorter periods and uses a simpler mechanical process than
+base-load, combined-cycle natural gas power plants. In addition, routine maintenance has ensured that the project
+has not experienced any major or forced outages.
+• The LTSA with GE is structured to allow for recovery of lost capacity payments if the project fails to maintain the
+availabilities mandated under the PPA with Exelon.
+
+Exelon's credit quality caps the project rating.
+• Exelon is the project's sole revenue counterparty. Although the project might be able to sell in the spot market or
+recontract with another off-taker, we wouldn't expect it to meet its debt service obligations as a merchant facility;
+therefore, the rating on the project cannot be higher than that on the PPA counterparty, Exelon.
+
+Bondholders bear operating risks if the project cannot meet the operational thresholds mandated
+under the tolling agreement.
+• The credit risk of the project is primarily tied to the possibility of forced outages or mechanical failures, which could
+lead to underperformance relative to TGP's contractual obligations under its tolling PPA.
+• If the plant fails to meet the required availability targets, financial penalties could apply, leading to reduced cash
+flow available for debt service and a low debt service coverage ratio (DSCR). However, the LTSA with GE largely
+mitigates this risk.
+
+Outlook
+
+The stable outlook reflects our expectation that operational and financial performance will remain stable during
+our two-year outlook period. We expect the project to generate DSCRs above 1.48x throughout the debt's term.
+
+Downside scenario
+We could lower the rating if the project's DSCR falls to and stays at the lower end of the 1.2x-1.4x range. This
+could happen if availability falls below 93%. We could also lower the rating if we lowered the rating on Exelon
+below 'BBB+'.
+
+Upside scenario
+Given that TGP's strong operational and financial performance would otherwise support a higher rating, we could
+raise the rating on TGP if we raised the rating on Exelon above 'BBB+' and our operational expectations and
+base-case financial forecast do not change. Further improvement in our base-case financial projections for the
+project would not lead to a higher rating by itself.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+Tenaska Georgia Partners L.P.
+
+Performance Update
+• The capacity factor under the PPA for the contract year ended May 31, 2018, and for 10 months of the next contract
+year ended May 31, 2019, was 1.49% and 1.04%, respectively. As a peaking power plant, TGP is used relatively
+infrequently, with dispatch levels historically varying from 0.1%-4.4%. Due to the contractual structure, the project's
+cash flow is not highly sensitive to the level of power it is required to generate.
+• Annual and summer availability was 100% for the PPA contract year ended May 31, 2018, and for 10 months of the
+next contract year ended May 31, 2019, above the 97% target. TGP's performance has been stable, with the annual
+and summer availability each coming in at 99% or more since it began commercial operation.
+• The project's DSCR for fiscal 2018 was 1.54x, above management's expectation of 1.49x and S&P Global Ratings'
+forecast of 1.48x, due to higher energy and start revenues and lower operating expenses. Coverage levels have been
+remarkably steady over the past five years, averaging 1.48x, and this stability points to the project's lack of
+sensitivity to variance in market demand as per the contractual framework.
+• We expect DSCRs of 1.50x and 1.51x for the years ending Dec. 31, 2019, and Dec. 31, 2020, respectively.
+
+Base Case
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+Tenaska Georgia Partners L.P.
+
+Table 1
+
+Tenaska Georgia Partners L.P.--Preliminary Operations Phase SACP
+--Preliminary operations phase SACP outcome in column headers---Minimum DSCR ranges shown in the cells below*-aa
+
+a
+
+bbb
+
+bb
+
+b
+
+1-2
+
+=> 1.75
+
+1.75–1.20
+
+3-4
+
+N/A
+
+=> 1.40
+
+1.20–1.10
+
+<1.10§
+
+<1.10§
+
+1.40–1.20
+
+1.20–1.10
+
+< 1.10
+
+5-6
+
+N/A
+
+=> 2.00
+
+2.00–1.40
+
+1.40–1.20
+
+< 1.20
+
+7–8
+9–10
+
+N/A
+
+=> 2.50
+
+2.50–1.75
+
+1.75–1.40
+
+< 1.40
+
+N/A
+
+=> 5.00
+
+5.00–2.50
+
+2.50–1.50
+
+< 1.50
+
+11-12
+
+N/A
+
+N/A
+
+N/A
+
+=> 3.00x
+
+< 3.00
+
+OPBA
+
+*DSCR ranges include values at the lower but not upper bound. For example, for a range of 1.20x-1.10x, a value of 1.20x is excluded while a
+value of 1.10x is included. §To determine the outcome in these cells, the key factors are typically the forecasted minimum DSCR (with at least
+1.05x generally required for the 'BB' category), as well as relative break-even performance and liquidity levels. Please see "Project Finance:
+Project Finance Operations Methodology," published Sept. 16, 2014. SACP--Stand-alone credit profile. OPBA--Operations phase business
+assessment. DSCR--Debt service coverage ratio. N/A--Not applicable.
+
+Assumptions
+
+Key Metrics
+
+• Capacity factor of 1.21% (the average of actual
+results from 2015-2018 and budget in 2019)
+
+• Minimum DSCR of 1.48x (2021)
+• Average DSCR of 1.66x
+
+• On-peak availability of 99%
+• O&M costs are based on the 2019 operating plan
+• Inflation of 2%
+
+Downside Case
+Assumptions
+
+Key Metrics
+
+• Fixed O&M stress of 12% over base-case levels
+
+• Minimum DSCR of 1.18x (2023)
+
+• Availability stress of 6% below base-case levels
+
+• Average DSCR of 1.35x
+
+• Cost inflation rate of 3% for the first five years and
+2% beyond
+
+• The project comes through the 'a' category
+downside with no impact on the preliminary
+stand-alone credit profile (SACP). The adjusted
+SACP is therefore 'a-'
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+Tenaska Georgia Partners L.P.
+
+Peer Comparison
+Table 2
+
+Tenaska Georgia Partners L.P.--Ratings Score Snapshot And Peer Comparison
+Tenaska Georgia Partners,
+L.P.
+
+Tenaska Virginia Partners
+L.P.
+
+Tenaska Alabama II Partners
+L.P.
+
+Asset class operations stability
+
+4
+
+5
+
+5
+
+Performance risk
+
+1
+
+1
+
+1
+
+Operations phase business
+assessment
+
+4
+
+5
+
+5
+
+Minimum DSCR
+
+1.48x
+
+1.42x
+
+1.33x
+
+Average DSCR
+
+1.66x
+
+1.46x
+
+1.35x
+
+a-
+
+bbb-
+
+bb+
+
+a
+
+a
+
+a
+
+Operations phase SACP (senior debt)
+
+Preliminary SACP
+Downside assessment
+Capital structure and average DSCR
+Liquidity
+
+-
+
+-
+
+-
+
+Neutral
+
+Neutral
+
+Neutral
+
+-
+
+-
+
+-
+
+Comparative ratings analysis
+Counterparty rating adjustments
+
+bbb+
+
+-
+
+-
+
+Sovereign rating limitation
+
+None
+
+None
+
+None
+
+Operations phase SACP
+
+bbb+
+
+bbb
+
+bbb-
+
+De-linked
+
+De-linked
+
+De-linked
+
+Structural protection
+
+Neutral
+
+Neutral
+
+Neutral
+
+Full credit guarantee
+
+None
+
+None
+
+None
+
+Senior debt issue rating
+
+bbb+
+
+bbb
+
+bbb
+
+Modifiers (senior debt)
+Parent linkage
+
+SACP--Stand-alone credit profile. DSCR--Debt service coverage ratio.
+
+The project's closest peers are some other Tenaska projects, including Tenaska Virginia Partners L.P. and Tenaska
+Alabama II Partners L.P.
+• Similar to the project, both peers are gas-fired power plants and have tolling agreements that result in no market
+exposure. In addition, all projects' revenues have a low sensitivity to dispatch factors.
+• All three projects have LTSAs with GE for equipment-related issues.
+• As a peaking facility, the project involves a simpler mechanical process and is run less often. Therefore, the
+operations phase business assessment is '4', lower than that of its base-load peers.
+• The higher rating on the project reflects a lower business risk profile and a stronger DSCR profile. The project rating
+is constrained by that on Exelon.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+Tenaska Georgia Partners L.P.
+
+Rating Score Snapshot
+Operations phase SACP (senior debt)
+• Operations phase business assessment: 4
+• Preliminary SACP: a• Downside impact on preliminary SACP: None
+• Liquidity: Neutral
+• Comparative analysis assessment: None
+• Adjusted preliminary operations phase SACP: a• Operations counterparty ratings adjustment: Capped at 'bbb+' by Exelon
+• Financial counterparty ratings adjustment: None
+• Operations phase SACP: bbb+
+Modifiers (senior debt)
+• Parent linkage: Delinked
+• Structural protection: Neutral
+• Senior debt issue rating: BBB+
+
+Operations phase SACP
+• Our operations phase business assessment of '4' reflects the project's asset class as a natural gas peaking power
+plant, its operating history, and contractual revenue with very low market exposure. As a simple-cycle peaking
+facility, TGP runs for shorter periods and uses a simpler mechanical process than base-load combined-cycle natural
+gas power plants.
+• The minimum DSCR of 1.48x under our base-case scenario leads to a preliminary operations phase SACP of 'a-'.
+The project's performance under the downside case is consistent with the 'a' category, resulting in a preliminary
+SACP of 'a-'. Although TGP's operational risk profile and DSCR would support an 'A-' rating, the rating on the
+off-taker constrains the rating on the project.
+
+Operations counterparties
+• We view Exelon as material and irreplaceable in our counterparty dependency assessment and the rating on Exelon
+caps the rating on the project, regardless of operational performance.
+• LTSA counterparty GE covers the services associated with repairs, mechanical outages inspection, and overhaul
+services. We treat GE as a replaceable counterparty.
+• The project's financial counterparties, including MUFG Union Bank NA (A/Positive/A-1) and The Bank of New
+York Mellon(AA-/Stable/A-1+), do not constrain the project rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+Tenaska Georgia Partners L.P.
+
+Liquidity
+• We assess the project's liquidity as neutral, and sufficient to backstop near-term obligations.
+• Liquidity is primarily supported through a six-month debt service reserve account funded via a line of credit (LOC)
+facility with a maximum commitment of $17 million.
+• In addition, the project has access to an LOC facility of $25 million to support its obligation under the PPA and an
+LOC for $0.1 million to support obligations under the interconnection agreement. As of March 31, 2019, no funds
+had been drawn on either LOC. The project had unrestricted cash on hand of $6.4 million as of March 31, 2019.
+
+Other modifiers
+• None
+
+Related Criteria
+• Criteria | Structured Finance | General: Counterparty Risk Framework Methodology And Assumptions, March 8,
+2019
+• Criteria - Corporates - Project Finance: Key Credit Factors For Power Project Financings, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Operations Methodology, Sept. 16, 2014
+• Criteria | Corporates | Project Finance: Project Finance Transaction Structure Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Framework Methodology, Sept. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Project Finance: Project Finance Construction And Operations Counterparty Methodology,
+Dec. 20, 2011
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 9
+
+

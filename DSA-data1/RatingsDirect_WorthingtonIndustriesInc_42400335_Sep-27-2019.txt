@@ -1,0 +1,1467 @@
+Worthington Industries Inc.
+Primary Credit Analyst:
+Florent Blot, Paris +33 1 40 72 25 42; florent.blot@spglobal.com
+Secondary Contacts:
+Clara McStay, New York + 1 212 438 1705; Clara.McStay@spglobal.com
+William R Ferara, New York (1) 212-438-1776; bill.ferara@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Reconciliation
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 1
+
+Worthington Industries Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Leading market position, offering a broad range of steel
+products and services to diverse end markets.
+
+Participation in the highly competitive steel processing market.
+
+Low operating leverage stemming from a light asset base and a
+flexible cost structure.
+
+Some margin volatility as a result of generated steel scrap and inventory
+holding gains/losses related to uncontracted volumes.
+
+Stable distributions from joint ventures provide cash flow
+visibility.
+
+Credit metrics sensitive to the cyclical automotive and construction industries.
+
+Balanced financial policies help maintaining relatively low debt
+leverage levels.
+
+Worthington's established market position and stable distributions from joint ventures mitigate some of its earnings
+sensitivities. Despite some weakness in its end markets and lower steel prices, we expect the company to maintain
+relatively healthy EBITDA levels thanks to its solid competitive position and stable contributions from its partnerships
+totaling about $100 million per year (close to 30% of adjusted EBITDA). In our view, Worthington's low and flexible
+cost structure as well as its demonstrated ability to integrate new businesses will remain the essential drivers of its
+market position and cash flow generation.
+Worthington's balanced capital allocation supports moderate debt to EBITDA in the 2x area. We expect Worthington
+to maintain a balance between shareholder-friendly activities and debt such that leverage does not go much beyond
+2x, which we view as commensurate with the rating. We believe the company will continue to manage its debt
+leverage level through the cycle factoring in the volatility of its steel processing segment, which can result in large
+working capital swings, and discretionary spending such as acquisitions and share repurchases.
+Worthington remains exposed to significant competition and the cyclicality of its key end markets. The company
+operates in a highly fragmented and competitive industry, especially in its steel processing segment (65% of total
+sales). We view its exposure to the automotive industry (40% of total sales) and its sensitivity to prolonged or sudden
+steel price declines as additional risks. We estimate that more weakness in end markets and metal prices that would
+reduce Worthington's volumes and processing spreads each by 10% could result in debt to EBITDA increasing close to
+3x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 2
+
+Worthington Industries Inc.
+
+Chart 1
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Rating's view that Worthington Industries Inc. will maintain solid cash flow
+generation amid slowing end-market conditions. While its margins could remain modestly lower than historic
+averages, we expect the company to maintain a prudent financial policy such that adjusted debt to EBITDA
+remains slightly above 2x and funds from operations (FFO) to debt stays close to 35% in the next 24 months.
+
+Downside scenario
+We could lower our ratings on Worthington if credit measures deteriorated from expected levels as a result of a
+cyclical downturn that would pressure cash flow generation or if the company were to debt-finance significant
+transactions such as mergers and acquisitions (M&A) and share repurchases. Specifically, we could lower the
+ratings if adjusted debt to EBITDA exceeded 3x and FFO to debt fell below 30% on a sustained basis.
+
+Upside scenario
+Although unlikely, we could raise our ratings over the next two years if Worthington were able to meaningfully
+improve its geographic and end-market diversity, operating breadth, and market penetration while maintaining
+debt to EBITDA well below 2x and adjusted FFO to debt above 45%. This would likely be associated with a
+commitment from management to sustain these metrics over the long term, along with a low likelihood of
+large-scale, debt-financed acquisitions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 3
+
+Worthington Industries Inc.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+• Light vehicle sales in the U.S. of 16.7 million in 2019
+and 16.5 million in 2020.
+• Nonresidential construction to decline by 1.4% in
+2019 and to subsequently increase by 1.9% in 2020.
+• Equipment investment growth of 2.5% and 3.1% in
+2019 and 2020, respectively.
+
+2019A
+Debt to EBITDA (x)
+FFO to debt (%)
+EBITDA margin (%)
+
+2020E
+
+2021E
+
+2.4 2.0-2.5 2.0-2.5
+32.1
+
+30-40
+
+30-40
+
+9.6
+
+9-11
+
+9-11
+
+Note: Worthington's fiscal year ends May 31.
+A--Actual. E--Estimate.
+
+• Steel processing shipments to remain relatively flat
+at about 3.7 million tons annually and pressure
+cylinders volumes to modestly increase from fiscal
+2019's level of 84 million units.
+• Hot rolled coiled (HRC) steel prices of roughly $600
+to $625 per ton for the rest of 2019 and in 2020.
+• Pressure cylinders revenue growth to be offset by
+lower steel processing prices in the next 12 months.
+• Operating margin to modestly improve in fiscals
+2020 and 2021 as a result of more stable steel prices
+and scrap spreads as well as pressure cylinders price
+increases.
+• Joint venture distributions of about $100 million per
+year, mainly from WAVE.
+• WAVE and other joint ventures' debt to remain at
+about $180 million.
+• Working capital inflow of about $30 million in each
+of fiscal 2020 and 2021.
+• Capital expenditures of about $100 million in the
+next 12 months and of about $80 million per year
+thereafter.
+• Dividends and share repurchases of roughly $50
+million and $100 million per year, respectively.
+
+Base-case projections
+Revenue growth will be constrained by slowing end markets and lower steel prices. We forecast slowing automotive
+and construction demand will continue to limit steel processing shipments in the next 12 months, while lower HRC
+prices should weigh on Worthington's average selling prices. However, we forecast modest volume and price growth
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 4
+
+Worthington Industries Inc.
+
+on the pressure cylinders segment to mitigate some of this headwind.
+Adjusted EBITDA margin will remain in the 10% range after facing some pressure in fiscal 2019. The prolonged
+decline in HRC prices over the last 12 months and the wider scrap gap have weighed on Worthington's metal spreads
+in fiscal 2019. We expect more stable steel prices and narrower scrap spreads to support less margin volatility in fiscal
+2020, while the price increases implemented on pressure cylinders could contribute to modest margin growth. We also
+forecast steady joint venture distributions of about $100 million per year (included in our EBITDA calculation) to
+support adjusted margins.
+Sustained free cash flow and prudent financial policy support debt leverage in the low 2x area.We estimate that
+Worthington will continue to balance shareholder-friendly activities and potential acquisitions with debt leverage
+considerations following weaker operating margin in fiscal 2019. While it might have less debt headroom than in the
+past, we believe that the company will still generate about $200 million of free cash flow in the next two years to fund
+its dividend as well as modest share repurchases and acquisitions.
+
+Company Description
+Publicly traded (NYSE: WOR) Worthington Industries Inc. is a metal processing company focused on value-added
+steel and manufactured metal products. The company sells close to 4 million tons of processed steel (65% of fiscal
+2019 sales) and manufactures filled and unfilled pressure cylinders (32%) as well as engineered cabs (3%).
+Worthington primarily serves customers in the automotive, construction, leisure and recreation, energy, and other
+industrial end markets. The company, which was founded in 1955, is headquartered in Columbus, Ohio.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 5
+
+Worthington Industries Inc.
+
+Chart 2
+
+Business Risk: Satisfactory
+Worthington is a leading player in the fragmented steel processing market and one of the largest pressure cylinders
+producers in the U.S. We believe this position stems from strategically located facilities (strong Midwest presence),
+favorable lead times, and the broad range of value-added services and products it provides. The company serves
+diverse end markets in its pressure cylinders segment and has strong relationships with the three Detroit automakers.
+Worthington's relatively flexible and low-cost structure also strengthens its competitive position. A light asset base,
+mostly nonunionized workforce, and sizable contracted sales (about 75% of steel processing volumes) result in a
+smaller degree of operating leverage and more stable margins than some its metal processing peers.
+Worthington's long track record of integrating new businesses provides additional competitive advantages and
+earnings stability. The company notably receives about $100 million in distributions from specialized joint ventures,
+with the Worthington Armstrong Venture (WAVE) being the largest and strongest cash flow contributor. In addition,
+the partnerships (about 30% of Worthington's adjusted EBITDA) allow the company to enter new markets, such as
+suspension ceiling systems, metal framing, and automotive stamping. We expect the higher value-added and growing
+pressure cylinders business and WAVE to offset some margin weakness and volatility on its steel processing business.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 6
+
+Worthington Industries Inc.
+
+Worthington's favorable market position is somewhat offset by a degree of concentration risk, competitive pressures,
+and an exposure to sharp changes in metal prices. Transactional sales on its steel processing segment (about 25%) can
+lead to inventory holding losses, while the generated scrap steel is exposed to pricing volatility. The company's
+revenues are also primarily oriented toward the cyclical automotive and construction industries (about 60% and 12%
+of steel processing), which can generate additional margin volatility through economic cycles.
+
+Peer Comparison
+Table 1
+
+Worthington Industries Inc.--Peer Comparison
+Industry sector: metals
+Worthington Industries
+Inc.
+Rating as of Sept. 4, 2019
+
+BBB/Stable/--
+
+Reliance Steel & Aluminum
+Co.
+BBB/Stable/--
+
+Ryerson Holding
+Corp.
+
+Russel Metals Inc.
+BB+/Stable/--
+
+B/Stable/--
+
+Average of past three fiscal years
+(Mil. mixed curr.)
+
+$
+
+Revenues
+
+$
+
+C$
+
+$
+
+3,451.8
+
+9,956.3
+
+3,346.5
+
+3,544.3
+
+EBITDA
+
+402.2
+
+1,051.6
+
+270.7
+
+193.6
+
+FFO
+
+321.9
+
+793.7
+
+186.1
+
+76.2
+
+Net income from cont. oper.
+
+184.3
+
+517.1
+
+135.2
+
+47.3
+
+Cash flow from operations
+
+279.8
+
+616.7
+
+86.0
+
+60.2
+
+76.3
+
+185.5
+
+31.2
+
+28.8
+
+Free operating cash flow
+
+203.5
+
+431.3
+
+54.8
+
+31.3
+
+Discretionary cash flow
+
+140.6
+
+298.7
+
+(39.2)
+
+31.3
+
+Cash and short-term
+investments
+
+164.1
+
+135.1
+
+144.0
+
+60.4
+
+Debt
+
+737.8
+
+2,116.1
+
+572.6
+
+1,335.2
+
+1,016.3
+
+4,601.6
+
+885.7
+
+51.4
+
+EBITDA margin (%)
+
+11.7
+
+10.6
+
+8.1
+
+5.5
+
+Return on capital (%)
+
+16.6
+
+10.6
+
+15.2
+
+10.8
+
+EBITDA interest coverage (x)
+
+10.5
+
+11.0
+
+8.4
+
+1.8
+
+FFO cash interest coverage (X)
+
+10.4
+
+11.2
+
+8.9
+
+2.1
+
+Capital expenditures
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+1.8
+
+2.0
+
+2.1
+
+6.9
+
+FFO/debt (%)
+
+43.6
+
+37.5
+
+32.5
+
+5.7
+
+Cash flow from operations/debt
+(%)
+
+37.9
+
+29.1
+
+15.0
+
+4.5
+
+FOCF/debt (%)
+
+27.6
+
+20.4
+
+9.6
+
+2.3
+
+Discretionary cash flow/debt
+(%)
+
+19.1
+
+14.1
+
+(6.9)
+
+2.3
+
+(13.2)
+
+(6.8)
+
+5.1
+
+11.5
+
+DCF/debt (%)
+
+Source: S&P Global Ratings. FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+We view Worthington as slightly different compared to a typical service center given the higher value-added nature of
+its products, its pressure cylinders segment, and its meaningful joint ventures. This business mix and a higher degree of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 7
+
+Worthington Industries Inc.
+
+contracted sales allow the company to generate stronger adjusted EBITDA margins than several of its steel processing
+peers. We believe that, although it has a smaller scale than Reliance Steel & Aluminum Co., Worthington's leading
+position in key markets, different business model, and favorable cost structure help its margin being in the same
+favorable range of about 10%.
+Due to its different business mix, Worthington is less working capital intensive than other service center companies,
+resulting in lower cash flow variations through activity cycles. Over the past few years, the company turned over its
+inventory almost twice as fast as its peers. We view Worthington's relatively low capital intensity and its balanced
+financial policies as key to its moderate debt leverage and investment-grade rating.
+
+Financial Risk: Intermediate
+We expect Worthington will continue to produce moderate debt leverage in the low 2x area as it maintains relatively
+conservative financial policies and steel prices stabilize. Weaker-than-expected earnings were the primary drivers of
+adjusted debt to EBITDA increasing to 2.4x in fiscal 2019 (ended May 31) from 1.9x in the previous year. As operating
+margins normalize and the company continues to generate free cash flow, we expect the company to maintain its
+relatively stable debt leverage track record.
+With HRC prices recently reaching lower levels below $600/t and end markets activity slowing down, we forecast the
+company to benefit from some countercyclical working capital inflows of about $30 million, which should solidify free
+cash flow generation of about $200 million annually. While relatively lower earnings could result in less capital
+allocation headroom, we expect the company to maintain modest shareholder-friendly activities while balancing out
+debt leverage considerations. For instance, we expect the recently announced refinancing transaction ($150 million of
+2020 notes redeemed with a €92 million private placement) will take out $50 million of gross debt from its balance
+sheet.
+Our assessment continues to incorporate the sensitivities of Worthington's credit metrics to cyclical end markets and
+operating margins. Although we forecast its metal spreads to remain relatively stable, a continuing weak steel price
+trajectory, a wider scrap gap, or a cyclical downturn in the automotive and construction industries could pressure
+existing levels. In this scenario, we estimate that a 10% decline in processing margins combined with a 10% decrease
+in volumes would lead to adjusted debt to EBITDA being close to 3x.
+Table 2
+
+Worthington Industries Inc.--Financial Summary
+Industry sector: metals
+--Fiscal year ended May 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+3,759.6
+
+3,581.6
+
+3,014.1
+
+2,819.7
+
+3,384.2
+
+EBITDA
+
+359.4
+
+420.5
+
+426.4
+
+344.7
+
+351.8
+
+FFO
+
+279.6
+
+345.4
+
+338.6
+
+261.2
+
+245.6
+
+41.2
+
+41.2
+
+32.1
+
+34.4
+
+41.4
+
+(Mil. $)
+
+Interest expense
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 8
+
+Worthington Industries Inc.
+
+Table 2
+
+Worthington Industries Inc.--Financial Summary (cont.)
+Industry sector: metals
+--Fiscal year ended May 31-2019
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+FOCF
+
+2018
+
+2017
+
+2016
+
+2015
+
+41.0
+
+37.2
+
+32.1
+
+32.7
+
+38.4
+
+206.7
+
+289.6
+
+343.1
+
+420.6
+
+221.4
+
+84.5
+
+76.1
+
+68.4
+
+97.0
+
+96.3
+
+122.2
+
+213.5
+
+274.7
+
+323.6
+
+125.1
+
+(115.3)
+
+(52.1)
+
+208.4
+
+167.4
+
+(62.0)
+
+Cash and short-term investments
+
+92.4
+
+122.0
+
+278.1
+
+84.2
+
+31.1
+
+Gross available cash
+
+92.4
+
+122.0
+
+278.1
+
+84.2
+
+31.1
+
+Debt
+
+871.9
+
+802.6
+
+538.9
+
+691.9
+
+816.9
+
+Equity
+
+948.4
+
+1,036.4
+
+1,073.9
+
+919.8
+
+840.0
+
+EBITDA margin (%)
+
+9.6
+
+11.7
+
+14.1
+
+12.2
+
+10.4
+
+Return on capital (%)
+
+DCF
+
+Adjusted ratios
+
+13.0
+
+18.0
+
+20.4
+
+16.9
+
+9.2
+
+EBITDA interest coverage (x)
+
+8.7
+
+10.2
+
+13.3
+
+10.0
+
+8.5
+
+FFO cash interest coverage (x)
+
+7.8
+
+10.3
+
+11.5
+
+9.0
+
+7.4
+
+Debt/EBITDA (x)
+
+2.4
+
+1.9
+
+1.3
+
+2.0
+
+2.3
+
+FFO/debt (%)
+
+32.1
+
+43.0
+
+62.8
+
+37.7
+
+30.1
+
+Cash flow from operations/debt (%)
+
+23.7
+
+36.1
+
+63.7
+
+60.8
+
+27.1
+
+FOCF/debt (%)
+
+14.0
+
+26.6
+
+51.0
+
+46.8
+
+15.3
+
+(13.2)
+
+(6.5)
+
+38.7
+
+24.2
+
+(7.6)
+
+DCF/debt (%)
+
+Source: S&P Global Ratings. FFO--Funds from operations. FOCF--free operating cash flow. DCF--Discretionary cash flow.
+
+Liquidity: Exceptional
+We view Worthington's liquidity to be exceptional based on the following observations and estimates:
+• An expectation that liquidity sources should exceed uses by at least 2x over the next two years;
+• Positive liquidity sources minus uses, even if forecast EBITDA declines by an unanticipated 50%;
+• Sufficient covenant headroom for forecast EBITDA to decline by 50% without the company breaching its financial
+covenants; and
+• Qualitative factors such as its high standing in credit markets as well as large cash balance and revolver availability
+demonstrating prudent risk management.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 9
+
+Worthington Industries Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about $92 million as of
+May 31, 2019;
+
+• Capital spending of about $100 million in the next
+12 months;
+
+• Availability of close to $500 million on the
+company's revolving credit facility, net of letters of
+credit; and
+
+• Peak seasonal working capital requirements of about
+$50 million annually; and
+
+• Cash FFO of about $275 million over the next 12-24
+months.
+
+• Dividend payout of about $50 million in the next
+12-24 months.
+
+Debt maturities
+Following the recent redemption of Worthington's $150 million senior unsecured notes due April 2020, the next
+maturity is the $150 million senior unsecured notes due in 2024 and the $250 million senior unsecured notes due in
+2026.
+Table 3
+
+Worthington Industries Inc. Debt Maturities
+Fiscal year*
+
+Amount (mil. mixed curr.) Description
+
+2025
+
+$150 Senior notes due August 2024
+
+2026
+
+$250 Senior notes due April 2026
+
+2030
+
+€ 30 Senior notes due August 2029
+
+2032
+
+€ 30 Senior notes due August 2031
+
+2033
+
+$200 Senior notes due August 2032
+
+2035
+
+€ 31.70 Senior notes due August 2034
+
+Source: Company reports. *Fiscal year ends May 30.
+
+Covenant Analysis
+We do not anticipate any covenant issues for at least the next two years under our base-case forecast. Worthington's
+revolving credit facility is subject to two financial covenants--a minimum interest coverage ratio of 3.25x and a
+maximum consolidated debt to capitalization ratio of 60%. As of May 31, 2019, the company was in compliance with
+both of these covenants.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+• As of May 31, 2019, Worthington had approximately $750 million in total debt outstanding, which consisted of
+unsecured debt at the parent level.
+• The company's $500 million revolver (February 2023 maturity) had availability of about $500 million as of May 31,
+2019, with senior unsecured notes of $150 million due 2024, $250 million due 2026, and $200 million due 2032.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 10
+
+Worthington Industries Inc.
+
+• The company also has term loans and other debt of about $5 million related to foreign subsidiaries, as well as an
+undrawn, recently amended $50 million revolving trade accounts receivable securitization facility maturing in
+January 2020.
+• We exclude Worthington's proportion of the total debt at its unconsolidated joint ventures (WAVE and others) from
+our notching analysis since it is nonrecourse, contains no cross-default provisions, and we do not expect it to be
+supported in a hypothetical default.
+
+Analytical conclusions
+Worthington's debt is rated 'BBB', the same as the issuer credit rating, since no significant elements of structural or
+contractual subordination risks are present in the capital structure, in our view.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Strong
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Exceptional (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 11
+
+Worthington Industries Inc.
+
+Table 4
+
+Reconciliation Of Worthington Industries Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended May 31, 2019-Worthington Industries Inc. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+831.2
+
+248.2
+
+144.8
+
+38.1
+
+359.4
+
+197.9
+
+(38.8)
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+749.3
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(38.8)
+
+--
+
+27.8
+
+--
+
+11.1
+
+2.2
+
+2.2
+
+(2.2)
+
+8.9
+
+9.7
+
+--
+
+0.8
+
+0.8
+
+1.0
+
+--
+
+--
+
+(92.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+11.7
+
+--
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+101.1
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+104.2
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+117.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+177.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(13.4)
+
+(13.4)
+
+--
+
+--
+
+--
+
+122.6
+
+117.1
+
+111.3
+
+93.8
+
+3.2
+
+(79.9)
+
+8.9
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+279.6
+
+206.7
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Debt: other
+EBITDA: gain/(loss) on
+disposals of PP&E
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+871.9
+
+948.4
+
+359.4
+
+238.5
+
+41.2
+
+Source: S&P Global Ratings. PP&E--Property, plant, and equipment.
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Metals And Mining Downstream Industry, Dec. 20,
+2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 12
+
+Worthington Industries Inc.
+
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Intermediate
+
+Significant
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 5, 2019)*
+Worthington Industries Inc.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+08-Apr-2010
+
+Foreign Currency
+
+18-Aug-2009
+
+BBB/Negative/--
+
+16-Apr-2009
+08-Apr-2010
+
+BBB/Stable/-BBB/Watch Neg/--
+
+Local Currency
+
+BBB/Stable/--
+
+18-Aug-2009
+
+BBB/Negative/--
+
+16-Apr-2009
+
+BBB/Watch Neg/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 14
+
+

@@ -1,0 +1,588 @@
+Mitel Networks (International) Ltd.
+Primary Credit Analyst:
+Silverius Miralles, Toronto + 1 (416) 507 2505; silverius.miralles@spglobal.com
+Secondary Contact:
+Aniki Saha-Yannopoulos, CFA, PhD, Toronto (1) 416-507-2579; aniki.saha-yannopoulos@spglobal.com
+Research Assistant:
+Ranita Saha, Pune
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Mitel Networks (International) Ltd.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Growing revenue base from more stable cloud and
+software solutions.
+
+High exposure to the declining on-premise segment.
+
+Modest free operating cash flow (FOCF) generation.
+
+Competition from telephony equipment providers, such as Cisco Systems Inc. and
+Microsoft Corp., which are much larger in scale.
+High financial risk tolerance from financial sponsor ownership.
+
+The company enjoys stable adjusted EBITDA margins from cost synergies and an increasing recurring revenue base.
+Mitel Networks (International) Ltd. (Mitel) increasing exposure to recurring cloud revenues reflects the growing
+importance of the company's cloud-based platform (about 25% as of the second-quarter 2019) and the benefits from
+the ShoreTel Inc. acquisition. The cloud business segment has a subscription-based model, and is expected to provide
+cash flow visibility and earnings stability in the long term. At the same time, S&P Global Ratings anticipates the
+company will realize cost synergies from the ShoreTel acquisition, which will be EBITDA accretive. Based on the
+above factors, we expect Mitel to maintain consistent adjusted EBITDA margins of 19%-22% over the next two years,
+which will support its debt-repaying capacity.
+Mitel operates in a highly competitive market. The company's product offerings are relatively undifferentiated, driven
+by its commodity-type solutions, thus leading to limited pricing power. Mitel competes with bigger players that have
+larger product suites and integrated services. Given the limited services that it offers and the small- and midmarket
+segment that it caters to, the company operates in a niche segment of the global business telephony market compared
+with bigger players such as like Cisco and Microsoft. In addition, with the technological evolution in the industry and
+continuing shift toward the cloud platform, we believe that Mitel will face further competitive pressure from both small
+and large players in the cloud business.
+Given high leverage and financial sponsor ownership, the company has limited financial flexibility as it transitions to a
+cloud-based business model. After the leveraged buyout (LBO) transaction by Searchlight Capital Partners (SCP) in
+2018, Mitel's leverage (adjusted debt-to-EBITDA) increased to about 7x from our previous expectation of 3.5x-4.0x,
+and we expect it to remain above 6x over the next 12 months. Given the company's higher debt burden, in our
+opinion, Mitel has limited financial flexibility to accommodate any operational underperformance at a time when it is
+transitioning its business model from on-premise (which contributes about two-thirds of EBITDA) to cloud services. At
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Mitel Networks (International) Ltd.
+
+the same time, we expect the company's ability to navigate through technological evolution in the underlying industry
+could be a key factor in determining the direction of our rating on Mitel.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Mitel's credit metrics will remain stable over the next 12 months, with
+adjusted debt-to-EBITDA at about 6.5x-7.0x, driven by the company's ability to achieve cost synergies and manage
+the transition to cloud-based offerings, which will support the company's EBITDA growth. At the same time, our
+rating also incorporates our view of the company's ability to generate positive FOCF, which is sufficient to cover
+Mitel's fixed charges over the next 12 months. In addition, we believe the company's financial sponsor ownership
+will determine Mitel's financial strategy, thereby keeping leverage measures above 5x.
+
+Downside scenario
+We could lower the rating in the next 12 months if Mitel's adjusted debt-to-EBITDA remains above 7x or adjusted
+FOCF-to-debt declines and stays below 3% without any prospects for improvement. This could result from a more
+competitive landscape, slower ramp up of the company's cloud-based service offering, or steeper-than-expected
+declines in Mitel's on-premise business that lead to lower-than-anticipated EBITDA generation. We could also
+lower our rating if it appears likely that the company will pursue an aggressive financial policy or draw on its
+revolver such that it does not have a covenant cushion of at least 15%.
+
+Upside scenario
+We are unlikely to raise our rating on Mitel over the next 12 months, based on our expectation that the company's
+adjusted debt-to-EBITDA will remain above 6x. Nevertheless, we could raise the rating if Mitel's adjusted
+debt-to-EBITDA falls below 5x and the company sustains FOCF-to-debt above 10%, spurred by substantial debt
+repayment from its internally generated cash flows or higher-than-anticipated EBITDA generation. At the same
+time, we would also expect the financial sponsor to demonstrate and commit to a conservative financial policy
+such that credit measures remain below 5x on a sustained basis.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Mitel Networks (International) Ltd.
+
+Assumptions
+
+Key Metrics
+
+• Low single-digit GDP growth in the U.S., Canada,
+and Europe over the next 12-24 months.
+• The communications industry expands in the low
+single-digit area with stronger growth potential from
+the cloud-based telephony business and a declining
+market in the on-premise segment over the next
+12-24 months.
+• A flat-to-low single-digit revenue decline in
+2019-2020, reflecting continuing declines in the
+on-premise segment, partially offset by growth in the
+cloud segment.
+
+2018A*
+
+2019E
+
+2020E
+
+Adjusted EBITDA margins
+
+11.5%
+
+19%-20%
+
+22%-23%
+
+Adjusted debt-to-EBITDA
+
+104.7x
+
+6.5x-7.0x
+
+5.5x-6.0x
+
+Adjusted FOCF-to-debt
+
+(3.9%) 5.0%-5.5% 8.0%-10%
+
+*Fiscal 2018 figures are on a five-month basis post the
+closing of the LBO transaction last year. However, on a
+pro forma basis, adjusted debt-to-EBITDA could be
+about 6.5x-7.0x. A--Actual. E--Estimated.
+
+• Realized annual net cost synergies of about US$60
+million-US$65 million in 2019 and incremental net
+synergies of US$20 million-US$25 million in 2020,
+spurred by additional cost synergies identified in
+2019 and lower restructuring costs.
+• Adjusted EBITDA margins of about 19%-22% in
+2019-2020, reflecting benefits from improved scale,
+an increased portion of recurring and cloud stream
+revenues, and cost synergies realization.
+• Capital expenditures of US$25 million-US$30 million
+in 2019-2020.
+• Cash is not netted against debt because the
+company is financial sponsor-owned.
+
+Base-case projections
+Slower EBITDA generation over the next 12 months reduces the company's pace of deleveraging. We have adjusted our
+previous expectations of flat-to-low single-digit revenue growth, and we now forecast that revenue will decline in the
+low single-digit area over the next 12 months, primarily due to the delay of a large customer (on-premise) contract
+implementation and tougher industry conditions for the on-premise segment. As a result, EBITDA growth is lower than
+anticipated, slowing the pace of deleveraging on the company's balance sheet by 0.2x-0.3x in 2019. We expect the
+company's deleveraging strategy to be driven by EBITDA growth rather than any material debt reduction over the
+next 12-24 months; as a result, we anticipate adjusted debt-to-EBITDA will be about 6.5x-7.0x over the next 12
+months.
+Free cash flow generation supports credit quality; however, financial sponsor ownership constrains the rating. We
+expect Mitel to generate positive FOCF of about US$50 million-US$60 million in 2019, increasing to about US$100
+million-US$120 million in 2020, reflecting low capital intensity and lower working capital cash outflow. In addition, in
+2020 we expect higher net cost synergies realization will accrete to higher EBITDA generation, supporting Mitel's
+higher FOCF generation. Therefore, we believe the near-term weaker EBITDA generation is partly offset by the
+successful realization of cost synergies, thus preserving the company's debt-repaying capacity. As a result, the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Mitel Networks (International) Ltd.
+
+company has sufficient cushion to cover its first-lien term loan debt amortization over the next 12-24 months.
+Nevertheless, we expect Mitel's financial sponsor ownership to weigh on the company's credit quality, driven by the
+sponsor's high financial risk tolerance. In addition, we believe that SCP might pursue policies that could weaken credit
+measures without reinvestment.
+
+Company Description
+Mitel provides cloud and on-site business communications and collaboration software, services, and solutions. A
+typical solution consists of a combination of Internet protocol (IP) phones, switches, software applications, and
+support. The company can deploy the solution on a customer's premises (a unified communication or "UC" solution),
+or deploy in a cloud environment and bill on a monthly basis (a unified-communication-as-a-service or "UCAAS"
+solution).
+
+Business Risk: Weak
+Mitel operates in a highly competitive and fragmented telephony business communications industry that is going
+through technological evolution with the delivery platform moving to the cloud and the revenue opportunity shifting to
+a software-as-a-service model. In our view, the 2017 acquisition of ShoreTel has improved the company's scale and
+increased Mitel's exposure to recurring and cloud revenues. We view this to be credit supportive because it has
+improved the company's competitive position by increasing Mitel's scale and adding more product capabilities on the
+cloud platform, allowing the company to compete with bigger and more integrated players, such as Microsoft and
+Cisco.
+We believe market conditions in the hardware-based IP telephony market remain difficult due to the increasing
+commoditization of certain communication products; and a shift toward software-based and hosted communication
+solutions that are attracting new competitors, including large pure-play software vendors such as Microsoft, as well as
+hosted communication service providers. These conditions, among others, have resulted in recent revenue declines at
+most communications solutions providers. However, increasing cloud penetration has partially offset the declines from
+the on-premise segment, thus supporting our view of low single-digit growth in the underlying industry.
+We expect Mitel to derive a higher proportion of revenues from cloud and software solutions (24% in 2018, up from
+19% in 2017), a growing market segment, which we view as credit positive. Furthermore, cloud-based solutions ensure
+high predictability of cash flows, driven by Mitel's contractual relationship with customers (contracts run for an
+average of three-to-five years) and strong customer retention rates above 95%. Nevertheless, we expect the
+on-premise segment (where revenues are expected to decline in the low-teens area annually) to contribute about
+two-thirds of the company's cash flows, which will continue to weigh on revenue growth in the near term. In our
+base-case assumptions, we expect the structural decline in Mitel's on-premise segment will be partially offset by the
+growth in the company's cloud segment. We expect the company to realize net cost synergies of about US$60
+million-US$65 million in 2019, and incremental net cost synergies of US$20 million-US$25 million in 2020, thus
+enhancing Mitel's adjusted EBITDA margins and cash flow generation, and improving the company's credit measures.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Mitel Networks (International) Ltd.
+
+Peer comparison
+The most comparable peer to Mitel is Avaya Holdings Corp., a direct competitor in the telephony space. We have
+assigned the same issuer credit rating (B/Stable/--) to both companies, supported by their operations in a highly
+competitive market, increasing share of cloud-based revenues, and similar level of leverage.
+Cisco (AA-/Stable/A-1+) and Microsoft (AAA/Stable/A-1+) have larger scale, better product diversity, strong brand
+recognition, and stronger credit measures, which support higher ratings.
+
+Financial Risk: Highly leveraged
+Our financial risk profile assessment reflects the high adjusted debt-to-EBITDA ratio and ownership by financial
+sponsor SCP. In our view, SCP has a high tolerance for financial risk and we believe it might pursue policies that could
+weaken Mitel's credit measures. As a result, Mitel could use part of its free cash flow for shareholder returns ahead of
+debt repayment, leading to leverage sustained over 5x. We believe the current capital structure post the LBO
+transaction imposes higher fixed charges on the company, while Mitel is in the midst of transitioning its business
+model to a cloud-based offering from on-premise. At the same time, rapid technology changes could impose higher
+risk on Mitel's growth aspirations, in part because customers evaluate digital transformation strategies to achieve a
+better integrated solution with customer relationship management systems, thus affecting the company's EBITDA
+generation. As a result, Mitel has limited financial flexibility to accommodate any operational underperformance.
+Nevertheless, we still expect the company to generate positive FOCF over the next 12 months, which we view to be
+sufficient to cover its first-lien debt amortization of about US$11.2 million annually.
+
+Liquidity: Adequate
+We assess the company's liquidity as adequate because we expect Mitel's sources of liquidity to cover uses by at least
+2x over the next 12 months. We also expect that sources would exceed uses even if EBITDA were to decline by 15%.
+In addition, other qualitative factors that support our liquidity assessment are Mitel's likely ability to absorb
+high-impact, low-probability events with limited need for refinancing; sound relationships with banks; and prudent risk
+management.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• A cash balance of about US$26 million as of the
+second-quarter 2019
+
+• Capital expenditures of US$25 million-US$30 million
+annually
+
+• Availability of about US$70 million on the
+company's revolving credit facility of US$100 million
+maturing in 2023
+
+• Working capital cash outflow of about US$5
+million-US$10 million
+
+• Funds from operations of about US$110
+million-US$120 million in the next 12 months
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+• Scheduled debt amortization on the first-lien debt of
+about US$11.2 million annually
+
+SEPTEMBER 11, 2019 6
+
+Mitel Networks (International) Ltd.
+
+Debt maturities
+Mitel's debt maturities are as follows:
+• About US$11.2 million annually from fiscal years 2019-2024
+• About US$1.3 billion thereafter
+
+Covenant Analysis
+Compliance expectations
+We believe Mitel will maintain at least a 15% EBITDA cushion on its financial covenants.
+
+Requirements
+The company's revolver has a springing maximum first-lien senior secured leverage ratio of 6.25x when the revolver
+utilization exceeds 35%. There are otherwise no financial maintenance covenants on the first- or second-lien term
+loans.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario incorporates the assumption that Mitel will default in 2022, reflecting intense
+competition and that technological evolution will lead to margin deterioration.
+• We assume that Mitel would be reorganized or be sold as a going concern as opposed to being liquidated because
+the company would likely retain greater value as an ongoing entity.
+• We believe that if the company were to default, there would remain a viable business model due to Mitel's large
+customer base, which will eventually transition to the cloud.
+• Our recovery analysis yields a net default enterprise value of US$667 million, based on a 5.5x multiple of US$127.6
+million of emergence EBITDA estimate and 5% administrative expenses.
+• We have used minimum capital expenditures of 0.5% as a percent of sales compared with the 2.0% default
+assumption, reflecting that, on the path to default, the company will require lower levels of maintenance capital
+expenditures.
+• The EBITDA multiple is 0.5x lower than the industry multiple of 6.0x, reflecting our view that the company has a
+niche focus on the small and midsize market of the business telephony industry.
+• We have used a negative 10% operational adjustment to reflect our view that the company would have a lower level
+of EBITDA on the path to default.
+• Due to this, the first-lien senior secured claims have a '3' recovery rating, indicating our expectation for meaningful
+(50%-70%; rounded estimate: 50%) recovery in the event of a default, leading to an issue-level rating of 'B'.
+• After servicing the first-lien senior secured claims, there would be no value available to be distributed to the
+second-lien senior secured claims. Therefore, the second-lien senior secured claims has a '6' recovery rating,
+indicating our expectation of negligible (0%-10%; rounded estimate: 0%) recovery in the event of default, resulting
+in an issue-level rating of 'CCC+'.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+Mitel Networks (International) Ltd.
+
+Simulated default assumptions
+• Simulated year of default: 2022
+• EBITDA at emergence: US$127.6 million
+• EBITDA multiple: 5.5x
+• Gross recovery value: US$702 million
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): US$667 million
+• Valuation split in % (obligors/non-obligors): 100/0
+• Value available to first-lien debt claims (obligor/non-obligor): US$667 million
+• Secured first-lien debt claims: US$1.21 billion
+• --Recovery expectations: 50%-70% (rounded estimate: 50%)
+• Value available to second-lien secured claims : 0
+• Total second-lien secured claims: US$274.6 million
+• --Recovery expectations: 0%-10% (rounded estimate: 0%)
+All debt amounts include six months of prepetition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Mitel Networks (International) Ltd.
+
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Hardware And Semiconductors Industry,
+Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, July 1, 2019
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 11, 2019)*
+Mitel Networks (International) Ltd
+Issuer Credit Rating
+
+B/Stable/--
+
+Issuer Credit Ratings History
+25-Jun-2018
+
+B/Stable/--
+
+Related Entities
+MLN US HoldCo LLC
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+Mitel Networks (International) Ltd.
+
+Ratings Detail (As Of September 11, 2019)*(cont.)
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 11
+
+

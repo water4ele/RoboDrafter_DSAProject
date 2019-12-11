@@ -1,0 +1,542 @@
+SK HoldCo LLC
+Primary Credit Analyst:
+David Binns, CFA, New York (1) 212-438-3604; david.binns@spglobal.com
+Secondary Contact:
+Nishit K Madlani, New York (1) 212-438-4070; nishit.madlani@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings--Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+SK HoldCo LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Negative/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Favorable relationships with leading insurers, requiring strong operating
+metrics.
+
+Narrow scope, scale, and diversity of operations, which focus on the
+highly fragmented U.S. collision repair industry.
+
+Historically, modest but consistent free cash flow (FCF) generation.
+However, recent operating issues have reduced FCF.
+
+High labor turnover and weaker operating metrics have weakened
+same store sales and margins.
+Excessive debt leverage and aggressive acquisition strategy given the
+company's ownership by a financial sponsor.
+
+EBITDA margins could remain under pressure in 2019 because of higher costs to implement a new IT system, worsening
+parts margins, and higher carrier discounts, before improving in 2020. In the first half of 2019, gross margins were
+lower partly because the company faced higher prices on parts from a new vendor. In addition, the company also
+faced higher carrier discounts due to poor performance as the insurance companies are looking to cut costs and have
+moved to performance-based pricing. In response to these issues, the company is implementing a new IT system and
+centralizing estimates to improve cost-of-repair estimates. The cost to implement this system along with the
+headwinds mentioned above will keep EBITDA margins low in 2019. As the new system is implemented in a majority
+of shops by end of 2019, it will help provide better estimates and drive more repair versus replace work, which should
+improve margins. Additionally, we expect organic revenue growth to improve and one-time costs to decline leading to
+better margins from 2020.
+High labor turnover at many of its stores continues to reduce both same-store sales and margins. High turnover has led
+to less experienced technicians in the repair shops. This in turn has led to lower efficiency at the stores, which causes a
+lower ranking in the algorithms that the insurance companies use to recommend a given store. Due to the lower
+ranking, these underperforming stores get less business, which reduces same-store sales and margins. This is a vicious
+cycle that management must break though their initiatives. Given recent results, we expect these problems to continue
+through 2019 and the first half of 2020.
+The company's aggressive acquisition strategy to gain scale in a fragmented market has not yet proven itself.The
+company was focused on finding new targets to acquire, but it failed to address labor issues and maintain strong KPIs
+needed to keep business with the insurance carriers. SK has not maintained margins, which has led to increased
+leverage with forecasted debt to EBITDA of more than 10x in 2019. While the company has significantly reduced the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+SK HoldCo LLC
+
+pace of acquisitions, the high leverage used to quickly grow market share has left little room for operating errors. This
+shows the risk involved when using a rapid debt-financed acquisition strategy.
+
+Outlook: Negative
+
+S&P Global Ratings' negative outlook on SK HoldCo LLC reflects what we see as a higher risk that same-store sales
+will remain weak and margins will stay below expectations, which could cause negative cash flow for multiple
+quarters, hurting liquidity.
+
+Downside scenario
+We could lower our rating on SK in the next 12 months if organic growth is unlikely to return to at least 2% and
+margins do not improve from current levels. This could occur if underperformance in a number of its stores
+persists, weakening insurer relationships. We could also consider downgrading the company if it is unable to
+consistently generate positive free operating cash flow (FOCF) to debt of about 2% for multiple quarters, hurting its
+liquidity, or if we feel the company cannot continue to employ an aggressive acquisition strategy without causing
+its margins to decline (indicating an unsustainable capital structure).
+
+Upside scenario
+We could revise the outlook to stable if same-store sales growth returns to a meaningfully positive level, margins
+improve toward historically higher levels (12%-13%), and the company sustainably generates FOCF to debt of at
+least 2%-3%. This could occur if the company improves its operations and reduces costs while successfully
+integrating its acquired shops and addressing inflated labor costs.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+SK HoldCo LLC
+
+Assumptions
+
+• The number of miles driven in the U.S. will continue
+to increase slowly in conjunction with GDP, and the
+amount of vehicles in service in the U.S. will remain
+robust at more than 270 million.
+• U.S. GDP growth slows down this year to 2.5% from
+2.9% in 2018, and weakens further to 1.8% in 2020.
+We estimate a 30%-35% risk of recession within the
+next 12 months.
+
+Key Metrics
+
+2018A
+EBITDA margin (%)
+
+2019E
+
+2020E
+
+2021E
+
+11.2 10.0-10.5 10.8-11.3 11.0-11.5
+
+Debt to EBITDA (x)
+
+9.7 10.0-10.5
+
+8.8-9.3
+
+8.2-8.7
+
+FOCF/Debt (%)
+
+8.4
+
+1.0-3.0
+
+2.0-4.0
+
+2.0-5.0
+
+A--Actual. E--Estimate. F--Forecast.
+
+• Revenues grow by 4.0% in 2019 mainly due to 2.5%
+organic growth and addition of stores through
+combination of acquisitions and greenfields. For
+2020 and 2021, we expect higher revenue growth of
+6%-7% as we believe company will be able to grow
+3%-4% organically from a combination of higher
+market share and inflation in repair costs as well as
+increase the pace of its acquisitions and greenfield
+stores.
+• Lower EBITDA margins at 10.2% in 2019 (compared
+with 11.2% in 2018) because of lower carrier
+discounts and worse parts margins and then
+improve to 11.0% in 2020 as the company improves
+its shop utilization and increase its repair versus
+replace work.
+• Capital expenditures (capex) will average 2% of
+revenues over the next two years, a combination of
+maintenance capex and investment in building new
+shops.
+• The company acquires only two stores in 2019 and
+about five stores per year in 2020 and 2021 at an
+estimated cost of $13.0 million-$16.0 million.
+• No dividend payments to its financial sponsor
+through 2021.
+
+Base-case projections
+• We expect SK HoldCo's debt/EBITDA will weaken in 2019 due to low EBITDA margins. Going forward, with
+improvement in EBITDA, we expect debt/EBITDA will strengthen modestly.
+• We expect FOCF/debt will remain below 5.0% despite $30 million benefit from Axalta's prepayment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+SK HoldCo LLC
+
+Company Description
+SK operates light-vehicle collision-repair shops in the U.S. The company has 344 repair centers offering auto-body
+repair, paint and refinishing, and glass repair and replacement. SK has grown through acquisitions, and the majority of
+its revenue comes from insurance companies, which generally pay for the vehicle repairs.
+
+Business Risk: Weak
+SK continues to face operating issues that have caused margin erosion and weak same-store sales. The source of these
+issues is a combination of high labor turnover, lower parts margins, and increasingly stringent operating metrics
+required by the insurance industry. As a larger and centrally managed company, SK should be able to provide superior
+service with strong operating metrics that will accrue more business from insurance carriers. However, in our view,
+aggressive growth in recent years has led to less efficient operations. While the new management team is addressing
+these issues, the success of these efforts will likely take more time.
+The collision repair industry remains quite fragmented and though SK is a larger player, it does not have such scale
+that it has strong bargaining power compared to its customers, the major insurance companies. We also believe the
+company has a narrow scope of operations, limited scale, and lack of diversity since it operates in a limited number of
+markets in the U.S. and does only collision repair.
+Overall, we believe the fundamentals of the collision repair industry remain favorable. Steady increases in vehicle miles
+traveled and a rise in the complexity of cars is leading to a higher amount of auto insurance claims. However, we will
+continue to monitor the number of total losses as a percentage of claims. Insurance companies may find it cheaper to
+pay for a new car or part rather than repair the old one.
+
+Financial Risk: Highly leveraged
+We believe SK's financial policies will remain aggressive given its concentrated ownership by financial sponsors, The
+BlackStone Group and The Carlyle Group, which will likely preclude any significant debt reduction. The sponsors have
+used a very aggressive amount of debt to grow the business. Now that the company faces operating issues, its credit
+metrics will likely remain quite stressed over the next 12 months, even as the company reduces expansion capital.
+We expect SK's debt to EBITDA will be 9.0x–11x and FOCF to total debt will be only 1%-4% for 2019 and 2020. We
+expect a more disciplined approach toward acquisitions and capital spending, along with prudent working capital
+management, will support a small amount of free cash flow in 2019-2021.
+
+Liquidity: Adequate
+We assess SK's liquidity as adequate, a key supporting factor for our rating. Our assessment incorporates the following
+expectations and assumptions:
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+SK HoldCo LLC
+
+• The company's liquidity sources, including cash and revolving credit facility availability, will be at least 1.2x its uses
+over the next 12-18 months.
+• The company's net liquidity sources will remain positive even if its EBITDA declines by more than 15%.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Availability of $92.2 million under the $100 million
+revolving credit facility and $133.2 million of cash
+and cash equivalents as of June 30, 2019.
+
+• Capex of about $25.0 million-$30.0 million in 2019
+and 2020.
+
+• Funds from operations of $10 million-$15 million in
+2019.
+
+• Our assumption of no dividend payments to the
+financial sponsors during 2019 or 2020.
+
+Covenant Analysis
+The senior secured facilities contain a springing maximum first-lien net leverage of 7.2x, tested at the end of any
+quarter during which the amounts drawn exceed 30% of facility size. As of June 30, 2019, the company was in
+compliance with its first-lien net leverage ratio. We do not expect the company to trigger the covenant in the next 12
+months.
+
+Environmental, Social, And Governance
+
+The automotive industry is subject to increasingly stringent regulation of greenhouse gas emissions. For SK,
+environmental risks are less critical than they are for OEMs or powertrain-focused Tier 1 suppliers.
+Social factors do not play a major role but the company has had issues with high labor turnover, which has had a
+negative impact on margins. This is due to a highly competitive labor market and a lack of repair work at certain
+shops rather than a major dispute between the company and technicians.
+Governance risks have declined as the company has pulled back on its aggressive acquisition strategy.
+
+Issue Ratings--Recovery Analysis
+• The issue-level ratings on SK's senior secured debt senior unsecured notes remain 'B' and 'CCC'.
+• We valued the company on a going concern basis using a 5.5x multiple of our emergence EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+SK HoldCo LLC
+
+Key analytical factors
+• Our simulated default scenario assumes a payment default in 2021 due to a combination of operational missteps
+that weaken SK's relationships with its key insurance companies.
+• Our scenario also assumes the company experiences increased pressure from insurance companies to reduce the
+price of its aftermarket and replacement parts while new technologies significantly reduce the number of serious
+collisions.
+
+Simulated default assumptions
+• Year of default: 2021
+• EBITDA at emergence: $96 million
+• Emergence multiple: 5.5x
+• Jurisdiction: U.S.
+
+Simplified waterfall
+• Gross enterprise value: $530 million
+• Administrative expenses: $27 million
+• Net enterprise value: $503 million
+• Priority claims: $0
+• Secured first-lien debt claims: $681 million
+• --Recovery expectations: 70%-90% (rounded estimate: 70%)
+• Unsecured second-lien debt claims: $419 million
+• --Recovery expectations: 0%-10% (rounded estimate: 0%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Negative/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+SK HoldCo LLC
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+SK HoldCo LLC
+
+Ratings Detail (As Of September 16, 2019)*
+SK HoldCo LLC
+Issuer Credit Rating
+
+B-/Negative/--
+
+Issuer Credit Ratings History
+22-Nov-2017
+
+B-/Negative/--
+
+11-Aug-2016
+
+B-/Stable/--
+
+09-Sep-2014
+
+B/Stable/--
+
+Related Entities
+Midas Intermediate Holdco II Finance Inc.
+Senior Unsecured
+
+CCC
+
+Midas Intermediate Holdco II LLC
+Senior Secured
+
+B
+
+Senior Unsecured
+
+CCC
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+

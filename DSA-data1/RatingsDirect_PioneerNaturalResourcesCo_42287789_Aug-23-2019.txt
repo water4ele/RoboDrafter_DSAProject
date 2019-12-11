@@ -1,0 +1,1148 @@
+Pioneer Natural Resources Co.
+Primary Credit Analyst:
+Christine Besset, Farmers Branch + 1 (214) 765 5865; christine.besset@spglobal.com
+Secondary Contact:
+Carin Dehne-Kiley, CFA, New York (1) 212-438-1092; carin.dehne-kiley@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 2
+
+Pioneer Natural Resources Co.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+High proportion of crude oil and natural gas liquids (NGLs) in the company's
+reserves and production mix, which we view favorably relative to natural gas due to
+our commodity price expectations.
+
+Participation in the volatile and capital-intensive oil and gas
+exploration and production (E&P) industry.
+
+Large acreage position in the liquids-rich Permian Basin that supports production
+and reserve growth.
+
+Concentration of reserves in a single basin.
+
+Strong credit metrics, with funds from operations (FFO) to debt expected to remain
+well in excess of 100% under our production, cost, and price assumptions.
+
+Smaller reserve and production base relative to 'BBB' rated
+peers.
+
+Positive free cash flow, despite high capital spending.
+
+Increased focus on shareholder returns might signal a shift
+in management’s historically conservative financial policy.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 3
+
+Pioneer Natural Resources Co.
+
+Outlook: Stable
+
+The stable outlook on Pioneer Natural Resources Co. reflects S&P Global Ratings' view that the company will
+continue to expand production and reserves through drilling its Permian acreage, while maintaining funds from
+operation (FFO) to debt well above 60% and debt to EBITDA well below 1x over the next three years. Under our
+price assumptions, we forecast Pioneer to post double-digit annual production growth over the next three years.
+We also expect the company to generate positive free cash flow, despite annual capital spending of about $3
+billion.
+
+Downside scenario
+We could lower the issuer credit rating if Pioneer's FFO to debt approaches 45% without a clear path to
+improvement. This could occur if the company makes a significant debt-financed acquisition that doesn't add to
+near-term cash flow, or if commodity prices fall below our price deck assumptions and the company doesn't rein in
+its capital spending.
+
+Upside scenario
+We could consider an upgrade if the company increases its reserves and production base to levels more in line
+with that of its higher rated peers or broadens its geographic diversity, while maintaining solid credit measures.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 4
+
+Pioneer Natural Resources Co.
+
+Assumptions
+
+• S&P Global Ratings' price assumptions for West
+Texas Intermediate (WTI) crude oil of $55 per barrel
+(bbl) for the remainder of 2019 and thereafter;
+• Our price assumptions for Henry Hub natural gas of
+$2.25 per million British thermal units (mmBtu) for
+the remainder of 2019, $2.50/mmBtu in 2020,
+$2.75/mmBtu in 2021, and $3.00/mmBtu thereafter;
+• We assume Pioneer's natural gas liquids (NGLs)
+price at around 45% of WTI in 2019 and thereafter;
+• We assume negative differentials of $2.00 per barrel
+for oil compared to WTI and 65 cents per mmBtu
+for natural gas relative to Henry Hub. Pioneer
+benefits from firm transportation contracts out of the
+Permian basin for most of its production;
+
+Key Metrics
+
+2018A
+Debt/EBITDA*
+
+2019E
+
+2020E
+
+0.5x
+
+0.7x
+
+0.7x
+
+FFO/debt*
+
+180%
+
+135%
+
+135%
+
+FOCF/debt*
+
+(11)% 15-20% 15%-20%
+
+*Year-end 2018 debt includes $502 million of
+adjustments for operating leases and asset retirement
+obligations. Debt is also net of about $1.4 billion of
+surplus cash. FFO—Funds from operations.
+FOCF—Free operating cash flow. A—Actual.
+E—Estimate.
+
+• Daily production of about 328,000 barrels of oil
+equivalent in 2019 and 360,000 barrels of oil
+equivalent in 2020;
+• Oil and NGLs will account for about 84% of
+Pioneer's production in 2019 and thereafter; and
+• Capital spending of roughly $3.2 billion in 2019 and
+$3.3 billion in 2020.
+
+Base-case projections
+We model $750 million of share buybacks in 2019 and $300 million in 2020. This represents about $1.2 billion of share
+buybacks under the current $2 billion program. We believe this amount is appropriate under our current price
+assumptions, but that the company could dial up or down depending on market conditions or changes in financial
+policy.
+We do not incorporate potential asset sales or acquisitions in our projections.
+
+Company Description
+Pioneer Natural Resources is a midsize U.S.-based independent oil and gas E&P company, with all of its assets located
+in the Permian Basin of West Texas. At year-end 2018, the company had 1,049 million barrels of oil equivalent (boe) of
+proved reserves, 77% of which constituted oil and liquids, and 92% of which were classified as proved developed.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 5
+
+Pioneer Natural Resources Co.
+
+Chart 1
+
+Chart 2
+
+Business Risk: Satisfactory
+Pioneer's business risk profile reflects its participation in the cyclical oil and gas exploration and production (E&P)
+industry, its midsize proved reserve base, solid production growth profile, and concentration in the oil-rich Permian
+Basin. As of Dec. 31, 2018, Pioneer had a proved reserve base of 1,049 million barrels of oil equivalent (boe),
+comprised of 77% oil and NGLs and about 92% proved developed reserves. Pioneer had daily production of about
+320,000 boe/d (approximately 79% oil and NGLs) for the year ended 2018. Both metrics place Pioneer at the lower
+end of the peer group of 'BBB' rated U.S. independent E&P companies. However, we expect Pioneer to continue to
+post annual reserve and production growth rates in the mid- to high-teens under our current commodity price
+assumptions. In addition, Pioneer has a relatively long 11-year reserve life compared with U.S. shale peers, which
+provides some flexibility to adjust spending levels should crude oil prices weaken.
+Pioneer's reserves are concentrated in the Spraberry/Wolfcamp formations in the Permian Basin of West Texas (88%
+of proved reserves as of year-end 2018). The company has a deep drilling inventory in this prolific basin that provides
+production growth visibility for the next 10 years, even at current spending levels. Pioneer holds more than 760,000
+gross acres in the Midland Basin (one of the two main producing areas of the Permian Basin along the Delaware
+Basin). Due to the high rates of returns in this basin in the current commodity price environment, Pioneer will
+accelerate its Permian development plan and run on average 21 to 23 rigs there in 2019. We expect total capital
+spending to increase to $3.2 billion in 2019 and oil production to increase by 10% to 15% annually over the next three
+years. As Pioneer continues to allocate most of its capital to drilling the Wolfcamp/Spraberry formations, we expect
+crude oil and NGLs to constitute 80% to 85% of total production in 2019 and 2020 (up from about 70% in 2015).
+Nevertheless, the geographic concentration of Pioneer's reserve base in the Permian Basin results in heightened
+exposure to potentially wide negative price differentials, throughput constraints, and other negative operational and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 6
+
+Pioneer Natural Resources Co.
+
+regulatory factors that could be mitigated by having additional assets outside the region. To reduce its exposure to
+basin differentials and takeaway constraints, the company has entered into firm pipeline commitments to deliver the
+majority of its oil production to Gulf Coast refineries and export markets, and most of of its gas production to the
+Southern California market or the Gulf Coast.
+We view the company's operating cost structure as competitive with that of its peer group in the Permian. The
+company's cash costs (lease operating, production taxes, and cash general and administrative expenses) were in line
+with its peer average at about $12.30 per boe in 2018. We expect costs to decrease as Pioneer is currently
+implementing a cost savings program intended to cut general and administrative (G&A) costs by $100 million annually.
+Pioneer's profitability should be supported by economies of scale as the company continues to grow.
+
+Peer comparison
+Table 1
+
+Pioneer Natural Resources Co.--Peer Comparison
+Industry Sector: Oil & Gas Exploration & Production
+Pioneer Natural Resources
+Co.
+
+Apache Corp.
+
+Noble Energy Inc.
+
+Anadarko Petroleum Corp.
+
+BBB/Stable/--
+
+BBB/Stable/A-2
+
+BBB/Stable/A-2
+
+BBB/Watch Pos/A-2
+
+Ratings as of July 30, 2019
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+8,905.0
+
+7,298.0
+
+4,622.0
+
+12,525.0
+
+EBITDA
+
+3,485.5
+
+5,051.5
+
+3,874.5
+
+8,018.5
+
+Funds from operations (FFO)
+
+3,218.8
+
+3,436.7
+
+3,208.0
+
+6,397.9
+
+Interest expense
+
+188.7
+
+570.8
+
+410.5
+
+1,210.6
+
+Cash interest paid
+
+181.7
+
+458.8
+
+365.5
+
+1,110.6
+
+Cash flow from operations
+
+3,323.8
+
+3,777.7
+
+2,308.0
+
+6,164.9
+
+Capital expenditure
+
+3,514.0
+
+3,860.0
+
+3,206.0
+
+6,102.0
+
+Free operating cash flow
+(FOCF)
+
+(190.2)
+
+(82.3)
+
+(898.0)
+
+62.9
+
+Discretionary cash flow (DCF)
+
+(424.2)
+
+(1,114.3)
+
+(1,401.0)
+
+(3,692.1)
+
+Cash and short-term
+investments
+
+1,440.0
+
+714.0
+
+716.0
+
+1,295.0
+
+Debt
+
+1,782.3
+
+9,205.4
+
+7,182.7
+
+19,749.4
+
+12,111.0
+
+8,812.0
+
+10,484.0
+
+10,943.0
+
+EBITDA margin (%)
+
+39.1
+
+69.2
+
+83.8
+
+64.0
+
+Return on capital (%)
+
+12.3
+
+12.2
+
+11.7
+
+9.1
+
+EBITDA interest coverage (x)
+
+18.5
+
+8.9
+
+9.4
+
+6.6
+
+FFO cash interest coverage (x)
+
+18.7
+
+8.5
+
+9.8
+
+6.8
+
+0.5
+
+1.8
+
+1.9
+
+2.5
+
+FFO/debt (%)
+
+180.6
+
+37.3
+
+44.7
+
+32.4
+
+Cash flow from operations/debt
+(%)
+
+186.5
+
+41.0
+
+32.1
+
+31.2
+
+FOCF/debt (%)
+
+(10.7)
+
+(0.9)
+
+(12.5)
+
+0.3
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 7
+
+Pioneer Natural Resources Co.
+
+Table 1
+
+Pioneer Natural Resources Co.--Peer Comparison (cont.)
+Industry Sector: Oil & Gas Exploration & Production
+Pioneer Natural Resources
+Co.
+
+Apache Corp.
+
+Noble Energy Inc.
+
+Anadarko Petroleum Corp.
+
+(23.8)
+
+(12.1)
+
+(19.5)
+
+(18.7)
+
+DCF/debt (%)
+Source: S&P Global Ratings.
+
+All 'BBB' rated U.S.-based E&P peers boast a larger reserve base and a higher degree of asset diversification relative to
+Pioneer. However, the company benefits from greater oil content in reserves, higher percentage of proved developed
+reserves, and stronger credit metrics.
+
+Financial Risk: Modest
+Our assessment of Pioneer's financial risk reflects our expectation that credit metrics will remain strong over the next
+three years. We expect the company's credit measures to remain appropriate for the current rating with FFO to debt
+above 100% and debt to EBITDA below 1.0x through 2021. Although the company has historically outspent its cash
+flows to fund its growth objectives, it has issued equity and sold noncore assets to fund the deficit. Moreover, we
+expect free cash flow before returns to shareholders to be positive in 2019 and 2020 based on our current commodity
+prices and capital spending assumptions. Under our production, price, and cost assumptions, the company will
+generate FFO of about $3.4 billion to $3.6 billion in 2019 and 2020, and will have annual capital spending of $3.2
+billion to $3.3 billion. We expect cash flow generation to be susceptible to changes in commodity prices though, as
+only 30% to 35% of expected oil production for the remainder of 2019 and 2020 is hedged. We believe Pioneer will
+maintain these conservative financial policies, despite an increased focus on shareholder returns. We forecast the
+company to distribute about $250 million of dividends annually, up from $55 million in 2018, and to make sizable share
+buy backs in 2019 and 2020 under our production and price assumptions.
+
+Liquidity: Strong
+We assess Pioneer's liquidity as strong. We expect the company's liquidity sources will cover uses by at least 1.5x for
+the next 12 to 18 months and that sources would exceed uses even if our projected EBITDA declined by 30%. The
+company has a solid relationship with banks, a generally high standing in the credit markets, and prudent risk
+management policies.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 8
+
+Pioneer Natural Resources Co.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and short-term investments of approximately
+$643 million as of June 30, 2019;
+
+• We assume capital spending of $3.2 to $3.3 billion
+annually; and
+
+• Full availability under its $1.5 billion revolving credit
+facility due 2023; and
+
+• Debt maturity of $450 million in January 2020.
+
+• FFO of about $3.3 billion in 2019 and $3.6 billion in
+2020.
+
+Debt maturities
+As of June 30, 2019:
+• 2020: $450 million
+• 2021: $500 million
+• 2022: $600 million
+• 2026-2028: $750 million
+
+Covenant Analysis
+Pioneer's revolving credit facility requires the maintenance of a total debt to book capitalization ratio, subject to certain
+adjustments, of no more than 0.65 to 1.0. We expect the company to comfortably meet this requirement over the next
+couple of years.
+
+Other Credit Considerations
+We apply a downward adjustment of one notch for comparable rating analysis due to Pioneer's smaller size and scale
+relative to its 'BBB+' rated peers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 9
+
+Pioneer Natural Resources Co.
+
+Environmental, Social, And Governance
+
+We view Pioneer's exposure to environmental and social risks as moderate given its operations in Texas, a state
+that generally has a supportive political climate for E&P companies. The financial impact, however, of a localized
+environmental incident, tighter regulation, or community opposition to drilling or fracking could hinder Pioneer's
+ability to develop and replace reserves given its asset concentration. We note that the company has shut down its
+sand mining operations and sold its hydraulic fracturing business, and that we do not expect ongoing litigation in
+connection to silica-related health issues arising from these historical operations to have a material impact on the
+company. Finally, Pioneer has a good safety track record and no history of significant environmental accidents.
+We view Pioneer's management and governance as satisfactory, reflecting a sound operational history, which is
+instrumental in preventing environmental damage from its wells and infrastructure.
+
+Issue Ratings - Subordination Risk Analysis
+Because Pioneer has low leverage and a modest financial risk profile, we believe the possibility of any lenders being
+significantly disadvantaged relative to other lenders is low.
+
+Capital structure
+Pioneer's capital structure consists of its $1.5 billion revolving credit facility and about $2.3 billion of senior unsecured
+debt at year-end 2018. The credit facility and all senior debt are unsecured and rank equally in right of payment.
+
+Analytical conclusions
+Based on the existing debt structure, we rate the senior unsecured notes 'BBB', in line with the issuer credit rating.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Pioneer Natural Resources Co. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Pioneer Natural Resources Co. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+Debt
+
+Revenue
+
+EBITDA
+
+Operating
+income
+
+2,284.0
+
+9,379.0
+
+3,645.0
+
+1,585.0
+
+126.0
+
+3,485.5
+
+3,242.0
+
+3,520.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(133.0)
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 10
+
+Pioneer Natural Resources Co.
+
+Table 3
+
+Reconciliation Of Pioneer Natural Resources Co. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $) (cont.)
+Operating leases
+
+793.8
+
+--
+
+130.5
+
+42.7
+
+42.7
+
+(42.7)
+
+87.8
+
+--
+
+(1,440.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+6.0
+
+(6.0)
+
+(6.0)
+
+(6.0)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+85.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+144.6
+
+--
+
+14.0
+
+14.0
+
+14.0
+
+--
+
+--
+
+--
+
+Exploration costs
+
+--
+
+--
+
+85.0
+
+--
+
+--
+
+(85.0)
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+(35.0)
+
+--
+
+--
+
+--
+
+--
+
+Revenue: Other
+
+--
+
+(474.0)
+
+(474.0)
+
+(474.0)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+526.0
+
+--
+
+--
+
+--
+
+--
+
+(501.7)
+
+(474.0)
+
+(159.5)
+
+73.7
+
+62.7
+
+(266.7)
+
+81.8
+
+(6.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+3,218.8
+
+3,323.8
+
+3,514.0
+
+Accessible cash and
+liquid investments
+
+Asset retirement
+obligations
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,782.3
+
+8,905.0
+
+3,485.5
+
+1,658.7
+
+188.7
+
+Source: S&P Global Ratings.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 11
+
+Pioneer Natural Resources Co.
+
+• Liquidity: Strong
+• Management and governance: Satisfactory
+• Comparable rating analysis: Negative
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Oil And Gas Exploration And Production Industry,
+Dec. 12, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology For Crude Oil And Natural Gas Price Assumptions For Corporates And Sovereigns,
+Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of August 21, 2019)*
+Pioneer Natural Resources Co.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+20-Mar-2017
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BBB/Stable/--
+
+AUGUST 21, 2019 12
+
+Pioneer Natural Resources Co.
+
+Ratings Detail (As Of August 21, 2019)*(cont.)
+11-Nov-2011
+
+BBB-/Stable/--
+
+30-Mar-2010
+
+BB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 14
+
+

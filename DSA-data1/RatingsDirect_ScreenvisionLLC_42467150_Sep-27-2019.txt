@@ -1,0 +1,551 @@
+Screenvision, LLC
+Primary Credit Analyst:
+Scott E Zari, CFA, Chicago + 1 (312) 233 7079; scott.zari@spglobal.com
+Secondary Contact:
+Rose Oberman, CFA, New York 212-438-0354; rose.oberman@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 1
+
+Screenvision, LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Long-term contracts with its exhibitor
+partners.
+
+Reserved seating could lead to viewers taking their seats closer to show time, reducing the value
+of earlier ad slots.
+Revenue is exposed to the cyclicality of national advertising and volatile theater attendance.
+Risk of leveraging transactions given limited track record with its current financial sponsor
+ownership.
+
+Screenvision's financial policy will be driven by its financial sponsor ownership.
+Leverage is roughly 3.5x as of June 30, 2019, pro forma for a $20 million debt repayment executed on Sept. 10, 2019,
+which we view as moderately high for a company of small scale with a niche business and a history of volatility in
+financial performance and profitability. Additionally, the company has a limited track record in terms of financial
+policy since Abry acquired a majority stake in June 2018. We believe there is a risk of re-leveraging to pursue
+shareholder returns that is typical of a private equity strategy.
+
+Screenvision has contractual agreements with 8 of the top 10 exhibitors and 13 of the top 20.
+These contracts are exclusive (except for its agreement with AMC Entertainment Inc.) and provide significant barriers
+to entry for new entrants. However, the switching costs at expiration are relatively low, placing an emphasis on the
+company's ability to successfully renegotiate these contracts. The average remaining term of its exhibitor network is
+eight years, a number skewed by its agreement with Carmike Cinemas Inc. (acquired by AMC) that runs through 2043.
+We believe that the company's ongoing need to renegotiate these agreements create significant event risks, which may
+be accompanied by negative working capital associated with large bonus payments to the exhibitors.
+
+Changes in consumer behavior at the theater could reduce Screenvision's value to advertisers.
+Theater advertising isn't exposed to the ad-skipping technology that hurts TV ad-viewing. However, changes in
+theaters' operating strategies, such as reserved seating and placing bars in the theater lobby, may lead to customers
+taking their seats closer to the published show time, which could reduce the number of viewers in their seats when
+pre-show advertising is displayed. While there has not yet been a significant decline in pre-show ratings, this shift
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 2
+
+Screenvision, LLC
+
+could potentially affect Screenvision's performance because national advertisers pay the company based on a CPM
+advertising pricing metric. In some cases, Screenvision has negotiated the rights to place advertising after the
+scheduled show time, which is less likely to be affected by reserved seating and can be sold at a premium CPM.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that leverage will decline to the mid-3x area over the
+next 12 months due to a one-time pre-payment of its term loan and revenue growth in the low- to mid-single-digit
+percentage area. However, we believe that risks associated with the loss of key customers over the next two years,
+or shareholder-rewarding initiatives, could lead to leverage increasing above our forecast.
+
+Downside scenario
+We could lower the rating if the company's operating performance deteriorates due to the loss of key customers, or
+if CPMs and utilization rates decline due to structural changes in theater operations, reducing the attractiveness of
+in-theater advertising. This scenario would likely result in leverage increasing to the mid-5x area or above on a
+sustained basis and free operating cash flow (FOCF) to debt declining below 5%. We could also lower the rating if
+debt-financed shareholder rewarding initiatives lead to the same deterioration in credit metrics.
+
+Upside scenario
+While unlikely at this time, we could raise the rating if we believe the company will maintain leverage well below
+4x, with minimal re-leveraging risks. This would likely require the company establishing a track record of
+prioritizing deleveraging over shareholder-rewarding initiatives and committing to maintaining leverage at a lower
+level.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 3
+
+Screenvision, LLC
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.3% in 2019 and 1.7% in 2020.
+• Total revenue increases 4%-6% in 2019 due to
+increased national advertising revenue related to a
+strong second-half box office. We expect revenue
+growth will slow to 1%-3% in 2020 due to a weaker
+film slate and continued weakness in local
+advertising offsetting growth in average CPMs due
+to the revenue mix shifting more toward late
+pre-show inventory, improved utilization, and an
+increase in the amount of screens in its network.
+
+2018A
+EBITDA margin (%)
+
+2019E
+
+2020E
+
+18.6 18.8-19.0 18.7-18.9
+
+Debt/EBITDA (x)
+
+4.3
+
+3.4-3.6
+
+3.3-3.5
+
+FOCF/debt (%)
+
+5.2
+
+9-10
+
+10.5-11
+
+A--Actual. E—Estimate. FOCF—Free operating cash
+flow.
+
+• Total costs will increase less than revenue in 2019 as
+theater commissions paid as minimum guarantees
+based on attendance will be flat as we expect strong
+attendance over the second half of the year to result
+in total 2019 attendance in-line with 2018.
+Commissions paid on a revenue share basis will
+increase in-line with revenue and there will be
+inflationary increases in fixed costs. We expect costs
+to grow roughly in-line with revenue in 2020 as
+marginally lower guarantee payments are offset by
+growth in fixed costs.
+• EBITDA margin will improve by 20 to 40 basis
+points (bps) in 2019 due to improved fixed-cost
+leverage and will be flat to down 10 bps in 2020.
+• The company made a $20 million voluntary
+pre-payment of its term loan on Sept. 10, 2019, and
+we now expect leverage to be in the mid-3x area at
+the end of 2019. We do not forecast any further
+voluntary debt reduction and expect a modest
+improvement in leverage due to EBITDA growth,
+but remain in the mid-3x area in 2020.
+
+Base-case projections
+Screenvision's revenue is more tied to movie theater attendance than GDP growth. While national advertising spend in
+the U.S. correlates with GDP, the company's revenue growth is mostly determined by the attractiveness of the current
+and upcoming film release slate, the timing of ad campaigns at its largest content partners, and trends in the national
+advertising scatter market.
+
+Company Description
+Screenvision is the second-largest in-theater cinema advertiser in terms of revenue with exclusive agreements to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 4
+
+Screenvision, LLC
+
+advertise on over 15,000 screens, or roughly 37%-38% of total U.S. screens. It has a presence in all 50 states and 93%
+of designated market areas (DMAs). The company offers various advertisements, content, and interactive media prior
+to the screening of feature films in movie theaters. Screenvision is privately owned and private equity firm Abry
+Partners holds the majority of the equity, with AMC Entertainment and management owning a minority stake.
+
+Business Risk: Weak
+Screenvision depends on advertising revenue, which tends to be highly cyclical.
+The company's advertising revenue is concentrated and can be significantly affected by the timing of campaigns and
+trends in its largest advertising categories. The company generates over 80% of its revenue from national advertising.
+About 30% of the company's total advertising revenue is concentrated in the automotive category, with 17% of total
+revenue from a partnership with a single customer. Its next three largest categories (insurance, media, and consumer
+electronics) together account for another 35%. While the company's revenue was stable during the last recession, we
+believe that advertising spending would decline in a future recession, and automotive advertising would likely decline
+more than that of the industry. The company pays its exhibitor partners a share of the advertising revenue it generates
+in their theaters, with a minimum guarantee. The minimum guarantee creates a fixed-cost component when revenue
+declines, which can result in negative operating leverage in a potential stress scenario. This could lead to a significant
+deterioration in Screenvision's revenue and credit metrics in a recessionary environment.
+
+Screenvision is exposed to volatile box office attendance.
+Once the company sells all or nearly all of its ad inventory, declines in theater attendance could hurt performance
+because national advertisers buy inventory based on forecasted box office attendance. If performance is weaker than
+expected, the company will have to use future scatter inventory to make advertisers whole, foregoing additional
+revenue.
+
+Revenue growth is tied to Screenvision's ability to maintain its pricing.
+We believe there is limited pricing upside, given in-theater advertising's already high rates, which are roughly
+comparable to those of prime-time broadcast television. However, we expect the revenue mix to continue shifting
+toward the later portions of the pre-show, which are more expensive, leading to increases in average CPMs. Unlike
+most other advertising media, Screenvision has limited ability to expand its ad inventory and will therefore primarily
+rely on increasing inventory utilization and ad rate increases to generate revenue growth.
+
+Peer comparison
+• We view Screenvision's business less favorably compared to its key peer National Cinemedia Inc. (NCM) mainly due
+to NCM's larger scale and higher profitability.
+• Screenvision has exclusive agreements to advertise on over 15,000 screens, or roughly 37%-38% of total U.S.
+screens. NCM has agreements with theater owners representing about 52% of total U.S. screens, around 20,800, but
+generates roughly double the revenue and over four times the EBITDA of Screenvision.
+• NCM has long-term exclusive contracts with its founders--AMC, Regal, and Cinemark, which are the three largest
+movie exhibitors in the U.S.--and pays its founders a theater access fee instead of a revenue-sharing agreement.
+Because of its cheaper theater access fees, NCM has a considerably higher EBITDA margin than Screenvision. This
+profitability advantage is somewhat tempered by NCM's requirement under its operating agreement to distribute
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 5
+
+Screenvision, LLC
+
+nearly all of its cash flow if leverage is below 6.5x. This limits NCM's ability to reduce leverage through cash flow.
+• Screenvision negotiates contracts with individual theater circuits with costs based on revenue-sharing agreements.
+Its contracts tend to be much shorter compared to NCM's agreement with its founders and the company faces much
+higher renewal risks.
+• NCM's founders account for roughly 80% of its screens and we believe that some midsize exhibitors that compete
+directly with NCM's exhibitor founders likely do not want their larger competitors to profit from their attendance,
+which provides Screenvision with a competitive advantage in securing their business.
+• While the relationship with its founders is a competitive advantage for NCM, it does limit the company's operational
+flexibility compared to Screenvision. In some cases, Screenvision has negotiated the rights to place advertising after
+the scheduled show time, which is less likely to be affected by reserved seating and can be sold at a premium CPM.
+NCM would not be able to offer something similar in the screens contributed by its founders.
+
+Financial Risk: Highly leveraged
+The company has moderate working capital and capital spending requirements and will generate healthy FOCF of
+about $15 million to $17 million over the next 12 months. While the company has used its cash flow to repay debt in
+2019, the company is financial-sponsor owned and we believe that the sponsor could push for a more aggressive
+financial policy that includes debt-financed shareholder distributions typically associated with a private equity strategy.
+The potential for a more aggressive financial policy combined with our view of the cyclicality in national advertising,
+significant upcoming contract renewals, and volatility in intra-year exhibitor attendance support our view that the
+company's current leverage level understates the actual financial risk.
+
+Liquidity: Adequate
+We expect liquidity sources will exceed uses by over 6x over the next 12 months and net liquidity sources will remain
+positive, even if EBITDA drops by 30%. However, in a low-probability, high-impact stress scenario, the covenant could
+restrict the company's access to its revolver. We believe that limited refinancing, such as an amendment, might be
+necessary in a stress scenario to maintain adequate liquidity.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balances of about $18.5 million as of June 30,
+2019;
+
+• $1.8 million in annual mandatory amortization;
+
+• Full availability under its $30 million revolver; and
+
+• $3 million to $5 million in annual working capital
+requirements; and
+
+• Cash flow from operations of roughly $20 million to
+$25 million over the next 12 months.
+
+• $6 million to $7 million in annual capital spending
+requirements.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 6
+
+Screenvision, LLC
+
+Debt maturities
+The company's $175 million term loan B (roughly $153.7 million outstanding) matures on July 2, 2025.
+
+Covenant Analysis
+The company's revolver contains a springing net first-lien leverage test of 5.5x that is only tested when 35% is drawn
+on the revolver. We expect that the revolving credit facility will remain undrawn and the covenant will not be
+applicable over the next 12 months.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Screenvision's senior secured credit facility consists off a pari passu $30 million senior secured revolver due in 2023
+and $175 million senior secured term loan ($153.7 million outstanding) due in 2025.
+• The facility is guaranteed by Screenvision LLC and all material wholly owned domestic subsidiaries. We assume
+substantially all earnings generated from guarantor subsidiaries and assets are pledged as collateral for the benefit of
+secured lenders.
+
+Simulated default assumptions
+• Our simulated default scenario contemplates a payment default in 2022, as a result of reduced cinema
+advertisement spending and an attendance decline, either from a streak of unappealing films or audiences favoring
+entertainment alternatives; financial stress resulting from high debt service; or meaningful client losses to National
+CineMedia.
+• Other default assumptions include an 85% draw on the revolving credit facility, LIBOR is 2.5%, the spread on the
+revolving credit facility rises to 5% as covenant amendments are obtained, and all debt includes six months of
+prepetition interest.
+• We expect Screenvision would reorganize in the event of a default, given its good market position, limited
+competition, and key relationships with small and regional U.S. cinema exhibitors.
+
+Simplified waterfall
+• Emergence EBITDA: about $24 million
+• EBITDA multiple: 6x
+• Net enterprise value (after 5% administration expenses): about $135 million
+• Estimated senior secured debt claims: $200 million
+• --Recovery range: 50%-70%; rounded estimate: 65%
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 7
+
+Screenvision, LLC
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 8
+
+Screenvision, LLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 13, 2019)*
+Screenvision, LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+12-Jun-2018
+
+B/Stable/--
+
+Related Entities
+Sequel Merger Sub II LLC
+Senior Secured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 10
+
+

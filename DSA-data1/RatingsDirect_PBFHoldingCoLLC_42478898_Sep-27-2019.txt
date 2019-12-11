@@ -1,0 +1,1295 @@
+PBF Holding Co. LLC
+Primary Credit Analyst:
+Jacqueline R Banks, New York + (212) 438-3409; Jacqueline.Banks@spglobal.com
+Secondary Contact:
+Stephen Scovotti, New York (1) 212-438-5882; stephen.scovotti@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Group Influence
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+PBF Holding Co. LLC
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Relatively large independent U.S. refiner with throughput capacity of 884,000 barrels per
+day (bpd).
+
+Limited asset and geographic diversity compared with
+higher-rated peers.
+
+Improving credit metrics over the past few years with continued benefits expected from
+International Maritime Organization 2020.
+
+Volatile credit metrics due to the inherent volatility in
+the refining sector.
+
+PBF Holding to acquire the Shell Martinez refinery from Shell Oil Products US. We expect the acquisition to modestly
+improve PBF's size and scale. PBF has not announced plans to finance the proposed $900 million-$1 billion
+acquisition; however, we expect its credit measures to remain in line with the rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+PBF Holding Co. LLC
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that PBF Holding Co. LLC (PBF) will continue to
+operate its five refineries with relatively high utilization. We expect PBF to maintain leverage of about 1x-2x in
+2019 but believe that its debt to EBITDA could fluctuate between 1x and 4x through the refining cycle.
+
+Downside scenario
+We could lower our rating on PBF if market conditions deteriorate, its operational performance weakens, or the
+Chalmette, La. or Torrance, Calif. refineries significantly underperform such that its consolidated total debt to
+EBITDA increases above 4x on a sustained basis.
+
+Upside scenario
+We could consider an upgrade if we gain increased confidence that the refineries will exhibit good profitability
+through various commodity price cycles, the company demonstrates that it can maintain consolidated total debt to
+EBITDA of less than 2.5x even during a mid-cycle environment, and subsidiary PBF Logistics significantly
+increases its fee-based cash flow from third parties, which would increase the cash flow stability of the consolidated
+company.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• GDP growth of approximately 2.3% in 2019 and
+1.8% in 2020;
+
+• Debt to EBITDA of 1.6x in 2019 and 1.4x-1.6x in
+2020, which compares with 1.8x in 2018; and
+
+• Average utilization across all of PBF's refineries of
+about 90%;
+
+• Interest coverage of 7x-8x through 2020, which
+compares with 5.3x in 2018.
+
+• Average gross margin per barrel of about $8 in 2019
+and $7 in 2020. 2020 margin could be higher
+depending on the benefits from IMO 2020;
+• Average operating expenses of about $5.34 per
+barrel through 2020; and
+• Capital spending of approximately $650 million in
+2019 and between $575 million and $625 million in
+2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+PBF Holding Co. LLC
+
+Base-case projections
+We expect leverage metrics to remain below 2x through 2020. Our expectations for 2019 and 2020 are in-line with
+mid-cycle conditions. However, PBF could experience a stronger-than-projected performance in 2020 depending on
+the margin benefits from IMO 2020. We expect distributions to depend on cash requirements at parent company PBF
+Energy Inc.
+
+Company Description
+PBF Holding Co. LLC is a U.S.-based refining company with assets located on the East Coast, Midcontinent, Gulf
+Coast, and West Coast regions. PBF owns five refineries with a combined capacity of approximately 884,000 bpd and
+a weighted average Nelson Complexity of 12.2. PBF Holding is a subsidiary of PBF Energy Inc.
+
+Business Risk: Fair
+PBF Holding's business is characterized by its relatively large size and scale and limited geographic and asset diversity.
+PBF is one of the larger independent U.S. refiners with total throughput capacity of 884,000 bpd. PBF's greater
+concentration compared with that of its higher-rated peers means that its credit measures rely more heavily on its
+ability to avoid unplanned downtime. In addition, PBF's cash flows are more concentrated in refining than those of its
+peers, which generate a larger percentage from logistics and retail cash flows.
+While PBF has significant refining capacity, its geographic and asset diversity is limited compared to that of peers such
+as Valero Energy Corp. and Marathon Petroleum Corp., both of which have around three million bpd of refining
+capacity. These two companies have stronger cash-flow diversity from ethanol, logistics, and retail assets mitigating
+some of the inherent volatility in the refining sector.
+
+Peer comparison
+Table 1
+
+PBF Holding Co. LLC--Peer Comparison
+Industry sector: Infrastructure
+PBF Holding Co. LLC Valero Energy Corp. Marathon Petroleum Corp.
+Ratings as of May 28, 2019
+
+BB/Stable/--
+
+BBB/Stable/--
+
+BBB/Stable/A-2
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenues
+
+27,164.0
+
+111,407.0
+
+96,706.0
+
+EBITDA
+
+1,211.7
+
+7,107.0
+
+9,409.0
+
+FFO
+
+986.8
+
+5,118.9
+
+7,848.0
+
+Interest expense
+
+227.0
+
+634.1
+
+1,221.5
+
+Cash flow from operations
+
+884.8
+
+4,565.9
+
+6,390.0
+
+Capital expenditure
+
+267.9
+
+2,197.0
+
+3,498.0
+
+Free operating cash flow
+
+616.8
+
+2,368.9
+
+2,892.0
+
+Discretionary cash flow
+
+564.3
+
+(824.1)
+
+(2,216.5)
+
+Cash and short-term investments
+
+561.7
+
+2,982.0
+
+1,687.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+PBF Holding Co. LLC
+
+Table 1
+
+PBF Holding Co. LLC--Peer Comparison (cont.)
+Industry sector: Infrastructure
+PBF Holding Co. LLC Valero Energy Corp. Marathon Petroleum Corp.
+Debt
+
+2,238.5
+
+8,685.0
+
+30,664.0
+
+Equity
+
+3,529.7
+
+22,731.0
+
+44,551.0
+
+EBITDA margin (%)
+
+4.5
+
+6.4
+
+9.7
+
+Return on capital (%)
+
+11.5
+
+15.7
+
+10.5
+
+EBITDA interest coverage (x)
+
+5.3
+
+11.2
+
+7.7
+
+FFO cash interest coverage (x)
+
+5.4
+
+9.2
+
+7.9
+
+Debt/EBITDA (x)
+
+1.8
+
+1.2
+
+3.3
+
+FFO/debt (%)
+
+44.1
+
+58.9
+
+25.6
+
+Cash flow from operations/debt (%)
+
+39.5
+
+52.6
+
+20.8
+
+Free operating cash flow/debt (%)
+
+27.6
+
+27.3
+
+9.4
+
+Discretionary cash flow/debt (%)
+
+25.2
+
+(9.5)
+
+(7.2)
+
+Adjusted ratios
+
+Financial Risk: Significant
+We expect PBF to maintain debt to EBITDA of 1.5x-2.0x in 2019. However, given the inherent volatility in its refining
+margins, we expect that this metric could fluctuate between 1x and 4x through the refining cycle. Our forecast
+assumes capital spending of approximately $650 million in 2019, average utilization of about 90%, and average gross
+margin of approximately $8 per barrel.
+
+Financial summary
+Table 2
+
+PBF Holding Co. LLC--Yearly Data
+Industry sector: Infrastructure
+--Fiscal year ended Dec. 31-2018
+Rating history
+
+2017
+
+2016
+
+2015
+
+2014
+
+BB/Stable/-- BB/Stable/-- BB/Stable/-- BB/Stable/-- BB-/Stable/--
+
+(Mil. $)
+Revenues
+
+27,164.0
+
+21,772.5
+
+15,908.5
+
+13,123.9
+
+19,828.2
+
+EBITDA
+
+1,211.7
+
+800.4
+
+260.3
+
+1,014.6
+
+1,083.1
+
+FFO
+
+986.8
+
+601.0
+
+97.0
+
+894.0
+
+960.1
+
+Interest expense
+
+227.0
+
+190.6
+
+181.8
+
+129.1
+
+133.0
+
+Cash flow from operations
+
+884.8
+
+600.1
+
+647.2
+
+732.0
+
+553.1
+
+Capital expenditure
+
+267.9
+
+226.7
+
+274.1
+
+348.8
+
+463.0
+
+Free operating cash flow
+
+616.8
+
+373.3
+
+373.1
+
+383.1
+
+90.1
+
+Discretionary cash flow
+
+564.3
+
+312.2
+
+233.6
+
+32.5
+
+(271.2)
+
+Cash and short-term investments
+
+561.7
+
+526.2
+
+626.7
+
+914.7
+
+218.4
+
+Gross available cash
+
+561.7
+
+526.2
+
+626.7
+
+914.7
+
+218.4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+PBF Holding Co. LLC
+
+Table 2
+
+PBF Holding Co. LLC--Yearly Data (cont.)
+Industry sector: Infrastructure
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Debt
+
+2,238.5
+
+2,489.3
+
+1,839.9
+
+1,725.4
+
+1,310.6
+
+Equity
+
+3,529.7
+
+3,184.1
+
+2,588.9
+
+1,821.3
+
+1,630.5
+
+EBITDA margin (%)
+
+4.5
+
+3.7
+
+1.6
+
+7.7
+
+5.5
+
+Return on capital (%)
+
+11.5
+
+7.3
+
+11.5
+
+22.9
+
+28.6
+
+EBITDA interest coverage (x)
+
+5.3
+
+4.2
+
+1.4
+
+7.9
+
+8.1
+
+FFO cash interest coverage (x)
+
+5.4
+
+4.0
+
+1.6
+
+8.4
+
+8.8
+
+Debt/EBITDA (x)
+
+1.8
+
+3.1
+
+7.1
+
+1.7
+
+1.2
+
+FFO/debt (%)
+
+44.1
+
+24.1
+
+5.3
+
+51.8
+
+73.3
+
+Cash flow from operations/debt (%)
+
+39.5
+
+24.1
+
+35.2
+
+42.4
+
+42.2
+
+Free operating cash flow/debt (%)
+
+27.6
+
+15.0
+
+20.3
+
+22.2
+
+6.9
+
+Discretionary cash flow/debt (%)
+
+25.2
+
+12.5
+
+12.7
+
+1.9
+
+(20.7)
+
+Adjusted ratios
+
+FFO--Funds from operations.
+
+Liquidity: Adequate
+We consider PBF Holding to have adequate liquidity and expect that its sources of liquidity will be almost 3x its uses
+for the next 12 months. While this level of coverage could indicate a higher assessment, we limit our assessment of
+PBF's liquidity to adequate due to the volatility inherent in the refining industry, which makes absorbing a high-impact
+event less likely.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of $156.8 million as of June 30, 2019;
+
+• Capital spending of approximately $650 million in
+2019; and
+
+• Funds from operations of about $670 million for the
+12 months following June 30, 2019; and
+• Average availability of $1.6 billion as of June 30,
+2019, on the company's $3.4 billion revolving credit
+facility due May 2023.
+
+• Distributions of $65 million over the next 12 months,
+though the level of distributions could change based
+on the cash requirements at parent PBF Energy Inc.
+
+Group Influence
+We expect PBF Energy to continue to enhance the group's logistical capabilities through asset dropdowns to PBF
+Logistics and organic growth projects. Our stand-alone credit profile on PBF Holding is 'bb' and we consider it to be a
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+PBF Holding Co. LLC
+
+core subsidiary of PBF Energy. The group credit profile does not affect our rating on the company.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario assumes a prolonged cyclical downturn in the sector when refinery margins are low
+and cash flow is constrained. Capital spending for periodic maintenance, upgrades, or regulatory and environmental
+requirements during such a downturn could also affect liquidity. We use a discrete asset-value method to value the
+refineries.
+• We value PBF's refineries based on our view that the industry's future refining margins will be lower. We use an
+average value of about $2,000 bpd.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• Net enterprise value (after 5% administrative costs): $1.7 billion
+
+Simplified waterfall
+• Collateral value available to unsecured creditors: $1.7 billion
+• Senior unsecured debt: $1.3 billion (includes six months of prepetition interest)
+• Recovery expectations: 50%-70% (rounded estimate: 65%)
+Note: Although the recovery percentage for the unsecured notes is well above 70%, we cap our recovery ratings on
+unsecured debt issued by companies we rate in the 'BB' category at '3'.
+
+Reconciliation
+Table 3
+
+Reconciliation Of PBF Holding Co. LLC's Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Fiscal year ended Dec. 31, 2018-PBF Holding Co. LLC's reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+3,518.9
+
+511.9
+
+171.6
+
+127.1
+
+1,211.7
+
+695.0
+
+277.3
+
+Debt
+
+Shareholders'
+equity
+
+1,260.4
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.6)
+
+--
+
+--
+
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(124.4)
+
+--
+
+--
+
+1,409.1
+
+--
+
+289.7
+
+90.6
+
+90.6
+
+(90.6)
+
+199.1
+
+--
+
+Operating leases
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+PBF Holding Co. LLC
+
+Table 3
+
+Reconciliation Of PBF Holding Co. LLC's Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $) (cont.)
+Postretirement benefit
+obligations/deferred
+compensation
+
+74.5
+
+--
+
+(1.1)
+
+(1.1)
+
+--
+
+--
+
+--
+
+--
+
+(505.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+9.3
+
+(9.3)
+
+(9.3)
+
+(9.3)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+20.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity investments
+
+--
+
+--
+
+17.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+23.4
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+10.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA - Valuation
+gains/(losses)
+
+--
+
+--
+
+351.3
+
+351.3
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash & liquid
+investments
+
+EBITDA - Other
+Total adjustments
+
+--
+
+--
+
+21.9
+
+21.9
+
+--
+
+--
+
+--
+
+--
+
+978.1
+
+10.9
+
+699.8
+
+486.0
+
+99.9
+
+(224.9)
+
+189.8
+
+(9.3)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+986.8
+
+884.8
+
+267.9
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+2,238.5
+
+3,529.7
+
+1,211.7
+
+657.6
+
+227.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Fair
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+PBF Holding Co. LLC
+
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Oil Refining And Marketing Industry, March 27, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 16, 2019)*
+PBF Holding Co. LLC
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Unsecured
+
+BB
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+PBF Holding Co. LLC
+
+Ratings Detail (As Of September 16, 2019)*(cont.)
+Issuer Credit Ratings History
+04-Nov-2015
+
+BB/Stable/--
+
+19-Jun-2015
+
+BB-/Watch Pos/--
+
+23-Jan-2012
+
+BB-/Stable/--
+
+Related Entities
+PBF Finance Corp.
+Senior Unsecured
+
+BB
+
+PBF Logistics Finance Corp.
+Senior Unsecured
+
+BB-
+
+PBF Logistics LP
+Issuer Credit Rating
+
+BB-/Stable/--
+
+Senior Secured
+
+BB+
+
+Senior Unsecured
+
+BB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+

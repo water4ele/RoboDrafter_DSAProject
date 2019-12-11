@@ -1,0 +1,1436 @@
+Masmovil Ibercom S.A.
+Primary Credit Analyst:
+Justine Miquee, Paris + 33 14 420 6794; justine.miquee@spglobal.com
+Secondary Contact:
+Xavier Buffon, Paris (33) 1-4420-6675; xavier.buffon@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings--Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Masmovil Ibercom S.A.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb-
+
+bb-
+
+bbBB-/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Masmovil Ibercom S.A. has emerged as the fourth-largest Spanish
+convergent telecommunications group.
+
+Masmovil's moderate size, and predominance of mobile–only operations
+on lower take-up of its convergent offer, exposes the group to potential
+aggressive moves from competitors.
+
+Masmovil's multibrand offering, focus on service quality and
+A slower increase of subscriber base and lower-than-expected market
+customer satisfaction, and flexible hybrid-network expansion strategy share gains could hamper planned EBITDA growth and deleveraging.
+will support solid growth prospects.
+By 2020, we expect free operating cash flow (FOCF) will turn positive FOCF remains negative in 2019 as Masmovil expands its
+and adjusted leverage will fall to less than 4x.
+fiber-to-the-home network, also resulting in an adjusted leverage of more
+than 4x.
+
+Masmovil has emerged as Spain's fourth largest national and converged operator. Masmovil Ibercom S.A. has
+transformed from a very small mobile virtual network operator, with revenue of €130 million in 2015, to a converged
+fixed and mobile network operator (MNO) generating revenue of €1.45 billion in 2018. As of Dec. 31, 2018, the
+company reached 14% mobile and 7% fixed residential market shares in Spain, mainly through acquisitions and
+expansion. After two years of net customer additions--the company is No. 2 in Spain for mobile customer additions,
+behind Telefonica S.A., and No. 1 in the fixed segment--we expect Masmovil to continue increasing its subscriber base
+organically, translating into sustained annual revenue growth of 10%-15% in 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Masmovil Ibercom S.A.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Masmovil Ibercom S.A.
+
+Chart 2
+
+We expect Masmovil will continue leveraging on its flexible hybrid network strategy to grow profitably. We believe
+Masmovil's capacity to secure and optimize its network access, through a flexible approach of a hybrid owned and
+leased network, will support growth as the company expands in Spain and is able to offer its convergent plans to a
+large number of potential subscribers. At the same time, we believe this strategy helps the group optimize its cost and
+capital expenditure (capex) structure by rolling out its network in more profitable areas, while renting third-party
+networks where returns are lower.
+• As of June 30, 2019 Masmovil's fiber footprint consisted of 19.8 million building units (BUs)--of Spain's roughly 25
+million business units--a 54% year-on-year increase. About 40% of these business units are owned or have been
+co-developed, with the rest being indirect bitstream access.
+• We believe Masmovil constantly implements an active and flexible network management policy, aiming at
+optimizing its return on investment and the monetization of its network access. For instance, in May 2019, the
+company announced it had reached an agreement with an international infrastructure fund for the sale of 933,000
+fiber-to-the-home (FTTH) BUs for €217.5 million. At the same time, Masmovil agreed to acquire from Orange Spain
+the indefeasible right of use (IRU) for one million BUs for a total consideration of about €70 million. The two
+agreements generated about €150 million of net proceeds without affecting Masmovil's footprint, clients, and
+profitability.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Masmovil Ibercom S.A.
+
+Chart 3
+
+On the mobile side, Masmovil covers about 85% of the Spanish population with its own 4G infrastructure. The
+company's population coverage reaches 98% through site-sharing and data transmission agreements, and three
+national roaming agreements signed with Orange S.A., Vodafone Group PLC, and Telefonica.
+The company's multibrand strategy, and service quality will support growth.Masmovil's multibrand strategy and its
+focus on customer service quality and satisfaction supports subscriber and market share gains, while reducing the
+customer churn rate. The group has implemented a multibrand strategy to target all segments of the Spanish
+population. For instance, it has positioned Yoigo as an attractively priced premium brand, offering average discounts
+of about 20% for its mobile-only and FTTH premium offering compared with Telefonica, Orange, and Vodafone. The
+company also benefits from an attractive value-for-money proposition, with Pepephone offering packages that are
+either slightly cheaper or have better terms than competitors. In addition, Masmovil differentiates itself by focusing on
+service quality and customer experience. For example, the company benefits from enhanced digitalization, a
+Spain-based client resolution service, and a fiber installation process that is convenient and transparent for the
+customer, according to the company. This translates into stronger net promoter scores than the competition,
+supporting ongoing subscriber additions and reducing customer losses.
+Masmovil's moderate size, focus on the Spanish economy, and predominance of mobile-only operations expose the
+group to potential aggressive moves from competitors.We believe Masmovil is more exposed to local market trends
+and potential turbulence, both at the industry and the macroeconomic level, than peers'. Although competitors have
+yet to react aggressively to the company's momentum, we believe that a sustained push toward lower prices from
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Masmovil Ibercom S.A.
+
+larger and better-capitalized peers, should they decide to protect their market shares at the expense of margins, would
+be detrimental to Masmovil. This risk is emphasized by:
+• The company's moderate size and focus on one economy. Unlike its Spanish rivals, Masmovil generates all its
+revenue in its home country, so it cannot compensate for a potential decline in Spain with stronger performance
+elsewhere; and
+• The limited uptake in convergence. At year-end 2018, convergence accounted for about 22% of the group's total
+mobile lines. Although we expect the contribution from bundled packages to increase, the majority of Masmovil's
+subscribers are mobile-only, which tend to be less loyal than converged customers.
+We therefore factor in our rating the risk that subscriber growth will not sufficiently exceed FTTH expansion capex
+and rental costs from wholesale network access agreements, potentially resulting in weaker-than-expected profitability
+and cash flows, as well as slower deleveraging profile for the group. Although Masmovil has met or exceeded its
+guidance over the past two years while efficiently expanding its reach, organic growth prospects are not necessarily
+certain.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Masmovil will grow revenue by 10%-15% per year over the next
+two years as it continues to add mobile, fixed, and converged subscribers and gains market share--especially in the
+fixed segment--with slightly improving blended average revenue per user (ARPU). We also forecast the company's
+EBITDA margin (S&P Global Ratings-adjusted) will reach about 30% by 2020, supported by the optimized cost and
+capex structure under its hybrid network strategy. We therefore expect adjusted debt-to-EBITDA will decrease to
+about 3.6x-3.7x in 2020, from 4.4x-4.5x in 2019 and free operating cash flow (FOCF)-to-debt will turn positive from
+2020, accounting for close to 5% of adjusted debt.
+
+Downside scenario
+We could lower the rating if Masmovil failed to build significant market share, resulting in revenue growth in the
+mid or low single digits, or if the group's adjusted profitability deteriorates. This could stem from a more aggressive
+stance from the main Spanish telecom players seeking to protect their market shares. We would also lower our
+rating should Masmovil's FOCF fail to turn positive in 2020 or adjusted debt-to-EBITDA remain materially above
+4x.
+
+Upside scenario
+We could raise the rating if Masmovil continues increasing its fixed broadband and mobile market share at a high
+pace, maintains its adjusted EBITDA margin close to 30%, and monetizes its FTTH network expansion capex. An
+upgrade would require FOCF-to-debt to exceed 10%, with adjusted leverage decreasing sustainably below 3.5x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Masmovil Ibercom S.A.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Masmovil Ibercom S.A.
+
+Assumptions
+
+• The Spanish telecom market will expand through
+residential mobile and fixed broadband subscriber
+growth, ongoing FTTH deployments and
+conversions, and data monetization. We also believe
+the price environment will become more favorable
+after years of price wars, with Spanish operators
+focusing on bundling and upselling to monetize
+recent heavy network and acquisition-related
+investments.
+• Annual revenue growth will be significant, in line
+with planned market share gains. For 2019, we
+forecast annual revenue growth of about 15%,
+slowing to 11% in 2020.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Revenue growth (%)
+
+11.5
+
+10-15
+
+10-15
+
+Adjusted EBITDA margin (%)
+
+26.9
+
+29-30
+
+30-31
+
+Capex-to-sales (%)
+
+33.7
+
+21-23
+
+14-16
+
+Adjusted debt-to-EBITDA (x)
+
+4.0 4.4-4.5 3.6-3.7
+
+FFO-to-debt (%)
+
+19.3
+
+18-19
+
+21-22
+
+FOCF-to-debt (%)
+
+(11)
+
+(6)-(7)
+
+4-5
+
+FFO--Funds from operations. FOCF--Free operating
+cash flow. A--Actual. E—Estimate
+
+• Mobile activities will benefit from data monetization
+and the uptake in convergence, which will partially
+offset the corresponding slight ARPU decline.
+• Increasing FTTH coverage and the ongoing
+conversion of the fixed broadband subscriber base
+to FTTH from asymmetric digital subscriber lines
+(ADSL) will support moderate improvements in
+blended fixed broadband ARPU and revenue.
+• Adjusted EBITDA margin to increase to 28%-29% in
+2019 and close to 30% in 2020, from 26.9% in 2018.
+This will follow substantial revenue growth, better
+absorption of the cost base, and declining
+integration-related costs.
+• Total net capex will decrease to 21%-22% in 2019
+and 14%-15% in 2020 from 36% in 2018. This
+correlates with Masmovil's plan to expand its total
+portfolio of FTTH business units, either on its own
+or through co-investments. We expect the new
+business unit rollout will slow down as the network
+gets deployed.
+• Masmovil will receive, by the end of 2019, €217.5
+million for the sale of 933,000 FTTH business units
+to an international infrastructure funds. It also paid
+€70 million for the acquisition of 1 million FTTH
+BUs from Orange.
+• It will also spend €30 million in additional
+acquisition in 2019, including the acquisition of Hits
+Mobile and of a minority stake in Cabonitel.
+• The company will not pay dividends in 2019 and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Masmovil Ibercom S.A.
+
+2020 as it continues to invest in its expansion.
+• In May 2019, the group borrowed €1.45 billion of
+senior secured debt and issued €220 million of new
+equity. These proceeds, along with cash on balance
+sheet, refinanced existing senior and junior debt of
+about €890 million, will repay convertible bonds
+from Providence for a total amount of €894 million
+(of which Masmovil repurchased €351 million in
+May 2019, with the rest being paid off by December
+2019), and covered about €44 million of transaction
+fees.
+
+Base-Case Projections
+By 2020, we forecast Masmovil's FOCF will turn positive and adjusted leverage will fall to less than 4x. We forecast
+continued and gradual EBITDA improvement as Masmovil expands its subscriber base and lowers its unitary cost.
+National roaming costs per revenue-generating unit should decrease as the group adds subscribers, while subscriber
+acquisition costs will weigh less on the overall cost structure as Masmovil gains market share.
+At the same time, from 2020, we expect expansion capex will materially decrease as the company prioritizes
+third-party access to cover the remaining Spanish population and territory.
+Therefore, we expect FOCF will turn positive and adjusted leverage will fall to less than 4x from 2020.
+We expect Masmovil will prioritize network-related capex and deleveraging over dividend payments over the medium
+term. We forecast Masmovil will maintain its zero-dividend policy for at least the next two years as the group gives
+priority to its network expansion program. The company's financial policy, consisting in reducing its reported net
+leverage to less than 3x, supports this.
+
+Company Description
+Masmovil is Spain's fourth-largest telecom operator, providing fixed and mobile voice and internet services to business
+and retail customers. The group generated revenue of €1.45 billion and served 7.8 million subscribers (4.8 million
+mobile postpaid, 2.0 million mobile prepaid and 1.0 million fixed broadband customers) through its brands Yoigo,
+Masmovil, Pepephone, Llamaya, and Lebara, as of Dec. 21, 2018.
+Masmovil manages its own infrastructure comprising FTTH, ADSL, 3G, and 4G networks. Its 4G mobile network
+covered 98.5% of the Spanish population, while its fixed network reached 18 million households with ADSL and
+slightly more than 15 million with optical fiber at year-end 2018. Masmovil achieved this coverage after benefiting
+from the regulatory remedies of the Orange-Jazztel deal, through acquisitions, by rolling out its own network, and via
+agreements with other telecom operators or third-party infrastructure providers in Spain.
+The group was founded in 1997 and has managed to grow rapidly through acquisitions, maintaining a sustained
+expansion strategy. Masmovil acquired Pepephone and Yoigo in 2016, Llamaya in 2017, and Lebara in 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Masmovil Ibercom S.A.
+
+The group was listed on the Madrid Stock Exchange in March 2012 and 47.6% of its share capital is free float.
+Onchena (family office), Willmington, Fidelity, and Providence are the largest individual shareholders with 14.3%,
+8.7%, 6.9% and 3.3% ownership respectively.
+
+Business Risk: Fair
+Our assessment of Masmovil's business risk reflects the company's no. 4 market position, sustained net subscriber
+additions, and market share gains. We believe the group's focus on brand segmentation and service quality will support
+growth. In addition, Masmovil will benefit from its hybrid network strategy, optimizing its cost versus capex base,
+while expanding its footprint through third-party agreements and the group's own rollout.
+Balancing these strengths are Masmovil's moderate size, focus on one economy, and narrower product
+portfolio--especially its nascent pay-TV offering--compared with that of fully convergent operators and competitors.
+We believe this exposes the group to potential retaliation from incumbents. In addition, we factor in the risk that
+subscriber base growth might not sufficiently match expansion capex and the group's semifixed-cost wholesale
+agreements for network access.
+
+Peer comparison
+Table 1
+
+Masmovil Ibercom SA.--Peer Comparison
+Industry sector: Diversified telecom
+
+Ratings as of Aug. 22,
+2019
+
+Masmovil
+Ibercom SA.
+
+eircom Holdings
+(Ireland) Ltd.
+
+DIGI Communications
+N.V.
+
+Euskaltel
+S.A.
+
+TalkTalk Telecom
+Group PLC
+
+BB-/Stable/--
+
+B+/Stable/--
+
+BB-/Stable/--
+
+BB-/Stable/--
+
+BB-/Stable/--
+
+Dec. 31, 2018 Dec. 31, 2018
+
+March 31, 2019
+
+--Fiscal year ended-Dec. 31, 2018
+
+June 30, 2018
+
+Revenue
+
+1,450.9
+
+1,252.0
+
+1,038.1
+
+674.6
+
+1,632.0
+
+EBITDA
+
+390.7
+
+476.5
+
+317.7
+
+330.4
+
+230.0
+
+Funds from operations
+(FFO)
+
+304.0
+
+356.0
+
+258.5
+
+271.4
+
+176.5
+
+Interest expense
+
+101.0
+
+119.5
+
+56.4
+
+51.2
+
+61.5
+
+(Mil. €)
+
+Cash interest paid
+
+79.9
+
+106.5
+
+53.0
+
+43.9
+
+52.5
+
+Cash flow from operations
+
+315.6
+
+381.0
+
+253.6
+
+279.5
+
+128.5
+
+Capital expenditure
+
+488.5
+
+320.0
+
+238.3
+
+153.5
+
+104.0
+
+Free operating cash flow
+(FOCF)
+
+(172.8)
+
+61.0
+
+15.3
+
+126.0
+
+24.5
+
+Discretionary cash flow
+(DCF)
+
+(172.8)
+
+60.0
+
+11.0
+
+76.4
+
+(3.5)
+
+98.2
+
+197.0
+
+13.8
+
+107.4
+
+67.0
+
+1,572.1
+
+2,366.6
+
+1,088.6
+
+1,537.0
+
+1,003.1
+
+475.9
+
+(724.0)
+
+153.3
+
+974.9
+
+288.0
+
+Cash and short-term
+investments
+Debt
+Equity
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+Masmovil Ibercom S.A.
+
+Table 1
+
+Masmovil Ibercom SA.--Peer Comparison (cont.)
+Adjusted ratios
+EBITDA margin (%)
+
+26.9
+
+38.1
+
+30.6
+
+49.0
+
+14.1
+
+Return on capital (%)
+
+10.2
+
+3.5
+
+10.1
+
+5.6
+
+4.7
+
+EBITDA interest coverage
+(x)
+
+3.9
+
+4.0
+
+5.6
+
+6.5
+
+3.7
+
+FFO cash interest
+coverage (x)
+
+4.8
+
+4.3
+
+5.9
+
+7.2
+
+4.4
+
+Debt/EBITDA (x)
+
+4.0
+
+5.0
+
+3.4
+
+4.7
+
+4.4
+
+FFO/debt (%)
+
+19.3
+
+15.0
+
+23.7
+
+17.7
+
+17.6
+
+Cash flow from
+operations/debt (%)
+
+20.1
+
+16.1
+
+23.3
+
+18.2
+
+12.8
+
+FOCF/debt (%)
+
+(11.0)
+
+2.6
+
+1.4
+
+8.2
+
+2.4
+
+DCF/debt (%)
+
+(11.0)
+
+2.5
+
+1.0
+
+5.0
+
+(0.4)
+
+Our business risk assessment for Masmovil is in the same category as that for eircom Holdings (Ireland) Ltd., DIGI
+Communications N.V., Euskaltel S.A., and TalkTalk Telecom Group PLC.
+Masmovil and DIGI Communications are both no. 4 player in mobile in their respective home markets, and they share
+similar profitability and capex profiles. However, DIGI is No. 1 in fixed-broadband and Pay-TV in Romania and has
+operations in Hungary, Spain, and Italy, while Masmovil remains focused on Spain.
+In addition, Masmovil is less convergent and profitable than, and is not as dominant as, eircom in its domestic market.
+However, we believe Masmovil compares favorably with:
+• Euskaltel, whose business risk profile, despite its stronger profitability due to the predominance of fixed broadband
+activities, is constrained by its lower scale and limited geographical scope; and
+• Talktalk, which slightly larger scale only partly offset its lower profitability.
+
+Financial Risk: Aggressive
+Our view of Masmovil's financial risk reflects our expectation that debt-to-EBITDA (S&P Global Ratings-adjusted) will
+decrease to about 3.6x in 2020 compared with 4.3x-4.4x in 2019, and that FOCF-to-debt will remain negative in 2019.
+EBITDA growth will mainly support planned deleveraging, while we expect FOCF will turn positive from 2020 on
+lower expansion capex as Masmovil finalizes the rollout of its own and co-developed FTTH network.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+Masmovil Ibercom S.A.
+
+Table 2
+
+Masmovil Ibercom SA. -- Financial Summary
+Industry sector: Diversified telecom
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+Revenue
+
+1,450.9
+
+1,301.0
+
+EBITDA
+
+390.7
+
+278.6
+
+Funds from operations (FFO)
+
+304.0
+
+212.4
+
+Interest expense
+
+101.0
+
+258.2
+
+(Mil. €)
+
+Cash interest paid
+
+79.9
+
+67.0
+
+Cash flow from operations
+
+315.6
+
+516.7
+
+Capital expenditure
+
+488.5
+
+250.9
+
+Free operating cash flow (FOCF)
+
+(172.8)
+
+265.8
+
+Discretionary cash flow (DCF)
+
+(172.8)
+
+265.8
+
+98.2
+
+199.1
+
+Cash and short-term investments
+Gross available cash
+
+98.2
+
+199.1
+
+1,572.1
+
+1,447.7
+
+475.9
+
+84.9
+
+EBITDA margin (%)
+
+26.9
+
+21.4
+
+Return on capital (%)
+
+10.2
+
+6.5
+
+EBITDA interest coverage (x)
+
+3.9
+
+1.1
+
+FFO cash interest coverage (x)
+
+4.8
+
+4.2
+
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.0
+
+5.2
+
+FFO/debt (%)
+
+19.3
+
+14.7
+
+Cash flow from operations/debt (%)
+
+20.1
+
+35.7
+
+FOCF/debt (%)
+
+(11.0)
+
+18.4
+
+DCF/debt (%)
+
+(11.0)
+
+18.4
+
+Liquidity: Adequate
+We view Masmovil's liquidity as adequate, based on our expectation that the ratio of liquidity sources to uses will
+exceed 1.2x in the next 12 months from June 30, 2019, and would remain positive even if EBITDA were to decline by
+15%. The company has ample headroom under its covenants, and good relationships with banks.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+Masmovil Ibercom S.A.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and liquid investments of about €260 million
+as of June 30, 2019
+
+• Working capital outflows of €30 million-€35 million
+
+• An undrawn €150 million revolving credit facility
+(RCF) and €100 million capex facility, both maturing
+in 2024
+• €200 million to be drawn under the €1.45 billion
+term loan B before year-end 2019
+
+• Net capex of €320 million-€330 million
+• €30 million allocated to acquisition purposes
+• €543 million cash outflow corresponding to the
+repurchase of the remaining Providence convertible
+bond (tranche 2)
+
+• Cash funds from operations of about €345 million
+• Cash inflow of €217.5 million from the sale of
+933,000 FTTH business units to an infrastructure
+fund
+
+Debt maturities
+The €27 million senior unsecured bond issued by Masmovil will mature in 2020 and we expect the group will repay it
+with cash on hand. The company will then have no maturities outstanding before the term loan B in 2026.
+
+Covenant Analysis
+Compliance Expectations
+The documentation for the senior secured debt stipulates a springing net leverage maintenance covenant under the
+RCF and capex facility, tested only if more than 40% of the combined RCF and capex facility is drawn. We foresee
+adequate headroom, as this covenant is based on a 35% headroom from closing EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 14
+
+Masmovil Ibercom S.A.
+
+Environmental, Social, And Governance
+
+Masmovil is exposed to typical ESG risks for the telecom sector. We factor in the company's relatively
+recent-but-growing awareness and commitment to addressing social and governance factors positively. In recent
+years, Masmovil has indeed prioritized the formalization of a robust governance framework to accompany and
+structure its rapid expansion. The company's policies to address social exposure favorably affect our view of its
+customer relationships, leading to our operational forecast for more rapid growth and deleveraging, which
+positively impacts the ratings. Being the no. 4 and most recently integrated telecom operator in Spain, Masmovil
+has prioritized customer satisfaction and engagement with local communities, to differentiate itself from
+competition, and increase its subscriber base (compensation for the executive team includes customer acquisition
+and satisfaction targets). More recently, Masmovil has also ramped up its effort on data protection and
+cybersecurity. The company adopted a cybersecurity and personal data protection policy at the board level, rolled
+out a mandatory training plan for all its employees, and created a dedicated cybersecurity operations center to
+prevent potential attacks. Finally, we believe Masmovil's decision to link the margin ratchet of its RCF and capex
+facility to an ESG assessment illustrates the company's commitment to improving its sustainability.
+At the same time, the company has yet to formalize other aspects of its sustainability strategy, such as how it
+assesses ESG risks stemming from its contractors, management of e-waste, and the tracking and reporting of
+environmental metrics on a more regular and consistent basis. We assess the telecommunications sector's
+exposure to environmental risks as relatively low, but believe Masmovil lags some of its global peers in this
+respect, which could present risks if not addressed.
+
+Issue Ratings--Recovery Analysis
+Key Analytical Factors
+• We rate the senior secured term loan B borrowed by Masmovil Holdphone SAU 'BB-'.
+• The recovery rating is '3', indicating our expectation of a meaningful recovery (rounded estimate: 60%) in an event
+of a default.
+• The recovery prospects are supported by our valuation of Masmovil as a going concern and the secured nature of
+about 98% of the group's debt; they are constrained by the large amount of equal ranking and pari passu debt.
+• We consider the security package limited: It comprises pledges over shares in the group's subsidiaries, intra-group
+receivables, bank accounts and other agreed classes of assets, including pledges over the brands.
+• Although the debt documentation offers the borrower operational flexibility, it provides creditors with only limited
+protection, in our view. For example, we note the springing (40% drawn test) consolidated net leverage covenant
+under the RCF and the capex facility, and a permitted indebtedness cap set at 4x the net consolidated leverage.
+• Our hypothetical default scenario envisions a combination of increased competition between telecom providers,
+weighing on the group's ARPU, combined with slower-than-expected subscriber growth, resulting in lower
+profitability, and higher cash burn.
+• We value Masmovil as a going concern because it is a midsize European telecom operator that is increasing its
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 15
+
+Masmovil Ibercom S.A.
+
+market shares in both fixed broadband and mobile activities, while benefiting from well-defined brand positioning
+and a proven hybrid network strategy.
+
+Simulated Default Assumptions
+• Year of default: 2023
+• Jurisdiction: Spain
+• Minimum capex (percentage of 2018 pro forma revenue): 6%
+• Cyclicality adjustment factor: 0% (standard sector assumption for telecom and cable)
+• Operational adjustment: 0%
+• Emergence EBITDA after recovery adjustments: about €195 million
+• Implied enterprise value multiple: 5.5x
+
+Simplified Waterfall
+• Gross recovery value: about €1.06 billion
+• Net recovery value for waterfall after administrative expenses: about €1.01 billion
+• Estimated senior secured debt claims: about €1.58 billion
+• --Recovery expectation: 50%-70% (rounded estimate: 60%)
+All debt amounts include six months of prepetition interest. RCF assumed 85% drawn. We round the estimated
+recovery expectation down to the nearest 5%.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Masmovil Ibercom SA. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. €)
+--Fiscal year ended Dec. 31, 2018-Masmovil Ibercom SA. reported amounts
+
+Reported
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+1,009.1
+
+312.6
+
+151.8
+
+72.2
+
+390.7
+
+258.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(6.8)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(51.1)
+
+--
+
+Reported lease liabilities
+
+27.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+487.1
+
+86.5
+
+28.8
+
+28.8
+
+(28.8)
+
+57.7
+
+Accessible cash and liquid
+investments
+
+(98.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(9.9)
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 16
+
+Masmovil Ibercom S.A.
+
+Table 3
+
+Reconciliation Of Masmovil Ibercom SA. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. €) (cont.)
+Asset retirement
+obligations
+Nonoperating income
+(expense)
+Debt: Other
+
+6.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.0
+
+--
+
+--
+
+--
+
+140.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.6
+
+1.6
+
+--
+
+--
+
+--
+
+563.0
+
+78.2
+
+31.3
+
+28.8
+
+(86.8)
+
+57.7
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+1,572.1
+
+390.7
+
+183.1
+
+101.0
+
+304.0
+
+315.6
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Our adjustment to reported debt in 2019 includes the addition of about €490 million of operating leases. These
+comprise:
+• The capitalization of the annual fee paid as part of the master service agreement (MSA) signed with Cellnex and the
+minimum customer commitment on the 933,000 business units Masmovil sold to an infrastructure fund;
+• €20 million-€25 million of financial leases; and
+• Asset-retirement obligations of about €6 million.
+We also add to the reported debt figure €135 million-€140 million of liabilities related to the wholesale long-term
+agreements signed with operators to access FTTH networks and deduct cash on the balance sheet.
+Our adjustments to EBITDA primarily include the addition of about €70 million corresponding to rent costs, the annual
+fee paid as part of the MSA, and the minimum commitment under recently sold fixed infrastructure. We also exclude
+about €10 million as part of share-based compensation expenses and €8 million of integration costs.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB-/Stable/--
+
+Business risk: Fair
+
+• Country risk: Intermediate
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 17
+
+Masmovil Ibercom S.A.
+
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Masmovil Ibercom S.A. Scored 67 On ESG Evaluation; Preparedness Adequate, July 11, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 18
+
+Masmovil Ibercom S.A.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 25, 2019)*
+Masmovil Ibercom SA.
+Issuer Credit Rating
+
+BB-/Stable/--
+
+Issuer Credit Ratings History
+07-May-2019
+
+BB-/Stable/--
+
+Related Entities
+Masmovil Holdphone S.A.U.
+Senior Secured
+
+BB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 19
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 20
+
+

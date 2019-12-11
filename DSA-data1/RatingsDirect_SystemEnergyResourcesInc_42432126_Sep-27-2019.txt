@@ -1,0 +1,1312 @@
+System Energy Resources Inc.
+Primary Credit Analyst:
+Gerrit W Jepsen, CFA, New York (1) 212-438-2529; gerrit.jepsen@spglobal.com
+Secondary Contact:
+William Hernandez, Farmers Branch + 1 (214) 765-5877; william.hernandez@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+System Energy Resources Inc.
+Business Risk: STRONG
+
+aaVulnerable
+
+Issuer Credit Rating
+
+a+
+
+Excellent
+
+bbb+
+
+BBB+/Stable/--
+
+Financial Risk: MINIMAL
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Owner and operator of a nuclear power plant whose capacity and energy are
+fully contracted for the life of the unit.
+
+Significant resource concentration risk and higher operating
+risk of nuclear generation.
+
+Regulated by the Federal Energy Regulatory Commission (FERC).
+
+Limited scale and diversification.
+
+Financial performance benefits from efficient operations and timely recovery of
+investments.
+
+Modestly negative effect on cash flows due to impact of tax
+reforms.
+
+Owner and operator of the Grand Gulf nuclear station. System Energy Resources Inc. owns and operates a 1,272
+megawatt (MW) nuclear generating plant, resulting in significant generation resource concentration.
+We expect stable cash flows. Strong off-take agreements with affiliates and efficient operations should enable the
+company to realize strong cash flows.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+System Energy Resources Inc.
+
+Outlook: Stable
+
+The stable rating outlook on System Energy Resources Inc. (SERI) reflects that of parent Entergy Corp. Over the
+next two years S&P Global Ratings expects Entergy will successfully exit its higher-risk, non-utility nuclear power
+generation stations and grow through its lower-risk rate-regulated utility businesses, leading to an improved
+business risk profile. The outlook also reflects our base-case forecast for adjusted funds from operations (FFO) to
+debt averaging around 15% over the next few years, in line with the significant financial risk profile.
+
+Downside scenario
+We could lower ratings on Entergy and its subsidiaries, including SERI, over the next 24 months if the
+non-utility-owned nuclear power generation stations, which we currently expect to be closed, remain open and we
+anticipate that its financial measures weaken, including adjusted FFO to debt consistently below 14%.
+
+Upside scenario
+Although unlikely given our expectation for weakened financial measures due to the impact of U.S. tax reform, we
+could raise our rating on Entergy over the next 24 months if we project that it will improve its adjusted FFO to
+debt above 17% on a consistent basis.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• EBITDA margin to remain largely steady at above
+65%;
+
+2018A 2019E
+Adjusted FFO to Debt (%)
+
+• Capital spending averaging $160 million per year;
+and
+• Dividend payments average about $110 million per
+year.
+
+30.2
+
+45-50
+
+2020E
+45-50
+
+Adjusted debt to EBITDA (x)
+
+2.4
+
+1.5-2 1.8-2.3
+
+Adjusted CFO to debt(%)
+
+14
+
+38-43
+
+38-43
+
+A--Actual. E--Expected. FFO--Funds from operations.
+CFO--Cash from operations.
+
+Company Description
+SERI has 90% ownership and leasehold interest in the 1,272 MW Grand Gulf nuclear station. The entire capacity is
+contracted for the life of the station to four other Entergy subsidiaries.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+System Energy Resources Inc.
+
+Business Risk: Strong
+SERI's business risk profile reflects our assessment of its ownership in the Grand Gulf nuclear plant, introducing
+significant resource concentration and operating risk. The company's good operating record and strong off-take
+agreements with affiliates somewhat mitigate these risks. SERI contributes about 5% of Entergy's consolidated
+revenues. SERI sells its portion of the Grand Gulf output (capacity and energy) to Entergy utilities operating in
+Louisiana and Mississippi under a unit power sales agreement. SERI receives monthly payments reflecting actual
+capacity and energy costs as per agreements with the off-takers, regardless of the quantity of energy delivered, as long
+as the unit remains in commercial operation.
+Termination of the agreement requires approval from the FERC and will most likely occur when Grand Gulf retires.
+We believe SERI's business risk is on the lower end of its business risk profile category due to significant resource
+concentration and high operating risk.
+
+Peer comparison
+Table 1
+
+System Energy Resources Inc. -- Peer Comparison
+Industry Sector: Electric
+System Energy Resources
+Inc.
+
+Exelon Generation Co.
+LLC
+
+PSEG Power LLC
+
+Southern Power Co.
+
+BBB+/Stable/--
+
+BBB+/Stable/A-2
+
+BBB+/Stable/--
+
+BBB+/Negative/A-2
+
+Ratings as of Aug. 6, 2019
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+456.7
+
+20,437.0
+
+4,146.0
+
+2,205.0
+
+EBITDA
+
+264.7
+
+4,026.8
+
+1,283.0
+
+946.5
+
+Funds from operations (FFO)
+
+191.3
+
+2,830.8
+
+1,231.1
+
+656.6
+
+Interest expense
+
+72.7
+
+523.1
+
+187.9
+
+224.9
+
+Cash interest paid
+
+19.4
+
+450.1
+
+143.9
+
+210.9
+
+Cash flow from operations
+
+89.0
+
+3,932.8
+
+1,021.1
+
+615.6
+
+278.4
+
+2,291.8
+
+1,075.0
+
+373.0
+
+Free operating cash flow
+(FOCF)
+
+(189.4)
+
+1,641.0
+
+(53.9)
+
+242.6
+
+Discretionary cash flow (DCF)
+
+(257.1)
+
+640.0
+
+(453.9)
+
+(1,872.4)
+
+95.7
+
+750.0
+
+22.0
+
+181.0
+
+Capital expenditure
+
+Cash and short-term
+investments
+Debt
+
+633.9
+
+9,313.7
+
+3,284.6
+
+5,333.1
+
+Equity
+
+737.2
+
+15,508.0
+
+5,960.0
+
+7,284.0
+
+EBITDA margin (%)
+
+58.0
+
+19.7
+
+30.9
+
+42.9
+
+Return on capital (%)
+
+10.0
+
+4.3
+
+8.7
+
+3.3
+
+EBITDA interest coverage (x)
+
+3.6
+
+7.7
+
+6.8
+
+4.2
+
+FFO cash interest coverage (x)
+
+10.9
+
+7.3
+
+9.6
+
+4.1
+
+2.4
+
+2.3
+
+2.6
+
+5.6
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+System Energy Resources Inc.
+
+Table 1
+
+System Energy Resources Inc. -- Peer Comparison (cont.)
+Industry Sector: Electric
+System Energy Resources
+Inc.
+
+Exelon Generation Co.
+LLC
+
+PSEG Power LLC
+
+Southern Power Co.
+
+FFO/debt (%)
+
+30.2
+
+30.4
+
+37.5
+
+12.3
+
+Cash flow from
+operations/debt (%)
+
+14.0
+
+42.2
+
+31.1
+
+11.5
+
+FOCF/debt (%)
+
+(29.9)
+
+17.6
+
+(1.6)
+
+4.5
+
+DCF/debt (%)
+
+(40.6)
+
+6.9
+
+(13.8)
+
+(35.1)
+
+We assess the comparable rating analysis modifier as negative, reflecting our view that the business risk profile is near
+the lower end of the category. This incorporates the significant level of resource concentration in a single nuclear
+plant, which is unusual among peers, and which we view as introducing significantly higher risk.
+
+Financial Risk: Minimal
+Our assessment of SERI's stand-alone financial risk profile incorporates a base-case scenario that includes adjusted
+FFO to debt in the 50%-55% range, the lower end of the benchmark range of the minimal category. We expect the
+supplemental ratio of adjusted cash flow from operations to debt, which captures other cash sources from regulatory
+assets, working capital, and other cost deferrals that are unique to utilities, to average about 39% over the next few
+years. In addition, we expect capital spending, which when combined with SERI's dividend payments will result in
+discretionary cash flow that is mostly positive, providing additional cash flow that can be used to redeem debt. Over
+the next few years we expect debt leverage to be relatively modest, as indicated by debt to EBITDA averaging slightly
+below 2x. We base our risk assessment on the more relaxed benchmarks of our medial table, reflecting in part the
+company's steady cash flow.
+
+Financial summary
+Table 2
+
+System Energy Resources Inc. -- Financial Summary
+Industry Sector: Electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+456.7
+
+633.5
+
+548.3
+
+632.4
+
+664.4
+
+EBITDA
+
+264.7
+
+450.1
+
+459.8
+
+511.5
+
+522.1
+
+Funds from operations (FFO)
+
+191.3
+
+424.6
+
+445.2
+
+575.5
+
+503.0
+
+Interest expense
+
+72.7
+
+80.5
+
+88.3
+
+93.5
+
+100.2
+
+Cash interest paid
+
+19.4
+
+27.8
+
+38.2
+
+50.1
+
+29.2
+
+(Mil. $)
+
+Cash flow from operations
+
+89.0
+
+338.9
+
+305.1
+
+469.4
+
+395.0
+
+278.4
+
+70.4
+
+229.2
+
+124.6
+
+238.6
+
+Free operating cash flow (FOCF)
+
+(189.4)
+
+268.5
+
+75.9
+
+344.8
+
+156.4
+
+Discretionary cash flow (DCF)
+
+(257.1)
+
+161.9
+
+(63.1)
+
+144.1
+
+54.5
+
+Capital expenditure
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+System Energy Resources Inc.
+
+Table 2
+
+System Energy Resources Inc. -- Financial Summary (cont.)
+Industry Sector: Electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Cash and short-term investments
+
+95.7
+
+287.2
+
+245.9
+
+230.7
+
+223.2
+
+Gross available cash
+
+95.7
+
+287.2
+
+245.9
+
+230.7
+
+223.2
+
+Debt
+
+633.9
+
+378.4
+
+496.7
+
+481.2
+
+642.7
+
+Equity
+
+737.2
+
+710.8
+
+738.8
+
+781.1
+
+870.5
+
+EBITDA margin (%)
+
+58.0
+
+71.1
+
+83.9
+
+80.9
+
+78.6
+
+Return on capital (%)
+
+10.0
+
+20.0
+
+20.6
+
+19.0
+
+18.2
+
+EBITDA interest coverage (x)
+
+3.6
+
+5.6
+
+5.2
+
+5.5
+
+5.2
+
+FFO cash interest coverage (x)
+
+10.9
+
+16.3
+
+12.7
+
+12.5
+
+18.2
+
+2.4
+
+0.8
+
+1.1
+
+0.9
+
+1.2
+
+30.2
+
+112.2
+
+89.6
+
+119.6
+
+78.3
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+14.0
+
+89.6
+
+61.4
+
+97.6
+
+61.5
+
+FOCF/debt (%)
+
+(29.9)
+
+71.0
+
+15.3
+
+71.7
+
+24.3
+
+DCF/debt (%)
+
+(40.6)
+
+42.8
+
+(12.7)
+
+29.9
+
+8.5
+
+Liquidity: Adequate
+We assess the company's stand-alone liquidity as adequate because we believe its liquidity sources are likely to cover
+uses by more than 1.1x over the next 12 months and meet cash outflows even with a 10% decline in EBITDA. The
+assessment also reflects the company's generally prudent risk management, sound relationship with banks, and a
+generally satisfactory standing in credit markets.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Estimated cash FFO of about $240 million;
+
+• Debt maturities of about $10 million;
+
+• Working capital inflows of $50 million; and
+
+• Capital spending of about $170 million; and
+
+• Cash and liquid investments of about $160 million.
+
+• Dividends of about $120 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+System Energy Resources Inc.
+
+Environmental, Social, And Governance
+
+We consider environmental factors in our rating analysis. SERI's social and governance factors are generally
+comparable with those of its peers.
+We believe SERI will continue to manage its nuclear fuel cycle such that more than 90% of the low-level waste
+generated is Class A, which is the least radioactive. Our analysis monitors SERI's operating performance of Grand
+Gulf as this will continue to be a key driver of SERI's environment, social, and governance risk.
+Entergy continues to decarbonize its portfolio with wind generation investments and plans to have 1,000 MWs of
+renewable resources by 2020, including through power purchase agreements in Arkansas and Louisiana. By
+pursuing greater renewable generation, the company is meeting its customers' demand for renewable energy.
+Social and governance factors are in line with those of other utility companies.
+
+Group Influence
+We consider SERI a core subsidiary of Entergy, reflecting our view that it is highly unlikely to be sold, is integral to the
+overall group strategy, possesses a strong long-term commitment from senior management, and is closely linked to the
+parent's name and reputation. We assess our issuer credit rating on SERI to be in line with Entergy's group credit
+profile of 'bbb+'.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+SERI's capital structure consists of about $570 million of senior unsecured and first mortgage bonds.
+
+Analytical conclusions
+SERI's senior unsecured debt rating is 'BBB+', the same as its issuer credit rating, because it is unsecured debt of a
+qualifying investment-grade regulated utility.
+
+Issue Ratings - Recovery Analysis
+SERI's first mortgage bonds benefit from a first-priority lien on substantially all of the utility's real property owned or
+subsequently acquired. Collateral coverage of more than 1.5x supports a recovery rating of '1+' and an issue rating two
+notches above the issuer credit rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+System Energy Resources Inc.
+
+Reconciliation
+Table 3
+
+Reconciliation Of System Energy Resources Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-System Energy Resources Inc. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+630.8
+
+175.5
+
+43.7
+
+36.2
+
+264.7
+
+101.3
+
+280.6
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(54.0)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+--
+
+--
+
+--
+
+--
+
+(17.2)
+
+--
+
+--
+
+77.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(95.7)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+2.2
+
+(2.2)
+
+(2.2)
+
+(2.2)
+
+20.9
+
+34.3
+
+34.3
+
+34.3
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+45.1
+
+--
+
+--
+
+--
+
+--
+
+U.S. decommissioning fund
+contributions
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(10.1)
+
+--
+
+EBITDA: Other
+income/(expense)
+
+--
+
+54.9
+
+54.9
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Other
+
+--
+
+--
+
+(54.9)
+
+--
+
+--
+
+--
+
+--
+
+3.1
+
+89.2
+
+79.4
+
+36.5
+
+(73.4)
+
+(12.3)
+
+(2.2)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+191.3
+
+89.0
+
+278.4
+
+Asset retirement obligations
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+633.9
+
+264.7
+
+123.0
+
+72.7
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Very low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+System Energy Resources Inc.
+
+• Competitive position: Satisfactory
+Financial risk: Minimal
+
+• Cash flow/Leverage: Significant
+Anchor: aaModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : a+
+
+• Group credit profile: bbb+
+• Entity status within group: Core (-3 notches from SACP)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Unregulated Power And Gas Industry, March 28,
+2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 10
+
+System Energy Resources Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+Strong
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 10, 2019)*
+System Energy Resources Inc.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Secured
+
+A
+
+Issuer Credit Ratings History
+03-May-2018
+
+BBB+/Stable/--
+
+09-Jan-2017
+
+BBB+/Positive/--
+
+04-Aug-2016
+
+BBB+/Stable/--
+
+31-Mar-2015
+
+BBB/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 12
+
+
