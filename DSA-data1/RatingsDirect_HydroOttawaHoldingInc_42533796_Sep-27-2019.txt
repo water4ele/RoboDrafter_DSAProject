@@ -1,0 +1,1425 @@
+Hydro Ottawa Holding Inc.
+Primary Credit Analyst:
+Andrew Ng, Toronto + 1 (416) 507 2545; andrew.ng@spglobal.com
+Secondary Contact:
+Mayur Deval, Toronto (1) 416-507-3271; mayur.deval@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Hydro Ottawa Holding Inc.
+Business Risk: EXCELLENT
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb
+
+bbb+
+
+BBB+/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Relatively strong regulatory structure supports stable cash flows for its Large capital program to execute for 2019, which will pressure credit
+low-risk electricity distribution business.
+metrics in the near term.
+Diverse customer base comprising mainly residential customers, small Will file a new rate application for 2021-2025, that includes the recovery
+businesses, and entities in the municipalities, universities, schools, and of increased capital relating to the new building facility, subject to
+hospitals (MUSH) sector.
+regulatory approval
+Unregulated generation business features long-term contracts,
+favorable rates, and credible counterparties that provide a stable cash
+flow stream.
+
+Lacks operational diversity because it only operates in the City of
+Ottawa, which makes the company reliant on its regulator, the Ontario
+Energy Board (OEB), to sustain its credit quality.
+
+Unregulated cash flow is backed by quality contracts. Hydro Ottawa Holding Inc. (HOHI) generates about 20% of its
+cash flow from its unregulated generation. Although we view unregulated power generation as higher risk, this
+segment features long-term contracts, favorable terms, and creditworthy counterparties that partially mitigate risk and
+provide HOHI with stable cash flows.
+The company has large capital spending plans over our outlook period. HOHI continues to execute its large capital
+program of about C$260 million through 2019, which includes the refurbishment of two hydro facilities and the
+construction of a new headquarters. This capital spending will pressure the company's credit metrics through 2020.
+HOHI lacks geographic and regulatory diversity. HOHI serves the City of Ottawa, which is the capital of Canada, and
+has a diverse customer base that mainly consists of residential customers, small businesses, and entities in the MUSH
+sector. We consider the province of Ontario to be a relatively strong regulatory jurisdiction, which supports our
+excellent assessment of the company's business risk. However, compared with other utilities, HOHI lacks geographic
+and regulatory diversity, making it reliant on the OEB to sustain its credit quality.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Hydro Ottawa Holding Inc.
+
+Outlook: Stable
+
+The stable outlook on HOHI reflects the predictable and stable cash flow we expect the company to generate from
+its low-risk, regulated distribution business over our two-year outlook horizon. The outlook also reflects the stable
+cash flow from the utility's unregulated renewable power generation operations, which are backed by strong
+purchase power agreements (PPAs). For fiscal year 2019, we expect HOHI's credit metrics to remain weak, with
+funds from operations (FFO) to debt of about 9.5%, because of delays in the refurbishment of its hydro assets due
+to weather and its large capital programs. We expect the company's credit metrics to recover in 2020-2021 with
+FFO to debt of about 10.5%-11.0%.
+
+Downside scenario
+We could lower our rating on HOHI over the next 12-24 months if the company's credit metrics deteriorate and its
+FFO to debt falls below 10% with no prospects for improvement. This could occur if the utility experiences any
+material adverse regulatory decisions, substantial delays, or cost overruns related to the refurbishment of its hydro
+assets or if it undertakes additional acquisitions that it funds with a material level of debt. Alternatively, additional
+growth in HOHI's unregulated power business could weaken the company's business risk profile, potentially
+leading us to lower our rating. However, we do not expect this to occur during our outlook period.
+
+Upside scenario
+Although unlikely, we could raise our rating on HOHI over the next 12-24 months if the utility improves its
+financial position, causing its FFO to debt to approach 15%. This could occur if the company earns
+better-than-forecast returns or deleverages its balance sheet. Alternatively, we could raise our rating if HOHI's
+share of sustained, unregulated cash flow relative to its regulated cash flow decreases.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Hydro Ottawa Holding Inc.
+
+Assumptions
+
+• OEB, the company's regulator, will remain relatively
+stable and HOHI will not experience any material,
+adverse regulatory decisions;
+• HOHI will continue to earn close to its allowed
+return on equity based on its deemed capital
+structure;
+
+Key Metrics
+
+2018A 2019E 2020E
+FFO to debt (%)
+
+10.9
+
+9.5
+
+10.5
+
+FFO interest cash coverage (x)
+
+4.45
+
+4.3
+
+4.3
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• No material delays or cost overruns on its hydro
+asset refurbishment projects;
+• New customer growth of about 1% annually during
+our outlook period;
+• Capital spending of about C$260 million in 2019 and
+C$140 million in 2020; and
+• Dividend payments of about C$21 million per year.
+
+Company Description
+HOHI is wholly owned by the City of Ottawa and governed by an independent board of directors appointed by its
+shareholder. The company's core businesses are electricity distribution, renewable energy generation, and energy
+conservation and management services. HOHI owns and operates three subsidiary companies.
+Hydro Ottawa Ltd. (HOL) is a regulated electricity distribution company operating in the City of Ottawa. It is the
+third-largest municipally owned electrical utility in Ontario serving approximately 340,000 customers.
+Portage Power (PP), formerly known as Energy Ottawa, is the largest municipally owned producer of green power in
+Ontario. PP has installed capacity of about 128 megawatts (MW) and owns and operates six run-of-the-river
+hydroelectric generators at Chaudiere Falls. In addition, the company also holds interests in two landfill gas-to-energy
+joint ventures.
+Envari Holdings Inc. (EHI) is a provider of commercial energy management services. EHI delivers energy solutions for
+its large commercial, industrial, municipal, and utility clients.
+
+Business Risk: Excellent
+Our assessment of HOHI's business risk profile largely reflects its low-risk electricity distribution operations and our
+view of its management of regulatory risk.
+The utility continues to operate under a supportive regulatory regime. The OEB, the regulator for the Province of
+Ontario, continues to provide a transparent, consistent, and independently operated regulatory framework that
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Hydro Ottawa Holding Inc.
+
+supports a stable and predictable cash flow model, which we view as a key credit strength. The regulatory framework
+also limits the utility's exposure to commodity risk and the associated cash flow volatility because the tariff structure
+allows it to recover the full cost of purchased power from its customers. The tariff structure also allows the operator to
+recover prudently spent operating costs, capital expenditure, or other unexpected material losses in a timely manner.
+Further supporting our excellent business risk profile assessment is the utility's diverse customer base with no
+significant concentration risk. Residential customers, small businesses, and the MUSH sector account for majority of
+the company's customers. In our view, this customer profile is less sensitive to macroeconomic stress and business
+cycles.
+Even though HOHI generates a material portion of its cash flows (about 20%) from unregulated power (renewable
+energy generation), which has much higher industry risk due to fluctuations in energy price, the utility is able to
+mitigate this risk through long-term PPA contracts with attractive terms. Most of HOHI's PPA contracts are long-term
+with an average length of at least 10 years. Some are also indexed to inflation, which provide the company with a
+steady, predictable, and stable cash flow stream. Moreover, HOHI's counterparty in these PPA contracts is the
+Independent Electricity Systems Operator (IESO), an agent of the Government of Ontario, which partially mitigates its
+counterparty concentration risk exposure. Furthermore, HOHI owns all of the hydro-generation assets at the
+Chaurdiere Falls in the Ottawa-Hull region, which gives the company full access to, and control of, the river and allows
+it to better coordinate and operate the assets to optimize its cash flows.
+
+Peer comparison
+Table 1
+
+Peer Comparison
+Industry sector: electric
+
+Ratings as of Sept. 25, 2019
+
+Hydro Ottawa
+Holding Inc.
+
+Alectra Inc.
+
+Toronto Hydro
+Corp.
+
+ENMAX Corp.
+
+Ontario Power
+Generation Inc.
+
+BBB+/Stable/--
+
+A/Stable/--
+
+A/Stable/--
+
+BBB+/Negative/--
+
+BBB+/Negative/A-2
+
+--Fiscal year ended Dec. 31, 2018-(Mil. C$)
+Revenue
+
+1,138.6
+
+3,452.0
+
+3,472.7
+
+2,378.8
+
+5,474.0
+
+EBITDA
+
+143.0
+
+363.5
+
+530.2
+
+588.6
+
+2,019.0
+
+FFO
+
+108.6
+
+296.7
+
+408.5
+
+398.6
+
+1,530.4
+
+Interest expense
+
+33.9
+
+71.8
+
+90.8
+
+127.8
+
+277.7
+
+Cash interest paid
+
+31.5
+
+65.8
+
+79.1
+
+117.0
+
+286.6
+
+133.7
+
+235.7
+
+514.2
+
+514.9
+
+1,510.4
+
+Cash flow from operations
+Capital expenditure
+
+241.5
+
+425.0
+
+490.6
+
+312.2
+
+1,635.0
+
+FOCF
+
+(107.9)
+
+(189.3)
+
+23.6
+
+202.7
+
+(124.6)
+
+DCF
+
+(129.8)
+
+(263.3)
+
+(70.3)
+
+162.7
+
+(425.6)
+
+16.7
+
+16.0
+
+0.0
+
+89.0
+
+349.0
+
+Debt
+
+996.8
+
+2,016.3
+
+2,365.1
+
+2,507.8
+
+11,437.4
+
+Equity
+
+462.9
+
+1,689.0
+
+1,833.5
+
+2,261.3
+
+13,127.0
+
+Cash and short-term
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Hydro Ottawa Holding Inc.
+
+Table 1
+
+Peer Comparison (cont.)
+Industry sector: electric
+Hydro Ottawa
+Holding Inc.
+
+Alectra Inc.
+
+Toronto Hydro
+Corp.
+
+ENMAX Corp.
+
+Ontario Power
+Generation Inc.
+
+EBITDA margin (%)
+
+12.6
+
+10.5
+
+15.3
+
+24.7
+
+36.9
+
+Return on capital (%)
+
+5.9
+
+6.2
+
+7.0
+
+5.7
+
+5.2
+
+EBITDA interest coverage
+(x)
+
+4.2
+
+5.1
+
+5.8
+
+4.6
+
+7.3
+
+FFO cash interest coverage
+(x)
+
+4.4
+
+5.5
+
+6.2
+
+4.4
+
+6.3
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+7.0
+
+5.5
+
+4.5
+
+4.3
+
+5.7
+
+FFO/debt (%)
+
+10.9
+
+14.7
+
+17.3
+
+15.9
+
+13.4
+
+Cash flow from
+operations/debt (%)
+
+13.4
+
+11.7
+
+21.7
+
+20.5
+
+13.2
+
+FOCF/debt (%)
+
+(10.8)
+
+(9.4)
+
+1.0
+
+8.1
+
+(1.1)
+
+DCF/debt (%)
+
+(13.0)
+
+(13.1)
+
+(3.0)
+
+6.5
+
+(3.7)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Financial Risk: Aggressive
+We evaluate HOHI's financial risk profile using our medial volatility financial benchmark tables rather than the tables
+we use for a typical corporate issuer, which reflects the company's lower-risk regulated business model and its
+management of regulatory risk.
+For 2019, we expect HOHI's credit metrics to be weak because its capital programs will be larger than expected due to
+the timing of capital programs and increased costs. In addition, the company temporarily shut down some hydro
+assets and delayed its hydro refurbishment projects due to weather conditions in early 2019. We now expect that
+HOHI will complete the refurbishments in the first half of 2020 rather than by year-end 2019. We also expect the utility
+to file for recovery of the increased capital costs in its next rate application. Under our base-case scenario, which
+assumes capital spending of about C$260 million in 2019 and C$135 million in 2020 and dividends of about C$22
+million in each year, we expect HOHI to have FFO to debt of about 9.5% in 2019. In 2020, we expect the company's
+FFO to debt to improve to about 10.5%.
+
+Financial summary
+Table 2
+
+Financial Summary
+Industry sector: electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+1,138.6
+
+1,151.5
+
+1,202.4
+
+1,112.1
+
+1,012.3
+
+(Mil. C$)
+Revenue
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Hydro Ottawa Holding Inc.
+
+Table 2
+
+Financial Summary (cont.)
+Industry sector: electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA
+
+143.0
+
+124.5
+
+110.9
+
+121.5
+
+93.5
+
+FFO
+
+108.6
+
+87.1
+
+87.2
+
+105.1
+
+73.5
+
+33.9
+
+31.2
+
+24.4
+
+21.5
+
+19.3
+
+31.5
+
+31.4
+
+20.8
+
+19.3
+
+18.8
+
+133.7
+
+74.3
+
+92.2
+
+72.9
+
+90.0
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+
+241.5
+
+180.2
+
+181.9
+
+126.9
+
+100.3
+
+FOCF
+
+(107.9)
+
+(106.0)
+
+(89.7)
+
+(54.0)
+
+(10.3)
+
+DCF
+
+(129.8)
+
+(126.6)
+
+(109.1)
+
+(72.2)
+
+(29.6)
+
+Cash and short-term investments
+
+16.7
+
+0.9
+
+1.0
+
+4.0
+
+0.0
+
+Gross available cash
+
+16.7
+
+0.9
+
+1.0
+
+4.0
+
+0.0
+
+Debt
+
+996.8
+
+930.5
+
+852.9
+
+578.3
+
+429.6
+
+Equity
+
+462.9
+
+438.1
+
+426.8
+
+413.4
+
+398.1
+
+EBITDA margin (%)
+
+12.6
+
+10.8
+
+9.2
+
+10.9
+
+9.2
+
+Return on capital (%)
+
+5.9
+
+5.4
+
+5.5
+
+8.8
+
+6.6
+
+EBITDA interest coverage (x)
+
+4.2
+
+4.0
+
+4.5
+
+5.7
+
+4.8
+
+FFO cash interest coverage (x)
+
+4.4
+
+3.8
+
+5.2
+
+6.4
+
+4.9
+
+Debt/EBITDA (x)
+
+7.0
+
+7.5
+
+7.7
+
+4.8
+
+4.6
+
+10.9
+
+9.4
+
+10.2
+
+18.2
+
+17.1
+
+Adjusted ratios
+
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+13.4
+
+8.0
+
+10.8
+
+12.6
+
+21.0
+
+FOCF/debt (%)
+
+(10.8)
+
+(11.4)
+
+(10.5)
+
+(9.3)
+
+(2.4)
+
+DCF/debt (%)
+
+(13.0)
+
+(13.6)
+
+(12.8)
+
+(12.5)
+
+(6.9)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Liquidity: Adequate
+We assess HOHI's liquidity as adequate. We expect the company's liquidity sources to be more than 1.1x its uses over
+the next 12 months and anticipate that its net sources would remain positive even if its EBITDA declined by 10%. In
+our view, HOHI has sound relationships with its banks and a generally satisfactory standing in the credit markets. In
+the unlikely event of liquidity distress, we expect the company to scale back on its capital spending to preserve its
+credit metrics.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Hydro Ottawa Holding Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of about C$20 million as of March 31, 2019;
+
+• Debt maturities of about C$150 million, including
+short-term debt;
+
+• Cash FFO of about C$130 million; and
+• Availability under its undrawn committed facilities
+of about C$70 million as of March 31, 2019.
+
+• Capital spending of about C$260 million; and
+• Dividends of about C$21 million over the next 12
+months.
+
+Debt maturities
+HOHI has no long-term debt maturing between 2019 and 2023.
+
+Other Credit Considerations
+Overall, we assess HOHI's business risk profile as being at the stronger half of the excellent range compared with those
+of its peers. Specifically, the utility's PPA contracts in its unregulated business feature above-market rates, long
+maturities, and some are indexed to inflation. Furthermore, under the PPAs there is no obligation to deliver electricity
+and no minimum production requirements.
+
+Government Influence
+Our view of the relationship between HOHI and the City of Ottawa, its municipal owner, remains the same. We
+believe there is a low likelihood that Ottawa will provide extraordinary and timely support to HOHI during periods of
+financial distress. Although the utility is important to the city, given that it operates the city's electricity distribution
+network and is solely owned by the city of Ottawa, the province--not the city--maintains oversight of electricity
+regulation, including tariff setting. In addition, an investor-owned entity could undertake HOHI's role, if necessary.
+Furthermore, the city does not have any formal policy or track record of providing financial relief or support to the
+utility. For these reasons, we view the likelihood of extraordinary government support as low, which does not affect
+our rating on HOHI.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+HOHI's capital structure consists of about C$575 million of senior unsecured debt at the corporate level and about
+C$500 million of senior secured amortizing debt at the project level.
+
+Analytical conclusions
+We rate HOHI's senior unsecured debt 'BBB+', the same level as our issuer credit rating, because its ratio of priority
+debt to total debt is less than 50%, which is consistent with our criteria.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Hydro Ottawa Holding Inc.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Hydro Ottawa Holding Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. C$)
+--Fiscal year ended Dec. 31, 2018-Hydro Ottawa Holding Inc. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+463.0
+
+135.0
+
+72.8
+
+30.4
+
+143.0
+
+139.0
+
+244.2
+
+Debt
+
+Shareholders'
+equity
+
+1,000.2
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2.9)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(28.7)
+
+--
+
+--
+
+Operating leases
+
+3.4
+
+--
+
+0.2
+
+0.2
+
+0.2
+
+(0.2)
+
+(0.0)
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+9.9
+
+--
+
+--
+
+--
+
+0.7
+
+--
+
+--
+
+--
+
+(16.7)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+2.6
+
+(2.6)
+
+(2.6)
+
+(2.6)
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+2.1
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2.6)
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+(0.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+7.8
+
+7.8
+
+--
+
+--
+
+--
+
+--
+
+(3.5)
+
+(0.1)
+
+8.0
+
+10.1
+
+3.5
+
+(34.4)
+
+(5.3)
+
+(2.6)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+108.6
+
+133.7
+
+241.5
+
+Accessible cash and
+liquid investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+996.8
+
+462.9
+
+143.0
+
+82.9
+
+33.9
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Excellent
+
+• Country risk: Very low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Hydro Ottawa Holding Inc.
+
+• Industry risk: Low
+• Competitive position: Excellent
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bbb+
+
+• Group credit profile: bbb+
+• Related government rating: AA
+• Likelihood of government support: Low (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers, Dec. 16, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Hydro Ottawa Holding Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 25, 2019)*
+Hydro Ottawa Holding Inc.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Unsecured
+
+BBB+
+
+Issuer Credit Ratings History
+25-Aug-2016
+
+BBB+/Stable/--
+
+22-Jun-2016
+
+A-/Watch Neg/--
+
+30-Jul-2015
+
+A-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+

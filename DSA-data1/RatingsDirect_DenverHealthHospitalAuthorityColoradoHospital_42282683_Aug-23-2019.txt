@@ -1,0 +1,853 @@
+Denver Health & Hospital Authority,
+Colorado; Hospital
+Primary Credit Analyst:
+Allison Bretz, Chicago (1) 303-721-4119; allison.bretz@spglobal.com
+Secondary Contact:
+Ashley Henry, Centennial (1) 303-721-4563; Ashley.Henry@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Enterprise Profile: Strong
+Financial Profile: Adequate
+Credit Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 1
+
+Denver Health & Hospital Authority, Colorado;
+Hospital
+Credit Profile
+US$83.79 mil hlthcare rev rfdg bnds ser 2019A due 12/31/2040
+Long Term Rating
+
+BBB/Stable
+
+New
+
+BBB/Stable
+
+Affirmed
+
+Denver Health and Hospital Authority
+Long Term Rating
+
+Rationale
+S&P Global Ratings assigned its 'BBB' long-term rating to the Denver Health & Hospital Authority (DHHA), Colo.'s
+$83.79 million series 2019A revenue bonds. At the same time, S&P Global Ratings affirmed its 'BBB' rating on DHHA's
+existing debt. The outlook is stable.
+The 2019 issuance comprises two series: the $83.79 million series 2019A bonds and the $46.54 series 2019B bonds.
+We will not rate the series 2019B bonds, which will be directly purchased by UMB Bank. Proceeds from the series
+2019 issuance will refund much of DHHA's existing debt, including its series 2007A, series 2009A, and series 2015
+bonds. The series 2019 issuance also includes approximately $24 million of new money. This money will be used to
+partly fund DHHA's outpatient medical center (OMC) project. However, we view the series 2019 issuance as
+effectively debt-neutral, as in early August 2019, DHHA spent $23.8 million of cash to fully defease its series 2010
+bonds. As a result, the series 2019 issuance will not materially change DHHA's pro forma debt or cash levels.
+The rating continues to reflect our view of DHHA's role as a fully integrated health care delivery system, along with its
+status as an essential public provider of key health care and community services, including an acute-care hospital, one
+of the region's level 1 trauma service providers and an emergency medical transport operator, and a nationally
+recognized poison control center. DHHA holds an improving market position in the competitive and rapidly growing
+Denver market. The rating also reflects DHHA's role as the provider of many ambulatory care services--including
+federally qualified health centers and many school-based services--and as the operator of a provider-sponsored health
+plan known as the Denver Health Medical Plan (DHMP).
+The rating also reflects DHHA's multiyear trend of improved operations, generating sound pro forma maximum annual
+debt service (MADS) coverage. This improvement reflects management's ongoing focus on revenue growth and
+expense reduction. DHHA faced some one-time challenges in the first half of fiscal 2019 (ended June 30, 2019), but we
+believe some of these issues have been addressed, and expect operations to improve in the second half of 2019,
+although operations will likely be softer than in 2018. We will continue to monitor DHHA's operating margin and cash
+flow closely, as we recognize that management must sustain solid operations in order to support its capital plans and
+long-term growth strategy. DHHA's balance sheet, while only adequate for many years, has improved somewhat over
+time. However, the hospital is currently executing an ambitious capital strategy, notably its OMC project, which began
+construction in 2018 and has a total budget of $166.1 million. Given DHHA's relatively thin liquidity, we view ongoing
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 2
+
+Denver Health & Hospital Authority, Colorado; Hospital
+
+healthy cash flows as essential to support completion of this project.
+Other factors supporting the 'BBB' rating include our view of DHHA's:
+• Strong public essentiality as the county's safety net provider and consistent funding support from the City and
+County of Denver, as well as support from the state through special funding programs such as disproportionate
+share and provider tax funding,
+• Improved operations in 2018, and continued profitability (albeit with somewhat softer operations) through the first
+six months of 2019; and
+• Comprehensive strategic plan that builds on existing system strengths, while demonstrating a focus on revenue
+growth, efficiencies, and cost-containment measures.
+Partly offsetting these strengths, in our view, are DHHA's:
+• Considerable reliance on governmental funding, although the funding itself reflects DHHA's essentiality, and
+• Risks inherent in the sizable OMC project.
+
+Outlook
+The stable outlook reflects our view of DHHA's strong enterprise profile and stabilized financial performance, including
+our expectation that fiscal 2019 operations will improve by year-end. The stable outlook also reflects our view that
+DHHA will be able to generate cash flow sufficient to support its sizable capital plans over the next few years.
+
+Upside scenario
+We believe the enterprise profile would support a higher rating over time if DHHA's operations stabilize, with MADS
+coverage consistently above 3.5x, and balance sheet ratios at or near current levels.
+
+Downside scenario
+We could consider a negative outlook or rating action if MADS coverage declines consistently below 2x, or if
+unrestricted reserves decline such that days' cash drops below 100. We would also view negatively any delays or other
+issues with the construction or operationalization of the OMC and associated projects. Finally, while not expected, any
+adverse changes to DHHA's special funding arrangements could also be a negative rating factor.
+
+Enterprise Profile: Strong
+City support
+DHHA has historically received significant support from the City and County of Denver, as well as the state of
+Colorado, which we consider a key credit strength. DHHA is the largest provider of care for Medicaid and uninsured
+patients in the state of Colorado. In addition, DHHA operates the medical response for the 911 system in Denver and
+operates the nationally known Rocky Mountain Poison and Drug Safety (RMPDS), located three blocks from DHHA's
+Denver headquarters. The RMPDS provides call services not only for the city and county of Denver, but also for other
+cities, counties, and states across the country, as well as for four pharmaceutical companies. Pursuant to DHHA's
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 3
+
+Denver Health & Hospital Authority, Colorado; Hospital
+
+operating agreement with the city, it receives annual funding to support care for the uninsured, public health services,
+and correctional care; this totaled approximately $56 million in 2018, and is expected to grow slightly in 2019. This
+funding agreement is exclusive to DHHA, and cannot be revoked.
+The city of Denver also supports DHHA's capital projects, including the OMC. In November 2017, 69% of Denver
+residents voted to approve a $75 million general obligation bond to fund the OMC project. This is only the most recent
+in a series of projects funded at least in part by the city. The city has also participated in construction or purchase of
+most of DHHA's nine federally qualified health center clinics.
+
+Management
+Management has updated and implemented its long-range plan for DHHA, and we consider it sound. It includes
+numerous growth initiatives and reflects the continued growth in Medicaid revenues, but also highlights the need to
+grow nongovernmental revenues as well. We note this plan has shown some early success, with commercial net
+patient revenue growing by approximately $35.6 million in 2018, and accounting for a larger percentage of total net
+patient revenue. DHHA continues to target labor and benefit expense as a major opportunity for cost savings.
+Management also continues to strengthen the managed care competency, and is working to increase certain lines of
+business within the DHMP, notably Medicare.
+The management team has good disclosure practices, in our view. In addition, the team has focused on diversifying
+the revenue base, building the balance sheet, and fortifying the business position. We view these actions favorably.
+Management also continues to focus on efficiencies and quality. We believe that this focus positions the organization
+well for the ongoing shift toward value-based reimbursement, although DHHA's heavy reliance on government payors
+and special funding remains a point of concern, particularly given the uncertainty surrounding health policy at the
+federal level.
+Table 1
+
+Denver Health & Hospital Authority & Subsidiaries, Colorado Enterprise Statistics
+--Six months ended June 30--
+
+--Fiscal year ended Dec. 31--
+
+2019
+
+2018
+
+2017
+
+2016
+
+PSA population
+
+N.A
+
+959,503
+
+834,958
+
+803,595
+
+PSA market share (%)
+
+N.A
+
+18.1
+
+16.8
+
+16.6
+
+Inpatient admissions
+
+9,105
+
+19,294
+
+19,511
+
+20,596
+
+Equivalent inpatient admissions
+
+25,281
+
+52,786
+
+51,114
+
+48,481
+
+Emergency visits
+
+28,771
+
+57,235
+
+56,095
+
+73,293
+
+Inpatient surgeries
+
+1,945
+
+3,653
+
+3,508
+
+4,205
+
+Outpatient surgeries
+
+4,587
+
+9,520
+
+8,188
+
+7,248
+
+Medicare case mix index
+
+1.8441
+
+1.8516
+
+1.8000
+
+1.7000
+
+FTE employees
+
+6,543
+
+6,504
+
+6,398
+
+6,480
+
+Active physicians
+
+1,102
+
+1,114
+
+1,197
+
+831
+
+Based on net/gross revenues
+
+Net
+
+Net
+
+Net
+
+Net
+
+Medicare (%)
+
+17.5
+
+17.3
+
+15.5
+
+14.7
+
+Medicaid (%)
+
+43.8
+
+44.1
+
+46.8
+
+53.7
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 4
+
+Denver Health & Hospital Authority, Colorado; Hospital
+
+Table 1
+
+Denver Health & Hospital Authority & Subsidiaries, Colorado Enterprise Statistics (cont.)
+--Six months ended June 30--
+
+Commercial/Blues (%)
+
+--Fiscal year ended Dec. 31--
+
+2019
+
+2018
+
+2017
+
+2016
+
+33.9
+
+34.6
+
+33.1
+
+28.4
+
+N.A.--Not available. Inpatient admissions exclude normal newborn, psychiatric, rehabilitation, and long-term care facility admissions.
+
+Financial Profile: Adequate
+Financial performance
+Following a low point in fiscal 2016, operations improved over the last two full fiscal years, with a solid operating
+performance in fiscal 2018. DHHA's management team continues to implement its turnaround plan, with
+demonstrated success in volume growth in several key areas, including trauma and inpatient and outpatient surgery.
+Management also significantly improved its revenue cycle process, with a $36 million improvement in collections in
+fiscal 2018. At the same time, DHHA successfully slowed its expense growth, including a $3 million reduction in
+contracted service expenses. Governmental funding remains critical to DHHA's operating performance, but this has
+grown over the last several years.
+Through the first six months of fiscal 2019, DHHA is generating positive operating income, but has seen some
+softening from fiscal 2018. The hospital's revenue has declined as its Medicaid Choice managed care plan moved to
+DHMP (which is not consolidated into the financial results). This resulted in a change in the state's system of
+attributing members to the plan, leading to a decline of approximately 10,600 members, which in turn reduced
+DHHA's profitability. We understand that the state has updated its attribution system, and that plan membership
+increased by a total of approximately 13,000 members in July and August 2019. DHHA is also experiencing softer
+inpatient volumes, due in large part to a change in state policy that no longer mandates that certain dialysis patients
+receive their care in an inpatient setting. Still, management continues to execute on its expense management strategy,
+and DHHA has seen growth in surgical cases and outpatient visits. Given the increase in Medicaid plan membership,
+along with management's ongoing efforts to grow revenues and control expenses, we believe DHHA will approach its
+budgeted $10.8 million operating income at year-end.
+
+Capital plans
+DHHA is currently in the process of constructing the OMC and a new parking structure. The total cost of the OMC
+project is $166.1 million, with $75 million funded by the city of Denver and the remaining funds coming from the $23.8
+million series 2019 new-money issuance, reserves, cash flows, and philanthropy. The facility will be a seven-story,
+293,000-square-foot building on DHHA's campus, and will house outpatient and specialty services. The facility will
+allow for growth of DHHA's ambulatory business, and will create cost savings by centralizing and consolidating certain
+service lines. The OMC is expected to open to patients in fall 2020. The parking structure was funded by the series
+2018 certificates of participation, and is designated for employee parking, as the current employee parking structure
+will be converted to patient use for the OMC. The facility has 1,245 spaces, and is expected to open in mid-2020.
+The city of Denver has historically provided considerable capital support for DHHA, which is one of the supporting
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 5
+
+Denver Health & Hospital Authority, Colorado; Hospital
+
+strengths of DHHA's credit profile as it helps supplant DHHA's own funds, thus allowing DHHA to operate with a
+balance sheet we consider adequate.
+
+Liquidity and debt
+We understand that DHHA's cash balance fluctuates somewhat depending on receipt of funds from the city and state.
+While the balance sheet has improved modestly over time, we expect it to remain relatively flat over the next few
+years as DHHA spends cash and some reserves to fund the construction of the OMC. We also understand that cash
+levels were somewhat inflated as of June 30, 2019, and have since declined with the cash defeasance of the series 2010
+bonds. Still, given DHHA's improved cash flows, we view its liquidity as acceptable at the current rating level.
+The series 2019 transaction eliminates much of DHHA's contingent debt. However, we may consider the series 2019B
+direct placement as a contingent liability. We will review the terms of this direct placement when they become
+available.
+DHHA has one floating to fixed rate swap, which will be eliminated as part of the series 2019 refunding.
+Table 2
+
+Denver Health & Hospital Authority & Subsidiaries, Colorado Financial Statistics
+--Six months
+ended June
+30--
+
+--Fiscal year ended Dec. 31--
+
+Medians for 'BBB'
+rated stand-alone
+hospital
+
+Medians for 'BBB-'
+rated stand-alone
+hospital
+
+2019
+
+2018
+
+2017
+
+2016
+
+2017
+
+2017
+
+Net patient revenue ($000s)
+
+372,726
+
+793,340
+
+660,134
+
+619,876
+
+323,336
+
+314,649
+
+Total operating revenue ($000s)
+
+515,632
+
+1,119,455
+
+1,056,888
+
+989,681
+
+MNR
+
+MNR
+
+Total operating expenses ($000s)
+
+513,389
+
+1,078,399
+
+1,070,834
+
+1,017,861
+
+MNR
+
+MNR
+
+2,243
+
+41,056
+
+(13,946)
+
+(28,180)
+
+MNR
+
+MNR
+
+Financial performance
+
+Operating income ($000s)
+Operating margin (%)
+
+0.44
+
+3.67
+
+(1.32)
+
+(2.85)
+
+0.50
+
+(0.30)
+
+Net nonoperating income ($000s)
+
+5,714
+
+10,892
+
+9,002
+
+8,953
+
+MNR
+
+MNR
+
+Excess income ($000s)
+
+7,957
+
+51,948
+
+(4,944)
+
+(19,227)
+
+MNR
+
+MNR
+
+Excess margin (%)
+
+1.53
+
+4.60
+
+(0.46)
+
+(1.93)
+
+1.70
+
+1.30
+
+Operating EBIDA margin (%)
+
+6.43
+
+9.89
+
+4.25
+
+2.92
+
+6.70
+
+6.80
+
+EBIDA margin (%)
+
+7.46
+
+10.76
+
+5.06
+
+3.79
+
+7.90
+
+8.00
+
+Net available for debt service
+($000s)
+
+38,879
+
+121,636
+
+53,930
+
+37,896
+
+29,306
+
+25,853
+
+Maximum annual debt service
+($000s)
+
+25,769
+
+25,769
+
+25,769
+
+25,769
+
+MNR
+
+MNR
+
+Maximum annual debt service
+coverage (x)
+
+3.02
+
+4.72
+
+2.09
+
+1.47
+
+2.70
+
+1.90
+
+Operating lease-adjusted coverage
+(x)
+
+2.67
+
+4.14
+
+1.91
+
+1.40
+
+2.20
+
+1.70
+
+377,586
+
+376,163
+
+351,264
+
+297,990
+
+117,330
+
+109,027
+
+Unrestricted days' cash on hand
+
+140.5
+
+134.1
+
+124.9
+
+111.4
+
+150.30
+
+131.80
+
+Unrestricted reserves/total
+long-term debt (%)
+
+106.9
+
+106.0
+
+108.8
+
+84.1
+
+136.00
+
+75.90
+
+Liquidity and financial flexibility
+Unrestricted reserves ($000s)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 6
+
+Denver Health & Hospital Authority, Colorado; Hospital
+
+Table 2
+
+Denver Health & Hospital Authority & Subsidiaries, Colorado Financial Statistics (cont.)
+--Six months
+ended June
+30--
+
+--Fiscal year ended Dec. 31--
+
+Medians for 'BBB'
+rated stand-alone
+hospital
+
+Medians for 'BBB-'
+rated stand-alone
+hospital
+
+2019
+
+2018
+
+2017
+
+2016
+
+2017
+
+2017
+
+818.1
+
+343.9
+
+313.5
+
+261.8
+
+543.50
+
+359.00
+
+13.0
+
+10.4
+
+11.7
+
+11.7
+
+12.70
+
+11.50
+
+236.0
+
+129.5
+
+174.5
+
+254.5
+
+107.90
+
+97.10
+
+353,136
+
+354,815
+
+322,821
+
+354,242
+
+MNR
+
+MNR
+
+43.0
+
+45.7
+
+46.5
+
+49.7
+
+33.30
+
+48.00
+
+Unrestricted reserves/contingent
+liabilities (%)
+Average age of plant (years)
+Capital expenditures/depreciation
+and amortization (%)
+Debt and liabilities
+Total long-term debt ($000s)
+Long-term debt/capitalization (%)
+Contingent liabilities ($000s)
+
+46,156
+
+109,371
+
+112,038
+
+113,832
+
+MNR
+
+MNR
+
+Contingent liabilities/total
+long-term debt (%)
+
+13.1
+
+30.8
+
+34.7
+
+32.1
+
+22.30
+
+35.80
+
+Debt burden (%)
+
+2.47
+
+2.28
+
+2.42
+
+2.58
+
+2.70
+
+3.80
+
+76.40
+
+78.10
+
+Defined-benefit plan funded status
+(%)
+MNR--Median not reported.
+
+Credit Snapshot
+
+• Credit overview: DHHA operates a 447-staffed-bed, acute-care hospital (Denver Health Medical Center) with a
+level 1 trauma center, nine federally qualified health centers, and 17 school-based clinics in Denver, as well as a
+100-bed, nonmedical detoxification center. Through a series of agreements with the city of Denver, DHHA is
+responsible for providing certain core public health and hospital services in exchange for an annual negotiated
+amount. As long as DHHA provides these services, the contract is exclusive and cannot be revoked by the city.
+The most significant nonobligated member of the system is the DHMP. For fiscal 2018, the obligated group
+accounted for 91.5% of consolidated total operating revenue and 91% of consolidated assets.
+• Security pledge: DHHA's long-term debt is secured by a revenue pledge of the hospital and the poison control
+center.
+• Group rating methodology: Core
+
+Ratings Detail (As Of August 20, 2019)
+Denver Hlth & Hosp Auth HOSP
+Long Term Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BBB/Stable
+
+Affirmed
+
+AUGUST 20, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 8
+
+

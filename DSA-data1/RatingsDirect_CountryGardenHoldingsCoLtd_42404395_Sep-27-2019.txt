@@ -1,0 +1,1519 @@
+Country Garden Holdings Co. Ltd.
+Primary Credit Analyst:
+Matthew Chow, CFA, Hong Kong (852) 2532-8046; matthew.chow@spglobal.com
+Secondary Contact:
+Christopher Yip, Hong Kong (852) 2533-3593; christopher.yip@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Country Garden Holdings Co. Ltd.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb
+
+bb+
+BB+/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong market position as one of the top three
+developers in China by sales.
+
+Exposure to risk of volatile demand in lower-tier cities, which are more susceptible to
+economic cycles.
+
+Geographically well-diversified, with a sizable land
+bank.
+
+Profitability may decline from peak as company focuses on cash collection amid China's
+slowing economy, leading to moderate increase in leverage.
+
+Proven ability to operate with a huge scale in
+lower-tier cities with cost leadership.
+
+One of the largest developers in China, with strong execution capability in lower-tier cities. We expect Country Garden
+Holdings Co. Ltd. to maintain its strong position as one of the top three property developers in China by sales. The
+company's growth in contracted sales is slowing down due to a high base and choppy performances in some of its
+lower-tier cities. However, we believe Country Garden's strong execution in these cities can enable the company to
+achieve mid-single-digit growth, and maintain its massive scale, with annual sales of about Chinese renminbi (RMB)
+550 billion over the next two years. Country Garden has gone through a few severe downcycles in lower-tier cities, but
+delivered reasonable sales. The company's scale is also much larger than that of other peers rated in the mid-to-high
+'BB' category, including Shimao Property Holdings Ltd. and Greenland Holding Group Co. Ltd., and it has significant
+cost advantages due to better economies of scale.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Country Garden Holdings Co. Ltd.
+
+Chart 1
+
+Margins may peak as the company focuses on cash collection amid current market conditions. We foresee a downward
+trend in margins for Country Gardens due to market conditions in lower-tier cities. We expect Country Garden's
+EBITDA margin to gradually drop to about 20% over the next two years, compared to about 22% in 2018-2019.
+Despite having more projects in higher-tier cities in recent years, Country Garden leveraged on a recovery in lower-tier
+cities to drive growth. The company is still exposed to tier-three and tier-four cities, with about 50% of its land bank
+targeting buyers there. Such exposure runs the risk of more volatile demand, weaker home sales, and macroeconomic
+factors such as the pullback in government subsidies for shantytown redevelopment. Indeed, sales conditions in these
+cities are fluctuating more due to a slowing economy. That, along with Country Garden's priority in maintaining a good
+cash collection rate, limits its pricing power and profitability.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Country Garden Holdings Co. Ltd.
+
+Chart 2
+
+Debt-to-EBITDA ratio to increase moderately to 4.0x-4.3x in 2019-20. This is mainly due to slowing revenue growth
+and lower margins. However, Country Garden's controlled land spending can partially offset the impact. Among other
+factors, Country Garden's more controlled land spending is also due to the recent operational incidents in Shanghai,
+Hangzhou, and Liu'an, which have put the company under heightened public scrutiny. We therefore expect Country
+Garden to focus more on project construction and completion quality rather than going on a buying spree. As such, its
+leverage will still compare favorably with that of similar rated peers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Country Garden Holdings Co. Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Country Garden will continue its fast revenue growth and have
+relatively stable margins over the next 12 months. We expect the company's market position and operating
+efficiency to strengthen and solidify with its expanded scale. We also anticipate that Country Garden's leverage will
+moderately increase over the period as its profitability wanes.
+
+Downside scenario
+We could downgrade Country Garden if its debt-to-EBITDA ratio deteriorates to more than 5x on a sustained basis
+or its EBITDA interest coverage falls below 3x. This could happen if: (1) its revenue growth is materially lower than
+25% in 2019, possibly due to delivery slippage, or its margin drops well below our expectation; or (2) the
+company's debt-funded expansion becomes more aggressive than we expect.
+
+Upside scenario
+We could upgrade Country Garden if: (1) the company's profitability strengthens, demonstrating further
+improvement in operational ability with EBITDA margin sustainably above 22%-23% and (2) the company
+improves its leverage through more disciplined expansion and good revenue growth, such that its debt-to-EBITDA
+ratio can be sustainably below 4x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Country Garden Holdings Co. Ltd.
+
+Assumptions
+
+• China's property sales will increase by 12%-15% in
+2019 driven by higher prices rather than volume
+growth. The easing of liquidity, reasonable mortgage
+availability despite some tightening lately will likely
+drive up property sales
+• Country Garden's average selling price (ASP) to
+trend down by about 2% due to the company's
+significant presence in lower-tier cities where prices
+are likely to be volatile and weaker. Volumes to
+increase 7%-8% in 2019 and 2%-4% in 2020, given
+the company's abundant saleable resources and
+solid execution record.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt/EBITDA
+
+3.9x
+
+3.8x-4.1x
+
+4.0x-4.3x
+
+EBITDA interest coverage
+
+4.4x
+
+4.2x-4.4x
+
+4.1x-4.3x
+
+EBITDA margin
+
+22.4% 20.0%-22.0% 19.0%-21.0%
+
+A--Actual. E--Estimate.
+
+• The company's attributable contracted sales will
+increase by roughly 6% to about RMB536 billion in
+2019 and by about 3% to RMB550 billion in 2020.
+The slower-than-industry growth will be due to a
+combination of sales conditions in lower-tier cities, a
+high base, and the company's own plan.
+• Gross margin to fall to 24%-26% in 2019-2021 from
+about 27% in 2018, owing to price flux in lower-tier
+cities.
+• Consolidated capital spending on land premiums
+will be RMB170 billion-RMB200 billion each year to
+support sales growth.
+• Country Garden's consolidated construction cash
+outflow will grow to RMB300 billion-RMB350 billion
+in 2019 and 2020, compared with about RMB204
+billion in 2018, in line with its project pipeline.
+
+Base-case projections
+Slower growth in adjusted debt over the next two to three years. Country Garden's adjusted borrowings will increase by
+15%-20% each year over the next two to three years, much lesser than historical growth, due to company's plan of
+adopting controlled spending on land.
+EBITDA interest coverage to stay above 4x. We believe Country Garden can maintain its weighted average funding
+cost at slightly over 6% in 2019-2020 despite fluctuating funding conditions. While banks may not see Country
+Garden's projects in lower-tier cities as being of very high quality, the company has diverse funding channels and a
+reducing need of new capital given lower spending.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Country Garden Holdings Co. Ltd.
+
+Company Description
+Country Garden is among China's largest integrated property developers, with 2,381 projects in over 279 cities. The
+company is engaged in property development, construction, decoration, property management, property investment,
+hotel development and management, robotics, and agriculture.
+Country Garden began with a focus on development in lower-tier cities, originally around Guangdong province, and
+then expanded nationwide and abroad. Country Garden was established in Guangdong in 1992 and listed on the Hong
+Kong stock exchange in 2007.
+As of December 2018, Country Garden's attributable land bank is 240.6 million square meter in China, of which 24% is
+in Guangdong province. We estimate the company's land bank in China will generate about RMB1.69 trillion of
+saleable resources, of which 19.3%, 33.9%, and 46.8% target buyers in tier one, tier two, and tier three and four cities.
+
+Business Risk: Satisfactory
+Country Garden's massive land bank will continue to support its strong market position, in our view. Country Garden's
+attributable land bank is among the largest of Chinese developers and can last for four years at the company's current
+pace of sales, which are no longer rapidly increasing. The land bank provides some room for Country Garden to trim
+down land acquisitions while maintaining its huge scale. This is unlike other developers with a much smaller land
+banks.
+Country Garden's good cost control and economies of scale should help the company to enhance its competitive
+advantage in lower-tier cities. We expect that the company's ratio of selling, general, and administrative expenses to
+attributable contracted sales will continue to increase in 2019 due to more staff bonus payments. However, it should
+decline in the next two years as bonuses reduce with slowing growth in contracted sales. This ratio, at 5.8% in 2018
+and 4.5% in 2017, is still reasonable, considering that Country Garden has already made significant bonus payments.
+We expect Country Garden's attributable contracted sales to reach about RMB536 billion in 2019, despite the weak
+performance in the first half of the year. The company has total resources of RMB780 billion available for sale in 2019
+and we estimate the sell-through rate will be 70% (2018: 76.4%). We attribute the weaker performance in the first half
+of 2019 (H12019) to the high base in H1 2018, when the property market in lower-tier cities was booming from
+demand spillover. However, Country Garden's sales have regained momentum in H22019, with policies such as hukou
+and the easing of land registrations in second- and third-tier cities. We expect the demand recovery to enhance the
+company's sales in the next 12-18 months.
+In our view, Country Garden's non-consolidated contracted sales and debt do not contribute a major part of its
+operations. That is despite the consolidated portion of contracted sales declining in 2018 and the company acquiring
+more projects from local developers with only partial stakes in the past one to two years. We believe the attributable
+ratio is low for Country Garden's non-consolidated contracted sales because the company may only have less than
+20% stakes in a number of such joint venture projects.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Country Garden Holdings Co. Ltd.
+
+Peer comparison
+Table 1
+
+Country Garden Holdings Co. Ltd.--Peer Comparison
+Industry Sector: Homebuilders & Real Estate Developers
+Country Garden
+Holdings Co. Ltd.
+
+Shimao Property
+Holdings Ltd.
+
+Longfor Group Greenland Holding Group
+Holdings Ltd.
+Co. Ltd.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenue
+
+379,079.0
+
+85,512.7
+
+115,798.5
+
+348,024.5
+
+EBITDA
+
+84,732.8
+
+26,194.9
+
+35,655.3
+
+36,225.1
+
+Funds from operations (FFO)
+
+30,951.0
+
+12,826.1
+
+20,416.1
+
+14,413.5
+
+Interest expense
+
+19,144.8
+
+7,194.5
+
+5,212.7
+
+3,048.6
+
+Cash interest paid
+
+18,083.8
+
+7,326.9
+
+4,992.2
+
+11,468.5
+
+Cash flow from operations
+
+31,918.0
+
+2,205.9
+
+75,248.6
+
+28,091.9
+
+3,796.0
+
+3,279.1
+
+67,877.2
+
+7,693.0
+
+28,122.0
+
+(1,073.2)
+
+7,371.4
+
+20,398.9
+
+Capital expenditure
+Free operating cash flow
+(FOCF)
+Discretionary cash flow (DCF)
+
+15,725.0
+
+(6,093.7)
+
+2,511.3
+
+15,624.2
+
+Cash and short-term
+investments
+
+240,362.0
+
+43,688.3
+
+45,083.1
+
+77,117.2
+
+Debt
+
+327,522.8
+
+110,470.0
+
+115,544.7
+
+257,507.0
+
+Equity
+
+173,408.0
+
+100,180.2
+
+140,818.1
+
+111,487.8
+
+EBITDA margin (%)
+
+22.4
+
+30.6
+
+30.8
+
+10.4
+
+Return on capital (%)
+
+Adjusted ratios
+
+21.4
+
+13.0
+
+16.9
+
+9.8
+
+EBITDA interest coverage (x)
+
+4.4
+
+3.6
+
+6.8
+
+11.9
+
+FFO cash interest coverage
+(x)
+
+2.7
+
+2.8
+
+5.1
+
+2.3
+
+Debt/EBITDA (x)
+
+3.9
+
+4.2
+
+3.2
+
+7.1
+
+FFO/debt (%)
+
+9.5
+
+11.6
+
+17.7
+
+5.6
+
+Cash flow from
+operations/debt (%)
+
+9.7
+
+2.0
+
+65.1
+
+10.9
+
+FOCF/debt (%)
+
+8.6
+
+(1.0)
+
+6.4
+
+7.9
+
+DCF/debt (%)
+
+4.8
+
+(5.5)
+
+2.2
+
+6.1
+
+RMB--Chinese renminbi.
+
+We consider Longfor Group Holdings Ltd., and Shimao as Country Garden's peers. We select these companies
+because they have geographically diversified property portfolios in China. We also consider Greenland as a peer of
+Country Garden, given both companies have the highest sales nationwide among major property developers in China.
+Country Garden has a much larger operating scale than Longfor and Shimao, and a moderately larger scale than
+Greenland. However, Country Garden focuses more on mass-market, fast-churn products in lower-tier cities with more
+volatile demand over the property cycles. In contrast, these peers have larger exposure to mid- to high-end products in
+more developed cities. That is also evidenced by these companies' contracted sales ASP, which is more than Country
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Country Garden Holdings Co. Ltd.
+
+Garden's ASP of about RMB9,000 per square meter. Country Garden's profitability is therefore the lowest among
+peers, even in comparison to Greenland, which has much better profit in the property segment, after taking out the
+construction segment.
+Greenland has more diversified businesses than Country Garden because it is also involved in energy, construction,
+and other businesses. Despite some improvement, Greenland's leverage is still the weakest among the peers, and is
+much higher than Country Garden's. This is because of Greenland's sizable exposure to commercial properties with
+slower sell-through, and its large capital spending to expand into other business segments (including construction and
+consumer) in recent years.
+Longfor has a track record of more prudent financial management and an increasing rental income contribution from
+both shopping malls and long-term rental apartments. Its leverage is moderately lower than Country Garden's and
+much lower than that of the other peers. These factors support the ratings on Longfor at the higher investment-grade
+level.
+Although Shimao has a lesser scale and slightly higher leverage than Country Garden, it fares much better on
+profitability and has a more balanced land bank with more projects in higher-tier cities. These strengths balance out
+Shimao's relative weakness in comparison to Country Garden, and justify the issuer credit rating of both companies
+being at the same level of 'BB+'.
+
+Financial Risk: Aggressive
+We estimate Country Garden's proportionately consolidated debt-to-EBITDA ratio will be very similar to the
+consolidated figure, at around 4.0x in 2018-2019. We believe that this is a reasonable situation, mainly because the
+company's non-consolidating contracted sales on an attributable basis are not large.
+We believe Country Garden's financial guarantees to joint ventures have already captured a considerable portion of its
+off-balance-sheet debt. As of end-2018, such guarantees amount to RMB58 billion; we include these in our adjusted
+debt. Country Garden's proportional off-balance-sheet debt should only be mildly more than this figure. In our view,
+this is mainly because most joint venture projects with local developers require Country Garden, as the bigger partner,
+to provide a guarantee.
+Country Garden's small trust financing exposure contributes favorably to its capital structure. In 2018, only about 10%
+of the company's total reported debt comprised different types of trust financing. However, as a Chinese developer
+rated in the high 'BB' category, we would expect Country Garden to have a stronger capital structure and limited
+exposure to various type of non-standard financing.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Country Garden Holdings Co. Ltd.
+
+Table 2
+
+Country Garden Holdings Co. Ltd.--Financial Summary
+Industry sector: Homebuilders and real estate developers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+379,079.0
+
+226,899.8
+
+153,087.0
+
+113,222.6
+
+84,548.8
+
+EBITDA
+
+84,732.8
+
+48,740.8
+
+25,291.0
+
+19,168.8
+
+18,429.7
+
+Funds from operations (FFO)
+
+30,951.0
+
+18,811.9
+
+8,051.4
+
+7,738.3
+
+7,526.4
+
+Interest expense
+
+19,144.8
+
+11,051.9
+
+8,293.1
+
+5,421.6
+
+5,089.8
+
+Cash interest paid
+
+18,083.8
+
+10,813.6
+
+7,320.2
+
+5,285.6
+
+4,905.5
+
+Cash flow from operations
+
+31,918.0
+
+25,761.3
+
+40,852.1
+
+(14,476.5)
+
+(3,396.3)
+
+3,796.0
+
+3,576.7
+
+2,578.4
+
+2,616.9
+
+5,106.2
+
+Free operating cash flow (FOCF)
+
+28,122.0
+
+22,184.6
+
+38,273.6
+
+(17,093.4)
+
+(8,502.5)
+
+Discretionary cash flow (DCF)
+
+15,725.0
+
+15,586.1
+
+31,668.6
+
+(21,867.1)
+
+(10,167.1)
+
+Cash and short-term investments
+
+240,362.0
+
+161,914.4
+
+91,968.1
+
+37,428.8
+
+18,760.6
+
+Gross available cash
+
+240,362.0
+
+161,914.4
+
+91,968.1
+
+37,428.8
+
+18,760.6
+
+Debt
+
+327,522.8
+
+209,789.0
+
+138,991.4
+
+101,764.5
+
+61,809.2
+
+Equity
+
+173,408.0
+
+116,611.9
+
+81,615.2
+
+69,812.4
+
+59,352.4
+
+EBITDA margin (%)
+
+22.4
+
+21.5
+
+16.5
+
+16.9
+
+21.8
+
+Return on capital (%)
+
+21.4
+
+18.2
+
+12.9
+
+12.9
+
+16.3
+
+EBITDA interest coverage (x)
+
+4.4
+
+4.4
+
+3.0
+
+3.5
+
+3.6
+
+FFO cash interest coverage (x)
+
+2.7
+
+2.7
+
+2.1
+
+2.5
+
+2.5
+
+Debt/EBITDA (x)
+
+3.9
+
+4.3
+
+5.5
+
+5.3
+
+3.4
+
+FFO/debt (%)
+
+9.5
+
+9.0
+
+5.8
+
+7.6
+
+12.2
+
+Cash flow from operations/debt (%)
+
+9.7
+
+12.3
+
+29.4
+
+(14.2)
+
+(5.5)
+
+FOCF/debt (%)
+
+8.6
+
+10.6
+
+27.5
+
+(16.8)
+
+(13.8)
+
+DCF/debt (%)
+
+4.8
+
+7.4
+
+22.8
+
+(21.5)
+
+(16.4)
+
+(Mil. RMB)
+
+Capital expenditure
+
+Adjusted ratios
+
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We forecast that Country Garden will maintain adequate liquidity, with the ratio of sources to uses of liquidity of
+3.0x-3.5x in 2019. While this level is commensurate with a higher liquidity score, our assessment reflects the
+company's likely substantially higher land acquisitions than the committed amount.
+In our view, as a sizable property developer with a long record, Country Garden has good banking relationships and
+relatively diverse funding channels, both onshore and offshore, such as the rental-housing-backed securities it issued in
+2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Country Garden Holdings Co. Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash balance of about RMB240 billion
+as of Dec. 31, 2018.
+
+• Short-term debt maturities of about RMB126 billion
+due on Dec. 31, 2018.
+
+• Funds from operations in 2019 of RMB130
+billion–RMB135 billion, based on: (1) cash received
+from contracted sales, rentals, and property
+management of RMB510 billion-RMB515 billion; (2)
+construction costs that we estimate at RMB314
+billion–RMB316 billion; and (3) selling, general, and
+administrative expenses, taxes, interest and other
+expenses of RMB115 billion-RMB117 billion.
+
+• Committed but unpaid land premium of about
+RMB17 billion in 2019.
+• Dividends and capital expenditure of about
+RMB13.5 billion during the year.
+
+• New borrowings drawdown of about RMB157
+billion.
+
+Debt maturities
+Table 3
+
+Country Garden Holdings Co. Ltd.--Debt Maturities*
+Period
+
+Amount (Mil. RMB)
+
+Within one year
+
+126
+
+One to two years
+
+89
+
+Two to five years
+
+96
+
+After five years
+
+18
+
+Total
+
+329
+
+*As of Dec. 31, 2018. RMB--Renminbi.
+
+Covenant Analysis
+Compliance expectations
+The major financial covenants in Country Garden's offshore bank borrowings relate to: (1) consolidated tangible net
+worth; (2) EBITDA interest coverage; and (3) ratio of consolidated total net borrowings to tangible net worth.
+Country Garden was in compliance with these covenants as on Dec. 31, 2018.
+
+Requirements
+Country Garden exceeds the required levels of the financial covenants by various margins. We believe that the
+company has adequate headroom for all of them.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Country Garden Holdings Co. Ltd.
+
+Environmental, Social, And Governance
+
+Given Country Garden's rapid expansion in recent years and its fast turnover project cycle, environment risk
+factors are becoming more material. However, they do not directly affect our credit analysis.
+We believe Country Garden's increasing green project development and implementation of SSGF (Sci-tech, Safe &
+Share, Green, Fine & Fast) construction system could shorten its construction cycle, reducing consumption of
+construction resources. This should lower the environmental impact of the company's business while strengthening
+its fast turnover model.
+We believe quality control and building safety remain key risks to Country Garden's social reputation. Two
+operational accidents with six casualties in 2018 caused significant reputational damage. These have partly led to a
+scaling back of Country Garden's growth targets and implementation of new control measures of more regular site
+supervision, weekly safety checks by third-party inspectors, and application of more stringent standards on
+material sourcing.
+Country Garden's aggressive sales targets in the past could also be a source of social discontent--accelerated
+planning and construction cycles could affect product quality, while frequent changes to pricing could cause
+large-scale homebuyer disputes.
+Although we see Country Garden's corporate governance as neutral to the credit standing, controlling ownership
+remains a risk as the owner family occupies six of the 14 seats on the board and could exert significant influence on
+decisions.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of Dec. 31, 2018, Country Garden's capital structure consists of RMB119.1 billion in secured debt and RMB91.7
+billion in unsecured debt issued at the holding company level, and RMB117.7 billion in unsecured debt issued by its
+operating subsidiaries.
+
+Analytical conclusions
+Country Garden's secured and priority debt accounts for slightly more than 70% of its total debt. We rate the
+company's senior unsecured notes at 'BB', one notch lower than the issuer credit rating to reflect the significant
+subordination risks.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+Country Garden Holdings Co. Ltd.
+
+Table 4
+
+Reconciliation Of Country Garden Holdings Co. Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-Country Garden Holdings Co. Ltd. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+121,330.0
+
+78,062.0
+
+77,018.0
+
+--
+
+84,732.8
+
+29,381.0
+
+(35,698.0)
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+328,475.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(18,068.0)
+
+--
+
+254.3
+
+--
+
+92.8
+
+15.8
+
+15.8
+
+(15.8)
+
+77.0
+
+(60,090.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+12,300.0
+
+12,300.0
+
+19,129.0
+
+--
+
+--
+
+Share-based
+compensation expense
+
+--
+
+--
+
+354.0
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+3,642.0
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2,460.0
+
+Noncontrolling
+interest/minority interest
+
+--
+
+52,078.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+58,090.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+Accessible cash and liquid
+investments
+
+Debt: Guarantees
+Debt: Other
+
+794.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(28.0)
+
+(28.0)
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+(6,048.0)
+
+(6,048.0)
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+1,752.0
+
+--
+
+--
+
+--
+
+(952.2)
+
+52,078.0
+
+6,670.8
+
+11,633.8
+
+19,144.8
+
+(53,781.8)
+
+2,537.0
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+30,951.0
+
+31,918.0
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+327,522.8
+
+173,408.0
+
+84,732.8
+
+88,651.8
+
+19,144.8
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Moderately high
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 13
+
+Country Garden Holdings Co. Ltd.
+
+• Industry risk: Moderately high
+• Competitive position: Strong
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bb+
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 14
+
+Country Garden Holdings Co. Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+Country Garden Holdings Co. Ltd.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Senior Unsecured
+
+BB
+
+Issuer Credit Ratings History
+26-Mar-2018
+
+BB+/Stable/--
+
+14-Jul-2017
+
+BB/Positive/--
+
+17-Mar-2016
+
+BB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 16
+
+

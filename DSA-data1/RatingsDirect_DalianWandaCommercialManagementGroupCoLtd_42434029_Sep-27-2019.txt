@@ -1,0 +1,1561 @@
+Dalian Wanda Commercial
+Management Group Co. Ltd.
+Primary Credit Analyst:
+Aeon Liang, Hong Kong (852) 2533-3563; aeon.liang@spglobal.com
+Secondary Contact:
+Cindy H Huang, Hong Kong (852) 2533-3543; cindy.huang@spglobal.com
+Research Contributor:
+Harshil Doshi, CRISIL Global Analytical Center, an S&P affiliate, Mumbai
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+Dalian Wanda Commercial Management Group
+Co. Ltd.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb
+
+bb
+BB/Positive/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Increasing recurring rental income from a growing portfolio of commercial
+malls in China.
+
+Execution risk associated with the evolving "asset-light" business
+model.
+
+Lower volatility in cash flow and leverage following ongoing business
+transition.
+
+High capital expenditure owing to ambitious expansion plan.
+
+Adequate liquidity with a high cash balance.
+
+Uncertainty around property development activities at Dalian
+Wanda Group.
+
+Accelerating transition to an asset-light business model provides long-term sustainability, despite some execution risk.
+Dalian Wanda Commercial Management Group Co. Ltd.'s focus on rental income from 2020 following the winding
+down of its property development business will lead to lower volatility in cash flow and leverage. The company is on
+track to becoming a commercial property manager. This business typically has higher margins, stronger earnings
+stability, and lower capital intensity than property development. We expect Wanda Commercial's leasing activities to
+generate about 50% of EBITDA in 2019 and more than 90% of EBITDA in 2020. This is despite some execution risk
+due to the company's still-evolving asset-light model in the mainland China.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Chart 1
+
+Leverage to bulge over the next 12 months before reducing. We expect Wanda Commercial's financial leverage,
+measured by the debt-to-EBITDA ratio, to deteriorate toward 5.0x in 2020, from 3.7x in 2018 and our estimate of
+3.3x-3.7x for 2019. We anticipate the company will deleverage from 2021. The spike in leverage is because the decline
+in EBITDA will outpace debt reduction amid contraction of property sales. Wanda Commercial's high capital
+expenditure (capex) to support its ambitious target of opening 45-50 new malls per year over the next two to three
+years puts additional pressure on its leverage. However, we believe the costs can be largely absorbed by internal cash
+generation.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Chart 2
+
+Resumption of property development at parent group could constrain Wanda Commercial's credit profile.The group is
+resuming its property development business at Wanda Commercial's sister company, Wanda Properties Group Co.
+Ltd. (unrated). Uncertainty around Wanda Properties' investment spending and growth trajectory could affect Dalian
+Wanda Group's financial metrics, which could hurt Wanda Commercial's credit profile. However, we do not expect
+Dalian Wanda Group to aggressively assume property development activities through Wanda Properties, given the
+group's strategic focus on the commercial property management business through Wanda Commercial. We expect
+Wanda Properties' investment spending, including land acquisitions, to be fairly disciplined and not raise the group's
+overall leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Outlook: Positive
+
+The positive outlook reflects our view that Wanda Commercial will complete its business model transition with a
+higher proportion of recurring cash inflow within the next 12 months. We also expect the company's rental income
+to continue to have strong growth over the next two to three years. We anticipate that Wanda Commercial will
+maintain a disciplined expansion plan such that its financial leverage and liquidity remain stable.
+
+Downside scenario
+We may revise the outlook to stable if Wanda Commercial's execution of its asset-light model is slower than we
+anticipate, leading to capex and investments substantially above our forecast. An indication of this could be a
+debt-to-EBITDA ratio of above 5x on a sustained basis, or EBITDA from leasing activities accounting for less than
+two-thirds of total EBITDA.
+We may revise the outlook to stable if Dalian Wanda Group's credit profile deteriorates, possibly due to aggressive
+expansion into property development or weaker cash flow than we anticipate. A ratio of debt to EBITDA at the
+group level of more than 5.5x on a sustained basis could indicate such weakness.
+We may also revise the outlook if shareholders exert pressure on Wanda Commercial to provide
+shareholder-friendly measures, such as large dividend payments or funding for property development projects,
+which would materially affect the company's financial metrics.
+
+Upside scenario
+We may raise the rating if Wanda Commercial's rental income continues to grow, leading to positive free cash
+flow, despite lower property sales. An indication of this could be the ratio of debt to EBITDA below 5.0x on a
+sustained basis, and EBITDA from leasing activities accounting for more than two-third of total EBITDA.
+The group credit profile of Dalian Wanda Group would also need to improve in tandem.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• China's GDP growth of 6.2% in 2019 and 2020.
+• Wanda Commercial's property contracted sales of
+about Chinese renminbi (RMB) 26 billion in 2019,
+and no meaningful contracted sales from 2020. The
+company's pace of contracted is more driven by its
+transition away from property development rather
+than sector conditions.
+
+Debt/EBITDA
+EBITDA/ Interest
+EBITDA margin
+
+2018A
+
+2019E
+
+2020F
+
+2021F
+
+3.7x
+
+3.5x-3.9x
+
+4.5x-4.9x
+
+4.0x-4.4x
+
+4.0x
+
+3.5x-4.0x
+
+2.5x-3.0x
+
+2.7x-3.2x
+
+38.8% 41%-45% 56%-60% 57%-61%
+
+A--Actual. E--Estimate. F--Forecast.
+
+• Growth of rental income, revenue from hotel
+operations, and other income of 10%-15% per year,
+based on 5%-10% growth in rentals, high occupancy
+of 99%-100%, and 10%-15% increase in new floor
+area per year, including through acquisitions of new
+malls.
+• Decline in overall revenue over 2019-2020 due to
+depleting property sales revenue, mitigated by
+growing rental income.
+• Capex and acquisition investments of RMB14
+billion-RMB20 billion annually over 2019-2021.
+• Dividend payments of about RMB5.4 billion per
+year.
+• Accessible cash adjustment of 25% to reflect high
+cash balance available for debt repayment and less
+tied to use for property development.
+
+Base-case projections
+Margins to improve with higher proportion of rental income. We expect Wanda Commercial's EBITDA margin to
+improve toward 60% in 2020-2021, from 38.8% in 2018, following the winding down of the lower-margin property
+development business. We estimate that the margin will be about 43% during the transition in 2019. We believe the
+company can sustain the enhanced profitability, given its record.
+
+Company Description
+Wanda Commercial invests in, develops, operates, manages, and leases commercial properties in China. It also owns
+and manages self-branded hotels. The company offers its properties primarily under the Wanda Plaza brand. Wanda
+Commercial has a property development business but has been winding it down in the past two years through asset
+sales. The company expects to complete or sell off the remainder of its development projects by 2020. Formerly
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+known as Dalian Wanda Commercial Properties Co. Ltd., Wanda Commercial was founded in 1988 and is based in
+Beijing, China.
+Dalian Wanda Group Co. Ltd., which holds a 42.61% equity interest in Wanda Commercial, is a large Chinese
+conglomerate with a diverse range of businesses. As of end-2018, the group was China's largest owner and operator of
+shopping centers (through Wanda Commercial), one of the world's largest cinema operators, one of the world's largest
+sports events, media and market platforms, and China's leading children's entertainment and education franchise.
+The founder, Mr. Wang Jianlin, together with his family members, directly and indirectly holds 100% of Dalian Wanda
+Group, and, in turn, 51.34% of Wanda Commercial. The second-largest shareholder of Wanda Commercial is an
+investor consortium including Tencent Holdings Ltd., Sunac China Holdings Ltd., Suning.com Co. Ltd., and JD.com
+Inc. The consortium holds a 14.4% equity interest in Wanda Commercial.
+Chart 3
+
+Chart 4
+
+Business Risk: Satisfactory
+Wanda Commercial's strong growth in rental income and focus on property investment and management support its
+business standing. The company is the largest commercial property manager in China. It achieved more than RMB30
+billion of rental income from commercial properties in 2018, up 23% from 2017. As of end-2018, the company has
+about 28 million square meters of leasable gross floor area (GFA) through 280 Wanda Plazas spread across 165 cities
+nationwide, with a high occupancy rate of more than 99%. This is in line with or better than that of international peers
+such as Link Real Estate Investment Trust (Link REIT) and Unibail-Rodamco-Westfield SE. We expect the number of
+Wanda Plazas to increase to more than 350 by 2020, covering all tier-one and tier-two cities in China.
+We expect Wanda Commercial's rental income and EBITDA margin to continue to grow strongly, supported by new
+malls in the pipeline, high occupancy rate, and the completion of its transition to a rental operator. The company is
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+planning to open 45-50 new malls per year over the next two to three years. Two-thirds of new malls will be
+"asset-light" where Wanda Commercial will act as a franchise partner and provide management services, with no
+material capex. This business model, however, is still evolving in mainland China and is less mature than the
+residential property development business. Long-term feasibility of the business remains to be tested.
+Tenant stickiness is one of Wanda Commercial's key competitive advantages, in our opinion. The company's
+diversified tenant base also underpins resilient rental income. Wanda Commercial derives 30% of total rental income
+from top- and second-tier brands, including brands from its parent group, such as Wanda Cinema and Wanda
+Department Store. Lease terms usually start from five years, with top- and second-tier brands typically signing leases
+for up to 10 years.
+These strengths are partly offset by Wanda Commercial's concentration in China, and execution risks associated with
+the still-evolving asset-light business model. We anticipate the company will need to maintain high capex over the next
+two to three years to support its mall expansion. It is also uncertain whether Wanda Commercial will need to return to
+acquiring new land parcels for its new malls.
+We do not expect the Dalian Wanda group to aggressively extract cash or financial support from Wanda Commercial.
+In our view, the group has a strong incentive to preserve the financial strength of Wanda Commercial, given it is the
+group's flagship subsidiary and largest income contributor. However, a weakening of the group credit profile of the
+Dalian Wanda group, resulting from for example aggressive property development, could further constrain the rating
+on Wanda Commercial.
+
+Peer comparison
+Table 1
+
+Dalian Wanda Commercial Management Group Co. Ltd. -- Peer Comparison
+Industry Sector: Homebuilders & Real Estate Developers
+Dalian Wanda Commercial
+Management Group Co. Ltd
+
+China Resources
+Land Ltd.
+
+Link Real Estate
+Investment Trust
+
+Hongkong Land
+Holdings Ltd.
+
+--Fiscal year ended-Dec. 31, 2018
+
+Dec. 31, 2018
+
+March 31, 2019
+
+Dec. 31, 2018
+
+Revenue
+
+104,888.0
+
+121,188.9
+
+8,581.4
+
+18,332.2
+
+EBITDA
+
+40,645.7
+
+48,582.9
+
+6,215.7
+
+8,331.1
+
+Funds from operations
+(FFO)
+
+19,355.5
+
+18,825.1
+
+4,718.7
+
+5,962.1
+
+Interest expense
+
+10,127.2
+
+6,471.7
+
+590.7
+
+1,217.0
+
+Cash interest paid
+
+10,872.2
+
+5,749.1
+
+554.8
+
+1,185.4
+
+Cash flow from operations
+
+18,365.5
+
+22,742.7
+
+4,614.4
+
+4,182.8
+
+Capital expenditure
+
+12,483.0
+
+14,199.5
+
+2,284.5
+
+1,034.4
+
+5,882.5
+
+8,543.2
+
+2,329.9
+
+3,148.3
+
+(46.5)
+
+1,838.2
+
+(5,136.6)
+
+(982.5)
+
+85,983.0
+
+70,808.6
+
+5,804.5
+
+9,458.4
+
+(Mil. CNY)
+
+Free operating cash flow
+(FOCF)
+Discretionary cash flow
+(DCF)
+Cash and short-term
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Table 1
+
+Dalian Wanda Commercial Management Group Co. Ltd. -- Peer Comparison (cont.)
+Industry Sector: Homebuilders & Real Estate Developers
+Dalian Wanda Commercial
+Management Group Co. Ltd
+
+China Resources
+Land Ltd.
+
+Link Real Estate
+Investment Trust
+
+Hongkong Land
+Holdings Ltd.
+
+Debt
+
+149,678.2
+
+144,814.7
+
+20,709.9
+
+26,964.7
+
+Equity
+
+264,730.0
+
+175,704.7
+
+161,870.1
+
+263,899.0
+
+EBITDA margin (%)
+
+38.8
+
+40.1
+
+72.4
+
+45.4
+
+Return on capital (%)
+
+9.9
+
+18.1
+
+3.5
+
+3.4
+
+EBITDA interest coverage
+(x)
+
+4.0
+
+7.5
+
+10.5
+
+6.8
+
+FFO cash interest
+coverage (x)
+
+2.8
+
+4.3
+
+9.5
+
+6.0
+
+Debt/EBITDA (x)
+
+3.7
+
+3.0
+
+3.3
+
+3.2
+
+FFO/debt (%)
+
+12.9
+
+13.0
+
+22.8
+
+22.1
+
+Cash flow from
+operations/debt (%)
+
+12.3
+
+15.7
+
+22.3
+
+15.5
+
+3.9
+
+5.9
+
+11.3
+
+11.7
+
+(0.0)
+
+1.3
+
+(24.8)
+
+(3.6)
+
+Adjusted ratios
+
+FOCF/debt (%)
+DCF/debt (%)
+CNY--Chinese yuan.
+
+We consider Link REIT and Hongkong Land Holdings Ltd. (HK Land) as Wanda Commercial's close peers for the
+commercial property management segment, and China Resources Land Ltd. (CR Land) as a close property developer
+peer.
+Wanda Commercial's operating scale and diversity is much smaller than that of CR Land. Wanda Commercial's scale is
+contracting following its transition away from property development. However, the company's rental portfolio is much
+larger than CR Land's. The latter operates just 51 malls, with 94% occupancy. Wanda Commercial's rental income is
+about 3x CR Land's and its geographic diversity is greater.
+HK Land has better geographic diversity in international markets than Wanda Commercial and Link REIT. HK Land
+has been increasing exposure to mainland China and Southeast Asia, from its key markets of Hong Kong and
+Singapore. Link REIT has presence primarily in Hong Kong, although it's been conducting debt-funded expansion in
+mainland China in recent years.
+Wanda Commercial has a significantly larger rental income base and leasable GFA than HK Land and Link REIT.
+Average occupancy rate of Wanda Commercial's malls is generally in line with these peers.
+Link REIT has the highest EBITDA margin because it has major exposure to the more developed Hong Kong market.
+Link REIT may also be more resilient in a severe economic downturn due to its focus on nondiscretionary spending.
+Wanda Commercial's leverage is comparable to that of all peers, despite its greater growth appetite. The company's
+gross debt has been decreasing in the past two years following the business model transition.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Chart 5
+
+Chart 6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 10
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Financial Risk: Aggressive
+Wanda Commercial's financial metrics will largely depend upon the company's ability to maintain its high occupancy
+rate and good rental revisions, as well as success in becoming an asset-light property operator and manager. The
+asset-light model will allow Wanda Commercial to act only as a franchise partner and provide management services,
+with no material capex. By our forecast, 40%-50% of the company's new malls in 2019 will adopt this model.
+Wanda Commercial will need to maintain high capex to support its expansion plan over the next two to three years
+because a large portion of its new malls will remain under the asset-heavy model. However, we believe the company
+will exercise financial prudence and balance capital spending with cash generation from rental income and
+debt-funded expansion.
+We expect Wanda Commercial's funding costs to moderately increase in the coming one to two years due to
+tightening credit conditions. The funding costs were about 4.9% in 2018. The company's balanced capital structure
+partly mitigates the risk of higher funding costs. As of Dec. 31, 2018, 47% of Wanda Commercial's reported debt
+comprises working capital loans from banks, typically pledged by investment property assets with tenors up to 10
+years. The cost is rather low, at 4.4%-6.9%.
+
+Financial summary
+Table 2
+
+Dalian Wanda Commercial Management Group Co. Ltd. -- Financial Summary
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+104,888.0
+
+133,022.3
+
+125,206.6
+
+124,203.0
+
+107,871.0
+
+EBITDA
+
+40,645.7
+
+48,809.0
+
+43,076.0
+
+41,572.0
+
+36,301.5
+
+Funds from operations (FFO)
+
+19,355.5
+
+14,327.7
+
+9,358.9
+
+16,187.4
+
+6,871.4
+
+Interest expense
+
+10,127.2
+
+12,370.0
+
+11,274.5
+
+13,030.6
+
+12,386.1
+
+Cash interest paid
+
+10,872.2
+
+11,394.3
+
+10,348.3
+
+11,692.6
+
+12,315.1
+
+Cash flow from operations
+
+18,365.5
+
+15,117.2
+
+27,938.1
+
+20,283.4
+
+(3,162.6)
+
+Capital expenditure
+
+12,483.0
+
+25,900.8
+
+43,279.5
+
+44,062.0
+
+39,301.0
+
+5,882.5
+
+(10,783.7)
+
+(15,341.4)
+
+(23,778.6)
+
+(42,463.6)
+
+(46.5)
+
+(16,476.8)
+
+(20,095.1)
+
+(28,079.6)
+
+(44,462.6)
+
+85,983.0
+
+114,030.5
+
+94,734.7
+
+66,666.0
+
+87,274.0
+
+(Mil. CNY)
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+Gross available cash
+
+85,983.0
+
+114,030.5
+
+94,734.7
+
+66,666.0
+
+87,274.0
+
+Debt
+
+149,678.2
+
+175,138.5
+
+227,448.5
+
+186,747.9
+
+181,113.1
+
+Equity
+
+264,730.0
+
+242,851.9
+
+223,376.1
+
+185,897.0
+
+155,146.0
+
+EBITDA margin (%)
+
+38.8
+
+36.7
+
+34.4
+
+33.5
+
+33.7
+
+Return on capital (%)
+
+9.9
+
+10.9
+
+10.3
+
+11.7
+
+12.4
+
+EBITDA interest coverage (x)
+
+4.0
+
+3.9
+
+3.8
+
+3.2
+
+2.9
+
+FFO cash interest coverage (x)
+
+2.8
+
+2.3
+
+1.9
+
+2.4
+
+1.6
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 11
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Table 2
+
+Dalian Wanda Commercial Management Group Co. Ltd. -- Financial Summary (cont.)
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+3.7
+
+3.6
+
+5.3
+
+4.5
+
+5.0
+
+FFO/debt (%)
+
+12.9
+
+8.2
+
+4.1
+
+8.7
+
+3.8
+
+Cash flow from operations/debt (%)
+
+12.3
+
+8.6
+
+12.3
+
+10.9
+
+(1.7)
+
+3.9
+
+(6.2)
+
+(6.7)
+
+(12.7)
+
+(23.4)
+
+(0.0)
+
+(9.4)
+
+(8.8)
+
+(15.0)
+
+(24.5)
+
+Debt/EBITDA (x)
+
+FOCF/debt (%)
+DCF/debt (%)
+CNY--Chinese yuan.
+
+Liquidity: Adequate
+We assess Wanda Commercial's liquidity as adequate, given the company's high cash balance and manageable debt
+maturities. We project the company's cash sources will exceed its cash uses by over 1.1x in 2019.
+We do not assess liquidity to be stronger, given the company's ambitious appetite of adding 45-50 new malls per year
+over the next two to three years. The new malls will require high capex. The portion of capital intensive malls could
+also increase if Wanda Commercial fails to fully implement its asset-light model.
+We view the company as having sound banking relationships, as shown by its ability to arrange and fulfill its agreed
+repayment schedule with banks. With a high-quality investment property portfolio, Wanda Commercial has been able
+to secure long-tenor bank facilities with all major onshore banks, including the four largest banks and 11 largest
+commercial banks. Together, they have granted the company RMB360 billion in general bank lines as of end-2018, of
+which RMB150 billion has not been utilized. In addition, the company has shown a reasonable ability to dispose of
+overseas non-core assets to relieve its offshore liquidity pressure.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash of RMB77.4 billion as of Dec. 31,
+2018.
+
+• Short-term debt of RMB22.6 billion as of Dec. 31,
+2018.
+
+• Cash funds from operations (FFO) of about RMB24
+billion in 2019, comprising: (1) cash received from
+attributable property sales, hotel rentals, rental
+income, and other income of about RMB110 billion;
+(2) construction costs of about RMB10.5 billion; (3)
+interest expenses of about RMB9 billion; and (4)
+selling, general and administrative expenses, taxes,
+and others of about RMB67 billion.
+
+• Capex and spending on acquisitions of about
+RMB20 billion over the 12 months ending Dec. 31,
+2019.
+• Cash dividends that we estimate at RMB5.5 billion
+for 2019.
+
+• New onshore and offshore issuances of about RMB2
+billion in January-March 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 12
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Debt maturities
+Table 3
+
+Dalian Wanda Commercial Management Group Co. Ltd. -- Debt Maturity As Of Dec. 31, 2018
+Year
+
+Amount (mil. RMB)
+
+2019
+
+22,693.0
+
+2020
+
+49,053.0
+
+2021
+
+49,269.0
+
+2022
+
+12,704.0
+
+2023
+
+12,441.0
+
+Thereafter
+
+42,530.0
+
+Total
+
+188,690.0
+
+RMB--Chinese renminbi.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Dalian Wanda Commercial Management Group Co. Ltd. Reported Amounts With S&P
+Global Ratings' Adjusted Amounts (Mil. CNY)
+--Fiscal year ended Dec. 31, 2018-Dalian Wanda Commercial Management Group Co. Ltd reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+245,787.0
+
+39,032.0
+
+36,912.0
+
+8,965.0
+
+40,645.7
+
+29,114.0
+
+Debt
+
+Shareholders'
+equity
+
+188,689.0
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(10,418.0)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+Reported lease liabilities
+Operating leases
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(10,785.0)
+
+--
+
+3,606.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+374.7
+
+--
+
+123.7
+
+87.2
+
+87.2
+
+(87.2)
+
+36.5
+
+(42,991.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+939.0
+
+939.0
+
+1,075.0
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+29.0
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+1,515.0
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(10,785.0)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+18,943.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+91.0
+
+91.0
+
+--
+
+--
+
+--
+
+EBITDA: Foreign
+exchange gain/(loss)
+
+--
+
+--
+
+431.0
+
+431.0
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 13
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Table 4
+
+Reconciliation Of Dalian Wanda Commercial Management Group Co. Ltd. Reported Amounts With S&P
+Global Ratings' Adjusted Amounts (Mil. CNY) (cont.)
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+Total adjustments
+
+--
+
+--
+
+--
+
+1,397.0
+
+--
+
+--
+
+--
+
+(39,010.8)
+
+18,943.0
+
+1,613.7
+
+4,460.2
+
+1,162.2
+
+(21,290.2)
+
+(10,748.5)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+19,355.5
+
+18,365.5
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+149,678.2
+
+264,730.0
+
+40,645.7
+
+41,372.2
+
+10,127.2
+
+CNY--Chinese yuan.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Positive/--
+
+Business risk: Satisfactory
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 14
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria | Corporates | Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 10, 2019)*
+Dalian Wanda Commercial Management Group Co. Ltd
+Issuer Credit Rating
+
+BB/Positive/--
+
+Issuer Credit Ratings History
+07-Aug-2019
+
+BB/Positive/--
+
+29-May-2018
+
+BB/Stable/--
+
+27-Sep-2017
+
+BB/Negative/--
+
+17-Jul-2017
+
+BBB-/Watch Neg/--
+
+12-Dec-2016
+
+BBB-/Negative/--
+
+02-Feb-2016
+
+BBB/Negative/--
+
+22-Jan-2016
+
+BBB+/Watch Neg/--
+
+27-May-2015
+
+BBB+/Negative/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 15
+
+Dalian Wanda Commercial Management Group Co. Ltd.
+
+Ratings Detail (As Of September 10, 2019)*(cont.)
+Related Entities
+Wanda Commercial Properties (Hong Kong) Co. Ltd.
+Issuer Credit Rating
+
+BB-/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 17
+
+

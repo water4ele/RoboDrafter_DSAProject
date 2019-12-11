@@ -1,0 +1,1474 @@
+Koninklijke DSM N.V.
+Primary Credit Analyst:
+Oliver Kroemker, Frankfurt (49) 69-33-999-160; oliver.kroemker@spglobal.com
+Secondary Contact:
+Gaetan Michel, Paris (33) 1-4420-6726; gaetan.michel@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+Koninklijke DSM N.V.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a
+
+a-
+
+a-
+
+A-/Stable/A-2
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading market positions in a wide range of nutritional products including vitamins,
+carotenoids, lipids, and feed enzymes.
+
+Intense competition from Chinese producers of vitamins
+(notably vitamin E and C).
+
+Broad product, end-market, and geographical diversity.
+
+Significant cash outlays for funding shareholder returns and
+potential acquisitions.
+
+Strong funds from operations (FFO) to debt of about 80% in 2019, reducing from a
+high level in 2018, but remaining strong.
+Exceptional liquidity and considerable headroom under the current rating.
+Strong innovation pipeline addressing growth and sustainability targets.
+
+DSM's earnings are supported by its leading market position in the profitable nutrition business and solid end-market
+diversification: We believe its earnings in the nutrition business will continue to benefit from fundamental megatrends
+such as the growing population, the increasing demand for convenience and processed foods, growing consumption of
+meat, and rising awareness of health and the role of dietary supplements. The company plans to support its organic
+growth through acquisitions primarily in the nutrition sector.
+Credit quality is supported by its large research & development projects and cost controls as outlined in its Strategy
+2019-2021, announced last year. We believe the company's focus on developing innovative solutions in the fields of
+nutrition and health, and climate and energy, and resources, along with continued cost discipline, will support its credit
+quality.
+Strong free operating cash flow (FOCF) generation has improved its cash position and DSM has considerable headroom
+under the rating. We anticipate that DSM will undertake acquisitions and also continue to return cash to shareholders.
+We do not believe that management is committed to a higher rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+Koninklijke DSM N.V.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Dutch chemicals company Koninklijke DSM N.V. (DSM) will report
+resilient operating performance in the coming years, benefiting from a focus on cost efficiencies, working capital
+management, and innovation. We consider a ratio of S&P Global Ratings-adjusted funds from operations (FFO) to
+debt of about 35%-40% as commensurate with the 'A-' rating and believe that the company has considerable rating
+headroom.
+
+Downside scenario
+We see a downgrade as unlikely, reflecting the strong rating headroom. However, we could lower the rating if
+DSM's FFO to debt declined below 35%, for example if the nutrition segment margins weakened as a result of
+increased competition, or if the benefits of its operational efficiency program were not sustainable. Similarly, a
+weaker financial policy commitment, demonstrated, for example, by a combination of higher-than-anticipated
+acquisitions, dividends, or share buybacks, could also prompt a negative rating action.
+
+Upside scenario
+We could raise the rating on DSM provided that we were confident that the company could sustain an adjusted
+FFO-to-debt ratio of above 45%--a level that we view as commensurate with an 'A' rating. We would take this
+action if we were confident that DSM would maintain an appropriate balance between potential acquisitions,
+dividends, and share buybacks, such that the FFO-to-debt ratio was maintained, and if management committed to
+higher credit metrics.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+Koninklijke DSM N.V.
+
+Assumptions
+
+• We expect revenues to be flat year-on-year in 2019,
+including the temporary vitamin effect for 2018, as
+vitamin prices normalize after the exceptionally high
+revenues of 2018. The company has reported
+revenue decline of 5% year-on-year in first-half
+2019, including the 2018 temporary vitamin effect.
+We expect the performance to improve in the
+second half as underlying revenue growth remains
+strong.
+
+Key Metrics
+
+2018A
+EBITDA (€ mil.)
+FFO/Debt (%)
+Debt/EBITDA (x)
+
+2019E
+
+2020E
+
+1,806.5 1,650-1,700 1,700-1,750
+211.9
+
+81-83
+
+65-68
+
+0.4
+
+~1.0
+
+1.2-1.4
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• We assume sales growth of 3%-4% in 2020-2022,
+driven by volume growth in animal nutrition and
+human nutrition. In performance materials, we
+expect 2% growth in sales in 2019, increasing over
+the forecast period, to reach DSM's strategic target
+of 5% by 2023. The growth is expected to be led by
+a move toward sustainable solutions.
+• Reported EBITDA margins (after exceptional items)
+of 17%-18% supported by DSM's comprehensive
+cost savings program in the nutrition segment and
+support functions.
+• Working capital outflows of about €0.1 billion-€0.2
+billion over the forecast period, reflecting growth of
+the business.
+• Capital expenditure (capex) of about €0.6
+billion-€0.7 billion, of which we understand about
+50% is for maintenance.
+• Cash dividends of about €0.3 billion reflecting
+DSM's stable-to-progressive dividend policy.
+• Share buyback of €600 million in 2019 and €400
+million in 2020, based on the share buyback
+program announced by the company, on top of its
+regular share buybacks for its stock dividends and
+compensation programs, which amounted to €265
+million in first-half 2019.
+• We anticipate acquisitions of €0.6 billion expected in
+2019, and €0.3 billion in 2020.
+
+Base-case projections
+DSM should see a normalization in EBITDA margins in 2019: We forecasts margins to normalize in 2019 as underlying
+vitamin markets stabilize. We also assume that DSM's S&P Global Ratings-adjusted EBITDA margins will remain
+resilient at 17%-18%, supported by DSM's comprehensive cost savings program in the nutrition segment and support
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+Koninklijke DSM N.V.
+
+functions.
+The company will maintain low leverage despite continued focus on acquisitions and shareholder returns: We project
+leverage will be 1.0x-1.4x over our forecast period.
+
+Company Description
+DSM generated sales of €9.3 billion in 2018 by manufacturing numerous nutritional ingredients including fat- and
+water-soluble vitamins, carotenoids, marine and microbial polyunsaturated fatty acids (PUFAs), as well as high
+performance resins, optical fiber coatings, thermoplastic solutions, and fibers. DSM is part of The Netherlands' flagship
+stock index, AEX 25. DSM had a market capitalization of €22.7 billion on July 31, 2019.
+DSM operates across two divisions:
+• Nutrition (73% of 2018 reported EBITDA). The division targets animal and human applications, and produces
+vitamins, carotenoids, marine and microbial PUFAs, dietary supplements, taste ingredients, and enzymes. In
+addition, it sells complete nutritional solutions including advanced premixes for animal feed as well as human
+nutrition end-markets (including Food & Beverages, Dietary Supplements, Early Life Nutrition). About 10% of the
+division's sales stem from direct sales to consumers and farmers. DSM holds leading positions in several of these
+markets. Competitors include other specialty chemical companies such as BASF SE, DuPont (E.I.) De Nemours &
+Co., Kerry Group PLC, International Flavors & Fragrances Inc., and several Chinese producers.
+• Materials (27% of 2018 reported EBITDA). The division is split into three segments: engineering plastics, Dyneema,
+and resins and functional materials. Products include specialty plastics used in components for electronics,
+automotive, flexible packaging, and consumer goods industries, and high-quality resin solutions of paints and
+industrial and optical fiber coatings. A further product is special polyethylene--notably, Dyneema, the world's
+strongest fiber on a weight basis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+Koninklijke DSM N.V.
+
+Chart 1
+
+Business Risk: Strong
+We assess DSM's business risk as strong, reflecting our view of its profitable nutrition division, which accounted for
+about 73% of its 2018 reported EBITDA. The assessment factors in the solid diversification of DSM's nutrition
+business, with diverse end-markets and countries of operation, and a broad portfolio of products including fat- and
+water-soluble vitamins, carotenoids, marine and microbial PUFAs, and aroma, savory, and nutraceutical ingredients
+and minerals, in which the company holds leading global market positions.
+The nutrition business is less cyclical than other chemical businesses and has been growing consistently at above-GDP
+rates in the past few years. This business will continue to benefit, in our view, from fundamental megatrends such as
+the increasing population, the rising need for convenience and processed food, increasing consumption of meat, and
+rising health awareness.
+Our assessment of DSM's business benefits from the company's track record of innovation, with about 4% of annual
+sales spent on R&D and innovation, accounting for about 20% of sales in 2018. The company has a diverse pipeline of
+innovative solutions, including a methane-reducing feed additive for cows for which the company filed for EU
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+Koninklijke DSM N.V.
+
+authorization in July 2019; omega 3 fatty acids from natural marine algae for animal nutrition (in a 50/50 collaboration
+with Evonik Industries); and sugar reduction solutions such as fermented stevia.
+Key risk factors, in our view, include competition from the Chinese vitamin producers (notably for vitamins E and C),
+even though competition has weakened somewhat due to environmental regulations in China. Notwithstanding the
+ongoing shift to higher-value specialty materials, we also take into account the potentially material fluctuations in
+EBITDA generated by DSM's polyamide-based engineering plastics and high-performance resins, which constitute the
+materials segment.
+DSM reported strong results for the last 12 months from June 2019, with revenues of €9.4 billion (up from €9.3 billion
+at year-end 2018) on an improved EBITDA margin (after exceptional items) of 19.6%, up from 18.9% at year-end 2018.
+Growth was led primarily by the nutrition segment, which had volume-led organic growth of 4% year-on-year in first
+half of 2019 in the animal nutrition segment. At the same time, human nutrition saw lower organic growth of 2% in the
+first half of 2019 due to softer food and beverage volumes from large customers, and weaker prices in i-Health and
+premixes. The materials segment faced a higher organic growth decline of 7% year-on-year due to weak
+macroeconomic conditions in some of its end-markets. The segment continued to strengthen its margins with good
+cost controls, with margins improving to 18.4% in first-half 2019, up from 17.5% in first-half 2018.
+
+Peer comparison
+Table 1
+
+Koninklijke DSM N.V.--Peer Comparison
+Industry sector: Chemical companies
+
+Ratings as of Aug. 2, 2019
+
+Koninklijke DSM
+N.V.
+
+Evonik Industries
+
+Solvay S.A.
+
+International Flavors &
+Fragrances Inc.
+
+A-/Stable/A-2
+
+BBB+/Stable/A-2
+
+BBB/Stable/A-2
+
+BBB/Stable/A-2
+
+--Fiscal year ended Dec. 31, 2018-(Mil. €)
+Revenue
+
+9,267.0
+
+15,024.0
+
+11,299.0
+
+3,474.1
+
+EBITDA
+
+1,806.5
+
+2,414.0
+
+1,975.5
+
+814.0
+
+Funds from operations (FFO)
+
+1,622.1
+
+1,988.6
+
+1,531.7
+
+595.4
+
+121.4
+
+158.4
+
+276.8
+
+130.2
+
+77.4
+
+158.4
+
+208.8
+
+117.1
+
+1,393.1
+
+1,780.6
+
+1,356.7
+
+405.1
+
+Capital expenditure
+
+668.0
+
+1,026.0
+
+711.0
+
+151.5
+
+Free operating cash flow
+(FOCF)
+
+725.1
+
+754.6
+
+645.7
+
+253.6
+
+Discretionary cash flow (DCF)
+
+264.1
+
+182.9
+
+282.9
+
+30.5
+
+2,558.0
+
+1,128.0
+
+1,103.0
+
+554.5
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+
+Cash and short-term
+investments
+Debt
+
+765.4
+
+5,745.4
+
+6,584.8
+
+3,854.4
+
+7,815.0
+
+8,075.0
+
+9,024.0
+
+5,350.0
+
+EBITDA margin (%)
+
+19.5
+
+16.1
+
+17.5
+
+23.4
+
+Return on capital (%)
+
+14.7
+
+10.7
+
+6.4
+
+10.0
+
+Equity
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+Koninklijke DSM N.V.
+
+Table 1
+
+Koninklijke DSM N.V.--Peer Comparison (cont.)
+Industry sector: Chemical companies
+Koninklijke DSM
+N.V.
+
+Evonik Industries
+
+Solvay S.A.
+
+International Flavors &
+Fragrances Inc.
+
+EBITDA interest coverage (x)
+
+14.9
+
+15.2
+
+7.1
+
+6.3
+
+FFO cash interest coverage (x)
+
+22.0
+
+13.6
+
+8.3
+
+6.1
+
+0.4
+
+2.4
+
+3.3
+
+4.7
+
+FFO/debt (%)
+
+211.9
+
+34.6
+
+23.3
+
+15.4
+
+Cash flow from operations/debt
+(%)
+
+182.0
+
+31.0
+
+20.6
+
+10.5
+
+FOCF/debt (%)
+
+94.7
+
+13.1
+
+9.8
+
+6.6
+
+DCF/debt (%)
+
+34.5
+
+3.2
+
+4.3
+
+0.8
+
+Debt/EBITDA (x)
+
+Financial Risk: Modest
+Our financial risk assessment for DSM reflects our view that its credit metrics will remain strong, with adjusted FFO to
+debt of 80%-82% in 2019 and more than 65% in 2020.
+The strong operating performance over the last 12 months ending June 2019, and the net proceeds from various small
+divestments, continues to keep the company's balance sheet strong, leaving considerable rating headroom and
+flexibility for internal and external growth initiatives. That said, we recognize management's commitment to the 'A-'
+rating and, as such, our assessment of the financial policy constrains the rating at the current level. We believe that as
+a result, DSM is likely to look for acquisitions or additional investments in innovation over the medium term, while
+remaining focused on delivering its Strategy 2019-21 efficiency program. It also has a meaningful €1 billion
+shareholder return program, which we believe will be enhanced in case DSM were unsuccessful identifying a suitable
+acquisition target.
+
+Financial summary
+Table 2
+
+Koninklijke DSM N.V.--Financial Summary
+Industry sector: Chemical companies
+--Fiscal year ended Dec. 31 -2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+(Mil. €)
+Revenue
+
+8,858.0 7,051.0 7,722.0 7,920.0 8,632.0 9,267.0
+
+EBITDA
+
+1,179.0 1,028.0 1,155.5 1,350.0 1,357.5 1,806.5
+
+Funds from operations (FFO)
+
+879.7
+
+628.5
+
+766.8 1,114.5 1,144.6 1,622.1
+
+Interest expense
+
+133.3
+
+118.5
+
+140.7
+
+Cash flow from operations
+
+882.7
+
+637.5
+
+562.8 1,088.5
+
+931.6 1,393.1
+
+Capital expenditure
+
+640.0
+
+648.0
+
+537.0
+
+473.0
+
+544.0
+
+668.0
+
+Free operating cash flow (FOCF)
+
+242.7
+
+(10.5)
+
+25.8
+
+615.5
+
+387.6
+
+725.1
+
+9.7
+
+(374.5)
+
+(270.2)
+
+152.5
+
+(109.4)
+
+264.1
+
+Discretionary cash flow (DCF)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+135.5
+
+141.9
+
+121.4
+
+SEPTEMBER 4, 2019 8
+
+Koninklijke DSM N.V.
+
+Table 2
+
+Koninklijke DSM N.V.--Financial Summary (cont.)
+Industry sector: Chemical companies
+--Fiscal year ended Dec. 31 --
+
+Cash and short-term investments
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+789.0
+
+675.0
+
+674.0 1,548.0 1,853.0 2,558.0
+
+Debt
+
+2,205.6 2,701.7 2,748.3 2,461.9 1,409.3
+
+765.4
+
+Equity
+
+6,096.0 5,936.0 5,631.0 6,180.0 7,065.0 7,815.0
+
+Adjusted ratios
+EBITDA margin (%)
+
+13.3
+
+14.6
+
+15.0
+
+Return on capital (%)
+
+7.4
+
+6.3
+
+EBITDA interest coverage (x)
+
+8.8
+
+8.7
+
+FFO cash interest coverage (x)
+
+5.1
+
+3.0
+
+Debt/EBITDA (x)
+
+17.0
+
+15.7
+
+19.5
+
+4.8
+
+7.5
+
+8.4
+
+14.7
+
+8.2
+
+10.0
+
+9.6
+
+14.9
+
+3.4
+
+8.0
+
+8.8
+
+22.0
+
+1.9
+
+2.6
+
+2.4
+
+1.8
+
+1.0
+
+0.4
+
+FFO/debt (%)
+
+39.9
+
+23.3
+
+27.9
+
+45.3
+
+81.2
+
+211.9
+
+Cash flow from operations/debt (%)
+
+40.0
+
+23.6
+
+20.5
+
+44.2
+
+66.1
+
+182.0
+
+FOCF/debt (%)
+DCF/debt (%)
+
+242.7
+
+(10.5)
+
+25.8
+
+615.5
+
+387.6
+
+725.1
+
+9.7
+
+(374.5)
+
+(270.2)
+
+152.5
+
+(109.4)
+
+264.1
+
+Liquidity: Exceptional
+We view DSM's liquidity as exceptional because we expect sources to surpass needs by 2.14x in the next 24 months.
+DSM's debt documentation does not include any financial covenants, which we view as positive. In addition, we note
+DSM's strong standing in capital markets, as illustrated by the favorable terms of its various debt issuances.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash of €2.4 billion as of March 31,
+2019.
+
+• €430 million of debt maturities in the next 12
+months.
+
+• This is €104 million lower than reported cash
+because we view this amount as restricted under our
+criteria.
+
+• Around €0.6 billion-€0.7 billion of capex.
+
+• Full availability under revolving credit facility (RCFs)
+of €1.0 billion, with maturity of July 2024.
+• About €1.4 billion-€1.5 billion in FFO.
+
+• Working capital outflows of around €0.3 billion-€0.4
+billion, including seasonal working capital outflow of
+€0.2 billion.
+• We factor in acquisitions of €0.3 billion for 2019,
+which have already been contracted as of first-half
+2019.
+• €0.2 billion-€0.3 billion in share repurchases, already
+completed by first-half 2019.
+• Dividends of €0.3 billion for 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+Koninklijke DSM N.V.
+
+Debt maturities
+Debt outstanding as of Dec. 31, 2018
+• Short-term debt: €0.04 billion
+• Long-term debt: €2.6 billion
+
+Covenant Analysis
+DSM's debt documentation does not include any financial maintenance covenants.
+
+Environmental, Social, And Governance
+
+We consider DSM's exposure to environmental and social risk factors as moderately high. We believe DSM is
+taking initiatives to address its ESG exposures and has set ambitious targets compared to its peers. Indeed, DSM is
+targeting reducing greenhouse gas (GHG) emissions by 30% by 2030 and increasing its electricity sourcing to 75%
+renewables from 41% in 2018. We view governance in line with best practices and comparable to that of its peers.
+We believe DSM is aligning its governance practices with its ESG commitment by linking part of its executive
+compensation to its ESG targets. Furthermore, the interest rate on its €1.0 billion committed credit facility is linked
+to GHG emission reduction.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+DSM's capital structure consists of a €300 million bond due 2019 (redeemed early as per Aug. 13, 2019), a €500 million
+bond due 2022, a €500 million bond due 2024, a €500 million bond due 2025, and a €750 million bond due 2026. All
+bonds are senior unsecured and issued by Koninklijke DSM N.V. Liquidity is supported by the €1 billion senior
+unsecured RCF, maturing in July 2024. In addition, DSM has a commercial paper program of €1.5 billion.
+
+Analytical conclusions
+With no material priority obligations ranking ahead of DSM's senior unsecured obligations, we rate its senior
+unsecured debt 'A-', the same as the issuer credit rating.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 10
+
+Koninklijke DSM N.V.
+
+Table 3
+
+Reconciliation Of Koninklijke DSM N.V. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. €)
+--Fiscal year ended Dec. 31, 2018-Koninklijke DSM N.V. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+7,782.0
+
+1,754.0
+
+1,245.0
+
+97.0
+
+1,806.5
+
+1,391.0
+
+673.0
+
+Debt
+
+Shareholders'
+equity
+
+2,652.0
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(107.0)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(59.0)
+
+--
+
+--
+
+Operating leases
+
+189.1
+
+--
+
+57.5
+
+13.4
+
+13.4
+
+(13.4)
+
+44.1
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+378.3
+
+--
+
+(8.0)
+
+(8.0)
+
+6.0
+
+--
+
+--
+
+--
+
+(2,454.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+5.0
+
+(5.0)
+
+(5.0)
+
+(5.0)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+25.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity investments
+
+--
+
+--
+
+2.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+24.0
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(37.0)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+33.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(25.0)
+
+(25.0)
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+income/(expense)
+
+--
+
+--
+
+1.0
+
+1.0
+
+--
+
+--
+
+--
+
+--
+
+(1,886.6)
+
+33.0
+
+52.5
+
+5.4
+
+24.4
+
+(184.4)
+
+2.1
+
+(5.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+1,622.1
+
+1,393.1
+
+668.0
+
+Accessible cash and
+liquid investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+765.4
+
+7,815.0
+
+1,806.5
+
+1,250.4
+
+121.4
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A-/Stable/A-2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+Koninklijke DSM N.V.
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Negative (-1 notch)
+• Liquidity: Exceptional (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Specialty Chemicals Industry, Dec. 31, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 12
+
+Koninklijke DSM N.V.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 4, 2019)*
+Koninklijke DSM N.V.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Senior Unsecured
+
+A-
+
+Issuer Credit Ratings History
+14-Aug-2015
+
+A-/Stable/A-2
+
+17-Feb-2015
+
+A/Negative/A-1
+
+10-Nov-2010
+
+A/Stable/A-1
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 14
+
+

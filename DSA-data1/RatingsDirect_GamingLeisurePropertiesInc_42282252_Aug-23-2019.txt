@@ -1,0 +1,1285 @@
+Gaming & Leisure Properties Inc.
+Primary Credit Analyst:
+Ariel Silverberg, San Francisco (1) 212-438-1807; ariel.silverberg@spglobal.com
+Secondary Contact:
+Melissa A Long, New York (1) 212-438-3886; melissa.long@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 1
+
+Gaming & Leisure Properties Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb+
+
+bb+
+BB+/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Stable and predictable cash flow, as a majority of its contractual rent is
+fixed.
+
+Tenant concentration with , which represents around 78% of cash rental
+revenue.
+
+Good asset base with some market-leading properties and barriers to
+entry.
+
+Single asset-class concentration (gaming).
+
+High tenant occupancy and long lease terms.
+
+Relatively small asset base.
+
+Ability to use its at-the-market (ATM) equity offering to help maintain adjusted leverage below 5.5x.
+
+We expect Gaming & Leisure Properties Inc. (GLPI) will maintain adjusted leverage of below 5.5x over the long run.
+We believe maintaining adjusted leverage of about 5x to 5.5x over the long run is aligned with the company's financial
+policy and provides a good cushion relative to our 6x downgrade threshold. We believe that in a scenario where GLPI
+pursues an acquisition at a purchase price multiple of 5.5x or above, the company would finance the acquisition
+through a combination of debt, cash flow, and equity issuance, to maintain adjusted leverage in the mid-5x area or
+below.
+We believe GLPI may reduce its tenant concentration over time through acquisitions. We expect that in the next two
+years, the majority of GLPI's cash rental income will continue to come from Penn National Gaming Inc. We believe
+tenant concentration is a risk factor because tenants can take actions that increase their financial risk, which can
+jeopardize their operating performance and stress their ability to maintain good rent-coverage levels. Nevertheless,
+GLPI has increased its tenant diversity over the past year through acquisitions of land associated with gaming facilities
+operated by Eldorado Resorts Inc. and Boyd Gaming Corp., reducing tenant concentration with Penn to around 78% of
+cash rental income, from around 90% previously. We expect GLPI will continue to make future acquisitions, further
+reducing its concentration with Penn.
+We believe GLPI's good asset quality and limits on competition help mitigate its asset-class concentration. We view
+GLPI's portfolio's asset quality favorably because 12 of its properties are leaders in their markets. Asset quality is also
+supported by limitations on competition in certain markets, given state-licensing restrictions that limit the number of
+gaming facilities in a jurisdiction. This can help support stability in the EBITDA of the operators and mitigate
+operators' EBITDA declines in scenarios of declining revenue given less of a need for heightened marketing or
+promotions. We also expect GLPI's tenants to maintain rent coverage in the high-1x area over the next few years.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 2
+
+Gaming & Leisure Properties Inc.
+
+Nevertheless, we believe gaming-concentrated REITs face additional occupancy-related risks relative to REITs that
+operate in more traditional sectors, such as retail, in scenarios where the tenant needs to be replaced. This is due to
+licensing requirements for gaming operators of the assets.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation for adjusted leverage to remain below 5.5x over the long run, given
+GLPI's relatively stable cash flow base and its current financial policy, even incorporating a scenario where GLPI
+initially finances an acquisition at a leverage level modestly higher than its planned 5.5x leverage multiple for
+acquisitions.
+
+Downside scenario
+We could consider lowering the ratings if we expected adjusted leverage would be sustained above 6x over the
+long run. Given the cushion we expect compared to this threshold, and GLPI's financial policy with respect to
+leverage, a deterioration in leverage to this level would most likely result from a large acquisition, where GLPI is
+unable to raise sufficient equity to keep leverage below 6x. We could also consider a downgrade if the credit
+quality of GLPI's largest tenant were to deteriorate to the extent that rent coverage fell below 1.5x.
+
+Upside scenario
+We believe an upgrade is unlikely over the next few years given GLPI's high tenant concentration and financial
+policy to maintain leverage at about 5x over the long run. Nevertheless, we could consider higher ratings if GLPI
+significantly increased its tenant diversity and maintained adjusted leverage below the mid-4x area.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 3
+
+Gaming & Leisure Properties Inc.
+
+Assumptions
+
+• We believe GLPI's revenue is only modestly
+correlated with macroeconomic factors since the
+majority (83%) of its rental income stream is fixed,
+according to provisions of its lease agreements.
+Further, we believe operating performance in 2019
+at the Baton Rouge property, which GLPI owns and
+operates, will be hurt by a smoking ban in that
+market that went into effect in June 2018.
+• Nevertheless, we believe continued economic
+growth will support visitation to, and spending at,
+U.S. casinos, which we believe will help GLPI's
+gaming tenants maintain rent coverage in at least
+the high-1x area. We are forecasting U.S. GDP
+growth of 2.5% in 2019 and 1.8% in 2020, and U.S.
+consumer spending growth of 2.5% in 2019 and
+2.0% in 2020.
+
+Key Metrics
+
+2018A* 2019E
+
+2020E
+
+Debt to EBITDA (x)**
+
+6.6
+
+Mid-5x
+
+Mid-5x
+
+FFO to debt (%)
+
+10.9
+
+Around 13 Around 13
+
+EBITDA coverage of interest expense (x) 3.6
+
+Mid-3x
+
+Mid-3x
+
+All figures are S&P Global Ratings adjusted. A--Actual.
+E--Estimate. FFO--Funds from operations.
+*2018 figures are not pro forma to reflect a full year of
+EBITDA and cash flow from eight properties acquired
+during the year.
+**Our forecast does not include any potential future
+equity issuances.
+
+• Cash rental income will grow around 13% in 2019
+from incremental rent from properties acquired in
+late-2018.
+• Gaming revenue will decline around 5% to 7% year
+over year in 2019 compared to 2018 at the Maryland
+property given tax relief granted at the property in
+2018 that was subsequently revoked, and due to a
+smoking ban at the Baton Rouge property that went
+into effect in June 2018.
+• Selling, general, and administrative expenses to
+decline modestly in 2019 since 2018 included a
+one-time charge related to the retirement of the
+former chief financial officer.
+
+Company Description
+GLPI is a REIT, and acquires, finances, and owns real estate property. As of Dec. 31, 2018, GLPI owned the property
+associated with 46 gaming facilities.
+
+Business Risk: Fair
+Other business considerations:
+• As a REIT, GLPI benefits from stable and predictable cash flows from its tenants - around 83% of GLPI's rental
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 4
+
+Gaming & Leisure Properties Inc.
+
+revenues are fixed per the terms of its lease agreements.
+• GLPI also benefits from high occupancy rates (100%) at its properties, which is due in part to the limitations on
+competition in certain markets as well as the importance of the gaming tax revenue that these facilities provide to
+states.
+• GLPI also benefits from long-term leases, with initial terms of 15-years and our view that there is a high likelihood of
+renewal (at least for its largest tenant) after the initial term given that the lease assets comprise the majority of
+GLPI's largest tenant's EBITDA.
+• GLPI has minimal operating expenses since its leases are triple-net, where the operator pays all taxes, insurance,
+and maintenance capital expenditures related to the property.
+
+Peer comparison
+Compared with other gaming-focused REITS such as VICI Properties Inc. and MGM Growth Properties LLC, GLPI
+owns the largest portfolio of assets and benefits from the most tenant diversity. However, GLPI's portfolio lacks assets
+in destination-focused markets (Las Vegas), and its total real estate value, as reported on the balance sheet, is the
+smallest among the gaming REITs.
+Table 1
+
+Gaming & Leisure Properties Inc. -- Peer Comparison
+Industry Sector: Gaming
+Gaming & Leisure Properties
+Inc.
+
+MGM Growth Properties LLC
+
+VICI Properties Inc.
+
+BB+/Stable/--
+
+BB-/Stable/--
+
+BB/Stable/--
+
+--Fiscal year ended Dec. 31, 2018--
+
+--Fiscal year ended Dec. 31,
+2018--
+
+--Fiscal year ended Dec. 31,
+2018--
+
+Revenue
+
+1,055.7
+
+1,002.4
+
+898.0
+
+EBITDA
+
+926.3
+
+769.6
+
+732.6
+
+Funds from operations (FFO)
+
+679.9
+
+550.1
+
+517.2
+
+Interest expense
+
+258.9
+
+235.6
+
+213.4
+
+Cash interest paid
+
+241.0
+
+219.5
+
+214.1
+
+Cash flow from operations
+
+656.4
+
+578.2
+
+504.5
+
+Capital expenditure
+
+4.3
+
+1.6
+
+0.9
+
+Free operating cash flow (FOCF)
+
+652.1
+
+576.6
+
+503.6
+
+Discretionary cash flow (DCF)
+
+101.6
+
+122.4
+
+231.1
+
+Cash and short-term investments
+
+25.8
+
+59.8
+
+577.9
+
+Debt
+
+6,040.4
+
+4,908.0
+
+3,575.3
+
+Equity
+
+2,265.6
+
+5,845.5
+
+6,901.0
+
+EBITDA margin (%)
+
+87.7
+
+76.8
+
+81.6
+
+Return on capital (%)
+
+10.0
+
+4.7
+
+7.3
+
+EBITDA interest coverage (x)
+
+3.6
+
+3.3
+
+3.4
+
+FFO cash interest coverage (x)
+
+3.8
+
+3.5
+
+3.4
+
+Debt/EBITDA (x)
+
+6.5
+
+6.4
+
+4.9
+
+Ratings as of Aug. 13, 2019
+
+(Mil. $)
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 5
+
+Gaming & Leisure Properties Inc.
+
+Table 1
+
+Gaming & Leisure Properties Inc. -- Peer Comparison (cont.)
+Industry Sector: Gaming
+
+FFO/debt (%)
+
+Gaming & Leisure Properties
+Inc.
+
+MGM Growth Properties LLC
+
+VICI Properties Inc.
+
+11.3
+
+11.2
+
+14.5
+
+Cash flow from operations/debt (%) 10.9
+
+11.8
+
+14.1
+
+FOCF/debt (%)
+
+10.8
+
+11.7
+
+14.1
+
+DCF/debt (%)
+
+1.7
+
+2.5
+
+6.5
+
+N.M.--Not meaningful. Source: S&P Global Ratings.
+
+Financial Risk: Intermediate
+We generally expect GLPI to maintain adjusted leverage in the mid-5x area or below, incorporating acquisitions,
+because that is the level that aligns with their financial policy, and since we believe itcan use its increasing cash flow
+base and equity program to help fund acquisitions. However, we believe that in a scenario where GLPI's stock price
+falls modestly, it might finance acquisitions at a leverage multiple higher than 5.5x initially, but this would likely not
+lead to total adjusted leverage sustained above 6x. Furthermore, given the lack of amortization under GLPI's term
+loan, and the company's tax status as a REIT (GLPI is required to distribute about 80% of its adjusted funds from
+operations, as measure by the company, to shareholders), we believe it will use any available free cash flow to help
+fund future acquisitions in lieu of optional debt reduction. GLPI is highly reliant on the health of debt and equity
+markets to finance acquisitions because it has less flexibility to sell assets to fund acquisitions than other REITs. This is
+because of the master-lease structure with its tenants and because buyers of gaming assets must be licensed in the
+jurisdiction where the asset is located.
+
+Financial summary
+Table 2
+
+Gaming & Leisure Properties Inc. -- Financial Summary
+Industry Sector: Gaming
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+1,055.7
+
+971.3
+
+828.3
+
+575.1
+
+591.1
+
+EBITDA
+
+926.3
+
+883.4
+
+727.0
+
+441.4
+
+423.8
+
+Funds from operations (FFO)
+
+679.9
+
+659.3
+
+561.4
+
+320.8
+
+293.6
+
+Interest expense
+
+258.9
+
+225.1
+
+189.6
+
+125.0
+
+117.7
+
+Cash interest paid
+
+241.0
+
+212.5
+
+158.2
+
+110.8
+
+110.1
+
+Cash flow from operations
+
+656.4
+
+600.4
+
+515.8
+
+320.4
+
+273.8
+
+4.3
+
+3.3
+
+3.4
+
+19.1
+
+142.8
+
+Free operating cash flow (FOCF)
+
+652.1
+
+597.2
+
+512.4
+
+301.3
+
+131.1
+
+Discretionary cash flow (DCF)
+
+101.6
+
+67.8
+
+84.0
+
+49.6
+
+(363.0)
+
+25.8
+
+29.1
+
+36.6
+
+41.9
+
+36.0
+
+(Mil. $)
+
+Capital expenditure
+
+Cash and short-term investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 6
+
+Gaming & Leisure Properties Inc.
+
+Table 2
+
+Gaming & Leisure Properties Inc. -- Financial Summary (cont.)
+Industry Sector: Gaming
+--Fiscal year ended Dec. 31-2018
+Gross available cash
+
+2017
+
+2016
+
+2015
+
+2014
+
+25.8
+
+29.1
+
+36.6
+
+41.9
+
+36.0
+
+Debt
+
+6,040.4
+
+4,575.5
+
+4,754.6
+
+2,507.5
+
+2,597.5
+
+Equity
+
+2,265.6
+
+2,458.2
+
+2,433.9
+
+(253.5)
+
+(176.3)
+
+EBITDA margin (%)
+
+87.7
+
+90.9
+
+87.8
+
+76.8
+
+71.7
+
+Return on capital (%)
+
+Adjusted ratios
+
+10.0
+
+10.6
+
+12.6
+
+13.5
+
+13.0
+
+EBITDA interest coverage (x)
+
+3.6
+
+3.9
+
+3.8
+
+3.5
+
+3.6
+
+FFO cash interest coverage (x)
+
+3.8
+
+4.1
+
+4.5
+
+3.9
+
+3.7
+
+Debt/EBITDA (x)
+
+6.5
+
+5.2
+
+6.5
+
+5.7
+
+6.1
+
+FFO/debt (%)
+
+11.3
+
+14.4
+
+11.8
+
+12.8
+
+11.3
+
+Cash flow from operations/debt (%)
+
+10.9
+
+13.1
+
+10.8
+
+12.8
+
+10.5
+
+FOCF/debt (%)
+
+10.8
+
+13.1
+
+10.8
+
+12.0
+
+5.0
+
+1.7
+
+1.5
+
+1.8
+
+2.0
+
+(14.0)
+
+DCF/debt (%)
+
+N.M.--Not meaningful. Source: S&P Global Ratings.
+
+Liquidity: Adequate
+We view GLPI's liquidity position as adequate over the next 12 months because we expect liquidity sources to exceed
+uses by at least 1.2x, and net liquidity sources to remain positive, even if our forecasted EBITDA unexpectedly
+declines by 10%. We believe GLPI's liquidity position is also supported by its ability to access capital through its sound
+banking relationships and satisfactory standing in credit markets, as its ability to secure financing for prior large
+acquisitions, refinance maturities, and issue equity through its ATM program, demonstrate. GLPI does not have any
+debt maturities until November 2020, when $500 million of its 4.875% senior unsecured notes are due (assuming the
+company is successful at tendering at least $500 million of the total $1.0 billion principal).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 7
+
+Gaming & Leisure Properties Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• On June 30, 2019, GLPI had $24.7 million of cash on
+hand and $835 million of availability under its $1.175
+billion revolver.
+
+• Minimal capital expenditures, since GLPI's tenants
+are responsible for property capital expenditures.
+
+• Stable and relatively predictable operating cash flow
+averaging $740 million annually through 2020.
+• Access to its at-the-market (ATM) equity offering
+program. As of June 30, 2019, the company had
+$213.7 million remaining for issuance under its $400
+million ATM program.
+
+• Significant levels of dividends, at about 80% of
+adjusted funds from operations, as measured by the
+company. This translates into dividends of around
+$585 million to $590 million in 2019 and around the
+same level in 2020.
+
+Covenant Analysis
+GLPI's credit facility and notes contain typical REIT financial maintenance covenants, including a maximum secured
+debt to total assets ratio of 0.4x, a maximum total debt to total asset ratio of 0.6x, and a maximum total debt to
+unencumbered asset ratio of 0.6x. GLPI is also subject to a minimum fixed-charge coverage ratio of 1.5x. We believe
+the company will maintain adequate cushion with respect to these covenants.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates a default in 2023, driven by a significant deterioration in its largest
+tenants' operating results.
+• We assume GLPI uses proceeds from its recently issued $1.1 billion in senior unsecured notes to: redeem $500
+million of its existing $1.0 billion 4.875% senior unsecured notes due 2020, repay outstanding revolver balances
+($340 million outstanding on June 30, 2019), and to repay around $240 million of borrowings under the company's
+term loan A-1 facility.
+• We assume that Penn National, the company's largest tenant, experiences significant deterioration in cash flows,
+reflecting prolonged economic weakness, greater competitive pressures, and reduced interest in gaming as a form of
+entertainment. We also assume that Penn National continues to make rent payments to GLPI, but given its financial
+position, S&P Global Ratings assumes that Penn National is able to renegotiate and meaningfully reduce its rent
+payments, even though the current lease agreement does not provide for this.
+• We generally cap our recovery ratings on unsecured debt at '3' (50%-70% recovery expectation) for corporate
+entities in the 'BB' category. This is to account for the greater risk of recovery prospects being impaired by the
+issuance of additional secured or pari passu debt prior to default. However, for REITs with unsecured debt that have
+recovery prospects of at least 70% and with more restrictive REIT financial covenants in their unsecured loan
+documents, we cap our unsecured recovery ratings at '2'. These covenants include a maximum unsecured debt to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 8
+
+Gaming & Leisure Properties Inc.
+
+unencumbered asset ratio, or a minimum unencumbered assets-to-unsecured debt ratio. We believe these
+covenants would help preserve value for unsecured lenders in the event of a default because they would restrict the
+amount of additional debt a company can incur.
+• We use an income capitalization approach in our recovery analysis and assume that GLPI is reorganized or sold as a
+going concern. We use an approximate 13% distressed capitalization rate.
+• We assume GLPI's revolving credit facility would be 60% drawn at the time of default. We believe that GLPI would
+be able to cover most of its debt service and other capital requirements despite the assumed lower rent payment
+from Penn National. As a result, we assume that revolver borrowings are used to finance an acquisition at an
+assumed average 8% capitalization rate.
+• We value GLPI based on EBITDA of about $792 million at emergence. This reflects an approximately 30% stress to
+our forecasted EBITDA, and incorporates our assumed EBITDA from acquisitions.
+• We also assume additional property costs of 5% reduce GLPI's gross recovery value. These costs reflect added
+costs that GLPI could incur as a result of its tenants being in financial distress.
+• We assume administrative claims total 5% of gross recovery value after property costs.
+
+Simplified waterfall
+• EBITDA at emergence: $792 million
+• Blended capitalization rate: 13.1%
+• Gross recovery value: $6.0 billion
+• Net recovery value (after 5% additional property costs and 5% administrative expenses): $5.4 billion
+• Estimated senior unsecured claims: $6.8 billion
+• Value available for senior unsecured claims: $5.4 billion
+• --Recovery expectation: 70%-90% (rounded estimate: 80%)
+Note: All debt amounts include six months of prepetition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Gaming & Leisure Properties Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Gaming & Leisure Properties Inc. reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+5853.5
+
+801.6
+
+593.8
+
+247.7
+
+926.3
+
+654.4
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(5.4)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(229.8)
+
+--
+
+S&P Global Ratings' adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 9
+
+Gaming & Leisure Properties Inc.
+
+Table 3
+
+Reconciliation Of Gaming & Leisure Properties Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $) (cont.)
+Operating leases
+
+186.9
+
+13.1
+
+11.2
+
+11.2
+
+(11.2)
+
+1.9
+
+Share-based compensation
+expense
+
+--
+
+11.2
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+1.8
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+100.3
+
+100.3
+
+--
+
+--
+
+--
+
+Depreciation and amortization:
+Reverse goodwill amortization
+
+--
+
+--
+
+59.5
+
+--
+
+--
+
+--
+
+186.9
+
+124.6
+
+172.8
+
+11.2
+
+(246.4)
+
+1.9
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+6040.4
+
+926.3
+
+766.6
+
+258.9
+
+679.9
+
+656.4
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Source: S&P Global Ratings.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Fair
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 10
+
+Gaming & Leisure Properties Inc.
+
+Related Criteria
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of August 20, 2019)*
+Gaming & Leisure Properties Inc.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Issuer Credit Ratings History
+27-Oct-2017
+
+BB+/Stable/--
+
+08-Feb-2016
+
+BB/Stable/--
+
+10-Mar-2015
+
+BB+/Watch Neg/--
+
+Related Entities
+GLP Capital L.P.
+Senior Unsecured
+
+BBB-
+
+GLP Financing II Inc.
+Senior Unsecured
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BBB-
+
+AUGUST 20, 2019 11
+
+Gaming & Leisure Properties Inc.
+
+Ratings Detail (As Of August 20, 2019)*(cont.)
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 13
+
+

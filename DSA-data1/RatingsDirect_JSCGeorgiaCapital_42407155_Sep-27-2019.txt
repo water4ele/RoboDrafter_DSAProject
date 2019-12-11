@@ -1,0 +1,718 @@
+JSC Georgia Capital
+Primary Credit Analyst:
+Anton Geyze, Moscow (7) 495-783-4134; anton.geyze@spglobal.com
+Secondary Contact:
+Per Karlsson, Stockholm (46) 8-440-5927; per.karlsson@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+JSC Georgia Capital
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb-
+
+b+
+
+b+
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Financial policy of maximum of 30% loan-to-portfolio value (LTV)
+ratio at all times.
+
+Limited portfolio size of about $800 million.
+
+Role as an important investment vehicle in Georgia.
+
+Sole exposure to volatile Georgian market.
+
+Share of listed assets of about 45% of the portfolio.
+
+High concentration with three key assets constituting about 65% of the
+portfolio.
+
+Good competitive position of key investee companies.
+
+Exposure to foreign currency risk on the debt side with earnings largely
+in local currency.
+
+Adequate liquidity and sustainable debt maturity profile.
+
+On-lending of bond proceeds to investee companies.
+
+Georgia Capital's investment portfolio is fully concentrated on the developing market of Georgia and particularly on
+three key assets. Georgia Capital's investee companies are solely exposed to economic and business conditions in
+Georgia; according to management its investee companies' share of Georgia's GDP is about 10%. Georgia is a
+developing market that can be quite volatile and relies heavily on net foreign direct investments. We continue to see
+risks to the Georgian economy from regional geopolitical developments in relation to Russia, but we do not expect a
+material escalation. In fact, we anticipate the conflict will remain largely frozen over the medium term. Georgia Capital
+also has relatively high asset concentration in its portfolio. Georgia Healthcare Group, Bank of Georgia, and Georgia
+Global Utilities, the three largest assets, constitute about 65% of the portfolio.
+Relatively small size of the portfolio, weak weighted average credit quality, and on-lending of bond proceeds constrain
+the rating. In our view, Georgia Capital's weighted average creditworthiness of investee companies is in the 'B' rating
+category. With a portfolio size of about $800 million, Georgia Capital's investment portfolio is smaller than that of
+many other rated investment holding companies globally, which increases concentration risks. On-lending of bond
+proceeds to Georgia Capital investee companies constrains the liquidity of its portfolio, in our view.
+The sound financial policy should help to offset the negative effects of foreign exchange fluctuations.We expect
+Georgia Capital to actively manage its debt levels so that it maintains a maximum of 30% loan-to-portfolio value (LTV)
+ratio at all times, which includes our expectations that management will be selling listed assets, at a discount if needed,
+to keep the LTV below 30%. This should help to somewhat offset one of the key risks faced by Georgia Capital--the
+depreciation of its local currency against the U.S. dollar. Its debt is almost entirely in U.S. dollar bonds, while cash
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+JSC Georgia Capital
+
+flows of its investee companies are largely in Georgian lari (GEL), with only some embedded natural hedge supported
+by the generally high level of dollarization of the Georgian economy.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Georgia Capital will actively manage its LTV ratio so that it remains
+below 30% in the next 12 months. We also expect stable dividend flows from its portfolio companies, which should
+allow Georgia Capital to comfortably cover its operating and interest expenses, and no on-lending other than
+US$165 million from the bond proceeds.
+
+Downside scenario
+We could lower the rating if Georgia Capital's LTV rises above 30% on a sustained basis and the company does not
+take immediate action, such as asset sales, to restore balance-sheet strength. LTV deterioration would most likely
+be the result of a material weakening in equity values or large negative currency fluctuations. Ratings pressure
+could also result from material credit quality deterioration of any of the core investments, which would erode
+valuations and increase the likelihood of Georgia Capital having to inject fresh capital for support. We could also
+lower the rating if there are any signs of liquidity or refinancing risks at either Georgia Capital or its investees.
+
+Upside scenario
+We could revise the outlook to positive or raise the ratings if Georgia Capital's portfolio characteristics--such as
+liquidity, asset quality, and diversification--materially improve. Material portfolio valuation increases resulting in
+sustained lower LTV ratios--and if management commits to maintaining this--could support a higher rating. An
+upgrade would hinge on maintenance of at least an adequate liquidity profile.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• Real GDP growth in Georgia of 4.0% in 2019, 3.5%
+in 2020.
+• Interest income of about GEL25 million-GEL40
+million annually.
+• Dividend income of GEL80 million-GEL95 million
+annually.
+
+2018A
+
+2019E
+
+2020E
+
+Cash flow adequacy (x)
+
+1.8
+
+1.6-1.8
+
+1.6-1.8
+
+Loan to value (%)
+
+25 Less than 30 Less than 30
+
+A--Actual. E--Estimate.
+
+• Operating expenses at the holding company of
+about GEL20 million and interest expenses of
+GEL50 million-GEL55 million per year.
+• No further material debt incurred at Georgia Capital.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+JSC Georgia Capital
+
+Base-case projections
+We expect Georgia Capital's LTV ratio of 25% as of Dec 31, 2018 to remain broadly unchanged in 2019. Georgia
+Capital will likely continue to operate broadly within its financial policy of 30% maximum leverage. We believe that if it
+were to deviate from this, it would likely come from a drop in the share prices of core investments rather from a major
+acquisition. We expect the global economy to enter a period of less supportive macroeconomic conditions and greater
+instability. This includes Brexit uncertainty, the China/USA trade war, and geopolitical tensions, which could all lead
+to increased volatility and lower share prices.
+Sound cash flow adequacy should provide some buffer against local currency fluctuations.In our base case, we assume
+sound cash flow ratios of 1.8x for 2019, supported by a total dividend and interest income of about GEL120 million.
+We expect dividend and interest income to be reinvested into growing investee companies in renewable energy,
+education businesses, and others.
+
+Company Description
+Georgia Capital JSC is an investment holding company based in Georgia. Its parent Georgia Capital Plc is listed on the
+London Stock Exchange and as of Aug. 1, 2019 had a market value of £364 million. Its portfolio is almost equally split
+between listed and non-listed equity participations in investee companies in Georgia in banking, pharma and
+healthcare, utilities, real estate and hospitality, private education, and renewable energy generation. Its key
+investments include 19.9% of U.K.-listed Bank of Georgia Plc (BOG), 57% of U.K.-listed Georgia Healthcare Group
+(GHG), 100% of Georgian Global Utilities (GGU), a water utility business; 100% of M2, a real estate and hospitality
+business; 65% in Georgian Renewable Power Company (GPRC); as well as a 100% stake in Aldagi, a property and
+casualty insurance company, and a 86% stake in Georgia Beverages, a beverage business.
+
+Business Risk: Weak
+It has a sole concentration in the Georgian economy. All Georgia Capital's investee companies are located in Georgia.
+The Georgian economy remains constrained by relatively low per capita income (estimated at $4,200) and
+balance-of-payments vulnerabilities, including Georgia's import dependence, high current account deficits (which,
+however, declined recently), and sizable external debt, which could weigh on Georgia Capital's growth potential.
+However, we generally assess the macroeconomic factors as supportive for Georgia Capital over the near term, given
+our expectation of 4.0% real GDP growth in 2019 and 3.5% in 2019 (compared with 4.7% in 2018) and the country's
+strong institutional arrangements for the region. The agreement for political association and economic integration
+between the EU and Georgia, which entered into force in 2016, is likely to support Georgia's consumption of products,
+such as compulsory third-party insurance.
+On-lending of bonds proceeds negatively affects liquidity of the portfolio. $165 million of bond proceeds are designated
+to be on-lent to two investee companies--GRPC and m2--to fund the development of wind power projects and hotel
+construction. We believe these investments entail some execution risk and are difficult to finance at a reasonable cost
+on a stand-alone basis in the local capital markets. This is unusual for an investment holding company, given that they
+typically do not participate in debt financing of investee companies. Such a commitment could reduce the willingness
+to sell the shares of the investee, even if needed to manage holding-company debt levels.
+We also factor in that there is a cross-default clause (with a threshold of $25 million) with "material subsidiaries" of
+Georgia Capital, which increases the exposure of Georgia Capital to the credit risk of its unlisted investees. We
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+JSC Georgia Capital
+
+understand that currently no subsidiaries are considered material. We believe this might create a strong incentive for
+Georgia Capital to support unlisted material subsidiaries if it is experiencing financial stress.
+Portfolio analysis.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+JSC Georgia Capital
+
+Chart 2
+
+Georgia Capita's key investee companies enjoy good competitive positions in their respective markets. BoG is the
+largest provider of banking services in Georgia, with a market share of about 40%. GGU is a water utility monopoly in
+capital city of Tbilisi and surrounding area. GHG is the largest pharma distributor and private owner of hospitals in
+Georgia with market shares of 30% and 25% in the respective segments. BoG generated about 30% of Georgia
+Capital's total dividend stream in 2018 and GGU generated about 40%. We expect the share of these two investee
+companies to gradually decline as companies such as Aldagi and M2 increase their dividends payments, while GHG
+starts to pay dividends from 2019.
+GHG and GGU benefit from mostly having completed their investment programs, which should allow them to generate
+positive cash flows. At the same time, Georgia Capital's renewable energy company, GRPC, will require large
+investments over the next three to five years. We consider these investments to be partly funded from dividend and
+interest income and partly from the proceeds from the issued bond that will be on-lent to GRPC. We also expect
+Georgia Capital to invest heavily in its education business, as already demonstrated by its purchases of several schools
+in 2019.
+We believe management has demonstrated an ability to develop exit opportunities, such as the initial public offering of
+GHG in 2015 (bringing in US$110 million), which was Georgia's third IPO overall and its first outside the financial
+sector. We also factor in that Georgia Capital in May 2017 sold 7.2% of GHG shares for US$40 million. Consequently,
+we expect Georgia Capital to gradually monetize its shares in GHG and reduce its ownership to below 50%,
+redeploying the funds into existing or new investments that could support better portfolio diversification.
+We note that Bank of Georgia Plc's share price has declined by more than 20% since June 2018 and that of Georgia
+Healthcare group has declined by about 10% since the same date because of overall price volatility in the emerging
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+JSC Georgia Capital
+
+markets, but also due to investors reallocating capital from investee companies into newly listed Georgia Capital Plc.
+However, growth in the portfolio value of unlisted assets, particularly M2 and GGU, has compensated for this decline
+with the overall portfolio valuation remaining broadly flat. Georgia Capital's share price has remained broadly flat since
+July 2018, also supported by its share buy backs. Georgia Capital has purchased $45 million of its own shares under its
+previous buy-back program launched in mid-2018 and announced a new $20 million share buy-back program in
+August 2019.
+In relation to peers, Georgia Capital is a much smaller investment holding company. Additionally, Georgia Capital is
+more exposed to high country risk environment and local currency volatility. We consider that the performance of
+investee companies may be affected by the volatility of the economy in the future, which has the potential to decrease
+the company's cash flow, among other metrics.
+
+Peer comparison
+Table 1
+
+Georgia Capital--Peer Comparison
+
+Issuer credit ratings
+
+Georgia Capital JSC
+
+Koc Holding A.S.
+
+Wendel
+
+EXOR N.V.
+
+B+/Stable/--
+
+BB-/Stable/B
+
+BBB/Stable/A-2
+
+BBB+/Stable/A-2
+
+Business profile
+
+Weak
+
+Fair
+
+Fair
+
+Satisfactory
+
+Portfolio size
+(adjusted; Mil. $)
+
+810.0
+
+8,502.0
+
+8,059.0
+
+24,828.0
+
+Weight of listed
+assets (%)
+
+44.7
+
+89.0
+
+48.7
+
+66.5
+
+Largest asset (% of
+portfolio)
+
+23.8
+
+29.9
+
+42.7
+
+30.0
+
+Three largest assets
+(% of potfolio)
+
+64.4
+
+61.2
+
+74.2
+
+78.8
+
+Three largest assets
+
+Bank of Georgia, Georgian Global
+Utilities, Georgia Healthcare
+Group
+
+Tupras, Ford Otosan, and
+Yapi Kredi Bank
+
+Bureau Veritas, Stahl, and
+IHS
+
+FCA Group, PartnerRe, and
+Ferrari
+
+Significant
+
+Modest
+
+Modest
+
+Modest
+
+Loan to value
+ceiling (%)
+
+30.0
+
+20.0
+
+20.0
+
+20.0
+
+Loan to value (%)
+
+24.8
+
+(2.5)
+
+6.6
+
+14.4
+
+Cash flow leverage
+
+Financial Risk: Significant
+We expect Georgia Capital to actively manage its debt levels so that it maintains a maximum of 30% loan-to-portfolio
+value (LTV) ratio at all times, including selling listed assets at a discount if needed. Based on current market prices, we
+assess its LTV ratio will be about 20%-25%. We expect Georgia Capital to use its dividend and interest income stream
+for capital contributions into renewable energy business, education, and real estate businesses.
+
+Financial summary
+Table 2
+
+Georgia Capital JSC.--Financial Summary
+(Mil. GEL)
+
+2018
+
+Portfolio as adjusted
+
+2,188
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+JSC Georgia Capital
+
+Table 2
+
+Georgia Capital JSC.--Financial
+Summary (cont.)
+(Mil. GEL)
+
+2018
+
+Net debt as adjusted
+
+542
+
+Loan to value (%)
+
+24.8
+
+Dividend and fees income
+
+112
+
+Operating charges and tax expenses
+
+19.0
+
+Interest expenses
+
+44.7
+
+Cash flow cover (x)
+
+1.8
+
+GEL--Georgian lari.
+
+Liquidity: Adequate
+We assess Georgia Capital's liquidity as adequate. We estimate that its sources of liquidity cover sources by above 1.3x
+starting from June 2019.
+We believe Georgia Capital has a generally satisfactory standing in credit markets, which is demonstrated by the bond
+issuance, and that it has sound relationships with local banks, given its important position as a key investor in the
+country.
+Nevertheless, its ability to refinance debt could be restricted, as the domestic capital markets are relatively shallow and
+Georgia Capital has no committed back-up facilities in place. We understand that management has committed to keep
+at least $50 million of cash and equivalents in foreign currency and that the company has no near-term debt maturities.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We estimate that principal liquidity sources over the 12
+months from June 30, 2019, are as follows:
+
+We estimate that principal liquidity uses over the same
+period:
+
+• Cash and cash equivalents (mostly sovereign and
+Georgian corporate bonds) of GEL324 million, 88%
+held in $); and
+
+• Operating costs of around GEL20 million;
+
+• Dividends from portfolio companies and interest
+income of about GEL110 million.
+
+• Interest expenses of approximately GEL50
+million-GEL55 million;
+• About GEL200 million of equity capital contributions
+into its investee companies; and
+• GEL50 million-GEL70 million of on-lending to
+investee companies.
+
+Debt maturities
+A $300 million bond matures in 2024
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+JSC Georgia Capital
+
+Covenant Analysis
+The bond documentation contains a maintenance ratio of net debt to adjusted equity value of below 45%. As of March
+31, 2019, Georgia Capital had significant headroom within these thresholds.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Georgia Capital's capital structure includes the $300 million unsecured bond.
+
+Analytical conclusions
+We rate the notes in line with our issuer credit rating on Georgia Capital, because no elements of subordination risk are
+present in the capital structure.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: High
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbModifiers
+
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : b+
+
+• Group credit profile: b+
+• Related government rating: BB-
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+JSC Georgia Capital
+
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria | Corporates | Industrials: Methodology: Investment Holding Companies, Dec. 1, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Health Care Services Industry, April 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Pharmaceutical Industry, April 8, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• Criteria | Financial Institutions | Banks: Banks: Rating Methodology And Assumptions, Nov. 9, 2011
+• Criteria | Financial Institutions | Banks: Banking Industry Country Risk Assessment Methodology And
+Assumptions, Nov. 9, 2011
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+Strong
+Satisfactory
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Fair
+
+Ratings Detail (As Of September 6, 2019)*
+JSC Georgia Capital
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Unsecured
+
+B+
+
+Issuer Credit Ratings History
+05-Jul-2018
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+JSC Georgia Capital
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+

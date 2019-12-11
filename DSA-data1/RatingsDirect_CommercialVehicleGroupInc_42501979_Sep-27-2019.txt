@@ -1,0 +1,495 @@
+Commercial Vehicle Group Inc.
+Primary Credit Analyst:
+Nick Santoro, New York + 1 (212) 438 1201; nick.santoro@spglobal.com
+Secondary Contact:
+Robyn P Shapiro, New York (1) 212-438-7224; robyn.shapiro@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Commercial Vehicle Group Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Ability to manufacture low volume, customized products.
+
+Small scale, narrow product scope, and limited geographic footprint.
+
+Record 2018 revenues supported debt reduction.
+
+The commercial vehicle industry is highly cyclical.
+Rising labor and raw material costs can pressure profitability.
+
+While the company's revenues continue to improve in 2019, we expect commercial vehicle production to soften in 2020.
+Following a strong North American Class 8 (heavy duty) truck market in 2019, we expect lower production levels in
+2020. Sales at Commercial Vehicle Group Inc. (CVG) are relatively concentrated, with about 50% of revenues from the
+North American commercial truck market and 20% from sales to original equipment manufacturers (OEMs) in the
+global construction equipment market. As such, we expect CVG's revenue growth in the high-single-digit percent area
+in 2019, followed by a decline in revenues in 2020.
+We expect higher raw material and labor costs to continue to pressure profitability in 2019. We assume higher
+revenues in 2019, driven by strong North American medium- and heavy-duty truck demand, will be offset by raw
+material price increases and higher labor costs. The tight U.S. labor market and the higher minimum wage in Mexico,
+especially along the U.S. border where CVG's wire harness facility is located, have contributed to higher labor costs.
+We expect increased capital spending to continue as the company expands its manufacturing footprint. CVG spent
+$12.7 million on capital expenditures in the first half of 2019, up from $5.2 million in the first half of 2018, to finance
+the expansion of three new manufacturing facilities. These investments will facilitate expansion of CVG's wire harness
+capabilities in Mexico and Ukraine, as well as provide a dedicated facility for large trim molding, also in Mexico. While
+the expanded manufacturing footprint will allow sharing of overhead costs and provide growth capacity for new and
+existing customers, capital expenditures are expected to remain high for the remainder of 2019, which will weigh down
+free operating cash flow (FOCF).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Commercial Vehicle Group Inc.
+
+Outlook: Negative
+
+Our stable outlook on CVG reflects our belief that the company's debt leverage will remain less than 4x in 2019,
+while its FOCF remains in line with good commercial vehicle and construction equipment revenue growth.
+
+Downside scenario
+We could lower our ratings on CVG over the next 12 months if elevated cash outflows relating to capital spending,
+acquisitions, or restructuring significantly affects overall liquidity. We could also lower our ratings if weak demand
+takes a toll on CVG's operating performance. For example, we could lower the ratings if debt leverage exceeds 5x
+or if FOCF remains negative for a sustained period.
+
+Upside scenario
+Although unlikely, we could raise our ratings on CVG over the next 12 months if we expect the company to sustain
+its adjusted debt leverage at less than 4x through a cyclical downturn. In addition, we would expect the company
+to maintain positive cash flow generation, including a FOCF-to-debt ratio of more than 10%.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+• Revenue increases in the high-single-digit percent
+area in 2019, but turning negative in 2020. Revenue
+growth is primarily driven by growth in the North
+American commercial vehicle market and the level
+of large-scale infrastructure development projects.
+
+Debt to EBITDA (x)
+FFO to debt (%)
+
+2018A
+
+2019E
+
+2.1
+
+2.2-2.4
+
+37.1 High 30% area
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• We expect lower EBITDA margins in 2019 and
+2020, due to increased raw material and labor costs.
+• We continue to expect the company to incur capital
+expenditures in the range of $10 million-$15 million
+annually over the next two years.
+
+Base-case projections
+Commercial Vehicle Group's credit metrics have improved, but we assume 2019 is the peak of the heavy duty truck
+cycle. CVG's EBITDA growth is a result of revenue growth and cost cutting initiatives that have widened margins. We
+expect EBITDA to remain flat in 2019 compared to 2018. Although the company has experienced meaningful
+improvement in its credit metrics over the last few years, we expect demand and production levels to soften in 2020,
+which could result in lower earnings and higher debt leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Commercial Vehicle Group Inc.
+
+Company Description
+Commercial Vehicle Group Inc. (CVG) is a supplier of a full range of cab-related products and systems for the global
+commercial vehicle market, including the medium- and heavy-duty truck market, the medium- and heavy construction
+vehicle market, and the military, bus, agriculture, specialty transportation, mining, industrial equipment and off road
+recreational markets.
+
+Business Risk: Weak
+CVG is exposed to highly cyclical end markets, which can be more volatile than the overall economy. CVG depends on
+the economically sensitive heavy-duty truck market (50% of its revenue in the first half of 2019) and global
+construction equipment industry (20% of revenues). The company's remaining sales and services serve the
+aftermarket, which exhibits less volatility in our view. CVG's customers are heavily influenced by the strength of the
+industrial sector, which generates a significant portion of the freight tonnage that commercial vehicles haul. We believe
+a full down-cycle in the North American class 8 truck market could lead CVG's customers to in-source their cab
+assembly in order to utilize their excess capacity.
+CVG has geographic, market, and customer concentrations, and is exposed to changes in commodity costs. We expect
+the company to capitalize on a number of product launches and various market growth opportunities, including
+manufacturing plant expansions into Mexico and Ukraine. Therefore, we expect the company's capital spending to be
+elevated over the next year. CVG's labor force, however, is highly variable and can be cut when production volumes
+falter.
+
+Financial Risk: Highly leveraged
+Although we expect CVG's 2019 adjusted debt-to-EBITDA to remain easily remain less than 4x, we believe debt
+leverage could significantly increase during times of stress. In addition, we note the company's FOCF turned positive
+in 2018, driven by its revenue growth and margin expansion. While we expect FOCF to remain positive in 2019, we
+see demand softening 2020, and FOCF could decrease.
+
+Liquidity: Adequate
+We believe CVG has adequate sources of liquidity to cover its needs over the next 12-18 months. We expect CVG's
+sources of liquidity, including cash and credit facility availability, to exceed 4x its uses over the next year, and
+anticipate that its net sources of liquidity will remain positive even if its EBITDA declines by 15%. We expect the
+company will pursue prudent financial risk management, though it lacks the ability to absorb high-impact,
+low-probability events without refinancing.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Commercial Vehicle Group Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about $61 million as of
+June 30, 2019;
+
+• Annual maintenance capital spending of about $10
+million to $15 million;
+
+• Availability of roughly $62 million under a $65
+million asset-based revolving credit facility, as of
+June 30, 2019, with an additional $25 million of
+availability pro forma for the recent revolver
+upsizing to $90 million from $65 million; and
+
+• About $4.4 million in annual amortization on the
+company's term loan B; and
+• Modest working capital needs.
+
+• Funds from operations (FFO) of $55 million to $65
+million.
+
+Covenant Analysis
+Under the company's term loan B, financial covenants include a maximum total leverage ratio of 5.0x, with a stepdown
+to 4.75x in first quarter 2020. We expect the company to maintain adequate headroom under its financial covenants.
+
+Environmental, Social, And Governance
+
+As with all commercial vehicle suppliers, CVG's business is indirectly affected by government regulations
+applicable to its commercial vehicle OEM customers, which primarily relate to emissions, noise, and safety
+standards imposed by regulatory agencies around the world. Changes in emission standards and other
+governmental regulations could affect the demand for commercial vehicles and, as a result, CVG's operations.
+CVG's manufacturing facilities are subject to foreign, federal, state, and local laws and regulations governing the
+protection of the environment. These strictures have generally become more stringent over time. The company
+has made investments to certify several of its facilities as compliant with international environmental management
+standards and is developing environmental management systems.
+Social factors do not play a major role in our ratings for CVG. Approximately 15% of the company's 2018
+workforce was salaried and the remainder was hourly. As of year-end 2018, approximately 53% of the employees
+in the company's North American operations were unionized, with most unionized workers based in Mexico. About
+68% of the company's European, Asian and Australian operations were represented by shop steward committees.
+The company has not experience any major strikes, lockouts or work stoppages during the last few years, and
+considers its relationship with employees to be satisfactory. CVG uses contract and temporary employees during
+periods of peak demand. Conversely, the company uses flexible scheduling, furloughs and reductions in force as
+necessary when demand weakens.
+Governance risks are low for now because CVG will likely extend its good record of disciplined capital allocation.
+This should help it navigate through any cyclical downturn.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Commercial Vehicle Group Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates a payment default resulting from a cyclical downturn in North
+American commercial truck production following a disappointing level of fleet replacement purchases, intense
+pricing pressures from its customers during a period of stagnant demand, predatory pricing by its competitors, and a
+significant falloff in business due to the loss of one of its major customers.
+• We believe that if CVG were to default, a viable business model would remain because of the company's market
+position and customer relationships. Therefore, we believe that debt holders would achieve the greatest recovery
+value through reorganization rather than through liquidation.
+• LIBOR of 250 basis points;
+• The $90 million asset-based lending facility is 60% utilized.
+• We apply a 5x multiple to the default EBITDA to value the enterprise, which is in line with peers.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Simulated year of default: 2022
+
+• Net enterprise value (after 5% admin. costs): $143
+million
+
+• EBITDA at emergence: $29 million
+• EBITDA multiple: 5x
+
+• Obligor/nonobligor valuation split: 70%/30%
+• Value distributed to priority claims: $83 million
+• Value available to first-lien debt: $55 million
+• Estimated first-lien claim: $157 million
+• —Recovery range: 30%-50% (rounded estimate:
+35%)
+Note: All debt amounts include six months of
+prepetition interest. Collateral value equals asset
+pledge from obligors after priority claims, plus equity
+pledge from nonobligors after nonobligor debt.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Commercial Vehicle Group Inc.
+
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : b
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Auto Suppliers Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Commercial Vehicle Group Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 20, 2019)*
+Commercial Vehicle Group Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+26-Feb-2015
+
+B/Stable/--
+
+12-Dec-2013
+
+B/Negative/--
+
+22-Jul-2013
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+

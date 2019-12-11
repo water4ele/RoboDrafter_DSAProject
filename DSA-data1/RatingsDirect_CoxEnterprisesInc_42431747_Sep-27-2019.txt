@@ -1,0 +1,597 @@
+Cox Enterprises Inc.
+Primary Credit Analyst:
+Chris Mooney, CFA, New York (1) 212-438-4240; chris.mooney@spglobal.com
+Secondary Contact:
+Allyn Arden, CFA, New York (1) 212-438-7832; allyn.arden@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+Cox Enterprises Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Above average broadband penetration levels that provide good revenue
+visibility.
+
+Longer-term regulatory uncertainty surrounding Title II and potential
+for price regulation.
+
+High barriers to entry given capital spending requirements and rights of
+way.
+
+Longer-term competition from wireless players offering 5G fixed
+broadband services.
+
+Increasing demand for broadband presents opportunities to increase
+earnings for next several years
+
+Auto segment more susceptible to macroeconomic pressure than
+cable unit.
+
+Relatively conservative financial policy, with debt to EBITDA below 3x.
+
+Profits from the lower-margin video segment are under pressure.
+
+Strong liquidity position enabled by solid FOCF generation and low
+dividend to the Cox family.
+
+We view Cox Enterprise Inc.'s (CEI's) proposed sale of its broadcast TV and radio stations to Apollo favorably. We
+believe the broadcasting business lacked the scale necessary to compete effectively and did not provide any
+meaningful synergies to its cable unit, while the radio business was in secular decline. By removing them, CEI
+management can sharpen its focus on the growing cable and auto businesses. Furthermore, we expect the company to
+pay down debt with proceeds in a manner that is at least leverage neutral.
+We expect high-margin broadband revenue will continue to grow at a healthy rate for the next three years, driven by a
+combination of price increases and subscriber growth. As broadband becomes increasingly important in the lives of
+consumers, we believe demand for faster internet to stream video on multiple devices will allow CEI to raise prices as
+customers migrate to faster speed tiers. We also believe CEI will continue building its subscriber base from a
+combination of increasing homes passed of about 1%-2% per year, increasing consumer broadband adoption, and
+market share gains from telco competition using copper-based infrastructure with inferior speeds, though these
+opportunities are dwindling.
+We believe the impact of video cord cutting on earnings and cash will be modest for several reasons. We do not forecast
+a significant acceleration in video losses because competing live streaming services primarily target customers outside
+the traditional ecosystem, most early adopters have likely already signed up, and the savings gap will narrow as prices
+increase for alternatives. Second, video makes up a much smaller percentage of total earnings than it has historically.
+Finally, CEI's broadband service provides a powerful pricing counterbalance by charging a premium for stand-alone
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+Cox Enterprises Inc.
+
+broadband and then inducing a portion of cord-cutters to buy faster broadband tiers.
+We expect the company will maintain a financial policy consistent with keeping debt to EBITDA below 3x. We believe
+the family is committed to the current rating, employing a conservative approach to capital deployment with a modest
+ongoing dividend. We believe bolt-on acquisitions are likely, particularly in environmentally friendly areas, but large
+scale M&A would be funded with a balanced mix of debt and equity. This is consistent with the company's track
+record, as leverage rose above 3x briefly in 2016 to fund the acquisition of Dealertrack.
+
+Outlook: Stable
+
+The stable outlook reflects good revenue visibility from CEI's cable unit, coupled with our expectation that the
+company will maintain a moderate financial policy such that debt to EBITDA remains in the mid-2x area over the
+next two to three years.
+
+Downside scenario
+Although unlikely over the next two years, we could lower the ratings if debt-financed acquisitions cause leverage
+to rise above 3x on a sustained basis or increase its exposure to businesses with less favorable risk characteristics.
+
+Upside scenario
+While unlikely over the next two years given the maturity and secular trends of the cable unit, coupled with our
+less favorable business risk assessments of the company's non-cable segments, we could raise the ratings if CEI
+reduces leverage to below 2x on a sustained basis and maintains a financial policy to keep leverage at this level for
+the long term.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+Cox Enterprises Inc.
+
+Assumptions
+
+• Real GDP growth of 2.5% in 2019 and 1.8% in 2020,
+supports continued growth in residential broadband
+subscribers and commercial services;
+• Cable revenue growth of 2%-4% per year as HSD
+revenue growth of 7%-9% is offset by relatively flat
+video revenue trends.
+
+Key Metrics
+
+2018A
+Revenue growth (%)
+EBITDA margins, reported (%)
+Debt to EBITDA (x)
+FOCF/Debt (%)
+
+2019E
+
+2020E
+
+2.8
+
+(1)-1
+
+(2)-(4)
+
+26.6
+
+29-31
+
+30-32
+
+2.8 2.1-2.5 2.0-2.4
+16.4
+
+10-15
+
+12-17
+
+• Broadband subscribers increase 2%-3% per year
+while ARPU increases about 5-7% as customers
+move to faster tiers.
+• Residential video connections decline 4%-6% over
+the next two years primarily because of competitive
+pressures from streaming alternatives as well as
+maturing product conditions;
+• Commercial revenue increases in the high
+single-digit percent area due to increased
+penetration and growth from wireless backhaul;
+• Cable EBITDA margin remains around 34%-35% as
+growth in high-margin residential broadband
+revenue is offset by declining video margins
+stemming from rising programming costs;
+• Revenue from Cox Automotive is relatively flat as
+growth in Manheim is offset by lower advertising
+revenue and international softness; and
+• Sale of media business is assumed to occur at the
+end of 2019 with proceeds used for a combination of
+debt reduction and a special dividend
+
+Base-case projections
+EBITDA margins should improve from a combination of improvement in the automotive business and the divestiture of
+its lower-margin media properties. Share losses in the high-margin Autotrader advertising business and a shift from
+highly-profitable Manheim buy/sell fees to less profitable ancillary auction services caused EBITDA margins in the
+automotive business to fall to about 13% in 2018 (from a range of about 17%-20% from 2014-2017). We project
+margins will rebound to 14%-15% through 2020 as the company grows new digital mobility markets, although this
+segment is more volatile than the cable business. We also project the media business is sold at the end of 2019,
+resulting in a more favorable business mix in 2020.
+Our adjusted credit metrics include adjustments for operating lease, post-retirement obligations, and captive finance
+operations:
+• Our operating lease adjustment adds about $1.6 billion in debt and about $600 million to EBITDA for the interest
+and depreciation component of rent expense.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+Cox Enterprises Inc.
+
+• We factor in the captive finance operations of Cox Auto subsidiary Nextgear, which provides financing services
+including lending for dealers. We estimate our captive finance adjustment reduces debt by about $4.7 billion and
+EBITDA by about $400 million.
+• Tax-adjusted unfunded pensions and post-retirement obligations add around $1.7 billion to reported debt and about
+$140 million in EBITDA to reflect only the service cost component of pension expense.
+
+Company Description
+Atlanta-based CEI is the third-largest cable provider in the U.S. with more than 5.8 million customer relationships,
+passing more than 10 million homes. Cox Auto is one of the largest providers of inventory, software, financing, and
+marketing services for auto dealers in the U.S. with more than 25 brands.
+
+Business Risk: Satisfactory
+We base our assessment on CEI's cable business, which is its largest revenue and EBITDA contributor, tempered by
+the comparatively weaker business risk of Cox Automotive. The cable unit is in the second tier of cable operators in
+terms of size, after Comcast Corp. and Charter Communications Inc., and benefits from scale economies and
+geographic diversity. Its subscription-based business model enables good revenue visibility, and fairly predictable,
+growth-driven cable capital spending.
+CEI benefits from what we view as a sustainable competitive advantage in most of its markets, with the ability to offer
+much faster internet than its primary competition, typically consisting of the incumbent phone company offering
+services over copper wire. CEI overlaps with AT&T (45% of its footprint), CenturyLink (35%), and Verizon (17%),
+which have deployed fiber to homes in select markets where it is economical to do so. Therefore, CEI has
+industry-leading broadband penetration of 52%, which is modestly higher than scaled incumbent cable peers in the
+47% to 50% range.
+Competition could intensify over a longer term with 5G fixed wireless technology, but strategies vary by operator:
+• Verizon plans to pass about 30 million homes within the next five to eight years with speeds of up to 1Gbps,
+targeting 20%-30% penetration. The company has launched in a handful of markets and is pricing at a competitive
+$50 bundled with wireless. The strategy is targeted primarily at densely populated markets. We estimate only about
+25% of CEI's customers come from the top 25 markets, but 60% come from the top 50 that Verizon could eventually
+enter.
+• T-Mobile plans to cover more than 50% of U.S. homes with speeds of at least 100 Mbps by 2024, aiming for 9.5
+million customers using aggressive pricing in more rural markets.
+• AT&T has not quantified its plans but that the 5G standard will evolve over the next three to five years into a fixed
+broadband replacement.
+If wireless operators successfully executing these plans, we believe the primary risk to cable operators could be the
+ability to monetize increasing data traffic with a lower-priced competitor in the market. However, we recognize there is
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+Cox Enterprises Inc.
+
+a lot of uncertainty around 5G fixed wireless technology. More specifically:
+• The technology has yet to be demonstrated at scale. Verizon's strategy is predicated on using mmWave spectrum
+that is capable of delivering the types of speeds and low latency that can compete with cable but it doesn't travel far
+and there are questions around its ability to penetrate materials.
+• T-Mobile's plan is contingent upon buying Sprint, which is still uncertain. Sprint owns a lot of good mid-band
+spectrum that would deliver lower performance than mmWave but has better coverage characteristics. If the deal is
+blocked by state AG's, it is unclear what T-Mobile's fixed wireless strategy would be.
+• Adding in-home broadband customers could put strain on wireless networks that are primarily designed for
+mobility.
+CEI continues to invest in video despite industry headwinds from shifting technology, changing consumer preferences,
+and rising programming costs. The service is still profitable but will increasingly be used as a retention tool to help sell
+broadband subscriptions. Recently, cord-cutting has accelerated with CEI losing video subscribers at a rate of 6.5%
+year over year in the second quarter of 2019. While CEI benefits from licensing leading user interface technology from
+Comcast, we believe this trend will continue over the next year, particularly as consumers share passwords for
+streaming video alternatives. Still, we believe video losses represent a manageable credit risk given the lower
+contribution to earnings and cash flow.
+The company derives good business diversity from its automotive group, which includes the Manheim auto auction
+business, dealer inventory financing (NextGear), Autotrader, and Kelly Blue Book. Acquisitions have expanded CEI's
+reach beyond auctions into vehicle transportation and financing, although we view this segment's performance as
+susceptible to macroeconomic conditions. Autotrader has been negatively affected by competition from Cars.com
+recently, which has hurt profitability. Conversely, Nextgear has benefitted from a low interest rate environment, which
+is likely to continue for the near term. Dealertrack Technologies automotive software solutions allow for certain cross
+selling opportunities to capture share in the auto services market. We believe CEI will drive future growth in this
+segment through tuck-in acquisitions as well as additional securitizations of floorplan receivables, which allows it to
+finance dealer borrowings.
+
+Peer comparison
+• We believe Comcast and Charter have a stronger business profile because of their larger size and geographic
+diversity, which enable programming procurement benefits, greater investments in technology, and an ability to
+offer new services such as wireless.
+• Altice USA is a similarly-sized incumbent cable company that we view slightly more favorably given its very high
+profit margins (44% versus 35% for CEI's cable unit) and improving subscriber trends from investments in the
+network. CEI has higher broadband penetration (52% versus 47%) but lower video penetration (38% versus 34%)
+than Altice.
+• We view CEI's business more favorably than Cable One and WideOpenWest (WoW) due to significantly higher
+penetration levels at CEI, albeit for different reasons. WoW is an overbuilder that operates in more competitive
+markets whereas Cable One has opted to stop investing in its video product due to its small size and tight video
+margins.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+Cox Enterprises Inc.
+
+Financial Risk: Intermediate
+We expect growth in high-margin broadband to result in cable earnings growth of about 4%-5% over the next two
+years, slightly below the industry average due to its more mature footprint. We also expect the company to generate
+about $1.5 billion - $2.0 billion in FOCF each of the next two years. This is down from $2.6 billion in 2018 primarily
+because of moderately higher capital spending on network improvements and timing related to working capital and
+other items. We expect this cash flow will be used for a combination of dividends, tuck-in acquisitions, and debt
+reduction such that leverage remains between 2x and 3x.
+
+Liquidity: Strong
+We view CEI's liquidity as strong. We expect sources of liquidity to exceed uses by at least 1.5x and for net sources to
+remain positive, even with a 30% decline relative to our base-case forecast.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of about $500 million as of June 30, 2019;
+
+• Annual capital expenditures of about $2.6 billion $2.8 billion;
+
+• About $3.1 billion available, net of commercial paper
+backup, under the $3.5 billion joint Cox
+Enterprises/Cox Communications revolving credit
+facility due 2023;
+• Annual FFO of about $4.5 billion; and
+
+• Debt maturities of about $900 million over the next
+12 months; and
+• Annual dividends to the family of about $400
+million.
+
+• About $2 billion in net proceeds from divestitures.
+
+Covenant Analysis
+Compliance expectations
+We expect CEI's restricted units (Cox Auto and Cox Media) and CCI will maintain at least a 30% EBITDA cushion.
+
+Requirements
+CCI and CEI's restricted units (Cox Auto and Cox Media) have maximum total leverage covenants of 5x.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+CEI's capital structure consists of about $12 billion of debt, almost all of which is at its operating subsidiaries Cox
+Communications and Cox Auto. There is about $255 million of debt at the parent level.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+Cox Enterprises Inc.
+
+Analytical conclusions
+• We rate CCI's unsecured debt 'BBB' in-line with the issuer credit rating as there is no material subordination to other
+obligations.
+• We rate CEI's unsecured debt one notch below the issuer credit rating at 'BBB-' since this debt is structurally
+subordinated to debt issued at operating subsidiaries.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+• Group credit profile: bbb
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology: The Impact Of Captive Finance Operations On Nonfinancial
+Corporate Issuers, Dec. 14, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+Cox Enterprises Inc.
+
+• Criteria - Corporates - Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 10, 2019)*
+Cox Enterprises Inc.
+Issuer Credit Rating
+
+BBB/Stable/A-2
+
+Commercial Paper
+Local Currency
+Senior Unsecured
+
+A-2
+BBB-
+
+Issuer Credit Ratings History
+04-May-2017
+
+BBB/Stable/A-2
+
+15-Jun-2015
+
+BBB/Negative/A-2
+
+04-Aug-2011
+
+BBB/Stable/A-2
+
+Related Entities
+Cox Communications Inc.
+Issuer Credit Rating
+
+BBB/Stable/NR
+
+Senior Unsecured
+
+BBB
+
+TCA Cable TV Inc.
+Senior Unsecured
+
+BBB
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+Cox Enterprises Inc.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 11
+
+

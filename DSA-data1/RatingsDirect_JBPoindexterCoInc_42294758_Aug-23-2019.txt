@@ -1,0 +1,452 @@
+J.B. Poindexter & Co. Inc.
+Primary Credit Analyst:
+Gilad Kopelman, New York + 1 (212) 438 1160; gilad.kopelman@spglobal.com
+Secondary Contact:
+Trevor T Martin, CFA, New York (1) 212-438-7286; trevor.martin@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+J.B. Poindexter & Co. Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb-
+
+bb-
+
+bbBB-/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Its scale enables it to source raw materials at attractive prices.
+
+Exposed to the highly cyclical commercial trucking end market.
+
+Demonstrated increased pricing power across its major divisions.
+
+High customer concentrations.
+
+Reading division back on track following 2017 recall. In 2017, the company recalled certain products because its
+customers were experiencing issues operating their vehicles' taillights. This temporarily reduced Poindexter's
+profitability and led to a large warranty charge. However, we believe management has successfully addressed the
+underlying issues following the changes it made to the division's management team and its implementation of stricter
+business controls as it navigated significant productivity improvements. These initiatives have led the division to return
+to profitability while expanding its organic sales.
+The company's exposure to cyclical end markets may lead to stretched credit metrics in a potential downturn.
+Poindexter maintains heavy exposure to the highly cyclical commercial transportation end markets. Given the
+especially high customer and supplier concentrations in its main business lines, a downturn may stress its credit
+metrics to the point that we would lower our ratings.
+Poindexter has weathered trade tensions well so far. Despite tariffs on its main raw material inputs, steel and
+aluminum, the company has managed to steadily raise its profitability by increasing pricing at its largest divisions.
+Also, Poindexter continues to take advantage of the combined purchasing power of all of its business units to
+efficiently source its raw materials.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+J.B. Poindexter & Co. Inc.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on J.B. Poindexter & Co. Inc. reflects our expectation that the company will
+maintain an adjusted funds from operations (FFO)-to-debt ratio of approximately 20%-30% over the next 12
+months.
+
+Downside scenario
+We could lower our ratings on Poindexter if the company's operating performance falls short of our expectations,
+either because of a cyclical downturn or operational inefficiencies. For example, we could downgrade the company
+if we forecast that its EBITDA will weaken significantly because of an inability to maintain the improved margins in
+its truck body and step van segments amid lower demand conditions, causing its adjusted FFO-to-debt ratio to fall
+below 20% for a sustained period with no clear prospects for recovery. We could also lower our ratings if the
+recent recall event leads to a greater-than-expected warranty expense.
+
+Upside scenario
+Although unlikely during the next 12 months, we could upgrade Poindexter if it establishes a track record of strong
+and consistent margin performance across its key segments, successfully implements its external growth strategies,
+and commits to maintaining financial policies that would cause its adjusted FFO-to-debt ratio to remain above 30%
+for a sustained period. We would also need to believe that management's future financial policies would continue
+to support the company's improved metrics.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+J.B. Poindexter & Co. Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019, 1.8% in 2020, and
+1.9% in 2021;
+Adjusted EBITDA margin
+
+• The revenue in the company's major divisions
+increases organically by the double digit percent
+area because of deeper product penetration in 2019
+before expanding organically by the high single digit
+percent area thereafter;
+
+Debt to EBITDA
+FFO to debt
+
+2018A
+
+2019E
+
+2020E
+
+5.8%
+
+9.5%-10.0%
+
+9.5%-10.0%
+
+5.1x
+
+2.5x-3.0x
+
+2.0x-2.5x
+
+8.3% 25.0%-30.0% 30.0%-35.0%
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• EBITDA margins in the 10% area in 2019-2020 due
+to increased profitability following successive
+pricing increases;
+• Annual capital expenditure of about $30 million-$40
+million in 2019 and 2020;
+• Moderate working capital outflows; and
+• Minor bolt-on acquisitions.
+
+Company Description
+J.B. Poindexter manufactures van and truck bodies, truck accessories, specialty vehicles, and packaging materials in
+North America. Poindexter holds fair market positions with high U.S. market shares in its transportation-related truck
+body and step van businesses (which account for about three-quarters of its revenue) in addition to its truck
+accessories business.
+
+Business Risk: Weak
+With over $1.5 billion in annual sales, J.B. Poindexter is a large assembler and fabricator of commercial auto parts for
+the transportation industry. Its size provides it with the economies of scale to efficiently source the raw materials for all
+of its divisions, which benefits its smaller segments.
+However, the barriers to entry in its main lines of business are low given the assembled nature of its products, which
+results in low EBITDA margins relative to those of its capital goods peers. Furthermore, the company has significant
+customer concentrations as its top 10 customers accounted for nearly 40% of its revenue in 2018 revenue. These
+concentrations are even higher in its largest two divisions, Morgan and Morgan Olson. The top two customers in each
+of these divisions account for approximately 50% of revenue, respectively. Given the cyclical nature of the commercial
+transportation space, we view these concentrations as precarious, especially ahead of a potential downturn.
+Nonetheless, Poindexter maintains good brand recognition as a leading provider of commercial vehicle parts given
+that it provides nearly half of all medium-duty trucks and two-thirds of all step-vans sold in the U.S.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+J.B. Poindexter & Co. Inc.
+
+Financial Risk: Significant
+We view J.B. Poindexter's debt load to be moderate and expect its leverage to improve toward the 3.0x area over the
+next 12 months. The company's adjusted debt to EBITDA for the 12 months ended March 31, 2019, was
+approximately 3.2x while its FFO-to-debt ratio was approximately 20%. We anticipate that these metrics will improve
+in line with the company's overall financial performance, which we expect to strengthen due to its strong backlog,
+continued integration of acquired businesses, and the one-time nature of its recent warranty charge.
+
+Liquidity: Adequate
+We assess J.B. Poindexter's liquidity as adequate. We expect the company's sources of liquidity to be more than 4x its
+uses over the next 12 months and anticipate that its net sources will remain positive even if its forecast EBITDA
+declines by 15%. The company also has no significant near-term debt maturities. We believe that the qualitative
+factors related to Poindexter's liquidity--such as its relationship with its banks, its standing in the credit markets, its
+ability to withstand adverse events with only a limited need for refinancing, and its risk management--all support our
+adequate assessment.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Annual FFO of over $100 million over the next two
+years;
+
+• Manageable maintenance capital expenditure; and
+• Moderate working capital outflows.
+
+• Substantial availability under the $100 million
+revolving credit facility; and
+• Cash balance of about $114 million as of June 30,
+2019.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The '3' recovery rating on J.B. Poindexter's senior unsecured notes reflects our expectation for meaningful
+(50%-70%; rounded estimate: 50%) recovery after satisfying unpaid priority administrative expenses, the
+asset-based lending (ABL) revolving credit facility lenders, and capital lease claims.
+• Our simulated default scenario assumes a default occurring in 2023 because of a prolonged cyclical downturn in
+Poindexter's key markets. The combination of weak demand for the company's trucks and step vans and lower
+energy prices impair its cash flow generation. Combined with the shrinking collateral values under Poindexter's ABL
+revolving credit facility, this would eventually erode the company's liquidity to levels that would be insufficient to
+service its obligations.
+• We value the company on a going-concern basis. The gross enterprise value of $254 million is based on emergence
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+J.B. Poindexter & Co. Inc.
+
+EBITDA of $51 million and a valuation multiple of 5x (in line with the multiples we use for similarly rated capital
+goods companies).
+
+Simulated default assumptions
+• Simulated year of default: 2023
+• Implied enterprise value multiple: 5.0x
+• EBITDA at emergence: $51 million
+• Jurisdiction: U.S.
+
+Simplified waterfall
+• Net enterprise value at default (after 5% administrative costs): $254 million
+• ABL lender claims: $52 million
+• --Recovery expectations: Not applicable
+• Total value available to unsecured claims: $190 million
+• Senior unsecured debt and pari passu claims: $363 million
+• --Recovery expectations: 50-70% (rounded estimate: 50%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+J.B. Poindexter & Co. Inc.
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 22, 2019)*
+J.B. Poindexter & Co. Inc.
+Issuer Credit Rating
+
+BB-/Stable/--
+
+Senior Unsecured
+
+BB-
+
+Issuer Credit Ratings History
+29-Mar-2018
+
+BB-/Stable/--
+
+30-Aug-2012
+
+B+/Stable/--
+
+22-Mar-2012
+
+B/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+

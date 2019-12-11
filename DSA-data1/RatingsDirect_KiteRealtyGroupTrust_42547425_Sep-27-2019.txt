@@ -1,0 +1,1641 @@
+Kite Realty Group Trust
+Primary Credit Analyst:
+Samantha L Stevens, New York + 1 (212) 438 1888; samantha.stevens@spglobal.com
+Secondary Contact:
+Gabriela M Infante, New York + 1 (212) 438 1775; gabriela.infante@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Kite Realty Group Trust
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Kite’s portfolio quality has been steadily increasing through the
+disposition of noncore assets, with improving rents, trade area
+statistics, and same-property NOI percentage growth rates.
+
+One of our smaller rated strip-center REITs with some concentration in
+Florida at 25% of annualized base rent (ABR).
+
+Credit protection measures are expected to improve materially in
+2019, with asset sale proceeds largely used to pay down some
+outstanding debt.
+
+Continued retail distress and changing consumer/tenant demands could
+require additional capex to repurpose certain assets, including power
+center assets.
+
+Manageable redevelopment and development pipeline, especially
+compared to similarly sized rated peers which have increased
+pipelines in recent years.
+
+Some exposure to troubled retailers and those under e-commerce
+pressure, which could negatively affect rents and occupancy should store
+closures and bankruptcies be greater than anticipated.
+
+Kite's relatively small but well occupied portfolio of shopping centers ($3.4 billion in undepreciated assets as of June 30,
+2019) should support fairly stable cash flow generation. We believe the company's focus on grocery and needs-based
+retailers--approximately 71% of is from centers with a grocery component--should provide some protection against
+continued retail distress, as we think grocery stores help drive regular foot traffic to centers. Moreover, the impact of
+e-commerce on grocery has proven less material than with other retail categories such as apparel thus far. That being
+said, Kite has exposure to some retailers facing continued e-commerce pressure which could negatively affect
+operating metrics over the next few years.
+Kite's portfolio quality has improved modestly following the completion of its asset disposition program. Earlier this
+year, Kite announced plans to sell up to $500 million of noncore assets with weaker demographic profiles to focus
+operations within select top 50 U.S. markets. At the start of the program, the disposition pool consisted of properties
+with lower three-mile average population, average household income, and ABR per square foot versus the remaining
+portfolio. The properties also had a smaller amount of ABR with a grocer component and within the top 50 markets.
+Year-to-date through June 30, 2019, Kite sold 8 noncore assets for $244 million. Subsequent to the quarter end, it sold
+an additional five noncore assets for $157 million, bringing the total to $415 million. As a result, ABR/sf has steadily
+increased, reaching $17.35 as of June 30, 2019 (and $17.42 pro forma for asset sales after the second quarter), up from
+$16.66 a year prior. Following the completion of asset sales, Kite expects approximately 62% of its NOI will be from 15
+to 20 focus markets that meet certain data-driven criteria, such as good prospects for job growth and population
+migration. We expect Kite to complete dispositions by year-end, with continued modest asset recycling in future years
+to further enhance its position within its target markets. (Kite's long-term goal is to have at least 80% of its NOI
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Kite Realty Group Trust
+
+generated from these markets.)
+Chart 1
+
+We expect credit protection measures to improve as the company uses proceeds from asset sales for debt repayment.
+Kite fortified its balance sheet in 2019 by paying down some debt, with S&P Global Ratings' adjusted debt-to-EBITDA
+of 6.0x for the last-12-months (LTM) period ended June 30, 2019 (compared to 6.3x a year prior). We expect further
+improvement, with $157 million in sales completed subsequent to the second quarter and approximately $75 million in
+additional dispositions expected for the remainder of the year, such that debt to EBITDA declines below 6x by
+year-end.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Kite Realty Group Trust
+
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Kite Realty Group Trust
+
+Outlook: Stable
+
+The stable outlook on Kite reflects S&P Global Ratings' expectation for the company to complete its disposition
+program in 2019, and use proceeds to pay down some outstanding debt. We project adjusted debt to EBITDA to
+decline to and remain below 6x over the next two years, with fixed-charge coverage (FCC) in the 3x area.
+Furthermore, we expect operating performance to remain healthy, with rent continuing to increase, supported by
+positive re-leasing spreads and occupancy in the low- to mid-90% area. We expect Kite to execute on its modest
+redevelopment pipeline with minimal acquisition activity over the next two years.
+
+Upside scenario
+While unlikely over the next 12 to 24 months, we would consider an upgrade if Kite achieves greater scale in target
+markets while executing on its current and future redevelopment pipeline. Moreover, we would also need to see
+the company consistently post operating results that are at least in line with those of higher-rated peers in terms of
+same-store NOI growth and rents within similar markets. Considering the company's smaller asset base, upward
+momentum would be contingent on Kite maintaining debt to EBITDA below 6x, with FCC remaining above 3x.
+
+Downside scenario
+While also unlikely over the near term, we would consider a downgrade if Kite's operating performance
+deteriorates significantly, perhaps from additional retail distress and tenant vacancies, such that same-property
+NOI growth turns negative and compares unfavorably to peers. In addition, we could lower the rating should Kite
+engage in debt-funded acquisitions or development such that FCC falls below 2.1x or debt to EBITDA rises above
+7.5x for a sustained period.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Kite Realty Group Trust
+
+Assumptions
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020, with unemployment remaining in the mid– to
+high-3% area, which should support steady real
+estate demand.
+• Strip center REITs remain more insulated from retail
+distress than malls, given less exposure to
+department stores and a larger focus on
+e-commerce resistant/adaptable tenants (grocers
+and service-oriented retailers).
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+6.3 5.4-5.8 5.5-5.9
+
+Fixed-charge coverage (x)
+
+3.3 3.1-3.5 3.4-3.7
+
+Debt/debt and undepreciated equity (%)
+
+41.8
+
+36-40
+
+35-39
+
+All figures are S&P Global Ratings-adjusted.
+A--Actual. E--Estimate.
+
+• Same-property revenue growth in the
+low-single-digit area over the next two years,
+supported by occupancy in the low- to mid-90%
+area and positive re-leasing spreads.
+• Minimal acquisitions over the next two years.
+• Development and redevelopment spend of less than
+$60 million per year over the next two years.
+• Asset dispositions of approximately $500 million in
+2019 ($415 million completed as of Aug. 5, 2019)
+followed by $50 million to $100 million in future
+years.
+• Annual dividends of approximately $100 million to
+$115 million per year.
+
+Base-case projections
+We expect Kite to achieve positive same-property NOI growth with occupancy in the 90% area over the next two years.
+Kite has a manageable lease expiration schedule, which should keep the company's cash flow fairly stable, absent
+greater-than-expected retail bankruptcies or distress.
+We expect Kite to be a net seller of assets in 2019.
+We believe Kite will use the majority of proceeds for debt repayment, resulting in debt to EBITDA declining to and
+remaining in the mid- to high-5x area over the next two years.
+
+Company Description
+Kite Realty Group Trust is a real estate investment trust (REIT) that owns and operates high-quality neighborhood and
+community shopping centers. As of June 30, 2019, the company held an economic interest in 103 operating and
+redevelopment properties throughout 18 states, totaling approximately 19.9 million square feet, and one development
+project currently under construction.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Kite Realty Group Trust
+
+Business Risk: Satisfactory
+Kite's asset and market quality has shown modest improvement with the elimination of some underperforming assets
+with inferior trade area statistics through Project Focus, a portfolio transformation program through which Kite has
+closed on $415 million in asset sales year-to-date through Aug. 5, 2019. These dispositions, combined with rental rate
+increases and less retail fallout thus far in 2019, have resulted in some operating performance improvement, with
+same-property NOI growth of 1.8% and 1.7% in the first and second quarters of 2019, respectively (compared to 1.5%
+in each of the same quarters in 2018). Moreover, retail leased occupancy improved to 95.1% at June 30, 2019 (up from
+93.8% a year prior), though economic occupancy declined slightly (92.4% at June 30, 2019, versus 93.0% a year prior)
+due to anchor leasing activity.
+Chart 3
+
+The company's tenant base is well-diversified, with the 10 largest tenants accounting for just 18.4% of its annualized
+base rent as of June 30, 2019 (17.8% pro forma for asset dispositions subsequent to second quarter). Publix Super
+Markets Inc. (unrated) contributes the most ABR at 2.8% (2.7% pro forma) followed by the TJX Cos. Inc.
+(A+/Stable/--) at 2.1% and Bed, Bath, and Beyond (BB+/Negative/--) at 2.0%. In our opinion, Kite's focus on
+customer-facing properties (57.8% of ABR is from the service, entertainment, grocery, and restaurant industries)
+should prove beneficial, as these industries have fared better than traditional retailers amid heightened e-commerce
+risk. However, the company has some geographic concentration in Florida at 25% of ABR as of June 30, 2019.
+Kite's portfolio is somewhat diversified by retail property class, with 57% exposure to community centers, followed by
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Kite Realty Group Trust
+
+25% exposure to neighborhood and lifestyle centers. However, it still has some exposure to power centers (18%),
+which could prove disadvantageous, as they are generally larger and could require more capital spending to re-lease
+should the spaces become vacant. That said, Kite's development and redevelopment pipeline is manageable, with just
+one project under construction and three projects in the shadow pipeline as of June 30, 2019. We expect Kite to invest
+approximately $35 million per year on redevelopment activities to "de-box" certain centers, with limited future
+acquisitions on the horizon within target markets given current pricing.
+Chart 4
+
+Peer comparison
+Kite is the second-smallest peer out of its selected peer group, behind ROIC. The company's operating performance
+continues to improve, although rent remains below the peer group average. We view Kite's market quality as similar to
+that of Weingarten and RPAI while modestly weaker than West Coast-focused ROIC. While peers are similar from a
+credit profile perspective, Weingarten and RPAI currently operate with lower leverage while ROIC operates with
+higher leverage. However, we expect Kite will be more in-line with Weingarten and RPAI over the next year, with debt
+to EBITDA declining below 6x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Kite Realty Group Trust
+
+Chart 5
+
+Table 1
+
+Kite Realty Group Trust -Peer Comparison
+Industry Sector: Real Estate Investment Trust Or Company
+
+Ratings as of Sept. 20, 2019
+
+Kite Realty Group
+Trust
+
+Retail Properties of
+America Inc.
+
+Weingarten Realty
+Investors
+
+Retail Opportunity
+Investments Corp.
+
+BBB-/Stable/--
+
+BBB-/Stable/--
+
+BBB/Stable/--
+
+BBB-/Stable/--
+
+--LTM ended June 30, 2019-(Mil. $)
+Revenue
+
+336.1
+
+475.1
+
+548.5
+
+292.6
+
+EBITDA
+
+232.3
+
+307.6
+
+353.5
+
+206.2
+
+Funds from operations (FFO)
+
+161.3
+
+231.4
+
+279.4
+
+114.0
+
+81.2
+
+125.5
+
+222.8
+
+99.3
+
+EBIT
+Interest expense
+Cash flow from operations
+
+69.9
+
+79.5
+
+79.1
+
+63.3
+
+141.1
+
+215.5
+
+270.9
+
+126.9
+
+Capital expenditure
+
+48.2
+
+79.3
+
+106.2
+
+36.4
+
+Free operating cash flow
+(FOCF)
+
+92.9
+
+136.2
+
+164.8
+
+90.5
+
+Cash and short-term
+investments
+
+35.8
+
+28.5
+
+118.2
+
+7.5
+
+Debt
+
+1,390.1
+
+1,703.1
+
+1,802.7
+
+1,488.8
+
+Equity
+
+1,398.7
+
+1,714.6
+
+1,794.9
+
+1,274.6
+
+69.1
+
+64.7
+
+64.4
+
+70.5
+
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+Kite Realty Group Trust
+
+Table 1
+
+Kite Realty Group Trust -Peer Comparison (cont.)
+Industry Sector: Real Estate Investment Trust Or Company
+Kite Realty Group
+Trust
+
+Retail Properties of
+America Inc.
+
+Weingarten Realty
+Investors
+
+Retail Opportunity
+Investments Corp.
+
+Return on capital (%)
+
+2.8
+
+3.7
+
+6.2
+
+3.6
+
+EBITDA interest coverage (x)
+
+3.3
+
+3.9
+
+4.5
+
+3.3
+
+FFO cash interest coverage (x)
+
+3.3
+
+4.0
+
+4.8
+
+2.2
+
+Debt/EBITDA (x)
+
+6.0
+
+5.5
+
+5.1
+
+7.2
+
+FFO/debt (%)
+
+11.6
+
+13.6
+
+15.5
+
+7.7
+
+Cash flow from
+operations/debt (%)
+
+10.2
+
+12.7
+
+15.0
+
+8.5
+
+FOCF/debt (%)
+
+6.7
+
+8.0
+
+9.1
+
+6.1
+
+Debt service coverage (x)
+
+3.1
+
+3.8
+
+4.1
+
+3.2
+
+Debt fixed-charge coverage (x)
+
+3.1
+
+3.8
+
+4.1
+
+3.2
+
+Total coverage (all equity
+distributions) (x)
+
+1.1
+
+1.4
+
+0.7
+
+1.3
+
+39.9
+
+35.7
+
+38.2
+
+47.7
+
+Debt/debt and undepreciated
+equity (%)
+Source: S&P Global Ratings.
+
+Financial Risk: Intermediate
+Kite's credit protection measures improved in 2018, with debt to EBITDA of 6.3 at year-end, compared to 6.8 at
+year-end 2017. We expect further improvement in 2019, with proceeds from asset sales used to deleverage the balance
+sheet such that debt to EBITDA declines to the mid- to high-5x area, with FCC improving to the mid-3x area and debt
+to undepreciated capital declining below 40%. Given the company's recently revised financial policy, we expect credit
+protection measures to remain near these levels over the next two years. We anticipate any future development or
+acquisition activity to be funded in a largely leverage-neutral manner.
+Kite has actively repaid debt over the past year, with zero debt maturing through 2020 and no more than 20% of the
+company's debt scheduled to mature in any single calendar year. As of June 30, 2019, the debt portfolio had a
+weighted average maturity of 5.7 years and a weighted average interest rate of 4.16%.
+
+Financial summary
+Table 2
+
+Kite Realty Group Trust--Financial Summary
+Industry Sector: Real Estate Investment Trust Or Company
+--Fiscal year ended Dec. 31-2Q LTM
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+336.1
+
+352.2
+
+354.1
+
+348.7
+
+341.4
+
+254.8
+
+EBITDA
+
+232.3
+
+248.0
+
+249.7
+
+241.2
+
+235.8
+
+149.0
+
+Funds from operations (FFO)
+
+161.3
+
+176.9
+
+176.4
+
+168.4
+
+169.0
+
+87.0
+
+(Mil. $)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+Kite Realty Group Trust
+
+Table 2
+
+Kite Realty Group Trust--Financial Summary (cont.)
+Industry Sector: Real Estate Investment Trust Or Company
+--Fiscal year ended Dec. 31-2Q LTM
+Interest expense
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+69.9
+
+70.3
+
+70.2
+
+69.7
+
+61.7
+
+58.9
+
+141.1
+
+152.8
+
+150.8
+
+151.3
+
+165.1
+
+29.3
+
+Capital expenditure
+
+48.2
+
+57.5
+
+67.4
+
+90.3
+
+87.9
+
+89.8
+
+Free operating cash flow (FOCF)
+
+92.9
+
+95.3
+
+83.4
+
+61.0
+
+77.2
+
+(60.5)
+
+Cash and short-term investments
+
+35.8
+
+35.4
+
+24.1
+
+19.9
+
+33.9
+
+43.8
+
+Debt
+
+1,390.1
+
+1,550.6
+
+1,697.4
+
+1,728.1
+
+1,714.5
+
+1,615.5
+
+Equity
+
+1,398.7
+
+1,459.1
+
+1,638.2
+
+1,732.4
+
+1,819.1
+
+1,924.7
+
+Cash flow from operations
+
+Adjusted ratios
+
+0.0
+
+EBITDA margin (%)
+
+69.1
+
+70.4
+
+70.5
+
+69.2
+
+69.1
+
+58.5
+
+Return on capital (%)
+
+2.8
+
+2.7
+
+2.1
+
+1.7
+
+2.2
+
+1.0
+
+EBITDA interest coverage (x)
+
+3.3
+
+3.5
+
+3.6
+
+3.5
+
+3.8
+
+2.5
+
+FFO cash interest coverage (x)
+
+3.3
+
+3.5
+
+3.4
+
+3.3
+
+3.5
+
+2.4
+
+Debt/EBITDA (x)
+
+6.0
+
+6.3
+
+6.8
+
+7.2
+
+7.3
+
+10.8
+
+FFO/debt (%)
+
+11.6
+
+11.4
+
+10.4
+
+9.7
+
+9.9
+
+5.4
+
+Cash flow from operations/debt (%)
+
+10.2
+
+9.9
+
+8.9
+
+8.8
+
+9.6
+
+1.8
+
+FOCF/debt (%)
+
+6.7
+
+6.1
+
+4.9
+
+3.5
+
+4.5
+
+(3.7)
+
+Debt service coverage (x)
+
+3.1
+
+3.3
+
+3.3
+
+3.2
+
+3.5
+
+2.6
+
+Debt fixed-charge coverage (x)
+
+3.1
+
+3.3
+
+3.3
+
+3.2
+
+3.5
+
+2.3
+
+Total coverage (all equity distributions) (x)
+
+1.1
+
+1.3
+
+1.4
+
+1.4
+
+1.5
+
+1.3
+
+39.9
+
+41.8
+
+42.4
+
+43.0
+
+43.2
+
+41.9
+
+Debt/debt and undepreciated equity (%)
+Source: S&P Global Ratings.
+
+Liquidity: Strong
+We view Kite's liquidity as strong, reflecting our expectation that liquidity sources will exceed uses by 1.5x over the
+next 12 months and 1.0x over the subsequent 12 months. We also project positive sources to uses, even if forecasted
+EBITDA declines by 15%, supported by cash on hand, availability under the company's revolving credit facility, and
+positive cash funds from operations (FFO) generation. Kite has ample availability under its unsecured credit facility
+due April 22, 2022 (with two 6-month extension options), which further enhances the company's liquidity profile.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+Kite Realty Group Trust
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash and cash equivalents of $35.8
+million as of June 30, 2019;
+
+• Principal mortgage amortization payments of
+roughly $4 million to $5 million per year for the next
+two years;
+
+• Asset sales of $157 million under contract
+subsequent to the second quarter of 2019, as of Aug.
+5, 2019;
+• $517.2 million of availability under its $600 million
+revolving line of credit as of June 30, 2019; and
+• Assumed cash FFO of about $165 million to $175
+million over the next year.
+
+• Maintenance capital expenditures (including leasing
+tenant improvement costs) of $20 million to $25
+million per year;
+• Common dividends in the range of $100 million over
+the next 12 months; and Unfunded development
+expenditures for projects in process as of June 30,
+2019.
+
+Debt maturities
+Chart 6
+
+Covenant Analysis
+Compliance expectations
+Kite was in compliance with all applicable covenants as of June 30, 2019. We believe the company will maintain
+sufficient cushion over the next 12 to 24 months.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+Kite Realty Group Trust
+
+Requirements
+Table 3
+
+Requirements
+Unsecured public debt covenants
+Debt covenant threshold June 30, 2019
+Total debt to undepreciated assets
+
+<60%
+
+39.00%
+
+Secured debt to undepreciated assets
+
+<40%
+
+15.30%
+
+Undepreciated unencumbered assets to unsecured debt >150%
+
+281.70%
+
+Debt service coverage
+
+3.2x
+
+>1.5x
+
+Source: S&P Global Ratings.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+For investment-grade real estate companies, we typically rate the senior unsecured debt the same as the issuer credit
+rating, unless the percentage of secured debt exceeds 35% of total undepreciated real estate assets (or 40% of the fair
+market value of assets).
+
+Analytical conclusions
+As of June 30, 2019, the ratio of secured debt to undepreciated assets was 15.3%, below the threshold of 35%.
+Therefore, we rate the unsecured debt 'BBB-', the same as the issuer credit rating.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Kite Realty Group Trust Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$)
+--Rolling 12 months ended June 30, 2019-Kite Realty Group Trust reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+1,376.6
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations expenditure
+
+1,352.7
+
+337.7
+
+249.5
+
+45.4
+
+66.3
+
+232.3
+
+142.0
+
+49.9
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0.2
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(68.0)
+
+--
+
+--
+
+27.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2.4
+
+1.5
+
+1.5
+
+(1.5)
+
+0.9
+
+--
+
+(35.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.8
+
+(1.8)
+
+(1.8)
+
+(1.8)
+
+Reported lease liabilities
+Operating leases
+Accessible cash and liquid
+investments
+Capitalized interest
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+Kite Realty Group Trust
+
+Table 4
+
+Reconciliation Of Kite Realty Group Trust Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+Share-based compensation
+expense
+Deconsolidation/consolidation
+
+--
+
+--
+
+--
+
+4.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22.1
+
+--
+
+1.5
+
+1.0
+
+0.4
+
+0.3
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+--
+
+(1.8)
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+46.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Revenue: Other
+
+--
+
+--
+
+(3.1)
+
+(3.1)
+
+(3.1)
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+--
+
+(24.1)
+
+(24.1)
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+--
+
+2.1
+
+2.1
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+--
+
+60.7
+
+--
+
+--
+
+--
+
+--
+
+13.5
+
+46.0
+
+(1.6)
+
+(17.1)
+
+35.8
+
+3.6
+
+(71.1)
+
+(0.9)
+
+(1.8)
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+1,390.1
+
+Equity Revenue EBITDA
+1,398.7
+
+336.1
+
+232.3
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations expenditure
+81.2
+
+69.9
+
+161.3
+
+141.1
+
+48.2
+
+Source: S&P Global Ratings.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 14
+
+Kite Realty Group Trust
+
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• ESG Industry Report Card: Real Estate and Homebuilders/Developers, June 3, 2019
+• REITrends: Back in the Capital Markets and Largely Well Positioned for Opportunity, May 31, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 26, 2019)*
+Kite Realty Group Trust
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+29-Oct-2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BBB-/Stable/--
+
+SEPTEMBER 26, 2019 15
+
+Kite Realty Group Trust
+
+Ratings Detail (As Of September 26, 2019)*(cont.)
+Related Entities
+Kite Realty Group, L.P.
+Senior Unsecured
+
+BBB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 17
+
+

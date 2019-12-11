@@ -1,0 +1,1216 @@
+Cogent Communications Group Inc.
+Primary Credit Analyst:
+William Savage, New York + 1 (212) 438 0259; william.savage@spglobal.com
+Secondary Contact:
+Allyn Arden, CFA, New York (1) 212-438-7832; allyn.arden@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Cogent Communications Group Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Low-priced Internet service provider (ISP) for
+business customers.
+
+Intense competition from larger players, including incumbent telecom and cable companies,
+as well as other facility-based providers.
+
+Diversified geographic and customer bases.
+
+Shorter contract lengths than those of most of its competitors, which can lead to higher
+customer churn.
+
+Lower exposure to declining legacy revenue than
+that of its peers.
+
+Adjusted debt to EBITDA is expected to remain elevated in the high-4x area in 2019.
+We expect that the company will return excess cash flow to shareholders in the form of
+dividends and stock buybacks.
+
+Limited exposure to legacy networking services shields Cogent from secular industry pressures.Cogent provides
+high-speed Internet service to small and mid-size businesses (SMBs) and communications companies. Rising market
+demand for bandwidth and enterprise IT outsourcing to data centers, as well as cloud-based networking, drive
+Cogent's business growth. Unlike many of its peers, Cogent has limited exposure to legacy services, which are subject
+to technological substitution and pricing pressure. Furthermore, its strategy is unique in that its focus is on
+connectivity rather than premium telecom services to business customers.
+Cogent faces intense competition, especially in the Netcentric business, which is subject to pricing pressure. The
+company's Netcentric segment consists of carrier, Internet service, and content providers such as Netflix. In this
+business segment, Cogent faces intense competition from both international and regional players, including
+CenturyLink, Telia, NTT, AT&T, Verizon, Tata, Telefonica, and Orange. In addition, Netcentric customers have
+significant scale and are able to negotiate favorable pricing with Cogent. As a result, pricing per Mbps is declining by
+about 20% per year, which hurts overall revenue growth trends despite healthy unit growth.
+Cogent's recent €135 million note issuance underscores its aggressive financial policy. Cogent has an aggressive
+financial policy that includes a common dividend and periodic share repurchases. In June 2019, the company issued
+€135 million of new senior notes to fund the repurchase of common stock. The new issuance pushed leverage above
+5x from about 4.4x. Despite our expectation for higher levels of EBITDA and margin improvement because of
+connection growth and high operating leverage, we believe that Cogent will continue to allocate excess cash flow to
+shareholders in the form of dividends and share repurchases, such that leverage remains elevated over the longer term
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Cogent Communications Group Inc.
+
+in the high-4x-5x area.
+Chart 1
+
+Outlook: Stable
+
+The stable outlook reflects our expectation for mid-single-digit-percentage revenue growth and margins in the
+low-to-mid-30% area, such that adjusted debt to EBITDA is in the mid-to-high-4x area over the next year.
+
+Downside scenario
+Although we believe a downgrade is unlikely, we could lower the rating if Cogent's customer churn rises sharply
+because of competitive pressures or an economic downturn, leading to negative free operating cash flow (FOCF)
+or leverage rising above 5.25x on a sustained basis. We could also lower the rating if the company made a
+debt-financed acquisition or recapitalization that increased leverage to 5.25x, with limited near-term prospects for
+improvement.
+
+Upside scenario
+We could raise the rating if Cogent reduced leverage to below 4x and management articulated a financial policy
+consistent with sustained lower leverage, which we view as unlikely. We could also raise the rating with a positive
+reassessment of the company's business risk as a result of consistently lower churn, less pricing pressure, or a
+pronounced shift toward longer-term customer contracts.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Cogent Communications Group Inc.
+
+Our Base-Case Scenario
+Mid-single-digit organic revenue growth over the next couple of years. Demand continues to be driven by mobile data
+and video consumption, enterprise IT outsourcing to data centers and the cloud, wireless backhaul, carrier network
+densification via small cells, migration of media content to over-the-top platforms, and connected devices. These
+industry tailwinds are partly offset by pricing pressure for Internet protocol (IP) transit.
+Assumptions
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020;
+however, the telecom sector is generally less
+susceptible to adverse macroeconomic conditions.
+Instead, we believe these companies are more
+affected by industry trends, which include favorable
+demand characteristics in the fiber- transport
+industry.
+
+Key Metrics
+
+2018A
+Debt/EBITDA (x)
+
+2019E
+
+2020E
+
+4.2 4.8-5.0 4.3-4.6
+
+FFO/debt (x)
+
+17.4
+
+12-14
+
+13-15
+
+FOCF/debt (%)
+
+12.3
+
+8-10
+
+8-10
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Overall revenue growth in the
+mid-single-digit-percentage area in 2019 and 2020,
+primarily due to new customer connections and
+increased demand for high-bandwidth Internet
+access.
+• On-net revenue increases of about 6%-8% due to
+customer connection growth of around 10%-12%,
+partly offset by average revenue per user (ARPU)
+declines of about 4%-6% in 2019 and 2020.
+• Off-net revenue increases of about 2%-4% due to
+connection growth of 8%-10%, partly offset by
+ARPU declines of about 6%-8% in 2019 and 2020.
+• EBITDA margins improve modestly in 2019 and
+2020, but remain in the low-to-mid-30% area due to
+revenue growth and greater operating leverage.
+• We believe the company will use its cash balances
+and free cash flow for shareholder returns.
+
+Company Description
+Cogent Communications Group Inc. provides high-speed Internet service to SMB and communications companies in
+North America, Europe, and Asia. The company divides its business into two customer segments: net-centric
+customers (including other ISPs, telecom and cable companies, web-content companies, and universities) and SMB
+customers in multi-tenant office buildings. As of June 30, 2019, Cogent had over 47,650 corporate and more than
+36,400 net-centric customer connections on its network. The company was founded in 1999 and is headquartered in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Cogent Communications Group Inc.
+
+Washington, D.C.
+Chart 2
+
+Business Risk: Weak
+Our business risk assessment reflects intense competition from multiple industry players and short contract lengths,
+which can lead to higher customer churn. Intense price competition and elevated churn are hallmarks of the
+net-centric segment. Competition is also high in the corporate segment, mainly from incumbent telecom providers;
+however, customers' increased bandwidth usage typically offsets deflationary pricing pressures. We expect
+competitive trends in both segments to continue, if not intensify, because competitors have been expanding their fiber
+networks. Cogent's competition is formidable and includes large incumbent telecommunications companies as well as
+national bandwidth providers and smaller players focusing on metro markets. Nevertheless, Cogent typically offers
+lower-price services than those of its competitors or provides greater bandwidth for the same price, partly because of
+its lower-cost, data-specific IP-based network while incumbents are still using voice-based networks.
+Cogent's customer and end-market diversity is more solid than that of its peers, with the top 25 customers accounting
+for less than 6% of revenues, though Facebook, Amazon, Apple, Netflix, and Google (FAANG) customers still account
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Cogent Communications Group Inc.
+
+for an increasing share of the net-centric business. Notwithstanding its customer diversity, the potential for higher
+churn is a significant risk. Cogent's typical contract length of two to three years is much shorter than that of many of its
+peers, and a substantial portion of its customers obtain service on a month-to-month basis. However, the company has
+been emphasizing longer contracts in recent years, which has helped it maintain low unit churn of about 1% and is
+positive for credit quality.
+
+Peer comparison
+Table 1
+
+Cogent Communications Group Inc.--Peer Comparison
+Industry sector: Miscellaneous
+telecommunications
+Cogent Communications
+Group Inc.
+
+CenturyLink
+Inc.
+
+GTT Communications,
+Inc.
+
+Zayo Group LLC
+
+B+/Stable/--
+
+BB/Stable/NR
+
+B-/Stable/--
+
+B+/Watch Neg/--
+
+Ratings as of Sep. 11, 2019
+
+Fiscal year ended
+June 30, 2019
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+520.2
+
+23,443.0
+
+1,490.8
+
+2,578.0
+
+EBITDA
+
+231.8
+
+9,282.5
+
+308.8
+
+1,373.2
+
+Funds from operations (FFO)
+
+167.6
+
+6,229.8
+
+134.2
+
+1,012.6
+
+63.9
+
+2,427.7
+
+157.4
+
+377.1
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+Debt
+
+61.8
+
+2,378.7
+
+169.3
+
+353.6
+
+168.3
+
+7,461.8
+
+95.2
+
+1,023.6
+
+49.9
+
+3,122.0
+
+77.8
+
+777.9
+
+118.4
+
+4,339.8
+
+17.4
+
+245.7
+
+13.9
+
+2,027.8
+
+17.4
+
+(156.8)
+
+276.1
+
+488.0
+
+56.6
+
+185.4
+
+964.8
+
+41,568.2
+
+3,332.3
+
+6,372.2
+
+(149.0)
+
+19,828.0
+
+414.7
+
+1,328.8
+
+EBITDA margin (%)
+
+44.6
+
+39.6
+
+20.7
+
+53.3
+
+Return on capital (%)
+
+12.8
+
+5.5
+
+(2.9)
+
+7.3
+
+EBITDA interest coverage (x)
+
+3.6
+
+3.8
+
+2.0
+
+3.6
+
+FFO cash interest coverage (x)
+
+3.7
+
+3.6
+
+1.8
+
+3.9
+
+Debt/EBITDA (x)
+
+4.2
+
+4.5
+
+10.8
+
+4.6
+
+FFO/debt (%)
+
+17.4
+
+15.0
+
+4.0
+
+15.9
+
+Cash flow from operations/debt (%)
+
+17.4
+
+18.0
+
+2.9
+
+16.1
+
+FOCF/debt (%)
+
+12.3
+
+10.4
+
+0.5
+
+3.9
+
+1.4
+
+4.9
+
+0.5
+
+(2.5)
+
+Equity
+Adjusted ratios
+
+DCF/debt (%)
+
+Financial Risk: Aggressive
+Our financial risk assessment reflects our expectation that leverage will be in the high-4x area and FOCF to debt will
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Cogent Communications Group Inc.
+
+be less than 10% in 2019. Although Cogent has a shareholder-friendly financial policy under which it pays dividends
+and repurchases stock, the company has set a net leverage target of 2.5x-3.5x (not S&P Global Ratings-adjusted). We
+believe that even if Cogent engages in debt-financed shareholder returns, it will remain within its stated target, which
+translates to our lease-adjusted leverage ratio of about 4x-5x.
+
+Financial summary
+Table 2
+
+Cogent Communications Group Inc.--Financial Summary
+Industry sector: Miscellaneous telecommunications
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+520.2
+
+485.2
+
+446.9
+
+404.2
+
+380.0
+
+EBITDA
+
+231.8
+
+211.6
+
+197.9
+
+183.1
+
+187.5
+
+Funds from operations (FFO)
+
+167.6
+
+150.4
+
+140.4
+
+115.9
+
+119.3
+
+63.9
+
+64.5
+
+61.0
+
+63.6
+
+69.7
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+
+61.8
+
+63.1
+
+57.3
+
+66.7
+
+66.3
+
+168.3
+
+146.0
+
+142.7
+
+116.5
+
+107.9
+
+49.9
+
+45.8
+
+45.2
+
+35.6
+
+60.0
+
+118.4
+
+100.2
+
+97.5
+
+80.9
+
+47.8
+
+13.9
+
+16.7
+
+24.8
+
+(24.8)
+
+(65.0)
+
+Cash and short-term investments
+
+276.1
+
+247.0
+
+274.3
+
+203.6
+
+287.8
+
+Gross available cash
+
+276.1
+
+247.0
+
+274.3
+
+203.6
+
+287.8
+
+Debt
+
+964.8
+
+918.2
+
+960.7
+
+900.3
+
+929.6
+
+(149.0)
+
+(102.5)
+
+(53.3)
+
+(12.3)
+
+83.8
+
+EBITDA margin (%)
+
+44.6
+
+43.6
+
+44.3
+
+45.3
+
+49.3
+
+Return on capital (%)
+
+Cash flow from operations
+Capital expenditure
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+Equity
+Adjusted ratios
+
+12.8
+
+10.7
+
+8.7
+
+7.3
+
+7.6
+
+EBITDA interest coverage (x)
+
+3.6
+
+3.3
+
+3.2
+
+2.9
+
+2.7
+
+FFO cash interest coverage (x)
+
+3.7
+
+3.4
+
+3.4
+
+2.7
+
+2.8
+
+Debt/EBITDA (x)
+
+4.2
+
+4.3
+
+4.9
+
+4.9
+
+5.0
+
+FFO/debt (%)
+
+17.4
+
+16.4
+
+14.6
+
+12.9
+
+12.8
+
+Cash flow from operations/debt (%)
+
+17.4
+
+15.9
+
+14.9
+
+12.9
+
+11.6
+
+FOCF/debt (%)
+
+12.3
+
+10.9
+
+10.2
+
+9.0
+
+5.1
+
+1.4
+
+1.8
+
+2.6
+
+(2.8)
+
+(7.0)
+
+DCF/debt (%)
+
+Liquidity: Adequate
+We view Cogent's liquidity as adequate, reflecting our expectation that sources of liquidity will exceed uses by over 2x
+over the next 12 months and that net sources will remain positive, even with a 15% decline in forecasted EBITDA.
+Although Cogent has a sizeable cash balance of over $400 million, we expect it will return much of this cash to
+shareholders over the next year. In addition, the company does not have a revolving credit facility, which reduces its
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Cogent Communications Group Inc.
+
+ability to absorb adverse events if cash becomes depleted.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalent of about $409 million as of
+June 30, 2019; and
+
+• Capital expenditures of about $50 million-$60
+million in next 12 months;
+
+• Our expectations of fund from operations of $140
+million-$160 million over the next 12 months.
+
+• A common dividend of about $110 million in 2019;
+and
+• Share repurchases or a one-time dividend to
+stockholders of about $115 million-$120 million over
+the next 12 months.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Under our simulated default scenario we envision increased competition from broadband and transport providers,
+causing industry prices to fall precipitously despite volume growth, which results in lower profit margins that
+ultimately strain the company's liquidity to the point of payment default.
+• We have valued the company as a going concern using a 5.5x multiple of our projected emergence EBITDA.
+• Generally, we assign a multiple of 5x-6x for our fiber infrastructure companies. We chose a 5.5x multiple to reflect
+the company's ownership of a majority of its fiber under long-term indefeasible rights-of-use agreements, which we
+view more favorably than short-term leases. However, the company is primarily a long-haul provider, which we
+view less favorably than metro-fiber providers.
+
+Simulated default assumptions
+• Simulated year of default: 2023
+• EBITDA at emergence: $52 million
+• EBITDA multiple: 5.5x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $273 million
+• Valuation split % (obligors/non-obligors): 77%/23%
+• Collateral value available to secured creditors: $251 million
+• Secured first-lien debt: $457 million
+• --Recovery expectations: 50%-70%: rounded estimate: 55%
+• Total value available to unsecured claims: $22 million
+• Senior unsecured debt and pari passu claims: $349 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Cogent Communications Group Inc.
+
+• --Recovery expectations: 0%-10%; rounded estimate: 0%
+Note: All debt amounts include six months of pre-petition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Cogent Communications Group Inc.'s Reported Amounts With S&P Global Ratings'
+Adjusted Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Cogent Communications Group Inc.'s reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+795.2
+
+166.8
+
+85.6
+
+51.1
+
+231.8
+
+133.9
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(2.4)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(48.9)
+
+--
+
+167.9
+
+47.3
+
+12.9
+
+12.9
+
+(12.9)
+
+34.4
+
+Share-based
+compensation expense
+
+--
+
+17.7
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+5.9
+
+--
+
+--
+
+--
+
+1.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+169.6
+
+65.0
+
+18.7
+
+12.9
+
+(64.2)
+
+34.4
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+964.8
+
+231.8
+
+104.3
+
+63.9
+
+167.6
+
+168.3
+
+Operating leases
+
+Debt: Tax liabilities
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Cogent Communications Group Inc.
+
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b+
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Cogent Communications Group Inc.
+
+Ratings Detail (As Of September 24, 2019)*
+Cogent Communications Group Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+B+
+
+Senior Unsecured
+
+B-
+
+Issuer Credit Ratings History
+20-Feb-2013
+
+B+/Stable/--
+
+16-Feb-2011
+
+B-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+

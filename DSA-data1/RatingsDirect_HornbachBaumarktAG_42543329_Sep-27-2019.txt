@@ -1,0 +1,1626 @@
+Hornbach Baumarkt AG
+Primary Credit Analyst:
+Patrick Janssen, Frankfurt (49) 69-33-999-175; patrick.janssen@spglobal.com
+Secondary Contact:
+Abigail Klimovich, CFA, London (44) 20-7176-3554; abigail.klimovich@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Group Influence
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Hornbach Baumarkt AG
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb-
+
+bb
+BB/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Demonstrated ability to consistently generate 5% revenue growth or
+more and to gain market share in competitive markets such as German
+Do-It-Yourself (DIY) retailing sector where it boasts a No. 3 position.
+
+Stiff competition in the less consolidated home-market Germany
+compared to markets such as U.K. or France resulting in limited room
+to transfer increasing costs to customer and persistent gross margin
+pressure.
+
+Track record of strong year-on-year sales growth on a comparable store
+basis supported by well-established omni-channel capabilities, very
+competitive pricing strategy, and strong customer satisfaction rates.
+
+Meaningful earnings volatility in DIY sector given seasonality of
+products offerings and discretionary nature of product spending that
+could be scaled back from consumers in times of economic stress.
+
+Meaningful geographic diversity with 65% of EBITDA generated outside
+Germany and presence in less saturated and competitive DIY markets
+such as Czech Republic, Slovakia, and Romania.
+
+Increasing total adjusted debt burden following elevated investments
+in the business, weak results in 2018, and highly capitalized lease
+commitments despite real estate ownership.
+
+Substantial real estate ownership--roughly 60% of total stores are freehold Limited ability to generate excess cash flows to repay debt given
+assets providing for additional reserves.
+meaningful capex spending and sticky dividends.
+
+Well-established omni-channel capabilities and superior pricing strategy drive market share gains in competitive DIY
+sector. Hornbach Baumarkt AG's consistent competitive pricing strategy with all-time low prices rather than
+discounting and well-developed online capabilities, including available online offers in all relevant markets that support
+majority of merchandise for home delivery and in-store pick-up, is a catalyst for increasing its share in the competitive
+DIY market.
+Year-to-date trading in fiscal 2019 supports our view of improving earnings generation following a weak fiscal 2018.
+Strong year-on-year sales growth on a comparable store basis of 8.3% in first half of fiscal 2019 (ending Feb. 28, 2020)
+helped by an early start in this year's spring season and our estimation of about 50 basis points (bps) improvement in
+EBITDA margin (on a pre-IFRS basis) supports our view of improving earnings generation in fiscal 2019 compared
+with the rather weak fiscal 2018. Hence, we see margin erosion in 2018 as partly driven by especially stiff competition
+amid increasing intake prices and temporary elevated fix costs given roll-out of online channel in remaining markets
+and overemphasis of projects supporting topline development.
+Limited margin upside and no material excess cash generation results only in moderate deleveraging. While we expect
+a stabilization in operating margins in fiscal 2019, we believe that strong competition from existing DIY players,
+internet pure player, and discount formats increasingly selling DIY products limit any larger upside on operating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Hornbach Baumarkt AG
+
+margins. In view of the company's very limited excess cash generated after capex and dividends, we expect only
+moderate deleveraging mainly driven by sales growth.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Hornbach Baumarkt AG
+
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Hornbach Baumarkt AG
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that, despite a highly challenging trading environment, the group's
+established market position will enable it to withstand the strong market competition, implement its plan to stem
+its profitability decline, and achieve robust year-on-year sales growth on a comparable store basis. We anticipate
+that debt will not increase further, given strong expected earnings generation and less capex investments, resulting
+in--pro forma IFRS 16 accounting--S&P Global Ratings-adjusted funds from operations (FFO) to debt of 20%-22%,
+adjusted debt to EBITDA of 3.6x-3.8x and adjusted discretionary cash flow (DCF) to debt of 4%-5% over the next
+12 months. The stable outlook factors in timely refinancing of the 2020 maturing bullet bond.
+
+Downside scenario
+We could downgrade Hornbach over the next 12 months if reported free operating cash flow after all lease related
+payments remains materially negative, for example as a result of higher-than-expected investments in working
+capital or real estate, or earnings do not improve due to intensifying pressure in the competitive home market,
+resulting in S&P Global Ratings-adjusted EBITDA margin falling below 7%. We would also downgrade Hornbach if
+our adjusted FFO-to-debt ratio approached 15% and adjusted debt to EBITDA approached 4.5x.
+
+Upside scenario
+Owing to margin pressure, the high level of adjusted debt, and our forecast of low free cash flow generation, we
+consider an upgrade as unlikely over the next year. The group continues to invest, which will likely curtail any
+meaningful improvement in its credit metrics.
+We could consider raising the rating if profitability improves sustainably while sales continue to increase
+year-on-year on a comparable store basis. Coupled with lower spending on discretionary capex and substantial
+positive free operating cash flow, this should translate into a FFO-to-debt ratio of at least 30% and DCF-to-debt
+ratio approaching 10%.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Hornbach Baumarkt AG
+
+Assumptions
+
+• Economic scenarios for mainly Germany,
+Netherlands, Austria, Switzerland, and Czech
+Republic, which together have accounted for the
+majority of Hornbach's EBITDA in the last fiscal
+year.
+• Real GDP growth in Germany of 0.6% in 2019,
+followed by 1.1%-1.2% in 2020 and 2021, with the
+eurozone only slightly higher at about 1.1% in 2019
+and 1.3% in the two years thereafter, which
+represents a slowdown in economic activity versus
+2018 with 1.5% growth in Germany and 1.9% in the
+eurozone.
+• With unemployment remaining low in Germany and
+the eurozone and consumer price inflation below
+long-term average at 1.2%-1.7%, we expect real
+private consumption of about 1.5% in Germany and
+the eurozone to remain somewhat above GDP
+growth, resulting in moderately beneficial
+macro-environment for the DIY sector.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020F
+
+Revenue growth (%)
+
+5.3
+
+7.0-7.5
+
+4.0-5.0
+
+EBITDA margin (%)
+
+7.4
+
+7.6-7.7
+
+7.4-7.6
+
+Debt to EBITDA(x)
+
+3.5
+
+3.1-3.3
+
+3.0-3.2
+
+3.7-3.9
+
+3.5-3.7
+
+Debt to EBITDA*(x)
+FFO to debt (%)
+
+19.5 22.0-24.0 23.0-25.0
+
+FFO to debt* (%)
+DCF to debt (%)
+DCF to debt* (%)
+
+20.0-22.0 21.0-23.0
+(10.0)
+
+4.0-6.0
+
+4.5-6.5
+
+3.0-5.0
+
+3.0-6.0
+
+*[Pro forma IFRS 16]. A--Actual. E--Estimate.
+F--Forecast. FFO--Funds from operations.
+DCF--Discretionary cash flow. Note: Credit metrics
+relate to Hornbach Holding.
+
+• Hornbach's revenues to increase by 6.5%-7.5% in
+fiscal 2019 versus 5.3% in 2018, while revenue
+growth will moderate to 4% to 5% in 2020 and 2021,
+which is still above the market average and
+supported by Hornbach's well-developed online
+capabilities, and consistently more competitive
+product prices compared with peers.
+• Stabilizing adjusted EBITDA margin at
+approximately 7.6% in fiscal 2019, helped by
+operating efficiency measures and remaining at
+7.4%-7.6% in fiscals 2020 and 2021 following a
+100bps drop in margin to 7.4% in 2018 due to
+continuously strong competition and further
+required investments in omni-channel capabilities.
+• Working capital related annual cash outflow of €30
+million-€40 million for fiscals 2019 and 2020, in line
+with sales growth and ramp-up of inventory of two
+to three new stores per year.
+• Moderating capex to €125 million-€145 million in
+2019 compared with €195 million in 2018, which
+was elevated due to real estate projects, but growing
+again toward €140 million-€160 million in fiscal
+2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Hornbach Baumarkt AG
+
+• Dividends of about €30 million per year, in line with
+previous years.
+• No major acquisitions.
+
+Base-case projections
+We expect revenue growth and operating efficiency measures implemented to improve earnings from last year.
+Improving operating performance in fiscal 2019, from 2018, given omni-channel capabilities, competitive pricing
+strategy, and two to three net store openings per year should facilitate sales growth above sector average. This is
+further supported by the earlier start in this year's spring season compared to last year. Operating efficiency measures
+implemented by the group should also stabilize margins, mitigating the erosion observed last year. At the same time,
+we expect no larger margin upside after fiscal 2019, given the fierce competition in DIY with new formats such as
+internet pure player and discounter selling more DIY products.
+Lower planned capex and improving operating performance support free operating cash generation compared with
+fiscal 2018. We expect capex to moderate in fiscal 2019 from levels seen in 2018, which was elevated following two
+store buybacks in Berlin for €40 million-€50 million and the purchase of development land in Switzerland for about
+€30 million. In addition, stronger operating performance will also help to generate positive reported free operating
+cash flow (FOCF) in fiscals 2019 and 2020 following material negative FOCF in fiscal 2018.
+Ramp-up of inventory, still material capex planned and comparably sticky dividends constrain excess cash generation
+for debt repayment in fiscals 2019 and 2020. While we expect free operating cash generation to improve, investments
+into inventory to support strong topline development and still material capex for ongoing investments needs for IT,
+logistics, about three store openings per year, and selected real estate projects will limit stronger upside for reported
+FOCF. In combination with relatively sticky dividends planned over the forecast horizon, we believe that the group will
+not generate material excess cash for debt redemption.
+
+Company Description
+DIY and home improvement operator Hornbach Baumarkt AG is present across Germany and eight other European
+countries: Austria, Netherlands, Czech Republic, Switzerland, Sweden, Slovakia, Romania, and Luxembourg. It
+provides customers a range of around 50,000 high-quality DIY and gardening articles at everyday low prices through a
+network of 157 large format retail outlets, including 96 in Germany and 61 in other European countries as of August
+2019.
+Hornbach Baumarkt is part of the larger Hornbach Holding AG & Co. KGaA and is a material subsidiary of the larger
+group. Apart from Hornbach Baumarkt, Hornbach Holding group has two other entities. Hornbach Baustoff Union
+GmbH (HBU) operates a builders' merchant business and mainly has commercial customers. Hornbach Immobilien
+AG is the real estate holding company of the group. The group's strategic decision of owning about half of the sales
+areas on which the company has retail operations has resulted in Hornbach Immobilien holding about 30% of the
+group's retail space while Hornbach Baumarkt holds about 30% of retail space itself.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Hornbach Baumarkt AG
+
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+Hornbach Baumarkt AG
+
+Chart 4
+
+Business Risk: Fair
+We estimate that Hornbach Holding derives more than 90% of its sales and 75%-80% of S&P adjusted EBITDA in
+2019 through its key operating subsidiary Hornbach Baumarkt AG. We view Hornbach Baumarkt as a core subsidiary
+of the Hornbach Holding group and a key driver of the group credit profile. As such, Hornbach Holding's business risk
+largely reflects our view of Hornbach Baumarkt's business risk profile.
+We see the group's business profile supported by a well-established presence in the DIY market and sustained position
+among the largest five players in Europe. This assessment incorporates the group's record of increasing market share
+over a 15-year period. Hornbach is the fifth-largest DIY player in Europe. The group's strategic focus on larger stores,
+which have floor space of greater than 10,000 square meters, provides the group with one of the broadest product
+offerings in German DIY retailing with comparably high level of customer service such as professional advice for main
+product categories. Customer satisfaction is high in its home market of Germany compared with peers.
+At the same time, the large scale formats enables the group to competitively price its products. The price policy is
+attractive for customers and a benchmark for competitors in the industry. In addition, the group has meaningful
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+Hornbach Baumarkt AG
+
+geographic diversification--about 45% of its sales and 60% of reported EBITDA comes from outside Germany. We also
+see Hornbach's well-established omni-channel offer with home delivery and in-store pick-up of ordered items as
+leading among existing DIY players in its relevant markets. While online platforms have already rolled out in all
+markets, we expect investments to continue in the omni-channel segment as volumes increase.
+These factors are tempered by the high seasonality and cyclicality of the DIY sector, which exhibits a strong
+dependence on weather and sensitivity to consumer sentiment, particularly for stores offering gardening products. We
+view the German DIY sector as a saturated and highly competitive market, which has an increasing market share of
+internet pure player and discounting formats that increasingly sell selected products such as power tools. In addition,
+the German market has a number of equally large existing DIY retailers, thus limiting Hornbach's scale advantage for
+supplier negotiations when compared to larger rated peers such as Kingfisher, which hosts a clear market leader
+position in the U.K., for instance.
+Going forward, we expect moderate net store expansion outside Germany, such as the Netherlands or Eastern Europe,
+which helps Hornbach to expand into less saturated and competitive DIY markets compared to Germany. In this
+respect, we also appreciate management initiatives to further expand the higher-margin private label offer toward 30%
+over the mid-term, from about 24% in fiscal 2018, which we regards as typical for the industry. Both will help to offset
+gross margin pressure from stiff competition.
+
+Peer comparison
+Table 1
+
+Hornbach Holding AG & Co. KGaA--Peer Comparison
+Industry sector: Miscellaneous retailers
+
+Ratings as of Sept 12, 2019
+
+Hornbach Holding AG &
+Co. KGaA
+
+Kingfisher PLC
+
+Maxeda DIY
+Group B.V.
+
+FNAC Darty
+SA
+
+REWE Group
+
+BB/(Stable)/--*
+
+BBB/Negative/A-2
+
+B-/Stable/--
+
+BB+/Stable/--
+
+BBB-/Stable/A-3
+
+--Fiscal year ended-Feb. 28, 2019
+
+Jan. 31, 2019
+
+Jan. 31, 2019
+
+Dec. 31 2018
+
+Dec. 31 2018
+
+Revenue
+
+4,362.4
+
+13,402.7
+
+1,391.0
+
+7,474.7
+
+53,377.8
+
+EBITDA
+
+324.2
+
+1,374.1
+
+183.5
+
+587.8
+
+4,084.4
+
+Funds from operations
+(FFO)
+
+224.1
+
+1,000.7
+
+111.3
+
+446.2
+
+3,153.2
+
+Interest expense
+
+57.4
+
+218.6
+
+62.2
+
+75.7
+
+696.8
+
+Cash interest paid
+
+59.9
+
+222.0
+
+62.2
+
+69.8
+
+681.7
+
+107.6
+
+1,047.7
+
+115.3
+
+409.2
+
+3,104.2
+
+Capital expenditure
+
+193.1
+
+386.5
+
+62.0
+
+117.9
+
+1,818.4
+
+Free operating cash flow
+(FOCF)
+
+(85.5)
+
+661.2
+
+53.3
+
+291.3
+
+1,285.8
+
+Discretionary cash flow
+(DCF)
+
+(114.6)
+
+235.6
+
+53.3
+
+276.9
+
+1,051.7
+
+316.3
+
+262.7
+
+60.0
+
+918.6
+
+639.2
+
+1,149.7
+
+2,964.7
+
+1,141.9
+
+577.3
+
+11,997.6
+
+(Mil. €)
+
+Cash flow from operations
+
+Cash and short-term
+investments
+Debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+Hornbach Baumarkt AG
+
+Table 1
+
+Hornbach Holding AG & Co. KGaA--Peer Comparison (cont.)
+Equity
+
+1,507.1
+
+7,635.6
+
+147.0
+
+1,261.0
+
+6,541.9
+
+EBITDA margin (%)
+
+7.4
+
+10.3
+
+13.2
+
+7.9
+
+7.7
+
+Return on capital (%)
+
+6.1
+
+7.0
+
+6.9
+
+16.2
+
+8.8
+
+EBITDA interest coverage
+(x)
+
+5.7
+
+6.3
+
+3.0
+
+7.8
+
+5.9
+
+FFO cash interest coverage
+(x)
+
+4.7
+
+5.5
+
+2.8
+
+7.4
+
+5.6
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+FFO/debt (%)
+Cash flow from
+operations/debt (%)
+FOCF/debt (%)
+DCF/debt (%)
+
+3.5
+
+2.2
+
+6.2
+
+1.0
+
+2.9
+
+19.5
+
+33.8
+
+9.8
+
+77.3
+
+26.3
+
+9.4
+
+35.3
+
+10.1
+
+70.9
+
+25.9
+
+(7.4)
+
+22.3
+
+4.7
+
+50.5
+
+10.7
+
+(10.0)
+
+7.9
+
+4.7
+
+48.0
+
+8.8
+
+*Issuer credit rating and outlook of Hornbach Baumarkt AG.
+
+Financial Risk: Aggressive
+Although results were weaker than we had expected in fiscal 2018, we note improving earnings due to strong topline
+growth and implemented efficiency measures in the first half of 2019. We expect Hornbach Holding, relevant reporting
+entity for our rating, to achieve a S&P-adjusted FFO-to-debt ratio of 22%-24% following only 19.5% last year (before
+IFRS16 implementation), which establishes headroom under the current rating.
+Pursuant to the new accounting standard IFRS 16 on leases, which Hornbach implemented starting first quarter 2019,
+Hornbach Holding expects to capitalize an additional lease liability of €690 million to the already capitalized finance
+leases as of fiscal 2019. This represents €200 million more than our operating lease debt that we capitalized previously
+under our standard adjustment for operating leases. That said, there was no material impact on our credit metrics or
+expectations given rent adjustments that are also added back to EBITDA. Pro forma IFRS 16, we expect Hornbach's
+FFO-to-debt ratio of 20%-22% in fiscal 2019. This is roughly in line with our prior expectations for leverage and has no
+effect on Hornbach's underlying creditworthiness or the ratings.
+We also expect lower expansionary capex spending on real estate and ramp-up of omni-channel capabilities to support
+free operating cash generation this year compared with last year. This will result in sufficient free operating cash
+generation to cover dividends over the next two years. However, planned store openings, selective real estate projects,
+and ongoing IT investments will still require material capex, topline growth also requires investments in inventory.
+Thus, we believe the adjusted DCF-to-debt ratio of just below 5% over the next two years is still comparably low for
+the rating.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+Hornbach Baumarkt AG
+
+Table 2
+
+Hornbach Holding AG & Co. KGaA--Financial Summary
+Industry sector: Miscellaneous retailers
+--Fiscal year ended Feb. 28-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+4,362.4
+
+4,141.0
+
+3,940.9
+
+3,755.2
+
+3,571.7
+
+EBITDA
+
+324.2
+
+347.4
+
+339.2
+
+326.7
+
+342.2
+
+Funds from operations (FFO)
+
+224.1
+
+255.5
+
+258.5
+
+227.9
+
+233.8
+
+57.4
+
+56.3
+
+58.7
+
+61.8
+
+66.2
+
+(Mil. €)
+
+Interest expense
+Cash interest paid
+
+59.9
+
+59.8
+
+62.6
+
+61.8
+
+66.3
+
+Cash flow from operations
+
+107.6
+
+233.5
+
+231.0
+
+210.0
+
+217.4
+
+Capital expenditure
+
+193.1
+
+145.3
+
+176.0
+
+153.6
+
+117.6
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+Gross available cash
+
+(85.5)
+
+88.2
+
+54.9
+
+56.4
+
+99.8
+
+(114.6)
+
+59.1
+
+25.8
+
+36.3
+
+82.8
+
+316.3
+
+164.1
+
+220.1
+
+349.7
+
+400.9
+
+316.3
+
+164.1
+
+220.1
+
+349.7
+
+400.9
+
+Debt
+
+1,149.7
+
+943.7
+
+964.1
+
+965.5
+
+876.4
+
+Equity
+
+1,507.1
+
+1,462.9
+
+1,397.7
+
+1,333.6
+
+1,260.9
+
+EBITDA margin (%)
+
+7.4
+
+8.4
+
+8.6
+
+8.7
+
+9.6
+
+Return on capital (%)
+
+6.1
+
+8.0
+
+8.0
+
+7.7
+
+9.7
+
+EBITDA interest coverage (x)
+
+5.7
+
+6.2
+
+5.8
+
+5.3
+
+5.2
+
+FFO cash interest coverage (x)
+
+4.7
+
+5.3
+
+5.1
+
+4.7
+
+4.5
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+FFO/debt (%)
+
+3.5
+
+2.7
+
+2.8
+
+3.0
+
+2.6
+
+19.5
+
+27.1
+
+26.8
+
+23.6
+
+26.7
+
+9.4
+
+24.7
+
+24.0
+
+21.7
+
+24.8
+
+(7.4)
+
+9.3
+
+5.7
+
+5.8
+
+11.4
+
+(10.0)
+
+6.3
+
+2.7
+
+3.8
+
+9.4
+
+Cash flow from operations/debt (%)
+FOCF/debt (%)
+DCF/debt (%)
+
+Liquidity: Adequate
+Hornbach Holding's adequate liquidity benefits, in our view, from the undrawn revolving credit facility and ample cash
+accumulated in recent quarters in preparation for the repayment of the €250 million bullet bond due in early 2020,
+which constrains our liquidity assessment. Sources of liquidity cover uses by about 1.4x over the next 12 months. We
+estimate that headroom under the financial covenants should be comfortably above 50% over the same period. In our
+base case, we anticipate that the group will successfully refinance its bullet bond, which will likely raise the coverage.
+At the same time, the seasonal and discretionary nature of home improvement spending related to overall economic
+activity amid ongoing margin pressure constrain our assessment. This limits Hornbach's ability to withstand
+unexpected high-impact, low probability events without refinancing. We see the group's standing in credit market as
+generally satisfactory and only constrained by our view about its ability to raise material funds at short notice because
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+Hornbach Baumarkt AG
+
+Hornbach is an infrequent issuer of low-volume bonds.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We calculate total sources of liquidity of €900
+million-€950 million, consisting of:
+
+We estimate uses of liquidity at €650 million-€700
+million over the same period, consisting of:
+
+• Available cash and equivalents of about €350 million
+as of May 31, 2019.
+
+• Maturities of financial debt of €300 million-€350
+million.
+
+• Undrawn bank lines and liquidity facilities of about
+€350 million.
+
+• Working capital needs of €30 million-€40 million.
+
+• FFO of €190 million-€210 million.
+
+• Seasonal working capital requirement of €140
+million.
+• Capex of €130 million-€145 million.
+• Dividend payments of about €30 million
+
+Debt maturities
+Maturing financial debt (excl. finance leases) as of Feb. 28, 2019:
+• 2019: €332 million
+• 2020: €16 million
+• 2021: €80 million
+• 2022: €21 million
+• 2023: €188 million
+• Thereafter: €137 million
+
+Covenant Analysis
+Compliance expectations
+We estimate that headroom under the financial covenants should be very comfortably about 50% under the equity
+covenant and about 70% under the EBITDA interest coverage over the next two years.
+
+Requirements
+The sub-group of Hornbach Baumarkt AG is required to comply with quarterly tested financial covenants in its €350
+million revolving credit facility. These include a minimum equity ratio of 25% and an EBITDA interest coverage ratio
+of at least 2.25x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 14
+
+Hornbach Baumarkt AG
+
+Group Influence
+Our ratings on Hornbach continue to reflect our view of the credit profile of its parent Hornbach Holding on a
+combined basis. This is because we consider Hornbach Baumarkt as an integral part of the group, which generates the
+vast majority of Hornbach Holding's earnings and is the main source of the parent company's cash flow and liquidity.
+Hornbach Baumarkt also benefits from shared functions and executive management team, which includes similar
+individuals. Therefore, our rating on Hornbach is based on Hornbach Holding's consolidated group accounts, which,
+among other factors, allow us to capture the benefit of relatively moderate share of rented stores in the overall group.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We rate the €250 million unsecured notes at 'BB'. The recovery rating is unchanged at '3', reflecting our expectation
+of meaningful (50%-70%, rounded estimate: 65%) recovery prospects in the event of payment default.
+• Although the numerical recovery outcome exceeds 65%, our criteria caps the recovery rating of the notes at '3' due
+to their unsecured nature. This accounts for the risk that additional prior- or same-ranking debt could be raised on
+the path to default.
+• The recovery rating on the notes is support by the substantial value of real estate assets directly held at Hornbach
+Baumarkt AG, resulting in our higher valuation at default compared with some retail sector peers whose real asset
+base is mainly made up of inventories. In addition, the notes benefit from a guarantee of Hornbach International
+GmbH, which is not guaranteeing any of the promissory notes.
+• The recovery rating is constrained by prior-ranking liabilities of €154 million, made up mainly of about €95 million
+in promissory notes issued at the Dutch operating subsidiary. Moreover, we consider material equally ranking debt
+to the notes consisting of the €350 million revolving credit facility (RCF) that we expect to be 85% drawn at
+hypothetical default, the €250 million unsecured bond itself and about €200 million promissory notes issued at
+Hornbach Baumarkt AG.
+• Our hypothetical default scenario assumes an economic slowdown and increased competition resulting in
+deteriorating sales growth and profitability.
+• We value the group as a going concern given its market position in the German DIY retail market with an increasing
+presence in ecommerce and in other European countries.
+• We note that only the documentation of the €350 million unsecured RCF includes a financial covenant. As a result,
+there is a risk that the group might grant additional security or guarantees to the RCF lenders on the path to default
+in exchange for a covenant waiver, which could lead to lower recovery prospects than anticipated for the unsecured
+bondholders.
+
+Simulated default assumptions
+• Year of default: 2024
+• EBITDA at emergence: €125 million
+• Implied enterprise value multiple: 6.0x compared with a sector median of 5.0x given comparably high freehold share
+in store real estate compared with other retailers, well-developed e-commerce capabilities allowing for above-sector
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 15
+
+Hornbach Baumarkt AG
+
+average growth and presence in international markets such as less saturated Eastern European DIY markets.
+• Jurisdiction: Germany
+
+Simplified waterfall
+• Gross enterprise value at default: €750 million
+• Net value available to creditors post 5% administrative costs: €710 million
+• Priority claims: €154 million (1)
+• Senior unsecured debt claims: €777 million (1) (2)
+• Recovery expectation: 50%-70% (rounded estimate: 65%)
+All debt amounts include six months' prepetition interest.
+Includes €350 million RCF assumed to be drawn at 85%.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Hornbach Holding AG & Co. KGaA Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. €)
+--Fiscal year ended Feb. 28, 2019-Hornbach Holding AG & Co. KGaA reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+1,255.7
+
+235.7
+
+120.6
+
+22.1
+
+324.2
+
+54.0
+
+195.9
+
+(40.2)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+775.4
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(24.7)
+
+--
+
+--
+
+Reported lease liabilities
+
+164.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+492.8
+
+--
+
+88.7
+
+32.4
+
+32.4
+
+(32.4)
+
+56.3
+
+--
+
+10.0
+
+--
+
+(0.2)
+
+(0.2)
+
+0.1
+
+--
+
+--
+
+--
+
+(292.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+2.8
+
+(2.8)
+
+(2.8)
+
+(2.8)
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+0.8
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+251.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+374.3
+
+251.4
+
+88.5
+
+33.0
+
+35.3
+
+(100.1)
+
+53.5
+
+(2.8)
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and
+liquid investments
+
+Total adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 16
+
+Hornbach Baumarkt AG
+
+Table 3
+
+Reconciliation Of Hornbach Holding AG & Co. KGaA Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. €) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,149.7
+
+1,507.1
+
+324.2
+
+153.6
+
+57.4
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+224.1
+
+107.6
+
+193.1
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 17
+
+Hornbach Baumarkt AG
+
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Credit Conditions In EMEA Show Underlying Fragility Beneath A More Stable Surface, Report Says, June 27, 2019
+• German DIY Retailer Hornbach Downgraded To 'BB' On Further Margin Pressure; Outlook Stable, Dec. 21, 2018
+• Industry Top Trends 2019: Retail And Restaurants, Nov. 13 2018
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 26, 2019)*
+Hornbach Baumarkt AG
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Unsecured
+
+BB
+
+Issuer Credit Ratings History
+21-Dec-2018
+
+BB/Stable/--
+
+25-Jul-2018
+
+BB+/Negative/--
+
+26-Jul-2011
+
+BB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 18
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 19
+
+

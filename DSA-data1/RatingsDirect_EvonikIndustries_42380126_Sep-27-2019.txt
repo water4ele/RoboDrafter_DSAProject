@@ -1,0 +1,1644 @@
+Evonik Industries
+Primary Credit Analyst:
+Oliver Kroemker, Frankfurt (49) 69-33-999-160; oliver.kroemker@spglobal.com
+Secondary Contact:
+Gaetan Michel, Paris (33) 1-4420-6726; gaetan.michel@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+Evonik Industries
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb+
+
+bbb+
+
+BBB+/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading global specialty-chemicals manufacturer with healthy market positions.
+
+Cyclicality of some chemical activities and exposure to
+volatile raw material prices.
+
+Significantly reduced exposure to cyclical and/or commoditized products
+following disposal of methyl methacrylates (MMA) business.
+
+High concentration of revenue from the developed markets
+of Western Europe and North America.
+
+Average but resilient profitability overall, with potential improvement over the
+medium term thanks to cost saving initiatives.
+
+Significant post-retirement obligations.
+
+Successful integration of recent acquisitions.
+Supportive financial policy and management's commitment to a solid
+investment-grade rating.
+
+The sale of the MMA business is an important step in the transformation of specialty chemicals group Evonik Industries
+(Evonik). The sale of the mature and capital-intensive MMA business has materially reduced the cyclicality of Evonik's
+portfolio and should result in more resilient profitability. In line with its strategy, S&P Global Ratings expects the
+company will continue to sharpen its focus on specialty chemicals and its identified growth areas--health and care,
+smart materials, specialty additives, and animal nutrition.
+The proceeds from the MMA disposal will be used to pursue the company's current strategy.We understand that Evonik
+will use the proceeds, after deductions (such as pension obligations and cash tax payments), to strengthen its balance
+sheet and fund internal and external growth projects. These include the $625 million acquisition of U.S.-based
+chemicals producer PeroxyChem, and the construction of a €400 million polyamide 12 plant in Marl, Germany. Based
+on this, we expect credit metrics to remain comfortably at the upper end of our guidance for the current rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+Evonik Industries
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+Evonik Industries
+
+Outlook: Stable
+
+The outlook is stable because we expect Evonik will generate solid adjusted EBITDA of €2.0 billion-€2.2 billion in
+2019, despite headwinds from some end markets such as auto, and €2.1 billion- €2.3 billion in 2020. We also factor
+in Evonik's financial policy commitment to a solid investment-grade rating and anticipate that dividends and
+acquisitions (if any) will be financed prudently. We view a ratio of adjusted funds from operations (FFO) to debt of
+30%-40% as commensurate with the rating.
+
+Downside scenario
+We could lower the ratings if we anticipated that our adjusted FFO to debt would decline below 30% without the
+near-term prospect of recovery. This could be caused by a significant drop in profit due to a weaker market
+environment, or come through material debt-funded acquisitions.
+
+Upside scenario
+Upside rating potential could emerge over time if Evonik can maintain resilient performance via a higher share of
+specialty chemicals in its product portfolio, visible EBITDA contributions from acquisitions and expansion projects,
+and a financial track record of adjusted FFO to debt in the 40%-45% range--including increased free cash flow after
+dividends. A financial policy commitment to a higher rating would be important for any upgrade considerations.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+Evonik Industries
+
+Assumptions
+
+Key Metrics
+
+• Global GDP growth of 3.3% in 2019 and 3.6% in
+2020.
+• A much weaker auto industry in 2019 than
+2018-2017.
+• A continued tough environment for petroleum
+derivatives in terms of volumes, and some softness
+in prices.
+
+2018A
+
+2019E
+
+2020E
+
+EBITDA (bil. €)*
+
+2.4 2.0-2.2 2.1-2.3
+
+FFO (bil. €)*
+
+1.9 1.8-2.0 1.9-2.1
+
+FFO to debt (%)*
+
+34.6
+
+38-40
+
+38-40
+
+*Fully adjusted by S&P Global ratings. A--Actual.
+E--Estimate. FFO--Funds from operations.
+
+• Modest segmental growth with nutrition and care
+affected by the softer methionine market and
+resource efficiency affected by the macro
+environment.
+• Gross proceeds from the MMA sale of €3 billion.
+• Spending of about €700 million for acquisitions in
+2019, mainly on PeroxyChem assuming the
+transaction closes by year-end, and continued
+bolt-on acquisitions in 2020-2021. We note the
+somewhat uncertain timing of the PeroxyChem
+transaction, which is currently delayed by a lawsuit
+filed by the U.S. Federal Trade Commission.
+• Capital expenditure (capex) of €0.9 billion-€1 billion
+per year.
+• Dividends of €0.5 billion-€0.6 billion per year.
+
+Base-case projections
+We expect Evonik to replace MMA's EBITDA contribution through acquisitions and organic investments. We forecast
+adjusted EBITDA of €2.0 billion-€2.2 billion in 2019, down from €2.4 billion in 2018 due to the sale of MMA, before
+increasing to €2.1 billion-€2.3 billion from 2020 onward. We factor in the synergy realization from recent acquisitions,
+benefits from cost savings programs, and organic growth projects such as the polyamide 12 capacity in Marl.
+Evonik enjoys ample rating headroom. We anticipate ample headroom for the rating due to improving credit metrics.
+For example, we forecast FFO to debt to improve toward the higher end of our 30%-40% guidance thanks to support
+from excess funds available and the disposal of the cyclical MMA business. Despite continued strong cash conversion,
+we believe that Evonik will utilize its cash flows for investments, modest acquisitions, and dividends, resulting in a
+relatively stable leverage over the forecast period.
+
+Company Description
+Evonik is one of the leading specialty chemical companies, with about €6.5 billion of revenue reported from continuing
+operations in first-half 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+Evonik Industries
+
+The group's activities comprise three segments: Nutrition and care, resource efficiency, and performance materials.
+Evonik serves a range of diversified end markets including food and animal feed, consumer and personal care, and
+auto and mechanical engineering.
+In nutrition and care, Evonik is the world's largest producer of methionine, used in animal (mainly poultry) feed, and
+the group considers this to be one of its most important profit contributors. The segment also makes cosmetic
+ingredients, such as specialty surfactants, and household products including fabric conditioners, solutions for the
+health care industry and superabsorbent materials.
+In resource efficiency, the company produces inorganic materials, such as silica and silanes for tires, coatings and
+adhesive resins, oil additives for the auto and industrial end markets, crosslinkers, polyamide 12, and hydrogen
+peroxide used in pulp and paper bleaching, and other applications.
+In performance materials, the company produces naphtha-based C4 derivatives and hydrocyanic acid products, as
+well as alkoxides that are used, among other things, for the manufacture of biodiesel.
+On March 4, 2019, Evonik signed an agreement to sell its MMA business to Advent for €3 billion. The MMA business
+comprised large-volume monomers such as methylmethacrylate, various specialty monomers, and the PLEXIGLAS®
+brand of PMMA molding compounds and semi-finished products. The methacrylate business has been reclassified to
+discontinued operations. The transaction closed on July 31, 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+Evonik Industries
+
+Chart 2
+
+Business Risk: Strong
+Evonik's business risk profile is underpinned by the size and strong market position of its specialty chemicals activities,
+as well as global market reach. The specialty business portfolio was further strengthened by the sale of the mature and
+cyclical MMA business.
+Evonik benefits from greater diversity in terms of end markets and product ranges than most of its peers, while at the
+same time there are limited synergies between its rather-unrelated business units. About one-third of its sales come
+from nutrition and care products, with less than 20% from the more cyclical auto end markets and well-diversified
+exposure to other end markets. The group also has a good track record in research and development, which accounts
+for 3.0%-3.5% of its annual sales.
+We view Evonik's profitability as average within the specialty chemicals industry, supported by efficiency programs in
+group-wide selling, general, and administrative functions. The company is targeting savings of €200 million by 2021
+and in addition has several business-specific initiatives like 'OLEO 2020' for household and personal care.
+The company's exposure to commoditized and/or cyclical products including amino acids, C4 derivatives, and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+Evonik Industries
+
+superabsorbers for baby care has reduced compared with a few years ago, but is still material. This has resulted from
+Evonik expanding in more stable activities but also the current trough in conditions. Cyclical products could represent
+a material portion of Evonik's EBITDA if prices normalize. We see this as a weakness for the group, given the higher
+volatility of these products compared with the rest of its offerings and their sensitivity to economic cycles and
+supply-demand balances. However, we note the much smaller proportion of Evonik's profits stemming from one key
+product, methionine.
+We note that Evonik has built its second methionine plant in Singapore, doubling its production capacity in the country
+to 300,000 metric tons per year. The decision to expand reflects the 5%-6% growth in demand for methionine, fueled
+by the professionalization of meat production. However, the oversupply situation is continuing and we expect little
+recovery in methionine prices during the remainder of 2019. That said, we recognize Evonik's first quartile cost
+position thanks to its backward integration and technological expertise in complex methionine production, both of
+which support the profitability of the methionine business even at the current low point in the cycle.
+We note the enhancements to diversity thanks to recent acquisitions, and recognize Evonik's strategy to accelerate
+growth and attain a sustainable EBITDA margin of 18%-20% on average over the cycle through cost efficiencies and a
+further shift toward specialty chemicals. In our view, a track record of sustainably better and stable margins would be a
+key indication of the strengthening business profile, with the MMA business disposal an important milestone on this
+path.
+
+Peer comparison
+Table 1
+
+Evonik Industries--Peer Comparison
+Industry Sector: Chemical Companies
+Evonik Industries
+Ratings as of Sept. 4, 2019
+
+BASF SE
+
+Solvay S.A. Eastman Chemical Co.
+
+BBB+/Stable/A-2 A/Stable/A-1 BBB/Stable/A-2
+
+LANXESS AG
+
+BBB/Stable/A-2 BBB/Stable/A-2
+
+--Fiscal year ended Dec. 31, 2018--
+
+(Mil. €)
+Revenue
+
+15,024.0
+
+62,675.0
+
+11,299.0
+
+8,866.3
+
+7,197.0
+
+EBITDA
+
+2,414.0
+
+10,368.5
+
+1,975.5
+
+1,955.6
+
+968.7
+
+Funds from operations (FFO)
+
+1,988.6
+
+8,766.2
+
+1,531.7
+
+1,554.0
+
+735.3
+
+158.4
+
+774.3
+
+276.8
+
+224.3
+
+103.4
+
+Interest expense
+Cash interest paid
+
+158.4
+
+506.3
+
+208.8
+
+225.2
+
+77.4
+
+Cash flow from operations
+
+1,780.6
+
+8,208.2
+
+1,356.7
+
+1,388.1
+
+454.5
+
+Capital expenditure
+
+1,026.0
+
+3,864.0
+
+711.0
+
+457.7
+
+497.0
+
+Free operating cash flow (FOCF)
+
+754.6
+
+4,344.2
+
+645.7
+
+930.4
+
+(42.5)
+
+Discretionary cash flow (DCF)
+
+182.9
+
+1,323.2
+
+282.9
+
+299.8
+
+(127.8)
+
+Cash and short-term investments
+
+1,128.0
+
+2,644.0
+
+1,103.0
+
+197.4
+
+1,395.0
+
+Debt
+
+5,745.4
+
+26,315.9
+
+6,584.8
+
+6,225.9
+
+2,028.2
+
+Equity
+
+8,075.0
+
+36,109.0
+
+9,024.0
+
+5,134.1
+
+3,023.0
+
+EBITDA margin (%)
+
+16.1
+
+16.5
+
+17.5
+
+22.1
+
+13.5
+
+Return on capital (%)
+
+10.7
+
+10.8
+
+6.4
+
+11.8
+
+9.4
+
+EBITDA interest coverage (x)
+
+15.2
+
+13.4
+
+7.1
+
+8.7
+
+9.4
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 8
+
+Evonik Industries
+
+Table 1
+
+Evonik Industries--Peer Comparison (cont.)
+FFO cash interest coverage (x)
+
+13.6
+
+Debt/EBITDA (x)
+
+18.3
+
+8.3
+
+7.9
+
+10.5
+
+2.4
+
+2.5
+
+3.3
+
+3.2
+
+2.1
+
+FFO/debt (%)
+
+34.6
+
+33.3
+
+23.3
+
+25.0
+
+36.3
+
+Cash flow from operations/debt (%)
+
+31.0
+
+31.2
+
+20.6
+
+22.3
+
+22.4
+
+FOCF/debt (%)
+
+13.1
+
+16.5
+
+9.8
+
+14.9
+
+(2.1)
+
+3.2
+
+5.0
+
+4.3
+
+4.8
+
+(6.3)
+
+DCF/debt (%)
+
+Financial Risk: Intermediate
+Our view of Evonik's financial risk profile takes into account the group's FFO to debt of close to 40% in 2019 under our
+base-case scenario, which is within the 30%-40% range commensurate with the ratings.
+During first-half 2019, Evonik generated adjusted EBITDA of about €1.1 billion, leading to an FFO of about €0.8
+billion. This is moving in line with our base-case estimates of about €2.1 billion of EBITDA and about €1.9 billion of
+FFO for full-year 2019. Over the course of 2019-2020, we also anticipate Evonik will generate strong free operating
+cash flow of €0.6 billion-€0.7 billion, allowing the company to deleverage gradually. We also assume that the company
+will continue its focus on high-margin businesses via internal initiatives and external opportunities, with the proceeds
+from the sale of the MMA business to be mainly utilized to pursue future growth opportunities rather than
+deleveraging.
+We note Evonik's financial policy commitment to a solid investment-grade rating and assume that capex, dividends
+and future acquisitions (if any) will be balanced appropriately or prudently funded. This was demonstrated by the
+issuance of a €500 million intermediate equity content hybrid instrument to finance the acquisition of the Huber Silica
+business in 2017.
+
+Financial summary
+Table 2
+
+Evonik Industries--Financial Summary
+Industry Sector: Chemical Companies
+--Fiscal year ended Dec. 31-(Mil. €)
+Revenue
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+15,024.0 14,419.0 12,732.0 13,507.0 12,917.0
+
+EBITDA
+
+2,414.0
+
+2,361.0
+
+2,194.0
+
+2,433.0
+
+1,879.0
+
+Funds from operations (FFO)
+
+1,988.6
+
+1,891.1
+
+1,570.7
+
+1,999.5
+
+1,475.2
+
+Interest expense
+
+158.4
+
+167.9
+
+164.3
+
+173.5
+
+229.8
+
+Cash interest paid
+
+158.4
+
+156.9
+
+131.3
+
+97.5
+
+173.8
+
+Cash flow from operations
+
+1,780.6
+
+1,624.1
+
+1,819.7
+
+2,019.5
+
+1,034.2
+
+Capital expenditure
+
+1,026.0
+
+1,036.0
+
+942.0
+
+908.0
+
+1,044.0
+
+754.6
+
+588.1
+
+877.7
+
+1,111.5
+
+(9.8)
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+
+182.9
+
+16.4
+
+317.7
+
+620.5
+
+(493.8)
+
+1,128.0
+
+1,163.0
+
+4,940.0
+
+2,733.0
+
+1,370.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+Evonik Industries
+
+Table 2
+
+Evonik Industries--Financial Summary (cont.)
+Industry Sector: Chemical Companies
+--Fiscal year ended Dec. 31-(Mil. €)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Gross available cash
+
+1,068.0
+
+1,052.0
+
+4,668.0
+
+2,655.0
+
+1,370.0
+
+Debt
+
+5,745.4
+
+5,770.6
+
+2,176.8
+
+1,829.1
+
+2,959.6
+
+Equity
+
+8,075.0
+
+7,777.0
+
+7,750.0
+
+7,576.0
+
+6,522.0
+
+EBITDA margin (%)
+
+16.1
+
+16.4
+
+17.2
+
+18.0
+
+14.5
+
+Return on capital (%)
+
+10.7
+
+11.7
+
+13.4
+
+15.4
+
+11.3
+
+EBITDA interest coverage (x)
+
+15.2
+
+14.1
+
+13.4
+
+14.0
+
+8.2
+
+FFO cash interest coverage (x)
+
+13.6
+
+13.1
+
+13.0
+
+21.5
+
+9.5
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+2.4
+
+2.4
+
+1.0
+
+0.8
+
+1.6
+
+FFO/debt (%)
+
+34.6
+
+32.8
+
+72.2
+
+109.3
+
+49.8
+
+Cash flow from operations/debt (%)
+
+31.0
+
+28.1
+
+83.6
+
+110.4
+
+34.9
+
+FOCF/debt (%)
+
+13.1
+
+10.2
+
+40.3
+
+60.8
+
+(0.3)
+
+3.2
+
+0.3
+
+14.6
+
+33.9
+
+(16.7)
+
+DCF/debt (%)
+
+Liquidity: Strong
+We view Evonik's liquidity as strong based on our estimate that sources will exceed uses by 1.6x over the 12 months
+from June 30, 2019, and 1.5x over the subsequent 12 months. Evonik's debt documentation does not include any
+covenants and the group has a track record of addressing its maturities well ahead of time.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• At June 30, 2019, about €0.5 billion of estimated
+cash and liquid investments.
+
+• Short-term debt of €0.9 billion at June 30, 2019.
+
+• A €1.75 billion undrawn revolving credit facility
+(RCF) maturing in 2024. The facility is not subject to
+any financial covenants.
+
+• Assumed capex of about €1 billion, of which €0.5
+billion is maintenance capex.
+• Dividends of €0.5 billion-€0.6 billion.
+
+• FFO of €1.6 billion-€1.7 billion over the next 12
+months, according to our base-case credit scenario.
+
+• Moderate working capital outflows of about €0.15
+billion in the next 12 months, including €0.1 billion
+of peak intrayear working capital needs.
+
+• Net proceeds from the MMA business sale of about
+€2 billion.
+
+• About €0.7 billion for acquisitions.
+
+Debt maturities
+As of Dec 31, 2018:
+• 2019: €0.2 billion
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 10
+
+Evonik Industries
+
+• 2020-2021: €1.2 billion
+• Thereafter: €2.5 billion
+
+Environmental, Social, And Governance
+
+We consider Evonik's exposure to environmental risk factors as on par with the chemical sector. The company has
+established a group-wide environment, safety, health, and quality management system based on statutory and
+normative frameworks, including ISO standards, the UN Sustainable Development Goals, and internal regulations.
+It has already been able to reduce its absolute greenhouse gas emissions by about 30% since 2008, and has set a
+target to reduce emissions by another 20% by 2025. In addition, Evonik introduced internal CO2 pricing as
+additional criteria in the management of major investments. Evonik uses co-generation plants at several of its large
+sites. It announced plans to replace the last coal-fired power plant at its Marl site by 2022, and has integrated
+structures linking chemical production and energy generation. In 2018, Evonik spent €43 million on environmental
+protection, compared to a total of €340 million since 2012. The company also generates approximately 50% of its
+sales from products and solutions that help improve resource efficiency in customers' applications. We believe
+social factors are currently not a material risk for the rating. Furthermore, we view Evonik's governance as a
+supportive factor for the ratings, reflecting management's experience and expertise, governance fully in line with
+best practices, and the balance of different stakeholders' interests.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Evonik Industries Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018-Evonik Industries reported amounts
+
+Reported
+
+S&P Global
+Ratings'
+Interest
+adjusted
+expense
+EBITDA
+
+Debt
+
+Shareholders'
+equity
+
+EBITDA
+
+Operating
+income
+
+4,084.0
+
+7,729.0
+
+2,275.0
+
+1,359.0
+
+51.0
+
+Cash flow
+from
+operations
+
+Dividends
+
+Capital
+expenditure
+
+2,414.0
+
+1,704.0
+
+552.0
+
+1,032.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(267.0)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(121.0)
+
+--
+
+--
+
+--
+
+546.0
+
+--
+
+115.0
+
+35.1
+
+35.1
+
+(35.1)
+
+79.9
+
+--
+
+--
+
+Intermediate hybrids
+reported as debt
+
+(250.0)
+
+250.0
+
+--
+
+--
+
+(2.7)
+
+2.7
+
+2.7
+
+2.7
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+2,482.0
+
+--
+
+7.0
+
+7.0
+
+70.0
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+Evonik Industries
+
+Table 3
+
+Reconciliation Of Evonik Industries Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€) (cont.)
+Accessible cash and
+liquid investments
+
+(968.0)
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+Capitalized
+development costs
+
+--
+
+--
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+Debt: Guarantees
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+5.0
+
+(5.0)
+
+(5.0)
+
+--
+
+(5.0)
+
+(1.0)
+
+(1.0)
+
+--
+
+--
+
+(1.0)
+
+--
+
+(1.0)
+
+12.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+13.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+96.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(171.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss)
+on disposals of PP&E
+
+--
+
+--
+
+11.0
+
+11.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Foreign
+exchange gain/(loss)
+
+--
+
+--
+
+(5.0)
+
+(5.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+41.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1,661.4
+
+346.0
+
+139.0
+
+101.1
+
+107.4
+
+(425.4)
+
+76.6
+
+2.7
+
+(6.0)
+
+Funds
+from
+operations
+
+Cash flow
+from
+operations
+
+Dividends
+paid
+
+Capital
+expenditure
+
+1,988.6
+
+1,780.6
+
+554.7
+
+1,026.0
+
+Debt: Other
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+5,745.4
+
+8,075.0
+
+2,414.0
+
+1,460.1
+
+158.4
+
+PP&E--Property, plant, and equipment.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/A-2
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 12
+
+Evonik Industries
+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Specialty Chemicals Industry, Dec. 31, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Commodity Chemicals Industry, Dec. 31, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• EMEA Chemical Companies, Strongest To Weakest, Aug. 2, 2019
+• Industry Top Trends Update: Chemicals, July 25, 2019
+• S&P Global Ratings Publishes Updated Global And Regional Corporate Rating Component Scores Reports, July 18,
+2019
+• ESG Industry Report Card: Chemicals, June 3, 2019
+• Country Risk Assessments Update: February 2019, Feb. 18, 2019
+• Industry Top Trends 2019: Chemicals, Nov. 13, 2018
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 13
+
+Evonik Industries
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 4, 2019)*
+Evonik Industries
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Senior Unsecured
+
+BBB+
+
+Short-Term Debt
+
+A-2
+
+Subordinated
+
+BBB-
+
+Issuer Credit Ratings History
+09-May-2012
+
+BBB+/Stable/A-2
+
+06-May-2011
+
+BBB/Stable/A-2
+
+21-Sep-2010
+
+BB+/Positive/B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 15
+
+

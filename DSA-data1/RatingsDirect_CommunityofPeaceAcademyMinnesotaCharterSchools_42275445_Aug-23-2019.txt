@@ -1,0 +1,861 @@
+Community of Peace Academy,
+Minnesota; Charter Schools
+Primary Credit Analyst:
+Robert Tu, CFA, San Francisco (1) 415-371-5087; robert.tu@spglobal.com
+Secondary Contact:
+Peter V Murphy, New York (1) 212-438-2065; peter.murphy@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Enterprise Profile
+Financial Profile
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 1
+
+Community of Peace Academy, Minnesota;
+Charter Schools
+Credit Profile
+US$7.15 mil charter sch lse rev bnds (Community of Peace Acad) ser 2019 due 06/30/2050
+Long Term Rating
+
+BBB-/Stable
+
+New
+
+St. Paul Hsg & Redev Auth, Minnesota
+Community of Peace Acad, Minnesota
+St. Paul Housing & Redev Authority (Community of Peace Academy) lse rev bnds
+Long Term Rating
+
+BBB-/Stable
+
+Affirmed
+
+Rationale
+S&P Global Ratings assigned its 'BBB-' long-term rating to St. Paul Housing and Development Authority, Minn.'s series
+2019 lease revenue bonds, issued for the Community of Peace Academy (CPA), through its affiliate, the Community of
+Peace Building Co. Simultaneously, S&P Global Ratings affirmed its 'BBB-' long-term rating on the school's outstanding
+series 2015A and series 2015B lease revenue refunding bonds, issued for CPA. The outlook is stable.
+We assessed CPA's enterprise profile as adequate, characterized by the academy's long institutional tenure, stable
+enrollment, which is expected to grow with the expansion in elementary grades, acceptable academic performance,
+and competent management team governed by a robust set of board policies and practices. We assessed CPA's
+financial profile as adequate, based on its history of positive full-accrual operations, steady coverage and liquidity
+levels, although we understand the school will utilize a one-time $1.8 million fund balance drawdown in fiscal 2020 for
+expansion costs. We expect the academy to maintain pro forma maximum annual debt service (MADS) coverage and
+liquidity sufficient for the rating. We believe that combined, these credit factors lead to an indicative stand-alone credit
+profile of 'bbb-', and a final rating of 'BBB-'.
+The school's total capacity will increase following the academy's expansion plans to approximately 1,050 by the
+2024-2025 school year. Construction is expected to start in fall of 2019 and be completed by mid-August 2020, in time
+for the facility to open for the 2020-2021 school year. While expansion risks exist, we believe this is partly mitigated by
+the school's history of consistent enrollment, superior retention rates, and limited need to grow enrollment to meet its
+future debt service payments associated with the new facility.
+The rating reflects our view of the academy's:
+• Sufficient pro forma MADS coverage of 1.32x based on fiscal 2018 audited figures, although annual debt service
+coverage is higher at nearly 2x;
+• Moderate pro forma days' cash on hand of 118 days based on fiscal 2018 audited figures, after accounting for a
+planned drawdown of funds associated with the aforementioned expansion project;
+• Solid relationship with its authorizer, the University of St. Thomas (UST), which granted CPA a five-year contract
+renewal, marking the second renewal for a maximum term;
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 2
+
+Community of Peace Academy, Minnesota; Charter Schools
+
+• Long and stable 24-year history of operations; and
+• Experienced and capable management team, supported by an active and effective governance board.
+The preceding positive credit factors are partly offset by the following factors:
+• Expansion risk, given CPA's plan to add additional elementary grade sections over the next few years;
+• Increased MADS burden with the series 2019 debt issuance; and
+• The inherent uncertainty associated with charter renewals because the final maturity of the bonds exceeds the time
+horizon of the existing charter.
+The series 2019 bonds will be on parity with CPA's outstanding series 2015 bonds. The bonds are secured by revenue
+of CPA, which consists primarily of per-pupil funding from Minnesota. The bonds are further secured by a fully funded
+debt service reserve in addition to a capital improvement fund. Proceeds will be used to construct a three-story
+addition to the school's existing building consisting of 14 new classrooms, breakout rooms, an enlarged kitchen and
+multipurpose room totaling approximately 30,000 square feet. The project will also consist of various capital upgrades,
+including a heating, ventilation and air conditioning (HVAC) system upgrade and installation of a new fire suppression
+system.
+Covenants include 60 days' cash on hand and 1.0x annual debt service coverage (DSC). If debt service falls below 1.1x,
+but remains above 1.0x, management may be required to engage a consultant acceptable to the issuer to improve
+coverage. Failure to maintain at least 1.0x DSC will constitute an event of default. The bonds have an additional bonds
+test of 1x historical MADS coverage (audited) and 1.25x projected MADS coverage, starting in fiscal 2022. Total pro
+forma debt for CPA is approximately $21.5 million.
+The academy is a public charter school in St. Paul, established in 1995 and currently serves approximately 785
+pre-kindergarten (pre-K) to 12th grade students. The school's mission focuses on fostering academic excellence and
+prioritizing character and moral development.
+
+Outlook
+The stable outlook reflects our expectation that over the two-year outlook period, CPA will moderate its debt burden,
+while growing enrollment in line with management's projections. We understand fiscal 2020 and fiscal 2021 results are
+likely to be weaker due to non-recurring expansion costs, however we expect the school to sustain sufficient MADS
+coverage and liquidity in line with the rating
+
+Downside scenario
+We could consider a negative rating action should any enrollment or funding pressures constrain operations, such that
+MADS coverage or liquidity declines more than expected. Additionally, if CPA experiences any project delays or is
+unable to meet enrollment projections, we would view this negatively.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 3
+
+Community of Peace Academy, Minnesota; Charter Schools
+
+Upside scenario
+A positive rating action is unlikely during the outlook period, given CPA's expansion plans and current financial
+metrics.
+
+Enterprise Profile
+Economic fundamentals
+CPA is in Ramsey County, which is located in the Minneapolis- St. Paul metropolitan statistical area. The county's
+school-age population is healthy at about 187,000. The projected five-year school age population is expected to fall
+slightly at 0.2%.
+
+Industry risk
+Industry risk addresses the charter school sector's overall cyclicality and competitive risk and growth by applying
+various stress scenarios and evaluating barriers to entry, levels and trends of profitability, substitution risk, and growth
+trends observed in the industry. We believe the charter school sector represents a moderately high credit risk when
+compared with other industries and sectors.
+
+Market position
+CPA has been at its current site since its inception in 1995 and is located on the east side of St. Paul. Students are local
+with a majority living in the St. Paul Public School district. The academy serves a predominantly underprivileged
+population with 86% qualifying for free (or reduced) lunch and roughly one-third designated English language learners
+based on fall 2018 figures.
+Fall 2018 enrollment was 803 students. Enrollment has historically remained stable and been around the 780 range
+over the past few years. We understand the improvement in 2018 was due to lower attrition and possible overenrolling
+by the school at each grade level; the school expects enrollment to moderate to 785 students for the upcoming
+2019-2020 school year. The waitlist has shown gradual improvement and is nearly 21% of total enrollment at 166
+students. We believe CPA's competitive landscape is modest given the academy's academic focus and small class
+sizes. Student retention rates are high and was 95% in 2018.
+In the first year of the expansion, CPA intends to increase enrollment in grades K, first and sixth to 75 students.
+Management is targeting an enrollment of 921 students in 2020 and eventually will build up to facility capacity in 2025.
+CPA believes that the additional section in the sixth grade will allow the school to better match the natural break in
+public schools, which are organized as K-5. Afterwards, the school plans to naturally roll up to grades 2-5, until the
+school reaches full capacity. Management believes that the addition of a third section of elementary school grades will
+help to stabilize middle school academics and improve high school attrition rates. In our view, while there are
+expansion risks, we believe these risks are somewhat offset by the school's history of consistent enrollment, strong
+retention rates, and limited need to grow enrollment to meet future debt service payments
+We consider the academy's test scores on par with those of the local school district while its growth indicators are
+stronger. Overall, CPA performed comparable to or above comparable schools and the district with particularly high
+growth at the high school level. The high school was previously designated as a Reward School back in 2014 and a
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 4
+
+Community of Peace Academy, Minnesota; Charter Schools
+
+Celebration School in 2015.
+Middle school performance was not as strong as elementary and high school, although we understand the school has
+taken on various initiatives such as partnering with the University of Chicago's Urban Education Institute back in 2015
+to add a literacy assessment and instruction initiative. This included instructional coaches, a revised teacher evaluation
+plan, and a reconfigured administrative leadership model. CPA's graduation rate of 86% in 2018 is good and has
+consistently exceeded state and district averages. Additionally, the authorizer reported that 98% of CPA's graduating
+seniors were accepted into a two-year or four-year college or university.
+The statutory framework assessment reflects our opinion that, while there may be some areas of risk, the framework is
+not likely to weaken its future ability to pay debt service. In Minnesota, operating revenue is based primarily on state
+funding through general education and lease aid.
+State per-pupil funding increased to $6,312 per student for fiscal 2019 from $6,188 for the previous school year. Lease
+aid is paid at the lesser of 90% of the approved lease cost or $1,314 per-pupil unit. The state's most recent legislative
+session approved an increase in the state aid formula by 2% for the next two years. We understand the school is
+conservatively budgeting a 1.5% increase in revenue in fiscal 2022
+UST has been the school's authorizer since 2011, when it took over as authorizer from St. Paul Public schools. UST
+most recently renewed CPA's charter in 2018 for a maximum five-year term. This marks CPA's second maximum
+renewal with UST. Based on feedback from the authorizer, we believe CPA maintains a positive relationship with UST.
+UST interacts multiple times with CPA, including attending board meetings and doing multiple site visits every year.
+The school remains in good standing with UST, which has indicated it has no significant concerns regarding the school
+at this time. The authorizer is supportive of the school's expansion plans.
+
+Management and governance
+CPA handles most operations in house, with the exception of its financial function, which it contracts to Bergan KDV
+(BKDV). BKDV was formed when Beltz, Kes, Darling & Associates, merged with BKDV in 2017. BKDA has had a
+long-standing relationship with the academy, and all parties report that the firm is vital to CPA's operations. While this
+creates some concentration in both institutional knowledge and day-to-day operations, we believe that financial
+management and policies at the school are strong, as demonstrated by a five-year long-range budget and projection
+model.
+The board updated its bylaws in 2016 to include a change in board structure from a 13-member board with teacher
+majority, to a nine-member board comprising three teachers, three parents, and three community members. The
+school board holds elections annually, and all members serve three-year staggered terms with an option for renewal.
+The board has multiple standing committees that meet on a monthly basis and provide additional oversight.
+Management notes that the current executive director will be leaving at the end of the 2019-2020 school year after
+having worked for 17 years at the school in various roles. We understand the board of directors has already hired a
+new executive director, who is beginning his transition into his new role. The incoming executive director has served
+as a director of another charter school in Minneapolis since 2015 and has prior school leadership experience with
+Minneapolis Public Schools. We expect a smooth leadership transition given the long lead time and support from the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 5
+
+Community of Peace Academy, Minnesota; Charter Schools
+
+current executive director. Aside from the school bringing on a new elementary school principal, there are no
+additional changes expected.
+
+Financial Profile
+We analyze the materiality, strategy, and funding of pension plan separately from our analysis of a school's long-term
+debt ratios or operating margin. Consequently, we may make certain adjustments to the calculations of debt ratios or
+operating margin for schools with substantial multiemployer cost-sharing defined benefit pension plans to separate out
+the net pension liability or noncash expense accrual. In our view, these adjustments enhance analytical clarity from a
+credit perspective and result in more comparable debt and operating metrics across accounting methods.
+
+Financial performance
+In our opinion, CPA's financial performance can be characterized by consistent surpluses on a full accrual basis, aside
+from a one-time deficit in fiscal 2016 due to a bond refinancing. Based on the fiscal 2018 audit, the academy produced
+a $520,000 full-accrual surplus (4.5% excess margin), after we adjusted out accrued pension expenses. EBIDA was
+approximately $1.8 million, or 15.5%. For fiscal 2019, unaudited figures show that the school outperformed its revised
+budget. Management expects to end the year with a similar surplus to fiscal 2018.
+Management is budgeting for a deficit in fiscal 2020, due to the expected $1.8 million draw down in fund balance for
+the HVAC update, and a smaller deficit in fiscal 2021 incorporating the expansion costs. We believe management
+budgets conservatively, including a 2% increase in salaries and benefits and 1.5% increase in costs in its long-range
+budget model. The school typically outperforms its adopted budget.
+According to our calculations, pro forma MADS coverage falls to 1.32x in fiscal 2018 after incorporating the additional
+debt. We still view coverage as sufficient for the rating given the schools historically strong track record of positive
+operations and coverage. Projected debt service gradually steps up from $889,000 in fiscal 2018 to $1.37 million in
+fiscal 2026. This includes capitalized interest through fiscal 2020, followed by interest only payments in fiscal 2021 and
+fiscal 2022. CPA's first principal and interest payment is due in fiscal 2023, which we believe gives the school some
+time to grow enrollment levels to meet increasing debt service requirements. While we expect operating expenditures
+to increase given the expansion costs, we also expect revenues to expand, given CPA's growing enrollment base,
+allowing the academy to maintain balance operations. We expect CPA's financial performance to remain steady and
+coverage to remain consistent with the rating level.
+
+Liquidity and financial flexibility
+In our opinion, CPA's liquidity position has strengthened in recent years, although we understand that the school plans
+to draw down approximately $1.8 million in fiscal 2020 for the expansion project. As of June 30, 2018, the academy
+had approximately $5.2 million of unrestricted cash, or 180 days' cash on hand, which is an increase from 164 days in
+the previous year. Based on management's projections, days' cash on hand will drop to around 113 days' in fiscal 2020
+and is expected to grow back to historical levels gradually over time.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 6
+
+Community of Peace Academy, Minnesota; Charter Schools
+
+Debt burden
+Pro forma MADS translates to what we consider a moderate debt burden of 11.8% based on fiscal 2018 operating
+revenue. We expect the increase in debt service to gradually be followed by an increase in higher revenue from the
+increase in students. As many charter schools, the organization's debt-to-capitalization ratio shows significant leverage
+on the balance sheet; pro forma figures indicate approximately 80% based on the series 2019 debt. Additionally, pro
+forma debt is high at just over $27,000, but is expected to initially step down to $25,000 in fiscal 2020 and gradually
+step down toward $20,000 as the school adds additional students. We understand the school has no additional debt
+plans beyond the series 2019 bonds.
+Employees of CPA participate in cost-sharing multiple-employer pension plans, including the General Employees
+Retirement Fund (GERF), which is administered by the Public Employees Retirement Association of Minnesota (PERA)
+and the Teacher's Retirement Association (TRA). Required pension contributions to these plans are determined by
+state statute. Statutory contributions rates have generally not kept pace with actuarially determined contribution
+(ADC) rates, although the 2018 legislative session resulted in significant pension reform that increased both employer
+and employee contributions bringing funding closer to the ADC. We expect the statutory contributions to be closer to
+the ADC in fiscal 2019.
+As of the June 30, 2018 measurement date, the TRA and GERF plans were funded at 78.0% and 79.5%, respectively.
+We understand the funded ratio for the TRA plan improved in 2018, because it was no longer required to use a single
+equivalent discount rate, and instead will now use a blended rate of the long-term expected rate of return and a
+municipal bond rate under GASB 67 and 68 reporting. This is a significant change from the previous fiscal year, when
+the discount rate was 5.12%, and as a result significantly decreased the plan's unfunded liability and improved the
+plan's funded ratio (previously at 51.6% in fiscal 2017). If the statutory contributions keep pace with the ADC, we
+expect to see additional funding improvement in fiscal 2019 and beyond.
+While we believe the history of pension contributions below the ADC increases the risk of payment acceleration, we
+do not believe the potential for increased contributions is likely to result in budget stress during the outlook period, as
+CPA's contributions are currently a manageable 3.6% of total expenditures. However, in the future, if pension
+contributions absorb a larger share of the CPA's budget, our view of its debt burden profile could weaken.
+For more information on the plan, please see the debt and liabilities section in the state report, published July 24, 2019,
+on RatingsDirect.
+
+Financial policies
+CPA has formal policies for investment allocation, liquidity, and debt. The academy meets standard annual disclosure
+requirements. The financial policies assessment reflects our opinion that, while there may be some areas of risk, the
+organization's overall financial policies are not likely to weaken its future ability to pay debt service. Our analysis of
+financial policies includes a review of the organization's financial reporting and disclosure, investment allocation and
+liquidity, debt profile, contingent liabilities, and legal structure and a comparison of these policies to comparable
+providers.
+Community of Peace Academy, Minn.: Enterprise And Financial Statistics
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 7
+
+Community of Peace Academy, Minnesota; Charter Schools
+
+Community of Peace Academy, Minn.: Enterprise And Financial Statistics (cont.)
+--Medians for 'BBB-' rated
+charter schools--
+
+--Fiscal year ended June 30-Enrollment
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2018
+
+Total headcount
+
+803
+
+788
+
+783
+
+779
+
+786
+
+1,098
+
+Total waiting list
+
+166
+
+140
+
+136
+
+100
+
+79
+
+MNR
+
+20.70
+
+17.80
+
+17.40
+
+12.80
+
+10.10
+
+35.30
+
+Total revenues ($000s)
+
+N.A.
+
+11,648
+
+11,666
+
+10,589
+
+10,605
+
+10,832
+
+Total expenses ($000s)
+
+N.A.
+
+11,128
+
+10,797
+
+10,788
+
+10,033
+
+MNR
+
+EBIDA ($000s)
+
+N.A.
+
+1,805
+
+2,142
+
+1,321
+
+1,862
+
+MNR
+
+EBIDA margin (%)
+
+N.A.
+
+15.50
+
+18.40
+
+12.50
+
+17.60
+
+15.80
+
+Excess revenues over expenses
+($000s)
+
+N.A.
+
+520
+
+869
+
+(199)
+
+572
+
+MNR
+
+Excess income margin (%)
+
+N.A.
+
+4.50
+
+7.40
+
+(1.90)
+
+5.40
+
+5.40
+
+Operating lease expense
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+MNR
+
+Lease-adjusted annual debt service
+coverage (x)
+
+N.A.
+
+2.05
+
+2.42
+
+1.21
+
+1.64
+
+MNR
+
+Lease-adjusted annual debt service
+burden (% total revenues)
+
+N.A.
+
+7.60
+
+7.60
+
+10.30
+
+10.70
+
+MNR
+
+Lease-adjusted annual debt service
+burden (% total expenses)
+
+N.A.
+
+7.90
+
+8.20
+
+10.10
+
+11.30
+
+MNR
+
+MADS ($000s)
+
+N.A.
+
+889
+
+894
+
+894
+
+894
+
+1,244
+
+Lease-adjusted MADS coverage (x)
+
+N.A.
+
+2.03
+
+2.40
+
+1.48
+
+2.08
+
+1.60
+
+Lease-adjusted MADS burden (% total
+revenues)
+
+N.A.
+
+7.60
+
+7.70
+
+8.40
+
+8.40
+
+11.10
+
+Lease-adjusted MADS burden (% total
+expenses)
+
+N.A.
+
+8.00
+
+8.30
+
+8.30
+
+8.90
+
+MNR
+
+Pro forma MADS ($000s)
+
+N.A.
+
+1,370
+
+1,331
+
+N.A.
+
+N.A.
+
+MNR
+
+Pro forma lease-adjusted MADS
+coverage (x)
+
+N.A.
+
+1.32
+
+1.61
+
+N.A.
+
+N.A.
+
+MNR
+
+Pro forma lease-adjusted MADS
+burden (% total revenues)
+
+N.A.
+
+11.80
+
+11.40
+
+N.A.
+
+N.A.
+
+MNR
+
+Pro forma lease-adjusted MADS
+burden (% total expenses)
+
+N.A.
+
+12.30
+
+12.30
+
+N.A.
+
+N.A.
+
+MNR
+
+Total revenue per student ($)
+
+N.A.
+
+14,781.7
+
+14,899.1
+
+13,593.1
+
+13,492.4
+
+MNR
+
+Days' cash on hand
+
+N.A.
+
+180.32
+
+163.50
+
+130.24
+
+118.64
+
+146.80
+
+Total long-term debt ($000s)
+
+N.A.
+
+14,365
+
+14,555
+
+14,685
+
+14,885
+
+MNR
+
+Unrestricted reserves to debt (%)
+
+N.A.
+
+35.90
+
+31.10
+
+24.60
+
+20.70
+
+25.90
+
+Unrestricted net assets as % of
+expenses
+
+N.A.
+
+51.50
+
+45.50
+
+38.20
+
+30.40
+
+31.70
+
+General fund balance ($000s)
+
+N.A.
+
+5,426
+
+4,824
+
+3,905
+
+3,526
+
+MNR
+
+Debt to capitalization (%)
+
+N.A.
+
+72.50
+
+75.70
+
+79.00
+
+83.40
+
+84.00
+
+Debt per student ($)
+
+N.A.
+
+18,159
+
+18,536
+
+18,881
+
+18,433
+
+13,975
+
+Waiting list as % of enrollment
+Financial performance
+
+Balance sheet metrics
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 8
+
+Community of Peace Academy, Minnesota; Charter Schools
+
+Community of Peace Academy, Minn.: Enterprise And Financial Statistics (cont.)
+Pro forma metrics
+Pro forma unrestricted reserves
+($000s)
+
+N.A.
+
+3,404
+
+3,342
+
+N.A.
+
+N.A.
+
+MNR
+
+Pro forma days' cash on hand
+
+N.A.
+
+118
+
+119
+
+N.A.
+
+N.A.
+
+MNR
+
+Pro forma long-term debt ($000s)
+
+N.A.
+
+21,515
+
+21,555
+
+14,685
+
+14,885
+
+MNR
+
+Pro forma unrestricted reserves to
+debt (%)
+
+N.A.
+
+15.80
+
+15.50
+
+N.A.
+
+N.A.
+
+MNR
+
+Pro forma debt to capitalization (%)
+
+N.A.
+
+80.00
+
+82.00
+
+79.00
+
+84.00
+
+MNR
+
+Pro forma debt per student ($)
+
+N.A.
+
+27,303
+
+27,529
+
+18,851
+
+18,938
+
+MNR
+
+N.A.--Not available. N/A--Not applicable. MNR--Median not reported. MADS--Maximum annual debt service. Operating lease expense--Annual
+amount paid in facilities/capital lease payments; excludes equipment/nonfacility lease payments and excludes payments related to principal and
+interest on bonds. Net revenue available for debt service = EBIDA. Lease-adjusted MADS coverage = (Net revenue available for debt service +
+operating lease expense) / (MADS + operating lease expense)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 10
+
+

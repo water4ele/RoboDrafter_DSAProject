@@ -1,0 +1,583 @@
+Continental Building Products Inc.
+Primary Credit Analyst:
+Kimberly M Garen, New York (1) 212-438-4615; kimberly.garen@spglobal.com
+Secondary Contact:
+Thomas J Nadramia, New York + 1 (212) 438 3944; thomas.nadramia@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 1
+
+Continental Building Products Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Low-cost manufacturing position, bolstered by close proximity to large
+East Coast housing markets.
+
+Small size (over $500 million in sales), limited product differentiation,
+and smaller manufacturing footprint compared to other building
+materials producer peers.
+
+Above-average EBITDA margins of close to 25%-30% that we expect to
+be sustained.
+
+Price follower, with limited ability to pass on any raw material price
+increases in the short term.
+
+Conservative financial policy of maintaining low debt leverage (1.1x as of
+June 30) to mitigate cyclical swings in wallboard demand and pricing
+during construction downturns.
+
+Approximately 55% of the sales are tied to cyclical new residential
+and non-residential construction markets, with the remainder driven
+by renovation markets.
+
+Continental Building Products Inc. (CBPX) is among the smaller players in the consolidated wallboard industry, but
+with a strong regional presence in the Eastern U.S. Although fairly consolidated, with seven companies accounting for
+nearly 100% of the wallboard business in the U.S., the gypsum wallboard industry remains largely a regional business.
+About 55% of the U.S wallboard market demand is concentrated to the east of the Mississippi river, which is CBPX's
+primary operating location, where it holds about 18% market share.
+We expect EBITDA margins to contract in 2019 before bouncing back in 2020. We expect CBPX's margins to face a
+decline of about 500-550 bps for FY 2019, primarily driven by a decline in the average sales price, due to heightened
+competition from manufacturers and distributors on account of soft demand from U.S construction markets. Margins
+have also seen pressure due to inflation in freight and labor costs. However, post-2019, we expect the margins to
+improve and stabilize in the 26%-27% range on price recovery coupled with realization of some benefits from the
+company's ongoing productivity and cost-savings initiatives. Still, we expect CBPX to have among the highest margins
+in the wallboard space, driven by efficient manufacturing operations and close proximity to markets.
+Prudent debt leverage levels provide financial flexibility in the event of cyclical downturn.We expect CBPX to maintain
+low S&P Global Ratings' adjusted debt to EBITDA below 1.5x over the next 12 months with leverage to continue to
+improve if construction markets in the U.S. remain stable. This will allow the company to withstand a moderate
+construction downturn while maintaining credit measures that support the current rating. It also provides financial
+flexibility to absorb additional debt if a moderate acquisition opportunity avails itself to the company.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 2
+
+Continental Building Products Inc.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that CBPX will achieve modest wallboard demand and
+pricing increases over the next year due to relatively stable housing starts and healthy repair and remodel
+spending. We believe this positive momentum will help the company produce steady to slightly increased earnings
+and maintain adjusted debt leverage of under 1.5x over the next 12 months.
+
+Downside scenario
+We do not believe a downgrade is likely within the next 12 months given our forecast for steady U.S. construction
+markets. However, we could lower the rating if adjusted debt leverage trends above 3x. This could occur if CBPX
+management adopted more aggressive financial policies--such as leveraged share repurchases or debt-financed
+acquisitions--or if U.S. housing softens with starts dipping well below 1 million, causing EBITDA to decline to
+levels that would push leverage above 3x. One scenario in which we believe this could occur is if wallboard
+volumes and prices both fell 10% due to a housing recession. S&P Global economists assess the risk of a recession
+at 25%-30%.
+
+Upside scenario
+Given CBPX's small size, limited geographic reach, and very narrow product focus, we view an upgrade as unlikely
+over the next year. For a higher rating, we believe CBPX would need to substantially increase its size and diversify
+its business. This could occur via a transformative acquisition that would expand the company's product and
+geographic diversity while decreasing the potential earnings volatility inherent in the wallboard business.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 3
+
+Continental Building Products Inc.
+
+Assumptions
+
+• Housing starts to increase by 8.3% to 1.3 million in
+fiscal 2019 compared to 1.2 million in fiscal 2018
+and remain flat in fiscal 2020.
+• U.S. GDP growth to slow in 2019 to 2.5%, from 2.9%
+in 2018, and to be approximately 1.8% in 2020.
+• Residential construction declines 1.3% in 2019 and
+then recovers by 1.8% in 2020, with U.S. housing
+starts of approximately 1.3 million annually.
+
+Key Metrics
+
+Debt to EBITDA
+
+2018A
+
+2019E
+
+2020E
+
+1.0x
+
+1.1x-1.4x
+
+0.6x-0.9x
+
+FFO to Debt
+
+78.7% 68%-73% 135%-140%
+
+FOCF/Debt
+
+81.20% 70%-75% 135%-140%
+
+FFO--Funds from operations. FOCF--Free operating
+cash flow. A--Actual. E--Estimate.
+
+• Low-single-digit percentage growth in repair and
+remodel spending;
+• A 7% decrease in average selling price of wallboard
+by the end of fiscal 2019;
+• We expect the company will maintain the modest
+capital expenditures (capex) of around $30 million
+annually over the next two years;
+• We forecast share repurchases of about $29
+million-$31 million in fiscal 2019 and about $20
+million-$22 million in fiscal 2020;
+• There are no annual dividends included in our
+assumptions over the next two years; and
+• We do not anticipate the company will make any
+large acquisitions over the next two years.
+
+Base-case projections
+Revenues to decline by about 5%-7% in 2019. We expect a revenue decline due to the fall in wallboard prices;
+however, we expect this to be partially offset by a low-single-digit increase in volumes, which is in line with the market
+growth. In 2020 we expect mid-single-digit top-line growth in line with improved starts, pricing recovery and repair
+and remodel stability.
+Adjusted EBITDA of about $110 million-$125 million for 2019 and $130 million-$145 million for 2020. We expect debt
+to EBITDA (after S&P Global Ratings' adjustments, including surplus cash and operating leases) of between 1.1x-1.4x
+by the end of 2019 and improving to about 0.6x to 0.9x by the end of 2020.
+Strong fresh cash flow. After the capex requirements, we expect about $60 million-$65 million of free cash flow in 2019
+and around $70 million-$75 million in 2020, which is sufficient to fund a majority of the share repurchases.
+
+Company Description
+CBPX manufactures and sells gypsum wallboard and complementary finishing products in the eastern U.S. and eastern
+Canada. The company sells its products to gypsum wallboard distributors, buying groups, wholesalers, and mass
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 4
+
+Continental Building Products Inc.
+
+merchants in the new residential, repair and remodel, and commercial construction markets. Gypsum wallboard is a
+primary building material used in new residential and commercial construction and repair and remodel. The company
+is headquartered in Herndon, Va.
+
+Business Risk: Fair
+CBPX is among the lowest-cost producers in the gypsum wallboard sector and has historically enjoyed some of the
+highest EBITDA margins compared to peers such as USG Corp. Unlike some of its peers, CBPX uses about 85%
+synthetic gypsum, which has the same chemical composition as naturally mined gypsum. However, the cost
+associated is almost half compared to that of natural gypsum on a per ton basis. Additionally, the company's plants are
+located near coal-fired power plants (which produce synthetic gypsum as a byproduct) as well as to its wallboard end
+markets. This provides the company a competitive advantage of lower transportation costs and inventory levels in
+both procuring raw materials and servicing its customers. While there seems to be ample availability despite utilities'
+recent switching from coal to natural gas-fired plants, there is still ample availability of synthetic gypsum, which CBPX
+has procured under long term supply agreements. However, CBPX has secured an additional supply of natural
+gypsum, which should act as an alternative to synthetic gypsum and is forecasted to 15% of the company's usage in
+fiscal 2019. The company's EBITDA margins of about 27% for the 12 months ending June 30, 2019, reflect the
+company's very low-cost manufacturing operations aided by cost-savings initiatives in the building materials space.
+Our assessment of CBPX's business recognizes that there is little to no product differentiation among wallboard
+producers. Wallboard is viewed largely as a commodity and is subject to stiff price competition. CBPX, given its
+smaller size compared to peers, often finds itself a price follower. However, we think the company offsets this
+disadvantage by being among the lowest-cost producers, being able to make above-market margins at nearly any price
+level.
+Wallboard has historically been subject to wide swings in demand and pricing tied to the construction cycle. This leads
+to high earnings volatility through business cycles. We expect some volatility in future earnings based on the
+choppiness of housing starts growth and CBPX's substantial exposure to the cyclical residential construction sector
+(38%) and commercial construction (17%), as well as the relatively stable repair and remodel market.
+
+Peer comparison
+Although gypsum wallboard remains a regional industry, due to the high weight-to-value ratio, consolidation in the
+industry has resulted in increased market share for the industry participants. Since 1997, CBPX's national market share
+has grown to 10% from 2%.
+However, the company competes against much larger and well capitalized players with scale, size, geographic, and
+manufacturing diversity as well as broader distribution. Some peers that operate in the space are Georgia-Pacific LLC
+(GP; A+/Stable/A-1+), Compagnie de Saint-Gobain (BBB/Stable/A-2), Eagle Materials Inc. (BBB/Watch Neg/--),
+Knauf Gips KG (unrated), and National Gypsum (unrated).
+Georgia-Pacific operates in three segments (consumer products, building products, and cellulose and pulp fiber) and is
+much larger in size and geographic breadth. GP's building products segment, which normally makes up about 25% of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 5
+
+Continental Building Products Inc.
+
+the company's revenues, is composed largely of wood products, lumber, oriented strand board, and interior and
+exterior sheathing products. Our assessment of GP's financial risk and policies reflects our forecast that leverage will
+continue to be under 2x and funds from operations (FFO) to debt will be 45% or higher for the next two years.
+Compagnie de Saint-Gobain operates out of Europe in three segments (innovative materials, construction products,
+and building material distribution) and is much larger in size and geographic breadth. Saint-Gobain's construction
+products segment is about 30% of consolidated net sales and includes plasterboard and plaster products, insulation,
+tile adhesives, industrial mortars, exterior products (roofing and siding), and ductile cast iron pipes. Although the
+company's adjusted EBITDA margins are average by industry standard at about 11%, they have exhibited low
+volatility. We expect FFO to debt between 25%-30% and leverage between 2.9x-3.1x over the next two years.
+Additionally, the company has the ability to generate significant free operating cash flow (FOCF) and has exceeded €1
+billion on average over 2011-2018.
+Knauf Gips KG, the Germany-based building products manufacturer is unrated and is the owner of USG, the largest
+wallboard manufacturer in the industry with about 26% share.
+Eagle Materials benefits from a strong distribution network and is able to command and sustain higher margins due to
+its low-cost position in wallboard supported through its vertical integration of its recycled paperboard facility. The
+company remains on CreditWatch Negative following its decision to separate its heavy materials (cement) and light
+materials (wallboard/paper) businesses into two independent, publicly traded corporations. For the 12 months ended
+March 31, 2019, the company's heavy materials and light materials segments each generated about $700 million of
+revenue, and EBITDA of about $215 million and $265 million, respectively. Eagle has a narrow focus on high-margin
+products that generate superior returns relative to other building material-producing peers, with EBITDA margins
+above 30% and operated with debt to EBITDA between 1x-2x.
+
+Financial Risk: Intermediate
+Based on our forecast, we expect the debt/EBITDA leverage to increase to between 1.1x and 1.4x by end of 2019 from
+1.0x in 2018, and we expect EBITDA interest coverage to fall to about 11x by the end of 2019 from about 15x in 2018.
+This is based on our expectations of lower EBITDA generation for the company, driven by lower average prices
+because of heightened competition coupled with soft macroeconomic conditions. Post-2019, we expect leverage to be
+less than 1x as prices and demand recover, and EBITDA interest coverage around 11x. We believe these metrics to be
+prudent given the history of large declines in wallboard demand and pricing during recessions.
+In addition, we expect the company to continue to generate solid free cash flows of about $60 million-$75 million
+annually in 2019 and 2020, providing for potential debt reduction, acquisitions, or share repurchases.
+As of June 30, 2019, the company had $126 million of availability under its $300 million share repurchases program.
+We expect the company will make annual share repurchases of about $29 million-$31 million in 2019 and about $20
+million-$22 million for the subsequent year, while maintaining leverage within our expected range.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 6
+
+Continental Building Products Inc.
+
+Liquidity: Strong
+Given our expectations for positive operating performance and cash flow, we view CBPX's liquidity as strong, based on
+the following observations and estimates:
+• An expectation that liquidity sources (including availability under the company's $75 million revolving credit facility)
+will exceed uses by at least 3.14x for the next 12 months and at least 3.95x for the subsequent 12 months.
+• An expectation that sources would continue to exceed uses even if EBITDA were to decline by 30%.
+• Our view that the company would continue to exceed the availability threshold under its credit facility, even in the
+event of a 30% drop in EBITDA.
+• In addition, our liquidity assessment incorporates the company's well-established and solid relationship with banks,
+its prudent financial risk management, the long-dated maturity on its sole debt, a $275 million bank term loan due in
+2023, and ample room under a 5x maximum leverage covenant.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About $110 million of cash and cash equivalents as
+of June 30, 2019.
+
+• No material near-term maturity.
+
+• Availability of about $74 revolving credit facilities
+due in 2023 as of June 30, 2019.
+• About $95 million-$98 million and $100 million-$110
+million of FFO in 2019 and 2020, respectively.
+
+• Seasonal working capital requirement of $25 million
+per year.
+• Capital spending of about $30 million annually over
+the next 24 months.
+• Share repurchases of about $29 million-$31 million
+in fiscal 2019 and about $20 million-$22 million in
+fiscal 2020.
+
+Debt maturities
+• $275 million senior secured first-lien term loan facility matures on Aug. 18, 2023;
+• $75 million senior secured revolving credit facility matures on Aug. 18, 2021.
+
+Covenant Analysis
+The company must comply with a maximum net leverage covenant of 5x if outstanding borrowings of the revolver
+plus outstanding letters of credit are greater than $22.5 million as of the end of a given quarter.
+The sum of outstanding borrowings under the revolver and outstanding letters of credit were less than $22.5 million at
+June 30, 2019, and therefore the financial covenant was not applicable.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 7
+
+Continental Building Products Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The capital structure consists of a $75 million senior secured revolving credit facility due 2021; a $275 million
+first-lien senior secured term loan due 2023, and $28 million industrial revenue bonds due in 2025.
+• For purposes of our default scenario, we assumed aggregate borrowings of about $64 million under the ABL facility,
+representing 60% usage of the $75 million commitment.
+• We assess recovery prospects based on a reorganization value of about $331 million.
+• Our simulated default scenario contemplates a default in 2024, primarily reflecting a combination of a severe
+decrease in volume and price, higher operating costs, and greater competition in the U.S. wallboard industry during
+a period of greatly decreased housing starts.
+
+Simulated default assumptions
+• Year of default: 2024
+• EBITDA at emergence: $66 million
+• Implied enterprise value EV: 5x (in line with building products companies)
+• Gross EV: $331 million.
+
+Simplified waterfall
+• Net EV (post 5% administrative costs): $315 million.
+• Estimated senior secured credit facilities claims: $325 million.
+• Recovery expectations: 90%-100%; rounded estimate: 95%.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bb+
+Modifiers
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 8
+
+Continental Building Products Inc.
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bb
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Building Materials Industry, Dec. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 23, 2019)*
+Continental Building Products Inc.
+Issuer Credit Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BB/Stable/--
+
+SEPTEMBER 23, 2019 9
+
+Continental Building Products Inc.
+
+Ratings Detail (As Of September 23, 2019)*(cont.)
+Issuer Credit Ratings History
+31-Jul-2017
+
+BB/Stable/--
+
+25-Jul-2016
+
+BB-/Positive/--
+
+02-Jul-2015
+
+BB-/Stable/--
+
+Related Entities
+Continental Building Products Canada Inc.
+Senior Secured
+
+BBB-
+
+Continental Building Products Operating Company, LLC
+Senior Secured
+
+BBB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 11
+
+

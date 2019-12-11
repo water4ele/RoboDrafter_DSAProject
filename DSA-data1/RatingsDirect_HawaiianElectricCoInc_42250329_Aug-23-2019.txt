@@ -1,0 +1,1461 @@
+Hawaiian Electric Co. Inc.
+Primary Credit Analyst:
+Andrew Ng, Toronto + 1 (416) 507 2545; andrew.ng@spglobal.com
+Secondary Contacts:
+Gabe Grosberg, New York (1) 212-438-6043; gabe.grosberg@spglobal.com
+Obioma Ugboaja, New York + 1 (212) 438 7406; obioma.ugboaja@spglobal.com
+Matthew L O'Neill, New York (1) 212-438-4295; matthew.oneill@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Environmental, Social, And Governance
+Group Influence
+Ratings Score Snapshot
+Issue Ratings–Subordination Risk Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 1
+
+Table Of Contents (cont.)
+Reconciliation
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 2
+
+Hawaiian Electric Co. Inc.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb-
+
+bbbBBB-/Stable/A-3
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key weaknesses
+
+Lower-risk, rate-regulated, and vertically integrated electric utility.
+
+Relatively small customer base with limited geographic and
+regulatory diversity.
+
+Financial measures that are consistent with the range for the company’s
+financial risk profile category.
+
+Lack of connectivity to the continental U.S. electric grid.
+
+On track to meeting robust renewable portfolio standard (RPS) goals in
+Hawaii as the company’s utility subsidiaries transition away from their
+oil-based generation portfolio to renewables.
+
+Historically challenging regulatory environment in Hawaii for its
+utility subsidiaries, as reflected by significant delays for rate case
+orders, leading to regulatory lag.
+
+Despite a historically challenging regulatory environment that has led to significant regulatory lag, the company has
+been gradually reducing regulatory delay. The company has been gradually improving its management of regulatory
+risk, capitalizing on its timely rate case filings and effective use of regulatory mechanisms. We expect the company to
+continue to narrow the gap between earned and allowed returns on equity.
+Hawaii has an aggressive 100% renewable energy by 2045 Renewables Portfolio Standard (RPS) goal.The company
+has made strong progress toward Hawaii's renewable energy goals, with about 27% of its portfolio from renewables as
+of year-end 2018. The company's ability to meet these standards in a timely manner, without any meaningful
+detriment to its financial or business risk profiles, is key to maintaining our rating on the company.
+Performance-based regulation (PBR) in Hawaii is in its early stages. Under our base case, we expect that the proposed
+framework, as it comes to fruition, will ultimately be implemented in a credit-supportive and gradual manner.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 3
+
+Hawaiian Electric Co. Inc.
+
+Outlook: Stable
+
+The stable outlook on Hawaiian Electric Co. Inc. (HECO) reflects that of its parent, Hawaii Electric Industries Inc.
+(HEI), because we consider HECO as a core entity to HEI under our group rating methodology and as such we
+equalize the ratings on HECO with those of HEI.
+The stable outlook on HEI reflects S&P Global Ratings' view that the parent holdco will continue to focus on its
+regulated utility operation, through subsidiary HECO, and to effectively manage regulatory risk while maintaining
+stable financial measures with consolidated funds from operations (FFO) to debt of 15%-17%. We expect that HEI
+will continue to benefit from the decoupling framework in place while striving to work effectively with the utility
+regulator to increase the contribution of renewable energy in its portfolio without increasing business risk or
+compromising its financial integrity.
+
+Downside scenario
+We could lower the ratings on HECO over the next 12 to 24 months if the company's business risk increases due to
+regulatory developments that complicate the company's ability to fully recover its invested capital or due to an
+inability to deliver timely and on-budget performance for large projects, leading to weaker financial performance.
+We could also lower the rating if parent HEI's consolidated financial measures weaken, reflecting FFO to debt
+consistently below 13%.
+
+Upside scenario
+We could raise the ratings on HECO over the next 12-24 months if parent HEI's consolidated FFO to debt
+improves to 21%-23%, reflecting the higher end of the range for its financial risk profile category.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• Continued electric rate case filings and use of
+existing regulatory mechanisms;
+
+2018A 2019E 2020E
+FFO to debt (%)
+
+• Effective utilization of the decoupling framework
+that offsets growing distributed generation growth in
+its service territories;
+• Capital spending averaging about $450 million
+annually;
+
+17.8
+
+16-18
+
+16-18
+
+Debt to EBITDA (x)
+
+4.1
+
+4-5
+
+4-5
+
+FFO interest coverage (x)
+
+4.7
+
+4-5
+
+4-5
+
+*A--Actual. E--Estimated. FFO--Funds from operations.
+
+• Dividend payments of about $100 million annually;
+and
+• Negative discretionary cash flows.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 4
+
+Hawaiian Electric Co. Inc.
+
+Company Description
+Hawaiian Electric Co. Inc. (HECO) operates as a subsidiary of Hawaiian Electric Industries Inc. (HEI). HECO and its
+subsidiaries, Hawaii Electric Light Co. Inc. (HELCO) and Maui Electric Co. Ltd. (MECO), engage in the production,
+purchase, transmission, and distribution of electricity across the state of Hawaii, excluding the island of Kauai. HECO
+and its subsidiaries have a net generation capacity of about 2,220 megawatts (MW). HECO and the subsidiaries
+represent about 80% of HEI's consolidated EBITDA.
+
+Business Risk: Strong
+Our assessment of HECO's business risk continues to reflect the utility's lower-risk, rate-regulated, and vertically
+integrated electric utility business as well as its management of regulatory risk that is consistent with peers.
+The Hawaii Public Utilities Commission (HPUC) regulates HECO. The regulatory environment in Hawaii has been
+somewhat challenging, with significant regulatory lag as the rate case duration often lasts more than two years.
+However, the company has been gradually improving its management of regulatory risk and has been slowly
+narrowing the gap between its earned and allowed returns on equity through regular rate case filings and the use of
+many constructive regulatory mechanisms. In 2018, the company received a final rate decrease of about $600,000 at
+HECO, a final rate decrease of about $100,000 at HELCO, and a final rate increase of about $12.5 million at MECO,
+incorporating the effects of tax reform. Currently, the company is requesting a $13.4 million rate increase at HELCO.
+Overall, we assess HECO's management of regulatory risk as consistent with peers.
+HECO continues to benefit from the use of several constructive regulatory mechanisms including: a sales decoupling
+mechanism, revenue adjustment mechanism, major projects cost adjustment mechanism, energy cost and purchased
+power adjustment mechanism, a pension and post-retirement welfare benefit tracker, and a renewable energy
+infrastructure surcharge. In addition, the company recently received approval from the HPUC for the first phase of its
+grid modernization plan. Currently, approximately 17% of HECO customers have installed distributed generation, the
+highest in the U.S. While the regulatory mechanisms partially mitigate some of the company's revenue risks associated
+with distributed generation, continued high distributed generation growth could challenge the company's ability to
+effectively manage the grid over the longer term.
+Our business risk also reflects HECO's relatively small customer base and limited geographic diversity. The utility
+serves about 460,000 electric customers spanning across the islands of Oahu, Hawaii, Maui, Lanai, and Molokai.
+HECO's location and isolation to the continental U.S. exposure the utility to weather- and economic-related risks.
+However, the utility has a relatively diverse economy with a stable real estate market and large military presence. In
+addition, Hawaii's economy is not solely dependent on the tourism industry compared with the past and the sector
+accounts for only about 17% of Hawaii's state GDP, which partially mitigates the economic risks. Furthermore, the
+utility has invested about $1.5 billion over the past seven years to upgrade and strengthen its infrastructure to partially
+mitigate potential damages from natural disasters. Overall, we assess the company at the lower end of the range of its
+business risk profile category compared to peers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 5
+
+Hawaiian Electric Co. Inc.
+
+Table 1
+
+Hawaiian Electric Co. Inc.--Peer Comparison
+Industry Sector: Electric
+
+Ratings as of Aug. 12, 2019
+
+Hawaiian Electric Co.
+Inc.
+
+PNM Resources Inc.
+
+Portland General Electric
+Co.
+
+Avista Corp.
+
+BBB-/Stable/A-3
+
+BBB+/Negative/--
+
+BBB+/Positive/A-2
+
+BBB/Stable/A-2
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+2,546.5
+
+1,436.6
+
+1,991.0
+
+1,396.9
+
+EBITDA
+
+535.0
+
+559.6
+
+767.2
+
+474.5
+
+FFO
+
+395.0
+
+428.9
+
+589.0
+
+350.2
+
+Interest expense
+
+102.7
+
+166.4
+
+168.2
+
+109.9
+
+Cash interest paid
+
+107.0
+
+129.9
+
+153.2
+
+109.5
+
+Cash flow from operations
+
+419.7
+
+447.0
+
+645.0
+
+369.7
+
+Capital expenditure
+
+467.9
+
+500.6
+
+610.7
+
+431.0
+
+Free operating cash flow
+
+(48.1)
+
+(53.6)
+
+34.3
+
+(61.3)
+
+Discretionary cash flow
+
+(151.5)
+
+(151.0)
+
+(90.7)
+
+(159.3)
+
+35.9
+
+2.1
+
+119.0
+
+14.7
+
+Debt
+
+2,218.5
+
+3,129.5
+
+3,127.9
+
+2,463.1
+
+Equity
+
+1,974.8
+
+1,758.4
+
+2,506.0
+
+1,774.0
+
+EBITDA margin (%)
+
+21.0
+
+39.0
+
+38.5
+
+34.0
+
+Return on capital (%)
+
+6.8
+
+5.7
+
+7.0
+
+6.7
+
+EBITDA interest coverage (x)
+
+5.2
+
+3.4
+
+4.6
+
+4.3
+
+FFO cash interest coverage (x)
+
+4.7
+
+4.3
+
+4.8
+
+4.2
+
+Debt/EBITDA (x)
+
+4.1
+
+5.6
+
+4.1
+
+5.2
+
+FFO/debt (%)
+
+17.8
+
+13.7
+
+18.8
+
+14.2
+
+Cash flow from
+operations/debt (%)
+
+18.9
+
+14.3
+
+20.6
+
+15.0
+
+Free operating cash flow/debt
+(%)
+
+(2.2)
+
+(1.7)
+
+1.1
+
+(2.5)
+
+Discretionary cash flow/debt
+(%)
+
+(6.8)
+
+(4.8)
+
+(2.9)
+
+(6.5)
+
+Cash and short-term
+investments
+
+Adjusted ratios
+
+Source: S&P Global Ratings.
+
+Financial Risk: Significant
+We assess HECO's financial risk profile using our medial volatility table. This reflects the company's lower-risk, fully
+regulated utility operations and management of regulatory risk that is consistent with peers. Under our base-case
+scenario of elevated capital spending averaging about $450 million annually, dividends of about $100 million annually,
+continued rate case filings, and use of constructive regulatory mechanisms, we expect HECO's financial measures will
+consistently reflect the middle of the range of its financial risk profile. Specifically, we expect FFO to debt to be about
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 6
+
+Hawaiian Electric Co. Inc.
+
+16%-19%.
+Table 2
+
+Hawaiian Electric Co. Inc.--Financial Summary
+Industry Sector: Electric
+--Fiscal year ended Dec. 31-2018
+Rating history
+
+2017
+
+2016
+
+2015
+
+2014
+
+BBB-/Stable/A-3 BBB-/Stable/A-3 BBB-/Watch Pos/A-3
+
+BBB-/Watch Pos/A-3
+
+BBB-/Stable/A-3
+
+(Mil. $)
+Revenue
+
+2,546.5
+
+2,257.6
+
+2,094.4
+
+2,335.2
+
+2,987.3
+
+EBITDA
+
+535.0
+
+507.9
+
+536.6
+
+477.8
+
+487.7
+
+FFO
+
+395.0
+
+382.8
+
+457.5
+
+390.6
+
+404.6
+
+Interest expense
+
+102.7
+
+101.1
+
+99.8
+
+89.2
+
+88.1
+
+Cash interest paid
+
+107.0
+
+99.2
+
+98.1
+
+86.3
+
+85.1
+
+Cash flow from operations
+
+419.7
+
+363.6
+
+405.2
+
+356.2
+
+307.5
+
+Capital expenditure
+
+467.9
+
+464.8
+
+350.2
+
+367.9
+
+329.2
+
+Free operating cash flow
+
+(48.1)
+
+(101.1)
+
+55.0
+
+(11.7)
+
+(21.7)
+
+Discretionary cash flow
+
+(151.5)
+
+(189.0)
+
+(38.7)
+
+(102.2)
+
+(111.9)
+
+Cash and short-term investments
+
+35.9
+
+12.5
+
+74.3
+
+24.4
+
+13.8
+
+Gross available cash
+
+35.9
+
+12.5
+
+74.3
+
+24.4
+
+13.8
+
+Debt
+
+2,218.5
+
+2,200.7
+
+2,127.7
+
+1,965.8
+
+1,905.5
+
+Equity
+
+1,974.8
+
+1,862.4
+
+1,816.9
+
+1,745.5
+
+1,724.3
+
+EBITDA margin (%)
+
+21.0
+
+22.5
+
+25.6
+
+20.5
+
+16.3
+
+Return on capital (%)
+
+6.8
+
+7.1
+
+8.1
+
+7.7
+
+8.7
+
+EBITDA interest coverage (x)
+
+5.2
+
+5.0
+
+5.4
+
+5.4
+
+5.5
+
+FFO cash interest coverage (x)
+
+4.7
+
+4.9
+
+5.7
+
+5.5
+
+5.8
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.1
+
+4.3
+
+4.0
+
+4.1
+
+3.9
+
+FFO/debt (%)
+
+17.8
+
+17.4
+
+21.5
+
+19.9
+
+21.2
+
+Cash flow from operations/debt (%)
+
+18.9
+
+16.5
+
+19.0
+
+18.1
+
+16.1
+
+Free operating cash flow/debt (%)
+
+(2.2)
+
+(4.6)
+
+2.6
+
+(0.6)
+
+(1.1)
+
+Discretionary cash flow/debt (%)
+
+(6.8)
+
+(8.6)
+
+(1.8)
+
+(5.2)
+
+(5.9)
+
+FFO--Funds from operations. Source: S&P Global Ratings.
+
+Liquidity: Adequate
+HECO has adequate liquidity, in our view, and can more than cover its needs for the next 12 months even if EBITDA
+declines by 10%. We expect the company's liquidity sources will exceed uses by more than 1.1x over the next 12
+months, which is the minimum threshold for this liquidity assessment under our criteria. Under our stress scenario, we
+do not expect the company would require access to the capital markets during that period to meet liquidity needs. Our
+assessment also reflects the company's stable cash flow generation, generally prudent risk management, sound
+relationships with banks, and a generally satisfactory standing in the credit markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 7
+
+Hawaiian Electric Co. Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• FFO of about $400 million;
+
+• Long-term debt maturities of about $100 in 2020;
+
+• Credit facility availability of about $200 million; and
+
+• Capital spending of about $450 million; and
+
+• Minimal cash on hand.
+
+• Dividend payments of about $100 million.
+
+Other Credit Considerations
+Our ratings on HECO include a one-notch downward adjustment to reflect the utility's relatively small size and
+exposure to weather- and economic-related risks. While the company has taken significant steps to harden its systems
+and HECO's service territory remains strategically important to the U.S. as evidenced by the large military bases within
+its service territory, the company's geographic isolation from the rest of the U.S. mainland and its its lack of
+connectivity from the continental U.S. electric grid heightens risks for HECO compared to peers.
+
+Environmental, Social, And Governance
+
+HEI utilities' dependence on fossil fuel generation exposes the company to significant environmental risks with
+about 70% of the net energy HEI utilities' generate or purchase coming from fossil fuel. However, the company is
+slowly reducing its carbon footprint as mandated by Hawaii's RPS program where electric utility operators,
+including HEI, need to achieve 100% renewable electrical energy sales by 2045. HEI utilities' RPS for year-end
+2018 was about 27% compared to only about 10% in 2010, which sets the utilities on track to meet the 30% by
+2020 RPS, and the company has reduced its greenhouse gas emissions by about 20% compared to 2010. The
+company's ability to meet these standards in a timely manner, without any meaningful detriment to its credit
+profile, is essential in preserving our rating on the company.
+From a social perspective, the company's high dependence on oil has led to abrupt spikes in power prices in the
+past and is the main driver of the relatively high customer bills in Hawaii. As the company transitions to more
+renewables and less dependence on oil, we expect this will translate to lower costs per kWh energy and less
+volatility in customer bills. In addition, Hawaii is exposed to hurricanes and tropical storms that may cause service
+disruption. The company has made significant efforts over the past decade to harden the grid in the form of
+equipment reinforcement, pole replacement, as well as expanded tree trimming to increase reliability and safety.
+
+Group Influence
+We assess HECO as a core subsidiary of its parent, Hawaiian Electric Industries Inc. (HEI), reflecting our view that it is
+highly unlikely to be sold, is integral to the overall group strategy, possesses a strong long-term commitment from
+senior management, and is closely linked to the parent's name and reputation. Our issuer credit rating on HECO is in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 8
+
+Hawaiian Electric Co. Inc.
+
+line with our 'BBB-' issuer credit rating on HEI.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/A-3
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Very low
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bbb-
+
+• Group credit profile: bbb• Entity status within group: Core (no impact)
+
+Issue Ratings–Subordination Risk Analysis
+• HECO's senior unsecured debt rating is 'BBB-', the same as the issuer credit rating, because it is unsecured debt of a
+qualifying investment-grade regulated utility.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 9
+
+Hawaiian Electric Co. Inc.
+
+Table 3
+
+Reconciliation Of Hawaiian Electric Co. Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Fiscal year ended Dec. 31, 2018-Hawaiian Electric Co. Inc. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P
+Adjusted
+EBITDA
+
+1,991.9
+
+445.3
+
+241.7
+
+68.5
+
+535.0
+
+393.6
+
+104.4
+
+445.9
+
+Debt
+
+Shareholders'
+equity
+
+1,443.8
+
+Cash flow
+from
+operations Dividends
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(33.0)
+
+--
+
+--
+
+--
+
+Cash taxes paid Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(73.0)
+
+--
+
+--
+
+--
+
+Operating leases
+
+20.5
+
+--
+
+7.5
+
+2.4
+
+2.4
+
+(2.4)
+
+5.1
+
+--
+
+--
+
+Intermediate hybrids
+reported as equity
+
+17.1
+
+(17.1)
+
+--
+
+--
+
+1.0
+
+(1.0)
+
+(1.0)
+
+(1.0)
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+398.8
+
+--
+
+19.1
+
+19.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(35.9)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+4.9
+
+(4.9)
+
+(4.9)
+
+--
+
+(4.9)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+2.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Power purchase
+agreements
+
+367.5
+
+--
+
+52.6
+
+25.7
+
+25.7
+
+(25.7)
+
+26.9
+
+--
+
+26.9
+
+Asset retirement
+obligations
+
+6.7
+
+--
+
+0.3
+
+0.3
+
+0.3
+
+--
+
+--
+
+--
+
+--
+
+Non-operating
+income (expense)
+
+--
+
+--
+
+--
+
+10.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA - Other
+
+--
+
+--
+
+7.5
+
+7.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+D&A - Other
+
+--
+
+--
+
+--
+
+(26.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+774.7
+
+(17.1)
+
+89.7
+
+39.3
+
+34.3
+
+(140.0)
+
+26.1
+
+(1.0)
+
+22.0
+
+Funds
+from
+operations
+
+Cash flow
+from Dividends
+operations
+paid
+
+Capital
+expenditure
+
+395.0
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+2,218.5
+
+1,974.8
+
+535.0
+
+280.9
+
+102.7
+
+419.7
+
+103.4
+
+467.9
+
+Source: S&P Global Ratings.
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 10
+
+Hawaiian Electric Co. Inc.
+
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+Strong
+Satisfactory
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Fair
+
+Ratings Detail (As Of August 15, 2019)*
+Hawaiian Electric Co. Inc.
+Issuer Credit Rating
+
+BBB-/Stable/A-3
+
+Commercial Paper
+Local Currency
+
+A-3
+
+Issuer Credit Ratings History
+19-Jul-2016
+
+BBB-/Stable/A-3
+
+04-Dec-2014
+
+BBB-/Watch Pos/A-3
+
+15-Nov-2010
+
+BBB-/Stable/A-3
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 12
+
+

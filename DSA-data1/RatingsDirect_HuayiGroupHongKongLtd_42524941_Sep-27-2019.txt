@@ -1,0 +1,351 @@
+Huayi Group (Hong Kong) Ltd.
+Primary Credit Analyst:
+Calvin Ge, Hong Kong (852) 2533-3560; calvin.ge@spglobal.com
+Secondary Contact:
+Ronald Cheng, Hong Kong (852) 2532-8015; ronald.cheng@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Company Description
+Business Risk
+Financial Risk
+Group Influence
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Huayi Group (Hong Kong) Ltd.
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+BBB-/Stable/--
+
+b-
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Potential support from parent in terms of liquidity and capital injection. High leverage due to its role as the parent's offshore financing platform.
+
+Will remain Shanghai Huayi (Group) Co.'s (BBB/Stable/--) only offshore financing platform. Huayi Group (Hong
+Kong) Ltd. (BBB-/Stable/--) provides guarantee to the group's offshore-issued U.S.-dollar-denominated notes and we
+expect Huayi HK to maintain this role. We expect Huayi HK's actual business operations to remain small.
+
+Outlook: Stable
+
+The stable outlook on Huayi HK reflects the stable outlook on Shanghai Huayi, as well as our view that Huayi HK
+will remain a highly strategic subsidiary of the group in the next 24 months.
+
+Downside scenario
+We may lower the rating if we downgrade Shanghai Huayi. We may also lower the rating if we believe Huayi HK's
+strategic importance to the group weakens.
+
+Upside scenario
+We may raise the rating if we upgrade Shanghai Huayi, or if Huayi HK's strategic importance or financial
+contribution to the group becomes significant so that we assess it to be a core subsidiary.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Huayi Group (Hong Kong) Ltd.
+
+Company Description
+Huayi HK is incorporated in Hong Kong and is a subsidiary of Shanghai Huayi. Huayi HK provides irrevocable and
+unconditional guarantee to the group's offshore-issued U.S.-dollar notes.
+
+Business Risk: Vulnerable
+The company is fully integrated with Shanghai Huayi and has minimal business operations. Besides being the only
+offshore financial platform of the group, Huayi HK also handles a small portion of the group's export activities. We
+expect the company to maintain its function as the group's only offshore financing platform going forward.
+
+Financial Risk: Highly leveraged
+We expect Huayi HK to remain highly leveraged, given its role as an offshore financing platform with minimal business
+operations.
+
+Group Influence
+We assess Huayi HK as a highly strategic subsidiary of Shanghai Huayi, thus placing its rating one notch below that on
+Shanghai Huayi. Huayi HK is fully integrated into Shanghai Huayi strategically, financially, and operationally. It
+functions as the group's only offshore financing platform and also handles part of the group's export activities.
+However, given limited financial contribution, we view Huayi HK as a highly strategic rather than core subsidiary.
+We do not consider a keepwell agreement and an undertaking for an equity interest purchase between Shanghai Huayi
+and Huayi HK as guarantees even though the arrangement demonstrates strong parental support. A keepwell
+agreement is a contract between a parent company and a subsidiary to maintain solvency and financial backing
+throughout a set term. It differs from a legally binding guarantee, in our view.
+
+Government Influence
+We believe Shanghai Huayi has moderately high likelihood of receiving extraordinary support from its ultimate
+shareholder, Shanghai government. We expect government support to be able to extend to Huayi HK through
+Shanghai Huayi in the event of a financial distress.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of Dec. 31, 2018, Huayi HK's capital structure consists of US$350 million in outstanding senior unsecured notes
+guaranteed by Huayi HK, as well as US$169 million in borrowings at the subsidiaries level.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Huayi Group (Hong Kong) Ltd.
+
+Analytical conclusions
+We equalize the 'BBB-' rating on the outstanding senior unsecured notes guaranteed by Huayi HK with the issuer
+credit rating on Huayi HK. As the priority debt ratio is below 50%, our issue notching down threshold, we do not
+expect the noteholders to be structurally subordinated to other senior unsecured lenders.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Vulnerable
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Vulnerable
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+• Group credit profile: bbb
+• Entity status within group: Highly strategic (+6 notches from SACP)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Huayi Group (Hong Kong) Ltd.
+
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+Huayi Group (Hong Kong) Ltd.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+19-Sep-2019
+
+BBB-/Stable/--
+
+06-Jun-2019
+
+BB+/Positive/--
+
+29-Sep-2017
+
+BB+/Stable/--
+
+12-May-2016
+
+BB+/Negative/--
+
+29-Sep-2015
+
+BBB-/Negative/--
+
+17-Nov-2014
+
+BBB-/Stable/--
+
+Related Entities
+Shanghai Huayi (Group) Co.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+

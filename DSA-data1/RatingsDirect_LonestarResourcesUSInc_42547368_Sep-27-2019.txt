@@ -1,0 +1,498 @@
+Lonestar Resources U.S. Inc.
+Primary Credit Analyst:
+David Lagasse, New York + 1 (212) 438 1203; david.lagasse@spglobal.com
+Secondary Contact:
+Paul B Harvey, New York (1) 212-438-7696; paul.harvey@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Lonestar Resources U.S. Inc.
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+High liquids component of production boosts profitability.
+
+Smaller production and reserve size compared to peers.
+
+Highly competitive cost structure compared to peers.
+
+Geographically concentrated in the Eagle Ford basin.
+
+Strong hedges in place for the remainder of 2019 and 2020 provide for cash flow
+visibility.
+
+Our expectation of negative free cash flow in 2019.
+
+Outlook: Stable
+
+The stable outlook on Lonestar reflects our expectation that the company will grow reserves and production while
+maintaining appropriate financial measures for the rating, including funds from operations (FFO) to debt above
+12% as well as adequate liquidity.
+
+Downside scenario
+We could lower the rating if Lonestar's FFO to debt fell below 12% for a prolonged period and/or liquidity
+weakened. Both are likely to occur if the company's operational performance declines or it finances a large
+acquisition with debt. Additionally, if crude oil and natural gas prices fall below $40/bbl and $2.50/mcf,
+respectively, financial measures could approach unsustainable levels.
+
+Upside scenario
+We could raise the rating if Lonestar increased its production and reserves to levels more consistent with that of its
+'B' rated peers while achieving FFO to debt of more than 20%. This would likely occur through continued
+development and growth of its reserve base, sustained crude oil process of more than $65/bbl, and the decision to
+keep debt balances at current levels.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Lonestar Resources U.S. Inc.
+
+Our Base-Case Scenario
+• We expect production growth of 30% to 35% in 2019 and around 20% in 2020.
+• Hedges on a material amount of production (80%-90% of 2020 expected production) provide for cash flow visibility.
+• Credit measures weaken compared to 2018 due to higher debt levels but improve in 2020 on lower capital
+expenditures and increased production and EBITDA growth.
+
+Assumptions
+
+• S&P Global Ratings' price deck assumptions for
+West Texas Intermediate (WTI) crude oil of $55 bbl
+for the remainder of 2019 and thereafter;
+• S&P Global Ratings' price deck assumptions for
+Henry Hub natural gas of $2.25 per million British
+thermal unit (mmBtu) for the remainder of 2019,
+$2.50 mmBtu for 2020, $2.75 per mmBtu for 2021,
+and $3.00 per mmBtu thereafter.
+
+Key Metrics
+
+2018A
+
+2019E 2020E
+
+Debt to EBITDA (x)
+
+3.5
+
+3.5-4
+
+3-3.5
+
+FFO to debt (%)
+
+23
+
+15-20
+
+20-25
+
+(19.5) (10)-(5)
+
+(5)-5
+
+FOCF to debt (%)
+
+A—Actual. E—Estimate. FFO—Funds from
+operations. FOCF—Free operating cash flow.
+
+• Capital expenditures in the range of $125 million to
+$135 million in 2019, reducing slightly in 2020.
+• Average daily production of 14,800 boe/d to 15,000
+boe/d in 2019. We expect 2020 production growth
+of about 20% from 2019 levels.
+• Hedges per company guidance.
+
+Company Description
+Headquartered in Texas, Lonestar is an independent oil and gas exploration and production (E&P) company operating
+in the Eagle Ford basin in South Texas. Lonestar had a proved reserve base of 92.1 million boe as of Dec. 31, 2018.
+
+Business Risk: Vulnerable
+Lonestar has a small production and reserve base and is geographically concentrated in the Eagle Ford basin.
+Production is among the lowest of our rated E&P companies, with a sizeable portion of undeveloped reserves (about
+70% at year-end 2018) requiring significant capital spending to develop. These weaknesses are somewhat offset by the
+company's significant exposure to liquids production, which is more profitable than natural gas.
+Lonestar has a small but growing reserve base as of year-end 2018 with approximately 92 million boe located in its
+about 57,000 net acreage position in the Eagle Ford basin. We view the lack of geographic diversity unfavorably, as it
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Lonestar Resources U.S. Inc.
+
+exposes cash flows to basin regulations and operating conditions. As of Dec. 31, 2018 the company's reserve base is
+approximately 57% oil and about 80% liquids. We expect Lonestar to have production growth of 30% to 35% in 2019
+with additional growth of about 20% in 2020 while reducing capital expenditures more in line with cash flow. We
+expect liquids production to be about 70% to 75% of total production. We expect operating lease expenses of about
+$6/boe to $7/boe in 2019.
+The second quarter results showed a significant increase in production to 13,630 boe/d, an increase of 22% that
+exceeded management's guidance. Production mix in the quarter was about 57% oil, 21% NGLs and 22% natural gas,
+about in line with production mix in the second quarter of 2018. Adjusted EBITDAX improved 15% to $33.5 million
+and again exceeded Lonestar's guidance. We expect 2020 production growth of about 20% on moderating capital
+expenditures and cash flow neutrality depending on commodity prices.
+
+Peer comparison
+Lonestar is smaller in terms of production and reserves than similarly rated peers including Eclipse Resources, Moss
+Creek, and Jagged Peak. The company's low cash operating costs and all-in finding and development costs are
+competitive with those of peers.
+
+Financial Risk: Aggressive
+Financial summary
+We expect Lonestar's financial ratios to weaken slightly in 2019 from 2018 due to increased debt levels. We expect
+FFO to debt should average around 13% to 18% for 2019, improving to around 20% in 2020. All of S&P Global
+Ratings' debt calculations include the company's preferred equity as debt. The company is well hedged for the
+remainder of 2019 and into 2020 which provides some cash flow stability over the next 18 months. Also benefitting the
+company is its 100% exposure to the Magellan East Houston crude oil terminal, which typically is higher than WTI
+pricing. Nevertheless, despite improved crude oil price and growing production, high capital spending levels to
+develop its Eagle Ford assets will result in negative cash flow in 2019.
+
+Liquidity: Adequate
+We assess the company's liquidity as adequate reflecting our expectation that cash sources will cover cash uses by
+more than 1.2x over the next 12 months. Additionally, we expect Lonestar to be proactive in addressing the spending
+levels should commodity prices retreat and ensure compliance with the financial maintenance covenants of its credit
+facility.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Lonestar Resources U.S. Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of $3.3 million as of June 30, 2019;
+
+• Capital expenditures of $125 million to $135 million
+in 2019 and about $115 million in 2020;
+
+• $85 million of availability on the company's $290
+million revolving credit facility; and
+• FFO of $65 million to $75 million for 2019 and $85
+million to $105 million in 2020.
+
+• No near-term debt maturities; and
+• No acquisitions currently modeled into our forecast.
+
+Debt maturities
+• The next maturity is $250 million unsecured notes due Jan. 1, 2023.
+
+Covenant Analysis
+Lonestar's credit facility requires the company to maintain debt to EBITDA below 4X and a minimum current ratio of 1
+to 1. Lonestar was in compliance with its facility as of June 30, 2019. We expect Lonestar to remain in compliance
+over the next 12 months.
+
+Other Credit Considerations
+Given Lonestar's limited scale of operations and high level of proved undeveloped reserves, we apply a negative
+comparative rating analysis, which lowers the rating by one notch from the company's anchor score of 'b'. While we
+expect reserves and financial measures to improve into 2020, the rating will continue to be limited due to the
+company's lack of scale and diversity.
+
+Environmental, Social, And Governance
+
+Environmental, social, and governance factors are an important part of our rating analysis for E&P companies.
+Broadly, we consider that changing attitudes toward fossil fuels are likely to lower demand and increase regulatory
+requirements in the long term. Lonestar produces oil, NGLs, and natural gas.
+For Lonestar in particular, the financial impact of a localized incident, tighter regulation, or community opposition
+to drilling or fracking could affect the company's ability to develop and replace its reserves. We view the state of
+Texas, where Lonestar operates, to have a generally positive political climate for E&P companies.
+We view Lonestar's management as fair, reflecting a sound operational track record, which is instrumental in
+preventing potential environmental damage while drilling.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Lonestar Resources U.S. Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• S&P Global Ratings' simulated default scenario for Lonestar assumes a sustained period of low commodity prices,
+consistent with conditions of past defaults in this sector.
+• We based our valuation for Lonestar's reserves on a May 31, 2019, company-provided PV-10 report, using our
+recovery price deck assumptions of $50 per barrel for WTI crude oil and $3 per million Btu for Henry Hub natural
+gas.
+• Our analysis assumes that the borrowings under the company's senior secured reserve-based loan facility are fully
+drawn at default.
+• The company's unsecured debt rating remains unchanged with a recovery level rating of '2' and issue-level rating of
+'B'.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• Jurisdiction (Rank A): The company is headquartered in the U.S. and the majority of its revenue and assets are
+domestic.
+
+Simplified waterfall
+• Net enterprise value (after 5% bankruptcy administrative costs): $501 million
+• Senior secured claims: $296 million
+• Recovery expectations: N.A.
+• Total value available to unsecured claims: $205 million
+• Senior unsecured claims: $264 million
+• Recovery expectations: 70% to 90% (rounded estimate: 75%)
+All amounts include six months of prepetition interest. N.A.—Not applicable.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Vulnerable
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Vulnerable
+Financial risk: Aggressive
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Lonestar Resources U.S. Inc.
+
+• Cash flow/Leverage: Aggressive
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : b-
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Oil And Gas Exploration And Production Industry,
+Dec. 12, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology For Crude Oil And Natural Gas Price Assumptions For Corporates And Sovereigns,
+Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• Criteria - Corporates - Industrials: Revised Assumptions For Assigning Recovery Ratings To The Debt Of Oil And
+Gas Exploration And Production Companies, Sept. 14, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Lonestar Resources U.S. Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 26, 2019)*
+Lonestar Resources U.S., Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+11-Aug-2017
+
+B-/Stable/--
+
+Related Entities
+Lonestar Resources America Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Unsecured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+

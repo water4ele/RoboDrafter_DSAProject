@@ -1,0 +1,516 @@
+Enterprise Development Authority
+Primary Credit Analyst:
+Brian Chung, New York; brian.chung@spglobal.com
+Secondary Contact:
+Melissa A Long, New York (1) 212-438-3886; melissa.long@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+Enterprise Development Authority
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Positive/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Construction and development risks are largely mitigated and the project remains on
+schedule.
+
+Failure to successfully ramp-up operations could
+strain liquidity.
+
+Key partnership and management agreements allow the company to tap into the benefits
+of Hard Rock's brand and management team.
+
+Reliance on the performance of a single asset to
+service debt obligations.
+
+Very low effective gaming tax.
+
+Reliance on highly cyclical consumer discretionary
+spending.
+
+Enterprise Development Authority's (EDA) construction risks are largely mitigated. EDA's construction and
+development risks have been largely mitigated by its entry into a guaranteed maximum price contract (GMP) to cover
+hard costs to build the casino, healthy construction contingencies representing about 13% of initial hard costs, and its
+partnership with Hard Rock International, which has extensive and deep development experience and a history of
+opening projects on schedule and on budget. The casino project is on schedule to open in October 2019, and remains
+within its original budget. As of June 2019, there is also still a healthy level of contingency relative to remaining hard
+costs.
+Significant ramp-up risk remains, although the Hard Rock project remains on schedule. EDA will face several risks
+common to new gaming projects during its ramp-up period that can lead to significant variability in terms of how
+much revenue and EBITDA the project will generate relative to initial forecasts. First, projections of casino patron
+behavior must be realized: Hard Rock will need to attract customers away from their current preferred properties by
+offering a more convenient location, better experience, or better promotions. If forecasts for consumer visitation and
+spending diverge from the project's expectations, revenue and cash flow could be considerably lower than anticipated.
+S&P Global Ratings' economists recently raised the risk of a recession occurring over the next 12 months to 30%-35%
+from 25%-30% due to weaker growth momentum, worsening trade cross-currents, and heightened geopolitical risk.
+The new casino's ramp-up phase could be significantly slower, pressuring cash flow generation and liquidity sources, if
+the U.S. economy materially weakens over the next few quarters because gaming relies on discretionary consumer
+spending and is highly sensitive to economic conditions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+Enterprise Development Authority
+
+Moreover, EDA will likely face intense competition from existing, well-established casinos that may have sizable
+marketing budgets and stronger balance sheets. EDA may face significant defensive spending from competing
+properties in its primary market as these competitors seek to retain their customers. This, in turn, would
+simultaneously lower EDA's revenue and also force it to boost spending to attract customers, ultimately leading to
+lower cash flows. Lastly, the competitive response EDA will face may be irrational, which could further dampen
+revenues.
+These ramp-up risks are somewhat mitigated by EDA's ability to fund 12 months of post-opening interest through its
+three-month funded interest reserve and a nine-month line of credit from Hard Rock, which is good coverage relative
+to many other recent gaming projects. Hard Rock's willingness to fund the casino's cage cash through a subordinated
+pre-opening loan and to provide EDA with a line of credit to cover nine months of interest shows Hard Rock's level of
+support for the project.
+EDA's partnership with Hard Rock will support the casino's ramp up in operations.We believe the partnership will help
+the casino ramp up operations relatively quickly. Hard Rock's widely recognizable brand, in our view, will support
+revenue generation by making the casino seem familiar to guests, thereby encouraging customer visitation from the
+first day. In light of Hard Rock's scale and experience efficiently operating tribal casinos, we also expect operating
+costs to be lower than otherwise expected.
+EDA will benefit from access to Hard Rock's brand and its management team's experience. In our view, EDA will likely
+benefit from its management and licensing agreements with Hard Rock and its relatively favorable revenue share
+under the management agreement. This partnership allows EDA to use Hard Rock's well-known brand and provides it
+with access to Hard Rock's management team, which has had success in both tribal and commercial gaming projects.
+There is currently one other tribal casino in northern California operating under a national brand, and one in
+development. The Caesars Entertainment Corp.-backed Buena Vista Gaming Authority (approximately 85 miles and a
+95-minute drive), which is to Sacramento's southeast, benefits from association with the Harrah's brand and the ability
+to cross-market with Caesars' Las Vegas properties. The proposed Wilton-Rancheria development project in Elk
+Grove, Calif. (approximately 55 miles and an hour drive), which is unlikely to open before 2021, will likely be a more
+significant competitor because it's closer to EDA's primary market. This project's partner is Boyd Gaming Corp. and
+although Boyd does not have a quickly recognizable brand like Hard Rock, the Wilton project should benefit from
+cross-marketing opportunities with Boyd's Las Vegas assets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+Enterprise Development Authority
+
+Outlook: Positive
+
+The positive outlook reflects our belief that EDA will open on schedule and generate good levels of EBITDA once
+open. We believe EDA will generate discretionary cash flow that it can use to pay down modest levels of debt,
+leading to stronger credit measures.
+
+Upside scenario
+We could raise the rating one notch if the casino opens on time and meets our operating expectations such that
+debt to EBITDA will remain less than 5x and EBITDA coverage of total interest more than 2x. Before raising the
+rating, we would need to assess the impact that nearby competitors (particularly Elk Grove) would have on EDA's
+ability to sustain credit measures in line with our upgrade thresholds.
+
+Downside scenario
+While a downgrade is unlikely given EDA's 18-month interest reserve, we could revise the outlook to stable or
+lower the rating if unforeseen delays or construction cost overruns strain liquidity. In addition, if the economy
+deteriorates and we believe the project will open later than we expect, we could revise the outlook to stable. We
+would also consider revising the outlook if, upon opening, the casino's operating results are weaker than we expect
+and leverage appears unlikely to improve to less than 5x or coverage to more than 2x in a relatively short time. If
+liquidity becomes impaired after opening as a result of weak operating performance, we could lower the rating.
+Weaker-than-expected operating results could be caused by fewer visitors than expected, a weak economy, or
+unexpectedly aggressive competitive responses from nearby casinos.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+Enterprise Development Authority
+
+Assumptions
+
+Key Metrics
+
+• EDA opens in the second half of 2019, following a
+15-month construction period.
+
+Year 1E
+FFO to debt (%)
+
+• The facility opens with 1,500 slot machines, 55 table
+games, and its full complement of amenities,
+including its planned 170-room hotel, event space,
+and food and dining venues.
+• Our forecast is pro forma for the impact of new
+competition--particularly at Wilton-Rancheria--as if
+that project is open in EDA's first year of operations.
+
+Debt to EBITDA (x)
+EBITDA coverage of interest (x)
+
+Year 2E
+
+5-7
+
+7-10
+
+5.3-5.5
+
+4.7-4.9
+
+Mid-1
+
+High-1
+
+Note: All figures are S&P Global Ratings-adjusted.
+E--Estimate. FFO--Funds from operations (reflects first
+and second full years of operations).
+
+• Net revenues in the $180 million-$190 million range
+in the first year, growing 5%-10% in the second year
+as consumers learn of the property.
+• EBITDA margins--after paying out priority tribal
+distributions and the Hard Rock management
+fee--will be in the 45%-50% range. (We subtract
+priority distributions from EBITDA because we
+believe these are largely tribal operating expenses,
+would not be available for debt service, and would
+continue to be paid even in an event of a default.)
+• Under these revenue and margin assumptions, we
+forecast EBITDA of about $90 million in the first
+year of operations, growing to about $100 million in
+the second year.
+
+Company Description
+EDA is a wholly owned unincorporated governmental instrumentality of the Estom Yumeka Maidu Tribe of the
+Enterprise Rancheria (the Tribe). EDA plans to open the Hard Rock Hotel & Casinos – Sacramento at Fire Mountain
+on a 40-acre property located in Yuba County, Calif., about 35 miles north of Sacramento. EDA has entered into
+development, management, and licensing agreements with Hard Rock Sacramento FM LLC, a subsidiary of Seminole
+Hard Rock Entertainment Inc., to build and manage the property.
+
+Business Risk: Weak
+As a single casino operator, EDA lacks geographic diversity. Reliance on a single property to generate cash flow and
+service debt heightens vulnerability to adverse competitive changes, event risks, and regional economic weakness. We
+consider the Sacramento gaming market to be competitive, with seven primary competitors (six existing, one planned)
+within 70 miles of Sacramento, its target market, as well as another five secondary competitors (four existing, one
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+Enterprise Development Authority
+
+planned) within 50-90 miles of Sacramento. Somewhat mitigating the high number of competitors is EDA's favorable
+geographic location, at the junction of two major freeways, CA-65 and CA-70, which by drive time should make EDA
+the third-closest casino to downtown Sacramento of these 12 competitors. Although the project will open with a hotel,
+an event center, and offer food and beverages, we expect gaming to contribute the vast majority of revenues.
+Relative to both its national and California gaming peers (both commercial and tribal), EDA will benefit from a very
+low effective gaming tax rate, estimated at about $1 million per year for the first seven years, providing flexibility to
+offer deeper promotions and a competitive advantage over its peers. Because EDA will offer gaming under Secretarial
+Procedures granted by the U.S. Department of the Interior--as opposed to a Compact with the State of California--it
+will not make payments into California's Indian Gaming Revenue Sharing Trust Fund for the first seven years of
+operations.
+
+Financial Risk: Highly leveraged
+In its first full year of operations, we expect EDA's leverage will be in the mid-5x area and funds from operations (FFO)
+to debt in the mid-single-digit percent area.
+
+Liquidity: Adequate
+We assess EDA's liquidity profile as adequate. We believe EDA will have sufficient sources of liquidity to cover uses
+during the 15-month construction period, and we view the funded three-month post-opening interest reserve and a line
+of credit from Hard Rock that can be used to pay interest for an additional nine months after opening as favorable
+compared to other recent gaming projects. Our assessment includes the following expectations:
+• We expect liquidity sources to exceed uses by at least 1.2x over the next 12 months.
+• We believe EDA's entry into a GMP to cover hard costs to build the casino, coupled with a contingency
+representing about 13% of hard costs, largely mitigates the risk of construction delays and cost overruns.
+• We also believe EDA's and Hard Rock's funding of cage cash and the provision of liquidity sources to cover interest
+for 12 months after opening, as well as its GMP, indicates generally prudent risk management.
+• We believe EDA's ability to secure debt financing for its construction project indicates a sound relationship with its
+bank. Furthermore, while EDA is a new issuer with a limited track record in the capital markets, Hard Rock has an
+established record of access to capital markets, which we expect EDA to benefit from.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+Enterprise Development Authority
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• During the construction period, funds from last
+year's $450 million secured notes offering.
+
+• Construction costs.
+
+• Once the property begins operations, modest FFO
+(supported by remaining interest reserves).
+
+• Interest expenses (supported by a funded interest
+reserve that will cover interest expenses during the
+15-month construction phase and for about three
+months after opening).
+• Pre-opening costs and expenses.
+• Transaction fees and expenses.
+• After the casino opens, modest maintenance capital
+expenditures of $4 million-$5 million.
+
+Covenant Analysis
+The revolver is subject to a minimum EBITDAM covenant of $75 million. The covenant will not be tested until one full
+quarter after the property opens. We do not expect the covenant will be tested before 2020, and EBITDAM will be
+annualized for the first three quarters in calculating the covenant. We expect EDA will have adequate cushion.
+
+Issue Ratings - Subordination Risk Analysis
+We do not assign recovery ratings to Native American debt issues because there are significant uncertainties
+surrounding the exercise of creditor rights against a sovereign nation, including whether the U.S. Bankruptcy Code
+would apply, whether a U.S. court would ultimately be the appropriate venue to settle such a matter, and to what
+extent a creditor would be able to enforce a judgment against a sovereign nation.
+
+Capital structure
+EDA's capital structure consists of $450 million of senior secured notes and about $64 million of unrated subordinated
+debt. EDA also has access to a currently undrawn $10 million revolving credit facility that ranks pari passu with the
+senior secured notes.
+
+Analytical conclusions
+EDA's revolver and notes are rated 'B-', the same as the issuer credit rating, because they are secured and no
+significant elements of subordination risk are present in the capital structure.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Positive/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+Enterprise Development Authority
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+Enterprise Development Authority
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 9, 2019)*
+Enterprise Development Authority
+Issuer Credit Rating
+
+B-/Positive/--
+
+Senior Secured
+
+B-
+
+Issuer Credit Ratings History
+19-Jun-2018
+
+B-/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+

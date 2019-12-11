@@ -1,0 +1,371 @@
+Kronos Acquisition Holdings Inc.
+Primary Credit Analyst:
+Archana S Rao, Toronto + 1 (416) 507 2568; archana.rao@spglobal.com
+Secondary Contact:
+Aniki Saha-Yannopoulos, CFA, PhD, Toronto (1) 416-507-2579; aniki.saha-yannopoulos@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Kronos Acquisition Holdings Inc.
+Credit Highlights
+Issuer Credit Rating
+CCC+/Stable/--
+
+Overview
+Key strengths
+
+Key risks
+
+Good market position in an otherwise fragmented, competitive, and
+mature industry.
+
+Unsustainable capital structure with high leverage and tight EBITDA
+interest coverage.
+
+Minimal debt maturities for the next three years.
+
+Highly acquisitive growth strategy introduces significant execution and
+integration risk.
+
+The company's unsustainable capital structure limits financial flexibility. S&P Global Ratings believes that Kronos
+Acquisition Holdings Inc.'s heavy debt burden is unsustainable over the medium term. Since fiscal 2016, Kronos has
+completed several acquisitions totaling about US$400 million. As a result, the company's debt has increased by about
+US$400 million since December 2016 to fund these acquisitions and growth capital expenditures (capex). However,
+S&P Global Ratings' adjusted EBITDA has grown modestly in the past three years, eventually leading to what we
+believe is an unsustainable adjusted debt-to-EBITDA of above 9.5x as of June 30, 2019, from about 9.0x as of
+December 2016. We believe such a capital structure offers scant protection against unexpected EBITDA
+underperformance.
+Low EBITDA interest coverage and thin free cash flows increase credit concerns.We forecast Kronos to generate
+EBITDA interest coverage in the low 1x area in the near term. We believe that such tight coverage measures leave no
+room for EBITDA deterioration due to higher-than-expected acquisition or integration charges or operational missteps.
+We also estimate that the company will generate a level of EBITDA just sufficient to cover its fixed charges of interest
+and capex.
+Favorable second-quarter results are a small positive. Kronos posted improved profitability in the second-quarter
+ended June 30, 2019 with EBITDA margins on an S&P Global Ratings' adjusted basis improving by about 300 basis
+points based on favorable performance in its key household and automotive segments. The growth stemmed from
+successful pricing and benefits from acquisition. Despite improved performance, we remain skeptical about company's
+ability to sustain profitability given input cost volatility and limited pricing power of Kronos' key products.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Kronos Acquisition Holdings Inc.
+
+Outlook
+
+The stable outlook reflects our view that despite high leverage and tight EBITDA interest coverage Kronos will
+maintain adequate liquidity through its asset-based loan (ABL) facility. Based on our forecast, we expect the
+company to have stable EBITDA and generate sufficient cash flows to cover fixed charges.
+
+Downside scenario
+We could lower the ratings if Kronos' liquidity position deteriorated such that the company was not able to service
+its fixed charges of interest and capex. This could occur if the company's availability under its ABL facility
+decreased significantly as a result of a material drop in EBITDA and free cash flows.
+
+Upside scenario
+Although unlikely in the next 12 months, we could raise the ratings if the company's leverage and EBITDA interest
+coverage improved to below 8x and close to 2x, respectively.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• GDP growth of 2.5% in U.S. and 1.2% in Canada in
+2019
+
+2018A
+
+2019E
+
+2020E
+
+1.5%
+
+1%-2%
+
+1%-2%
+
+Debt to EBITDA
+
+9.6x
+
+Above 9.5x
+
+9.0x-9.5x
+
+EBITDA interest coverage
+
+1.3x Low 1x area Low 1x area
+
+FOCF to debt
+
+• Low-to-mid single-digit revenue growth in 2019 and
+2020, primarily driven by the acquisitions in the
+household segment and pool segment and new
+product introductions, partially offset from softer
+performance from the custom manufacturing
+business
+
+A--Actual. E--Estimate. FOCF--Free operating cash
+flow.
+
+• Adjusted EBITDA margins in the high single-digit
+area through 2020, spurred by volume growth in
+household division and ongoing cost-saving
+initiatives
+• Capex of about US$60 million-US$65 million in 2019
+and 2020
+• No debt repayment in 2019
+• Acquisitions of about US$170 million related to the
+N.C Brands acquisition completed in January 2019
+• Modest tuck-in acquisitions for 2020
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Kronos Acquisition Holdings Inc.
+
+Base-case projections
+Kronos' adjusted EBITDA will remain constrained by cost headwinds. We believe that commodity-related cost
+headwinds, and costs related to acquisitions and strategic initiatives, could limit and possibly weaken the company's
+EBITDA (S&P Global Ratings' adjusted) and margins in the near term. Accretion from existing acquisitions and price
+increases will only partially offset this situation, in our view.
+Free cash flow generation will likely be thin in the near term.We anticipate that Kronos will generate thin free cash
+flows for the next 12 months, despite some improvement in EBITDA. Therefore, the company will fund future
+acquisitions through higher debt rather than cash flows further straining the company's credit measures. We estimate
+free cash flow as a percentage of debt to remain weak in low single-digit area for the next 12 months.
+
+Company Description
+Concord, Ont.-based Kronos manufactures branded and private-label household cleaning and personal care products,
+as well as pool additives and aftermarket auto fluids. In addition, the company is engaged in contract manufacturing of
+national branded products for more than 70 different consumer product companies.
+
+Business Risk
+Kronos' business risk profile reflects the company's good market position and product diversity in an otherwise
+fragmented, competitive, and mature industry, with low growth potential and limited pricing power. The company
+mainly competes with large multinational players, with financial resources far in excess of its own. This limits Kronos'
+ability to pass on all cost increases, whether raw materials or freight, within a shorter time frame. Some of the
+customers particularly in the company's automobile segment are directly indexed to input prices, necessitating Kronos
+to alter its pricing based on volatility, which could lead to lower revenues. Our business risk assessment also
+incorporates the company's significant customer and geographic concentration, with the six largest customers
+representing almost 40% of revenues, and almost 90% of revenues generated in North America. In addition, given the
+high seasonal nature of the business, Kronos' operating performance could be negatively affected due to
+weather-related fluctuations.
+These risks are partially offset by Kronos' strong position; the company has about an 80% market share in the North
+American private-label bleach market, about a 40%-45% market share in the automobile antifreeze segment, and is a
+leading manufacturer of pool and spa products. Given limited growth prospects, Kronos has reduced its reliance on
+private-label bleach and included several household, personal care, and automotive products in its portfolio, further
+improving its product diversity. Despite these efforts, we expect Kronos' profitability to be constrained in the high
+single-digit area in the near term, which we assess as below average when compared to other companies in the
+personal care/household products segment.
+
+Financial Risk
+The highly leveraged financial risk profile reflects Kronos' weak credit protection measures and our expectation that
+the company's debt to EBITDA will remain elevated above 9.5x in the near term. Given a mature industry, organic
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Kronos Acquisition Holdings Inc.
+
+growth prospects will remain low and we do not expect any material free cash flows. Therefore, our forecast EBITDA
+of about US$220 million-US$230 million in 2020 will only cover the company's cash interest costs of US$160
+million-US$165 million and capex of approximately US$55 million-US$65 million. We also believe thin free cash flow,
+along with a persistently heavy debt load, will pose lower probability of debt repayment and offer less financial
+flexibility. In addition, we expect EBITDA interest coverage will remain tight in the low 1x area, which does not leave
+much room for potential EBITDA deterioration due to unexpected underperformance or higher-than-anticipated
+restructuring costs stemming from Kronos' acquisitive growth strategy. Despite high leverage and tighter EBITDA
+interest coverage, we believe Kronos will maintain sufficient liquidity given availability of more than US$200 million
+under its ABL as of June 30, 2019.
+
+Financial summary
+The company's financials are private and confidential.
+
+Liquidity
+We assess Kronos' liquidity as adequate. We expect sources of funds to exceed uses by more than 1.5x in the next 12
+months and believe sources of liquidity would exceed uses even in the event of a 15% unexpected decline in the
+company's consolidated EBITDA. However, our quantitative liquidity assessment is constrained by certain qualitative
+factors, including our belief that Kronos does not have a high standing in the credit markets, nor the ability to absorb
+high-impact, low-probability events with limited need for refinancing. However, we believe the company has generally
+prudent risk management and sound relationship with banks, because Kronos was successful in issuing an add-on term
+loan to fund acquisition.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of US$25 million as of June 30, 2019
+
+• Seasonal working capital requirements of US$100
+million
+
+• Availability of more than US$200 million under the
+company's US$350 million revolving credit facility
+• Cash funds from operations of US$25 million-US$35
+million
+
+• Capex of US$50 million-US$60 million
+• Debt amortization of US$1.9 million each year
+
+Debt maturities
+As of June 30 2019, Kronos had the following debt maturities:
+• US$1.1 billion term loan due in 2023
+• US$890 million senior notes due in 2023
+• US$350 million ABL due in 2023
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Kronos Acquisition Holdings Inc.
+
+Covenant Analysis
+Compliance expectations
+Kronos does not have to comply with any financial covenant unless ABL availability falls below 10% of the available
+borrowing base, which then mandates compliance with a minimum fixed-charge coverage ratio of 1x. As of the quarter
+ended June 30, 2019, this covenant was not applicable.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We rate the company's first-lien term loan 'CCC+' with a '3' recovery rating. The '3' recovery rating reflects our
+expectation of meaningful recovery (50%-70%; rounded estimate: 55%) in the event of default.
+• We rate the company's senior unsecured notes 'CCC-' with a '6' recovery rating. The '6' recovery rating reflects our
+expectation of negligible recovery (0%-10%; rounded estimate: 0%) in the event of default.
+• Our simulated default scenario incorporates the assumption of a default in 2020, following a prolonged period of
+weak macroeconomic conditions, increased competition, loss of key customers, or significant decline in demand.
+• In the event of a default, we assume the company would reorganize or be sold as a going concern as opposed to
+being liquidated.
+• We apply a negative 20% operational adjustment to align with other rated peers.
+• We value Kronos using a 5.5x multiple of our emergence EBITDA estimate, which corresponds to the company's
+fixed charges in the simulated default year. The EBITDA multiple is 0.5x lower than the industry multiple of 6.0x
+reflecting the softer operating performance and increased risk of an EBITDA shortfall.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: US$170.9 million
+• EBITDA multiple: 5.5x
+
+Simplified waterfall
+• Gross recovery value: US$940.2 million
+• Net recovery value (after 5% administrative charges): US$893.2 million
+• Priority claims: US$213.9 million
+----------------------------------------------------------• Remaining recovery value: US$679.3 million
+• Secured first-lien debt: US$1.141 billion
+• Value available for first-lien claim: US$679.3 million
+• --Recovery expectations: 50%-70% (rounded estimate: 55%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Kronos Acquisition Holdings Inc.
+
+• Senior unsecured notes: US$930 million
+• Value available for unsecured claim: 0
+• --Recovery expectations: 0%-10% (rounded estimate: 0%)
+
+Ratings Score Snapshot
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - Industrials: Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Criteria For Assigning 'CCC+', 'CCC', 'CCC-', And 'CC' Ratings, Oct. 1, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Ratings Detail (As Of September 20, 2019)*
+Kronos Acquisition Holdings Inc.
+Issuer Credit Rating
+
+CCC+/Stable/--
+
+Senior Secured
+
+CCC+
+
+Senior Unsecured
+
+CCC-
+
+Issuer Credit Ratings History
+27-Dec-2018
+
+CCC+/Stable/--
+
+09-May-2017
+
+B-/Negative/--
+
+03-Sep-2015
+
+B-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+

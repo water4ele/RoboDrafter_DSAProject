@@ -1,0 +1,523 @@
+Entravision Communications Corp.
+Primary Credit Analyst:
+Scott E Zari, CFA, Chicago + 1 (312) 233 7079; scott.zari@spglobal.com
+Secondary Contact:
+Rose Oberman, CFA, New York 212-438-0354; rose.oberman@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 1
+
+Entravision Communications Corp.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b+
+
+b
+
+b+
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Significant cash balance provides financial flexibility.
+
+Heavily reliant on content from Univision Communications Inc.
+Competition from alternative media and pressure on advertising rates.
+Small scale and meaningful geographic concentration.
+
+Substantially all of Entravision's television stations are affiliated with Univision. Entravision Communications Corp.
+has no control over the programming supplied by Univision Communications Inc., and Entravision's broadcast
+advertising revenue is heavily dependent on Univision's audience ratings, which have declined in recent years amid
+competition from both English and other Spanish language media outlets.
+Roughly 55% of revenue comes from broadcast advertising, which is cyclical and faces structural pressures from digital
+disruption. Broadcast advertising is highly correlated to GDP and is therefore likely to weaken during an economic
+downturn. Furthermore, it is susceptible to the migration of advertising to alternative media outlets including online
+platforms and, especially, radio.
+Entravision's small size and geographic concentration can result in volatile revenue. The company's TV stations are
+concentrated in southwestern U.S. and Mexican border markets, and are particularly sensitive to the California and
+Texas economies. In addition, Entravision has a limited presence in political battleground states, which results in lower
+political ad revenue than its peers.
+The company's sizeable cash balance provides substantial liquidity and the potential to reduce leverage through
+accretive acquisitions or debt repayment. The company has about $166.7 million of cash and $244.7 million
+outstanding on its term loan as of June 30, 2019. Most of its current cash balance was raised from the $264 million sale
+of spectrum assets in early 2017. Since then, the company has made roughly $85 million of acquisitions and $50
+million of voluntary debt repayment. The flexibility provided by its healthy balance sheet offsets some of the risks
+associated with its underperforming broadcast assets. How the company uses this cash balance going forward will be a
+key determinant of its credit quality.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 2
+
+Entravision Communications Corp.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Entravision's large cash balances will sustain its financial flexibility
+despite continued weakness in its broadcast businesses. We believe Entravision will use its cash to make strategic
+acquisitions that improve the scale and diversification of the business—and increase its EBITDA—or to repay debt
+to reduce leverage.
+
+Downside scenario
+We could lower the rating over the next 12 months if Entravision undertakes significant shareholder returns such
+that its cash balance significantly declines. We could also lower the rating if it makes large acquisitions that do not
+significantly increase the scale or level of EBITDA, yet also reduces financial flexibility.
+
+Upside scenario
+We could raise the rating if Entravision uses its cash balance to make acquisitions that considerably increase the
+scale and diversity of the company's revenue sources. The company would also need to improve its existing core
+broadcasting business by returning to organic revenue growth and stabilizing its EBITDA margin. Alternatively, we
+could raise the rating if the company uses its cash to repay debt such that adjusted leverage decreases to less than
+4x on a sustained basis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 3
+
+Entravision Communications Corp.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+• We expect core (excluding political) advertising
+revenue growth will be slightly below GDP for the
+television broadcasting industry in 2019 and 3%-5%
+lower in 2020 because of displacement from political
+advertising.
+
+A—Actual. E—Estimate. FOCF—Free operating cash
+flow. *We use eight quarters of EBITDA in our average
+leverage calculation to smooth the impact of political
+revenue.
+
+• We assume core spot radio advertising will be down
+1%-2% over the next few years, lower than our GDP
+growth expectations due to secular pressures facing
+the radio industry from competition by alternative
+media.
+• We expect Entravision's advertising revenue will lag
+our expectations for the broader industry over the
+next two years due to continued weakness in its
+markets and lower demand for its targeted
+demographics.
+• Revenues to decline 1.5%-3% in 2019, with declines
+in the radio and television segment outpacing the
+growth in digital revenues. We expect revenue
+growth in the 4%-6% range in 2020 driven mainly by
+political revenue.
+• Adjusted EBITDA margin declining towards the high
+teen percentage area in 2019 as revenue declines
+outpace cost reductions in the television and radio
+segments and growth in the lower-margin digital
+segment. However, we expect margins to improve
+to the low 20% area in 2020 due to high-margin
+political revenue growth.
+• Gross debt to average, trailing eight-quarter EBITDA
+expected to remain in the high-4x area in 2019 and
+2020.
+• Share repurchases of $15 million to $20 million in
+2019 and in 2020.
+
+Base-case projections
+We expect the company will use its sizable cash balance to fund additional tuck-in acquisitions. We assume the
+company will use most of its cash, raised mainly from spectrum auction proceeds in 2017, to fund additional tuck-in
+acquisitions. However, we have not included acquisitions in our base-case forecast because we are uncertain of the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 4
+
+Entravision Communications Corp.
+
+timing or size of potential acquisitions. If the company instead elects to voluntarily repay debt, leverage could be better
+than we expect.
+
+Company Description
+Entravision is a local television and radio broadcaster focused on serving the Hispanic population in America.
+Entravision has 55 television stations (operating in 19 of the top 50 Hispanic markets) and is the largest affiliate of
+Univision's television network. The company's radio segment consists of 49 owned and operated (primarily
+Spanish-language) radio stations. The company also sells advertising through its small but growing digital business.
+Entravision is publically owned, but its CEO has 57% of the voting power. Univision also has an 11% non-voting stake
+and must consent to any mergers or acquisitions involving a Univision affiliate.
+
+Business Risk: Weak
+Entravision's broadcast advertising revenue is exposed to both geographic and demographic concentration, as well as
+structural changes in media consumption habits that is driving more advertising to online platforms. The company also
+faces economic challenges in its local markets, many of which are near the border between the U.S. and Mexico,
+because those markets face obstacles related to immigration and trade issues that are not as pronounced as in the rest
+of the country. Unlike with English-language media, advertising pricing for Spanish-language media isn't
+commensurate with audience share, and we expect this trend to continue for the foreseeable future, given the
+significant gap in advertising rates. Moreover, competition among Hispanic broadcasters is expanding more rapidly
+than ad spending to reach Hispanic audiences, which is hurting individual Spanish-language broadcasters. We believe
+these factors contributed to Entravision's broadcast advertising revenue declining more than the rest of the industry
+over the past few years.
+The company has long-term network affiliation agreements with Univision (expiring in 2026, except in three markets
+expiring in 2021) that give it the exclusive right to broadcast Univision's primary network and Uni-Mas network
+programming. While we previously viewed the close relationship between Entravision and Univision favorably (as it
+allowed Entravision to incur limited cash costs for network or syndicated programming while providing stable
+retransmission revenue growth), this relationship has been challenging for Entravision. Univision's ratings have been
+declining over the past few years, and Entravision has little ability to counter the falloff because it has no control over
+the programming supplied by Univision. Moreover, the retransmission revenue arrangement between the two
+companies largely benefits Univision, as Entravision receives an approximately mid-single-digit percent annual
+contractual increase, even as industry retransmission revenue is growing at twice that rate or more.
+As broadcast advertising revenues have declined, the company has invested heavily in acquiring digital assets. We
+expect Entravision's digital marketing solutions to offset the decline in its traditional broadcast businesses and provide
+overall revenue growth. However, the digital segment is currently much less profitable than the television segment.
+The company is attempting to improve the profitability of digital by focusing on higher-margin transactions instead of
+revenue growth.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 5
+
+Entravision Communications Corp.
+
+Peer comparison
+We view Entravision's business as weaker than all of its local television broadcasting peers. We believe that with the
+changes occurring in advertising, it's important for companies to have more focus on their retransmission revenues,
+which can give them some revenue stability. Entravision's retransmission revenue as a percentage of total television
+revenue was 23% in 2018, which significantly lags its peers, which are all in the 30%-50% range. Additionally,
+Entravision's retransmission revenue is growing much slower than its peers due to its unfavorable agreement with
+Univision.
+We view Entravision as somewhat in line with Urban One Inc. Both are of similar size, both have television and radio
+outlets, and both target a specific demographic (Urban One focuses on African-American audiences). Urban One's
+television asset, however, is a cable network instead of broadcast stations, and it is facing pressures due to subscriber
+declines. But it has a much higher EBITDA margin because its radio stations are significantly more profitable than
+Entravision's. Although we view Entravision's business as similar to Urban One's, leverage at Entravision is lower and
+Entravision has greater financial flexibility due to its significant cash balances.
+
+Financial Risk: Highly leveraged
+Entravision's gross debt to average, trailing eight-quarter EBITDA improved to 5.0x as of June 30, 2019, from 5.3x as
+of June 30, 2018. The improvement was mainly due to the company repaying $50 million of its term loan in December
+2018, which more than offset the 2018 EBITDA decline relative to 2016. We expect leverage to remain in the high 4x
+area in 2019 and 2020 due to relatively flat EBITDA growth and no major debt repayments.
+The company has financial flexibility due to its substantial cash balance. However, it is still unclear what the company
+plans to do with its cash. If it uses its cash to pursue growth acquisitions with low-levels of profitability or uses the cash
+to reward shareholders, leverage will remain elevated. The company is currently using nearly all of its excess cash flow
+on dividends and share repurchases. We expect Entravision to prioritize future acquisitions, likely in the digital
+segment, over further debt repayment.
+
+Liquidity: Strong
+We expect Entravision's liquidity sources will exceed uses by almost 6x over the next 12 months, and that net sources
+would remain positive even with a 30% decline in forecast EBITDA. Entravision's liquidity position is largely supported
+by its sizable cash balance, which would provide some financial flexibility if the company faces a prolonged period of
+stress. In addition, the company does not have any debt maturities until 2024. However, Entravision operates without
+a revolver, and we expect cash balances will fall over time from additional acquisitions and secular and cyclical
+business challenges.
+
+Principal Liquidity Sources
+• Cash and cash equivalents of about $167 million as of June 30, 2019; and
+• Cash funds from operations of $35 million to $40 million over the next 12 months.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 6
+
+Entravision Communications Corp.
+
+Principal Liquidity Uses
+• Annual capital expenditures of roughly $15 million (net of reimbursements);
+• Mandatory amortization of $3 million; and
+• Dividend payments of $15 million to $20 million annually.
+
+Debt maturities
+The company's $300 million senior secured term loan B ($244.7 million outstanding) matures on November 30, 2024.
+
+Covenant Analysis
+There are no financial maintenance covenants under the company's senior secured credit facility.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Entravision Communications Corp. is the borrower of a $300 million senior secured term loan B maturing in 2024
+(approximately $244.7 million outstanding).
+• The term loan is fully guaranteed by the company and its wholly-owned domestic subsidiaries and secured on a first
+priority basis by the company's assets.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Our simulated default scenario contemplates a
+default in 2023 resulting from a decline in
+advertising revenue due to economic weakness, a
+lack of political and World Cup advertising revenue,
+or increased competition from alternative media.
+
+• EBITDA at emergence: $32 million
+
+• We believe that the company will be able to
+reorganize post default given its good brand name,
+long-term relationship with Univision, and growth in
+the U.S. Hispanic population. We have valued the
+company using a 6.5x multiple of our projected
+emergence EBITDA, which is below the 7x EBITDA
+multiple we use for larger rated TV broadcasting
+peers.
+
+• Estimated senior secured debt at default: $240
+million
+
+• EBITDA multiple: 6.5x
+• Net enterprise value (after 5% administrative costs):
+$197 million
+
+• --Recovery expectations: 70%-90% (rounded
+estimate: 80%)
+All debt includes six months of prepetition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 7
+
+Entravision Communications Corp.
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (+1 notch)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b+
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 8
+
+Entravision Communications Corp.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 15, 2019)*
+Entravision Communications Corp.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+BB-
+
+Issuer Credit Ratings History
+16-Jul-2018
+
+B+/Stable/--
+
+14-Nov-2017
+
+BB-/Stable/--
+
+10-Mar-2017
+
+BB-/Watch Pos/--
+
+12-Jun-2015
+
+BB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 10
+
+

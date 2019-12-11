@@ -1,0 +1,1510 @@
+LG Chem Ltd.
+Primary Credit Analyst:
+Shawn Park, Hong Kong (852) 2532-8014; shawn.park@spglobal.com
+Secondary Contact:
+JunHong Park, Hong Kong (852) 2533-3538; junhong.park@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+LG Chem Ltd.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+a-
+
+a-
+
+A-/Negative/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+One of the largest and most diversified petrochemical producers in Asia with
+2.5 million tons per annum (mtpa) ethylene capacity.
+
+Exposure to a highly cyclical global petrochemical industry.
+
+High operational efficiency through an industry cycle and vertically
+integrated petrochemical production processes.
+
+Aggressive investment plans to drive up debt levels and leverage,
+which leaves narrow buffer in current rating.
+
+Diversified product mix, along with growing exposure into nonchemical
+segments support cash flow stability
+
+Large scale and record of high utilization rates support earnings stability. We expect LG Chem Ltd.'s stable earnings to
+continue, considering its large capacity, diversified product offering, and track record of high levels of operating
+efficiency. Thanks to its vast range of products with different end demand exposures, LG Chem's profitability has been
+stable relative to its Asian peers, averaging 14% EBITDA margin over the past cycle, while being most resilient during
+the recent downcycle.
+Earnings from the energy solution to offset weaker profits from its traditional petrochemical business.We expect
+earnings from the energy solutions division (EV batteries) to more than offset weaker earnings from petrochemicals to
+result in 6% three-year operating profit compound annual growth rate (CAGR) for LG Chem. The tripling of its EV
+battery capacity to 100 gigawatts (GW) by end-2020 will help the company to sustain stable earnings and operating
+cash flows, and mitigate expected downcycle in the petrochemical industry over the next two years. From 9% in 2018,
+we expect earnings from the energy solution to contribute 37% of total operating profit by 2021, while showing 68%
+operating profit CAGR during the same period.
+Steady investment and rising debt to reduce rating headroom. We expect LG Chem's leverage to increase as the
+company engages in aggressive investments to expand EV battery and petrochemical plant capacities, while
+maintaining its dividends policy. We estimate LG Chem's adjusted debt-to-EBITDA ratio to deteriorate to 1.5x–1.8x
+over the next two years from 0.3x in 2017 and 1.0x in 2018, given a near tripling in annual spending versus historical
+levels.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+LG Chem Ltd.
+
+Chart 1
+
+The company's earnings and cash flows remain exposed to the inherent volatilities of the petrochemical industry. In
+2018, LG Chem's operating profit fell 23% to Korean won (KRW) 2.2 trillion primarily due to weakening petrochemical
+spreads amid slowing demand, global capacity expansions, and oil price decline. We expect petrochemical earnings to
+further decline over the next 12-24 months as sizable global capacity expansions continue to outpace demand, thereby
+weakening the overall petrochemical spreads. We believe earnings growth from LG Chem's energy solutions business
+will mitigate this factor for the next two to three years, but intensifying competition and risk of oversupply could result
+in profitability uncertainty over the long term.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+LG Chem Ltd.
+
+Outlook: Negative
+
+The negative outlook on LG Chem reflects our view that the company's heightened capex and rising debt have
+narrowed the headroom for the rating over the next 24 months.
+
+Downside scenario
+We may lower the rating if LG Chem's ratio of debt to EBITDA stays above 1.5x on a sustained basis. Such a
+scenario could result from consistently high debt-financed capex or a significant deterioration in operating cash
+flows due to weaker petrochemical margins or slower ramp up of the batteries business.
+
+Upside scenario
+We may revise the outlook to stable if LG Chem's debt-to-EBITDA ratio remains below 1.5x on a sustained basis.
+This could result from the company lowering capital investments, thereby enhancing flexibility in managing debt.
+Stronger earnings growth stemming from better petrochemical margins and EV battery operations could also lead
+to robust operating cash flows, resulting in reduced leverage.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+LG Chem Ltd.
+
+Assumptions
+
+Key Metrics
+
+• China's GDP growth of 6.2% in 2019 and 2020,
+versus 6.6% in 2018.
+• Brent prices of US$60 per barrel in 2019 and 2020,
+compared with $70 per barrel in 2018, resulting in
+revenue decline for its petrochemical business.
+• Slowing demand growth in the petrochemicals
+sector, while global capacity expansion remains
+sizable over the next 24 months, resulting in
+normalizing petrochemical spreads.
+
+2018A
+
+2019E
+
+2020E
+
+Revenue growth
+
+9.7%
+
+EBITDA margin
+
+13% 11%-13% 11%-13%
+
+4%-8% 12%-16%
+
+Debt/EBITDA
+
+1.0x
+
+1.5x-1.8x
+
+1.5x-1.8x
+
+* All figures include S&P Global Ratings adjustments.
+A--Actual. E--Estimate.
+
+• LG Chem's revenue growth of 4%-8% in 2019 and
+12%-16% in 2020 driven mainly by increase in EV
+battery sales. This compares with 9.7% revenue
+growth in 2018.
+• EBITDA margin of 11%-13% for 2019-2020,
+compared with 13% in 2018.
+• Capex to grow to about KRW6 trillion in 2019,
+followed by KRW4.5 trillion–KRW5 trillion in 2020,
+compared to KRW4.3 trillion in 2018 and KRW2.4
+trillion in 2017.
+• Annual dividends of KRW480 billion to KRW500
+billion in 2019 and 2020.
+
+Base-case projections
+Earnings growth from energy solutions business to drive LG Chem's overall earnings from 2020.We expect a rapid
+growth in the energy solutions business to drive the company's overall operations, offsetting weaker petrochemical
+earnings over the next two years. Mainly due to the start of EV battery sales to European automakers (i.e.
+Volkswagen), we expect three-year CAGR of 10% and 9% for LG Chem's overall revenue and EBITDA, respectively.
+For the petrochemical sector, we believe peak-of-the-cycle levels of earnings are behind us, given that we expect
+global supply growth to outpace demand.
+Capex to remain elevated over the next 12-24 months on aggressive investment push. We expect LG Chem's capex to
+be higher over the next two years at about KRW6 trillion and KRW4.5 trillion–KRW5.0 trillion, respectively.
+Considering our estimate of about KRW3 trillion committed investments that include maintenance, LG Chem's total
+capex of KRW6 trillion for 2019 reflects its aggressive investment plans to expand energy solutions and petrochemical
+businesses.
+
+Company Description
+LG Chem is one of the largest petrochemical producers in Asia with an annual revenue of about KRW28 trillion (US$25
+billion) and an annual naphtha cracking center (NCC) capacity of 2.5mtpa as of 2018. The company produces a wide
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+LG Chem Ltd.
+
+range of upstream and downstream petrochemical products such as polyolefins, polyvinyl chloride (PVC)/plasticizers,
+acrylonitrile butadiene styrene (ABS), acrylates/super absorbent polymer (SAP), and synthetic rubbers. It is also a
+major producer of lithium-ion batteries (for mobile handsets, energy storage systems, and EVs), and materials for
+display products (i.e. polarizer films).
+The company operates in five major segments: Petrochemicals, energy solutions (batteries), advanced materials
+(information and electronic materials, and engineering plastics), life sciences, and agricultural chemicals. The
+petrochemicals division accounted for about 65% of sales and 95% of operating profit in 2018.
+Chart 2
+
+Business Risk: Satisfactory
+We expect LG Chem to maintain its position as one of the leading petrochemical producers in Asia, with one of the
+largest NCC capacities in the region with 2.5mtpa in terms of ethylene, and with the past track record of operating its
+petrochemical plants near full utilization rate at more than 95%. LG Chem's petrochemical division offers a vast range
+of products, which is comparable to four Formosa Group (Cayman) Ltd. companies' products combined. LG Chem's
+key products include PE, PP, ABS, SBR, PVC, and SAP. These product spreads lack correlation, given different end
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+LG Chem Ltd.
+
+demand applications.
+High operations rates and diversified product portfolio have supported LG Chem's profitability, as it has been most
+stable relative to its Asian peers over the past eight years. Compared to its peers' EBITDA margin fluctuation of 12%
+since 2011, LG Chem's range has only been 6.6%, while its EBITDA margin during the recent downcycle (2014) was
+11%--compared with peers' average of 5%. Furthermore, LG Chem's average profitability has been the highest
+amongst the peers during the same period at 14.0%, closely followed by Formosa Group companies' 13.6%. As we
+expect a petrochemical downcycle to be underway over the next two years and for LG Chem's chemical earnings to
+decline, we still believe these strengths will enable LG Chem's petrochemical earnings to remain relatively resilient
+compared with peers. As such, we have reflected these factors in our positive comparable rating analysis.
+Chart 3
+
+We expect demand for EVs to rapidly increase over the next several years, driven by global initiatives to reduce
+carbon emissions and lower dependency on crude oil as transportation fuel. Investments for EV batteries are therefore
+likely to grow. According to the International Energy Agency (IEA), 70 gigawatt hours (GWh) of battery cells were
+produced for light duty vehicles (LDVs). Based on capacity expansion plans by major EV battery makers such as
+Panasonic, CATL, SK Innovation, and LG Chem, production capacity could increase by 2.5 times to accommodate the
+strong demand for electrification by 2023.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+LG Chem Ltd.
+
+For LG Chem, we expect the growing exposure into EV batteries to benefit the company in further diversifying into the
+nonchemicals business and help offset earnings weakness from its petrochemical business, resulting in LG Chem
+achieving 9% three-year EBITDA CAGR. From 35GW in 2018, LG Chem plans to nearly triple its EV battery capacity
+to 100GW by end-2020. We expect sales and operating profit contribution to increase to 44% and 37% by 2021 from
+2018's 23% and 9%, respectively.
+In 2018, the energy solutions business achieved KRW6.5 trillion in sales (+43% annually), while operating profit grew
+seven-fold to KRW209 billion (3.2% operating profit margins). Considering its total EV battery order backlog of
+KRW110 trillion as of the first quarter of 2019, we expect energy solution to show exponential growth over the next
+three years, in which we expect sales and operating profit CAGR of 37% and 68%, respectively, while maintaining
+mid-single-digit operating profit margins.
+As a result of rising dependency and earnings growth from the energy solutions business, we expect the volatility in
+the company's overall earnings and operating cash flows to be further reduced, given that the company will become
+less exposed to the volatile petrochemical cycle.
+Chart 4
+
+Despite these positive factors, we believe LG Chem's earnings and cash flows are still somewhat exposed to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+LG Chem Ltd.
+
+fluctuations in macroeconomic drivers and the volatility in the petrochemicals business. As witnessed in 2018,
+profitability in the petrochemicals industry has come off from its peak in 2017, and could further weaken once planned
+global capacity expansion in the sector comes on stream over the next 12-24 months. As a result, we expect operating
+profits in the petrochemical operations to weaken further until 2020 after dropping 24% to KRW2.1 trillion in 2018. We
+expect earnings growth from the energy solutions business to mitigate this factor for the time being.
+Nevertheless, longer-term visibility of the EV battery sector may be uncertain due to the intensifying competition, risk
+of oversupply, and changes in regulations/subsidies.
+
+Peer comparison
+Table 1
+
+LG Chem Ltd.--Peer Comparison
+Industry sector: Chemical companies
+LG Chem
+Ltd.
+
+Formosa
+Plastics Corp.
+
+PTT Global Chemical
+Public Co. Ltd.
+
+SK Global
+Chemical Co. Ltd.
+
+Hanwha Total
+Petrochemical Co. Ltd.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenues
+
+25,308.3
+
+44,817.8
+
+16,044.6
+
+11,719.4
+
+10,066.0
+
+EBITDA
+
+3,279.2
+
+7,373.1
+
+1,779.6
+
+771.9
+
+1,287.2
+
+FFO
+
+2,523.7
+
+5,939.8
+
+1,506.4
+
+589.4
+
+945.3
+
+Interest expense
+
+145.7
+
+219.6
+
+134.4
+
+30.5
+
+52.4
+
+Cash interest paid
+
+137.1
+
+225.2
+
+109.8
+
+23.4
+
+61.1
+
+1,800.4
+
+6,593.4
+
+1,657.8
+
+578.4
+
+740.5
+
+Cash flow from operations
+Capital expenditures
+
+3,780.2
+
+2,204.7
+
+980.0
+
+134.7
+
+488.1
+
+Free operating cash flow
+
+(1,979.8)
+
+4,388.7
+
+677.8
+
+443.7
+
+252.5
+
+Discretionary cash flow
+
+(2,423.9)
+
+(85.1)
+
+67.1
+
+(274.7)
+
+(437.7)
+
+Cash and short-term
+investments
+
+2,295.6
+
+7,011.3
+
+1,656.9
+
+732.7
+
+232.8
+
+Debt
+
+3,216.7
+
+12,772.5
+
+1,942.6
+
+593.2
+
+1,811.6
+
+15,555.3
+
+33,352.9
+
+9,388.2
+
+3,790.7
+
+3,383.5
+
+EBITDA margin (%)
+
+13.0
+
+16.5
+
+11.1
+
+6.6
+
+12.8
+
+Return on capital (%)
+
+11.7
+
+15.8
+
+12.9
+
+16.5
+
+19.5
+
+EBITDA interest coverage
+(x)
+
+22.5
+
+33.6
+
+13.2
+
+25.3
+
+24.6
+
+FFO cash interest
+coverage (x)
+
+19.4
+
+27.4
+
+14.7
+
+26.2
+
+16.5
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+1.0
+
+1.7
+
+1.1
+
+0.8
+
+1.4
+
+FFO/debt (%)
+
+78.5
+
+46.5
+
+77.5
+
+99.4
+
+52.2
+
+Cash flow from
+operations/debt (%)
+
+56.0
+
+51.6
+
+85.3
+
+97.5
+
+40.9
+
+Free operating cash
+flow/debt (%)
+
+(61.5)
+
+34.4
+
+34.9
+
+74.8
+
+13.9
+
+Discretionary cash
+flow/debt (%)
+
+(75.4)
+
+(0.7)
+
+3.5
+
+(46.3)
+
+(24.2)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+LG Chem Ltd.
+
+We view Formosa Plastics Corp. (FPC; A-/Stable/--), PTT Global Chemical Public Co. Ltd. (PTTGC; BBB+/Stable/--),
+SK Global Chemical Co. Ltd. (SKGC; BBB+?Negative/--), and Hanwha Total Petrochemical Co. Ltd. (HTC;
+BBB/Stable/--) as comparable peers of LG Chem. All these companies operate in similar industries and have similar
+product offerings.
+We believe LG Chem's competitive position is most comparable to that of Taiwan's FPC. Similar to FPC, LG Chem
+also has a vast range of products with a sizable market position in the region. Coupled with diversified asset
+concentration, operating efficiencies have also shown a good track record of high utilization rates at 95% and limited
+shutdowns for LG Chem.
+PTTGC also has a dominant domestic market share with 60%-70% of revenues coming from Thailand. It benefits from
+stable raw material sourcing from its refining arm and has a fairly diversified product mix. Nevertheless, we believe LG
+Chem has more product diversity than PTTGC, given that PTTGC's dominant products--olefins/polyolefins--represent
+about 70% of its revenue. For LG Chem, olefins/polyefins and ABS each represent about 30% of total chemical
+revenue.
+SKGC and HTC are also among the larger petrochemical companies in the domestic Korean markets. However, LG
+Chem has better competitive position with greater size, asset diversity, and product diversification. This is evident on
+their revenue scale, in which LG Chem's sales (US$25 billion) are about 2.5 times that of SKGC (US$11.7 billion) and
+HTC (US$10 billion) as of 2018.
+Amongst its peers, LG Chem's profitability has been most stable over the years, while maintaining the highest EBITDA
+margin since 2011, closely followed by FPC.
+Following the company's aggressive investment announcement for 2019 and beyond, we expect LG Chem's leverage
+to be similar to that of its peers such as FPC and HTC. As of 2018, LG Chem's debt to EBITDA was lower than peers at
+1.0x, while FPC was at 1.7x and HTC was at 1.4x. While we expect its peers to maintain their credit metrics, we expect
+LG Chem's to worsen--given that we expect negative discretionary cash flows to persist on sizable investments,
+resulting in debt to EBITDA of 1.5x–1.8x over the next two years.
+
+Financial Risk: Modest
+We expect LG Chem's aggressive investment plans to increase debt and weaken credit metrics over the next two
+years. While the company's adjusted debt has always been less than, or equal to KRW2 trillion as the company's
+investment plans were within its annual EBITDA, LG Chem has taken greater balance sheet risk by investing
+substantially more than its earnings in recent years. This could indicate a shift in the company's financial policies and
+significantly reduces ratings headroom versus previous years.
+Following 2018's KRW4.3 trillion capex that was greater than its KRW2 trillion operating cash flows, LG Chem's
+adjusted debt increased to KRW3.6 trillion from 2017's KRW1.1 trillion. Its average debt to EBITDA in 2018 increased
+to 1.0x from an average of 0.5x between 2011 and 2018.
+In 2019, LG Chem announced a sizable capital investment plan of KRW6 trillion, which in our view, will further
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+LG Chem Ltd.
+
+weaken its capital structure and require substantial debt funding. Much of the investments will be used to increase EV
+battery lines and to expand petrochemical capacity by 800 kilo tones per annum in Yeosu, Korea. Considering its
+annual operating cash flows of KRW3.4 trillion–KRW4.0 trillion, we expect LG Chem to generate negative free cash
+flows and discretionary cash flows over the next two years. We also forecast its adjusted debt to further grow to about
+KRW6 trillion in 2019 and KRW7 trillion–KRW7.5 trillion in 2020.
+We believe the company's aggressive investment plans and rising debt will weaken LG Chem's credit metrics, in which
+we forecast debt to EBITDA to range 1.5x–1.8x over the next two years from 1.0x in 2018. EBITDA growth is
+insufficient to stabilize credit metrics, given that we expect the pace of debt increase to outpace earnings growth. As a
+result, we believe LG Chem's financial metrics may have narrow headroom to maintain the current ratings over the
+next 24 months, hence our negative outlook on the company.
+Chart 5
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+LG Chem Ltd.
+
+Table 2
+
+LG Chem Ltd.--Financial Summary
+Industry sector: Chemical companies
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. KRW)
+Revenues
+
+28,183,013.0 25,698,014.0 20,659,296.0 20,206,583.0 22,577,830.0
+
+EBITDA
+
+3,651,693.0
+
+4,257,694.0
+
+3,291,497.0
+
+3,084,581.0
+
+2,475,744.0
+
+FFO
+
+2,810,331.0
+
+3,674,798.0
+
+2,657,279.0
+
+2,765,725.0
+
+1,970,839.0
+
+162,264.0
+
+109,926.0
+
+84,789.0
+
+67,650.0
+
+89,244.0
+
+Interest expense
+Cash interest paid
+
+152,685.0
+
+108,134.0
+
+79,799.0
+
+71,991.0
+
+89,546.0
+
+Cash flow from operations
+
+2,004,950.0
+
+3,086,392.0
+
+2,453,279.0
+
+3,132,987.0
+
+1,956,211.0
+
+Capital expenditures
+
+4,209,617.0
+
+2,256,238.0
+
+1,409,196.0
+
+1,667,878.0
+
+1,423,152.0
+
+Free operating cash flow
+
+(2,204,667.0)
+
+830,154.0
+
+1,044,083.0
+
+1,465,109.0
+
+533,059.0
+
+Discretionary cash flow
+
+(2,699,206.0)
+
+442,222.0
+
+697,598.0
+
+1,155,697.0
+
+233,209.0
+
+Cash and short-term investments
+
+2,556,304.0
+
+2,777,704.0
+
+2,205,786.0
+
+2,684,879.0
+
+1,767,521.0
+
+Gross available cash
+
+2,556,304.0
+
+2,777,704.0
+
+2,205,786.0
+
+2,684,879.0
+
+1,767,521.0
+
+Debt
+
+3,582,108.7
+
+1,104,156.0
+
+1,307,439.8
+
+705,226.3
+
+1,671,887.8
+
+Equity
+
+17,322,128.0 16,338,577.0 14,050,967.0 13,103,522.0 12,265,852.0
+
+Adjusted ratios
+EBITDA margin (%)
+
+13.0
+
+16.6
+
+15.9
+
+15.3
+
+11.0
+
+Return on capital (%)
+
+11.7
+
+17.8
+
+13.7
+
+13.4
+
+10.2
+
+EBITDA interest coverage (x)
+
+22.5
+
+38.7
+
+38.8
+
+45.6
+
+27.7
+
+FFO cash interest coverage (x)
+
+19.4
+
+35.0
+
+34.3
+
+39.4
+
+23.0
+
+Debt/EBITDA (x)
+
+1.0
+
+0.3
+
+0.4
+
+0.2
+
+0.7
+
+FFO/debt (%)
+
+78.5
+
+332.8
+
+203.2
+
+392.2
+
+117.9
+
+Cash flow from operations/debt (%)
+
+56.0
+
+279.5
+
+187.6
+
+444.3
+
+117.0
+
+Free operating cash flow/debt (%)
+
+(61.5)
+
+75.2
+
+79.9
+
+207.8
+
+31.9
+
+Discretionary cash flow/debt (%)
+
+(75.4)
+
+40.1
+
+53.4
+
+163.9
+
+13.9
+
+KRW--Korean won.
+
+Liquidity: Adequate
+We assess LG Chem's liquidity as adequate. We expect the company's ratio of liquidity sources to uses to be around
+1.3x over the next 12 months ending March 31, 2020. We also expect sources to exceed uses even if EBITDA declines
+15%.
+We believe the company has good access to financial markets, as evidenced by frequent domestic bond issuances over
+the past several years, as well as the recent global bond issuance of about US$1.6 billion, which was one the largest
+issuances by a single private Korean firm. The company has good relations with major banks in Korea, as evidenced by
+its funding with a vast range of domestic and global banks. We also believe the company has the ability to absorb
+high-impact and low-probability events with limited need for refinancing, considering its cash holdings of KRW3.1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+LG Chem Ltd.
+
+trillion versus short-term debt of KRW1.6 trillion.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and equivalents of about KRW2.6 trillion as of
+June 30, 2019.
+
+• Debt of about KRW1.4 trillion maturing in 12
+months ending June 30, 2020.
+
+• Cash flow from operations of about KRW3.8 trillion
+in the 12 months ending June 30, 2020.
+
+• Committed capex of about KRW3.0 trillion, which
+are related to maintenance and EV battery line
+expansion, as compared with our base-case full
+capex of KRW6 trillion during the same period.
+• Dividend payouts of about KRW490 billion during
+the same period.
+
+Debt maturities
+Table 3
+
+LG Chem. Ltd.--Debt Maturities*
+Period
+
+Amount (Tril. KRW)
+
+June 30, 2019 - June 30, 2020
+
+1.4
+
+June 30, 2020 and thereafter
+
+7.1
+
+*As of June 30, 2019. KRW--Korean won.
+
+Covenant Analysis
+LG Chem does not have any material financial covenants on its existing borrowings.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+LG Chem Ltd.
+
+Environmental, Social, And Governance
+
+Environmental and social factors are relevant to our analysis of LG Chem, given that the company faces long-term
+risks such as tighter regulation and increased scrutiny due to its inherent exposure to greenhouse gas emissions,
+pollution, waste generation, and toxicity.
+LG Chem is making efforts to manage these risks by tracking key environmental metrics, improving efficiencies,
+recycling waste, and reducing pollution in its manufacturing processes. The company has also set a goal to reduce
+greenhouse gas emissions by 23% over the next two years, compared with business-as-usual levels. So far, LG
+Chem has been reaching its annual targets and is on track to meet its long-term goal.
+Long-term consumer behaviors such as awareness of chemicals and its related products are notable social risks to
+petrochemical demand in general. LG Chem manages this by diversifying its product offering, which includes
+high-value-added products. This provides some protection from changing patterns in consumer demand. Over the
+past two decades, LG Chem has been investing in EV batteries. As a result, the company is one of the major EV
+battery makers globally and plans to focus its business on renewable energy sources as consumer preference shifts
+away from carbon fuel.
+Overall, LG Chem maintains a satisfactory safety track record with no significant accidents in recent history. We
+do not find any material deficiency in LG Chem's corporate governance. The company has adequate internal
+controls in place and maintains independence from the board.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+We rate multiple senior unsecured debt instruments that LG Chem has issued. As of June 30, 2019, LG Chem's capital
+structure consists of about KRW5.4 trillion of unsecured debt at the parent level and about KRW3.1 trillion of
+unsecured debt issued by the company's subsidiaries, implying a priority debt ratio of 37%.
+
+Analytical conclusions
+We rate LG Chem's senior unsecured notes the same as our long-term issuer credit rating on the company. This is
+because LG Chem has sufficiently low leverage, limiting the possibility of senior unsecured debtholders being
+disadvantaged relative to other lenders, suggesting low subordination risk. In addition, we believe the risk of
+subordination is mitigated by a material proportion of consolidated earnings and cash flows that the issuer directly
+generates. As of December 2018, LG Chem's parent company generated 95% of consolidated operating cash flows.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+LG Chem Ltd.
+
+Table 3
+
+Reconciliation Of LG Chem Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. KRW)
+--Fiscal year ended Dec. 31, 2018-LG Chem Ltd. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+17,083,044.0
+
+3,733,339.0
+
+2,246,070.0
+
+135,513.0
+
+3,651,693.0
+
+2,124,969.0
+
+4,329,636.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(688,677.0)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+5,321,147.0
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(131,780.0)
+
+--
+
+--
+
+178,189.7
+
+--
+
+6,658.0
+
+6,658.0
+
+5,846.0
+
+--
+
+--
+
+--
+
+(1,917,228.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+20,905.0
+
+(20,905.0)
+
+(20,905.0)
+
+(20,905.0)
+
+Capitalized
+development costs
+
+--
+
+--
+
+(99,114.0)
+
+(56,838.0)
+
+--
+
+--
+
+(99,114.0)
+
+(99,114.0)
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+10,810.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+53,044.0
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+239,084.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,739,038.3)
+
+239,084.0
+
+(81,646.0)
+
+2,864.0
+
+26,751.0
+
+(841,362.0)
+
+(120,019.0)
+
+(120,019.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditures
+
+2,810,331.0
+
+2,004,950.0
+
+4,209,617.0
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash &
+liquid investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+3,582,108.7
+
+17,322,128.0
+
+3,651,693.0
+
+2,248,934.0
+
+162,264.0
+
+KRW--Korean won.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A-/Negative/--
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Strong
+Financial risk: Modest
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+LG Chem Ltd.
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : a-
+
+Related Criteria
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Commodity Chemicals Industry, Dec. 31, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Hardware And Semiconductors Industry,
+Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 17
+
+LG Chem Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+LG Chem Ltd.
+Issuer Credit Rating
+
+A-/Negative/--
+
+Senior Unsecured
+
+A-
+
+Issuer Credit Ratings History
+14-Mar-2019
+
+A-/Negative/--
+
+24-Nov-2010
+
+A-/Stable/--
+
+12-Nov-2008
+
+BBB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 18
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 19
+
+

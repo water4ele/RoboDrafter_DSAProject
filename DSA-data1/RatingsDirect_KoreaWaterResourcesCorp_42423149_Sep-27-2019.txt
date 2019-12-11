@@ -1,0 +1,1234 @@
+Korea Water Resources Corp.
+Primary Credit Analyst:
+Minjib Kim, Hong Kong (852) 2533-3503; Minjib.Kim@spglobal.com
+Secondary Contact:
+JunHong Park, Hong Kong (852) 2533-3538; junhong.park@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+Korea Water Resources Corp.
+Business Risk: STRONG
+Vulnerable
+
+aa
+Excellent
+
+bb+
+
+bbbAA/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Issuer Credit Rating
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+The sole government-owned national scale builder and operator of
+wholesale water supply infrastructure in Korea.
+
+High debt due to large capital investments needs.
+
+Steady operating performance supported by a solid market position.
+
+Government's tight control of tariff hikes, allowing only reasonable cost
+recovery and resulting in lower margins than global peers'.
+
+Ongoing financial support from the government.
+Strong presence in domestic capital markets and low funding costs.
+
+Ratings remain equalized with that on the government of Korea. This equalization mainly reflects Korea Water
+Resources Corp.'s (K-Water) position as the sole government-owned national scale builder and operator of wholesale
+water supply infrastructure in Korea (AA/Stable/A-1+). The company plays a key role in waterworks management
+and water supply (about 50% market share), flood control (over 90%), as well as hydro power generation from
+multi-purpose dams (around 60%). We therefore see an almost certain likelihood of extraordinary government support
+for K-Water in the event of financial distress.
+Stable regulations and resilience of water demand to economic downturns should support steady operating
+performance. Turnaround of K-Water's waterfront complex development and favorable operating conditions for hydro
+power should also support earnings. Overall, we estimate the company will maintain EBITDA of Korean won (KRW)
+1.0 trillion-KRW1.2 trillion in 2019-2020, similar to 2016-2018.
+Steady earnings and ongoing government support would prevent any significant debt increase.The government
+provides capital injection to K-Water every year to support investments that involve production of public water
+resources. We expect this trend to continue with annual capital injection of KRW300 billion-KRW400 billion every year
+in 2019-2020. Moreover, K-Water is likely to gradually reduce its debt over the next two to three years, helped by a
+turnaround in cash flow from its Busan Eco-Delta City (EDC) project.
+Debt should remain high. We expect K-Water to continue to maintain high capital expenditure (capex) of KRW0.8
+trillion-KRW1.0 trillion over the next two years. This is mainly for maintenance and improvement of waterworks, and
+for waterfront complex development. This ongoing investment, which is larger than K-Water's operating cash flows,
+will prevent significant improvement in credit metrics over the next two to three years. We estimate the ratio of debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+Korea Water Resources Corp.
+
+to EBITDA will stay at 9x-11x in 2019-2020.
+Chart 1
+
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+Korea Water Resources Corp.
+
+Outlook: Stable
+
+The stable outlook on K-Water reflects the outlook on the sovereign credit rating on Korea because we equalize the
+rating on the company with that on the sovereign. The rating equalization reflects our expectation of an almost
+certain likelihood that the government will provide extraordinary support if the company faces financial distress.
+We expect K-Water's stand-alone credit profile to remain at 'bbb-' over the next 12-24 months. Our view is based
+on the company's steady operating performance supported by its strong position in Korea as a major
+government-related entity for water utilities, the government's continued capital injections, and the company's
+gradually declining, although still high, debt.
+
+Downside scenario
+We would lower our rating on K-Water if we downgrade Korea. In addition, a weakening of K-Water's role as a
+policy arm of, or the company's link to, the government could put pressure on the rating.
+
+Upside scenario
+We would raise the rating on K-Water if we upgrade Korea.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+Korea Water Resources Corp.
+
+Assumptions
+
+• Real GDP growth in South Korea of 2.0% in 2019
+and 2.6% in 2020, compared with 2.7% in 2018. Rise
+in water demand to generally track GDP growth.
+• Steady water demand and stable tariffs in Korea,
+which should support K-Water's topline.
+• Stable EBITDA of KRW1.0 trillion-KRW1.2 trillion
+each in 2019 and 2020, similar to the 2017-2018
+level, given that large portion of the company's
+profit still comes from steady water supply-related
+business.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Operating margin (%)
+
+14.2 13.5-14.5 13.5-14.5
+
+Debt/EBITDA (x)
+
+10.7
+
+9.5-10.5
+
+9.5-10.5
+
+2.6
+
+2.5-3.5
+
+2.5-3.5
+
+EBITDA interest coverage (x)
+
+A--Actual. E--Estimate.
+
+• High annual capex of KRW0.8 trillion-KRW1.0
+trillion in 2019 and 2020, compared with KRW0.9
+trillion in 2018, due to spending on waterworks
+maintenance and improvement and development of
+waterfront complex.
+• Government capital injections of KRW300
+billion-KRW400 billion each in 2019 and 2020,
+covering full interest costs and part of the principal
+of debt related to the four river restoration projects
+and public waterworks.
+
+Base-case projections
+Annual revenue growth of 0%-3% in 2019 and 2020. We expect growth in K-Water's waterworks revenue (40% of total
+revenue in 2018) to be broadly in line with the low-single-digit growth in Korea's GDP. The company's revenue from
+dams operations (16%) should remain steady due to favorable business environment. We expect revenue from its
+waterfront complex development (17%) to grow at 5%-15% as land sale from the Busan EDC project accelerates
+towards 2021.
+Consistent and reasonable recovery of costs. The government has enabled K-Water to recover almost all of its
+operating costs for waterworks by adjusting tariffs. This is reflected in the waterworks business' stable operating
+margin of about 10% in 2016-2018. We expect a correlation between the rate adjustment and Korea's inflation rate, as
+seen in the 4.8% tariff hike in September 2016. However, some uncertainty exists on the timing of tariff adjustment,
+which we estimate will normally happen in every two to four years. We expect the company's other businesses to
+maintain profitability, given a stable operating environment.
+Operating cash flow to rise. As the sale of Busan EDC accelerates, K-Water will be able to improve its operating cash
+flow in 2019-2020. The company's working capital was hit by early-stage cash outflows for the waterfront development
+projects in the past two years. Under our base case, we expect the company's operating cash flow to grow to KRW500
+billion-KRW900 billion in 2019-2020 from KRW324 billion in 2018. We estimate KRW150 billion-KRW400 billion
+improvements in annual cash flow will come from the development of waterfront complexes.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+Korea Water Resources Corp.
+
+Debt to decline modestly in 2019-2020. Despite K-Water's high capex, we expect the company to be able to secure
+cash flows to pay down debt. However, the discretionary cash flows for debt repayment are likely to still be modest
+compared to the total debt level. We expect K-Water's debt to remain at KRW10 trillion-KRW12 trillion, broadly
+similar to or slightly lower than KRW11.9 trillion in 2018. Under our base case, we estimate the company's
+debt-to-EBITDA ratio to be near 10x.
+Chart 3
+
+Company Description
+K-Water plays a central role for the Korean government in the development and management of water resources. The
+company was established in 1967 under the K-Water Act.
+K-Water's main business is construction, operation, and management of wholesale water supply infrastructure such as
+dams and multi-regional waterworks. The company also engages in property development of industrial complexes and
+special-purpose zones, mostly related to waterfront development.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+Korea Water Resources Corp.
+
+Chart 4
+
+K-Water is fully owned by the Korean government and Korea Development Bank (government-owned), and abides by
+the Korea Water Resources Corporation Act. The company benefits from continued financial support from the
+government, which usually comes in the form of capital injection or government agency revenue.
+Chart 5
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+Korea Water Resources Corp.
+
+Business Risk: Strong
+We believe K-Water will maintain its strong position as the sole government-owned national scale builder and operator
+of wholesale water supply infrastructure in Korea. In our view, K-Water plays an essential role of providing stable
+water supply in the country that has significant seasonal water scarcity and floods.
+K-Water is likely to continue to have a dominant market share in water-related business--local governments have the
+remaining market share in many cases. Further, the company's assets are diversified across Korea and it has a diverse
+customer base, including regional waterworks and industrial units.
+In our view, K-Water has satisfactory operating efficiency. It has maintained good water quality, meeting acceptable
+service standards with reliable service.
+We expect the Korean government to continue to allow K-Water to recover almost all its operating costs by adjusting
+tariffs every two to four years. The cost base for water-related businesses is low with limited exposure to cost of raw
+material, which supports the company's stable margins. In addition, the government allows K-Water to develop
+waterfront areas for industrial complexes, from which the company can generate cash flow to support its public role.
+K-Water's profitability is lower than global peers'. We attribute the lower profitability mainly to the company's policy
+role of supplying stable water resources to the public at reasonable rates. In our base case, we estimate K-Water will
+maintain stable but low profitability, with EBITDA margins of 32%-34% over the next two years, compared with 32.9%
+in 2018.
+
+Peer comparison
+Table 1
+
+Korea Water Resources Corp.--Peer Comparison
+Industry Sector: Electric
+Korea Water Resources Corp.
+
+Wessex Water Services Ltd.
+
+Rand Water
+
+--Fiscal year ended-Dec. 31, 2018
+
+March 31, 2019 June 30, 2018
+
+(Mil. $)
+Revenue
+
+3,045.6
+
+713.3
+
+981.1
+
+EBITDA
+
+1,001.8
+
+432.8
+
+260.3
+
+Funds from operations (FFO)
+
+742.7
+
+319.7
+
+228.4
+
+Interest expense
+
+385.0
+
+124.5
+
+34.6
+
+Cash interest paid
+
+259.5
+
+84.9
+
+31.9
+
+Cash flow from operations
+
+290.8
+
+300.7
+
+185.8
+
+Capital expenditure
+
+834.7
+
+305.5
+
+112.8
+
+Free operating cash flow (FOCF)
+
+(544.0)
+
+(4.8)
+
+73.0
+
+Discretionary cash flow (DCF)
+
+(544.0)
+
+(122.0)
+
+73.0
+
+Cash and short-term investments
+Debt
+Equity
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+344.2
+
+0.0
+
+130.3
+
+10,674.3
+
+2,875.9
+
+222.9
+
+6,992.8
+
+1,074.3
+
+1,372.7
+
+SEPTEMBER 9, 2019 8
+
+Korea Water Resources Corp.
+
+Table 1
+
+Korea Water Resources Corp.--Peer Comparison (cont.)
+Adjusted ratios
+EBITDA margin (%)
+
+32.9
+
+60.7
+
+26.5
+
+Return on capital (%)
+
+2.6
+
+7.6
+
+16.0
+
+EBITDA interest coverage (x)
+
+2.6
+
+3.5
+
+7.5
+
+FFO cash interest coverage (x)
+Debt/EBITDA (x)
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+3.9
+
+4.8
+
+8.2
+
+10.7
+
+6.6
+
+0.9
+
+7.0
+
+11.1
+
+102.5
+
+2.7
+
+10.5
+
+83.4
+
+FOCF/debt (%)
+
+(5.1)
+
+(0.2)
+
+32.8
+
+DCF/debt (%)
+
+(5.1)
+
+(4.2)
+
+32.8
+
+We view global rated water utility companies such as Wessex Water Services Ltd. and Rand Water as comparable
+peers of K-Water.
+K-Water's scale and diversification are stronger than that of its peers. The company covers the entire nation and has a
+diversified customer base without any significant counterparty risk.
+Wessex and Rand Water are better placed than K-Water in terms of government regulations, backed by their
+supportive regulatory framework. The two companies have a record of recovering operational expenses and all other
+associated costs in a timely manner. Although the water price in Korea helps K-Water to consistently recover costs, we
+view the timing of adjustment as less transparent and less predictable.
+K-Water's profitability is lower than that of Wessex mainly due to its public policy role.
+Similar to K-Water, the peers have a strong safety record, and reasonable cost controls, water quality management,
+and record of operations.
+K-Water's financial ratios are much weaker than its global peers'. This is mainly due to its large debt incurred while
+executing the Korean government's major projects in the past.
+
+Financial Risk: Aggressive
+We expect K-Water to modestly reduce its debt with improvement in cash flows over the next two years. However, the
+company's leverage is likely to remain high, given its significant debt balance and ongoing investment needs.
+K-Water's debt significantly increased during 2009-2011 to fund the government's restoration projects for Korea's four
+major rivers. Since 2016, to lessen the burden of increased debt, the government has supported the company's
+financing costs and repayment of principal associated with the projects in the form of capital injections.
+We expect K-Water to continue to benefit from relatively low borrowing costs owing to its strong standing in the credit
+markets as one of the major government-related entities in Korea. This enables the company to maintain a strong
+interest coverage ratio despite the high debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+Korea Water Resources Corp.
+
+Financial summary
+Table 2
+
+Korea Water Resources Corp.--Financial Summary
+Industry Sector: Electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+3,391,568.2
+
+3,375,560.3
+
+3,618,084.6
+
+3,777,344.6
+
+3,698,372.5
+
+EBITDA
+
+1,115,637.1
+
+1,132,376.3
+
+1,064,382.5
+
+1,036,360.5
+
+1,061,847.7
+
+Funds from operations (FFO)
+
+827,091.1
+
+892,418.3
+
+588,210.1
+
+555,357.2
+
+415,155.5
+
+Interest expense
+
+428,677.7
+
+417,493.3
+
+451,301.7
+
+479,835.0
+
+507,857.0
+
+Cash interest paid
+
+288,966.3
+
+241,046.9
+
+476,135.9
+
+474,019.5
+
+487,101.9
+
+Cash flow from operations
+
+323,791.8
+
+220,497.8
+
+274,489.8
+
+676,209.4
+
+45,853.9
+
+712,185.5
+
+1,162,245.0
+
+(Mil. KRW)
+
+Capital expenditure
+
+929,549.1
+
+717,620.6
+
+915,670.1
+
+Free operating cash flow (FOCF)
+
+(605,757.3)
+
+(497,122.8)
+
+(641,180.3)
+
+(35,976.0) (1,116,391.2)
+
+Discretionary cash flow (DCF)
+
+(605,757.3)
+
+(497,122.8)
+
+(641,180.3)
+
+(114,963.8) (1,181,335.8)
+
+Cash and short-term investments
+
+383,244.0
+
+144,561.1
+
+161,323.0
+
+184,811.1
+
+327,475.6
+
+Gross available cash
+
+383,244.0
+
+144,561.1
+
+161,322.9
+
+184,811.2
+
+327,475.6
+
+Debt
+Equity
+
+11,886,790.6 11,740,951.3 11,759,395.5 11,586,000.4 11,611,853.5
+7,787,128.0
+
+7,234,004.2
+
+6,660,574.7
+
+6,277,468.5 11,977,664.1
+
+EBITDA margin (%)
+
+32.9
+
+33.5
+
+29.4
+
+27.4
+
+28.7
+
+Return on capital (%)
+
+2.6
+
+2.4
+
+2.1
+
+1.8
+
+1.8
+
+EBITDA interest coverage (x)
+
+2.6
+
+2.7
+
+2.4
+
+2.2
+
+2.1
+
+Adjusted ratios
+
+FFO cash interest coverage (x)
+Debt/EBITDA (x)
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+3.9
+
+4.7
+
+2.2
+
+2.2
+
+1.9
+
+10.7
+
+10.4
+
+11.0
+
+11.2
+
+10.9
+
+7.0
+
+7.6
+
+5.0
+
+4.8
+
+3.6
+
+2.7
+
+1.9
+
+2.3
+
+5.8
+
+0.4
+
+FOCF/debt (%)
+
+(5.1)
+
+(4.2)
+
+(5.5)
+
+(0.3)
+
+(9.6)
+
+DCF/debt (%)
+
+(5.1)
+
+(4.2)
+
+(5.5)
+
+(1.0)
+
+(10.2)
+
+KRW--Korean won.
+
+Liquidity: Adequate
+We assess K-Water's liquidity as adequate. We expect strong ongoing support from the government to enable the
+company to fund its large short-term debt maturities and capital investments. We estimate K-Water's ratio of liquidity
+sources to liquidity uses to be 1.2x-1.4x over 2019.
+We believe K-Water will continue to benefit from preferential access to debt markets in Korea and support in financial
+markets to raise debt in a timely manner, as it has done in recent years. That's because the company is one of Korea's
+most important government-related entities.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+Korea Water Resources Corp.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about KRW400 billion
+as of Dec. 31, 2018.
+
+• Debt of about KRW1.2 trillion maturing in 2019.
+
+• Cash flow from operations of about KRW510 billion
+in 2019.
+
+• Committed capex of about KRW800 billion in 2019.
+• No dividend payments.
+
+• Capital injection of about KRW390 billion from the
+government in 2019.
+• Planned debt issuance of about KRW1.3 trillion in
+2019 as part of ongoing government support. Such
+support enables the company to access funding from
+the domestic capital market.
+
+Debt maturities
+Table 3
+
+Korea Water Resources Corp.--Debt Maturities*
+Period
+
+Amount (Bil. KRW)
+
+2019
+2020 and thereafter
+
+1,244.4
+10,784.8
+
+*As of Dec. 31, 2018. KRW--Korean won.
+
+Covenant Analysis
+K-Water does not have any significant financial covenants on its borrowings.
+
+Government Influence
+We see an almost certain likelihood that the government of Korea will provide K-Water with timely and sufficient
+extraordinary support in the event of financial distress. We base our view on K-Water's:
+• Critical role to the government and the national economy as the sole government-owned national scale builder and
+operator of wholesale water supply infrastructure. In our view, K-Water operates essentially on behalf of the
+government and its main purpose is to provide a key public service that a private entity couldn't readily undertake.
+• Integral link with the government owing to the government's full ownership of the company and tight management
+and supervisory control through the Ministry of Environment. The government closely monitors K-Water's financial
+policies, including the budget and major investments. It also has a record of providing financial support to the
+company every year, mainly in the form of capital injections.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+Korea Water Resources Corp.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+K-Water's capital structure as of end-2018 consists of about KRW12.0 trillion of senior unsecured debt issued at the
+parent level and minimal debt issued by its subsidiaries.
+
+Analytical conclusions
+We rate K-Water's debt 'AA', the same as the issuer credit rating, given that no significant elements of subordination
+risk are present in the company's capital structure.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Korea Water Resources Corp. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. KRW)
+--Fiscal year ended Dec. 31, 2018-Korea Water Resources Corp. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+7,745,582.2
+
+1,111,378.9
+
+476,021.9
+
+265,595.2
+
+1,115,637.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+420.2
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(288,966.3)
+
+144,974.0
+
+--
+
+4,258.2
+
+4,258.2
+
+4,533.5
+
+--
+
+(287,433.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+158,549.0
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+--
+
+14,983.8
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+41,545.8
+
+--
+
+--
+
+--
+
+--
+
+(142,459.0)
+
+41,545.8
+
+4,258.2
+
+19,242.0
+
+163,082.5
+
+(288,546.1)
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+11,886,790.6
+
+7,787,128.0
+
+1,115,637.1
+
+495,264.0
+
+428,677.7
+
+827,091.1
+
+Debt
+
+Shareholders'
+equity
+
+12,029,249.6
+
+Cash taxes paid
+
+Reported
+S&P Global Ratings' adjustments
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+KRW--Korean won.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 12
+
+Korea Water Resources Corp.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+AA/Stable/--
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Very low
+• Competitive position: Satisfactory
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bbb-
+
+• Related government rating: AA
+• Likelihood of government support: Almost certain (+7 notches from SACP)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 13
+
+Korea Water Resources Corp.
+
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 9, 2019)*
+Korea Water Resources Corp.
+Issuer Credit Rating
+
+AA/Stable/--
+
+Senior Unsecured
+
+AA
+
+Issuer Credit Ratings History
+15-May-2017
+
+AA/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 15
+
+

@@ -1,0 +1,1662 @@
+Jardine Strategic Holdings Ltd.
+Primary Credit Analyst:
+Sandy Lim, CFA, Hong Kong (852) 2533-3578; sandy.lim@spglobal.com
+Secondary Contact:
+Sophie Lin, Hong Kong (852) 2533-3544; sophie.lin@spglobal.com
+Research Contributor:
+Shreya Lakshminarayan, CRISIL Global Analytical Center, an S&P affiliate, Mumbai
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Group Influence
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Jardine Strategic Holdings Ltd.
+Business Risk: STRONG
+Vulnerable
+
+Excellent
+
+a
+
+a+
+
+a+
+
+A+/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Issuer Credit Rating
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Strong market position in most of the businesses under the
+group's operating companies.
+
+Material exposure to Indonesia could increase volatility and sensitivity to
+macroeconomic conditions there.
+
+Diverse operations both geographically across Asia and by
+industry.
+
+Revenue growth profile weaker than the blended GDP of the countries in
+which it operates.
+
+Stable operating cash flows and strong liquidity.
+Long history of prudent financial management.
+
+We forecast that the investment cycle of Jardine Matheson--the holding company of Jardine Strategic Holdings
+Ltd.--has peaked and expect investments to moderate in 2019. After high investment spending over the past two years,
+we believe Jardine's investment appetite has moderated. This is reflected in the distinct drop in investment spending in
+the first half of 2019 at key operating subsidiaries Hongkong Land Holdings Ltd. and PT Astra International Tbk. We
+assume maintenance capital expenditure (capex) and expansionary capex of US$1.5 billion–US$1.8 billion each
+annually. This compares to aggregate capex of US$4.7 billion in 2018 and about US$4.5 billion in 2017.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Jardine Strategic Holdings Ltd.
+
+Chart 1
+
+We believe Jardine will uphold its prudent financial policy and has no appetite for higher leverage. We consider the
+increase in investment spending as part of management's strategy formulated in 2017 and 2018 to increase exposure
+to the property sector in Greater China and achieve greater diversification within Indonesia. We believe the group does
+not have a high appetite for debt-funded investments. The sale of Jardine Lloyd Thompson in 2019 for US$2.1 billion
+helped to offset the heavy spending at Hongkong Land and Astra in the past two years.
+Jardine's earnings diversity, entrenched market positions, and brand equity should support its operations even in
+volatile market conditions. We expect Jardine to maintain strong market positions across its various operating
+companies. Hongkong Land's "Grade A" offices mixed with high-end retail properties in Central, Hong Kong, and in
+the central business district in Singapore provide steady investment income. At Astra, growth in heavy equipment
+supported by the ongoing recovery in mining contracts will help offset the decline in automotive volumes. We believe
+the group's underlying business strengths will provide some stability to cash flows and earnings resilience through
+economic cycles.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Jardine Strategic Holdings Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Jardine will uphold its conservative financial policy and limit debt growth
+after two years of high investment. We expect the group's debt-to-EBITDA ratio to remain below 2.0x for the next
+24 months. At the same time, we believe the group's earnings diversity, entrenched market positions, and brand
+equity would support its operations despite likely more volatile market conditions.
+
+Downside scenario
+We may lower the rating if the group's risk appetite increases, such that its debt-to-EBITDA ratio exceeds 2.0x.
+This may happen if: (1) the group's debt-funded expansion and shareholder distributions are more aggressive than
+we anticipated; or (2) sustained competition or eroding demand in key markets and volatility in working capital
+movements undermine the group's operating cash flows.
+
+Upside scenario
+Rating upside is limited for the next 24 months. We may raise the rating if Jardine strengthens its business
+fundamentals while maintaining low leverage. This may happen if the competitive positioning and diversity of the
+company's various subsidiaries improve such that revenue growth and margin improvement are significantly above
+our base case on a sustainable basis.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Jardine Strategic Holdings Ltd.
+
+Assumptions
+
+• For 2019 and 2020, real GDP growth of 6.2% in
+China, 5.1% and 5.2% in Indonesia, 2.2% and 2.4%
+in Hong Kong, and 2.3% and 2.4% in Singapore.
+• Jardine's revenue to increase 0.5%-1.0% in 2019 and
+2.5%-3.0% in 2020, weaker than the GDP growth in
+the respective countries.
+• EBITDA margins to decrease to 12.0%-12.5% in
+2019 and 2020, from 14.6% in 2018.
+
+Key Metrics
+
+2018A
+Debt/EBITDA (x)
+FFO/Debt (%)
+EBITDA Interest Coverage (x)
+
+2019E
+
+2020F
+
+1.7 1.8-1.9 1.8-1.9
+43.6
+
+41-43
+
+41-43
+
+9.4
+
+10-11
+
+10-11
+
+FFO--Funds from operations. A--Actual. E--Estimate.
+F--Forecast.
+
+• Capex of US$1.5 billion-US$1.8 billion in 2019 and
+2020.
+• Acquisitions to decrease to US$1.5 billion-US$1.8
+billion in 2019 and 2020, from about US$2.9 billion
+in 2018, given no significant investments over this
+period.
+• Dividend payments of US$1.2 billion–US$1.4 billion
+annually in 2019 and 2020.
+
+Base-case projections
+We expect Jardine's revenue growth to be weaker than the GDP growth of the respective countries in which it operates.
+The group has high market shares in maturing industries, such as consumer retail, real estate, auto retail, and heavy
+equipment. We expect strong growth in the heavy equipment business in Indonesia. However, we forecast this will be
+offset by weaker automotive sales in Indonesia and slower retail sales in Hong Kong, Singapore, and China amid
+intense competition in retail. Real estate revenues will dip in 2019 owing to the high base in 2018 from the delivery of
+the Sol Acres residential property in Singapore. Real estate revenue will rebound by 1%-3% from 2020, following
+recognition of revenue from project deliveries mainly in China.
+We expect EBITDA margins to decrease slightly, weighed down by lower-margin acquisitions at Astra. We believe this
+is attributable to recent acquisitions--such as the Martabe gold mine and toll roads--that resulted in a lower blended
+EBITDA margin.
+We do not expect significant investments in the next 24 months. At Hongkong Land, one new development property
+project was added in the first half of 2019, compared with five in the same period of 2018. At Astra, investments in
+2018 were largely driven by the US$1.14 billion acquisition of the Martabe gold mine. The absence of such spending
+has resulted in a natural drop in investments. We expect the group to sustain its conservative risk appetite as it digests
+recent investments.
+
+Company Description
+Hong Kong-based Jardine is a business conglomerate focused on Asia. The company has a standard listing on the
+London Stock Exchange, with secondary listings in Bermuda and Singapore. Jardine Matheson is the holding company
+of the group.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Jardine Strategic Holdings Ltd.
+
+The group's operating companies are engaged in property investment and development, food retailing, home
+furnishings, restaurants, luxury hotels, motor vehicles and related operations, financial services, heavy equipment,
+mining and agribusiness, engineering and construction, and transport services.
+Jardine is 85% held by Jardine Matheson, which is in turn 58% owned by Jardine. The cross-shareholding allows the
+group to take a long-term view of its business interests and help maintain the policy and ownership continuity.
+
+Business Risk: Strong
+In our view, Jardine's good business and geographic diversity, solid market position, and well-entrenched brand name
+in each of its key businesses underpin its competitive positioning.
+We expect Hongkong Land to remain resilient to downcycles and deliver satisfactory operating performance in 2019.
+Hongkong Land's strong market position is supported by its high asset quality in prime locations mainly in Hong Kong
+and Singapore), well-diversified tenant mix, and well-managed lease maturity profile. While operating profits for
+development properties (including share of JV projects) increased to US$193 million in the first half of 2019, from
+US$148 million in the first half of 2018, we expect development property revenue to further pick up in the second half.
+This is suggested by the company's solid project pipeline and satisfactory unbooked revenue (from the China and
+Singapore portfolio) for recognition in the second half of 2019.
+At Astra, we expect the Indonesian subsidiary to benefit from its dominant market share in key businesses and good
+diversity across three major earnings contributors: automobile, heavy equipment and mining, and financial services. In
+the automobile segment, Astra holds significant market share in the retail of four-wheelers (53%) and two-wheelers
+(75%) in Indonesia, backed by its exclusive distribution rights for Toyota and Honda in the country. In the heavy
+equipment segment, Astra commands a domestic market share of about 36% owing to its exclusive distribution rights
+with top brands such as Komatsu and long-standing relationship with its large customers.
+We expect the reorganization at subsidiary Dairy Farm International Holdings Ltd. to have a slight positive impact on
+its segment margin in the next 24 months. Jardine plans to integrate all of Dairy Farm's back-end operations into a
+single structure from a multi-geography hierarchy. This will improve group control and Dairy Farm's bargaining power
+thanks to benefits from economies of scale resulting from the introduction of central procurement. We believe the
+replacement of the majority of senior management at Dairy Farm with industry veterans will help to halt the revenue
+decline in the food business.
+The vast expanse of Jardine's business across different geographies and segments will continue to create a competitive
+advantage for the group. We believe the group's earnings profile is highly resilient with steady growth prospects
+because of a good mix of stable businesses such as property leasing and retail (health and beauty/groceries), which
+offset more volatile heavy equipment and mining businesses. In addition, the group's geographic diversity across a
+number of developed countries offsets volatility in Indonesia. We expect Jardine to maintain this diversity and
+earnings quality over the next three years.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Jardine Strategic Holdings Ltd.
+
+Chart 2
+
+Peer comparison
+Table 1
+
+Jardine Matheson Holdings Ltd.--Peer Comparison
+Industry sector: Miscellaneous retailers
+Jardine Matheson Holdings
+Ltd.
+
+CK Hutchison Holdings
+Ltd.
+
+Swire Pacific
+Ltd.
+
+Wesfarmers Ltd.
+
+--Fiscal year ended-Dec. 31, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+June 29, 2019
+
+Revenue
+
+41,146.3
+
+35,386.6
+
+10,803.3
+
+19,558.4
+
+EBITDA
+
+6,009.0
+
+11,402.0
+
+2,133.1
+
+4,119.4
+
+Funds from operations (FFO)
+
+4,524.2
+
+8,769.2
+
+1,479.5
+
+2,613.3
+
+Interest expense
+
+642.1
+
+1,950.5
+
+376.2
+
+746.0
+
+Cash interest paid
+
+680.1
+
+2,047.4
+
+375.3
+
+747.4
+
+Cash flow from operations
+
+4,526.3
+
+8,212.0
+
+2,066.6
+
+2,906.4
+
+Capital expenditure
+
+1,734.8
+
+4,746.1
+
+1,024.1
+
+950.8
+
+Free operating cash flow (FOCF)
+
+2,791.5
+
+3,465.9
+
+1,042.5
+
+1,955.6
+
+(Mil. $)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Jardine Strategic Holdings Ltd.
+
+Table 1
+
+Jardine Matheson Holdings Ltd.--Peer Comparison (cont.)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+
+1,424.5
+
+(1,145.2)
+
+69.4
+
+(588.3)
+
+5,038.0
+
+18,477.1
+
+1,163.5
+
+557.4
+
+Debt
+
+10,365.1
+
+41,792.1
+
+9,293.8
+
+10,930.3
+
+Equity
+
+56,897.0
+
+73,716.7
+
+41,513.9
+
+6,991.4
+
+EBITDA margin (%)
+
+14.6
+
+32.2
+
+19.7
+
+21.1
+
+Return on capital (%)
+
+8.3
+
+6.6
+
+3.8
+
+11.5
+
+EBITDA interest coverage (x)
+
+9.4
+
+5.8
+
+5.7
+
+5.5
+
+FFO cash interest coverage (x)
+
+7.7
+
+5.3
+
+4.9
+
+4.5
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+1.7
+
+3.7
+
+4.4
+
+2.7
+
+FFO/debt (%)
+
+43.6
+
+21.0
+
+15.9
+
+23.9
+
+Cash flow from operations/debt
+(%)
+
+43.7
+
+19.6
+
+22.2
+
+26.6
+
+FOCF/debt (%)
+
+26.9
+
+8.3
+
+11.2
+
+17.9
+
+DCF/debt (%)
+
+13.7
+
+(2.7)
+
+0.7
+
+(5.4)
+
+We consider CK Hutchison Holdings Ltd., Swire Pacific Ltd., and Wesfarmers Ltd. as Jardine's peers because they are
+all diversified conglomerates. We believe CK Hutchison is the closest peer to Jardine because it is a Hong Kong-based
+conglomerate with diversified businesses. Over 60% of Swire's earnings are from REITs and about 80% of Wesfarmers'
+earnings are from retail.
+All companies have strong market positions, satisfactory brand names, and good track records of execution in their
+respective markets and business lines. Swire has an edge being the holder of exclusive rights to manufacture, market,
+and distribute products of The Coca-Cola Co. Wesfarmers and CK Hutchison have better diversity in business
+segments and geography compared to Jardine. Furthermore, Jardine has exposure to operations with higher cash flow
+volatility such as auto retailing, heavy equipment, and construction in Indonesia.
+Jardine's track record of prudent financial management results in better financial leverage metrics than peers', despite
+a recent increase in the company's investment appetite.
+
+Financial Risk: Modest
+We expect Jardine's leverage to peak in 2019 such that its debt-to-EBITDA ratio remains below 2.0x over the next 24
+months.
+We believe Jardine's prudent financial policy and strict risk management are deeply rooted across the group.
+Although working capital swings can result in greater cash flow volatility for the group, we see this risk as manageable.
+The volatility is largely attributable to Astra's significant working capital requirements related to inventory
+management at the automobile and mining equipment segments. When demand falls short of expectations, Astra can
+manage working capital outflows by revising volumes in its agreements with original equipment manufacturers
+(OEMs). We also note that Astra's strict hedging policies to reduce cash flow mismatch in times of volatile movements
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Jardine Strategic Holdings Ltd.
+
+for currency, interest rates, and commodity prices will help to manage sharp price movements.
+We exclude financial services in our debt calculation. This is because we believe the benefits and risks of Astra's
+captive finance companies based on its asset quality and leverage profile are captured in the group's business and
+financial risk profile.
+
+Financial summary
+Table 2
+
+Jardine Matheson Holdings Ltd.--Financial Summary
+Industry sector: Miscellaneous retailers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+41,146.3
+
+37,359.2
+
+35,728.7
+
+35,762.8
+
+38,642.2
+
+EBITDA
+
+6,009.0
+
+4,643.4
+
+4,806.0
+
+4,919.1
+
+5,575.7
+
+Funds from operations (FFO)
+
+4,524.2
+
+3,474.3
+
+3,748.8
+
+3,672.9
+
+4,279.4
+
+642.1
+
+486.6
+
+437.3
+
+427.2
+
+431.3
+
+(Mil. US$)
+
+Interest expense
+Cash interest paid
+
+680.1
+
+501.6
+
+446.3
+
+428.2
+
+467.3
+
+Cash flow from operations
+
+4,526.3
+
+4,731.5
+
+4,336.9
+
+4,456.0
+
+3,533.2
+
+Capital expenditure
+
+1,734.8
+
+1,750.7
+
+1,507.0
+
+1,524.0
+
+1,472.0
+
+Free operating cash flow (FOCF)
+
+2,791.5
+
+2,980.8
+
+2,829.9
+
+2,932.0
+
+2,061.2
+
+Discretionary cash flow (DCF)
+
+1,424.5
+
+1,723.8
+
+1,724.9
+
+1,674.0
+
+778.2
+
+Cash and short-term investments
+
+5,038.0
+
+6,027.0
+
+5,608.0
+
+4,814.0
+
+5,333.0
+
+Gross available cash
+
+4,851.0
+
+5,786.0
+
+5,379.0
+
+4,568.1
+
+4,947.9
+
+Debt
+
+10,365.1
+
+8,253.0
+
+5,980.0
+
+6,716.6
+
+6,279.6
+
+Equity
+
+56,897.0
+
+55,477.2
+
+47,577.7
+
+43,460.2
+
+42,732.0
+
+EBITDA margin (%)
+
+14.6
+
+12.4
+
+13.5
+
+13.8
+
+14.4
+
+Return on capital (%)
+
+8.3
+
+7.5
+
+7.8
+
+8.8
+
+9.8
+
+EBITDA interest coverage (x)
+
+9.4
+
+9.5
+
+11.0
+
+11.5
+
+12.9
+
+FFO cash interest coverage (x)
+
+7.7
+
+7.9
+
+9.4
+
+9.6
+
+10.2
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+1.7
+
+1.8
+
+1.2
+
+1.4
+
+1.1
+
+FFO/debt (%)
+
+43.6
+
+42.1
+
+62.7
+
+54.7
+
+68.1
+
+Cash flow from operations/debt (%)
+
+43.7
+
+57.3
+
+72.5
+
+66.3
+
+56.3
+
+FOCF/debt (%)
+
+26.9
+
+36.1
+
+47.3
+
+43.7
+
+32.8
+
+DCF/debt (%)
+
+13.7
+
+20.9
+
+28.8
+
+24.9
+
+12.4
+
+Liquidity: Strong
+We assess Jardine's liquidity as strong based on the group's large cash position, solid operating cash flow, and
+well-managed debt maturity profile. We expect the group's ratio of liquidity sources to uses to be above 1.5x in the 24
+months ending Dec. 31, 2020. We exclude financial services' cash and debt from our liquidity assessment because that
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Jardine Strategic Holdings Ltd.
+
+segment is self-sustaining and non-recourse to the group.
+Jardine has a long track record of maintaining strong liquidity. We believe the company's low debt leverage and high
+cash generation provide it with enough buffer to withstand low probability but material events that affect liquidity.
+Jardine has low-cost bank and public debt, a long track record of good access to capital markets and bank lines, and a
+history of maintaining its good credit rating. All of these factors point to the company's financial flexibility and good
+access to liquidity support.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents (excluding financial
+services) of about US$4.8 billion as of Dec. 31, 2018.
+
+• Short-term debt of US$5.3 billion (excluding
+financial services debt) as of Dec. 31, 2018.
+
+• Net cash proceeds of US$2.1 billion from the sale of
+Jardine Lloyd Thompson.
+
+• Working capital outflows of US$400 million-US$600
+million annually over the next two years.
+
+• Cash funds from operations of US$4.7 billion-US$5.0
+billion annually over the next two years.
+
+• Annual capex of US$1.6 billion-US$2.0 billion during
+the same time.
+
+• Unused committed banking facilities with more than
+12 months maturity of about US$8 billion as of Dec.
+31, 2018.
+
+• Dividend payments of US$1.2 billion-US$1.4 billion
+annually in the same period.
+
+Debt maturities
+Table 3
+
+Jardine Matheson Holdings Ltd.--Debt Maturities*
+Period
+
+Amount (Mil. US$)
+
+2019
+
+7,144.0
+
+2020
+
+901.0
+
+2021
+
+742.0
+
+2022
+
+1,148.0
+
+2023
+
+1,603.0
+
+After 2024
+Total (including financial services debt)
+
+2,655.0
+14,193.0
+
+*Based on the company's sensitivity to interest rates, which includes the effects of hedging, and may not represent the actual amount of debt due
+in each year; As of Dec. 31, 2018.
+
+Covenant Analysis
+In our view, the bank loan covenants on Astra and Hongkong Land have sufficient headroom, and these companies
+will remain in compliance with their financial covenants. The group was compliant with its financial covenants as of
+June 30, 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Jardine Strategic Holdings Ltd.
+
+Group Influence
+We regard Jardine as a core entity of the Jardine Matheson group. Our assessment of the credit profile of the wider
+group has no impact on the rating on Jardine.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Jardine Matheson Holdings Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. US$)
+--Fiscal year ended Dec. 31, 2018-Jardine Matheson Holdings Ltd. reported amounts
+
+Reported
+
+S&P Global
+Ratings'
+Interest
+adjusted
+expense
+EBITDA
+
+Cash flow
+from
+Capital
+operations expenditure
+
+Debt
+
+Shareholders'
+equity
+
+Revenue
+
+EBITDA
+
+Operating
+income
+
+14,193.0
+
+26,342.0
+
+42,527.0
+
+5,791.0
+
+4,348.0
+
+404.0
+
+6,009.0
+
+4,146.0
+
+1,757.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(902.0)
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(480.0)
+
+--
+
+--
+
+38.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2,847.7
+
+--
+
+--
+
+973.0
+
+200.1
+
+200.1
+
+(200.1)
+
+772.9
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+322.8
+
+--
+
+--
+
+23.0
+
+23.0
+
+21.0
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(3,638.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+17.0
+
+--
+
+--
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+5.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+--
+
+942.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3,480.0)
+
+(2,300.0)
+
+(1,380.7)
+
+(418.0)
+
+(425.1)
+
+--
+
+97.3
+
+(392.6)
+
+(22.2)
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+--
+
+1,366.0
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+32,855.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+15.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Contingent
+considerations
+
+66.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,307.0)
+
+(1,307.0)
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+Operating leases
+
+Captive finance
+operations
+
+EBITDA: Other
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+Jardine Strategic Holdings Ltd.
+
+Table 4
+
+Reconciliation Of Jardine Matheson Holdings Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. US$) (cont.)
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+--
+
+332.0
+
+--
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+--
+
+895.0
+
+--
+
+--
+
+--
+
+--
+
+(3,827.9)
+
+30,555.0
+
+(1,380.7)
+
+218.0
+
+1,084.0
+
+238.1
+
+(1,484.8)
+
+380.3
+
+(22.2)
+
+Funds
+from
+operations
+4,524.2
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+10,365.1
+
+56,897.0
+
+41,146.3
+
+6,009.0
+
+5,432.0
+
+642.1
+
+Cash flow
+from
+Capital
+operations expenditure
+4,526.3
+
+1,734.8
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A+/Stable/--
+
+Business risk: Strong
+
+• Country risk: Intermediate
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a
+Modifiers
+
+• Diversification/Portfolio effect: Moderate (+1 notch)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : a+
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+Jardine Strategic Holdings Ltd.
+
+• Criteria | Corporates | Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Ratings Above The Sovereign--Corporate And Government Ratings: Methodology And
+Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Jardine Strategic Holdings Upgraded To 'A+' On Lower Capital Spending And Prudent Financial Management;
+Outlook Stable – Aug. 28, 2019.
+• Astra Local-Currency Rating Raised To 'A-' On High Likelihood Of Group Support; 'BBB+' Foreign-Currency Rating
+Affirmed – Aug. 28, 2019.
+• Hongkong Land Holdings Ltd. 'A' Rating Affirmed; Outlook Stable; Group Status Revised To Highly Strategic – Aug.
+28, 2019.
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+Jardine Strategic Holdings Ltd.
+Issuer Credit Rating
+
+A+/Stable/--
+
+Issuer Credit Ratings History
+28-Aug-2019
+
+A+/Stable/--
+
+07-Aug-2017
+
+A/Positive/--
+
+18-Dec-2013
+
+A/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+Jardine Strategic Holdings Ltd.
+
+Ratings Detail (As Of September 24, 2019)*(cont.)
+Related Entities
+Hongkong Land Holdings Ltd.
+Issuer Credit Rating
+
+A/Stable/NR
+
+PT Astra International Tbk.
+Issuer Credit Rating
+Foreign Currency
+
+BBB+/Stable/--
+
+Local Currency
+
+A-/Stable/--
+
+The Hongkong Land Co. Ltd.
+Issuer Credit Rating
+
+A/Stable/NR
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+

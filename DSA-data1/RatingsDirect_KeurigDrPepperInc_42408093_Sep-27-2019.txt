@@ -1,0 +1,672 @@
+Keurig Dr Pepper Inc.
+Primary Credit Analyst:
+Diane M Shand, New York (1) 212-438-7860; diane.shand@spglobal.com
+Secondary Contact:
+Chris Johnson, CFA, New York (1) 212-438-1433; chris.johnson@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Keurig Dr Pepper Inc.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/A-2
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Solid market positions in categories with good growth trends.
+
+High leverage because of largely debt financed merger in 2018.
+
+Benefits from product diversification as well as a comprehensive
+distribution network.
+
+Limited geographic diversity compared to global beverage and food peers.
+
+Greater negotiating power with retailers and suppliers post
+merger because of increased scale and diversity.
+
+Distant third market position in cold beverages.
+
+Strong cash flow because of high margins, low dividend payout,
+and capital expenditure.
+
+Need to increase household penetration of brewers as growth in single-serve
+coffee category has slowed and is under pricing pressure.
+
+KDP continues to generate solid performance in its coffee business.
+KDP's volume grew 13% for k-cups pods and 19% for brewers with total volume/mix growth of 8.3% in the second
+quarter 2019. In part, the strength was because of advanced shipments. Excluding advanced shipments, the company's
+coffee business is growing at a mid-single-digit growth rate, which is in line with the industry. KDP remains the
+dominant manufacturer with dollar market share of 81.6% in single-serve coffee pods.
+
+Changes in its Allied Brands portfolio is affecting the packaged beverage segment.
+The beverage business sales declined 3% in the second quarter pro forma for the merger. The decline is largely
+attributable to the shift in the mix of its allied brands portfolio with the ramping up of evian, Peet's and FORTO and the
+exit of the established FIJI and BODYARMOR businesses last year. We believe the allied brand business will have less
+of an impact in the second half of 2019. Over the past year, the company has signed eight new allied and partner
+agreements.
+
+KDP has industry-leading margins.
+The pro forma EBITDA margin has expanded to 31% in the first half of 2019 from the mid-20% range in the first half of
+2018, largely on productivity and merger synergies. This compares favorably to PepsiCo's EBITDA margin of 20.1%
+and Molson Coors 20.7% as well as packaged goods peers such as General Mills, J.M. Smucker, Conagra, Campbell,
+and McCormick which generate EBITDA margins in the low-20% range. The Coca-Cola Co.'s (Coke) EBITDA margin
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Keurig Dr Pepper Inc.
+
+of 34.8% in 2018 is the highest and is attributable to its large scale and asset-light business model.
+
+Expanding margins and strong cash flow will drive rapid de-leveraging.
+Pro forma for the merger, KDP's leverage was 5.0x in the trailing 12 months ending June 30, 2019, down from 5.8x at
+the close of the transaction. Its net adjusted debt is down $900 million since Sept. 30, 2018 (our adjusted debt includes
+the $595 million of structured payables). We forecast a decline in leverage to the low-4.0x area by year-end 2019 and
+to the mid-3x area in 2020 through a combination of debt paydown and EBITDA growth. In addition, we forecast that
+it will generate $2.2 billion of discretionary cash flow in 2019 and $1.4 billion in 2020, up from pro forma $1.2 billion in
+2018.
+
+Outlook: Stable
+
+The stable rating outlook on Keurig Dr Pepper Inc. (KDP) reflects S&P Global Ratings' expectations that it will
+continue to grow earnings and cash flows and rapidly reduce leverage. We believe the company will generate lowto mid-single-digit top-line growth and maintain the EBITDA margins over 30%. We forecast it will generate $2.2
+billion in discretionary cash flow in 2019 and $1.4 billion in 2020. This should enable the company to deleverage to
+the mid-3x area within two years of the close of the merger.
+
+Downside scenario
+We could lower the ratings if KDP is unable to reduce leverage below 4x by 2020 due to an inability to achieve its
+anticipated cost cutting, operating performance deterioration (possibility because of changing consumer tastes and
+preferences or a severe recession), or if management's financial policies become more aggressive, resulting in the
+inability to improve profitability and reduce debt in line with our base-case forecast. This results in leverage that
+remains above 4x and a substantial drop in discretionary cash flow.
+
+Upside scenario
+While unlikely over the next two years considering its current leverage, we could raise the ratings if the company is
+able to reduce debt using its strong cash flow and demonstrates EBITDA improvement by increasing operating
+efficiencies and achieving $600 million in planned synergies, resulting in EBITDA margins expanding close to 35%.
+This should lead to a decline in leverage to below 3.0x. In addition, we would expect that management would
+adhere to a financial policy consistent with maintaining leverage below 3x.
+
+Our Base-Case Scenario
+We forecast KDP will continue to benefit from consumer demand for non-cola carbonated and distilled beverages and
+single-service coffee. We believe its national distribution capabilities will support revenue growth and inflation would
+be more than offset by its productivity programs and increasing prices of its cold beverages.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Keurig Dr Pepper Inc.
+
+Assumptions
+
+• U.S. GDP growth of 2.5% in 2019, 1.8% in 2020, and
+Canada GDP growth of 1.2% in 2019 and 1.7% in
+2020.
+• Sales growth for its cold beverages to be up 1% in
+2019 below GDP growth, reflecting the loss of FIJI
+and BODYARMOR businesses. Thereafter, we
+believe the business will grow 2% in line with GDP.
+Hot beverage revenue grows 3.5% in 2019 above
+economic growth because of strong sales of coffee
+machines and advanced shipments. In 2020, coffee
+sales grow 1.5%, slightly below economic growth.
+During this period, we believe the company's
+volume will be up but that its strategy to reduce
+prices to increase household penetration will
+partially offset volume gains. In addition, coffee mix
+will be unfavorable as we believe its lower-priced
+private label products will outpace sales of its
+premium brands.
+
+Key Metrics
+
+2018P 2019E
+30-31
+
+2020E
+
+EBITDA margin (%)
+
+28.4
+
+Debt to EBITDA (x)
+
+5.4
+
+4-4.5 3.5-4.0
+
+32-33
+
+DCF to debt (%)
+
+7.3
+
+10-15
+
+15-20
+
+• The EBITDA margin expands to 30% in 2019, up
+from pro forma 28.4% in 2018. We believe the
+margin will rise to roughly 31.5% in 2020 and
+approach 35% in 2023, reflecting a $600 million
+benefit from cost-savings initiatives and synergies.
+Productivity improvements will more than offset the
+negative shift in price/mix in its coffee business.
+• Cash flow benefits from a working capital inflow of
+$1.1 billion in 2019 from a combination of accounts
+receivable, accounts payable, and inventory
+management as well as depreciation and
+amortization exceeding capital expenditures.
+• Capex of around $250 million in 2019 and 2020.
+• Dividends of roughly $850 million annually in 2019
+and 2020.
+• No share repurchases and limited mergers and
+acquisitions (M&A) activity.
+• Discretionary free cash flow totaling $2.2 billion in
+2019 and $1.4 billion in 2020 compared with $1.2
+billion in 2018, and is applied to debt reduction.
+• Adjusted debt decreases by $2.1 billion in 2019
+compared with year-end 2018 and by $1.4 billion in
+2020 compared with year-end 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Keurig Dr Pepper Inc.
+
+Base-case projections
+KDP's well-diversified cold and hot beverage portfolio offers steady organic growth.We forecast the company can
+grow organic sales by roughly 2% annually over the next five years because of its above-average volume growth in
+several brands across its carbonated, non-carbonated, and its large and diverse single-serve coffee portfolio.
+KDP's margins continue to improve because of synergies and its on-going cost savings programs. We expect roughly
+half of the $600 million run-rate savings to come from reducing selling, general, and administrative (SG&A) expenses, a
+third from cost of goods sold (COGS), and the remainder from distribution. As a percent of Dr Pepper Snapple's 2017
+revenues, deal synergies are about 9%, which is modestly above the 8.5% median of large transactions in the global
+consumer products industry between 2000 and 2017.
+
+Company Description
+Keurig Dr Pepper Inc. is a major beverage company in North America with a diverse portfolio of flavored (non-cola)
+carbonated soft drinks (CSDs), specialty coffee and non-carbonated beverages (NCBs), and the number one
+single-serve coffee brewing system in North America. KDP has a national distribution system that enables its portfolio
+of more than 125 owned, licensed, and partner brands to be available to the consumer. Its coffee business is modestly
+more profitable than its cold beverage business.
+
+Business Risk: Strong
+KDP is a formidable competitor in the beverage industry. KDP is the number one player in the North American
+single-serve coffee sector and holds the number three position in the North American liquid refreshment beverage
+industry. We expect single-serve coffee to be the fastest-growing segment of the coffee market and non-flavored
+carbonated beverages to grow faster than the overall carbonated beverage market. We expect the company to grow
+organic sales roughly 2% annually over the next three years. We believe its diversified portfolio of hot and cold
+beverages and single-serve hot coffee should enable it to generate stable sales and profit growth.
+On the cold beverage side, the company has very defendable market positions given the strength of its core and
+difficult-to-replicate Dr Pepper brand, customer loyalty, and favorable demographic trend across many of its flavored
+carbonated drinks (including the fast-growing Penafiel brand in Mexico), and its strong brands in non-carbonated
+drinks (including Motts and the Bai water brands). Moreover, its core CSD business does not have a lot of overlap with
+its large competitors, Coke and Pepsi. Its strategy is to focus on categories where there is fragmentation. The North
+America soft drink category is large at $118 billion in 2019 according to Euromonitor. Industry sales should grow at a
+low-single-digit rate annually over the next five years because of price mix and volume increases of non-carbonated
+drinks despite an expected low-single-digit volume decline of carbonated beverages.
+The non-cola flavored carbonated market has been growing faster than the cola market and KDP's portfolio has
+benefited from the strength of its Dr Pepper and Canada Dry brands. According to Euromonitor, off-premise retail
+sales in the North American carbonated beverage market declined around 1%-2% annually for the past 12 years and
+this trend is expected to continue over the next five years because of consumers' shift toward drinks with less sugar
+content and energy drinks. However, trends in non-cola have outpaced the industry and the segment is expected to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Keurig Dr Pepper Inc.
+
+grow at 1%-2% annually. The Dr Pepper brands' market share increased to 19.1% in 2018, up from 16.1% in 2005
+which compares favorably to Coke's flat share and a 6 point decline in PepsiCo's . We attribute this to the difficult to
+replicate taste of its Dr Pepper brand and popularity of its Canada Dry brands as mixers in alcoholic beverages.
+We believe KDP will also benefit from its non-carbonated drinks portfolio. The company should be able to compete in
+the water segment which is the second-largest segment of the soft drink market and has better growth prospects given
+consumers' shift toward healthier beverages. KDP purchased Bai in 2017 and Core in 2018 and signed a long-term
+distribution agreement with Dannon Water to sell, distribute, and merchandise Evian in North America. Nestles is the
+clear leader in the category with its portfolio of water brands commanding a 21.2% share of the industry. Coke is the
+next largest player with its water brands having a 8.4% share and PepsiCo has a 7.2% water brand market share. Still,
+the category is very fragmented with no individual brand having more than a 9% share and the majority of brands
+having less than a 1% share. Evian currently has 0.5% share of the market. KDP has an advantage over smaller and
+regional brands given its national distribution capabilities. We expect KDP to build on the premium water segment as
+well as other faster-growing categories such as sport and energy, RTD tea, and coffee. Although it is a small player in
+the fast-growing energy segment, we consider it a major participant given consumers' use of coffee as an energy lifter.
+Overall, we believe KDP's cold beverages will continue to gain share because of its focus on non-cola beverages, its
+water offerings, its RTD Peet's coffee, and its allied brands.
+KDP has the number one position in the single-serve coffee segment in North America. It is successful because it has
+lots of brands and large distribution. The North American coffee market is large with $15.5 billion of sales (excluding
+retail coffee shops), according to Euromonitor. The U.S. single-serve coffee market should grow at a 4% compounded
+annual rate through 2023 outpacing category growth of about 2.5%. Single-serve volume per pound share of total
+coffee is 11.2% in North America in 2018, and has been driving the overall coffee market growth. Single-serve share
+was 39% in 2018 on a dollar basis in North America, up from 2% in 2008. The significantly higher dollar share reflects
+the segment's higher price point compared with those of other coffee segments. The single-serve price per cup is less
+than 50 cents, compared to premium roast and ground, which is 11 cents; mainstream, at four cents; and instant, at
+three cents. We expect KDP to grow in-line with the market because of its large market share, vast stable of brands,
+and broad distribution. The company's dollar share of pods manufactured by KDP in the U.S. was 82% in 2018. In
+recent years, category growth has slowed because the market is maturing, pricing initiatives by KDP to bring down the
+cost to consumer to gain household penetration, an increase in lower-priced private label, and environmental
+sustainability concerns. The category is also facing competition from cold brew coffee as it offers the same
+convenience as single-serve coffee which is a key demand driver. Moreover, millennials drink more cold coffee than
+hot. We believe KDP competes in the in RTD coffee market with its Peet's RTD offering.
+Given its large share, KDP will need to grow household penetration. Household penetration increased to 22% in 2018
+up from 17% in 2015. There is still plenty of room for growth given there is 128 million households in the U.S. and 89
+million at home coffee drinkers. Household penetration in France is 65% and is 63% in the Netherlands. We think the
+company can increase household penetration in the U.S because it has reduced the price of pods to broaden its
+customer base, improved the brewers, invested in advertising, and upgraded in-store displays for brewers. The
+company's pods in Canada are 100% recyclable and within the next 18 months all of its pods in the U.S. will be
+recyclable. This should also help increase household penetration among environmentally conscious consumers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Keurig Dr Pepper Inc.
+
+On the hot coffee side, KDP competes against large brands with deep financial resources such as Kraft Foods' Maxwell
+House and The J.M. Smucker Co.'s Folgers, as well as coffee retailers such as Starbucks and Dunkin' Brands. In the
+single-cup coffee segment, the company competes against companies such as Nestle, which is the global category
+leader with about $12 billion in sales. KDP also competes against coffees and teas sold through supermarkets, club
+stores, mass merchants, specialty retailers, and food service accounts. In single-serve, KDP has a competitive
+advantage, as it controls innovation on brewers and pods, and has multiyear strategic relationships with Starbucks,
+Dunkin' Donuts, Kraft-Heinz, Smucker, Eight O' Clock Coffee, and others. The company has more than 100 brands in
+its system, including 18 of the top 20 brands, which creates a significant competitive advantage because no other
+single-serve system offers more choices for consumers. We believe KDP will maintain a very strong share in the U.S.
+and Canada markets because of its history of success at developing innovative products. In the U.S., according to the
+company, its share is 82%. Its new brewer innovation pipeline and marketing initiatives should enable it to gain
+additional share.
+
+Peer comparison
+KDP has several close beverage peers including Coke and PepsiCo. Both Coke and PEP are clearly larger and have
+greater product and geographic diversity.
+PepsiCo's and Coke's credit protection measures are stronger than KDP's. KDP'S business strengths comparable to
+that of Molson Coors and Bacardi, but it has more product diversification and higher margins. KDP's discretionary cash
+flow to total debt is higher than all of the peers we've mentioned except for Molson Coors which is similar to KDP's.
+In comparison to its packaged goods peers, KDP should be rated the same as J.M. Smucker, General Mills, and
+Kellogg. These peers have similar business risks given their leading market positions, diverse brand and product
+portfolios, good margins, and cash flow generation. In addition, these peers generate the majority of their sales in the
+U.S. KDP competes directly with J.M. Smucker in the coffee category. KDP's discretionary cash flow to total debt is
+higher than all of these peers.
+
+Financial Risk: Significant
+Although KDP's leverage following the Dr Pepper acquisition is high with debt to EBITDA currently 5x, we forecast
+swift and significant deleveraging over the next two years. The company is steadily improving cash flow, prioritizing
+debt repayment and has no plans to increase its currently modest shareholder returns. We believe KDP will delever to
+3.0x by 2021 given its strong discretionary cash flow. We estimate the ratio of discretionary cash flow to adjusted debt
+will be strong at around 15% in 2019 and 11% in 2020, and consider this a key factor in our ratings. We expect the
+company to repay debt of more than $2.0 billion in 2019 (including structured payables of $595 million) and more than
+$1.0 billion annually in 2020 and 2021. Our forecast assumes no share repurchases and expect M&A activity to be
+leverage neutral during the forecast period. The company has shown a willingness to use equity to finance acquisitions
+(i.e., Core).
+KDP generates strong cash flow given its high margins. Moreover its capital investment needs are low because its
+manufacturing facilities are relatively new compared to its competitors and its dividend payout is also low compared
+with its peer group. Its depreciation and amortization expense will exceed its capital expenditures through 2023. KDP's
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Keurig Dr Pepper Inc.
+
+cash flow will also benefit from strong working capital improvement through a combination of better management of
+accounts receivables and payables as well as inventories. In 2019, we believe the company will repay debt through a
+combination of working capital gains and EBITDA growth; thereafter, debt paydown will occur predominantly through
+EBITDA growth. We do not expect the company's accounts-payable days to exceed 150 days at year-end 2019. Its
+accounts-payable days are currently 125 days and we believe the industry norm is around 120 days. Adding 30 days
+payable to debt, KDP's leverage would be in about 4.5x at year-end 2019 compared to our 4.4x estimate. We note that
+a portion of transportation and warehousing as well as advertising and promotion expense that are included in SG&A
+on the income statement are included in accounts payable.
+
+Liquidity: Adequate
+In our assessment, the company's liquidity is adequate, reflecting our expectation that projected sources will cover
+uses by 1.5x over the next 12 months. We expect sources will continue exceeding uses even if forecast EBITDA
+declines by 30%. Although the company's ratio of sources to uses would qualify for a more favorable liquidity
+assessment, we believe the company could not absorb high-impact, low-probability events without refinancing. Neither
+do we view the company's financial risk management as sustainable for strong liquidity given its high leverage. That
+said, we believe the company has a strong standing in the credit markets, strong relationships with its banks, and
+EBITDA cushion over 15% on its debt-to-EBITDA covenant.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of about $106 million at June 30, 2019;
+
+• Debt maturities and amortization of more than $400
+million in 2019 and 2020;
+
+• Total availability under its $2.4 billion revolving
+credit facility maturing 2023 and $750 million 364
+day facility;
+• Funds from operations (FFO) of more than $2
+billion; and
+
+• Seasonal working capital requirement over $100
+million;
+• Capex $250 million in 2019; and
+• Dividends roughly $850 million in 2019.
+
+• Working capital inflow of more than $1.1 billion in
+the trailing twelve months ending Dec. 31, 2019.
+
+Debt maturities
+June 30, 2019
+• 2019: $ 350 million
+• 2020: $ 350 million
+• 2021: $2,350 million
+• 2022: $ 3350 million
+• 2023: $3,885 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Keurig Dr Pepper Inc.
+
+• Thereafter: $6,725 million
+
+Covenant Analysis
+Compliance expectations
+We forecast KDP will maintain a covenant cushion above 15% over the next two years. This calculation includes pro
+forma synergies.
+
+Requirements
+The company is subject to maintenance financial covenants under its senior unsecured revolver,364 day credit facility,
+and term loan executed in 2019. The company is subject to a leverage ratio of 5.5x until June 30, 2019, and tightens to
+5.0x beginning Sept. 30, 2019, 4.5x beginning June 30, 2020, and 4.0x beginning March 31, 2021.
+
+Environmental, Social, And Governance
+
+Ongoing changing consumer tastes away from traditional carbonated soft drinks and societal efforts to reduce the
+sugar content of beverages as governments seek to combat obesity has reduced demand for sugary soft drinks. In
+response to these social changes, KDP continues to invest in diversifying its portfolio to offset declining demand in
+the U.S. away from carbonated soft drink consumption to categories like premium water, sports, and energy. This
+strategy has yielded better than industry average organic sales growth while improving the portfolio mix toward
+faster-growing, more socially acceptable offerings.
+KDP so far has not been materially affected by governmental efforts to curb sugar consumptions via taxation.
+These efforts tend to only temporarily reduce sales and consumption, but sales typically rebound closer to
+historical levels once the full-year impact of the tax gets lapped. For example, Mexico enacted a sugar tax in 2014
+and consumption did fall in the subsequent year, but stabilized thereafter.
+The global anti-plastic movement is an inherent environmental risk factor. KDP is focusing on using fully recycled
+products to manufacture its packaging to reduce its carbon footprint and energy usage. The company's coffee pods
+are 100% recyclable in Canada and within the next 18 months its pods in the U.S. will all be recyclable. The
+modest capex requirements and cost saving of increasing recycled inputs should not compromise KDP's strong
+free cash flow generation.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+KDP's capital structure consists of senior unsecured debt, all of which is issued at the Keurig Dr Pepper level. The
+company has no secured debt or priority subsidiary debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Keurig Dr Pepper Inc.
+
+Analytical conclusions
+KDP's unsecured debt is rated 'BBB', the same as the issuer credit rating, because we believe that any subordination
+risk that may exist is not significant enough to warrant a notch down.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/A-2
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Low
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+Related Criteria
+• Guidance | Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | Industrials: Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Keurig Dr Pepper Inc.
+
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+Keurig Dr Pepper Inc.
+Issuer Credit Rating
+
+BBB/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Senior Secured
+
+BBB
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+14-May-2018
+
+BBB/Stable/A-2
+
+29-Jan-2018
+
+BBB+/Watch Neg/A-2
+
+13-Nov-2013
+
+BBB+/Stable/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+

@@ -1,0 +1,1553 @@
+CK Asset Holdings Ltd.
+Primary Credit Analyst:
+Jensen Hui, CFA, Hong Kong (852) 2532-8070; jensen.hui@spglobal.com
+Secondary Contact:
+Edward Chan, CFA, Hong Kong + 852 2533 3539; edward.chan@spglobal.com
+Research Contributor:
+Harshil Doshi, CRISIL Global Analytical Center, an S&P affiliate, Mumbai
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 2
+
+CK Asset Holdings Ltd.
+Business Risk: STRONG
+
+a+
+Vulnerable
+
+Excellent
+
+Issuer Credit Rating
+a
+
+a
+
+A/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong market position in Hong Kong with a long operating history in property
+development and investment.
+
+Lack of land replenishment in Hong Kong to sustain pipeline
+and market presence.
+
+Sizable low-cost land bank in China to support property sales and profitability.
+
+Uncertainties related to identifying and executing accretive,
+stable acquisitions.
+
+Growing recurring income from diversified, non-property assets.
+
+Debt-funded acquisitions that are more aggressive than we
+anticipate.
+
+Consistently strong liquidity thanks to excellent cash generation capability and
+prudent financial management.
+
+CK Asset Holdings Ltd.'s market position in Hong Kong's property sector remains strong despite the lack of
+replenishment to its development pipeline. We expect CK Asset to maintain steady property sales in Hong Kong over
+the next two to three years. Its pipeline beyond that period will depend on the replenishment of its land bank. We
+forecast CK Asset to achieve contracted sales of Hong Kong dollar (HK$) 13 billion-15 billion in 2019 and HK$23
+billion–25 billion in 2020, supported by sizable projects at Borrett Road, Lohas Park, and Wong Chuk Hang Station.
+However, the company has been relatively muted in the land market in the past several years. As of June 30, 2019, it
+had only 4 million square feet of development land bank in Hong Kong. We believe the company's presence in Hong
+Kong's property development market will gradually diminish if it does not acquire more land.
+CK Asset's active asset allocation across diversified non-property investments enhances cash flow stability, although
+uncertainties related to returns and execution exist. In our view, CK Asset will continue to actively manage its asset
+portfolio to enhance cash flow stability, but there are uncertainties in identifying accretive opportunities and executing
+the acquisitions. Over the past two years, the company had expanded beyond its property business in Hong Kong and
+China and invested in global assets that generate stable cash flow. These include aircraft leasing, infrastructure and
+utilities, and most recently a brewer and pub operator. While this has diversified CK Asset's earnings stream and
+reduced its business concentration, we believe that event risks stemming from acquisitions will linger as the company
+continues to optimize its portfolio.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 3
+
+CK Asset Holdings Ltd.
+
+Chart 1
+
+CK Assets's continued strong liquidity and prudent financial management could mitigate potential risks from sizable
+acquisitions. In our view, CK Asset's high cash balance, limited near-term maturities, and track record of financial
+prudence will help the company capture acquisition opportunities while minimizing potential risks. The company has
+HK$58.5 billion in unrestricted cash as of June 30, 2019, compared with near-term debt repayable of HK$3.7 billion. It
+has also historically managed its balance sheet well. We believe CK Asset has an appetite for sizable investments and
+may significantly increase leverage beyond its current level to seize appealing opportunities. We capture this potential
+risk in our negative modifier on financial policy. That said, CK Asset has ample rating buffer against downside
+pressure.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 4
+
+CK Asset Holdings Ltd.
+
+Chart 2
+
+Outlook: Stable
+
+The stable outlook on CK Asset reflects our expectation that the company will continue to recycle capital to
+expand its recurring income streams while maintaining its financial strength over the next 12-24 months. In
+addition, we expect the company's property development and rental businesses to remain steady over the next two
+to three years.
+
+Downside scenario
+We may lower the rating if: (1) CK Asset's investment appetite is significantly more aggressive or riskier than we
+expect, or (2) the company encounters a severe market downturn that materially hurts its key business segments.
+An indicator of this could be a debt-to-EBITDA ratio of more than 3.5x and EBITDA interest coverage falling to
+below 10x.
+
+Upside scenario
+We may raise the rating if CK Asset commits to a lower investment appetite, such that the company's
+debt-to-EBITDA ratio stays below 1.5x on a sustained basis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 5
+
+CK Asset Holdings Ltd.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 6
+
+CK Asset Holdings Ltd.
+
+Assumptions
+
+• China's real GDP to grow 6.2% in 2019 and 2020.
+Hong Kong's real GDP to grow 2.2% in 2019 and
+2.4% in 2020.
+• Hong Kong's residential property prices and
+transaction volumes to rise by up to 5% in 2019,
+given interest rate cuts, a rebound in the monetary
+base, strong underlying demand, and the slow
+increase in supply.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+2.1 1.8-2.0 1.7-1.9
+
+EBITDA/Interest (x)
+
+10
+
+8-10
+
+8-10
+
+30.1
+
+40-50
+
+40-50
+
+FFO/Debt (%)
+
+FFO--Funds from operations. A--Actual. E--Estimate.
+
+• China's residential property sales to increase by
+12%-15% in 2019, driven by a 2%-3% growth in
+gross floor area and a 10%-12% rise in the average
+selling price.
+• CK Asset's revenue to rebound to HK$78
+billion-HK$80 billion in 2019 and HK$70
+billion–HK$72 billion in 2020 as the booking of
+property sales in Hong Kong and China increases.
+• The company's contracted sales in Hong Kong to
+remain at HK$13 billion-HK$15 billion in 2019 and
+rise to HK$23 billion–HK$25 billion in 2020.
+Contracted sales in China to grow to HK$27
+billion-HK$29 billion in 2019 and HK$34
+billion–HK$36 billion in 2020.
+• Rental income growth to decline slightly by 0%-5%
+in 2019, owing to the sale of The Center in Hong
+Kong, before growing 5%-10% in 2020.
+• Hotel, aircraft leasing, and property management
+income to grow organically by 5%-10% to HK$8
+billion-HK$9 billion in 2019 and 2020.
+• EBITDA margin to fall to 39%-41% in 2019 and
+2020, owing to the shift in revenue mix away from
+high-margin rental income as booking of property
+sales increases.
+• Construction costs of HK$15 billion-HK$17 billion in
+2019 and HK$17 billion-HK$19 billion in 2020.
+• Spending on land acquisition and new investment of
+about HK$28 billion in 2019 and about HK$25
+billion in 2020. We expect little land acquisition
+spending in Hong Kong and China as CK Asset
+continues to seek investments in other assets with
+steady revenue streams.
+• Modest increase in adjusted debt to HK$58
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 7
+
+CK Asset Holdings Ltd.
+
+billion-HK$60 billion in 2019, from HK$54 billion in
+2018, before falling to HK$50 billion-HK$52 billion
+in 2020.
+
+Base-case projections
+High visibility in revenue from considerable unbooked sales. We see strong visibility in CK Asset's revenue in 2019 and
+2020, given the presence of HK$53.5 billion sales contracted but not yet recognized as of June 30, 2019. We expect
+property sales to account for 75%-80% of revenue in the coming two years.
+Our base-case forecast has not factored in the proposed acquisition of Greene King as the deal is still subject to
+shareholders' approval. However, the consideration of HK$25.2 billion is included in our expenditure budget. On a
+2018 pro-forma basis, we estimate that CK Asset's debt-to-EBITDA ratio would have been higher at 2.5x-3.0x,
+compared with 2.1x in 2018.
+
+Company Description
+CK Asset primarily engages in the development and sale of properties, and investment in properties for rental in Hong
+Kong and China. The company also has property businesses overseas. Since 2017, CK Asset has been diversifying into
+segments that generate recurring income, including aircraft leasing, infrastructure, and utilities.
+Listed on the Hong Kong Stock Exchange since June 2015, CK Asset, formerly known as Cheung Kong Property, was
+formed following the reorganization of the erstwhile Cheung Kong (Holdings) Ltd. and Hutchison Whampoa Ltd., and
+holds their property businesses.
+
+Business Risk: Strong
+Our assessment on CK Asset primarily reflects the company's strong market position in its property sales and rental
+businesses. Other new nonproperty investments, despite offering some degree of diversification, remain relatively
+small in scale compared with the property businesses. We believe that in the absence of any major new asset
+acquisition, its property segments will continue to be the main income contributor in the coming two years.
+We see some pressure in CK Asset achieving our base case of HK$13 billion-HK$15 billion in Hong Kong property
+sales in 2019, given the likely delay in new project launches due to market uncertainties. Nonetheless, we believe that
+the two mass-market projects, namely Seaside Sonata and Sea To Sky, will be less affected than the luxury Borrett
+Road project. In the first six months of 2019, the company sold only about HK$3 billion of properties in Hong Kong.
+We expect CK Asset to continue to optimize its investment property portfolio to enhance returns. Following the
+disposal of The Center in Hong Kong, the company reinvested part of the proceeds into offices in London and Dublin.
+In addition, the company is redeveloping Hutchison House in Hong Kong, and has obtained approvals to rebuild hotels
+and serviced apartments in Hong Kong into grade-A offices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 8
+
+CK Asset Holdings Ltd.
+
+We believe that CK Asset's infrastructure and utilities joint ventures and investments will continue to contribute stable
+cash flow in the form of dividends and interest income. We also expect recurring income from its aircraft leasing
+division to grow steadily in the coming two years as its fleet expands. As of June 30, 2019, the fleet portfolio consisted
+of 134 aircraft. These nonproperty assets will continue to add stability and diversity to CK Asset's traditional property
+businesses.
+The recent proposed acquisition of Greene King PLC, a U.K.-based brewer and pub operator, echoes our view that CK
+Asset is poised for sizable opportunities to rebalance its portfolio toward businesses that generate steady cash flow.
+Greene King has been resilient over economic downturns, demonstrated by its ability to maintain positive cash flow
+and dividends during past downturns.
+
+Peer comparison
+Table 1
+
+CK Asset Holdings Ltd.--Peer Comparison
+Industry sector: Homebuilders and real estate developers
+CK Asset Holdings
+Ltd.
+
+Sun Hung Kai
+Properties Ltd.
+
+Nan Fung International
+Holdings Ltd.
+
+China Resources
+Land Ltd.
+
+--Fiscal year ended-Dec. 31, 2018
+
+June 30, 2018
+
+March 30, 2019
+
+Dec. 31, 2018
+
+Revenue
+
+50,368.0
+
+85,644.0
+
+18,081.5
+
+137,992.1
+
+EBITDA
+
+25,565.0
+
+41,243.0
+
+6,544.0
+
+55,319.1
+
+Funds from operations (FFO)
+
+(Mil. HK$)
+
+15,826.0
+
+34,756.2
+
+4,852.0
+
+21,435.2
+
+Interest expense
+
+2,550.0
+
+2,774.8
+
+1,271.7
+
+7,369.0
+
+Cash interest paid
+
+2,375.0
+
+2,688.8
+
+1,165.1
+
+6,546.2
+
+Cash flow from operations
+
+13,357.0
+
+8,300.2
+
+6,866.3
+
+25,896.0
+
+Capital expenditure
+
+5,034.0
+
+23,187.0
+
+1,730.9
+
+16,168.3
+
+Free operating cash flow
+(FOCF)
+
+8,323.0
+
+(14,886.8)
+
+5,135.4
+
+9,727.8
+
+Discretionary cash flow (DCF)
+
+1,266.0
+
+(27,664.8)
+
+4,916.4
+
+2,093.1
+
+Cash and short-term
+investments
+
+55,417.0
+
+26,954.0
+
+39,481.9
+
+80,626.4
+
+Debt
+
+54,114.0
+
+86,065.3
+
+20,728.9
+
+164,893.7
+
+329,358.0
+
+544,545.0
+
+105,962.9
+
+200,066.7
+
+EBITDA margin (%)
+
+50.8
+
+48.2
+
+36.2
+
+40.1
+
+Return on capital (%)
+
+7.1
+
+7.7
+
+7.7
+
+18.1
+
+EBITDA interest coverage (x)
+
+10.0
+
+14.9
+
+5.1
+
+7.5
+
+FFO cash interest coverage (x)
+
+7.7
+
+13.9
+
+5.2
+
+4.3
+
+Debt/EBITDA (x)
+
+2.1
+
+2.1
+
+3.2
+
+3.0
+
+FFO/debt (%)
+
+29.2
+
+40.4
+
+23.4
+
+13.0
+
+Cash flow from
+operations/debt (%)
+
+24.7
+
+9.6
+
+33.1
+
+15.7
+
+FOCF/debt (%)
+
+15.4
+
+(17.3)
+
+24.8
+
+5.9
+
+Equity
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 9
+
+CK Asset Holdings Ltd.
+
+Table 1
+
+CK Asset Holdings Ltd.--Peer Comparison (cont.)
+DCF/debt (%)
+
+2.3
+
+(32.1)
+
+23.7
+
+1.3
+
+HK$--Hong Kong dollar.
+
+In terms of property development, we consider Sun Hung Kai Properties Ltd. (SHKP; A+/Stable/--) as CK Asset's
+closest peer. Both companies are top property developers in Hong Kong with strong brand recognition. However, CK
+Asset has greater diversity in terms of business segments and geographies.
+Compared with CK Asset, SHKP's stronger business profile is supported by a more stable development pipeline and
+adequate land bank, premium pricing power, and a higher-quality investment property portfolio. CK Asset has more
+exposure to property development and sales in China, while SHKP mainly builds and owns integrated commercial
+complexes on the mainland.
+However, in terms of diversification, CK Asset has a more diversified nonproperty asset portfolio. Although SHKP also
+holds a few key nonproperty businesses in the telecommunications, retail, and infrastructure sectors, these businesses
+are all located in Hong Kong and are small in scale. In contrast, CK Asset's nonproperty businesses comprise more
+diversified interests in a portfolio of ventures located in Australia, Canada, and Europe.
+Both CK Asset and SHKP demonstrate a long track record of financial prudence, financial flexibility, high standing in
+the capital market, as well as strong banking relationships.
+We also view Nan Fung International Holdings Ltd. (BBB-/Stable/--) and China Resources Land Ltd. (CR Land;
+BBB+/Stable/--) as CK Asset's peers. Besides being property developers with long operating records in Hong Kong,
+both CK Asset and Nan Fung have considerable nonproperty assets, while CK Asset and CR Land engage in property
+development and sales in China.
+In terms of exposure to nonproperty businesses, CK Asset's nonproperty ventures include aircraft leasing,
+infrastructure, and utilities, while Nan Fung holds a sizable securities investment portfolio that is liquid and offers
+additional financial flexibility. Nan Fung has a smaller operating scale, mainly owing to its weaker presence in China
+and smaller investment properties portfolio.
+CK Asset's operations in China is smaller in scale and less geographically diversified than CR Land's. CR Land is one of
+the top 10 developers in China with a nationwide footprint across 70 cities. In comparison, CK Asset is focused on a
+few selected cities. While CR Land owns a portfolio of quality shopping malls in China that generates rental income, its
+revenue is still predominantly driven by property sales. CK Asset has a better balance between property development
+and recurring income.
+CK Asset's leverage is the lowest among all its peers, mainly because of subdued land acquisition and asset investment
+over the past two years. SHKP more steady capital expenditure on land replenishment and construction, which is
+reflected in its higher leverage. CR Land's leverage is higher than the two Hong Kong companies, but remains centrally
+controlled by China. Nan Fung has the highest financial leverage, following the undertaking of the sizable commercial
+project in Kai Tak.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 10
+
+CK Asset Holdings Ltd.
+
+Financial Risk: Modest
+In our base-case scenario, we forecast CK Asset's debt-to-EBITDA ratio to improve slightly to 1.8x-2.0x in 2019 and
+1.7x-1.9x in 2020, from 2.1x in 2018, without considering any major asset investments. This is supported by CK Asset's
+stable cash flow from rental and nonproperty ventures, as well as strong property sales recognition over the coming
+two years. We expect the company's see-through leverage to be moderately higher at 2.4x-2.6x in 2019 and 2020, as
+we proportionately consolidate CK Asset's share of joint ventures and associates' EBITDA and debt. The company's
+transparency in off-balance financials is sound in our view.
+We believe CK Asset will continue to seek investment opportunities to redeploy its substantial war chest to enhance
+returns, and potentially increase leverage to acquire sizable projects. Our rating on CK Asset has already factored in
+this possibility; CK Asset has ample buffer against rating downside. We also expect CK Asset to continue its disciplined
+approach in investments that expand its recurring income base.
+CK Asset faces limited near-term repayment pressure. It has HK$59.4 billion in cash as of June 30, 2019, while HK$3.7
+billion of borrowings will mature in the 12 months to June 2020. The company has a healthy weighted average
+maturity of 3.6 years and a funding cost of 2.8% as of Dec. 31, 2018.
+
+Financial summary
+Table 2
+
+CK Asset Holdings Ltd.--Financial Summary
+Industry Sector: Homebuilders & Real Estate Developers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+50,368.0
+
+57,546.0
+
+69,300.0
+
+57,280.0
+
+46,606.0
+
+EBITDA
+
+25,565.0
+
+28,165.0
+
+27,956.0
+
+22,232.0
+
+21,362.0
+
+Funds from operations (FFO)
+
+15,826.0
+
+19,404.0
+
+18,996.0
+
+16,761.0
+
+8,878.0
+
+Interest expense
+
+2,550.0
+
+2,229.0
+
+1,326.0
+
+1,387.0
+
+2,360.0
+
+Cash interest paid
+
+2,375.0
+
+2,000.0
+
+1,321.0
+
+1,605.0
+
+3,361.0
+
+13,357.0
+
+48,453.0
+
+38,541.0
+
+16,970.0
+
+(3,547.0)
+
+(Mil. HK$)
+
+Cash flow from operations
+Capital expenditure
+
+5,034.0
+
+3,735.0
+
+7,680.0
+
+483.0
+
+683.0
+
+Free operating cash flow (FOCF)
+
+8,323.0
+
+44,718.0
+
+30,861.0
+
+16,487.0
+
+(4,230.0)
+
+Discretionary cash flow (DCF)
+
+1,266.0
+
+31,209.0
+
+23,115.0 (16,779.0)
+
+(4,230.0)
+
+Cash and short-term investments
+
+55,417.0
+
+54,369.0
+
+61,530.0
+
+44,540.0
+
+32,358.0
+
+Gross available cash
+
+55,417.0
+
+54,369.0
+
+61,530.0
+
+44,540.0
+
+32,358.0
+
+Debt
+
+54,114.0
+
+57,127.8
+
+40,112.3
+
+39,295.0
+
+56,211.0
+
+Equity
+
+329,358.0 297,510.0 276,274.0
+
+269,687.0 253,311.0
+
+Adjusted ratios
+EBITDA margin (%)
+Return on capital (%)
+EBITDA interest coverage (x)
+
+50.8
+
+48.9
+
+40.3
+
+38.8
+
+45.8
+
+7.1
+
+8.6
+
+8.5
+
+7.1
+
+7.1
+
+10.0
+
+12.6
+
+21.1
+
+16.0
+
+9.1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 11
+
+CK Asset Holdings Ltd.
+
+Table 2
+
+CK Asset Holdings Ltd.--Financial Summary (cont.)
+Industry Sector: Homebuilders & Real Estate Developers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+FFO cash interest coverage (x)
+
+7.7
+
+10.7
+
+15.4
+
+11.4
+
+3.6
+
+Debt/EBITDA (x)
+
+2.1
+
+2.0
+
+1.4
+
+1.8
+
+2.6
+
+FFO/debt (%)
+
+29.2
+
+34.0
+
+47.4
+
+42.7
+
+15.8
+
+Cash flow from operations/debt (%)
+
+24.7
+
+84.8
+
+96.1
+
+43.2
+
+(6.3)
+
+FOCF/debt (%)
+
+15.4
+
+78.3
+
+76.9
+
+42.0
+
+(7.5)
+
+2.3
+
+54.6
+
+57.6
+
+(42.7)
+
+(7.5)
+
+DCF/debt (%)
+HK$--Hong Kong dollar.
+
+Liquidity: Strong
+We assess that CK Asset has strong liquidity, based on its high cash balance, strong cash flows, and committed
+undrawn credit lines. We expect the group's cash sources to be more than 2.0x its cash uses in 2019 and 2020. While
+this level is commensurate with a higher liquidity score, our assessment reflects the company's investment appetite
+and probability of acquisition spending beyond our assumption.
+In our view, CK Asset has strong banking relationships and capital market access, as well as prudent financial and
+liability management. These strengths should support the group's refinancing needs. The company's principal banks
+include international Japanese lenders, such as Mizuho Bank and MUFG Bank, and local banks. Bank loans accounted
+for over 85% of total borrowings as of end-2018. CK Asset also issued HK$2 billion notes with a 10-year term under
+the Euro Medium Term Note program in September 2018. These strengths should support the group's refinancing
+needs.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash balance of HK$55.4 billion as of
+end-2018.
+
+• Debt due in 2019 of HK$1.8 billion.
+
+• Funds from operations over the 12 months to
+December 2019 of HK$29 billion-HK$31 billion,
+estimated by: (1) cash received from contracted
+sales of HK$44 billion-HK$46 billion; (2) cash
+received from rental and other businesses of HK$22
+billion-HK$24 billion; (3) construction cost of HK$15
+billion-HK$17 billion; (4) selling, general, and
+administrative expenses, tax, interest and other
+expense of HK$22 billion-HK$24 billion.
+
+• Land acquisition and new investments that we
+forecast will be HK$27 billion-HK$29 billion.
+• Other capital expenditure that we estimate at about
+HK$5 billion.
+• Dividend payment of about HK$7 billion.
+• Share repurchase of about HK$230 million.
+
+• Proceeds from asset disposal of HK$1.3 billion.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 12
+
+CK Asset Holdings Ltd.
+
+Debt maturities
+Table 3
+
+CK Asset Holdings Ltd.--Debt Maturities
+Year
+
+Amount (Mil. HK$)
+
+2019
+
+1,829.0
+
+2020
+
+6,737.0
+
+2021
+
+22,844.0
+
+2022
+
+23,275.0
+
+2023
+
+8,154.0
+
+2024 and beyond
+
+6,653.0
+
+Total
+
+69,492.0
+
+HK$--Hong Kong dollar. *As Of December 31, 2018
+
+Covenant Analysis
+CK Asset has certain balance sheet covenants on its bank loan facilities. In our view, the group has ample room to
+meet these covenants.
+
+Environmental, Social, And Governance
+
+CK Asset has managed its environmental footprint throughout its property business operations and requires
+external contractors to minimize their carbon footprint, air emissions, and waste during construction of projects. Its
+property management subsidiaries also adopt various energy- and water-saving practices and the company
+participated in the Charter on External Lighting for prominent commercial properties. Although property
+development can mean environmental risks, they are not material rating factors. CK Asset faces regulatory and
+reputation risk, which might affect the company's viability and profitability. To mitigate the potential impact, CK
+Asset maintains safety standards through regular construction site inspections and continuously enhances product
+quality with customer feedback. The company also adopts high standards across its property management and
+commercial property divisions. While the Li family is a majority shareholder, the company has an adequate
+corporate framework and oversight by independent directors. In addition, it also been timely and transparent in
+delivering information to shareholders. Its former chairman transitioning into a senior adviser post after retirement
+also highlights clear succession plans.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+CK Asset's leverage is low enough to limit the possibility of any senior unsecured debtholders being significantly
+disadvantaged relative to other debtholders.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 13
+
+CK Asset Holdings Ltd.
+
+Analytical conclusions
+We do not view CK Asset's capital structure as having any material risks such as structural or contractual
+subordination. The issue rating is therefore consistent with our 'A' issuer credit rating.
+
+Reconciliation
+Table 4
+
+Reconciliation Of CK Asset Holdings Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. HK$)
+--Fiscal year ended Dec. 31, 2018-CK Asset Holdings Ltd. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+69,492.0
+
+335,190.0
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+23,740.0
+
+21,969.0
+
+1,079.0
+
+25,565.0
+
+13,967.0
+
+7,366.0
+
+Cash flow
+from
+operations
+
+Dividends
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(7,364.0)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,834.0)
+
+--
+
+--
+
+11,670.0
+
+(11,670.0)
+
+--
+
+--
+
+540.0
+
+(541.0)
+
+(541.0)
+
+(541.0)
+
+124.5
+
+--
+
+60.0
+
+60.0
+
+--
+
+--
+
+--
+
+--
+
+(27,708.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+931.0
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+1,765.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+4,267.0
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(69.0)
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+5,838.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+536.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Total adjustments
+
+(15,378.0)
+
+(5,832.0)
+
+1,825.0
+
+4,327.0
+
+1,471.0
+
+(9,739.0)
+
+(610.0)
+
+(541.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Dividends
+paid
+
+15,826.0
+
+13,357.0
+
+6,825.0
+
+Debt-like hybrids
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and
+liquid investments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+54,114.0
+
+329,358.0
+
+25,565.0
+
+26,296.0
+
+2,550.0
+
+HK$--Hong Kong dollar.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 14
+
+CK Asset Holdings Ltd.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A/Stable/--
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Negative (-1 notch)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 15
+
+CK Asset Holdings Ltd.
+
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 22, 2019)*
+CK Asset Holdings Ltd.
+Issuer Credit Rating
+
+A/Stable/--
+
+Issuer Credit Ratings History
+01-Jun-2017
+
+A/Stable/--
+
+05-Jul-2016
+
+A-/Positive/--
+
+25-Aug-2015
+
+A-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 22, 2019 17
+
+

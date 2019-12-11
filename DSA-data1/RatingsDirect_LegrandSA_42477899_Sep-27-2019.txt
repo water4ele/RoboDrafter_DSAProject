@@ -1,0 +1,1501 @@
+Legrand S.A.
+Primary Credit Analyst:
+Pascal Seguier, Paris +33 (0) 1 4075 2589; pascal.seguier@spglobal.com
+Secondary Contact:
+Renato Panichi, Milan (39) 02-72111-215; renato.panichi@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+Legrand S.A.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+a-
+
+a-
+
+A-/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong market positions in key markets along with a broad geographic scale, and
+excellent product diversity.
+
+Low order-book visibility and exposure to cyclical
+end-markets.
+
+Above-average margins for the building materials sector.
+
+Organic growth may slow due to a more unpredictable
+macro environment.
+
+High barriers to entry due to strong brand recognition and a technologically
+advanced product line.
+
+Acquisition of lower margin businesses may slightly dilute
+strong profitability.
+
+Robust free operating cash flow, sufficient to finance bolt-on acquisitions and
+dividend distribution.
+Strong liquidity.
+
+We believe that Legrand has the capacity and willingness to preserve a strong balance sheet, which supports our rating.
+S&P Global Ratings expects that Legrand will maintain sound performance and gradually reduce financial leverage
+over the coming two years, which underlines the company's solid balance sheet policy. Legrand uses the majority of its
+free operating cash flow (FOCF) to finance its bolt-on acquisitions, while shareholder remuneration remains
+conservative, which we view as positive. Legrand also has higher discretionary cash flow (DCF) to debt than peers,
+since most peers have large share buyback programs, for example Saint Gobain, CRH, and Schneider Electric. Under
+our base-case scenario, we believe that Legrand will be able to slightly deleverage and we anticipate funds from
+operations (FFO) to debt will be 37%-40% for 2019-2020.
+Stable and strong profitability demonstrates the resilience of Legrand's business. Legrand's strong market position and
+pricing power support its consistent above-average margins. We expect the adjusted EBITDA margin will slightly
+decline in 2019 due to acquisitions of lower-margin businesses, such as Netatmo, a French smart home company
+specialized in the internet of things (IoT) products. Legrand remains exposed to the rise in U.S. customs duties. We
+understand it has been able to pass through to customers the tariff impact, and anticipate that it will continue to do so,
+or may implement mitigating measures, albeit with a potential time lag.
+Legrand sets new targets for its connected products and digital infrastructure. In June 2019, Legrand presented its
+strategy on IoT development. Legrand rapidly expanded in connected products over 2014-2018 through its Eliot
+program, which now represents more than 10% of the company's sales. Its digital infrastructure also expanded
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+Legrand S.A.
+
+strongly, in particular data centers. In our view, Legrand has been able to build strong market shares in this segment
+while maintaining its profitability, which supports the business risk profile. It met its 2014-2020 target for Eliot in 2018.
+Legrand now targets to post at least 10% organic growth and €1 billion of sales per year starting from 2022.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Legrand will continue to generate robust, stable EBITDA margins, and
+material FOCF, which it will use to finance its acquisitions, while maintaining FFO to debt comfortably above 37%.
+
+Downside scenario
+We could lower the ratings if the group experienced weaker operating results and cash flows than we expect, such
+that adjusted FFO to debt fell below 37% on a prolonged basis. Rating pressure could also stem from more
+aggressive debt-funded acquisitions and shareholder payouts, which would imply a change in financial policies.
+
+Upside scenario
+We could raise the ratings if Legrand posted FFO to debt significantly above 45%. If this happened, we would look
+at the company's capacity and willingness to maintain a more conservative financial policy with fewer debt-funded
+acquisitions or less generous shareholder returns, assuming that the group sustained its operating performance in
+line with our base-case expectations. In our view, this scenario is unlikely over our two-year outlook horizon.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+Legrand S.A.
+
+Assumptions
+
+• GDP growth in Europe of 1.3% in 2019 and 1.8% in
+2020, and around 2.4% and 1.7% in North America.
+In Asia-Pacific, GDP growth of 5.1% in 2019 and
+5.3% 2020.
+• About 7%-9% annual revenue increase in 2019,
+mainly supported by external growth (about 5%
+impact), and organic growth of about 2%-3%.
+• Revenue growth exceeding 5% from 2020.
+• Adjusted EBITDA margins of about 23%, slightly
+reducing by about 0.5% in 2019, mainly due to the
+integration of acquired entities (40 basis points).
+
+Key Metrics
+
+EBITDA margin (%)
+Debt/EBITDA (x)
+
+2018A
+
+2019E
+
+2020E
+
+23.4
+
+~23
+
+~23
+
+2 1.9-2.0 1.9-2.0
+
+FFO/debt (%)
+
+37.1
+
+37-40
+
+37-40
+
+FOCF/debt (%)
+
+26.7
+
+27-30
+
+27-30
+
+DCF/debt (%)
+
+13.1
+
+~15
+
+~15
+
+*All ratios are fully S&P Global Ratings adjusted.
+A--Actual. E--Estimate. F--Forecast. FFO--Funds from
+operations. DCF--Discretionary cash flow.
+
+• Nonseasonal working capital outflow of about €125
+million-€150 million.
+• Group capital expenditure of about €200
+million-€250 million, representing 3.0%-3.5% of
+revenue.
+• FOCF of more than €800 million.
+• €400 million-€500 million of cash outflows from
+bolt-on acquisitions.
+• Shareholder remuneration of about €400
+million-€450 millions.
+
+Base-case projections
+Legrand continues its rapid revenue growth. This is supported by Legrand's mergers and acquisitions (M&A) activity,
+which should boost sales by 5% in 2019. We also expect organic growth of 2%-3% in 2019, in line with management's
+guidance. For the second quarter, organic growth was lower than expected, at around 1.5%, mainly due to a tough
+comparison in Turkey and India, and the economic environment in the Middle-East. For the first six months of the
+year, organic growth was 2.2%. That said, operating margins remained solid, and the company reported strong
+operating cash flows. Our forecasts for 2019 are broadly unchanged.
+Financial policies to remain unchanged. Our base-case scenario factors in our assumptions of an unchanged financial
+policy. We assume that Legrand will continue using the majority of its FOCF to finance its bolt-on acquisitions instead
+of shareholder remuneration. From 2019, we assume cash outflows due to M&A of about €400 million-€500 million.
+
+Company Description
+Legrand is a global specialist in electrical and digital building infrastructure. The company manufactures products and
+systems for low-voltage electrical installation and data networks. It has about a 6% share of a very fragmented global
+market that is worth more than €100 billion. The group serves residential (about 40% of sales in 2018), tertiary (55%,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+Legrand S.A.
+
+including systems and products destined for the private and public sectors), and industrial (5%) building markets. With
+a presence in close to 90 countries and a workforce of over 38,000 employees, Legrand reported 2018 sales of about
+€6.0 billion. Legrand is listed on Euronext Paris and is a component stock of the CAC40 index. As of August 2019, it
+had a market capitalization of about €16.5 billion.
+
+Business Risk: Strong
+Legrand's wide product and geographic diversity, solid competitive position with leading market shares in most of the
+company's markets in a highly fragmented industry, and above-average EBITDA margins for the building materials
+sector support our view of its strong business risk profile. The group benefits from a technologically advanced product
+line, strong brand recognition, limited price sensitivity and longstanding relationships with key local distributors.
+Market-leading products (No. 1 or No. 2 positions) accounted for 69% of its sales in 2018. In our view, this will help
+Legrand maintain its current profitability above the peer average, despite some pressure on margins coming from
+increasing raw materials costs. Apart from wide geographic diversity and its presence in markets with positive growth
+fundamentals, such as the U.S. and Western and Southern Europe, Legrand has a fairly balanced exposure to cyclical
+new-build and the more stable repair, maintenance, and improvement segments of the market--providing respectively
+about 52% and 48% of revenues and good end-market diversity.
+Over 2013-2018, the company expanded sales by around 35% (6% compound average growth rate). It diversified its
+activities outside of Europe, with North America now accounting for 30% of sales. We expect that, with the acquisition
+of Universal Electric, a U.S. supplier of power distribution systems, in February 2019, the weight of U.S. sales may rise
+further in 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+Legrand S.A.
+
+Chart 1
+
+Legrand is also enriching its product offerings in digital infrastructure and home and tertiary automation. These
+industries now represent 28% of the company's sales. We note the rapid expansion in digital infrastructure, particularly
+data centers, which has been possible notably through its recent acquisitions such as Universal Electric. Regarding its
+Eliot program, Legrand has stated that it targets at least 10% organic growth per year and €1 billion of sales in 2022 in
+connected products. In our view, Legrand has been able to build strong market shares in that segment while
+maintaining its profitability, which support our strong business risk profile.
+We note that Legrand has been able to maintain stable operating margins over the years, which shows its ability to
+control its operating costs and to pass through price increases. We expect that Legrand will maintain its above-average
+operating margins based on its good track record of successfully integrating acquisitions and capitalizing on efficiency
+gains.
+Legrand also offers an extensive and technologically advanced product line and benefits from economies of scale. We
+believe its advanced product base should meet future demand for energy-saving applications and comply with tighter
+security regulations. Products and systems for electrical installations make up only a small part of the total final cost to
+end-users, which allows Legrand to raise prices.
+On the other hand, our view of Legrand's business profile is constrained by the group's smaller size compared with
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+Legrand S.A.
+
+global peers, limited visibility of its order book, and some end-market cyclicality. About 80% of the group's sales are
+subject to short-term-flow orders related to building activity. There is also some client concentration risk, given that
+two customers--the large international distributors Rexel S.A. and Sonepar--together account for 18% of sales in 2018.
+However, Legrand benefits from longstanding relationships with key local and large product distributors due to its
+large share of the market.
+
+Peer comparison
+Table 1
+
+Legrand S.A.--Peer Comparison
+Legrand S.A. Schneider Electric S.E.
+Ratings as of Sept. 5, 2019
+
+A-/Stable/A-2
+
+ABB Ltd. Eaton Corp plc
+
+A-/Stable/A-2 A/Stable/A-1
+
+Hubbell Inc.
+
+A-/Stable/A-2 BBB+/Stable/A-2
+
+--Fiscal year ended Dec. 31, 2018-(Mil. Mix currency)
+
+€
+
+€
+
+$
+
+$
+
+$
+
+Revenue
+
+5,997.2
+
+25,720.0
+
+27,662.0
+
+21,609.0
+
+4,481.7
+
+EBITDA
+
+1,404.1
+
+4,142.5
+
+4,502.0
+
+4,129.0
+
+732.3
+
+Funds from operations (FFO)
+
+1,056.9
+
+3,223.4
+
+3,153.3
+
+3,410.9
+
+561.1
+
+96.4
+
+345.1
+
+384.7
+
+305.1
+
+79.5
+
+Interest expense
+Cash interest paid
+
+92.1
+
+284.1
+
+322.7
+
+347.1
+
+64.8
+
+Cash flow from operations
+
+911.9
+
+2,674.4
+
+3,195.3
+
+2,785.9
+
+532.5
+
+Capital expenditure
+
+150.6
+
+509.0
+
+949.0
+
+565.0
+
+96.2
+
+Free operating cash flow (FOCF)
+
+761.3
+
+2,165.4
+
+2,246.3
+
+2,220.9
+
+436.3
+
+Discretionary cash flow (DCF)
+
+372.1
+
+33.4
+
+193.3
+
+(199.1)
+
+220.1
+
+Cash and short-term investments
+
+1,020.4
+
+2,391.0
+
+4,157.0
+
+440.0
+
+198.2
+
+Debt
+
+2,848.7
+
+7,242.1
+
+8,247.2
+
+9,421.4
+
+1,883.0
+
+Equity
+
+4,597.1
+
+22,264.0
+
+14,534.0
+
+16,142.0
+
+1,798.9
+
+EBITDA margin (%)
+
+23.4
+
+16.1
+
+16.3
+
+19.1
+
+16.3
+
+Return on capital (%)
+
+16.2
+
+12.4
+
+14.2
+
+11.6
+
+17.2
+
+EBITDA interest coverage (x)
+
+14.6
+
+12.0
+
+11.7
+
+13.5
+
+9.2
+
+FFO cash interest coverage (x)
+
+12.5
+
+12.3
+
+10.8
+
+10.8
+
+9.7
+
+2.0
+
+1.7
+
+1.8
+
+2.3
+
+2.6
+
+FFO/debt (%)
+
+37.1
+
+44.5
+
+38.2
+
+36.2
+
+29.8
+
+Cash flow from operations/debt (%)
+
+32.0
+
+36.9
+
+38.7
+
+29.6
+
+28.3
+
+FOCF/debt (%)
+
+26.7
+
+29.9
+
+27.2
+
+23.6
+
+23.2
+
+DCF/debt (%)
+
+13.1
+
+0.5
+
+2.3
+
+(2.1)
+
+11.7
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+We compare Legrand with large global companies that are either building materials providers or have divisions that
+compete directly with Legrand's business. Of this peer group, Legrand is one of the smallest issuers and is more
+exposed to the cyclical building activity. On the other hand, Legrand displays higher and less volatile EBITDA margins
+than peers, reflecting its leading positions in most of its markets, its ability to pass through price increases, and its
+ability to develop value-added products. While Legrand's FFO to debt is in line with peers', we note that its DCF to
+debt is the highest among the peer group, reflecting its conservative distribution policy and the absence of a share
+buyback program.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+Legrand S.A.
+
+Chart 2
+
+Financial Risk: Intermediate
+We expect Legrand will maintain its above-average operating margins, but that FFO to debt will remain below 45%
+over the coming two years.
+After the large debt-funded acquisition of Milestone, Legrand's leverage peaked in 2017-2018 and we now expect the
+group will gradually improve these credit metrics, on the back of solid performance and robust FOCF of more than
+€800 million per year. In addition, this improvement is supported by our view that, over the rating horizon,
+management is willing to keep a strong balance sheet. For 2019-2020, we forecast adjusted debt to EBITDA of
+1.9x-2.1x, FFO to debt of 37%-40%, and DCF to debt of about 15%.
+Over the past 10 years, Legrand has spent an average of €382 million per year on acquisitions. In our base case, we
+assume €400 million-€500 million of cash outflows from bolt-on acquisitions. Following the acquisition of Universal
+Electric in February 2019, we anticipate that Legrand's M&A for the second half of the year will be limited.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Legrand S.A.
+
+Chart 3
+
+Our adjusted debt figure is slightly higher than the group's reported net debt figure for 2018. This is because we add
+about €200 million related to operating lease commitments, €125 million related to factoring facilities, and €125
+million related to pension liabilities. We net about €925 million of accessible cash, which we consider available for debt
+repayment. Our forecast credit metrics incorporate total lease liabilities of about €300 million following the
+implementation of International Financial Reporting Standard 16, as per the company's disclosures.
+
+Financial summary
+Table 2
+
+Legrand S.A.--Financial Summary
+Industry sector: Building materials and products
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. €)
+Revenue
+
+5,997.2 5,520.8 5,018.9 4,809.9 4,499.1
+
+EBITDA
+
+1,404.1 1,281.9 1,133.7 1,085.3 1,039.0
+
+Funds from operations (FFO)
+
+1,056.9
+
+927.6
+
+791.1
+
+829.3
+
+741.4
+
+Interest expense
+
+96.4
+
+108.7
+
+116.7
+
+108.7
+
+101.6
+
+Cash interest paid
+
+92.1
+
+97.6
+
+96.2
+
+89.5
+
+81.1
+
+Cash flow from operations
+
+911.9
+
+882.1
+
+810.0
+
+787.4
+
+694.2
+
+Capital expenditure
+
+150.6
+
+144.6
+
+126.3
+
+106.0
+
+96.3
+
+Free operating cash flow (FOCF)
+
+761.3
+
+737.5
+
+683.7
+
+681.4
+
+597.9
+
+Discretionary cash flow (DCF)
+
+372.1
+
+418.9
+
+292.9
+
+346.7
+
+227.3
+
+Cash and short-term investments
+
+1,020.4
+
+818.3
+
+929.8 1,069.2
+
+715.1
+
+Gross available cash
+
+1,020.4
+
+818.3
+
+929.8 1,069.2
+
+715.1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+Legrand S.A.
+
+Table 2
+
+Legrand S.A.--Financial Summary (cont.)
+Industry sector: Building materials and products
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Debt
+
+2,848.7 2,738.5 1,463.4 1,287.4 1,313.3
+
+Equity
+
+4,597.1 4,148.1 4,066.4 3,807.4 3,555.9
+
+Adjusted ratios
+EBITDA margin (%)
+
+23.4
+
+23.2
+
+22.6
+
+22.6
+
+23.1
+
+Return on capital (%)
+
+16.2
+
+17.0
+
+18.0
+
+18.4
+
+18.3
+
+EBITDA interest coverage (x)
+
+14.6
+
+11.8
+
+9.7
+
+10.0
+
+10.2
+
+FFO cash interest coverage (x)
+
+12.5
+
+10.5
+
+9.2
+
+10.3
+
+10.1
+
+2.0
+
+2.1
+
+1.3
+
+1.2
+
+1.3
+
+FFO/debt (%)
+
+37.1
+
+33.9
+
+54.1
+
+64.4
+
+56.5
+
+Cash flow from operations/debt (%)
+
+32.0
+
+32.2
+
+55.3
+
+61.2
+
+52.9
+
+FOCF/debt (%)
+
+26.7
+
+26.9
+
+46.7
+
+52.9
+
+45.5
+
+DCF/debt (%)
+
+13.1
+
+15.3
+
+20.0
+
+26.9
+
+17.3
+
+Debt/EBITDA (x)
+
+Liquidity: Strong
+We assess Legrand's liquidity as strong, and we forecast that liquidity sources will exceed uses by about 2.3x over the
+next 12 months. A large cash cushion, full availability under the €900 million revolving credit facility (RCF) maturing in
+2021, and limited debt maturities due in the next 12 months, all underpin Legrand's strong liquidity. In our view, the
+company also benefits from solid relationships with banks and generally prudent risk management.
+
+Principal liquidity sources for the 12 months from June 30, 2019:
+• Accessible cash of about €1.1 billion at the end of second-quarter 2019;
+• Our forecast of unadjusted FFO of about €1,100 million-€1,200 million; and
+• Full availability under the €900 million RCF.
+
+Principal liquidity uses for the 12 months from June 30, 2019:
+• Short-term debt of about €613 million;
+• Our forecast of non-seasonal working capital outflow of about €125 million-€150 million;
+• Capital expenditure of about €200 million-€250 million; and
+• Dividend payments and share buybacks of about €420 million-€450 million.
+
+Debt maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+Legrand S.A.
+
+Chart 4
+
+Legrand has a lengthy and spread out debt maturity profile, reflecting its refinancing activity over the past few years. In
+June 2019, it issued a €400.0 million 0.625% nine-year bond. On the other hand, we note that the group has around
+€613 million of short-term debt as of July 2019, consisting mainly of commercial paper.
+
+Covenant Analysis
+Legrand's debt instruments available beyond one year are not subject to financial covenants.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+Legrand S.A.
+
+Environmental, Social, And Governance
+
+Since Legrand is a manufacturer of electrical and digital building infrastructure, we see less environmental risk than
+for heavy building materials and cement companies. Legrand's strong research and development capacity (4.8% of
+sales in 2018) and ability to launch new products enables it to cope with regulatory initiatives to increase energy
+efficiency in mature markets and to maintain its market shares. Furthermore, its investments, new products, and
+acquired businesses, which respond to social megatrends, somewhat lessen Legrand's exposure to the volatility of
+the building materials cycle.
+We view Legrand's governance as a supporting factor for the ratings, reflecting management's experience and
+expertise, and a balance of different stakeholders' interests. Legrand has not been subject to major litigation.
+However, in September 2018, the police investigated Legrand's offices, along with the offices of other French
+electrical goods' manufacturers and distributors. According to the press, these investigations are related to
+suspicions of cartel pricing and corruption. We understand these investigations are ongoing, and we do not embed
+any financial impact in our base case, as the necessity of disbursement is currently uncertain.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+We expect Legrand's adjusted debt to EBITDA in 2019-2020 will remain at about 1.9x-2x, and that Legrand will
+gradually deleverage based on its increasing activity and solid cash flow generation. Legrand's capital structure
+comprises about €2,900 million of unsecured bonds issued by the parent company and a $400 million Yankee bond
+issued by Legrand France in June 2019. The weighted average maturity of Legrand's debt was five years at
+end-December 2018.
+
+Analytical conclusions
+Given that priority obligations ranking ahead of the senior unsecured obligations account for less than 15% of total
+debt (well below the 50% trigger), we align our issue ratings on Legrand's senior unsecured debt with our long-term
+issuer credit rating on Legrand.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+Legrand S.A.
+
+Table 3
+
+Reconciliation Of Legrand S.A. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018-Legrand S.A. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+4,591.2
+
+1,346.2
+
+1,139.0
+
+79.1
+
+1,404.1
+
+925.3
+
+184.3
+
+(255.0)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+3,319.1
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(77.9)
+
+--
+
+--
+
+Trade receivables
+securitizations
+
+126.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(31.0)
+
+--
+
+Operating leases
+
+206.6
+
+--
+
+65.6
+
+14.2
+
+14.2
+
+(14.2)
+
+51.3
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+125.4
+
+--
+
+3.1
+
+3.1
+
+3.1
+
+--
+
+--
+
+--
+
+(928.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized development
+costs
+
+--
+
+--
+
+(33.7)
+
+(5.6)
+
+--
+
+--
+
+(33.7)
+
+(33.7)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+22.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+11.6
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+5.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(470.4)
+
+5.9
+
+57.9
+
+23.3
+
+17.3
+
+(347.1)
+
+(13.4)
+
+(33.7)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+1,056.9
+
+911.9
+
+150.6
+
+Accessible cash and
+liquid investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+2,848.7
+
+4,597.1
+
+1,404.1
+
+1,162.3
+
+96.4
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A-/Stable/A-2
+
+Business risk: Strong
+
+• Country risk: Intermediate
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+Legrand S.A.
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Positive (+1 notch)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Building Materials Industry, Dec. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• Legrand Outlook Revised To Stable On Robust Performance And Prudent Financial Policies; 'A-/A-2' Ratings
+Affirmed, Jun 11, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 15
+
+Legrand S.A.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 16, 2019)*
+Legrand S.A.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Senior Unsecured
+
+A-
+
+Issuer Credit Ratings History
+11-Jun-2019
+
+A-/Stable/A-2
+
+28-Jun-2017
+
+A-/Negative/A-2
+
+22-Feb-2012
+
+A-/Stable/A-2
+
+Related Entities
+Legrand France
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Senior Unsecured
+
+A-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 17
+
+

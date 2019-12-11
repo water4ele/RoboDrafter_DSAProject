@@ -1,0 +1,376 @@
+Decathlon S.A.
+Primary Credit Analyst:
+Solene Van Eetvelde, Paris (33) 1-4420-6684; solene.van.eetvelde@spglobal.com
+Secondary Contact:
+Abigail Klimovich, CFA, London (44) 20-7176-3554; abigail.klimovich@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Decathlon S.A.
+Credit Highlights
+Issuer Credit Rating
+--/--/A-2
+
+Overview
+Key Strengths
+
+Key Risks
+
+Market leader in the sporting goods industry in France,
+Spain, and Italy, with an increasing presence in China.
+
+Lower profitability than other integrated specialty retailers.
+
+Vertically integrated business model that underpins value
+pricing and allows for merchandising flexibility.
+
+Exposure to discretionary demand for athletic goods.
+
+Successful track record of positive like-for-like growth since
+2005, except for 2018.
+
+Mounting online competition with brands going direct-to-consumer.
+
+Historically strong credit metrics with low leverage.
+
+High amount of capital expenditure (capex) to finance international expansion and
+transformation plan, which constrains free operating cash flow (FOCF).
+
+Decathlon's positive trading momentum is poised for recovery after weak results in 2018, but profitability will likely
+remain sub-par. In 2018, Decathlon reported negative like-for-like sales growth and a 13% EBITDA decline, explained
+by disruption from the group's recent initiatives to enlarge the assortment, replace international brands with the private
+labels, and adapt the supply chain to e-commerce. This has affected product availability in stores, essentially in France,
+Spain, and Italy, where the group generates more than 50% of its revenues. In addition, Decathlon suffered from poor
+market conditions and customer sentiment in France during the winter holiday season because of the yellow vests
+protests. Lagging online proposition in China, where it generates more than 10% of its sales, also weighed on its
+results. However, in the first half of 2019, Decathlon restored positive trading momentum. We believe that the
+slowdown of its international expansion in future years will also support its earnings growth by reducing the margin
+dilution coming from recently opened stores. Yet, we anticipate that its adjusted EBITDA margin will remain in the
+low end of the 10%-16% range that we consider as average for the sector.
+Decathlon may face challenges in some of its markets like China. We see rapidly mounting online competition in the
+apparel retail sector. This is particularly true in countries like China, where quickly changing consumer preferences
+and the adoption of new technologies accelerate the structural shift from stores to e-commerce. In addition, we see
+brands heightening the online competition as they tend more and more to reach their customers directly through their
+own websites.
+In the coming few years, Decathlon's cash flows will remain hampered by ongoing investments in the digital
+transformation that are necessary for the group's competitive edge.With only 7.5% of its revenues generated online,
+Decathlon's operating expenses and capex on its digital transformation (encompassing for instance the adaptation of
+its supply chain and logistics platforms, and progress in customer data collection) will rise in order to maintain a
+competitive edge. In addition, we believe that its FOCF will remain intrinsically lower than peers', because Decathlon
+is vertically integrated across development, production, and distribution. The group therefore bears more inventory
+than pure retailers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Decathlon S.A.
+
+Our Base-Case Scenario
+Assumptions
+
+• Macroeconomic factors that influence the sports
+goods industry include GDP growth, consumer
+confidence, CPI inflation, discretionary income, and
+the unemployment rate. Our assumptions for
+Decathlon reflect economic scenarios for France,
+Spain, Italy, and China, which together accounted
+for more than 65% of Decathlon's revenue in 2018.
+• GDP growth in 2019 and 2020 of, respectively, 1.4%
+and 1.5% in France, 2.1% and 1.9% in Spain, 0.1%
+and 0.6% in Italy, and 6.2% in China.
+
+Key Metrics
+
+2018A
+Debt/EBITDA (x)*
+FFO/debt (%)*
+FOCF/debt (%)*
+DCF (mil. €)
+
+2019E 2020E
+
+1.8
+
+1.7
+
+1.6
+
+41.7
+
+~45.0
+
+~45.0
+
+2.7
+
+~20.0
+
+~20.0
+
+(430) (25)-(35)
+
+40-50
+
+*As adjusted by S&P Global Ratings. FFO--Funds from
+operations. DCF--Discretionary cash flow. A--Actual.
+E--Estimate.
+
+• Revenue growth of about 7%-8% in 2019 and 2020,
+reflecting continuous, albeit slower, international
+expansion in high-growth markets, and 0%-2%
+like-for-like growth in mature European markets,
+driven by volume.
+• S&P Global Ratings-adjusted EBITDA margin to
+increase by about 10-20 basis points per year, from
+12.4% in 2018, supported by the group's positive
+sales trend but tempered by its continued focus on
+product and process innovation, and spending
+related to its transformation plan.
+• A reduction in inventory from the peak reached at
+the end of 2018, supported by positive trading
+momentum and strict inventory management. We
+anticipate that it will translate into minimal working
+capital outflows in 2019 and 2020, down from
+negative €362 million in 2018.
+• Average capex of €600 million-€650 million on
+average in 2019-2020, in line with the group's
+international expansion plan, and including
+transformation-related spending on IT and logistics.
+• Limited acquisitions and stable distributions to
+shareholders.
+
+Base-case projections
+We expect Decathlon's cash flow generation to improve from the low point of 2018. Earnings decline and inventory
+build-up led to negative FOCF of €210 million and a 0.3x releveraging in 2018, and to 1.8x adjusted debt to EBITDA
+from 1.5x the previous year. We forecast an improvement in cash flow generation over the next two years, supported
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Decathlon S.A.
+
+by positive trading momentum, a modest rise in margins, and strict inventory management.
+Still, hefty investments in digital transformation and stable shareholder remuneration will only permit modest
+deleveraging in 2019-2020. We forecast Decathlon's discretionary cash flow will be close to zero in 2019 and 2020. We
+consequently anticipate only modest deleveraging of 0.1x per year over the period, driven essentially by some
+earnings growth.
+
+Company Description
+Decathlon is one of the largest athletic footwear and apparel, and sports equipment retailers globally, with a 3.7%
+market share worldwide and a 17% market share in the French sports apparel market. It has leading positions in
+France, Spain, Italy, and Belgium, as well as a growing presence in China. In 2018, its network expanded to 1,511
+stores from 1,352 in 2017, spanning 51 countries. Decathlon generates about 70% of its revenues outside France, and
+around 88% of sales come from in-house brands covering 65 different sports. In 2018, Decathlon reported sales of
+about €11.3 billion and EBITDA of about €1.0 billion.
+
+Business Risk
+Decathlon's unique feature among global branded athletic goods manufacturers is its vertically integrated business
+model, combining development, production, and distribution via its own store network and e-commerce platform. We
+believe that Decathlon's leading share of the athletic goods market in mature European markets, increasing presence in
+high-growth emerging markets, consistently low-price strategy, and integrated business model will support its
+competitive position in the medium term and underpin earnings growth, notwithstanding its lower profitability than
+other specialty apparel retailers.
+
+Integrated business model
+We view the company's vertically integrated business model as ratings positive. It provides autonomy over pricing and
+merchandising decisions, and enables the company to maintain low prices in the fragmented and highly competitive
+sporting goods market. Decathlon has direct control of its costs and the quality of its products, including sourcing of
+some raw materials, research and development, and sale of products in its stores, while production is outsourced to a
+diverse network of contractors.
+Although competitive pricing provides a buffer against the discretionary nature of spending on athletic apparel and
+economic cycles, Decathlon has lower EBITDA margin than other apparel and specialty retailers. In addition, it
+remains exposed to the highly price-competitive, fashion-sensitive, and discretionary nature of the apparel retail
+market. Overall, the European retail market remains one of the most competitive in Europe.
+By investing 4%-5% of sales every year on product and process innovation, Decathlon has contained the impact of
+competitive prices on margins. What's more, the integrated business model enables the company to respond quickly to
+evolving consumer tastes, and align its merchandising strategy. The group has consistently reported positive
+like-for-like sales growth across the board, with the exception of 2018 when as it temporarily suffered from the
+disruption of its store transformation program in mature countries.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Decathlon S.A.
+
+Established leader in France and Southern Europe, while gaining ground in emerging markets
+A competitive pricing strategy has enabled Decathlon to have a leading position and continue to expanding its revenue
+base in its domestic market, France, as well as in Spain, Italy, and Belgium, despite high saturation and the maturity of
+these markets.
+We expect China and India, among other emerging markets, to be the main drivers of earnings growth due to the low
+saturation and favorable macroeconomic and demographic trends. We anticipate the final consumption contribution to
+economic growth in China to steadily increase over the next three years. This, coupled with an increasing middle class
+and rising health consciousness, will boost demand for athletic footwear and apparel. Leveraging on its price
+competiveness, the company's strategy is to increase the share of sales from China to 22% by 2022 from about 12% in
+2016. However, we believe that Decathlon may face increasing challenges in China if it does no expand its online
+proposition quickly enough to meet customers' expectations.
+Decathlon lags the global athletic wear manufacturers, such as Nike and Adidas, in terms of marketing expenditure.
+This results in lower brand equity and awareness compared with the international premium brand competitors.
+Nevertheless, despite price competiveness, Decathlon enjoys relatively strong brand recognition in France, its core
+market with the longest track record.
+
+Financial Risk
+The financial risk profile reflects a modest level of financial debt, high operating leases that constitute more than 60%
+of S&P Global Ratings-adjusted debt, and the impact of Decathlon's growth and transformation program on near-term
+FOCF. We expect adjusted debt to EBITDA to remain near 1.6x-1.7x in 2019 and 2020, reflecting our expectations of
+recovering operating performance, sound operating cash flow generation, and organic international expansion
+financed within the limits of operating cash flow, coupled with a prudent shareholder remuneration policy. Given the
+limited debt burden and low interest expense, we expect funds from operations to debt to remain close to 45%.
+We believe that continuous international expansion and transformation capex on IT and logistics will strain FOCF
+generation, and we expect adjusted FOCF to debt to remain close to 20% and 25% in 2019 and 2020, respectively.
+Our base-case scenario does not include any major increase in shareholder remuneration or acquisitions that would
+lead to a material deviation in our adjusted credit metrics for the company. This reflects our understanding of the
+prudent financial policy favored by Decathlon's main shareholders, which has supported consistently strong credit
+metrics.
+
+Liquidity
+Our short-term rating on Decathlon is 'A-2'. We assess the group's liquidity as adequate, reflecting our view that its
+liquidity sources will exceed its funding needs by slightly over 1.2x over the 12 months to Dec. 31, 2019. This is
+supported by our anticipation that Decathlon's working capital requirement will decrease from the peak reached at the
+end of 2018, but constrained by its vertical integration that increases its inventory burden.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Decathlon S.A.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about €735 million as
+of Dec. 31, 2018, of which about €90 million is not
+available for debt repayment.
+
+• About €615 million of short-term maturities, of
+which €490 million under the commercial paper
+program.
+
+• About €543 million of undrawn committed lines
+maturing beyond 12 months. The group currently
+has a total of €905 million of committed credit
+facilities that are regularly rolled over.
+
+• About €500 million of working capital funding of the
+intra-year peak requirement.
+
+• Around €850 million of funds from operation.
+
+• About €250 million of maintenance capex.
+• Our forecast of about €220 million dividends, in line
+with the historical trend.
+
+Covenant Analysis
+Decathlon has two covenants in place: Solvency and gearing. Both covenants have comfortable headroom.
+
+Environmental, Social, And Governance
+
+We currently do not anticipate ESG factors to materially influence Decathlon's credit quality. However, given the
+nature of the products and its vertical integration from sourcing of raw material to distribution, Decathlon is
+exposed to important global topics including sustainability of the resources (especially carbon emissions and waste
+from product packaging and unsold goods), product safety and brand perception. As a sports good retailer,
+Decathlon is well placed to optimize consumers' steady movement toward healthier lifestyles.
+We also factor governance into our rating. Decathlon is a private company and is therefore subject to less stringent
+disclosure rules vis-à-vis its financial partners. We view positively the management's expertise combined with its
+track record of above-average growth rates.
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+Decathlon S.A.
+
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Ratings Detail (As Of September 11, 2019)*
+Decathlon S.A.
+Issuer Credit Rating
+
+--/--/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Issuer Credit Ratings History
+10-May-2016
+
+--/--/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+

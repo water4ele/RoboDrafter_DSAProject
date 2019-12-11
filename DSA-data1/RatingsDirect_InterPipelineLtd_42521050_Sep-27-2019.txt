@@ -1,0 +1,505 @@
+Inter Pipeline Ltd.
+Primary Credit Analyst:
+Luqman Ali, CFA, Toronto (1) 416-507-2589; luqman.ali@spglobal.com
+Secondary Contact:
+Stephen R Goltz, Toronto + 1 (416) 507 2592; stephen.goltz@spglobal.com
+Research Assistant:
+Umair Khan, Toronto
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 1
+
+Inter Pipeline Ltd.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB+/Negative/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Outlook
+Key strengths
+
+Key risks
+
+High degree of contracted and fee-for-service cash flow underpinned by
+cost-of-service and fee-based contracts that S&P Global Ratings expects will
+generate 75%-80% of cash flows in the two-year forecast period
+
+Commodity exposure through natural gas liquids(NGL)
+fractionation facilities at Cochrane, Empress, and the
+Redwater Olefinic Fractionator
+
+Highly diverse customer base and creditworthy counterparties, with more than
+80% of revenues forecast to come from investment-grade counterparties
+
+Limited cushion in the credit metrics to compensate for the
+incremental construction and execution risk related to the
+Heartland Petrochemical Complex (HPC)
+Construction and execution risk over our outlook period
+during the buildout of the HPC
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 2
+
+Inter Pipeline Ltd.
+
+Outlook
+
+The negative outlook reflects S&P Global Ratings' view of the HPC's construction and execution risk given the long
+construction period, large size, and complexity. While we believe the project could be delivered on time and on
+budget, it entails a very long building period, and Inter Pipeline Ltd. (IPL) has limited experience in construction
+and project management outside of its core midstream and pipeline businesses. Furthermore, the outlook reflects
+the expected increased commodity price exposure to 25%-30% of total cash flows once the facility is operational.
+
+Downside scenario
+We could lower the rating if funds from operations (FFO)-to-debt stays below 19% through the construction
+period. This could result from prolonged delays and significant, debt-financed cost overruns; or if the expected
+commodity price recovery fails to materialize. After construction, we would expect improved credit metrics to
+compensate for the increased commodity exposure and we could lower the rating if FFO-to-debt stays below 23%
+beyond 2021, given our projected contract profile for the project.
+
+Upside scenario
+During our two-year outlook period, which runs through a heavy spending period for the project, we would
+consider revising the outlook to stable if the project is progressing on budget and on time; and the second phase of
+contracting significantly increases the proportion of take-or-pay contracting, further reducing commodity price risk.
+FFO-to-debt would need to improve comfortably over 23% to offset the construction and execution risk during
+construction and compensate for the increased commodity exposure once the project is operational before we
+would consider a positive rating action.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• West Texas Intermediate crude price of US$55 in
+2019, 2020, and 2021
+
+2019E 2020F 2021F
+FFO-to-debt (%)
+
+• Henry Hub natural gas prices of US$2.25 for 2019,
+US$2.50 for 2020, and US$2.75 for 2021
+• HPC construction costs of about C$3.5 billion, with
+a projected in-service date of late 2021
+• Capital commitments over the next four years
+financed with a C$1.5 billion credit facility, hybrid
+debt securities, undistributed cash flow from
+operations, and proceeds from a dividend
+reinvestment program (DRIP) and premium DRIP
+(PDRIP)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+19.0
+
+20.1
+
+21.1
+
+Debt-to-EBITDA (x)
+
+4.5
+
+4.1
+
+4.0
+
+FFO cash interest coverage (x)
+
+6.9
+
+6.1
+
+6.3
+
+*FFO – Funds from operations.
+A--Actual. E--Estimate. F--Forecast.
+
+SEPTEMBER 23, 2019 3
+
+Inter Pipeline Ltd.
+
+Company Description
+IPL is in the petroleum transportation, storage, and natural gas liquids processing businesses in Canada and Europe.
+The company operates through four segments: oil sands transportation; conventional oil pipelines; NGL processing;
+and bulk liquids storage.
+
+Business Risk: Strong
+We continue to assess IPL's business risk profile as strong, reflecting very stable cash flows from the oil sands
+transportation, conventional oil pipelines, and bulk liquids storage segments. We expect cost-of-service and fee-based
+contracts to generate 75%-80% of consolidated EBITDA over our forecast period. The company has overbuilt
+pipelines, with capacity for incremental volumes.
+The oil sands transportation business is highly contracted, mostly on a cost-of-service basis with investment-grade
+counterparties. The average contract tenor is over 20 years. We expect this business to contribute about 50% of
+consolidated EBITDA.
+The conventional pipelines segment, although not as strong as the oil sands segment, benefits from limited bypass risk
+given the tight integration with producers. We expect stable volumes and flexible tolling arrangements will maintain
+margins. This business segment has a diverse customer base, with over 100 counterparties; about 75% are
+investment-grade.
+The bulk liquids storage segment has a moderate contract profile with average contract length of about two years and
+fee-for-service-based cash flows. The segment also has a diverse customer base of over 100 customers; however, more
+than half of those are speculative-grade.
+Diversity within the four operating segments helps offset the volatility surrounding the NGL processing cash flows,
+which are exposed to commodity prices for both liquids and natural gas prices. We expect contribution from the
+commodity-sensitive cash flows to be 20%-25% over our two-year outlook period. The average contract life is about
+five years with over 20 counterparties, most (90%) of which are investment-grade.
+We continue to maintain our negative outlook, reflecting ongoing construction and execution risk related to the HPC
+project. Although IPL continues to track the construction project on time and on budget--with an unchanged target of
+a late-2021 start-up--cost overruns and delays could strain credit metrics during our outlook period. Construction
+delays could persist even when the company starts realizing cash flows from the project.
+We generally consider the petrochemicals industry to be riskier, relative to the contractually secured pipelines
+business, because of the higher volatility in the income stream. Although the company is targeting to mitigate this
+volatility by securing 70%-85% in take-or-pay contracts, the remaining 15%-30% will further increase IPL's overall
+commodity exposure to 25%-30% from 20% currently. However, the higher the volumes contracted on a take-or-pay
+tolling basis, the lower the commodity-sensitive cash flows.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 4
+
+Inter Pipeline Ltd.
+
+The HPC will be the first of its kind in Canada and will be designed to convert locally sourced, low-cost propane into
+525,000 tonnes per year of polypropylene (PP), a high-value, easy-to-transport plastic used in a wide range of finished
+products. The propane dehydrogenation (PDH) facility will convert approximately 22,000 barrels per day of propane
+into 525,000 tonnes per year of polymer-grade propylene (PGP). Propane feedstock for the PDH plant might come
+from IPL's Redwater Olefinic Fractionator or several third-party fractionators in the region. The integrated PP plant
+will use propylene from the PDH plant to produce 525,000 tonnes of PP per year. IPL has contracted detailed
+engineering with Fluor Corp. for the PDH facility, and Linde Engineering for the PP facility; they are best-in-class for
+building these types of facilities, which helps offset construction and execution risk.
+We have separated the ratings on subsidiary Inter Pipeline (Corridor) Inc. from those on IPL, reflecting Corridor's
+limited-purpose operating status. We base this analysis on the following factors:
+• Both the firm service agreement (FSA) and financing arrangements contain several provisions that effectively
+restrict mergers, investments, transactions with affiliates, liens, debt, and dispositions.
+• Corridor is not strategically or operationally linked to other IPL pipelines.
+• Under the FSA, the company has committed to limit its activities to those pertaining to its existing pipeline.
+• The FSA details the consequences of a default by Corridor, where under some circumstances the shippers can
+purchase the pipeline and assume the associated financing.
+
+Financial Risk: Significant
+We continue to assess the financial risk profile as significant. We believe IPL has limited cushion in the credit metrics
+to absorb any cost overruns during our outlook period. IPL is financing the HPC project through a combination of debt
+and equity sources such that forward-looking FFO/debt and debt/EBITDA stay at 19%-21% and 4.0x–4.5x,
+respectively. After construction, we would expect an improvement in credit metrics to offset the increased commodity
+exposure to maintain the rating. IPL's NGL business benefited from strong financial performance owing to higher frac
+spreads in 2018. However, these spreads have been weaker and have continued to trend lower into the third quarter of
+2019 after peaking in mid-2018. We would expect NGL processing results to largely track the trajectory of frac
+spreads, which could lead to some deterioration in credit metrics, if weakness in frac spreads persists. We generally
+expect the company to use commodity-sensitive cash flows to pay down the revolver and use its contracted stream to
+pay dividends.
+We apply a one-notch positive adjustment to the 'bbb' anchor score based on our comparative rating analysis (CRA)
+modifier. The modifier reflects contributions from stable, long-term contracted oil sands pipelines of 50%-55% of
+EBITDA in 2018 and deconsolidated financial metrics that we expect will remain at the upper end of the significant
+financial risk profile category during our two-year outlook period. While we believe we will maintain the positive CRA
+during the construction period, as currently contracted, HPC could result in incremental commodity exposure,
+bringing the total to about 25%-30% of cash flows. At these elevated levels, we do not think the positive CRA will
+continue to be warranted.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 5
+
+Inter Pipeline Ltd.
+
+Liquidity: Adequate
+We view IPL's liquidity as adequate. Sources less uses is positive, and sources over uses is greater than 1.2x over the
+next 12 months. The assessment incorporates our belief that the company has sound relationships with its banks,
+based on its ability to extend the revolving credit facility's maturity. We believe IPL has good access to capital markets
+through high participation in DRIP and PDRIP programs. We also believe the company demonstrates generally
+prudent risk management. It has a history of prefunding its bonds well before they mature and maintaining ample
+undrawn committed credit capacity on its C$1.5 billion credit facility.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of C$44 million as of
+June 30, 2019
+
+• Growth and maintenance capital expenditures of
+C$850 million-C$900 million over the next 12
+months
+
+• FFO of C$1 billion over the next 12 months
+• Credit facility availability of approximately C$900
+million as of June 30, 2019
+
+• Dividends of C$700 million-C$750 million over the
+next 12 months
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+IPL's capital structure consists of C$3.325 billion unsecured debt in the form of medium-term notes (MTNs); and
+C$1.373 billion of nonrecourse debt issued by its subsidiary, Corridor.
+
+Analytical conclusions
+We rate the MTNs 'BBB+', the same as the long-term issuer credit rating. The debt at Corridor is nonrecourse to IPL,
+so we believe there is no risk of subordination at the parent level. We rate this debt 'BBB+', the same as the issuer
+credit rating on Corridor. We deconsolidate the nonrecourse debt from IPL in our analysis and we rate Corridor 'BBB+'
+stand-alone.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Negative/--
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Strong
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 6
+
+Inter Pipeline Ltd.
+
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Commodity Chemicals Industry, Dec. 31, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Midstream Energy Industry, Dec. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, July 1, 2019
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Hybrid Capital: Methodology And Assumptions, July 1, 2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 7
+
+Inter Pipeline Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 23, 2019)*
+Inter Pipeline Ltd.
+Issuer Credit Rating
+
+BBB+/Negative/--
+
+Senior Unsecured
+
+BBB+
+
+Subordinated
+
+BBB-
+
+Issuer Credit Ratings History
+20-Dec-2017
+
+BBB+/Negative/--
+
+17-Dec-2010
+
+BBB+/Stable/--
+
+24-Jul-2008
+
+BBB/Positive/--
+
+Related Entities
+Inter Pipeline (Corridor) Inc.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Unsecured
+
+BBB+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 9
+
+

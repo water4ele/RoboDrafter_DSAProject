@@ -1,0 +1,1578 @@
+LANXESS AG
+Primary Credit Analyst:
+Renato Panichi, Milan (39) 02-72111-215; renato.panichi@spglobal.com
+Secondary Contact:
+Oliver Kroemker, Frankfurt (49) 69-33-999-160; oliver.kroemker@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 1
+
+LANXESS AG
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Portfolio realignment expected to result in higher and less volatile
+margins.
+
+Debt-funded acquisitions related to the business portfolio realignment
+strategy.
+
+Solid market position among the top-three players in the niche and
+midsize specialty chemicals business.
+
+Exposure to some cyclical end markets, such as the auto industry, and to
+volatile raw material prices.
+
+Well-diversified exposure by geography, with six key end markets
+accounting for 75% of revenue.
+
+Operating margins are improving, but still lag the 17% average for
+investment-grade, specialty chemical peers.
+
+Improved leverage metrics following 2018 disposal of 50% stake in
+ARLANXEO for €1.4 billion.
+
+Credit metrics are exposed to currency movements.
+
+Public commitment to maintaining a solid investment-grade rating.
+
+S&P Global Ratings believes LANXESS' management is committed to preserving its leverage metrics after the
+ARLANXEO disposal. The company has made a public commitment to maintaining a solid investment-grade rating.
+Furthermore, the current management team has a track record of financial discipline and balance-sheet protection. For
+example, in 2016 LANXESS issued a €500 million hybrid bond and suspended share buybacks to lessen the effect on
+debt from the €2.4 billion acquisition of Chemtura.
+The company's portfolio realignment will bring higher and more stable margins. LANXESS acquired Chemours'
+clean-and-disinfect business in 2016 and lubricant additives producer Chemtura in 2017, and exited the volatile and
+lower-margin synthetic rubber market following the ARLANXEO disposal in 2018. Furthermore, LANXESS' is focusing
+on certain organic growth projects and manufacturing-excellence initiatives. We believe these factors should enable
+LANXESS to gradually build a track record of higher and less-volatile profitability over the next few years. However,
+we believe adjusted EBITDA margin improvement will be limited in the short term, reaching about 14% in 2020 from
+13% in 2017-2018, reflecting softness in some key end markets.
+We expect the company's credit metrics to temporarily weaken in 2019 and strengthen in 2020. We expect our key
+credit metric, funds from operations (FFO) to debt, to decline to 31%-33% in 2019 before recovering in 2020 to 2018
+levels of about 36%. This is largely due to a €200 million share buyback completed in first-half 2019 and higher capital
+expenditure (capex) resulting from further investments in reducing bottlenecks. The persistent weakness in the auto
+and agricultural sectors is a key downside risk in our base case.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 2
+
+LANXESS AG
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that LANXESS will keep FFO to debt comfortably above 30%, which
+we consider commensurate with a 'BBB' rating.
+We do not envisage much rating headroom in the short term. However, the company's August 2019
+announcement that it will sell its 40% stake in chemical site service provider Currenta could potentially support
+debt reduction and restore rating headroom. The company expects to receive cash proceeds of €780 million (gross
+of taxes) in April 2020, however, we understand that it has not decided how it will use the proceeds. In our
+base-case scenario we also assume an improvement in adjusted EBITDA margin to about 14% in 2020, up from
+13% in 2017-2018.
+
+Downside scenario
+We might lower the rating if the ratio of FFO to debt fell below 30% without the short-term prospect of a quick
+recovery. In our view, this may happen if LANXESS pursued a large debt-financed acquisition, which we see as the
+main risk to the rating. However, we believe that, in such a scenario, the group would likely protect its credit
+metrics in light of its commitment to maintain an investment-grade rating.
+Prolonged operating pressure associated with a significant reduction of our adjusted EBITDA margin to below 13%
+could also lead to a downgrade.
+
+Upside scenario
+We could consider an upgrade if LANXESS improved its credit metrics, specifically with FFO to debt comfortably
+exceeding 45% and free operating cash flow (FOCF) to debt above 25% on a sustained basis. However, we view
+such a scenario as unlikely, since we believe that the company would most likely use any financial flexibility it
+gains to increase capex, acquisitions, or shareholder returns.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 3
+
+LANXESS AG
+
+Assumptions
+
+• GDP growth in the EU of 1.5% in 2019 and 1.6% in
+2020, in Germany of 0.6% in 2019 and 1.1% in 2020,
+in North America of 2.4% in 2019 and 1.7% in 2020,
+and in Asia-Pacific of 5.2% in 2019 and 2020.
+• A modest revenue decline in local-currency terms,
+reflecting persistent weakness in the auto and
+agricultural sectors and the termination of
+margin-dilutive tolling agreements (particularly in
+Specialty Additives). We acknowledge the group's
+resilient performance in Advanced Intermediates in
+first-half 2019. However, we believe that the
+increasingly difficult operating environment may
+make it difficult for the company to increase prices.
+Currency movements could also weigh on reported
+revenue in both 2019 and 2020.
+
+Key Metrics
+
+FFO to debt (%)
+Debt to EBITDA (x)
+FOCF to debt (%)
+
+2018A
+
+2019E
+
+2020E
+
+2021E
+
+36.3
+
+31-33
+
+35-37
+
+35-37
+
+2.1 2.4-2.6 2.2-2.0 2.2-2.0
+(2.1)
+
+0-2
+
+8-10
+
+8-12
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Reported EBITDA of about €900 million in 2019,
+modestly improving in 2020.
+• Limited or neutral working capital cash absorption.
+• Capex of about €500 million in 2019 and 2020,
+mainly for the implementation of debottlenecking
+projects.
+• About €780 million of proceeds from the sale of the
+Currenta stake, gross of taxes.
+• Dividends of €80 million-€90 million in 2020 and
+2021.
+• No acquisitions, but we acknowledge that LANXESS
+may pursue external growth in some business
+segments.
+• Our base-case projections for 2020 do not
+incorporate the potential benefits related to the
+disposal of Currenta. This is because we understand
+that the company has not yet decided how it will use
+the proceeds.
+
+Base-case projections
+We expect EBITDA margin growth to be limited but less volatile in 2019-2020. The current difficult operating
+environment in some key end markets should partially offset the benefit of lower restructuring and implementation
+costs, synergies from the integration of Chemtura, the effects of various ongoing debottlenecking and manufacturing
+efficiency projects, and termination of margin-dilutive tolling agreements. Therefore, we believe that margin
+improvement over 2019-2020 will be limited. Positively, we believe that LANXESS' exit from the volatile and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 4
+
+LANXESS AG
+
+lower-margin synthetic rubber business should reduce the volatility of future profitability.
+
+Company Description
+LANXESS is a German specialty chemicals company that develops and manufactures chemical intermediates,
+additives, specialty chemicals, and plastics. At year-end 2018 it reported €7.2 billion of revenue and had about 15,400
+employees in 33 countries. Last year, LANXESS sold its 50% stake in ARLANXEO to Saudi Aramco, thus exiting the
+synthetic rubber business. In August 2019, the company also announced the disposal of its 40% stake in chemical park
+service provider Currenta to increase the company's financial headroom for capital allocation over 2020.
+The company operates through four business segments:
+• Advanced Intermediates (32% of group revenue as of June 30, 2019), which comprises activities in basic and fine
+chemicals, in which the organometallic (chemical compounds bonding an organic molecule and metal) business was
+integrated following the Chemtura acquisition.
+• Specialty Additives (27%), including the additives manufacturing business.
+• Performance Chemicals (20%), the group's application-oriented activities in process and functional chemicals.
+• Engineering Materials (21%), which offers a range of engineering plastic compounds and hot-cast prepolymers,
+specialty aqueous urethane dispersions, and polyester polyols.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 5
+
+LANXESS AG
+
+Chart 1
+
+Business Risk: Satisfactory
+In our view, LANXESS benefits from its continued transformation into a midsize, well-diversified (by geography and
+end markets) specialty chemical company, with market positions among the top-three players in most of its core
+businesses. LANXESS' exit from the volatile and lower-margin commodity synthetic rubber business, through the
+disposal of the remaining 50% of ARLANXEO, is a key milestone in its transformation journey (see charts 1 and 2).
+This divestment should enable the company to gradually build a track record of higher margins and less-volatile
+profitability, two important pillars in our assessment of chemical companies' competitive position and business risk.
+The 2016 acquisition of Chemours' clean-and-disinfect business, and 2017 acquisition of lubricant additives and flame
+retardants producer Chemtura are two key steps in LANXESS' transformation. Management has expressed high
+confidence in its guidance of achieving over €100 million of cost synergies related to the Chemtura transaction over
+2017-2020. In 2017, LANXESS also restructured and downsized its leather business unit, which has shown
+higher-than-average margin volatility in the past. Furthermore, LANXESS is investing in debottlenecking and
+terminating some margin-dilutive toll agreements, with the aim of improving margins and accelerating cash
+generation.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 6
+
+LANXESS AG
+
+We believe that these factors should enable the company to gradually build a track record of higher and less volatile
+profitability over the next few years. However, we forecast limited improvement in our adjusted EBITDA margin in the
+short term, to about 14% in 2020 compared with 13% in 2017-2018, reflecting softness in some key end markets. As
+result, LANXESS' profitability gap with investment-grade specialty chemical peers is reducing, but not fully bridged
+(see peer comparison below).
+Like most specialty chemical companies, LANXESS has exposure to some cyclical end markets, such as the auto and
+construction industries. However, it is no longer exposed to the volatile tire business after the ARLANXEO disposal. In
+our view, first-half 2019 performance clearly shows that the company's strategic transformation is paying off, while
+leading positions in attractive niche markets are almost balancing the softness in the auto sector.
+LANXESS is also exposed to volatile raw-material prices, such as oil-derived products and ammonia, which may result
+in margin volatility through the cycle. However, this is partly mitigated by the company's good track record of passing
+through input costs to product prices.
+We understand the company may pursue midsize acquisitions to strengthen its business position. We see this as the
+main risk to our ratings if the acquisitions were sizable and the company funded them through debt.
+We do not expect a material disruption to the group should the U.K. leave the EU without a deal, due to its limited
+U.K. operations.
+
+Peer comparison
+LANXESS' peers include Arkema S.A., Clariant AG, Evonik Industries, and Solvay S.A. Arkema and Clariant are more
+comparable with LANXESS than Solvay and Evonik, which are larger and have more diverse end markets.
+In our view, LANXESS has a better market position than Clariant, which displays better geographic diversity.
+LANXESS has a track record of weaker profitability than both Clariant and Arkema, due to lower margins in the
+synthetic rubber business and significant restructuring costs. Positively, we expect LANXESS' EBITDA margin to
+progressively improve in 2019-2020, but remain below the peer average (see chart 3).
+We expect LANXESS' FFO to debt will stand comfortably above 30% in the foreseeable future, which is better than
+Clariant's and explains the one-notch rating difference between the two companies. Similarly, Arkema's credit metrics
+are better than LANXESS', explaining the one-notch difference between the two.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 7
+
+LANXESS AG
+
+Chart 2
+
+Table 1
+
+LANXESS AG--Peer Comparison
+Industry sector: Chemical companies
+LANXESS AG
+Rating as of Sept. 5, 2019
+
+Clariant AG
+
+BBB/Stable/A-2 BBB-/Stable-A-3
+
+Evonik Industries
+
+Solvay S.A.
+
+BBB+/Stable/A-2 BBB/Stable/A-2
+
+--Fiscal year ended Dec. 31, 2018--
+
+(Mil. €)
+Revenue
+
+7,197.0
+
+5,878.9
+
+15,024.0
+
+11,299.0
+
+EBITDA
+
+968.7
+
+786.5
+
+2,414.0
+
+1,975.5
+
+Funds from operations (FFO)
+
+735.3
+
+512.0
+
+1,988.6
+
+1,531.7
+
+Interest expense
+
+103.4
+
+87.1
+
+158.4
+
+276.8
+
+Cash interest paid
+
+77.4
+
+81.8
+
+158.4
+
+208.8
+
+454.5
+
+455.2
+
+1,780.6
+
+1,356.7
+
+Capital expenditure
+
+497.0
+
+227.2
+
+1,026.0
+
+711.0
+
+Free operating cash flow (FOCF)
+
+(42.5)
+
+228.0
+
+754.6
+
+645.7
+
+Discretionary cash flow (DCF)
+
+(127.8)
+
+67.3
+
+182.9
+
+282.9
+
+Cash and short-term investments
+
+1,395.0
+
+762.5
+
+1,128.0
+
+1,103.0
+
+Debt
+
+2,028.2
+
+1,984.0
+
+5,745.4
+
+6,584.8
+
+Equity
+
+3,023.0
+
+2,636.3
+
+8,075.0
+
+9,024.0
+
+EBITDA margin (%)
+
+13.5
+
+13.4
+
+16.1
+
+17.5
+
+Return on capital (%)
+
+9.4
+
+11.6
+
+10.7
+
+6.4
+
+EBITDA interest coverage (x)
+
+9.4
+
+9.0
+
+15.2
+
+7.1
+
+FFO cash interest coverage (x)
+
+10.5
+
+7.3
+
+13.6
+
+8.3
+
+Cash flow from operations
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 8
+
+LANXESS AG
+
+Table 1
+
+LANXESS AG--Peer Comparison (cont.)
+Debt/EBITDA (x)
+
+2.1
+
+2.5
+
+2.4
+
+3.3
+
+FFO/debt (%)
+
+36.3
+
+25.8
+
+34.6
+
+23.3
+
+Cash flow from operations/debt (%)
+
+22.4
+
+22.9
+
+31.0
+
+20.6
+
+FOCF/debt (%)
+
+(2.1)
+
+11.5
+
+13.1
+
+9.8
+
+DCF/debt (%)
+
+(6.3)
+
+3.4
+
+3.2
+
+4.3
+
+Financial Risk: Intermediate
+Our assessment of LANXESS' financial risk profile reflects the company's improved credit metrics since 2018, fueled
+by the disposal of ARLANXEO. We forecast FFO to debt will temporarily weaken to 31%-33% in 2019, compared with
+36% last year, before recovering to 2018 levels in 2020. This is largely due to a €200 million share buyback completed
+in first-half 2019 and higher capex resulting from further investments in debottlenecking, which should result in higher
+debt. We believe capex will stay at about 7% of sales in 2019-2020, which will mean comparatively weaker FOCF over
+the next few years (see chart 4). We expect FOCF to debt of 0%-2% in 2019 and 8%-10% in 2020.
+Chart 3
+
+We do not include acquisitions in our base-case scenario, but we see them as the main risk for the ratings. LANXESS'
+disposal of its 40% stake in Currenta gives the company financial headroom for capital allocation over 2020. We
+believe the transaction could potentially support LANXESS in reducing its debt. The company expects to receive cash
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 9
+
+LANXESS AG
+
+proceeds of €780 million (gross of taxes). We understand that LANXESS has yet to decide how it will utilize the
+proceeds, but it is considering a number of capital allocation options including debt repayment, organic and external
+growth, and dividends. Therefore, we will monitor how LANXESS uses the funds.
+We believe LANXESS' top management is committed to preserving enhanced leverage metrics following the 2018
+ARLANXEO disposal, including FFO to debt comfortably above 30%. The company has made a public commitment to
+maintain a solid investment-grade rating. Furthermore, the current management team has shown financial discipline,
+including through the issuance of a €500 million hybrid bond in 2016 to protect credit metrics, and the company has
+the flexibility to reduce capex or dispose of assets to strengthen its balance sheet if needed.
+
+Financial summary
+Table 2
+
+LANXESS AG--Financial Summary
+Industry sector: Chemical companies
+--Fiscal year ended Dec. 31-(Mil. €)
+Revenue
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+7,197.0 8,041.8 6,655.5 7,902.0 8,006.0
+
+EBITDA
+
+968.7 1,070.3
+
+896.9
+
+848.1
+
+734.9
+
+Funds from operations (FFO)
+
+735.3
+
+875.9
+
+637.0
+
+655.1
+
+551.1
+
+Interest expense
+
+103.4
+
+125.4
+
+121.8
+
+129.9
+
+142.8
+
+77.4
+
+83.3
+
+88.8
+
+94.9
+
+152.8
+
+454.5
+
+732.2
+
+580.5
+
+653.1
+
+710.7
+
+Capital expenditure
+
+497.0
+
+472.0
+
+377.5
+
+434.0
+
+614.0
+
+Free operating cash flow (FOCF)
+
+(42.5)
+
+260.2
+
+203.0
+
+219.1
+
+96.7
+
+Discretionary cash flow (DCF)
+
+(127.8)
+
+185.0
+
+148.5
+
+173.1
+
+50.7
+
+Cash and short-term investments
+
+1,395.0
+
+459.2 2,480.5
+
+466.0
+
+518.0
+
+Gross available cash
+
+1,395.0
+
+459.2 2,480.5
+
+466.0
+
+518.0
+
+Debt
+
+2,028.2 3,313.4 1,405.3 2,520.3 2,696.5
+
+Equity
+
+3,023.0 2,538.9 2,562.0 2,323.0 2,161.0
+
+Cash interest paid
+Cash flow from operations
+
+Adjusted ratios
+EBITDA margin (%)
+
+13.5
+
+13.3
+
+13.5
+
+10.7
+
+9.2
+
+Return on capital (%)
+
+9.4
+
+11.3
+
+10.7
+
+8.2
+
+5.7
+
+EBITDA interest coverage (x)
+
+9.4
+
+8.5
+
+7.4
+
+6.5
+
+5.1
+
+FFO cash interest coverage (x)
+
+10.5
+
+11.5
+
+8.2
+
+7.9
+
+4.6
+
+2.1
+
+3.1
+
+1.6
+
+3.0
+
+3.7
+
+36.3
+
+26.4
+
+45.3
+
+26.0
+
+20.4
+
+Cash flow from operations/debt (%)
+
+22.4
+
+22.1
+
+41.3
+
+25.9
+
+26.4
+
+FOCF/debt (%)
+
+(2.1)
+
+7.9
+
+14.4
+
+8.7
+
+3.6
+
+DCF/debt (%)
+
+(6.3)
+
+5.6
+
+10.6
+
+6.9
+
+1.9
+
+Debt/EBITDA (x)
+FFO/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 10
+
+LANXESS AG
+
+Liquidity: Strong
+We view LANXESS' liquidity as strong because we expect sources will exceed uses by more than 1.5x over the 12
+months from June 30, 2019, and by at least 1.0x in the 12 months thereafter. We factor in the company's demonstrated
+access to debt markets and bank financing, and prudent liquidity risk management that enable it to anticipate potential
+setbacks and take action to ensure continued strong liquidity. LANXESS has no financial covenants.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and short-term investments of €929 million.
+
+• Less than €100 million of short-term debt maturities.
+
+• Full availability under an undrawn €1.25 billion
+credit line maturing in May 2023.
+
+• Limited or neutral working capital cash absorption.
+
+• Cash FFO of €600 million.
+
+• Capex of about €500 million in 2019 and 2020.
+• Dividends of €80 million-€90 million.
+
+• Currenta stake proceeds of €780 million, gross of
+taxes.
+
+Debt maturities
+Table 3
+
+LANXESS AG--Debt Maturities*
+Period
+
+Amount (Mil. €)
+
+Current portion of long-term debt
+Debt due in second year
+
+59.0
+3.0
+
+Debt due in third year
+
+500.0
+
+Debt due in fourth year
+
+599.0
+
+Debt due in fifth year
+Debt due after fifth year
+Total debt
+
+2.0
+1,582.0
+2,745.0
+
+*As of Dec. 31, 2018.
+
+Environmental, Social, And Governance
+We consider LANXESS' exposure to environmental risk factors as on par with the chemical sector. Climate protection
+and energy efficiency are central to the company's sustainability strategy. Even before the Paris climate agreement,
+LANXESS formulated concrete environmental goals. By 2025, the company aims to reduce its energy consumption
+and specific carbon dioxide (CO2) emissions by 25% compared with 2015. Based on year-end 2018 data, the company
+is on track to reach this target, with direct CO2 emissions 4% lower and indirect emissions at 2015 levels.
+Furthermore, the company significantly reduced its emissions of non-methane volatile organic compounds, largely
+through the disposal of ARLANXEO in 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 11
+
+LANXESS AG
+
+We believe LANXESS has a good safety record. The company's lost time injury frequency rate (LTIFR) per million
+hours worked stood at 1.4 at year-end 2018, down from 2.0 at year-end 2016. The group aims to reach a LTIFR of less
+than 1.0 by 2025. Furthermore, a key aim of the company is to make sure its entire product portfolio is analyzed from a
+sustainability perspective, so that it does not pose risks to humans and the environment. As of year-end 2018,
+LANXESS' environmental protection provisions, mainly related to soil contamination, stood at €198 million.
+From a governance standpoint, LANXESS is fully in line with global best practices and our assessment is neutral to the
+rating. Some first- and second-level management variable compensation (below the board level) depends on the extent
+to which certain targets are achieved.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+We continue to align our issue ratings on LANXESS' senior unsecured debt with the issuer credit rating. The majority
+of LANXESS' interest-bearing debt comprises senior unsecured bonds. All of the debt is issued by the parent company
+LANXESS. The company issued one hybrid bond in 2016 with a first call date in 2023. Cash and cash equivalents of
+about €229 million and unused committed credit lines of €1.25 billion support the group's liquidity position as of June
+30, 2019.
+
+Analytical conclusions
+With no material priority obligations ranking ahead of the group's senior unsecured obligations, we rate its senior
+unsecured debt 'BBB', the same as the issuer credit rating. We rate the subordinate hybrid bond at 'BB+', two notches
+below the issuer credit rating, and assign it intermediate equity content. LANXESS' hybrid capitalization ratio stood at
+9.9% at year-end 2018.
+
+Reconciliation
+Table 4
+
+Reconciliation Of LANXESS AG Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018-LANXESS AG reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+2,745.0
+
+2,780.0
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+935.0
+
+504.0
+
+75.0
+
+968.7
+
+472.0
+
+74.0
+
+Cash flow
+from
+operations
+
+Dividends
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(156.0)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(77.0)
+
+--
+
+--
+
+142.2
+
+--
+
+44.9
+
+11.6
+
+11.6
+
+(11.6)
+
+33.2
+
+--
+
+(250.0)
+
+250.0
+
+--
+
+--
+
+(11.3)
+
+11.3
+
+11.3
+
+11.3
+
+Operating leases
+Intermediate hybrids
+reported as debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 12
+
+LANXESS AG
+
+Table 4
+
+Reconciliation Of LANXESS AG Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€) (cont.)
+Postretirement benefit
+obligations/deferred
+compensation
+
+710.0
+
+--
+
+4.0
+
+4.0
+
+25.0
+
+--
+
+--
+
+--
+
+(1,320.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+3.0
+
+--
+
+--
+
+--
+
+Share-based
+compensation expense
+
+--
+
+--
+
+1.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+12.0
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(62.0)
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+(7.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(1.0)
+
+(1.0)
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+(16.0)
+
+(16.0)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+(1.0)
+
+--
+
+--
+
+--
+
+--
+
+(716.8)
+
+243.0
+
+33.7
+
+9.6
+
+28.4
+
+(233.4)
+
+(17.5)
+
+11.3
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Dividends
+paid
+
+735.3
+
+454.5
+
+85.3
+
+Accessible cash and liquid
+investments
+
+Debt: Guarantees
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+2,028.2
+
+3,023.0
+
+968.7
+
+513.6
+
+103.4
+
+PP&E--Property, plant, and equipment.
+
+When calculating our adjusted credit ratios, we add to reported debt as of Dec. 31, 2018, €710 million of pension
+liabilities and €142 million of operating leases. However, we net about €1.3 billion of surplus cash and short-term
+investments, which we consider available for debt repayment. We also deduct from debt 50% of the hybrid instrument
+issued in 2016 and reported as debt, since we assigned it intermediate equity content. Our forecast credit metrics
+incorporate total lease liabilities of about €130 million following the implementation of International Financial
+Reporting Standards 16, as per the company disclosure in July 2019.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Intermediate
+• Industry risk: Low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 13
+
+LANXESS AG
+
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Specialty Chemicals Industry, Dec. 31, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+•
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 14
+
+LANXESS AG
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 5, 2019)*
+LANXESS AG
+Issuer Credit Rating
+
+BBB/Stable/A-2
+
+Senior Unsecured
+
+BBB
+
+Subordinated
+
+BB+
+
+Issuer Credit Ratings History
+09-Aug-2018
+
+BBB/Stable/A-2
+
+31-Jul-2017
+
+BBB-/Stable/A-3
+
+26-Sep-2016
+
+BBB-/Negative/A-3
+
+24-Sep-2015
+
+BBB-/Positive/A-3
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 16
+
+

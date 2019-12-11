@@ -1,0 +1,501 @@
+GI Chill Acquisition LLC
+Primary Credit Analyst:
+Viral Patel, New York +1 212-438-2403; viral.patel@spglobal.com
+Secondary Contact:
+David A Kaplan, CFA, New York (1) 212-438-5649; david.a.kaplan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+GI Chill Acquisition LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Global leading position in both the cord blood and tissue storage businesses
+and for the reproductive tissue (both sperm and eggs) businesses.
+
+Small scale (about $200 million in annual GAAP revenue) with
+narrow operating focus in two highly fragmented markets.
+
+Annuity-like revenue stream from stem cell business provides some future
+visibility.
+
+Minimal approved therapeutic applications for stored cord blood
+and none for cord tissue.
+
+Upfront and out-of-pocket payments insulate the company from
+reimbursement risk.
+
+Limited supply of donor tissue in the reproductive business
+constrains growth despite growing demand.
+
+Above-average profitability with EBITDA margins near 30%.
+
+Company competes with public blood banks, which offer a similar
+service free of charge.
+Highly leveraged capital structure with adjusted leverage of about
+10.5x for 2019 (excludes deferred revenues from EBITDA).
+
+The therapeutic application for newborn cord blood is limited.
+Several leading medical organizations express skepticism about the value of private cord blood banking relative to free
+public banking, given the current state of medical knowledge in which there are few applications for cord blood and
+cord tissue. In addition, research suggests that the cord blood's potential benefit for the original donor may be limited
+since it would likely have the same genetic defects as the ones found in the donor.
+
+The company's small scale and narrow operating focus makes it sensitive to industry and regulatory
+shifts.
+GI Chill is narrowly focused and operates on a limited scale, with about $200 million in annual GAAP sales (excluding
+deferred revenues). Barriers to entry for the industry remain moderate, including the initial investment to open
+facilities, expanding the donor catalogue, and regulatory requirements. Additionally, the company is exposed to
+regulatory shifts as the U.S. FDA routinely inspects the facilities for current good tissue practice (CGTP), current good
+manufacturing practice (CGMP), and donor screening.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+GI Chill Acquisition LLC
+
+The company benefits from high visibility to revenue streams, given the upfront payments of the
+subscription-based model.
+GI Chill benefits from the highly visible subscription-based revenue stream with strong renewal rates. The company's
+multi-year contracts remain sticky among customers and collects subscription revenues upfront, which allows it to
+manage working capital efficiently. We view favorably the stability and predictability around the company's
+annuity-like revenue stream from annual storage fees, and the high level of profitability in this business.
+
+The company has a leading position in sperm and egg storage, which has favorable demographic
+trends.
+The estimated total addressable market for storage of both reproductive and stem cell tissue is about $3.7 billion in the
+U.S. Tailwinds include rising maternal age, increasing number of same-sex couples and single mothers by choice, and
+increasing employer coverage of fertility treatments all benefiting the reproductive segment.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that GI Chill's leverage will be about 10.5x in 2019,
+declining to about 9.3x in 2020. It also reflects our expectation that the company will generate about $20 million in
+free operating cash flow in 2019, improving to $30 million per year in 2020. At the same time, we expect adjusted
+debt leverage to remain elevated, above 8x for the next few years since we don't think the company will use
+internally generated cash flow for permanent debt reduction. We project the financial sponsor will shape the
+company's financial policy and that the company will use excess cash and growing debt capacity to fund
+shareholder returns and acquisitions.
+
+Downside scenario
+We could lower the rating if competitive/pricing pressures or regulatory challenges in the cord blood registry
+(CBR) business results in a revenue decline and margin erosion, leading leverage to rise above 10x for a sustained
+period. This could occur if EBITDA margins decline below 27% and revenue growth slows.
+
+Upside scenario
+An upgrade is unlikely over the next year given GI Chill's initial high debt leverage. However, we could consider a
+higher rating if the company reduced leverage below 7x. Such an improvement could be achieved with EBITDA
+margin expansion of over 300 basis points above our base case and revenue growth accelerating to the low-teens
+in 2020. We would also need to determine whether the company could sustain leverage below that threshold and
+adhere to a financial policy that is consistent with the improved credit measures on an ongoing basis.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+GI Chill Acquisition LLC
+
+Assumptions
+
+• We expect low- to mid-single-digit percentage
+revenue growth (excluding deferred revenues)
+reflecting favorable demographic trends supporting
+growth and sales force investment and marketing
+optimization.
+• We expect adjusted EBITDA margin expansion in
+2019 partially offset by integration costs, and project
+that it will increase by about 250 basis points in
+2020 as the company realizes synergies and
+integration costs roll off.
+
+Key Metrics
+
+2018A 2019E 2020E
+Adj. debt/EBITDA (x)
+
+17.7
+
+10-11
+
+9-10
+
+Adj. EBITDA margin (%)
+
+18.4
+
+28-33
+
+28-33
+
+5.5
+
+2-4
+
+2-4
+
+FFO to debt (%)
+
+All figures are S&P Global Ratings-adjusted.
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• We expect 2019 capital expenditures to be elevated
+at $8 million, reflecting one-time capex, and improve
+to about $5 million per year in 2020.
+• Leverage will remain elevated; however, company
+growth, one-time costs, and synergies will improve
+EBITDA in 2019 and 2020.
+
+Company Description
+GI Chill Acquisition LLC (together with its subsidiaries, "California Cryobank Life Sciences," or "CCLS") has a leading
+market position in both of its core markets. The company has a base of more than 875,000 stored cord blood and cord
+tissue units and in its reproductive segment has provided frozen donor gametes (both sperm and eggs) to thousands of
+customers. The cord blood and tissue business (about 67% of revenues) serves a diverse customer base of new parents
+and the reproductive business serves customers seeking to start or build their family. The company is domiciled in the
+U.S. and given the nature of its services, only a small percentage of total sales are outside of the U.S.
+
+Business Risk: Weak
+The ratings on GI Chill reflect the company's limited size and narrow business focus in the fragmented markets for
+cord blood and tissue storage and for reproductive cell and tissue (both sperm and egg), which are relatively small and
+have only moderate barriers to entry. The ratings also reflect our view that currently there is only a certain number of
+approved therapeutic applications for newborn cord blood and no approved uses for the cord tissue. Partially offsetting
+these factors are the company's leading positions in all of its target markets, above-average profitability, potential
+cross-selling opportunities between the two combined businesses, predictability of the annuity-like revenue stream
+from the CBR business, and lack of exposure to government or managed care reimbursement in either segment.
+The combined company holds the leading positions in all three markets, with 40%, 35%, and 39% market share in
+sperm, egg, and stem cell storage business lines in the U.S., respectively. The CBR business competes with ViaCord, a
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+GI Chill Acquisition LLC
+
+subsidiary of PerkinElmer; Cryo-Cell International; StemCyte; and multiple other private blood banks in the U.S. In
+addition, CBR competes with public blood banks, which offer a similar service free of charge. We believe about 40% of
+cord blood banking in the U.S. is done in public banks, with GI Chill capturing about 40% of the private banking
+market.
+The company is also the largest U.S. player in the sperm and egg storage market, relying on its catalog of about 570
+sperm donors and 385 egg donors. We view this catalogue size as a moderate competitive advantage as customers
+seek choice. The company's main competitors in the sperm storage business include Fairfax Cryobank, Xytex, Seattle
+Sperm, and Cryos USA. In the egg storage business, GI Chill competes with Fairfax Eggbank, First Egg Bank, Cryos
+USA, and My EggBank.
+
+Financial Risk: Highly leveraged
+Our assessment of GI Chill's financial risk profile reflects our base-case expectation that 2019 leverage will increase to
+10.5x, improving to about 9.3x in 2020 as the company realizes synergies and integration costs roll off. The assessment
+also reflects a funds from operations (FFO) to total debt ratio at 2.4% in 2019, improving to 3.3% in 2020. While our
+base-case assumes that GI Chill will generate about $20 million in free operating cash flow in 2019 and over $30
+million per year starting in 2020, we expect leverage to remain elevated above 8x for the next few years since we don't
+expect the company to use internally generated cash flow for permanent debt reduction. We project the financial
+sponsor will shape the company's financial policy and use excess cash for acquisitions or to fund shareholder returns
+rather than to retire debt.
+
+Liquidity: Adequate
+GI Chill's liquidity is adequate, in our view. Over the next 12 months, we expect sources of liquidity to cover uses by
+more than 1.2x. Even if EBITDA were 15% below our projections, we believe liquidity sources would still exceed uses.
+In addition, we believe that GI Chill has sound relationships with banks and generally prudent risk management. At the
+same time, given the lack of scale, and high leverage we do not believe that the company could absorb a high-impact,
+low-probability event without the need for refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Full availability under the new $40 million revolver;
+
+• Mandatory debt amortization of about $4 million
+annually; and
+
+• Cash on hand of $14 million as of June 30, 2019;
+• Approximately $11 million of cash FFO; and
+
+• Capital expenditures of about $8 million in 2019.
+
+• Working capital inflow of about $15 million per year
+resulting from the CBR's deferred revenue.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+GI Chill Acquisition LLC
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The capital structure consists of a $40 million first-lien revolving credit facility, which is undrawn as of June 30,
+2019, a $410 million first-lien senior secured credit facility, and $162 million second-lien term loan.
+• Our hypothetical default scenario contemplates a default stemming from competitive or regulatory pressures in the
+CBR business, which contributes the majority of the profitability, resulting in revenue and EBITDA erosion.
+• We estimate for the company to default, EBITDA would need to decline to about $52 million, which is our estimate
+of the company's fixed charges (interest, debt amortization, and maintenance capital expenditures).
+• Given the company's market position we would expect the company to be reorganized, rather than liquidated, in the
+event of a default.
+• We valued the company applying a 5.5x multiple to our default level EBITDA, consistent with similarly rated peers.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: $51 million
+• EBITDA multiple: 5.5x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $267 million
+• Valuation split in % (obligors/nonobligors): 100/0
+• Collateral value available to first-lien creditors: $267 million
+• Secured first-lien debt: approximately $445 million
+• --Recovery expectations: 50%-70%; rounded estimate: 60%
+• Collateral value available to remaining pari passu claims: $0 million
+• Remaining pari passu claims: approximately $347 million
+• --Recovery expectations: 0%-10%; rounded estimate: 0%
+Notes: All debt amounts include six months' prepetition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+GI Chill Acquisition LLC
+
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+GI Chill Acquisition LLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 11, 2019)*
+GI Chill Acquisition LLC
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B-
+
+Issuer Credit Ratings History
+18-Jul-2018
+
+B-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+

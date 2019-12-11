@@ -1,0 +1,1997 @@
+Gatwick Funding Ltd.
+Primary Credit Analyst:
+Beata Sperling-Tyler, London (44) 20-7176-3687; beata.sperling-tyler@spglobal.com
+Secondary Contacts:
+Juliana C Gallo, London (44) 20-7176-3612; juliana.gallo@spglobal.com
+Elena Lampugnani, London 44 (0) 207 176 0231; elena.lampugnani@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Structural Features
+Covenant Analysis
+Environmental, Social, And Governance
+Reconciliation
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Gatwick Funding Ltd.
+Issue Rating
+Class A BBB+/Negative
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Operations under a transparent and supportive regulatory Material Brexit-related downside risks, given Gatwick's large (58% of total traffic)
+framework, allowing significant flexibility to adjust charges European traffic exposure
+and maximize Gatwick Airport's position as the
+second-largest airport in the U.K.
+Profitability reaching the levels of major European peers,
+thanks to cost savings, more efficient asset deployment,
+better use of retail space, and an improved offering at the
+airport
+
+Heightened traffic volume risk given weakening U.K. and continental European
+economic outlooks, and Gatwick's predominantly low-cost, leisure-focused traffic.
+Partially mitigating this is management's successful efforts to increase share of
+long-haul flights and the high credit standing of easyJet Plc and British Airways Plc,
+which account for 57% of traffic
+
+Relatively low refinancing risk, with the next bullet
+maturity (of £300 million) due in 2024.
+
+Significant capital investment program (of about £1.1 billion) in fiscal years
+2020-2024 supporting aggressive growth assumptions. However, it is uncommitted
+and can be scaled down if needed
+
+Structural enhancements that reduce the default risk of
+notes issued by Gatwick Funding Ltd. (GFL) by allowing
+the noteholders to take control of the business ahead of an
+insolvency of Gatwick Airport Ltd. (GAL)
+
+Increasing debt leverage to help fund high forecast distributions and capital
+expenditure
+
+Despite Gatwick's extensive preparations, we see material Brexit-related downside risks.In S&P Global Ratings' view,
+short-term uncertainty regarding transport policies, and the potential for economic weakening to disrupt both the U.K.
+and continental European economies under differing Brexit scenarios--including no-deal--might weigh on Gatwick's
+operating and financial performance more than peers, given the airport's high (58%) share of EU-bound traffic.
+Both the U.K. and EU have given repeated assurances that flights will continue post-Brexit. In our view, it is in both
+parties' interests to retain air traffic. In September 2019, the U.K. and EU updated the temporary air services
+agreement for a the 12-month period to Oct. 31, 2020, to allow flights between the two areas under a no-deal scenario.
+However, the agreement does not allow U.K. airlines to operate intra-EU services after Brexit. Furthermore, airlines
+with EU operating licenses are required to be majority owned and controlled by EU nationals, which will exclude the
+U.K. after Brexit. Airlines that we rate have been preparing themselves to minimize disruptions in such a scenario.
+For example, easyJet Plc, which accounts for over 40% of Gatwick's traffic, has set up a European subsidiary in Austria
+that has an air operator's certificate in the EU member state. This will enable easyJet to continue to fly intra-EU routes
+provided that the airline is majority owned and controlled by EU nationals. easyJet has been proactively engaging with
+EU-27 member state investors and has achieved just over 50% ownership and control, and can maintain this, if
+necessary, via provisions in its articles of association allowing restrictions on voting rights or forced sale by non-EU
+national investors.
+The uncertainty remains as to whether the U.K. and EU will reach an air services agreement before the temporary
+agreement expires Oct. 31, 2020. Nevertheless, we expect both parties would at least extend the temporary agreement
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+Gatwick Funding Ltd.
+
+if necessary to minimize disruption to the air connectivity between the two blocs.
+Despite planning and taking steps to address predictable risks, in our view, unforeseen and difficult-to-predict
+developments could lead to traffic disruption, in particular under the no-deal Brexit scenario. However, we believe
+disruptions would likely be short-term. Disruptions could result from operational challenges such as additional border
+control requirements leading to longer queues at airports, in particular if customs resources are inadequate.
+Gatwick's actions to prepare for a potential drop in passenger volumes due to flight disruptions or an economic
+downturn following Brexit, have included halving its distributions (to £150 million instead of £300 million planned for
+fiscal 2019), and not going ahead with its intended £300 million debt issuance. Instead, in June 2018, the management
+team increased the liquidity facility (to £150 million from £100 million) and refinanced its £300 million revolving credit
+facility, now terminating June 21, 2023 (with two extension options to June 21, 2024, and June 21, 2025, respectively).
+In the next two years, Gatwick has also significant flexibility to reduce growth capital expenditures (capex; from a
+planned £490 million over 2021-2022), having already invested £1.16 billion against the £700 million (or £100 million
+annually on average) committed during the five years regulatory period.
+With weaker U.K. and continental European economic outlooks, we expect shareholder financial policies will continue
+constraining GFL's debt releveraging plans. For fiscal 2019 through March 31, Gatwick's traffic growth slowed to 1.6%
+compared with 3.6% in fiscal 2018 and 8.1% in fiscal 2017. In our view, risks to growth include both an economic
+slowdown, given the high correlation between air travel demand and the underlying economy's strength, as well as
+other events that might affect traffic volumes.
+Gatwick, which focuses largely on short-haul (81%) and leisure (83%) flights, remains more exposed to discretionary
+customer spending than airports with more business and long haul traffic. Despite commercial arrangements with a
+number of airlines, Gatwick, which receives about 80% of traffic from low-cost carriers, is exposed to carriers whose
+economic positions might force them to partially or completely discontinue operations, and to other one-off events.
+Although the commercial arrangements give airlines incentives to maintain and increase passenger numbers, the
+airlines have no obligations to GAL to deliver a given passenger volume, provide a minimum volume of flights through
+the airport, or use a particular type of aircraft.
+While the near-full capacity during peak hours and continued demand by airlines seeking to secure or enhance their
+position at Gatwick partially mitigate volume risk, a default by an airline could still have a negative impact on
+passenger volumes. For example, British Airways' use of slots released after Monarch Airlines ceased trading in
+October 2017 was lower than expected due to a delay in making them available and the use of smaller aircrafts used
+for the incremental flying than Monarch's A321s. Therefore, although Monarch accounted for only 3.0% of passengers
+in fiscal 2017, its failure contributed to as a slowdown in passenger volume growth in 2019. We believe there might be
+more airline failures because of overcapacity in the low-cost European short-haul market. Norwegian Air Shuttle (13%
+of traffic) remains highly leveraged and could be under pressure following Boeing 737 Max aircraft groundings.
+Another unexpected event that disrupted traffic growth was Gatwick's runway closure in December 2018 following
+drone sightings affected 164,000 passengers.
+Releasing additional capacity by increasing the number of air traffic movements (ATMs) per hour and using the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+Gatwick Funding Ltd.
+
+northern (standby) runway, although this is outside of our forecast horizon, might increase exposure to volume risk, in
+particular if Gatwick implements them at the same time as Heathrow's capacity expansion.
+Nevertheless, we understand the releveraging plans are subject to generating required earnings. We also understand
+the strategy and financial policies of GAL's shareholders are aligned and supportive of targeting a net debt-to-regulated
+assets base (RAB) ratio of up to 65% by maintaining a balance between investment to support traffic growth, new
+funding, and dividends.
+We view Gatwick group companies as delinked from Vinci's group. In May 2019 GIP's Global Infrastructure Partners 1
+(GIP I) fund and four co-shareholders (Abu Dhabi Investment Authority [7.9%], CalPERS (6.4%), Future Fund Board of
+Guardians [27.2%], and National Pension Service of Korea [8.6%]) completed the sale of their combined stake, ending
+the GIP-led consortium owning Gatwick since 2009, to Vinci Airports (50.01%), a subsidiary of Vinci S.A. Global
+Infrastructure Management LLC, the manager of GIP 1, will continue to manage the remaining 49.99% interest in GAL.
+We view Gatwick group companies as delinked from Vinci's group (see chart 1) despite the accounting approach to
+fully consolidate them. While Gatwick is the largest airport in Vinci's network, its overall contribution to the group's
+statement is moderate (about 6% of EBITDA). In our view, reputational risk is limited because the U.K. is not Vinci's
+domestic market and there are no shared services (only best practices), because airports have independent
+management. GFL's debt is nonrecourse to the parents and there is no obligation for Vinci to provide support to
+Gatwick in case of stress. GIP, who has significant experience in airport industry, takes an active role in Gatwick's
+governance, financial policy, and management.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+Gatwick Funding Ltd.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+Gatwick Funding Ltd.
+
+Outlook
+
+The negative outlook reflects our view of the heightened risk that our base-case forecast might not be achieved,
+due to a weakening economy in the U.K. and continental Europe and potential traffic disruption associated with
+Brexit. As a result, credit metrics related to the Class A debt could deteriorate.
+
+Downside scenario
+We could lower our rating on the Class A debt by one notch if we expect weighted-average ratio of funds from
+operations-to-adjusted net debt (FFO-to-debt) to fall below 10%, and by more than one notch if the ratio were to
+fall below 8%.
+Despite flights between the U.K. and the EU making up as much as 58% of Gatwick's traffic, we see a limited risk of
+a sharp volumes drop given that, under the temporary air services agreement, we expect traffic to continue even
+under a no-deal scenario. However, passenger volumes might not reach expected levels due to the operating or
+economic conditions being more severe than we anticipate. Financial metrics could be negatively affected if the
+shareholders and management do not adequately mitigate the impact, for example by lowering their distributions
+and releveraging plans, reducing operating costs, and delaying uncommitted capex.
+
+Upside scenario
+We would revise the outlook to stable if the operating and U.K. economy become more predictable, such that we
+see traffic as sufficiently resilient and operating performance supports our forecast that GFL will generate
+weighted-average FFO-to-debt sustainably above 10% in fiscal years 2020-2022. An outlook revision to stable
+would also depend on shareholders' financial policy targeting a net debt-to-RAB ratio of up to 65% by maintaining
+a balance between investment to support traffic growth, new funding, and dividends.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+Gatwick Funding Ltd.
+
+Assumptions
+
+Key Metrics
+
+• U.K. GDP growth of 1.1% in calendar year 2019,
+1.4% in 2020, and 1.3% in 2021
+• Annual passenger growth of 1%-2% in the U.K.,
+based on airlines' volume targets. In addition to
+airlines employing larger aircraft, we expect growth
+from Asian long-haul destinations, but flat U.K.
+domestic and Irish volumes and a slowdown in
+North American flights (in the peak summer season
+Gatwick is nearing full capacity during late morning
+hours which are most attractive for trans-Atlantic
+traffic)
+
+2019A
+
+2020E
+
+2021E
+
+2022E
+
+EBITDA margin (%)
+
+54.7 54.7-57.0 56.0-58.5 57.0-59.0
+
+FFO-to-debt (%)
+
+12.1 10.0-11.0 10.0-11.0 10.0-11.0
+
+Debt-to-EBITDA (x)
+
+6
+
+6.0-7.0
+
+6.0-7.0
+
+6.0-7.0
+
+Note: S&P Global Ratings-adjusted figures.
+FFO--Funds from operations. A--Actual. E--Estimate.
+
+• Aeronautical tariff increasing annually at an average
+twice the retail price index (RPI) growth rate
+• Adjusted EBITDA margin growth to about 57%-59%
+in FY2022 from 54.7% in fiscal 2019. Saving are
+mostly from reduced staff costs.
+• Annual capex of £230 million-£250 million
+• Annual distribution of £300 million-£400 million
+
+Company Description
+GFL is a wholly owned subsidiary and debt-issuing vehicle in the ring-fenced financing group (Gatwick group
+companies), which includes Ivy Holdco Ltd. and GAL, of which Gatwick is the main asset. The airport is the
+second-largest in the London area, which is the most affluent area in the U.K. Its catchment area is large, covering 20
+million people within a two-hour drive, or 30% of the U.K. population. Gatwick serves about 228 destinations,
+including 60 long-haul, although some of the destinations are operated only periodically.
+The group companies are subsidiaries of Ivy Midco Ltd. The ring-fenced group grants bondholders first-ranking
+security over the security group (see chart 2).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+Gatwick Funding Ltd.
+
+In fiscal 2019 (to March 31), Gatwick's total reported revenues were £811 million, up over 6% from fiscal 2018, and
+S&P Global Ratings-adjusted EBITDA amounts to £444 million, up 7% from fiscal 2018. The revenue base mainly
+includes aeronautical revenues (53%), charged to airlines primarily for passenger facilities, take-off and landing, and
+aircraft parking.
+Aeronautical charges are subsidised by non-aeronautical income from retail (24% of the total), car parking (11%), and
+property rental (3%), among other sources (see chart 3).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+Gatwick Funding Ltd.
+
+Chart 3
+
+Business Risk
+Gatwick has grown under a supportive regulatory framework
+Boosting strong traffic growth (a 5.1% compound annual growth rate since fiscal 2012; see chart 4) is the supportive
+regulatory framework based on commitments framework that is backed by a licence and supplemented by a
+monitoring regime, which gives GAL flexibility to adjust charges.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Gatwick Funding Ltd.
+
+Chart 4
+
+Under the framework in place since 2014, rather than operating under a predetermined maximum allowable yield in
+any year, GAL has agreed with the airlines a set of "commitments" endorsed by the regulator, the Civil Aviation
+Authority (CAA). Under the commitments, airlines do not guarantee a minimum traffic level or revenue, but agree a
+tariff and a level of service level that GAL commits to. This price level cannot be exceeded over a seven-year
+commitment period (Q6; April 1, 2014-March 31, 2021). However, in any single year the aeronautical charges can
+differ from the commitment level as long as the discounted revenue over the seven-year period remains lower than the
+equivalent amount under the Commitment price. Over Q6 to date, GAL has actively used this option to offer discounts
+for growth and slot use optimization (for example by upscaling aircraft size). If minimum volume targets are not met,
+the discounts disappear. GAL's actual prices have been lower than the commitment level (growing at the RPI), and
+below what the CAA considers to be the "fair price" benchmark (of RPI minus 1.6%; see chart 5). It also leaves GAL
+with headroom for any tariff increase over the remainder of Q6.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+Gatwick Funding Ltd.
+
+Chart 5
+
+This has attracted substantial traffic to Gatwick, which has been growing at above twice GDP growth on average (see
+chart 6).
+Chart 6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+Gatwick Funding Ltd.
+
+GAL's revenue was growing at more than 3x GDP growth rate (see chart 7).
+Chart 7
+
+Under the commitments regime, GAL retains a sole responsibility for managing its investment program and is required
+to invest £700 million over the Q6 period. Including about £230 million per year in fiscal year 2020-2021, GAL will
+have spent £1.6 billion over the Q6 period. The expenditure can be delayed and scaled down subject to maintaining
+the average over the seven-year period.
+We expect the CAA will agree to extending the regime along broadly similar terms provided service standards
+continue, although it might add a service commitment of on-time performance. In its short regulatory review in 2016,
+the CAA concluded that, overall, the framework is working well, noting 16% stronger traffic growth compared with
+expectations and generally high levels of passenger satisfaction. In December 2018, Gatwick presented to the airlines
+its commercial proposal to update the commitments and extend them to March 31, 2025. We expect that this process
+will continue through the second half of 2019.
+
+Traffic quality is improving, although it is still materially short-haul, predominantly leisure, and
+EU-bound
+The origin to destination (O&D) traffic, which accounts for about 95% of Gatwick's total, has historically been its
+strength. O&D traffic tends to be less volatile because, rather than selecting flights according to convenience of
+connections (frequency, length of layover, and flight timetables), O&D passengers simply want to reach their
+destination. To reinforce stability of traffic, Gatwick is engaging in long-term relationships with airlines. Also,
+management has improved the quality and resilience of traffic by attracting airlines serving long-haul destinations.
+These routes are less volatile and less seasonal, and once established, they typically continue being served by an
+airline. In addition, they tend to generate more passengers per air traffic movement and higher yields, while passengers
+tend to spend more for retail offering as they spend more time at the airport. As technology developments have
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+Gatwick Funding Ltd.
+
+enabled smaller narrow-bodied aircraft to fly longer distances, low-cost carriers, which generate about 80% of
+Gatwick's traffic, have entered and been expanding in this segment. The number of long-haul destinations has
+increased to 60 from 45 in fiscal 2013 and Gatwick now ranks sixth in Europe for the number of long-haul services
+operated. Nevertheless, 81% of traffic is still short-haul, predominantly Europe-bound, and mostly leisure-focused (see
+chart 8).
+Chart 8
+
+Two airlines, British Airways and easyJet, serve 57% of Gatwick's passengers (see chart 9). However, the airport's
+exposure to easyJet (BBB+/Stable/--) is somewhat mitigated by the airline's leading position in the low cost segment,
+with proven ability to sustain high load factors and investment-grade credit quality. Gatwick is also easyJet's largest
+base. British Airways (BBB/Stable/--) is the largest airline owned by IAG and operating at Gatwick, which is likely to
+benefit from its support under any foreseeable circumstances. In November 2017, IAG purchased Monarch's take-off
+and landing slots and assigned them to BA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+Gatwick Funding Ltd.
+
+Chart 9
+
+Profitability is reaching levels similar to that of major European hubs
+Profitability, measured by adjusted EBITDA margin, increased to 54.4% in fiscal 2019 from 39.8% in fiscal 2011 (see
+chart 10). It is at the top of the range (30%-55%) that we view as average for transportation infrastructure companies.
+It is high within the peer group and close to the level of major European hubs.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+Gatwick Funding Ltd.
+
+Chart 10
+
+Margin growth has stemmed from the implementation of various cost-saving initiatives, predominantly staff-related,
+and improved management of utility costs and maintenance. Asset deployment has also become more efficient.
+Gatwick has attracted traffic and operators with larger aircraft. The number of seats per ATM increased to 191 in fiscal
+2019 from 172 in fiscal 2010, and load factors to 86.3% from 78.0%, above the industry average of 82% (see charts 11
+and 12).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 15
+
+Gatwick Funding Ltd.
+
+Chart 11
+
+Chart 12
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 16
+
+Gatwick Funding Ltd.
+
+Gatwick's redeveloped retail space has boosted non-aeronautical revenue. The new walk-through concept locates
+shops along the route that passengers must take to get to the departure lounge. The airport has also increased the
+choice and relevance of its retail offering as well as its food and beverage (F&B) options. Gatwick does not participate
+in retailers' costs, so the proportion of revenue it receives from retailers directly improves GAL's margins. While the
+terms of the contracts with retailers vary, many include a minimum revenue guarantee. Retail revenue represented
+about half of the total no aeronautical revenue in fiscal 2019. GAL's retail revenues per passenger (£4.12 as of fiscal
+2019) and parking revenues per passenger (£1.90) remain among the highest in Europe. In fiscal 2019, GAL's retail
+revenue per passenger increased by 6.2%, despite high street retailers and F&B providers struggling with changing
+consumer preferences, the growth of the online marketplace, and fading consumer sentiment. Outlets at the airport
+benefit from guaranteed footfall every day of the week. Food-to-go specialist SSP Group has taken over Jamie Oliver's
+three restaurants at Gatwick (which were in administration) and will continue operating them. We expect further
+profitability growth thanks to increasing runway capacity to up to 60 ATMs per hour by the mid-2020s through process
+improvements, optimization of commercial revenues, and cost savings through technology and automation.
+
+Peer comparison
+GAL's competitive position and profitability are weaker than Heathrow's due to Gatwick's less-favorable passenger
+mix, with its primary focus on short-haul travel (81%) and exposure to family and leisure (83%) rather than business
+passengers (who tend to represent higher purchasing power). Gatwick has about one-half of Heathrow's passenger
+numbers and generates about a quarter of Heathrow's earnings.
+Amongst European peers, size-wise, Gatwick is comparable to Aeroporti di Roma (AdR), although the latter is
+operating two airports with four runways. Its main airport, Fiumicino, serves about 43 million passengers, of which
+26% is long-haul traffic. Gatwick's catchment area is larger and wealthier than that of AdR, although the latter benefits
+from Rome's appeal as a prominent tourism and religious destination. Before Alitalia filed for special administration in
+May 2017, it represented 34% of AdR's traffic.
+Gatwick serves about a third more passengers (46.4 million versus 31.1 million) than Flughafen Zurich, the largest
+airport in Switzerland. Flughafen benefits from one of the wealthiest catchment areas among major airports in Europe
+and has a higher share of long-haul traffic (25% versus 19%), but Gatwick has a more diversified airline mix. British
+Airways and easyJet account for 57% of its flights, and are not part of the same air alliance; Swiss International
+Airlines and its leisure airline, Edelweiss Air, generate 61% traffic in Zurich.
+Despite having a near-monopoly on passengers traveling to and from the Republic of Ireland, daa plc handles only
+about 30 million passengers through its two runways (Dublin and Cork airports). The group is highly exposed to two
+airlines, Ryanair and Aer Lingus, which together represent 75% of daa's aeronautical turnover. It is also prone to higher
+volatility in earnings due to the correlation between passenger traffic and the Irish economy's performance. The
+aeronautical tariff reduction the Irish airports regulator imposes constrains profitability and earnings.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 17
+
+Gatwick Funding Ltd.
+
+Table 1
+
+Gatwick Funding Ltd. -- Peer Comparison (Financials)
+Gatwick Funding
+Ltd.
+
+Heathrow Funding
+Ltd.
+
+Flughafen Zurich
+AG
+
+daa PLC
+
+Aeroporti di Roma
+SpA
+
+S&P Global Ratings-adjusted metrics (Mil. £)
+Revenues
+
+810.8
+
+2,970.0
+
+877.6
+
+805.7
+
+840.4
+
+EBITDA
+
+443.9
+
+1,885.5
+
+495.7
+
+278.3
+
+510.5
+
+FFO
+
+322.1
+
+1,052.8
+
+421.9
+
+248.7
+
+415.7
+
+Interest expense
+
+111.9
+
+800.7
+
+10.5
+
+27.7
+
+39.4
+
+Cash interest paid
+
+109.5
+
+762.7
+
+12.2
+
+26.5
+
+40.5
+
+Cash flow from operations
+
+293.8
+
+1,155.8
+
+426.8
+
+243.8
+
+407.3
+
+Capital expenditures
+
+256.5
+
+789.0
+
+305.9
+
+121.0
+
+164.8
+
+37.3
+
+366.8
+
+120.9
+
+122.8
+
+242.5
+
+(112.7)
+
+244.8
+
+(39.0)
+
+88.1
+
+18.9
+
+2.6
+
+711.0
+
+434.6
+
+324.4
+
+294.8
+
+2,667.3
+
+12,650.8
+
+581.3
+
+444.9
+
+1,014.2
+
+238.3
+
+(2,636.0)
+
+1,925.6
+
+1,256.2
+
+994.3
+
+EBITDA margin (%)
+
+54.7
+
+63.5
+
+56.5
+
+34.5
+
+60.7
+
+Return on capital (%)
+
+9.7
+
+11.2
+
+12.1
+
+9.9
+
+20.5
+
+EBITDA interest coverage (x)
+
+4.0
+
+2.4
+
+47.1
+
+10.1
+
+13.0
+
+FFO cash interest coverage (x)
+
+3.9
+
+2.4
+
+35.5
+
+10.4
+
+11.3
+
+Free operating cash flow
+Discretionary cash flow
+Cash and short-term investments
+Debt
+Equity
+S&P Global Ratings-adjusted ratios
+
+Debt/EBITDA (x)
+
+6.0
+
+6.7
+
+1.2
+
+1.6
+
+2.0
+
+FFO/debt (%)
+
+12.1
+
+8.3
+
+72.6
+
+55.9
+
+41.0
+
+Cash flow from operations/debt
+(%)
+
+11.0
+
+9.1
+
+73.4
+
+54.8
+
+40.2
+
+1.4
+
+2.9
+
+20.8
+
+27.6
+
+23.9
+
+(4.2)
+
+1.9
+
+(6.7)
+
+19.8
+
+1.9
+
+Free operating cash flow/debt
+(%)
+Discretionary cash flow/debt (%)
+
+Source: S&P Global Ratings. Financial as of fiscal year 2018. Year-end is Dec. 31, except for Gatwick Funding (March 31, 2019).
+
+Table 2
+
+Gatwick Funding Ltd. -- Peer Comparison
+Gatwick Funding
+Ltd.
+
+Heathrow Funding Ltd.
+
+Flughafen Zurich
+AG
+
+daa PLC
+
+Aeroporti di
+Roma SpA
+
+Country of location
+
+U.K.
+
+U.K.
+
+Switzerland
+
+Ireland
+
+Italy
+
+Rating as of 25 July,
+2019
+
+Class A:
+BBB+/Negative
+
+Class A: A-/Negative; Class AA-/Stable/-B: BBB/Negative
+
+A-/Stable/A-2
+
+BBB+/Watch
+Neg/A-2
+
+Business Risk Profile
+
+Strong
+
+Excellent
+
+Strong
+
+Strong
+
+Strong
+
+Country Risk
+
+Low
+
+Low
+
+Very Low
+
+Low
+
+Moderately High
+
+Industry Risk
+
+Low
+
+Low
+
+Low
+
+Low
+
+Low
+
+Competitive Position
+
+Strong
+
+Excellent
+
+Strong
+
+Strong
+
+Strong
+
+Business Risk Profile
+
+Strong
+
+Excellent
+
+Strong
+
+Strong
+
+Strong
+
+Financial Risk Profile
+
+Significant
+
+Aggressive
+
+Modest
+
+Modest
+
+Modest
+
+Rating Composition
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 18
+
+Gatwick Funding Ltd.
+
+Table 2
+
+Gatwick Funding Ltd. -- Peer Comparison (cont.)
+Gatwick Funding
+Ltd.
+
+Heathrow Funding Ltd.
+
+Flughafen Zurich
+AG
+
+daa PLC
+
+Aeroporti di
+Roma SpA
+
+Anchor
+
+bbb
+
+bbb
+
+a
+
+a
+
+a+
+
+Modifiers
+
+No impact
+
+Senior: Positive CRA (+1
+notch); Junior: No impact
+
+Positive CRA (+1
+notch)
+
+Negative CRA (-1
+notch)
+
+No impact
+
+SACP
+
+bbb
+
+Senior: bbb+; Junior: bbb
+
+a+
+
+a-
+
+a+
+
+Likelihood of
+Government Support
+
+N/A
+
+N/A
+
+Moderate (+1
+notch)
+
+Moderately High
+
+N/A
+
+Structural Features
+
+Class A: +1 notch
+
+Class A: +1 notch; Class B:
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Issue Credit Rating
+
+BBB+/Negative
+
+Class A: A-/Negative; Class AAB: BBB/Negative
+
+A-
+
+BBB+
+
+Group passengers
+(mil.)
+
+46.4
+
+80.1
+
+38.4
+
+58.2
+
+48.8
+
+Passengers (mil.)
+
+Gatwick: 46.4
+
+Heathrow: 80.1
+
+Zurich: 31.1
+
+Dublin: 31.5
+
+Fiumicino: 43.0
+
+% O&D
+
+N/A
+
+0.7
+
+0.72
+
+0.84
+
+0.75
+
+% Transfer traffic
+
+N/A
+
+0.3
+
+0.28
+
+0.16
+
+0.25
+
+No. ATMs (ooos)
+
+286
+
+476
+
+278
+
+226
+
+308
+
+No. Runways
+
+1
+
+2
+
+3
+
+2
+
+5
+
+No. destinations
+
+228
+
+230
+
+206
+
+>200
+
+>230
+
+% Long-haul
+passengers
+
+19.0
+
+52.0
+
+25.0
+
+15.0
+
+26.0
+
+% Short-haul
+passegners
+
+81.0
+
+48.0
+
+75.0
+
+85.0
+
+74.0
+
+Airline 1
+
+EasyJet (41%)
+
+British Airways (45%)
+
+Swiss Int'l (53%)
+
+Ryanair (42%)
+
+Alitalia (34%)
+
+Airline 2
+
+British Airways
+(16%)
+
+Virgin (5%)
+
+Edelweiss Air (8%)
+
+Aer Lingus (33%)
+
+Ryanair (17%)
+
+Airline 3
+
+Norwegian (11%)
+
+AA (4%)
+
+EasyJet (3%)
+
+--
+
+Vueling (7%)
+
+Top three airlines
+
+No. of Airlines
+
+51
+
+87
+
+77
+
+56
+
+109
+
+% of business pax
+
+17.0
+
+33.0
+
+31.0
+
+20.0
+
+20.0
+
+% of leisure pax
+
+83.0
+
+67.0
+
+69.0
+
+80.0
+
+80.0
+
+Seat load factor (%)
+
+86.3
+
+79.4
+
+77.9
+
+83.0
+
+77.6
+
+Financial Risk
+Increasing leverage up to 65% RAB to support high forecast distributions
+Our view of Gatwick's financial risk profile results from the shareholder policy of increasing the group's debt leverage,
+and using debt issuance proceeds for shareholder dividends (in addition to funding capital expenditure).
+Given the strong operating performance, relatively low debt leverage from the past few years, and operational
+certainty from securing long-term bilateral airline contracts, shareholders have expressed an intention to increase the
+company's leverage to 65% net debt-to-RAB from 51% in fiscal 2017. Although GAL could raise even more debt under
+its covenants (the trigger level for dividend lockup is 70% net debt-to-RAB), we understand the shareholders set the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 19
+
+Gatwick Funding Ltd.
+
+financial policy target 5 percentage points below that level. In the context of the traffic and economic uncertainties, we
+expect the pace of re-leveraging will be slower than communicated, and scale limited to headroom to the financial
+covenant increased to 8 percentage points.
+We expect weaker forecast cash flow coverage ratios, although we expect the ratio of adjusted FFO-to debt to remain
+above 10% in FYs 2020-2024. We understand that the dividend distribution and debt issuance plans are flexible and
+the releveraging plan is conditional on meeting operating performance targets, including passenger volumes reaching
+over 52 million by fiscal 2022 and GFL being able to issue debt in favourable market conditions.
+It will also support high capital expenditure, which can be scaled down if needed
+Under its 2019 capital investment program, GAL intends to spend £1.1 billion over 2020-2024, including about £230
+million per year in fiscal years 2020-2021. It will partially fund this with debt and partially with operating cash flow.
+This is partially to address the CAA's observation from its 2016 regulatory review that GAL had not sufficiently
+expanded airfield capacity in response to stronger-than-expected traffic, and the capacity constraints might have
+contributed to relatively poor on-time performance. Nevertheless, the forecast level of expenditure is significantly
+more than required under the commitments framework and provides a significant headroom for reduction in
+expenditure, if needed. The capex plan consists of relatively distinct projects to support the traffic growth. They are
+aimed at improving the airport's operational resilience (resurfacing the main runway); operating efficiency (more
+self-service bag drops, replacement of baggage screening equipment, automation of boarding processes); and
+passenger experience. We understand the minimum required annual maintenance expenditure is about £75 million.
+
+A financial covenant constrains releveraging capacity
+GAL's debt capacity is restricted by the dividend distribution covenant set as a percentage of senior net debt to
+"transfer" RAB. GAL's transfer RAB is calculated as an average of the past three years' EBITDA multiplied by 11.11x. If
+the company generates lower EBITDA, GFL's leverage and distribution capacity will decrease accordingly. In fiscal
+2019, the company distributed fewer dividends than planned (£150 million compared with the £300 million forecast;
+see chart 13). Net debt-to-RAB was 0.57x compared with 0.64x planned, and FFO-to-debt was 12.1%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 20
+
+Gatwick Funding Ltd.
+
+Chart 13
+
+Table 3
+
+Gatwick Funding Ltd. -- Financial Summary
+Industry Sector: Infrastructure
+--Fiscal year ended March 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+810.8
+
+764.2
+
+730.0
+
+673.1
+
+640.0
+
+EBITDA
+
+443.9
+
+413.6
+
+336.1
+
+336.9
+
+297.7
+
+Funds from operations (FFO)
+
+322.1
+
+320.8
+
+249.5
+
+250.8
+
+223.2
+
+Interest expense
+
+111.9
+
+108.6
+
+99.2
+
+94.2
+
+85.5
+
+Cash interest paid
+
+109.5
+
+88.3
+
+82.9
+
+86.1
+
+74.5
+
+Cash flow from operations
+
+293.8
+
+269.4
+
+293.7
+
+252.0
+
+221.1
+
+Capital expenditure
+
+256.5
+
+221.9
+
+279.8
+
+213.8
+
+182.3
+
+(Mil. £)
+
+Free operating cash flow (FOCF)
+
+37.3
+
+47.5
+
+13.9
+
+38.2
+
+38.8
+
+(112.7)
+
+(595.5)
+
+(111.1)
+
+(9.8)
+
+(94.2)
+
+Cash and short-term investments
+
+2.6
+
+17.5
+
+3.0
+
+3.1
+
+3.3
+
+Gross available cash
+
+2.6
+
+17.5
+
+3.0
+
+3.1
+
+3.3
+
+2,667.3
+
+2,549.7
+
+1,952.3
+
+1,836.6
+
+1,763.1
+
+238.3
+
+191.0
+
+633.5
+
+651.8
+
+352.8
+
+EBITDA margin (%)
+
+54.7
+
+54.1
+
+46.0
+
+50.1
+
+46.5
+
+Return on capital (%)
+
+9.7
+
+9.2
+
+7.1
+
+8.7
+
+7.7
+
+EBITDA interest coverage (x)
+
+4.0
+
+3.8
+
+3.4
+
+3.6
+
+3.5
+
+Discretionary cash flow (DCF)
+
+Debt
+Equity
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 21
+
+Gatwick Funding Ltd.
+
+Table 3
+
+Gatwick Funding Ltd. -- Financial Summary (cont.)
+Industry Sector: Infrastructure
+--Fiscal year ended March 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+FFO cash interest coverage (x)
+
+3.9
+
+4.6
+
+4.0
+
+3.9
+
+4.0
+
+Debt/EBITDA (x)
+
+6.0
+
+6.2
+
+5.8
+
+5.5
+
+5.9
+
+FFO/debt (%)
+
+12.1
+
+12.6
+
+12.8
+
+13.7
+
+12.7
+
+Cash flow from operations/debt (%)
+
+11.0
+
+10.6
+
+15.0
+
+13.7
+
+12.5
+
+1.4
+
+1.9
+
+0.7
+
+2.1
+
+2.2
+
+(4.2)
+
+(23.4)
+
+(5.7)
+
+(0.5)
+
+(5.3)
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Liquidity
+Based on the reported accounts of Ivy Holdco Ltd.'s we assess the company's liquidity as adequate. This is supported
+by our expectation that liquidity resources will exceed funding needs by more than 1.2x in the 12 months to June 30,
+2020.
+Further supporting our assessment is sufficient covenant headroom for forecast EBITDA to decline by 15% without the
+company breaching coverage tests. Sources of liquidity will still exceed uses, even if forecast EBITDA declines by 15%.
+While management expects to distribute amounts corresponding to new debt raised and excess operating cash less
+capex and tax, we believe there is significant flexibility to lower dividends in case of weaker-than-expected earnings
+generation and levels corresponding to 62% net debt-to-RAB. We incorporate the full forecast capex, although that
+could be scaled down to the committed amount of about £176 million and to the absolute nondeferrable minimum of
+about £75 million during the period. We believe the group could absorb high-impact, low-probability events with
+limited need for refinancing, given its closest bullet maturity is only in 2024 (legal maturity in 2026). The group has
+sound relationships with banks and a generally satisfactory standing in the credit markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 22
+
+Gatwick Funding Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+We anticipate the following liquidity sources over the
+outlook period:
+
+We estimate the following liquidity needs over the
+same period:
+
+• Unrestricted cash and short-term investments of
+about £5 million
+
+• Expected committed capex of approximately £175
+million
+
+• Access to about £200 million of undrawn out of £300
+million revolving credit facility expiring in June 2023
+
+• Dividend set at a level corresponding to 62% net
+debt-to-RAB
+
+• FFO of about £300 million
+• £300 million of senior secured notes issued in July
+2019
+We do not consider as an ongoing source of liquidity
+the £150 million liquidity facility available to GAL and
+GFL to cover potential interest shortfalls on its debt,
+because use of this facility would be a trigger event as
+defined by the financial documents.
+
+Debt maturities
+GFL has relatively low refinancing risk. The next bullet maturity of £300 million is due in 2024 (see chart 14).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 23
+
+Gatwick Funding Ltd.
+
+Chart 14
+
+Structural Features
+GFL's Class A debt rating incorporates a one-notch rating uplift to GAL's stand-alone credit profile (SACP), to reflect
+structural features designed to increase cash-flow certainty for debtholders. GFL's structural features include:
+• Restrictions on business activities, mergers, acquisitions, and business transformation. GAL can only derive a
+maximum 5% of EBITDA from unregulated businesses;
+• Covenants restricting dividends and other subordinated payments from the financing group if the senior net
+debt-to-RAB ratio exceeds 70%, and restriction on raising further additional senior debt to a level of 70% of RAB;
+• A prudent hedging policy and provisions, mitigating refinancing risk; and
+• A dedicated £150 million liquidity facility sized to cover 12 months of senior interest available to the issuer, GFL,
+and the borrower, GAL. The facility it entered in June 2018 covers 12 months of interest payments and senior costs
+upon the appointment of an administrative receiver, and is one of the hallmark structural enhancements in the
+transaction. The facility has a term of 364 days and will be extended annually; in case any liquidity provider refused
+to grant an extension, the issuer is entitled to draw on the facility. Although the five-year term-out provision is
+shorter than for the previous arrangement, we believe the issuer can find a suitable and timely replacement solution
+over that period.
+We apply our rating-to-principles approach to GFL, using our criteria "Rating Structurally Enhanced Debt Issued By
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 24
+
+Gatwick Funding Ltd.
+
+Regulated Utilities And Transportation Infrastructure Businesses" criteria, published Feb. 24, 2016. GFL does not meet
+all requirements for us to rate it under our structurally enhanced debt (SED) criteria, due primarily to the higher risk of
+competition and the absence of a credit remedy period, during which creditors take control of the business and
+stabilize its credit quality or sell the company's shares. However, GFL benefits from the majority of the structural
+enhancements listed in the SED criteria, and has additional risk-mitigating factors such as the right for creditors to step
+in and appoint an administrative receiver while the business might still retain significant value.
+These factors leads, in our view, to a marginal reduction in the default risk of GFL, similar to the marginal default risk
+reduction from which SED senior bondholders can benefit.
+Table 4
+
+Gatwick Funding Ltd. -- Structural Features
+Date
+
+February 2011
+
+Collateral
+Country of origination
+
+U.K.
+
+Financial covenants
+Additional indebtedness test
+Senior RAR
+
+70%
+72.5% in certain cases
+
+Trigger events/restricted payment conditions
+Senior RAR
+
+70%
+
+Senior ICR
+
+1.50x
+
+Event of default
+Senior RAR
+
+85%
+
+Senior ICR
+
+1.10x
+
+Liquidity facility
+
+Covering 12 months of interest on senior debt.
+
+Senior RAR--Ratio of senior debt plus any debt that is not subordinated less amounts held in authorized investments or cash to RAB. Senior
+ICR--The ratio of (a) cash flow from operations of the Obligors less corporation tax paid to HM Revenue & Customs, less 2%; multiplied by the
+RAB to (b) interest and equivalent recurring finance charges paid or forecast to be paid on senior debt and any permitted financial indebtedness
+that is not subordinated to such senior debt.
+
+Covenant Analysis
+Although since 2017 the headroom to covenant levels has decreased, we understand management intends to maintain
+at least 5% headroom to a senior RAR trigger event ratio (see charts 15a and 15b).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 25
+
+Gatwick Funding Ltd.
+
+Chart 15a
+
+Chart 15b
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 26
+
+Gatwick Funding Ltd.
+
+Environmental, Social, And Governance
+
+As with most airport companies, Gatwick's highest-risk exposure relates to ensuring safety and security of flights.
+While the CAA considered the disruption by drones in December 2018 as beyond the airport's control, airports
+could one day face financial liabilities for these incidents, in addition to suffering damage to service quality or
+reputation. We do not foresee major environmental or social risks at this stage, because Gatwick has run at
+maximum capacity for a number of years. The airport reduced its carbon emissions from fuel and energy 50% in
+seven years (2010-2017) and was accredited carbon neutral. It has continued operation well below annual mean air
+quality limits for both nitrous oxide and particulate matter.
+
+Reconciliation
+Table 5
+
+Reconciliation Of Ivy Holdco Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. £)
+--Fiscal year ended March 31, 2019-Ivy Holdco Ltd. reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+2580.4
+
+441.4
+
+271.4
+
+100.8
+
+443.9
+
+409.0
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(12.3)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(116.9)
+
+--
+
+Cash interest paid: Other
+
+--
+
+--
+
+--
+
+--
+
+8.0
+
+--
+
+Reported lease liabilities
+
+51.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases (£7.1m is NPV at
+7%)
+
+7.1
+
+1.5
+
+0.6
+
+0.6
+
+(0.6)
+
+0.9
+
+Postretirement benefit
+obligations/deferred compensation
+
+31.1
+
+0.5
+
+0.5
+
+0.8
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+(2.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+9.7
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+0.5
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+1.0
+
+--
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(116.1)
+
+86.9
+
+2.5
+
+2.1
+
+11.1
+
+(121.8)
+
+(115.2)
+
+Total adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 27
+
+Gatwick Funding Ltd.
+
+Table 5
+
+Reconciliation Of Ivy Holdco Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+£) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+2667.3
+
+443.9
+
+273.5
+
+111.9
+
+322.1
+
+293.8
+
+Related Criteria
+• Criteria | Corporates | Utilities: Rating Structurally Enhanced Debt Issued By Regulated Utilities And
+Transportation Infrastructure Businesses, Feb. 24, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Transportation Infrastructure Industry, Nov. 19,
+2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Principles Of Credit Ratings, Feb. 16, 2011
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• ESG Industry Report Card: Transportation Infrastructure, June 3, 2019
+• Bulletin: Gatwick Funding Ltd. Rated Debt Unaffected By Gatwick Airport's Change In Ownership, Dec. 28, 2018
+• Countdown To Brexit: Just 100 Days Left To Find A Firm Foundation For The Transportation Infrastructure Sector,
+Dec. 19, 2018
+• Rated Debt Related To Three U.K. Transportation Infrastructure Assets On Negative Outlook On Rising Brexit
+Risks, Dec. 19, 2018
+Ratings Detail (As Of September 16, 2019)*
+Gatwick Funding Ltd.
+Senior Secured
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BBB+/Negative
+
+SEPTEMBER 16, 2019 28
+
+Gatwick Funding Ltd.
+
+Ratings Detail (As Of September 16, 2019)*(cont.)
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 29
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 30
+
+

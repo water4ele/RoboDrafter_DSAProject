@@ -1,0 +1,1336 @@
+CSG Systems International Inc.
+Primary Credit Analyst:
+Naveen Sarma, New York (1) 212-438-7833; naveen.sarma@spglobal.com
+Secondary Contact:
+Chris Mooney, CFA, New York (1) 212-438-4240; chris.mooney@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk: Fair
+Financial Risk: Minimal
+Liquidity: Strong
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+CSG Systems International Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bb+
+
+bb+
+BB+/Stable/--
+
+Financial Risk: MINIMAL
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Strong market share within the North American cable and satellite
+markets.
+
+High degree of customer and sector concentration.
+
+Largely recurring revenue base under long-term contracts.
+
+Possible large acquisitions or investments to adapt to the evolving
+telecommunications industry.
+
+Strong liquidity.
+Sizable leverage headroom, as the 'BB+' rating incorporates the ability to
+increase leverage to the high-2x area.
+
+More than 50% of the company's revenues comes from three key customers. CSG Systems International Inc. generates
+most of its revenue from long-term North American cable and direct broadcast satellite contracts, which average three
+to five years. The company has revenue concentration with three key customers; Comcast Corp.(23%), Charter
+Communications Inc.(20%), and DISH Network Corp.(<10%). We believe this customer concentration leaves CSG
+vulnerable to price concessions or service cutbacks by customers when contracts are renewed. The company could
+also be vulnerable to further consolidation among its customers, as companies gradually migrate to one billing
+platform. However, cable industry concentration makes this unlikely unless regulatory restrictions are loosened, as
+Comcast and Charter account for about 85% of U.S. cable broadband subscribers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+CSG Systems International Inc.
+
+The company has sizable leverage headroom at the 'BB+' rating level. Adjusted leverage was 1.5x as of June 30, 2019,
+which is well within the thresholds that we've set for the 'BB+' rating. We expect leverage to decline to 1x or less by
+2020. While normally this low level of debt would result in a higher credit rating, our assessment of financial policy has
+a one-notch negative impact on the rating. CSG has been acquisitive, and we believe that any debt-financed
+acquisitions could result in more debt than is in our base case, with leverage increasing to 1.5x to 2.5x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+CSG Systems International Inc.
+
+Outlook: Stable
+
+S&P Global Ratings' outlook on CSG is stable. Under our base-case scenario, we believe CSG's revenues will
+continue to grow at a low-single-digit percent organic rate for the foreseeable future. Absent debt-financed
+acquisitions, we expect the company to continue maintaining adjusted leverage, net of cash, of less than 1.5x, and
+strong liquidity given CSG's steady free operating cash flow (FOCF).
+
+Downside scenario
+We could lower the rating if adjusted leverage is sustained in the high-2x area or greater, which would most likely
+happen because of significant debt-financed acquisitions or increased shareholder returns. We could also lower the
+rating if CSG lost a major customer or was seriously hurt by further cable consolidation—although we see the latter
+possibility as less likely given the current regulatory views of the Federal Communications Commission.
+
+Upside scenario
+We do not view an upgrade as likely over the next year given the potential for higher leverage to support an
+acquisition or more shareholder returns. An upgrade would require sustained recovery and improving trends in
+profitability, continued customer and geographic diversification, and evidence of sustainable growth for the
+company's cable and satellite TV customers. An upgrade would also entail the company maintaining fully adjusted
+leverage of less than 1.5x.
+
+Our Base-Case Scenario
+Our base-case scenario is based upon U.S. economic strength continuing for the near term, with GDP growth of 2.2%
+in 2019, and 1.7% in 2020 and 2021. We do not expect the economy to have a major impact on CSG's financial
+performance over the next few years, as operating performance is tied more closely to contract terms with key
+customers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+CSG Systems International Inc.
+
+Assumptions
+
+• Low-teen percent organic revenue growth in 2019
+due to 2%-3% growth in cloud solutions and the first
+full-year contributions from the Business Ink and
+Forte Payment acquisitions. Revenues will grow
+despite declines in CSG's software and services
+segment. That decline reflects the transition of
+historical software and services revenues to the
+managed services revenue category, which is now in
+the Cloud and related solutions revenue category.
+• Revenue growth in 2020 to normalize to 2%-3%.
+• Cost growth will match revenue growth.
+
+Key Metrics
+
+EBITDA margin (%)
+Debt/EBITDA (x)
+DCF/Debt (%)
+
+2019E
+
+2020E
+
+2021E
+
+23-24
+
+23-24
+
+23-24
+
+1.0-1.3 1.0-1.3 1.0-1.3
+11-13
+
+20-24
+
+20-24
+
+*Fiscal year ended Dec. 31. Negative $31 million in
+aggregate adjustments (lease liabilities and cash) to
+reported debt, and $41 million in aggregate
+adjustments to EBITDA for all years. A--Actual.
+E--Estimate. DCF--Discretionary cash flow.
+
+• EBITDA margins to remain at about 23%-24% over
+the next two years.
+• FOCF of about $100 million-$120 million assuming
+capital expenditures in the $35 million-$40 million
+range.
+• Share repurchases and dividends totaling about $80
+million, up from historical levels of about $50
+million.
+
+Company Description
+CSG provides business support solutions (BSS) to the communications industry, including three of the four largest U.S.
+video operators (Comcast Corp., Charter Communications Inc., and DISH Network Corp.). While CSG's heritage is in
+serving the communications markets, the company has expanded its solutions to utilities, healthcare, home security,
+financial services, and content distribution industries. CSG generates about 60% of revenues from cable and satellite,
+and 40% from other segments. About 85% of revenues are generated in the U.S. CSG was founded in 1994 and its
+headquarters is in Greenwood Village, Colo.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+CSG Systems International Inc.
+
+Chart 2
+
+Business Risk: Fair
+CSG's business profile assessment reflects its significant customer concentration and operations in a highly
+competitive landscape, which is partly offset by the company's largely recurring revenue base under long-term
+contracts. Moreover, customer contracts have high switching costs because of the integrated nature of CSG's offerings.
+Contract renewal price discounts for its key clients remain an ongoing threat to revenue growth. These discounts have
+historically ranged from 10%-15%, and it typically takes CSG about four quarters to generate enough ancillary revenue
+to offset the effects of these price reductions. CSG has been able to mitigate some revenue loss by selling additional
+products and services to its customers. CSG's contracts with its major customers runs through 2020 (Comcast—June
+2020, Charter—December 2021, and DISH—December 2021), which provides some revenue visibility from these
+customers.
+In addition, the company and industry as a whole face new challenges with the continued adoption of over-the-top
+(OTT) services, which have made it easier for consumers to receive and pay for those services. To meet these
+challenges and provide more delivery and payment options to consumers, the company has CSG Ascendon (formerly
+known as Content Direct), a cloud-based platform that offers consumers payment options on any digital device. We
+believe the company's leadership in the emerging OTT segment should allow it to maintain growth in line with its
+traditional services.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+CSG Systems International Inc.
+
+Peer comparison
+We consider Amdocs Ltd. as CSG's strongest rating peer. Although both Amdocs and CSG enjoy a high recurring
+revenue base under long-term contracts, we view Amdocs as having a stronger business profile. We believe Amdocs
+has greater growth potential because of its long-term relationships with its base of wireless and telecom company
+clients and its expertise in the telecommunication industry. In addition, Amdocs' customer concentration is modestly
+lower, with AT&T accounting for 27% of revenues (as of fiscal year 2018) and its ten largest customers representing
+66% of revenues. Although Amdocs' revenues and cash flows are significantly larger than CSG's, CSG's weighted
+average margin, in the mid-20% area, is higher than Amdocs', which is the low-20% area. Moreover, CSG has
+historically had a reputation for being a more efficient operator, which is reflected in its return on capital as well as its
+margins.
+Table 1
+
+CSG Systems International Inc. -- Peer Comparison
+Industry Sector: Misc Telecommunications
+CSG Systems International Inc.
+
+Amdocs Ltd.
+
+BB+/Stable/--
+
+BBB/Stable/--
+
+Ratings as of Aug. 21, 2019
+
+Twelve months ended June 30, 2019
+(Mil. $)
+Revenue
+
+951.0
+
+4,059.0
+
+EBITDA
+
+222.3
+
+930.8
+
+Funds from operations (FFO)
+
+185.8
+
+827.6
+
+Interest expense
+
+24.7
+
+13.0
+
+Cash interest paid
+
+22.2
+
+24.5
+
+164.7
+
+615.7
+
+Cash flow from operations
+Capital expenditure
+
+48.2
+
+137.4
+
+116.4
+
+478.3
+
+50.8
+
+(63.7)
+
+Cash and short-term investments
+
+131.5
+
+457.7
+
+Debt
+
+327.1
+
+0.0
+
+Equity
+
+374.3
+
+3,527.7
+
+EBITDA margin (%)
+
+23.4
+
+22.9
+
+Return on capital (%)
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+Adjusted ratios
+
+17.4
+
+16.1
+
+EBITDA interest coverage (x)
+
+8.9
+
+39.8
+
+FFO cash interest coverage (x)
+
+10.0
+
+33.4
+
+Debt/EBITDA (x)
+
+1.5
+
+0.0
+
+FFO/debt (%)
+
+56.8
+
+N.M.
+
+Cash flow from operations/debt (%)
+
+50.3
+
+N.M.
+
+FOCF/debt (%)
+
+35.6
+
+N.M.
+
+DCF/debt (%)
+
+15.5
+
+N.M.
+
+Source: S&P Global Ratings, company reports. N.M.--Not meaningful
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+CSG Systems International Inc.
+
+Financial Risk: Minimal
+The company's adjusted leverage was 1.5x as of June 30, 2019, still well within the thresholds that we've set for the
+'BB+' rating. Barring any additional debt-financed acquisitions, we expect the company to reduce adjusted leverage,
+net of 100% of cash, to around 1x over the next few years. The company's sizable cash balance has a big impact on its
+leverage and debt payback ratios. A depletion of cash balances for acquisitions or shareholder returns, however, could
+increase leverage above our base case. Assuming relatively stable cash balances, we expect that over the next few
+years most of CSG's debt reduction will happen as the company amortizes its bank loan.
+The company's capital allocation strategy is to return half its FOCF to shareholders and invest the rest in its business.
+Assuming the company sticks to its plan, we expect it to return to leverage of 1x or less by 2020, while maintaining
+strong liquidity. This low level of debt would typically result in a higher credit rating. However, we have lowered our
+assessment of the company's financial policy by one-notch because CSG has been acquisitive, and we think that
+further debt-financed acquisitions could push leverage to 1.5x-2.5x.
+In addition, CSG can redeem its 2016 convertible notes for cash, shares of its common stock, or some combination
+thereof beginning in March 2020. (Holders can force conversion beginning on Dec. 15, 2021.) Depending on its stock
+price, we believe CSG may issue debt to redeem the notes, which are already included in our debt calculation.
+
+Financial summary
+Table 2
+
+CSG Systems International Inc. -- Financial Summary
+Industry Sector: Misc Telecommunications
+--Fiscal year ended Dec. 31-LTM June 2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+490.6
+
+875.1
+
+789.6
+
+761.0
+
+752.5
+
+751.3
+
+EBITDA
+
+(Mil. $)
+
+101.4
+
+203.6
+
+183.3
+
+209.6
+
+194.9
+
+168.7
+
+Funds from operations (FFO)
+
+80.9
+
+172.9
+
+142.4
+
+140.3
+
+139.9
+
+130.3
+
+Interest expense
+
+12.6
+
+24.7
+
+23.6
+
+25.3
+
+22.0
+
+21.2
+
+Cash interest paid
+
+10.3
+
+20.3
+
+18.7
+
+16.3
+
+13.2
+
+13.2
+
+Cash flow from operations
+
+34.0
+
+154.4
+
+136.8
+
+93.1
+
+145.7
+
+93.4
+
+Capital expenditure
+
+17.9
+
+57.1
+
+41.1
+
+21.9
+
+18.8
+
+26.0
+
+Free operating cash flow (FOCF)
+
+16.1
+
+97.3
+
+95.7
+
+71.2
+
+126.8
+
+67.4
+
+Discretionary cash flow (DCF)
+
+(19.5)
+
+34.6
+
+38.2
+
+21.9
+
+39.6
+
+21.7
+
+Cash and short-term investments
+
+131.5
+
+162.9
+
+261.4
+
+276.5
+
+240.9
+
+201.8
+
+Gross available cash
+
+131.5
+
+162.9
+
+261.4
+
+276.5
+
+240.9
+
+201.8
+
+Debt
+
+327.1
+
+263.5
+
+129.7
+
+236.6
+
+143.2
+
+155.4
+
+Equity
+
+374.3
+
+361.0
+
+342.7
+
+251.4
+
+345.8
+
+358.5
+
+EBITDA margin (%)
+
+20.7
+
+23.3
+
+23.2
+
+27.5
+
+25.9
+
+22.4
+
+Return on capital (%)
+
+18.0
+
+20.7
+
+23.2
+
+27.4
+
+24.2
+
+18.9
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+CSG Systems International Inc.
+
+Table 2
+
+CSG Systems International Inc. -- Financial Summary (cont.)
+Industry Sector: Misc Telecommunications
+--Fiscal year ended Dec. 31-LTM June 2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA interest coverage (x)
+
+7.3
+
+8.2
+
+7.8
+
+8.3
+
+8.9
+
+8.0
+
+FFO cash interest coverage (x)
+
+8.1
+
+9.5
+
+8.6
+
+9.6
+
+11.6
+
+10.9
+
+Debt/EBITDA (x)
+
+2.2
+
+1.3
+
+0.7
+
+1.1
+
+0.7
+
+0.9
+
+FFO/debt (%)
+
+37.1
+
+65.6
+
+109.8
+
+59.3
+
+97.7
+
+83.8
+
+Cash flow from operations/debt (%)
+
+39.8
+
+58.6
+
+105.5
+
+39.3
+
+101.7
+
+60.1
+
+FOCF/debt (%)
+
+27.5
+
+36.9
+
+73.8
+
+30.1
+
+88.6
+
+43.4
+
+DCF/debt (%)
+
+10.9
+
+13.1
+
+29.5
+
+9.3
+
+27.6
+
+14.0
+
+Source: S&P Global Ratings, company reports. FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Liquidity: Strong
+We consider CSG's liquidity to be strong. We expect sources of liquidity to exceed uses by 7x over the next 12 to 24
+months and net sources to remain positive, even with a 30% drop in forecast EBITDA. We view CSG's bank
+relationships as sound, its credit market standing as satisfactory, and its risk management as prudent. Although certain
+quantitative measures reflect characteristics that we normally associate with an exceptional liquidity assessment, we
+do not believe the company will take necessary actions to maintain continued exceptional liquidity over the longer
+term because it may make acquisitions or increase shareholder returns.
+
+Principal Liquidity Sources
+• Cash and short-term investments of $114 million as of June 30, 2019;
+• Full availability under the company's $200 million revolving credit facility due 2023; and
+• Funds from operations of roughly $150 million to $160 million.
+
+Principal Liquidity Uses
+• Capital expenditures of about $30 million-$40 million;
+• Modest annual debt amortization of $9 million;
+• Expected dividend payments of $30 million-$35 million annually; and
+• Working capital outflow $10 million.
+
+Debt maturities
+• 2019: $7.5 million
+• 2020: $10.3 million
+• 2021: $14.1 million
+• 2022: $15.0 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+CSG Systems International Inc.
+
+Covenant Analysis
+Compliance expectations
+We expect company to maintain at least 30% EBITDA cushion over the next couple of years.
+
+Requirements
+The company has maximum consolidated net leverage covenant of 4.0x and interest coverage covenant of 2.0x.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates a decline in revenue and margins because of a material drop in
+subscribers, the loss of key customers and contracts, and mounting competitive pressures. This would cause the
+company's cash flow to decline to the point that it is unable to cover its fixed charges (interest expense, required
+amortization, and minimum maintenance capital expenditures), and would default in 2023.
+• We have valued the company on a going-concern basis using a 5x multiple of our projected emergence EBITDA.
+We use an emergence EBITDA multiple of 5x, which is lower than many rated telecom and cable peers, due to the
+asset-light nature of the customer service business. The company's fixed charges, which includes interest expenses,
+maintenance capital spending, and debt amortization, drive EBITDA at emergence level in the year of default.
+• Other default assumptions include an 85% draw on the revolving credit facility; LIBOR rises to 2.5%; the spread on
+the revolving credit facility rises to 5% as covenant amendments are obtained; and all debt includes six months of
+prepetition interest.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Simulated year of default: 2023
+
+• Net enterprise value (after 5% administrative costs):
+$263 million
+
+• EBITDA at emergence: $55 million
+• EBITDA multiple: 5x
+
+• Valuation split in % (obligors/nonobligors): 100/0
+• Collateral value available to secured creditors: $263
+million
+• Secured first-lien debt claims: $277 million
+• —Recovery expectations: 90% to 100%; rounded
+estimate: 90%
+All debt amounts include six months of prepetition
+interest.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+CSG Systems International Inc.
+
+Reconciliation
+Table 3
+
+Reconciliation Of CSG Systems International Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Rolling
+12
+months
+ended
+Jun. 30,
+2019-CSG Systems International Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+358.3
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+374.3
+
+951.0
+
+181.2
+
+118.8
+
+20.7
+
+222.3
+
+145.6
+
+28.4
+
+48.2
+
+S&P Global Ratings' adjustments
+Cash taxes
+paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(15.9)
+
+--
+
+--
+
+--
+
+Cash taxes
+paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest
+paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(16.2)
+
+--
+
+--
+
+--
+
+100.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+23.5
+
+4.4
+
+4.4
+
+(4.4)
+
+19.1
+
+--
+
+--
+
+(131.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+17.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income
+(expense)
+
+--
+
+--
+
+--
+
+--
+
+2.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(31.2)
+
+0
+
+0
+
+41.1
+
+6.3
+
+4.4
+
+(36.5)
+
+19.1
+
+0
+
+0
+
+Reported
+lease liabilities
+Operating
+leases
+Accessible
+cash and
+liquid
+investments
+
+Total
+adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+327.12
+
+Equity Revenue EBITDA
+374.32
+
+950.97
+
+222.26
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+125.09
+
+25.08
+
+185.79
+
+164.65
+
+28.41
+
+48.25
+
+Source: S&P Global Ratings, company reports.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+CSG Systems International Inc.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Minimal
+
+• Cash flow/Leverage: Minimal
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Negative (-1 notch)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb+
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+CSG Systems International Inc.
+
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 16, 2019)*
+CSG Systems International Inc.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Senior Secured
+
+BBB-
+
+Issuer Credit Ratings History
+10-Dec-2013
+
+BB+/Stable/--
+
+26-Nov-2013
+
+BB/Watch Pos/--
+
+23-Aug-2011
+
+BB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+

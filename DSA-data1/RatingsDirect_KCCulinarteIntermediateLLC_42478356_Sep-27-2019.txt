@@ -1,0 +1,498 @@
+KC Culinarte Intermediate LLC
+Primary Credit Analyst:
+Amanda C O'Neill, New York + (212) 438-5450; amanda.oneill@spglobal.com
+Secondary Credit Analyst:
+Bea Y Chiem, San Francisco (1) 415-371-5070; bea.chiem@spglobal.com
+Research Assistant:
+Gregory Fang, New York
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings--Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+KC Culinarte Intermediate LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong industry tailwinds will support sustained mid-single-digit top-line growth.
+
+Elevated leverage of over 6x owing to acquisitions and
+facility integration costs.
+
+Facility consolidation largely completed, providing potential for over 100 basis points
+(bps) EBITDA margin expansion in 2020.
+
+Acquisitive growth strategy leading to aggressive
+financial policies.
+
+An acquisitive growth strategy is likely to keep leverage above 5x. Leverage remains above 6x following the Harry's
+acquisition that came on the heels of the 2018 Bonewerks acquisition; both acquisitions totaled over $350 million of
+debt issuance. S&P Global Ratings expects KC Culinarte Intermediate LLC's leverage to decline to the mid-5x range in
+2020 primarily due to improved EBITDA from the roll-off of one-time facility integration costs and the realization of
+integration savings. However, we expect the company to continue to be a consolidator in the industry to gain scale
+and manufacturing capabilities, as well as use its integrated sales team to capitalize on cross-selling opportunities. As a
+result, we expect leverage will be managed above 5x.
+Refrigerated soup consumption trends remain strong, driving strong retail growth.Chilled soups in retail channels grew
+at a 12.9% compound annual growth rate from 2013-2018, according to Euromonitor International. This favorable
+industry trend supports mid-teens year-to-date top-line growth for the base Kettle Cuisine business, primarily from
+new customer retail wins. Kettle Cuisine positions its soups within the natural, fresh segment, capitalizing on
+consumers switching to healthier and cleaner label food products, away from packaged soups. Although larger food
+manufacturers, like Campbell Soup and Kraft Heinz, remain a competitive threat, they have not been successful in the
+fresh soup business.
+Its completed facility integration should generate meaningful margin improvements by the end of fiscal 2020. The
+company has moved production from its Nashville, Portland, and Morgan Hill facilities into its recently acquired
+Everett facility as part of the Harry's acquisition. In addition, the company transitioned the plant onto its own
+enterprise resource planning (ERP) system from the former Campbell ERP system. We expect at least 100 bps of
+EBITDA margin improvement once integration costs roll off and savings are realized by the end of fiscal 2020.
+However, in 2019, due to gradual volume ramp-up, added inventory complexities, and value-added downstream
+services, the plant will run at sub-optimal levels until appropriate labor is trained and hired by year-end 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+KC Culinarte Intermediate LLC
+
+Outlook : Stable
+
+The stable outlook reflects our expectation for the facility consolidation to result in substantial savings over the
+next 12 months, such that leverage is reduced to the mid- to high-5x area and free cash generation substantially
+increases above $30 million. It also incorporates our expectation for leverage to be managed between 5x-6x as the
+company and its financial sponsor owners execute on its acquisitive growth strategy.
+
+Downside scenario
+We could lower the rating if the company incurs greater-than-expected costs and does not realize sufficient savings
+from its facility consolidation, or a decline in discretionary spending results in declining profitability and negative
+free operating cash flow. We could also lower the rating if the company adopts a more aggressive financial policy
+through additional debt-financed acquisitions or dividends that lead to a debt-to-EBITDA ratio sustained above
+7.0x.
+
+Upside scenario
+Although we are unlikely to raise the ratings over the next year, we may do so if the company achieves most of its
+consolidation goals, expands its product portfolio and customer base, and demonstrates a more conservative
+financial policy by reducing its debt-to-EBITDA ratio below 5x sustainably.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+KC Culinarte Intermediate LLC
+
+Assumptions
+
+• Pro forma revenue of over $400 million for fiscal 2019. Thereafter, we forecast revenue growth in the mid-single
+digits, as our 2020 forecasted U.S. GDP growth slows to 1.8%. Revenue growth in 2019 is mainly driven by
+contributions from the Harry's acquisition, strong performance in the retail segment (reflecting new customer
+wins), cross-selling with existing customers, and continued growth in the foodservice channel.
+• Adjusted EBITDA margins in the 16.0%-18.0% range in 2019 and 2020. These margins are lower than 2018
+levels of roughly 19.3%, mainly due to plant consolidation costs and higher freight and input cost inflation, partly
+offset by lower selling, general, and administrative (SG&A) spending and realized acquisition synergies
+• Total capital expenditure (capex) of about $10 million in 2019, mainly related to ongoing maintenance capital
+expenditures and improvements in the Everett facility. We expect capex of $10 million in 2020 and thereafter to
+support the growing business and larger asset base.
+• Minimal free operating cash flow in 2019 as the company incurs consolidation costs and related capital
+expenditures. We project free operating cash flow of over $30 million in 2020, and we expect it to grow as the
+company improves profitability through realization of facility consolidation benefits and sales growth.
+• Annual term loan amortization of $5.5 million.
+• We expect the company to continue making tuck-in acquisitions given its acquisitive history and financial
+sponsor ownership, though we have not modeled any at this time.
+Based on our assumptions, we forecast the following ratios:
+• Adjusted leverage of about 6.1x in 2019, improving to 5.0x-5.5x in 2020.
+• Funds from operations (FFO) to debt in the 9.5%-11.5% range in 2019 and 2020.
+• EBITDA to interest of 2.0x-2.5x in 2019 and 2020.
+
+Base-case projections
+Consolidating operations into the Everett facility is fueling margin expansion and free operating cash flow generation in
+the medium-term. The Everett facility has sufficient capacity and state-of-the-art equipment to absorb volumes from
+the Morgan Hill, Nashville, and Portland facilities, driving significant operating leverage and delivering cost savings of
+at least $20 million in 2020. To complete the transition, the company will incur one-time payments related to
+employee severance, retention, and relocation payments. In addition, the company will invest over $1 million at its
+Everett facility to support production of certain items transferred into the facility. As such, we expect near-term costs
+and excess capacity to result in fiscal 2019 leverage of above 6x, before at least $20 million in cost savings and
+rightsizing of manufacturing footprint drive leverage to mid-5x in fiscal 2020.
+Minimal free cash generation in 2019. The company has working capital needs of below $10 million and amortization
+payments of less than $5.5 million in fiscal 2019. Subsequently, we expect free cash flow of over $30 million in 2020
+due to the roll-off of facility consolidation costs and realization of integration savings.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+KC Culinarte Intermediate LLC
+
+Company Description
+KC Culinarte is a national private-label soup and sauce company with a growing presence in other kettle-cooked
+products. KC Culinarte was created through the combination of Kettle Cuisine Inc., a fresh prepared foods private-label
+platform, providing artisanal "clean label" soups sauces, and dishes across the United States, and Bonewerks Culinarte
+Inc., a provider of all-natural sauce foundations and sous vide entrées in 2018. The company acquired Harry's Fresh
+Foods, a contract manufacturer of fresh and better-for-you soups, in early 2019. Financial sponsor Kainos Capital owns
+the majority of the company.
+
+Business Risk : Weak
+KC Culinarte is the only national supplier of refrigerated soups. The company has a narrow product focus, generating
+over half of its sales through refrigerated soups. Despite the fast growth of the refrigerated soup market, it is a niche
+segment of the overall soup market, comprising only 9% of the market in 2018 (Source: Euromonitor). Although the
+company is a private-label manufacturer, it operates in the premium segment of the soup market, allowing it to
+generate stronger EBITDA margins in the low-20% area than typical private-label food manufacturers, which have
+adjusted EBITDA margins in the low teens. The company has a high fixed-cost base and made $36 million in capital
+investments over the past two years to support growth. While strong industry dynamics currently drive higher volumes
+and strong operating leverage, in a market downturn or slowing segment growth, sustained capacity underutilization
+will result in an inflated cost structure, leading to rapid decline in EBITDA margins.
+As the company generates close to half of its revenues through the foodservice channel, Kettle Cuisine would be
+particularly susceptible to a slowing economy and lower consumer discretionary spending, though it has been
+diversifying increasingly into mass and club retail channels. The company has a diverse supplier base, with its top ten
+suppliers representing less than 30% of supply spending. However, it sources its own raw materials so it does not
+benefit from pass-through pricing with customers. Despite this, the company has been able to push through pricing
+with customers and adjust recipes to offset commodity pressures.
+
+Financial Risk : Highly leveraged
+We forecast leverage to decline to 6.1x at the end of fiscal 2019, from 6.2x for the 12 months ended June 30, 2019,
+driven by growth in the base Kettle Cuisine business. We forecast leverage to decline to mid-5x in 2020 as realization
+of cost savings through facility consolidation drive significant EBITDA expansion. We expect minimal free cash flow
+generation in fiscal 2019 due to facility consolidation costs and capital expenditures of $10 million related to facility
+upgrades. While we expect the company to continue making tuck-in acquisitions funded at least partially through debt,
+we do not anticipate these transactions will materially increase leverage and have not modeled any in at this time.
+We expect financial sponsor Kainos Capital to continue maintaining an aggressive financial policy, as evidenced by the
+pace of acquisitions KC Culinarte has been making. Though we expect the company's near-term focus to be on
+integrating Harry's and achieving scale at its new facility, we do expect the company to continue making debt-funded
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+KC Culinarte Intermediate LLC
+
+tuck-in acquisitions and maintaining leverage of 5x or above.
+
+Liquidity : Adequate
+We believe the company will have adequate liquidity during the next 12 months, with sources exceeding uses by more
+than 2.2x. We expect net sources to be positive even with a 30% drop in EBITDA. While the company's ratio of
+sources to uses would qualify for a more favorable liquidity assessment, we do not believe the company could
+withstand a low-probability, high-impact event (such as sustained downtime in a production facility) without the need
+for refinancing because of its high leverage. As a speculative-grade debt issuer, KC Culinarte has sound relationships
+with its banks, in our view. We also believe the company is unlikely to sustain stronger liquidity over the long term
+because of possible acquisitions or dividend payments to its sponsor owner.
+Principal Liquidity Sources
+• Cash on the balance sheet of $7.1 million as of June 29, 2019.
+• Full availability of $50 million under its revolving credit facility maturing in 2023; and
+• Cash FFO of at least $40 million in the next 12 months.
+Principal Liquidity Uses
+• Annual capital expenditures of $10 million for maintenance and growth;
+• Mandatory annual first-lien term loan including incremental term loan amortization of $5.5 million; and
+• Peak working capital needs of about $30-$32 million during the fourth quarter, in preparation for its peak selling
+season in the winter. We expect the company to meet its working capital needs with internally generated cash flows
+and not rely on its revolving credit facility.
+
+Covenant Analysis
+The revolving credit agreement is governed by a springing maximum first-lien net leverage ratio of 7.4x with no
+step-down that becomes effective when availability is less than 35% of the commitment. The first-lien term loan does
+not have any financial maintenance covenants. We do not expect the company to trigger the springing covenant.
+
+Issue Ratings--Recovery Analysis
+Key analytical factors
+The debt structure consists of:
+• $50 million revolving credit facility due in 2023
+• $266 million first-lien term loan due in 2025
+• $69 million second-lien term loan due in 2026
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+KC Culinarte Intermediate LLC
+
+• $16.6 million incremental first-lien term loan facility due in 2025
+• $25 million paid-in-kind (PIK) junior debt (unrated)
+KC Culinarte Intermediate is the borrower of the senior secured facilities. Guarantors include direct parent KC
+Culinarte Corp. (unrated) and all existing and future domestic subsidiaries of the borrower. The first-lien facility is
+secured by a perfected first-priority security interest in all existing assets of the borrower and guarantors and a pledge
+of the stock of the borrower. Following the acquisition of Harry's, the company's capital structure includes $25 million
+PIK debt that is ranked junior to all other debt.
+
+Simulated default assumptions
+Our simulated default scenario assumes a payment default in 2022 from revenue declines due to increased
+competition, or a material deterioration in operating performance as a result of a very weak economy and lower
+discretionary spending, or a major disruption in a production facility. A combination of these factors could result in
+lower revenue and cash flow. As a result, the company may find itself having to fund cash flow shortfalls with available
+cash and revolver borrowings. We believe the company would be reorganized rather than liquidated under a default
+scenario. We have therefore valued the company as a going concern, using a 5x emergence multiple.
+• Year of default: 2022
+• EBITDA at emergence: $42.7 million
+• Implied enterprise value multiple: 5x
+
+Simplified waterfall
+Our emergence level EBITDA of $42.7 million takes into consideration a 25% operational rebound on top of the
+default-level EBITDA, reflecting a likely rebound following a sustained economic downturn or disruption in a
+production facility. The default EBITDA roughly reflects fixed charge requirements of about $30.3 million in debt
+service and $3.9 million in minimal capital expenditures assumed at default.
+Calculation of EBITDA at emergence:
+• Debt service: $30.3 million (default year interest plus amortization)
+• Maintenance capital expenditures: $3.9 million
+• Operational adjustment: 25%
+• Emergence EBITDA: $42.7 million
+Simplified waterfall
+• Emergence EBITDA: $42.7 million
+• Multiple: 5x
+• Gross recovery value: $214 million
+• Net recovery value for waterfall after administrative expenses (5%): $203 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+KC Culinarte Intermediate LLC
+
+• Obligor/non-obligor valuation split: 100%/0%
+• Estimated first-lien claims: $317.7 million
+• Collateral value available to secured debt: $203 million
+• Recovery range for first-lien claims: 50%-70% (rounded estimate: 60%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria - Corporates - Industrials: Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+KC Culinarte Intermediate LLC
+
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 16, 2019)*
+KC Culinarte Intermediate, LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+08-Aug-2018
+
+B/Stable/--
+
+Related Entities
+KC Culinarte Holdings LP
+Issuer Credit Rating
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+

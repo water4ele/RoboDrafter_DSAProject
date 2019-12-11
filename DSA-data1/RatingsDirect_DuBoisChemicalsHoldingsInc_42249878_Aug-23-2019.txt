@@ -1,0 +1,473 @@
+DuBois Chemicals Holdings Inc.
+Primary Credit Analyst:
+Edward J Hudson, New York + 1 (212) 438 2764; edward.hudson@spglobal.com
+Secondary Contact:
+Daniel S Krauss, CFA, New York (1) 212-438-2641; danny.krauss@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 1
+
+DuBois Chemicals Holdings Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key Risks
+
+Moderate customer diversification.
+
+Limited geographic diversity, as the company primarily derives revenues and
+earnings from the U.S.
+
+Modest product diversification within the specialty chemical
+manufacturing and services space.
+
+Participates in niche markets with small market share and in some markets it
+competes with larger, financially stronger companies.
+
+Average profitability amongst specialty chemical peers.
+
+Financial sponsor ownership with highly leveraged credit metrics.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 2
+
+DuBois Chemicals Holdings Inc.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook reflects our expectation that DuBois Chemicals Holdings Inc. will maintain
+operational performance levels resulting in weighted-average debt to EBITDA between 6x and 7x. We expect
+DuBois to continue improving EBITDA margins and top-line growth as it diversifies into more profitable end
+markets and recognizes synergies through tuck-in acquisitions that will result in slight deleveraging over the next
+12 months. Our base-case scenario assumes that management will remain prudent in its approach to funding
+acquisitions and no material increases in debt, including for a potential dividend recapitalization.
+
+Downside scenario
+We could consider a negative rating action if DuBois experiences weaker-than-expected end-market demand such
+that total leverage increases to near double-digit debt to EBITDA on a sustained basis. We could also consider a
+downgrade if liquidity sources over uses materially weakens to less than 1.2x or, against our current expectations,
+if the company completes a large debt-funded acquisition or dividend recapitalization.
+
+Upside scenario
+We could take a positive rating action within the next 12 months if the company's operating performance is
+stronger than we expect, such that debt leverage remains below 6.0x on a sustained basis by improving EBITDA
+margins 600 basis points. This could happen if DuBois grows through a mix of higher-margin acquisitions and
+more profitable end markets. We would also need clarity that the company's financial policies would support credit
+measures at these levels, after factoring in their growth initiatives.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 3
+
+DuBois Chemicals Holdings Inc.
+
+Assumptions
+
+• Revenue growth, which we expect to be in the low
+teen-digit percentages for 2019, driven by the
+combination of organic growth in line with U.S. GDP
+and acquisition growth. We expect low single-digit
+percentage growth in 2020 driven by improved sales
+of current and new customers through specialty
+chemicals innovations and services in line with U.S.
+GDP growth.
+
+Key Metrics
+
+2018A 2019E 2020E
+Debt to EBITDA (x)*
+FFO to total debt (%)*
+
+~6
+
+6-7
+
+6-7
+
+~10
+
+6-10
+
+6-10
+
+*S&P Global Ratings' adjusted. A--Actual.
+E--Estimated. FFO--Funds from operations.
+
+• U.S. real GDP growth rate of 2.5% and 1.8% in 2019
+and 2020, respectively.
+• U.S. sales of light vehicles, which are expected to be
+16.7 million and 16.5 million in 2019 and 2020,
+respectively.
+• Average EBITDA margins among specialty
+chemicals direct peers.
+• Capital spending of approximately $5 million-$10
+million annually.
+
+Base-case projections
+As a result of these assumptions, including modest economic growth and the absence of large debt-funded shareholder
+rewards, we expect the company's adjusted credit measures to remain above 6x over the next 12 months.
+
+Company Description
+DuBois provides consumable, value-added specialty cleaning chemical solutions and services for manufacturing
+industrial processing, food processing cleaning/sanitizing, water treatment, and consumer car wash and fleet
+transportation markets.
+
+Business Risk: Weak
+DuBois' geographic diversity is limited. It has a presence in niche market segments, and its lack of meaningful scale
+leaves earnings vulnerable to unexpected demand and pricing shocks. The company derives primarily all revenues and
+earnings from the U.S. Its market share is small, and in certain markets DuBois competes with larger, financially
+stronger companies that could view those spaces as less attractive in terms of profitability, entry barriers, or market
+size. Those companies are potential competitors if DuBois' niche markets become more attractive. These risk factors
+are partially offset by the company's strong customer diversification despite its geographic concentration. We view
+DuBois' EBITDA margins as average among specialty chemicals direct peers, due in part to its track record of
+achieving targeted synergies through bolt-on acquisitions. Over the past few years, DuBois has grown its share in the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 4
+
+DuBois Chemicals Holdings Inc.
+
+niche middle-market space via small tuck-in acquisitions and organically by cross-selling to its customer base. We
+believe DuBois will continue to focus on growth through innovation and new product introductions.
+
+Financial Risk: Highly leveraged
+Under our base-case scenario, we expect U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020, plus relatively flat
+nonresidential construction over the next two years. Our assumption is for low teen-digit revenue growth in 2019
+driven by a combination of a number of tuck-in acquisitions in the year and positive GDP growth, and for moderate
+revenue growth between 3% and 4% in 2020 and beyond as a result of positive GDP growth, the company's
+innovation, and new product introductions. We also assume margins will improve modestly in the future so that
+DuBois' debt leverage, absent any leveraging acquisitions, will decrease to around 6x by the end of 2020.
+DuBois' ownership by a financial sponsor and our expectations that debt leverage will remain above 5x remains
+consistent with a highly leverage financial risk profile. Given the company's low capital expenditures requirements and
+our expectations for modestly improving EBITDA, we expect the company to continue to generate solid free cash
+flow.
+
+Liquidity: Adequate
+We expect the company's liquidity sources to exceed uses by at least 1.2x over the next year, and sources less uses to
+remain positive even if EBITDA drops by 15%. Our liquidity assessment incorporates the negative impact of
+qualitative factors, including our view of the company's ability to absorb high-impact, low-probability events without
+the need for refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Moderate cash balances.
+
+• Approximately $3 million in debt amortization
+annually.
+
+• Positive funds from operations of around $45
+million-$60 million annually.
+• Full availability under the company's revolving
+credit facility.
+
+• Modest working capital outflows.
+• Modest capital spending.
+
+Debt maturities
+• The first-lien term loan matures on March 15, 2024.
+• The second-lien term loan matures on March 15, 2025.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 5
+
+DuBois Chemicals Holdings Inc.
+
+Covenant Analysis
+Compliance expectations
+We expect a covenant-lite revolver that has a springing maximum first-lien net leverage ratio of 7.0x when the revolver
+is drawn more than 40%. We do not foresee it triggering in the near term.
+
+Environmental, Social, And Governance
+
+We believe environmental and social factors present risks and opportunities for a specialty chemical producer such
+as DuBois. We view Dubois' environmental and social risks as on par with other companies in the chemical
+sectors. Our governance assessment is fair. Although we incorporate these assessments into our rating, they do not
+have a material impact on credit quality at this time.
+The company's focus is on continuous environmental improvements, such as minimizing shipping, storage, and
+labor involved in chemical handling; conserving water; and reducing waste and energy use.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates a default occurring in 2021 in the wake of a severe and protracted
+economic recession, resulting in significantly depressed levels of industrial manufacturing spending, and a downturn
+in the industrial manufacturing industry as a whole. In addition, if larger peers decide to operate in the niche
+markets in which DuBois operates, it could have a significant negative impact on DuBois.
+• We continue to value the company on a going-concern basis using a 5.5x multiple of projected emergence EBITDA,
+which is consistent with our valuation of specialty chemical companies such as Aruba Investments Inc. and Zep Inc.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: $59 million
+• Implied enterprise valuation multiple: 5.5x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $310 million
+• Valuation split (obligor/nonobligor): 100%/0%
+• Secured First-lien debt claims: $447 million
+• --Recovery expectation: 50% to 70% (rounded estimate: 65%)
+• Estimated second-lien secured term loan claims: $208 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 6
+
+DuBois Chemicals Holdings Inc.
+
+• --Recovery expectation for second-lien secured credit facilities: 0%-10% (rounded estimate 0%)
+Notes: Debt amounts include six months of accrued interest that we assume will be owed at default. Collateral value
+includes asset pledges from obligors (after priority claims) plus equity pledges in nonobligors. We generally assume
+usage of 85% for cash flow and 60% for asset-based lending revolvers at default.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Specialty Chemicals Industry, Dec. 31, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 7
+
+DuBois Chemicals Holdings Inc.
+
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 15, 2019)*
+DuBois Chemicals Holdings Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+27-Feb-2017
+
+B-/Stable/--
+
+Related Entities
+DuBois Chemicals, Inc.
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 9
+
+

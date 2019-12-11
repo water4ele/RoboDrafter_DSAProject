@@ -1,0 +1,1711 @@
+Healthcare Trust of America Inc.
+Primary Credit Analyst:
+Michael H Souers, New York (1) 212-438-2508; michael.souers@spglobal.com
+Secondary Credit Analyst:
+Nicolas Villa, New York + 1 (212) 438-1534; nicolas.villa@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+Healthcare Trust of America Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Largest pure-play owner and operator of medical office
+buildings (MOBs).
+
+Although its tenant base is well-diversified with sizable exposure to
+investment-grade tenants, cash flow stability could be adversely impacted by
+struggling physician groups or hospitals.
+
+Steady and favorable demand characteristics with an aging
+population and increased patient volume directed to
+outpatient settings.
+
+An influx of private equity capital into more defensive sectors/property types such
+as MOBs could dampen the company's external growth prospects.
+
+Above-average asset quality given a well-located portfolio
+and strong relationships with major healthcare systems.
+
+While less likely to impact demand for MOBs than some other healthcare facility
+types, legislative and regulatory changes could impact future cash flows.
+
+Healthcare Trust of America Inc. (HTA) is the largest pure-play MOB health care real estate trust (REIT), with a
+well-diversified portfolio by geography and tenant base. HTA's large scale platform, with gross real estate investments
+of approximately $7 billion, is well-diversified across key metropolitan statistical areas (MSAs) with no market
+representing more than 10.5% of ABR and no tenant accounting for more than 4.6%. Moreover, given secular trends
+across the health care industry, such as a transition to lower-cost settings and increased outpatient care, we believe
+HTA's portfolio is well-positioned to continue delivering solid operating performance.
+Approximately 95% of HTA's properties are located on-campus and/or aligned with a major hospital or health care
+system, which we believe inherently leads to increased tenant demand and higher retention ratios. As of June 30, 2019,
+HTA derived approximately 92.5% of ABR from its MOB portfolio and 94.4% based on gross leasable area (GLA).
+Coupled with an investment-grade tenancy of approximately 45% (based on rents) and solid occupancy levels, we
+have a favorable view of HTA's asset quality.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+Healthcare Trust of America Inc.
+
+Chart 1
+
+Chart 2
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on HTA reflects our view that the company will be a net acquirer in 2019,
+funding growth in a leverage-neutral manner and maintaining relatively stable credit metrics. The outlook also
+assumes properties will continue to deliver low-single-digit net operating income (NOI) growth, supported by
+limited reimbursement volatility and strong demand as health care systems look to lower costs by shifting delivery
+to outpatient settings.
+
+Upside scenario
+We could raise the rating over the next 12-24 months if the company moderately improves its credit protection
+measures such that S&P Global Ratings's adjusted debt-to-EBITDA declines to the mid- to high-5x area with
+fixed-charge coverage (FCC) remaining above 3.5x. The company would need to execute any meaningful
+acquisitions in a leverage-neutral manner. Furthermore, we would also need to see operating metrics remain in line
+with historical performance.
+
+Downside scenario
+While highly unlikely over the next 12-24 months, we would consider a downgrade if HTA purses a significant
+debt-financed expansion of its relatively new development platform or its pace of acquisitions accelerates such that
+debt-to-EBITDA rises above 7x on a sustained basis. We could also lower the rating if the company experiences
+meaningful operational disruptions with one of its key hospital affiliates.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+Healthcare Trust of America Inc.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• Real GDP growth of 2.5% in 2019 and 1.8% in 2020;
+• Same-property revenue growth in the range of 2% to
+3% in both 2019 and 2020;
+• Acquisitions of approximately $250 million in 2019
+and in the range of $200 million to $300 million in
+2020;
+
+2018A 2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+5.7x
+
+5.7x-6.2x
+
+5.7x-6.2x
+
+Fixed-charge coverage (x)
+
+3.8x
+
+3.8-4.3x
+
+3.8x-4.3x
+
+Debt/debt and undepreciated capital (%)
+
+37.6% 37%-42% 37%-42%
+
+A--Actual; E-Estimated
+
+• Development spending of approximately $100
+million to $150 million over the next two years; and
+• Dispositions of approximately $75 million in 2019
+and around $100 million in 2020.
+
+Base-case projections
+Same-property revenue growth in the 2%-3% range in both 2019 and 2020.We believe HTA is well-positioned to
+benefit from favorable industry tailwinds such as an aging population and the significant increase in outpatient care
+relative to care delivered at a hospital setting. Coupled with this favorable backdrop, HTA's relatively long weighted
+average lease term of approximately 5.7 years and a well-staggered lease expiration schedule should result in steady
+cash flows and continued solid occupancy.
+We expect HTA to be a net acquirer in 2019 with the majority of completions expected to occur in the second half of the
+year. Following the $2.75 billion Duke MOB portfolio acquisition in 2017, HTA was a net seller in 2018; however, our
+expectation is that HTA will expand its asset base modestly in 2019 by predominantly targeting smaller acquisitions as
+opposed to larger portfolio deals. Moreover, we expect HTA will remain disciplined in utilizing its relatively new
+in-house development platform to supplement acquisitions. As of June 30, 2019, HTA's development pipeline was 70%
+pre-leased, which we view favorably, as MOBs can often take years to fully lease up.
+We expect credit protection measures to remain relatively stable over the next two years. As of June 30, 2019, HTA's
+adjusted debt-to-EBITDA was 6.3x and its FCC was 4.0x. We expect these ratios to remain relatively stable over the
+next two years with adjusted debt-to-EBITDA projected to remain in the high-5x to low-6x area and FCC in the
+high-3x to low-4x range. We believe HTA is committed to maintaining a relatively conservative financial policy, and
+that it will continue to grow its portfolio in a leverage-neutral manner.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+Healthcare Trust of America Inc.
+
+Chart 3
+
+Company Description
+HTA is a publicly traded REIT that acquires, owns, and operates primarily medical office buildings in the United
+States. The company was founded in 2006 and is headquartered in Scottsdale, Arizona. As of June 30, 2019, HTA had
+an undepreciated asset base of approximately $7 billion and a total enterprise value of around $8.3 billion.
+
+Business Risk: Satisfactory
+In our opinion, HTA has the leading market position in MOBs, which we believe was materially enhanced from the
+$2.75 billion acquisition of Duke's MOB portfolio in 2017. In addition, our assessment of the company's business risk
+profile incorporates HTA's large platform (approximately $7 billion of gross real estate investments) and
+well-diversified tenant base (no tenant represented more than 4.6% of ABR as of the second quarter of 2019).
+Furthermore, HTA's top ten tenants collectively represented 24.2% of ABR with its top three tenants, Baylor Scott &
+White Health (AA-/Stable), HCA Healthcare Inc. (BB+/Stable), and Highmark Inc. (A/Stable) accounting for 4.6%,
+3.8% and 3.0% of annualized base rents, respectively.
+As of June 30, 2019, HTA owned and operated 431 properties representing 23.3 million square feet of GLA in 32
+states. Although we consider HTA's portfolio to be well-diversified geographically, the company's operations are tilted
+towards the Southwest, from which it derived 35.6% of ABR as of the second quarter of 2019. Nonetheless, no single
+market accounted for more than 10.5% of ABR and its top three markets were Dallas (10.5%), Houston (6.6%), and
+Boston (6.4%).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+Healthcare Trust of America Inc.
+
+Chart 4
+
+MOBs represented 92.5% of ABR (and 94.4% of GLA) as of the second quarter of 2019. Approximately 68% of HTA's
+GLA is located on a hospital or medical center campus (creating strong tenant demand and high tenant retention),
+while 27% is off campus but affiliated with a major health care system. Additionally, as of March 31, 2019, 45% of the
+company's tenants were rated investment grade, an increasingly important factor given cost containment pressures
+and the deteriorating health of certain hospital systems.
+MOBs currently benefit from favorable tailwinds, including an aging population and the fact that care is being directed
+away from higher-cost settings, such as hospitals, and towards outpatient settings. Ultimately we think these factors
+allow HTA to earn 2%-3% contractual same-store net rental rate increases, despite leases being predominantly
+structured as triple-net leases. Moreover, these favorable lease terms have high retention rates, resulting in lower
+capital expenditures. Further, the mostly private-pay asset class currently compares favorably to other health care
+REIT facility types, as senior housing continues to experience new supply pressure and skilled nursing has seen
+numerous operators forced into restructuring given reimbursement challenges and rising labor costs.
+
+Peer comparison
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+Healthcare Trust of America Inc.
+
+Table 1
+
+Healthcare Trust of America Inc.
+Peer Comparison
+
+Issuer credit
+rating as of Sept.
+3, 2019
+
+Healthcare
+Trust of
+America Inc.
+
+Healthcare
+Realty Trust
+
+Physicians
+Realty Trust
+
+Omega
+Healthcare
+Investors Inc.
+
+Sabra Health
+Care REIT
+Inc.
+
+Medical
+Properties
+Trust Inc.
+
+CareTrust
+REIT Inc.
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+BBB-/Stable/--
+
+BBB-/Stable/--
+
+BB+/Stable/--
+
+BB+/Stable/--
+
+BB-/Positive/--
+
+--12 months ended--
+
+June 30, 2019
+
+March 31,
+2019
+
+June 30, 2019
+
+March 31, 2019
+
+S&P Global Ratings Adjusted (Mil. $)
+Revenues
+
+679.0
+
+447.7
+
+398.5
+
+826.8
+
+706.5
+
+732.3
+
+156.1
+
+EBITDA
+
+436.7
+
+256.6
+
+255.4
+
+776.0
+
+471.7
+
+671.3
+
+134.7
+
+Funds from
+Operations (FFO)
+
+330.3
+
+197.2
+
+189.0
+
+553.5
+
+305.5
+
+450.5
+
+109.2
+
+Net income from
+continuing
+operations
+
+218.0
+
+65.5
+
+51.8
+
+267.1
+
+138.9
+
+1,001.9
+
+59.4
+
+Cash flow from
+operations
+
+332.6
+
+201.0
+
+202.1
+
+546.0
+
+303.5
+
+444.8
+
+107.5
+
+81.5
+
+64.7
+
+38.6
+
+18.5
+
+21.2
+
+204.7
+
+11.2
+
+Free Operating
+Cash Flow
+
+251.1
+
+136.3
+
+163.5
+
+527.4
+
+282.3
+
+240.2
+
+96.3
+
+Discretionary
+Cash Flow
+
+(80.0)
+
+(18.4)
+
+(14.0)
+
+(7.6)
+
+(177.1)
+
+(129.8)
+
+29.6
+
+23.2
+
+11.3
+
+6.9
+
+40.0
+
+22.9
+
+995.5
+
+214.4
+
+Debt
+
+2,744.7
+
+1,437.1
+
+1,583.5
+
+4,402.5
+
+3,605.4
+
+3,473.7
+
+679.0
+
+Equity
+
+3,231.0
+
+1,805.8
+
+2,452.4
+
+3,805.6
+
+3,050.8
+
+4,890.9
+
+811.0
+
+64.3
+
+57.3
+
+64.1
+
+93.9
+
+66.8
+
+91.7
+
+86.3
+
+Return on Capital
+(%)
+
+2.5
+
+2.5
+
+2.3
+
+5.8
+
+3.7
+
+6.2
+
+6.2
+
+EBITDA Interest
+Coverage (x)
+
+4.1
+
+4.3
+
+3.8
+
+3.6
+
+2.7
+
+2.9
+
+4.9
+
+FFO cash
+interest coverage
+ratio (x)
+
+4.2
+
+4.4
+
+3.8
+
+3.5
+
+2.9
+
+3.0
+
+5.3
+
+Debt/EBITDA
+(x)
+
+6.3
+
+5.6
+
+6.2
+
+5.7
+
+7.6
+
+5.2
+
+5.0
+
+FFO/Debt (%)
+
+12.0
+
+13.7
+
+11.9
+
+12.6
+
+8.5
+
+13.0
+
+16.1
+
+Cash flow from
+operations/debt
+(%)
+
+12.1
+
+14.0
+
+12.8
+
+12.4
+
+8.4
+
+12.8
+
+15.8
+
+Capital
+Expenditures
+
+Cash and
+Short-term
+Investments
+
+Adjusted ratios
+EBITDA Margin
+(%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+Healthcare Trust of America Inc.
+
+Table 1
+
+Healthcare Trust of America Inc. (cont.)
+Free operating
+cash flow/debt
+(%)
+
+9.1
+
+9.5
+
+10.3
+
+12.0
+
+7.8
+
+6.9
+
+14.2
+
+Discretionary
+cash flow/debt
+(%)
+
+(2.9)
+
+(1.3)
+
+(0.9)
+
+(0.2)
+
+(4.9)
+
+(3.7)
+
+4.4
+
+Debt/Debt and
+Equity (%)
+
+45.9
+
+44.3
+
+39.2
+
+53.6
+
+54.2
+
+41.5
+
+45.6
+
+Debt Fixed
+Charge Coverage
+(x)
+
+4.0
+
+4.0
+
+3.7
+
+3.6
+
+2.6
+
+2.9
+
+4.9
+
+Total coverage
+[all equity
+distributions] (x)
+
+1.2
+
+1.2
+
+1.1
+
+1.0
+
+1.0
+
+1.1
+
+1.4
+
+Debt / debt and
+undepreciated
+equity (%)
+
+39.5
+
+33.6
+
+35.1
+
+44.7
+
+50.9
+
+39.2
+
+39.0
+
+Financial Risk: Intermediate
+We consider HTA's prudent funding strategy, relatively low leverage, and manageable debt maturity schedule as credit
+positives. As of the 12 months ended June 30, 2019, S&P Global Ratings' adjusted debt-to-EBITDA was 6.3x,
+compared to 5.7x at year-end 2018. Despite the modest recent increase, we believe HTA's financial policy has
+remained relatively conservative and we expect them to continue operating with leverage in the high-5x to low-6x area
+over the next few years.
+HTA has a largely unencumbered asset base (with only 1.6% of secured debt to total undepreciated assets), relatively
+low weighted average cost of debt (3.5%), and largely (approximately 95%) fixed rate debt structure as of June 30,
+2019. Notably, in June 2019, HTA entered into a forward equity agreement under its at-the-market (ATM) program
+whereby the company agreed to issue 1.8 million shares of common stock in exchange for approximately $52.1 million
+of net proceeds to be delivered prior to June 2020. Overall, we believe the company's relatively strong track record of
+leverage-neutral acquisition funding and consistent operating performance will lead to generally stable credit metrics
+over the next few years.
+
+Financial summary
+Table 2
+
+Healthcare Trust of America Inc.
+Financial Summary
+--Fiscal year ended Dec. 31-12 months ended June 30, 2019
+Rating History
+
+2018
+
+2017
+
+2016
+
+BBB/Stable/-- BBB/Stable/-- BBB/Stable/-- BBB/Stable/--
+
+S&P Adjusted (Mil. $)
+Revenues
+
+679.0
+
+687.5
+
+606.1
+
+456.8
+
+EBITDA
+
+436.7
+
+442.8
+
+384.4
+
+289.6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+Healthcare Trust of America Inc.
+
+Table 2
+
+Healthcare Trust of America Inc. (cont.)
+Financial Summary
+--Fiscal year ended Dec. 31-12 months ended June 30, 2019
+
+2018
+
+2017
+
+2016
+
+Funds from Operations (FFO)
+
+330.3
+
+330.7
+
+309.7
+
+231.6
+
+Net income from continuing operations
+
+218.0
+
+213.5
+
+63.9
+
+45.9
+
+Cash flow from operations
+
+332.6
+
+338.6
+
+308.0
+
+204.0
+
+Capital Expenditures
+
+81.5
+
+77.9
+
+64.8
+
+43.0
+
+Free Operating Cash Flow
+
+251.1
+
+260.8
+
+243.2
+
+161.0
+
+Discretionary Cash Flow
+
+(80.0)
+
+(67.5)
+
+27.4
+
+(4.8)
+
+23.2
+
+126.2
+
+100.4
+
+11.2
+
+Debt
+
+2,744.7
+
+2,540.9
+
+2,822.6
+
+1,853.0
+
+Equity
+
+3,231.0
+
+3,341.5
+
+3,370.2
+
+1,785.1
+
+64.3
+
+64.4
+
+63.4
+
+63.4
+
+Return on Capital (%)
+
+2.5
+
+2.5
+
+2.7
+
+3.2
+
+EBITDA Interest Coverage (x)
+
+4.1
+
+4.0
+
+4.1
+
+4.3
+
+FFO cash interest coverage ratio (x)
+
+4.2
+
+4.0
+
+5.2
+
+5.1
+
+Cash and Short-term Investments
+
+Adjusted ratios
+EBITDA Margin (%)
+
+Debt/EBITDA (x)
+
+6.3
+
+5.7
+
+7.3
+
+6.4
+
+FFO/Debt (%)
+
+12.0
+
+13.0
+
+11.0
+
+12.5
+
+Cash flow from operations/debt (%)
+
+12.1
+
+13.3
+
+10.9
+
+11.0
+
+9.1
+
+10.3
+
+8.6
+
+8.7
+
+Discretionary cash flow/debt (%)
+
+(2.9)
+
+(2.7)
+
+1.0
+
+(0.3)
+
+Debt/Debt and Equity (%)
+
+Free operating cash flow/debt (%)
+
+45.9
+
+43.2
+
+45.6
+
+50.9
+
+Debt Fixed Charge Coverage (x)
+
+4.0
+
+3.8
+
+3.8
+
+3.9
+
+Total coverage [all equity distributions] (x)
+
+1.2
+
+1.2
+
+1.2
+
+1.2
+
+Debt / debt and undepreciated equity (%)
+
+39.5
+
+37.6
+
+40.7
+
+43.9
+
+Liquidity: Strong
+We view HTA's liquidity as strong, as we expect its sources of liquidity to exceed uses by at least 1.5x or more over
+the next 12 months. Our assessment of the company's liquidity profile incorporates the following expectations and
+assumptions:
+• Sources less uses will be positive, even if forecasted EBITDA declines by 15% (a REIT-specific threshold for strong
+liquidity);
+• Sufficient covenant headroom for forecasted EBITDA to decline by 15% without the company breaching covenant
+tests;
+• The likely ability to absorb high-impact, low probability events without need for refinancing;
+• Well-established and solid relationships with banks; and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+Healthcare Trust of America Inc.
+
+• A generally high standing in the credit markets.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash and cash equivalents of $23.2
+million as of June 30, 2019;
+
+• Mortgage principal amortization of approximately
+$2 million per year;
+
+• Approximately $880 million of availability under its
+$1 billion unsecured revolving credit facility
+maturing in June 2022;
+
+• Maintenance capital expenditures (including second
+generation tenant improvements and leasing
+commissions) of approximately $50 million per year;
+
+• Unsecured note offerings totaling $900 million
+issued in August 2019; and
+
+• Dividend distributions of approximately $250
+million-$270 million per year over the next two
+years; and
+
+• Around $350 million-$370 million in funds from
+operations (FFO) over the next 12 months.
+
+• $300 million-$400 million in anticipated acquisitions
+and development spend over the next year.
+
+Debt maturities
+Chart 5
+
+Covenant Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+Healthcare Trust of America Inc.
+
+Compliance expectations
+As of June 30, 2019, HTA was comfortably in compliance with the financial covenants under its bank loans and senior
+unsecured notes. We believe the company will maintain sufficient covenant headroom over the next 12 to 24 months.
+
+Requirements
+Table 3
+
+Senior Notes Key Covenants
+As of June 30, 2019
+--Criteria--
+
+2Q'19 Actual Headroom Compliance
+
+Total Leverage
+
+Maximum 60%
+
+35%
+
+25%
+
+Yes
+
+Secured Leverage
+
+Maximum 40%
+
+2%
+
+38%
+
+Yes
+
+Unencumbered Asset Coverage Minimum
+
+1.5x
+
+3.03x
+
+1.53x
+
+Yes
+
+Interest Coverage
+
+1.5x
+
+4.53x
+
+3.03x
+
+Yes
+
+Minimum
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+For real estate companies, we typically rate the senior unsecured debt the same as the issuer credit rating unless the
+percentage of secured debt exceeds 35% of total undepreciated assets (or 40% of the fair market value of assets).
+
+Analytical conclusions
+The majority of HTA's properties are unencumbered, and the ratio of secured debt to undepreciated assets was 1.6%
+as of June 30, 2019, which is well below the threshold of 35%. Therefore, we rate the company's unsecured debt 'BBB',
+the same as the issuer credit rating. We believe the company has some flexibility to pursue additional secured debt for
+refinancing purposes without jeopardizing the current unsecured debt rating.
+
+Reconciliation
+Table 4
+
+Healthcare Trust of America Inc.
+Reconciliation of Healthcare Trust Of America Inc Reported Amounts with S&P Global Ratings' Adjusted Amounts (Mil. $)
+--12 months ended June 30, 2019--
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Cap
+EBITDA operations Dividends expendi
+
+2,567.0
+
+3,152.9
+
+688.2
+
+432.9
+
+150.6
+
+97.1
+
+436.7
+
+330.0
+
+260.3
+
+Cash taxes paid
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(1.6)
+
+-
+
+-
+
+Cash interest paid
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(95.1)
+
+-
+
+-
+
+200.8
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Healthcare Trust of America
+Inc.'s Reported Amounts
+S&P Global Ratings'
+Adjustments:
+
+Reported lease liabilities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+Healthcare Trust of America Inc.
+
+Table 4
+
+Healthcare Trust of America Inc. (cont.)
+Operating leases
+
+-
+
+-
+
+-
+
+12.3
+
+9.7
+
+9.7
+
+(9.7)
+
+2.6
+
+-
+
+(23.2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Share-based compensation
+expense
+
+-
+
+-
+
+-
+
+9.5
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Deconsolidation/consolidation
+
+-
+
+-
+
+1.7
+
+1.7
+
+(0.1)
+
+-
+
+-
+
+-
+
+-
+
+Nonoperating income
+(expense)
+
+-
+
+-
+
+-
+
+-
+
+2.6
+
+-
+
+-
+
+-
+
+-
+
+Noncontrolling
+interest/minority interest
+
+-
+
+78.1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Revenue: Other
+
+-
+
+-
+
+(10.9)
+
+(10.9)
+
+(10.9)
+
+-
+
+-
+
+-
+
+-
+
+EBITDA: Other
+
+-
+
+-
+
+-
+
+(8.8)
+
+(8.8)
+
+-
+
+-
+
+-
+
+-
+
+Depreciation and amortization:
+Impairment
+charges/(reversals)
+
+-
+
+-
+
+-
+
+-
+
+4.3
+
+-
+
+-
+
+-
+
+-
+
+177.6
+
+78.1
+
+(9.1)
+
+3.8
+
+(3.3)
+
+9.7
+
+(106.4)
+
+2.6
+
+-
+
+Accessible cash and liquid
+investments
+
+Total adjustments
+
+Debt
+S&P Global Ratings' Adjusted
+Amounts
+
+2,744.7
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Cap
+EBIT expense operations operations Dividends expendi
+
+3,231.0
+
+147.3
+
+679.0
+
+436.7
+
+106.8
+
+330.3
+
+332.6
+
+260.3
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 12
+
+Healthcare Trust of America Inc.
+
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• REITrends: Back In The Capital Markets And Largely Well Positioned For Opportunity, May 31, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Intermediate
+
+Significant
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 9, 2019)*
+Healthcare Trust of America Inc
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Issuer Credit Ratings History
+15-May-2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+BBB/Stable/--
+
+SEPTEMBER 9, 2019 13
+
+Healthcare Trust of America Inc.
+
+Ratings Detail (As Of September 9, 2019)*(cont.)
+21-Jul-2011
+
+BBB-/Stable/--
+
+Related Entities
+Healthcare Trust of America Holdings LP
+Issuer Credit Rating
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 15
+
+

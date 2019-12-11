@@ -1,0 +1,824 @@
+Infor Inc.
+Primary Credit Analyst:
+Christian Frank, San Francisco + 1 (415) 371 5069; christian.frank@spglobal.com
+Secondary Contact:
+David T Tsui, CFA, CPA, New York (1) 212-438-2138; david.tsui@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+Infor Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Established position among mid-market customers with products tailored for
+specific applications.
+
+Fragmented and competitive enterprise software industry
+landscape with large players that have greater financial
+resources, as well as numerous niche players.
+
+Increasing recurring revenue representing 64% of total, as customers continue
+to take up the company's software-as-a-service offerings.
+
+Overweight exposure to the economically sensitive
+manufacturing end market.
+
+Low working capital and capital expenditure requirements support free
+operating cash flow, which we expect to be in the $100 million-$200 million
+range each year for the next two years.
+
+High leverage of 9.4x as of April 30, 2019, which we expect to
+decline to the low-9x area in fiscal 2020 (ending in April).
+Acquisitive growth strategy has slowed leverage reduction.
+
+High leverage elevates credit risk should industry dynamics or macroeconomic conditions worsen.Infor Inc. operates in
+the fragmented and competitive enterprise software industry landscape with a large exposure to the economically
+sensitive manufacturing end market. It also competes with players of much larger scale such as Oracle Corp. and SAP
+SE, as well as smaller players with niche solutions. An unfavorable change in competitive dynamics or macroeconomic
+conditions could add pressure to Infor's highly leveraged capital structure.
+A continued transition to SaaS-based solutions enhances product entrenchment and revenue visibility. Infor's gradual
+transition to software-as-a-service (SaaS) has progressed consistently over the past few years. The decline in license
+sales has tempered double-digit growth in SaaS revenue, but we believe the quality of the revenue mix has improved
+because recurring revenue has increased to 64% of the total, with more predictability and deeper customer
+relationships.
+Low working capital and capital spending needs support modest cash flow despite high leverage. Capital expenditures,
+including capitalized software development, are typically below 3% of revenues, and cash from receivables and
+payables roughly offset each other over the long term. Deferred revenue is a source of cash as the company collects
+payments in advance of revenue recognition. As a result, Infor can generate modest cash flow despite high leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+Infor Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our view that EBITDA will grow modestly over the next 12 months as Infor continues
+its transition to SaaS delivery, and that expected free operating cash flow (FOCF) in the $120 million-$160 million
+range (adjusted for accrued preferred dividends) will allow it to meet its debt service requirements.
+
+Upside scenario
+We could raise the rating if the company reduces leverage to the low-8x area or lower as a result of cost
+reductions, continued revenue growth, or debt repayment. Infor would need to grow EBITDA by nearly 10% from
+current levels and repay $300 million of debt to reach this threshold.
+In January 2019, the company announced that it would target an IPO in the following 12-24 months. If it used IPO
+proceeds for debt reduction such that leverage fell to the low-8x area or below, we could raise the rating. In
+addition, if Koch Industries controlled the company at some point (today we view the company as being jointly
+controlled by Koch and Golden Gate Capital), either as a result of the IPO or some other change in ownership
+shares, and we believed that it would support Infor in times of stress, we could raise the rating by another notch.
+This scenario would be consistent with what we believe are Koch's preferences to control its investments and its
+willingness to support them in times of stress (Molex Electronic Technologies LLC, INVISTA Equities LLC, and
+Guardian Industries Resources LLC are examples). The company has not defined its IPO strategy or the future
+evolution of ownership shares so we do not incorporate either factor into our ratings; as new information emerges
+regarding these factors, we will review our ratings.
+
+Downside scenario
+We could lower the rating if we come to view the company's capital structure as unsustainable, which could occur
+if FOCF approaches break-even. A decline in manufacturing investment spending as a result of an macroeconomic
+downturn or a loss of market share to competitors who introduce more compelling products could lead to this
+condition.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+Infor Inc.
+
+Assumptions
+
+Key Metrics
+
+• Real global GDP growth of 3.3% in calendar 2019
+and 3.6% in 2020.
+• Real U.S. GDP growth of 2.5% in 2019 and 1.8% in
+2020.
+• Global software sector revenue growth in the
+mid-single-digits annually.
+• Revenue growth in the low- to mid-single-digit
+percents in fiscal 2020 and 2021, in line with our
+macroeconomic expectations and the company's
+track record, but slightly below our industry
+expectations because good growth in SaaS revenue
+is partly offset by falling perpetual license sales.
+
+2019A
+
+2020E
+
+2021E
+
+Debt to EBITDA (x)
+
+9.4
+
+8.9-9.3
+
+8.4-9.2
+
+FOCF to debt (%)
+
+2.3
+
+2.4-3.4
+
+3.1-4.1
+
+FOCF* (mil. $)
+
+100 120-160 150-200
+
+EBITDA interest coverage (x)
+
+1.7
+
+1.7-1.9
+
+1.7-2.1
+
+Note: Fiscal year ends in April. FOCF--Free operating
+cash flow. *Reported cash flow from operations less
+reported capital spending less holdco note interest
+accrual (2019) less preferred dividend accrual (2020
+and 2021). A--Actual. E--Estimate.
+
+• Perpetual license revenue declines in the mid-single
+to low-double-digit percents as customers
+increasingly choose SaaS products, and the
+associated maintenance revenue declines in the
+low-single-digits as license sales decline and as Infor
+converts maintenance paying customers to SaaS.
+We also expect SaaS percentage revenue growth to
+fall, but that annual dollar growth should remain
+consistent above $100 million per year.
+• S&P Global Ratings-adjusted EBITDA margins
+around 21% in fiscal 2020 and 2021, consistent with
+those in 2019. Margins were in the high-20% area in
+2015, but have fallen as the company has
+transitioned to SaaS, which is more predictable but
+carries lower gross margin than perpetual licenses,
+and as it has increased product investments as a
+percentage of revenue.
+• We treat capitalized software development as an
+operating expense because the spending is related to
+customer-facing products, more akin to research and
+development than capital spending, in our view.
+• Capital expenditures (including capitalized software
+development) in the high-2% area as a percentage of
+revenues.
+• We view the new $750 million preferred equity as
+debt and related dividend payments as interest due
+to Infor's optional redemption feature.
+• We do not include assumptions about acquisitions
+or shareholder returns in our forecast due to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+Infor Inc.
+
+uncertainty around timing and size, but we expect
+the company to continue to pursue tuck-in
+acquisitions funded from cash flow.
+
+Base-case projections
+Credit metrics should somewhat improve due to EBITDA growth, but additional improvement could come with an IPO.
+We expect credit metrics to improve modestly over the next 12-24 months on EBITDA growth, but not enough to
+reach our upgrade threshold of leverage in the low-8x area. However, the company could reach this level if it uses IPO
+proceeds to reduce debt, but it has not announced its IPO strategy so the impact on creditworthiness is uncertain.
+The transition to SaaS will continue to weigh on revenue growth. Infor continues to pursue a gradual transition to SaaS,
+rather than a "big bang" approach that abruptly cuts off perpetual license sales as some peers have done. This
+transition hinders revenue growth because the first year of revenue from a SaaS sale is much less than that of an
+equivalent perpetual license sale, but the lifetime value of an SaaS customer is greater and revenue predictability
+improves as the percentage of recurring revenue increases.
+Modest cash flow supports the 'B-' rating. Cash flow is modest, particularly as a percentage of debt, but it is enough to
+sustain the capital structure and support the 'B-' rating.
+
+Company Description
+With over $3 billion of annual revenues and S&P Global Ratings-adjusted EBITDA around $660 million, Infor provides
+enterprise software and services mainly to small- to mid-size retail, manufacturing, and third-party logistics customers,
+although it serves other end markets as well. The company offers solutions specifically designed for numerous, very
+specific markets (which the company calls microverticals), which differentiates it against competitors whose products
+are not as customized. Competitors include large players such as Oracle Corp. and SAP SE, as well as more niche
+focused peers like Epicor Software Corp., Kronos Inc., and JDA Software Group Inc. The company reports revenues
+by the following types: perpetual licenses (9% of fiscal 2019 revenues), SaaS (20%), perpetual license maintenance
+(43%), and consulting (27%). It derives over 60% of revenues from the Americas, about 30% from Europe, the Middle
+East, and Africa, and almost 10% from Asia Pacific.
+
+Business Risk: Fair
+Our view of Infor's business risk profile incorporates its fragmented market landscape with competitors of much larger
+scale, as well as smaller players with niche solutions, and exposure to the cyclical manufacturing end markets.
+However, the company has a strong position among mid-market customers with solutions tailored to specific
+microverticals, it has a meaningful base of recurring revenue representing 64% of total sales, and its solutions are
+embedded in its customers' operations, resulting in high customer retention. Infor is increasing its focus on promoting
+its SaaS offerings--similar to other software companies as demand has grown for SaaS delivery--which increases
+recurring revenue but hurts profitability as SaaS has lower gross margins than perpetual licenses. Despite the lower
+profitability, gross margin dollars have increased so we view the transition favorably.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+Infor Inc.
+
+Financial Risk: Highly leveraged
+Infor's financial risk profile reflects leverage of 9.4x as of April 30, 2019, which we expect to decline modestly over the
+next 12 months on EBITDA growth. We expect FOCF adjusted for accrued preferred dividends in the $120
+million-$160 million range, with FOCF to debt around 3% as deferred revenue from SaaS contracts contributes to cash
+flow. Infor has an acquisitive growth strategy but we believe it can pursue its growth objectives within the limits of the
+'B-' rating, since most are tuck-in acquisitions funded from cash flow. An upcoming IPO could improve credit metrics if
+the company uses proceeds for debt reduction, but it has not yet defined its IPO strategy. We view the new $750
+million preferred equity as debt and related dividend payments as interest due to Infor's optional redemption feature.
+
+Liquidity: Adequate
+In our view, Infor has adequate liquidity. We anticipate coverage of uses over 5x for the next 12 months and positive
+net sources in the near term, even with a 15% decline in EBITDA.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of $356 million as of April 30, 2019.
+
+• Annual capital expenditures and capitalized software
+development in the $80 million-$90 million range.
+
+• Availability of $111 million under the company's
+$120 million revolving credit facility expiring
+February 2022.
+
+• Current debt of $28 million.
+• Modest working capital needs.
+
+• Cash funds from operations around $300 million
+over the next 12 months.
+• Deferred revenue is likely to be a source of cash, as
+subscription revenue is collected in advance of
+revenue recognition.
+
+Debt maturities
+Infor's capital structure consists of the following instruments with the following current balances:
+• First lien term B-6 due Feb. 1, 2022: $2.1 billion
+• First lien euro term B-2 due Feb. 1, 2022: $1.1 billion
+• Unsecured notes due May 15, 2022: $2.0 billion
+
+Covenant Analysis
+Compliance expectations
+We believe Infor can maintain at least 15% cushion under the maximum leverage requirement of its revolving credit
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+Infor Inc.
+
+facility.
+
+Requirements
+The company's revolving credit facility is subject to a maximum leverage ratio of 8.5x. Its other instruments are not
+subject to financial covenants.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The '2' recovery rating on Infor's secured debt and the '5' recovery rating on its unsecured debt are unchanged.
+• Our simulated default scenario contemplates a default in 2021, primarily as a result of greater competition from
+larger rivals, coupled with weakening mid-market demand. Furthermore, a failure in services or technological
+capability could lead to customer defections.
+• We have valued the company as a going concern using a 7x multiple of our projected emergence EBITDA, at the
+high end of the range we use for software companies.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: $470 million
+• EBITDA multiple: 7x
+• The revolver is 85% drawn at default
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $3.1 billion
+• Valuation split (obligors/nonobligors): 60%/40%
+• Value available to secured claims (collateral/noncollateral): $2.7 billion/$110 million
+• Secured first-lien debt: $3.4 billion
+• --Recovery expectations: 70%-90% (rounded estimate: 80%)
+• Total value available to unsecured debt claims: $330 million
+• Senior unsecured debt claims: $2.1 billion
+• --Recovery expectations: 10%-30% (rounded estimate: 15%)
+
+Reconciliation
+Infor reported $911 million of cash adjusted EBITDA for fiscal 2019 compared to $664 million of S&P Global Ratings
+adjusted EBITDA. We do not add back one-time costs, change in deferred SaaS revenue, or pro forma cost savings.
+We add operating lease rent but deduct capitalized software development.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+Infor Inc.
+
+Table 1
+
+Reconciliation Of Infor Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended April 30, 2019-Infor Inc. reported amounts
+
+Debt
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+5,184.5
+
+415.8
+
+322.3
+
+663.5
+
+237.3
+
+83.9
+
+Deprication and amortization
+
+--
+
+216.2
+
+--
+
+--
+
+--
+
+--
+
+Capitalized development costs
+
+--
+
+(38.1)
+
+--
+
+--
+
+(38.1)
+
+(38.1)
+
+Share-based compensation
+expense
+
+--
+
+11.0
+
+--
+
+--
+
+--
+
+--
+
+Purchase accounting deferred
+revenue discounts
+
+--
+
+1.4
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+214.3
+
+57.3
+
+14.8
+
+(14.8)
+
+42.4
+
+--
+
+HoldCo notes
+
+750.0
+
+--
+
+53.4
+
+(53.4)
+
+(53.4)
+
+0.0
+
+Postretirement obligations
+
+33.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Litigation
+
+47.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Earnouts and deferred
+consideration for business
+acquisitions
+
+13.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(72.0)
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+
+Capital leases
+
+5.6
+
+Cash taxes paid
+
+--
+
+Cash interest paid
+Total adjustments
+
+--
+
+--
+
+--
+
+(303.5)
+
+--
+
+--
+
+1,064.2
+
+247.8
+
+68.3
+
+(443.8)
+
+(49.1)
+
+(38.1)
+
+Debt
+
+EBITDA
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+6,248.7
+
+663.6
+
+390.6
+
+219.8
+
+188.2
+
+45.8
+
+S&P Global Ratings' adjusted amounts
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+Infor Inc.
+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Our comparable rating analysis modifier is negative, reflecting leverage that we expect to remain higher than that of 'B'
+rated sponsor-owned software peers.
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Software And Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 9
+
+Infor Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of August 22, 2019)*
+Infor Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+25-Jan-2017
+
+B-/Stable/--
+
+07-Mar-2016
+
+B/Negative/--
+
+18-Apr-2012
+
+B/Stable/--
+
+Related Entities
+Infor (US) Inc.
+Senior Secured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 11
+
+

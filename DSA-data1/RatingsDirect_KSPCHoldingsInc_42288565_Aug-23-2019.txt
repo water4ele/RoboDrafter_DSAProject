@@ -1,0 +1,544 @@
+KSPC Holdings Inc.
+Primary Credit Analyst:
+Jeff J Guan, CFA, Toronto (1) 416-507-3287; jeff.guan@spglobal.com
+Secondary Contact:
+David A Kaplan, CFA, New York (1) 212-438-5649; david.a.kaplan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings--Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 1
+
+KSPC Holdings Inc.
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Largest player in the perfusion and intraoperative
+neuro-physiologic monitoring (IONM) markets
+
+Small scale in a niche market
+
+Benefitting from the trend that overall cardiac procedures are
+on the rise
+
+High debt leverage with financial sponsor ownership
+
+Good geographic and customer diversification
+
+Dynamic reimbursement environment, including surprise billing and shift to
+episodic payments (that may reduce procedure volumes at smaller--hospital
+customers.
+
+Good market position (market share) relative to other
+outsourced-providers in its niche
+
+Potential for hospital insourcing and advancements in technology that may
+reduce demand for KSPC's services
+
+Financial sponsor ownership and aggressive financial policy will keep leverage high.
+We expect adjusted debt leverage will remain above 5x over the next two years largely as a result of the financial
+policies of the private equity owner. We expect the financial sponsor will direct free cash flow for acquisitions or
+shareholder returns.
+
+The small scale and very narrow focus in a niche market exacerbate risks. .
+We view the company's focus on these narrow areas as potentially exacerbating risks from changes to reimbursement
+(such as a potential shift to bundled payments, or surprise out-of-network billing), or technological developments (such
+as improvements in statins, stents, and transcatheter aortic valve replacement (TAVR) procedure volumes that could
+reduce demand for open-heart surgery).
+
+The company has a relatively strong market positon as the largest outsourced provider in each of its
+two niches.
+We believe the company has certain competitive advantages as the largest outsourced service provider in the
+perfusion and IONM markets, namely in hiring and retaining talent (especially in the tight perfusion labor market) and
+in marketing. Most of the company's competitors are significantly smaller, though about half of these services are
+provided by in-house employees at hospitals, particularly larger hospitals that have sufficient demand to employ
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 2
+
+KSPC Holdings Inc.
+
+multiple full-time providers. The company has built a strong reputation with employees and hospital customers and
+provides strong outcomes through a focus on identifying and sharing best practices and other forms of training and
+professional development.
+
+Outlook
+
+Our stable rating outlook reflects our expectation that the company will gradually grow EBITDA and free cash flow
+supported by its market position in the perfusion and IONM markets, while generally maintaining adjusted debt
+leverage above 5x for the next few years under financial sponsor ownership.
+
+Downside scenario
+We could lower the rating if KSPC experiences unfavorable industry trends in the perfusion or IONM markets, such
+as a decline in surgery volumes in the hospitals that the company serves. Another key risk is intensifying
+competition from hospital insourcing or from other large providers of outsourced clinical service companies. This
+scenario would entail margin contraction of about 200 basis points resulting in negligible free cash flow and high
+leverage that would lead us to view the capital structure as unsustainable.
+
+Upside scenario
+We could consider raising the rating if we expected KSPC to sustainably generate more than $20 million of annual
+free cash flow. We expect the company could achieve this within a couple of years, providing it maintains adjusted
+debt leverage near recent levels.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 3
+
+KSPC Holdings Inc.
+
+Assumptions
+
+We expect organic revenue growth of around 5% in
+2019 and again in 2020, broadly in line with the
+expected growth in the perfusion market and helped by
+cross-selling initiatives and new account wins. For the
+first half of 2019, 40%-45% of new business wins were
+from cross-selling.
+
+Key Metrics
+
+2018A 2019E 2020E
+Adjusted EDBITA margin (%)
+
+16.6
+
+17-18
+
+18
+
+Adjusted debt to EDBITA (x)
+
+6.3
+
+5.7
+
+5.2
+
+Adjusted FFO to debt (x)
+
+9.6
+
+9.9
+
+11.3
+
+A--Actual. E—Estimate. FFO—Funds from operations.
+
+Around $10 million-$15 million on acquisitions per
+year.
+Adjusted EBITDA margins, including the impact of
+integration costs and synergies, estimated to be
+17%-19% for 2019 and 2020.
+Based on these assumptions, we expect adjusted
+leverage could decline to the low-5x area by December
+2020, and the company could generate around $20
+million of free cash flow in 2020. Given the financial
+sponsor ownership, we expect the company to increase
+leverage to support shareholder returns or more
+significant mergers and acquisitions (M&A).
+
+Base-case projections
+Moderate revenue growth supported by the outsourcing trend and new account wins.
+We expect low- to mid-single-digit revenue growth as the company benefits from favorable demographic trends
+supporting the growing number of procedures, hospital outsourcing trends, and new account wins, helped by
+cross-selling in the company's segments.
+
+Slight widening of adjusted EBITDA margins in 2019 and 2020 as the company stabilizes expenses.
+The company increased spending on its sales force by hiring more people in 2018 to help drive revenue growth. We
+expect sales, general, and administrative expenses to remain relatively flat in 2019 and 2020, supporting modest
+EBITDA margin expansion.
+
+Free cash flow primarily allocated to shareholder returns or acquisitions.
+We expect adjusted free cash flow of around $20 million in 2019 and in 2020. Given financial sponsor ownership, we
+expect the company will direct free cash flow to shareholder returns or for acquisitions to grow the business.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 4
+
+KSPC Holdings Inc.
+
+Company Description
+KSPC (d/b/a SpecialtyCare) is a national provider of outsourced clinical services to hospitals and health systems. The
+company operates in three segments:
+Perfusion (the largest segment, based on revenue): Perfusionists are highly specialized professionals who operate the
+heart-lung machine, an essential role, during open heart surgery procedures. KSPC is the largest provider of
+outsourced perfusion services in the U.S., with low-double-digit market share.
+IONM (Intraoperative neuromonitoring, the second largest segment): IONM serves to minimize neurological-related
+injuries primarily during spinal operations by monitoring changes in brain, spinal cord, and peripheral nerve function
+prior to irreversible damage. An IONM clinician team typically consists of a neurophysiologist performing IONM for
+surgeons on site, and a neurologist monitoring the patient's central and peripheral nervous system remotely. It is
+becoming more common, particularly during complex spine surgeries. KSPC is the largest provider of IONM
+outsourced services in the U.S., with low-double-digit market share.
+Surgical services: KSPC provides outsourced surgical services to hospitals in the areas of minimally invasive surgical
+support, surgical assistance, autotransfusion, and sterile processing management.
+
+Business Risk: Vulnerable
+Our view on the ratings for KSPC reflect the company's small scale (about $330 million in annual revenues), its narrow
+focus on the niche perfusion and IONM markets, and a competitive and fragmented market for outsourced health care
+staffing services. While we believe that KSPC's expertise and strong market position in perfusion and IONM markets
+provide certain competitive advantages, the company also competes with hospitals that in-source such services as
+about half of the perfusion and IONM markets are outsourced. The company is also facing potential competition from
+advanced technology that may replace part of the services from KSPC. We believe further technological developments
+in drug-eluting stents, more effective statins, and the growing track record of success with the minimally invasive
+TAVR procedure could lead to declines in the open heart surgery procedure volumes. For instance, in August 2019,
+both Edwards Lifesciences Corp. and Medtronic Plc received FDA approval for expanded use of their respective TAVR
+products in the lower-risk population. We expect this could further support a gradual shift from open heart surgery
+toward TAVR, as surgeons gain more confidence in the minimally invasive technology.
+We also believe KSPC is exposed to the risk of a potential shift in the volume of procedures away from hospitals with
+relatively few open heart procedures (where the outsourcing of perfusion services is economically essential), should
+the industry shift toward episodic payments for coronary artery bypass grafting (CABG), which rewards facilities based
+on outcomes. This is because outcomes tend to be better at higher volume (center of excellence) facilities. Lastly,
+while we recognize the substantial benefits that IONM brings to complex surgeries, the growing adoption rate of this
+technique may be tempered by the discretionary nature of IONM and the inability of hospitals to pass through the
+incremental costs of IONM to patients covered under Medicare. We believe pressure on hospital profitability or
+general economic softness could weigh on contracting rates for outsourced perfusionists and IONM professionals.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 5
+
+KSPC Holdings Inc.
+
+The business risk also reflects KSPC's leading position in the outsourced perfusion and IONM markets, with good
+geographic and customer diversification (the top 10 customers account for only around 12% of revenues). We view the
+company's limited exposure to reimbursement risk as positive, with 80%-82% of revenues coming from hospitals and
+only 17% from third-party payors. We expect the company to have limited impact from surprise billing, given that
+exposure is limited to the 75% of the 17% third-party payors that are out of network. Lastly, we believe that KSPC
+benefits from the general trend toward outsourcing by hospitals.
+
+Financial Risk: Highly leveraged
+We expect KSPC's adjusted leverage to decline to the low-5x area and funds from operations (FFO) to debt to get
+close to 10%-11% over the next two years absent major debt-financed acquisition or dividend recap. Our base case
+contemplate modest deleveraging stemming from revenue growth. We expect the company to generate about $20
+million in annual free cash flows in 2019 and again 2020, though we expect cash flows to be allocated for shareholder
+returns or more material investment in M&A. .
+
+Liquidity: Adequate
+We view the company's liquidity as adequate. Although we expect sources of cash to cover uses by more than 1.2x, we
+believe the company may not be able to absorb a high-impact, low-probability event without refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Full availability under the $45 million revolver, even
+given the springing covenant;
+
+• Mandatory debt amortization of about $3 million
+each year;
+
+• Projected annual FFO of $34 million in 2019 and
+$38 million in 2020; and
+
+• Modest working capital usage of around $2 million
+each year; and
+
+• About $8 million of cash and cash equivalents as of
+March 31, 2019.
+
+• Capital spending of around $10 million-$15 million
+per year.
+
+Debt maturities
+The company's revolver is due in 2022, the first lien term loan is due in 2023, and the second-lien term loan is due in
+2024.
+
+Covenant Analysis
+Compliance expectations
+We expect the company to maintain at least a 30% cushion on the springing secured leverage covenant of 9x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 6
+
+KSPC Holdings Inc.
+
+Requirements
+The revolver is subject only to a springing secured leverage covenant that activates when the revolver is 35% drawn.
+There are no financial covenants on the first-lien term loan or the second-lien term loan.
+
+Issue Ratings--Recovery Analysis
+Key analytical factors
+• KSPC's capital structure consists of a $45 million first-lien revolver, a $256 million first-lien term loan, and an $81
+million second-lien term loan.
+• The obligations under the credit agreement are secured by all material assets of the borrowers and the guarantors.
+• We assume the revolver will be 85% drawn, LIBOR of 250 basis points (bps), and 150-bp margin increase, at default,
+following a covenant breach.
+• Given the company's market-leading position in the geographic regions in which it operates and the continued
+demand for its services, we believe the company would remain a viable business and would therefore reorganize
+rather than liquidate following a payment default.
+• We valued the company on a going-concern basis using a 5.0x multiple of our projected emergence EBITDA.
+• We estimate that, for the company to default in 2021, EBITDA would need to decline by about 20%-25%.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: $38 million
+• EBITDA multiple: 5.0x
+
+Simplified waterfall
+• Net emergence value (after 5% administrative costs): $179 million
+• Valuation split in % (obligors/nonobligors): 100/0
+• Collateral value available to first-lien lenders: $179 million
+• First-lien debt: $296 million
+• --Recovery expectations: 50%-70%; rounded estimate: 60%
+• Second-lien debt: $85 million
+• --Recovery expectations: 0%-10%; rounded estimate: 0%
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Vulnerable
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 7
+
+KSPC Holdings Inc.
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Vulnerable
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+• Group credit profile: b-
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 8
+
+KSPC Holdings Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of August 21, 2019)*
+KSPC Holdings, Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+10-Aug-2017
+
+B-/Stable/--
+
+Related Entities
+SCSG EA Acquisition Company Inc.
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 10
+
+

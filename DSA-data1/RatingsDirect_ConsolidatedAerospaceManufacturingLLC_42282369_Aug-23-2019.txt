@@ -1,0 +1,454 @@
+Consolidated Aerospace
+Manufacturing LLC
+Primary Credit Analyst:
+Alexandra Dima, CFA, Toronto + 1 (416) 507 3227; alexandra.dima@spglobal.com
+Secondary Contact:
+Christopher A Denicolo, CFA, Washington D.C. (1) 202-383-2398; christopher.denicolo@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 1
+
+Consolidated Aerospace Manufacturing LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good program diversity for size
+
+Small size compared to much larger competitors
+
+Solid positions in niche markets
+
+Acquisitive growth strategy that could lead to higher leverage than expected
+
+Relationships with key original equipment manufacturers (OEMs) Profitability not improving as expected
+
+Credit metrics came in weaker than expected in 2018, but should improve as margins increase and
+revenues continue to grow.
+Adjusted EBITDA margins declined modestly in 2018 to 19% from 21% in 2017, much lower than our expected level
+of 22%-24% because of one-time costs and investments in new product development that were higher than forecasted.
+We expect margins to improve in 2019 to 20%-22% due to the absence of one time charges, contribution margin from
+additional capacity growth and higher sales, and efficiency initiatives.
+
+The company has been making significant capital investments for capacity growth and operating
+efficiencies.
+Capital expenditures in 2019 will be almost double historical levels as the company invests in setting up a Mexico
+facility. This will contribute capacity as new product introductions continue to increase. The facility also mitigates the
+difficulty of finding additional labor at some of its higher-cost current locations.
+
+We do not currently anticipate a large impact from the continued grounding of the Boeing 737 MAX.
+Although CAM produces numerous products for the MAX, Boeing is still producing the aircraft, although at a lower
+rate. The softening in demand from Boeing is offset by higher demand for other products. However, there could be a
+more significant impact if the grounding is longer than expected or Boeing cuts production further or starts stretching
+out payments.
+
+Consolidated Aerospace Manufacturing LLC (CAM) is a relatively small aerospace supplier.
+It competes against much larger fastener suppliers such as Arconic and Precision Castparts. However, it has
+established a position as a reliable third source in a market with limited capacity to meet strong demand. It also has
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 2
+
+Consolidated Aerospace Manufacturing LLC
+
+leading positions in certain product lines.
+
+Outlook: Stable
+
+The stable outlook on CAM reflects that, although credit metrics have weakened in 2018, we expect continued
+strong top-line growth and improved profitability to strengthen credit metrics in 2019. We expect debt to EBITDA
+of 4.5x-5.0x by the end of 2019, improving below 4.5x by 2020.
+
+Downside scenario
+We could lower our ratings on CAM in the next 12 months if the company's debt to EBITDA remains above 5x and
+we don't expect it to improve. This could occur if the company is unable to profitably increase its production, if
+there are integration issues with acquisitions, or if the company undertakes additional large, debt-financed
+acquisitions.
+
+Upside scenario
+It is unlikely that we would raise our rating on CAM during the next year because of its ownership by a
+private-equity firm and the small scale of its operations. However, we could raise our ratings on CAM if its revenue
+and earnings improve faster than we anticipate due to product introductions or productivity improvements and the
+company uses its excess cash to reduce its debt while committing to maintain a debt-to-EBITDA metric of less
+than 3.5x regardless of future acquisitions or dividends.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 3
+
+Consolidated Aerospace Manufacturing LLC
+
+Assumptions
+
+• Continued growth in worldwide air traffic and
+moderate production growth on popular aircraft
+platforms;
+• Revenue increases 20%-25% in 2019 driven by
+contributions from recent acquisitions, new contract
+wins, and additional acquisitions;
+• Adjusted EBITDA margins of 20%-22% due to
+higher-margin contributions from recent
+acquisitions, fall off of one-time items from 2018,
+and cost-saving initiatives;
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+6.9 4.5-4.9 4.1-4.5
+
+FFO to debt (%)
+
+9.7
+
+13-17
+
+14-18
+
+FOCF to debt (%)
+
+4.5
+
+4-8
+
+7-11
+
+A--Actual. E—Estimate. FFO—Funds from operations.
+FOCF—Free operating cash flow.
+
+• Bolt-on acquisitions of $35 million in 2019 and $50
+million annually starting in 2020;
+• Elevated capital expenditures in 2019 as the
+company invests in a new facility in Mexico; and
+• No dividends.
+
+Company Description
+CAM engages in the design and manufacture of fittings, precision components, hardware, and fastening solutions,
+primarily for the aerospace and defense industry. CAM also serves transportation, power generation, industrial
+machinery, and other industries worldwide. CAM is a private company owned by Tinicum L.P.
+
+Business Risk: Weak
+CAM has good product diversity with over 16,000 SKUs helping meet the needs of different customers. Customer
+diversity is also fairly good, with no customer accounting for more than 17% of revenues in 2018. CAM has historically
+had good margins and we expect them to rebound back up after the margin decrease in 2018. These factors are
+partially offset by the company's small size and lower-tier position in the market with larger competitors.
+
+Financial Risk: Aggressive
+Credit metrics are expected to improve in 2019, with debt to EBITDA declining to 4.5x-4.9x and FFO to debt
+increasing to 13%-17% due to contribution margin from additional capacity growth, higher sales, and efficiency
+initiatives. We expect the company to continue to generate positive free cash flow in 2019 and 2020, despite elevated
+capex levels in 2019 to fund the Mexico facility. CAM will likely use its free cash flow for additional bolt-on
+acquisitions. We do not expect the company to pay any dividends to its sponsor.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 4
+
+Consolidated Aerospace Manufacturing LLC
+
+Liquidity: Adequate
+We expect liquidity to remain adequate, supported by internal cash generation and a $25 million revolving credit
+facility. We expect sources of liquidity to be around 2.5x uses over the next 12 months and sources to exceed uses
+even if EBITDA declined by 15%. However, we do not believe the company has a high standing in credit markets, can
+sustain a high-impact, low-probability event without refinancing, or that management would take actions to sustain
+this level of excess liquidity.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of $19 million as of
+March 31, 2019;
+
+• Capex of about $35 million in 2019; and
+• Annual debt amortization of$3.8 million.
+
+• Availability of $21 million under the revolving credit
+facility due 2022, after accounting for outstanding
+letters of credit; and
+• Cash from operations of about $55 million over the
+next 12 months.
+
+Covenant Analysis
+Compliance expectations
+CAM's credit facility has a springing maximum net leverage covenant of 5.5x, which steps down to 5.25x after June
+2019 and 5.0x after June 2020. This covenant is tested when the company's revolver usage exceeds 25% of the
+facility's commitment. We do not expect the company to draw on its revolver over the next year, so the covenant is
+unlikely to be tested. If it were tested we believe that CAM would maintain adequate cushion of over 15% under this
+covenant.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The '3' recovery rating on the company's first-lien credit facility remains unchanged.
+• The facility comprises a $367 million (outstanding) term loan and a $25 million revolver, both of which are due in
+2022.
+• We have valued the company on a going-concern basis using a 5x multiple of our projected emergence EBITDA.
+Other key assumptions at default include: LIBOR of 2.5% and the revolver is 85% drawn.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 5
+
+Consolidated Aerospace Manufacturing LLC
+
+Simulated default assumptions
+• Default year: 2023
+• EBITDA at emergence: $44 million
+• Multiple: 5x
+
+Simplified waterfall
+• Net enterprise value after administrative expenses (5%): $210 million
+• Valuation split (obligor/nonobligors): 100%/0%
+• Collateral value available to first-lien creditors: $206 million
+• Total first-lien debt: $388 million
+• --Recovery expectations: 50%-70% (rounded estimate: 50%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: FS-5 (no additional impact)
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : b+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 6
+
+Consolidated Aerospace Manufacturing LLC
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Aerospace And Defense Industry, March 25, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 20, 2019)*
+Consolidated Aerospace Manufacturing, LLC
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+B+
+
+Issuer Credit Ratings History
+16-Jul-2015
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 7
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 8
+
+

@@ -1,0 +1,1419 @@
+Laboratory Corp. of America Holdings
+Primary Credit Analyst:
+David P Peknay, New York (1) 212-438-7852; david.peknay@spglobal.com
+Secondary Contact:
+Jeffrey Loo, CFA, New York + (212) 438-1069; jeffrey.loo1@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 1
+
+Laboratory Corp. of America Holdings
+(Editor's Note: Editor\rquote s note: We are republishing this article, originally published on Sept. 5, 2019, to correct the
+financial risk profile, business risk profile, anchor, and management and governance assessments.)
+
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Broad scope of diagnostic testing services.
+
+The company is subject to reimbursement risk such as the Medicare
+rate cuts from the PAMA regulation.
+
+Scale and diversity contribute to significant margin stability compared
+to other health care service providers.
+
+The laboratory industry has limited pricing power.
+
+Superior operating efficiency
+
+LabCorp's contract research organization, Covance, provides both business diversity and most of the
+company's growth.
+Currently, the company generates its growth entirely from Covance, its contract research division. We expect
+Covance's mid- to high-single-digit growth to more than overcome a low-single-digit revenue decline from the
+Laboratory Diagnostics business in 2019, resulting in organic growth for the company of only about 1% in 2019 and
+3.5-4% in subsequent years. We project Covance to grow at mid-single-digit organic growth, boosted by growth
+through acquisitions.
+
+LabCorp is well-positioned in the competitive diagnostic laboratory business.
+LabCorp, which is one of the largest diagnostics laboratory companies, is price competitive and actively invests in new
+technologies and partnerships such as with Walgreens to help maintain its solid market position.
+
+We do not expect leverage to deviate much from its current level.
+We expect the company to balance the use of still-strong free cash flow between acquisitions and share repurchases.
+We believe targeted acquisitions and shareholder return will remain a higher priority than reducing leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 2
+
+Laboratory Corp. of America Holdings
+
+Despite reimbursement risks, the laboratory diagnostics business still generates strong margins.
+Although margins have been pressured by the tight reimbursement environment for lab services, such as the recent
+cuts from the Protecting Access to Medicare Act (PAMA), the company has been finding ways to lessen that downside
+pressure. We expect the mid-19% operating margin for the diagnostic laboratory business to remain far higher than
+that of the Covance operating margin of about 12.5%.
+
+Outlook: Stable
+
+The stable outlook on Laboratory Corp. of America Holdings (LabCorp) reflects S&P Global Ratings' view that the
+laboratory reimbursement environment will remain relatively stable, and the company's substantial scale and
+superior operating efficiency leave it better positioned to weather reimbursement cuts, such as the ones from
+PAMA, relative to smaller laboratory services providers. It also reflects our view the company will continue to
+benefit from above-GDP growth in demand for contract research services. Based on these factors, we expect
+LabCorp will generate substantial free operating cash flow, but that the company will also remain acquisitive and
+leverage will remain at or above 3x over the next two years.
+
+Downside scenario
+We could lower the rating if persistent reimbursement pressure or market share losses cause us to conclude that
+the clinical lab business is likely to be significantly more volatile over time, which might cause us to consider
+revising our view of business risk. We could also consider a lower rating if LabCorp aggressively pursues
+debt-financed acquisitions, leading us to believe that it will sustain leverage above 4x for an extended period.
+
+Upside scenario
+We could consider a higher rating if LabCorp adopts more conservative financial policies. Should leverage decline
+below 3x on a sustainable basis, due to more limited acquisitions and share repurchases, we could consider an
+upgrade. However, given the company's strategic focus on expanding its contract research organization (CRO)
+presence through acquisitions, we view this as unlikely over the next two years.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 3
+
+Laboratory Corp. of America Holdings
+
+Assumptions
+
+• Revenue increase of only about 1% in 2019,
+reflecting an expected 3% decline in the laboratory
+diagnostics business, and 8% growth in the CRO
+segment. We expect revenue growth in 2020 to
+improve to 3.5%-4.0%, which excludes the impact of
+items that hurt 2019 revenues including divestitures
+and currency swings. We expect organic growth
+trends in the lab business to remain below the
+Center for Medicare and Medicaid Services
+published 5.5% annual growth rate in health care
+spending, owing to reimbursement pressures.
+
+Key Metrics
+
+2018A 2019E 2020E
+Revenue growth (%)
+
+11
+
+1.2
+
+3.6
+
+EBITDA margin (%)
+
+19.2
+
+19.4
+
+19.5
+
+3.0
+
+3.1
+
+3.0
+
+Debt/EBITDA (x)
+
+A--Actual. E—Estimate.
+
+• Relatively flat adjusted EBITDA margins in the
+19%-20% range which incorporates minimal pricing
+growth in the laboratory business, faster growth in
+the lower-margin CRO business, and cost savings.
+• Annual capital spending of $375 million to $425
+million.
+• Excess cash flow and debt capacity to be used for
+acquisitions and share repurchases.
+
+Company Description
+Laboratory Corp. of America provides clinical laboratory services through its LabCorp Diagnostics segment, and
+clinical drug development services through its Covance Drug Development segment. It is one of the two leaders in the
+U.S. diagnostic testing industry, with a nationwide network of labs and patient service centers.
+
+Business Risk: Strong
+LabCorp uses its extensive menu of tests to treat and monitor an exceptionally wide range of medical conditions, and
+we view this diversity favorably. Taking advantage of its large scale and scope, we believe LabCorp is a low-cost
+provider with highly efficient operations. Further, in 2015 the company enhanced its business diversity with its
+entrance into the contract research organization with the acquisition of Covance. Given minimal organic growth in the
+diagnostic laboratory business, the CRO business has become a very important source for enterprise growth both
+organically and inorganically. The company continues to enhance this segment with acquisitions including the 2017
+acquisition of Chiltern, and the 2019 acquisition of the nonclinical contract research services business from Envigo.
+The CRO business increases opportunities for the company's testing business and somewhat mitigates reimbursement
+risk given the company's pharmaceutical company-focused customer mix.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 4
+
+Laboratory Corp. of America Holdings
+
+While the company is one of two leading players in the clinical laboratory testing market, we believe it has limited
+pricing power, and expect the industry will face persistent reimbursement pressure from government and commercial
+payors. Although we expect typically very modest increases in average revenue per test from commercial payors, the
+company will be somewhat burdened by rate reductions from Medicare through 2020 with rate cuts under PAMA. The
+PAMA cuts contribute nearly 1% margin decline. While we estimate less than 10% of LabCorp's revenues are directly
+exposed to PAMA reductions, we believe commercial payors may ultimately seek rate reductions consistent with
+Medicare's.
+Although reimbursement cuts remain a risk, we believe LabCorp's scale and superior operating efficiency leaves it
+better positioned to weather adverse reimbursement changes relative to smaller peers. We think that the PAMA rate
+cuts may provide opportunities for LabCorp and other large players to consolidate the market. The company's
+presence in the contract research business reduces its reliance on Medicare reimbursement in particular and provides
+solid mid- to high-single-digit growth.
+We believe the company's scale has contributed, and will continue to contribute, to EBITDA margins that have been
+very stable relative to health care services peers, reflecting the company's historical ability to offset rate cuts with cost
+efficiencies and its relatively limited exposure to bad debt from uninsured (or underinsured) patients. For these
+reasons, we also view LabCorp as less exposed to certain legislative developments, such as those intended to weaken
+the Affordable Care Act, such as the elimination of the individual mandate, relative to other health care service
+providers.
+
+Peer comparison
+Table 1
+
+Laboratory Corp. of America Holdings--Peer Comparison
+Industry Sector: Health care services
+Laboratory Corp. of
+America Holdings
+
+Quest Diagnostics Inc.
+
+Becton Dickinson & Co.
+
+IQVIA Holdings Inc.
+
+BBB/Stable/--
+
+BBB+/Stable/--
+
+BBB/Stable/A-2
+
+BB+/Stable/--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+Revenue
+
+11,333.4
+
+7,531.0
+
+15,983.0
+
+10,412.0
+
+EBITDA
+
+2,176.1
+
+1,646.0
+
+4,687.0
+
+2,163.0
+
+Funds from operations
+(FFO)
+
+1,485.9
+
+1,349.3
+
+3,713.8
+
+1,513.4
+
+Interest expense
+
+288.5
+
+205.7
+
+770.2
+
+454.6
+
+Cash interest paid
+
+340.5
+
+212.7
+
+738.2
+
+438.6
+
+1,457.2
+
+1,340.3
+
+2,887.8
+
+1,381.4
+
+379.8
+
+383.0
+
+853.0
+
+459.0
+
+1,077.4
+
+957.3
+
+2,034.8
+
+922.4
+
+323.0
+
+315.3
+
+1,107.8
+
+(513.6)
+
+Ratings as of Aug. 28,
+2019
+
+--Fiscal year ended Sept. --Fiscal year ended Dec.
+30, 2018-31, 2018--
+
+(Mil. $)
+
+Cash flow from
+operations
+Capital expenditure
+Free operating cash flow
+(FOCF)
+Discretionary cash flow
+(DCF)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 5
+
+Laboratory Corp. of America Holdings
+
+Table 1
+
+Laboratory Corp. of America Holdings--Peer Comparison (cont.)
+Industry Sector: Health care services
+Laboratory Corp. of
+America Holdings
+
+Quest Diagnostics Inc.
+
+Becton Dickinson & Co.
+
+IQVIA Holdings Inc.
+
+BBB/Stable/--
+
+BBB+/Stable/--
+
+BBB/Stable/A-2
+
+BB+/Stable/--
+
+426.8
+
+135.0
+
+1,157.0
+
+938.0
+
+Debt
+
+6,438.4
+
+4,333.0
+
+21,928.7
+
+11,002.0
+
+Equity
+
+6,990.5
+
+5,344.0
+
+20,994.0
+
+6,954.0
+
+EBITDA margin (%)
+
+19.2
+
+21.9
+
+29.3
+
+20.8
+
+Return on capital (%)
+
+10.0
+
+12.4
+
+7.5
+
+4.3
+
+EBITDA interest
+coverage (x)
+
+7.5
+
+8.0
+
+6.1
+
+4.8
+
+FFO cash interest
+coverage (x)
+
+5.4
+
+7.3
+
+6.0
+
+4.5
+
+Ratings as of Aug. 28,
+2019
+Cash and short-term
+investments
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+3.0
+
+2.6
+
+4.7
+
+5.1
+
+FFO/debt (%)
+
+23.1
+
+31.1
+
+16.9
+
+13.8
+
+Cash flow from
+operations/debt (%)
+
+22.6
+
+30.9
+
+13.2
+
+12.6
+
+FOCF/debt (%)
+
+16.7
+
+22.1
+
+9.3
+
+8.4
+
+5.0
+
+7.3
+
+5.1
+
+(4.7)
+
+DCF/debt (%)
+Source: S&P Global Ratings.
+
+We compare LabCorp to another leading lab company, Quest Diagnostics Inc. These companies are clearly the two
+largest independent lab companies in the U.S. LabCorp is larger based on total revenues, but Quest is larger than
+LabCorp's diagnostic lab segment. Quest's margins are about 250 basis points higher than LabCorp, mostly due to the
+impact of the lower margin produced by LabCorp's drug development segment (Covance). However LabCorp has
+greater diversity, with about 38% of its revenue derived from Covance. Reimbursement risk is reasonably comparable
+for both companies as both generate less than 20% revenues from government.
+In general, laboratory providers have high fixed costs, giving both Quest and LabCorp a clear margin advantage
+compared with all the smaller peers as they can leverage these costs more efficiently.
+LabCorp has a more aggressive financial policy than Quest, resulting in higher leverage. LabCorp is more aggressive in
+acquisition activity having spent over $2 billion over the past two years. Most of that spending was to enter into, and
+continue to increase the size of its CRO through acquisitions. We expect Quest's leverage to remain in the 2x-3x range
+while we expect LabCorp to remain in 3x-4x range.
+
+Financial Risk: Significant
+The company remains aggressive with acquisitions but has demonstrated its ability to reduce debt leverage. Adjusted
+leverage, which increased to over 4x (pro forma for the 2015 acquisition of Covance) declined to the low-3x area in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 6
+
+Laboratory Corp. of America Holdings
+
+2016, and has remained there. Adjusted leverage was 3.3x as of June 30, 2019. We expect LabCorp to generate about
+$1 billion of annual free operating cash flow in 2019 and 2020. However, we expect the company to prioritize strategic
+investments, business growth, and return of capital to shareholders over reducing leverage. Hence, we expect leverage
+to remain in the low-3x area. We believe LabCorp is likely to remain a consolidator within the clinical laboratory
+space, and we believe the company could also seek to bolster its CRO business through further acquisitions. For these
+reasons, while we believe the company could temporarily reduce leverage below 3x in 2019, we do not believe it is
+committed to permanently reducing leverage below 3x, as would be required for a higher rating.
+
+Financial summary
+Table 2
+
+Laboratory Corp. of America Holdings--Financial Summary
+Industry Sector: Healthcare Services
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+11,333.4
+
+10,205.9
+
+9,437.2
+
+8,505.7
+
+6,011.6
+
+EBITDA
+
+2,176.1
+
+2,211.6
+
+1,970.2
+
+1,582.3
+
+1,310.1
+
+Funds from operations (FFO)
+
+1,485.9
+
+1,583.5
+
+1,385.4
+
+1,147.5
+
+887.5
+
+288.5
+
+276.1
+
+247.5
+
+294.2
+
+130.2
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+Free operating cash flow (FOCF)
+
+340.5
+
+280.1
+
+239.1
+
+185.4
+
+138.5
+
+1,457.2
+
+1,611.2
+
+1,279.0
+
+1,054.8
+
+839.4
+
+379.8
+
+315.4
+
+278.9
+
+255.8
+
+203.5
+
+1,077.4
+
+1,295.8
+
+1,000.1
+
+799.0
+
+635.9
+
+Discretionary cash flow (DCF)
+
+323.0
+
+956.7
+
+954.1
+
+799.0
+
+365.7
+
+Cash and short-term investments
+
+426.8
+
+316.7
+
+433.6
+
+716.4
+
+580.0
+
+Gross available cash
+
+426.8
+
+316.7
+
+433.6
+
+716.4
+
+580.0
+
+Debt
+
+6,438.4
+
+7,626.8
+
+6,183.2
+
+6,260.2
+
+2,951.6
+
+Equity
+
+6,990.5
+
+6,850.8
+
+5,521.0
+
+4,959.3
+
+2,838.2
+
+EBITDA margin (%)
+
+19.2
+
+21.7
+
+20.9
+
+18.6
+
+21.8
+
+Return on capital (%)
+
+Adjusted ratios
+
+10.0
+
+10.9
+
+11.7
+
+12.0
+
+16.6
+
+EBITDA interest coverage (x)
+
+7.5
+
+8.0
+
+8.0
+
+5.4
+
+10.1
+
+FFO cash interest coverage (x)
+
+5.4
+
+6.7
+
+6.8
+
+7.2
+
+7.4
+
+Debt/EBITDA (x)
+
+3.0
+
+3.4
+
+3.1
+
+4.0
+
+2.3
+
+FFO/debt (%)
+
+23.1
+
+20.8
+
+22.4
+
+18.3
+
+30.1
+
+Cash flow from operations/debt (%)
+
+22.6
+
+21.1
+
+20.7
+
+16.8
+
+28.4
+
+FOCF/debt (%)
+
+16.7
+
+17.0
+
+16.2
+
+12.8
+
+21.5
+
+5.0
+
+12.5
+
+15.4
+
+12.8
+
+12.4
+
+DCF/debt (%)
+Source: S&P Global Ratings.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 7
+
+Laboratory Corp. of America Holdings
+
+Liquidity: Adequate
+In our assessment, LabCorp's liquidity is adequate. This reflects sources of liquidity that we expect to exceed uses by
+over 1.5x. We believe net sources will be positive even with a 30% decline in EBITDA. We expect the company's
+covenant headroom to be greater than 15%. We arrived at the adequate liquidity assessment because we do not
+believe the company could weather a high-impact, low-probability event without needing to refinance (principally due
+to the relatively high proportion of short-term debt maturities) and our belief the company would likely continue the
+recently reintroduced share repurchase program even under a moderate stress scenario.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About $265 million of cash as of June 30, 2019;
+
+• About $400 million in capital spending;
+
+• The $1 billion revolver, with only $35 million
+outstanding at June. 30, 2019; and
+
+• About $500 million in debt maturing over the next
+12 months; and
+
+• About $1.4 billion in expected 2019 funds from
+operations (FFO).
+
+• Modest working capital usage.
+
+Debt maturities
+As of June 30, 2019
+• 2019: Zero
+• 2020: $1,100 million
+• 2021: $850 million
+• 2022: $1,277 million
+• 2023: $300 million
+
+Covenant Analysis
+Compliance expectations
+LabCorp must maintain total leverage below 4x. The cushion under the covenant was 15% as of June 30, 2019. There
+are no step-downs and we do not expect the cushion to fall below this level.
+
+Capital structure
+LabCorp's capital structure includes senior unsecured credit facilities, senior unsecured notes, and subordinated
+convertible subordinated notes. We rate the senior unsecured debt 'BBB' (the same as the issuer credit rating). The
+company's convertible notes are structurally subordinated to the company's senior unsecured debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 8
+
+Laboratory Corp. of America Holdings
+
+Environmental, Social, And Governance
+
+For LabCorp we believe social factors are more material to the rating than environmental ones. Lab companies
+provide important services that support the health care industry's ability to test for and diagnose diseases and
+conditions. LabCorp also supports the important function of drug development through its CRO segment. Lab
+testing is also an important diagnostic service that supports cost control efforts. These factors require strong,
+sophisticated management to understand the issues and follow the appropriate strategy. LabCorp's governance has
+effectively managed its aggressive financial policy, which is to use all its free cash flow for acquisitions and share
+buybacks.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Laboratory Corp. of America Holdings Reported Amounts With S&P Global Ratings'
+Adjusted Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Laboratory Corp. of America Holdings reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+6,059.8
+
+6,971.4
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+1,880.1
+
+1,325.7
+
+244.2
+
+2,176.1
+
+1,305.4
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(349.7)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(296.2)
+
+--
+
+Operating leases
+
+632.6
+
+--
+
+196.1
+
+44.3
+
+44.3
+
+(44.3)
+
+151.8
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+105.9
+
+--
+
+8.5
+
+8.5
+
+--
+
+--
+
+--
+
+(426.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+91.6
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+10.7
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+19.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Workers
+compensation/self insurance
+
+55.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Tax liabilities
+
+11.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.2)
+
+(0.2)
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+EBITDA: Other
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 9
+
+Laboratory Corp. of America Holdings
+
+Table 3
+
+Reconciliation Of Laboratory Corp. of America Holdings Reported Amounts With S&P Global Ratings'
+Adjusted Amounts (Mil. $) (cont.)
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+Total adjustments
+
+--
+
+--
+
+--
+
+2.3
+
+--
+
+--
+
+--
+
+378.6
+
+19.1
+
+296.0
+
+65.6
+
+44.3
+
+(690.2)
+
+151.8
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+1,485.9
+
+1,457.2
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+6,438.4
+
+6,990.5
+
+2,176.1
+
+1,391.3
+
+288.5
+
+Source: S&P Global Ratings.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Moderate (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Guidance | Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 10
+
+Laboratory Corp. of America Holdings
+
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Health Care Services Industry, April 16, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 5, 2019)*
+Laboratory Corp. of America Holdings
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+Subordinated
+
+BBB-
+
+Issuer Credit Ratings History
+21-Jan-2015
+
+BBB/Stable/--
+
+03-Nov-2014
+
+BBB+/Watch Neg/--
+
+13-Dec-2013
+
+BBB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 12
+
+

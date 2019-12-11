@@ -1,0 +1,1435 @@
+Gates Global LLC
+Primary Credit Analyst:
+David Binns, CFA, New York (1) 212-438-3604; david.binns@spglobal.com
+Secondary Contact:
+Nishit K Madlani, New York (1) 212-438-4070; nishit.madlani@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+Gates Global LLC
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong market position for core products like belts, hoses,
+pulleys, etc.
+
+Moderately exposed to the cyclical and highly fragmented original equipment
+end markets.
+
+Highly variable cost structure
+
+Aggressive financial policies
+
+Fair end-market and balanced geographic diversity
+
+High leverage despite debt reduction post IPO
+
+EBITDA margins will remain under pressure amid low industry volumes.Gates recently cut its 2019 organic growth
+target (now expects a decline of 5%-7%) because of slowing demand in industrial end markets (58% of 2018 revenue).
+This decline in organic sales will be the worst decline since 2009 (when the company's organic sales declined nearly
+15%). This coincides with increased odds of a recession in North America, soft conditions in the automotive original
+equipment (OE) demand (especially in China and Europe), as well as destocking pressures in the relatively resilient
+auto replacement market. We expect the largest downside risks to persist in its industrial end-markets, including the
+agriculture end market where many of its replacement channel partners, particularly in North America, are likely to
+curb order activity after de-stocking inventory in the last quarter. We also expect some pressure to build from a weak
+construction end market in China. This will exacerbate the company's historical suboptimal capacity utilization. Hence,
+we incorporate weaker margins over the next 12 months and any improvement beyond 2020 is highly contingent on
+more favorable market conditions and smooth execution of management's cost reduction efforts.
+Aggressive financial policies by the company's sponsor remains a key risk. Post the IPO in 2018, Blackstone still owns
+about 85% of the company. As a result, the company remains exposed to debt-funded dividends or share repurchases
+tied to Blackstone and hence we do not assume any significant deleveraging will occur over the next 12 months. We
+expect Gates to maintain debt to EBITDA (including our adjustments for unfunded pension and other postretirement
+employee benefits liabilities and operating leases) around 4.5x-5.0x over the next two years.
+Management appears committed to debt reduction and expects to reduce working capital levels as well as capital
+expenditures (capex) in the second half of this year, but will not achieve its stated goal of bringing net leverage below
+3x in 2019. This compares to 3.7x (per management calculations) for the 12 months ended June 30, 2019. While the
+IPO transaction in early 2018 reduced the company's leverage, debt to EBITDA (based on our adjustments, which do
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+Gates Global LLC
+
+not net cash against debt) is likely to rise above 5.0x in 2019 (well above the 2018 level of 4.3x).
+Gates end-market diversity remains a positive credit factor. Gates remains moderately exposed to the cyclical and
+highly fragmented OE (first fit) end markets but the majority of sales (about 62% of sales in 2018) come from the less
+cyclical automotive and industrial aftermarkets. During the past few recessions, the replacement businesses
+decelerated early but also led the recovery sooner than its first-fit segments.
+Because company's products perform critical functions in systems where the cost of failure is exceptionally high
+relative to the cost of belts and hoses, its customers need to follow replacement cycles, which should lead to a
+recovery.
+Geographic Diversity: Peer Comparison
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+Gates Global LLC
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on Gates Global LLC reflects our view that despite softness in its end-markets,
+the company should be able to generate a free operating cash flow (FOCF)-to-debt ratio of more than 5%, and
+maintain debt to EBITDA in the around 5.0x over the next 12 months. These metrics are consistent with our
+expectations for the current rating.
+
+Downside scenario
+We could lower our ratings on Gates Global over the next 12 months if prolonged softness in the company's
+industrial end markets increases the likelihood that its FOCF-to-debt ratio will fall to less than 5% on a sustained
+basis. Alternately, we could also lower our ratings on Gates if it pursues debt-financed acquisitions, shareholder
+distributions, or any other activity that would increase its leverage above our expectations for the rating. Gates'
+growth strategy focuses on emerging-market growth. Investments abroad entail risk and could stifle Gates' growth
+if there are any missteps along the way.
+We could lower the ratings within the next 12 months if cost-reduction efforts and working-capital reduction does
+not lead to FOCF above 5% on a sustained basis.
+
+Upside scenario
+Though improbable over the next 12 months, we could raise our ratings on Gates Global if its leverage approaches
+4.0x and its FOCF to debt would be at least 10% on sustained basis. We would also have to see significantly
+improved operating performance, which could result from cost reductions. This scenario would also assume the
+company does not undertake any major debt-funded acquisitions or shareholder distributions leading up to the
+ultimate exit of financial sponsor Blackstone Group L.P.(which would cause us to reassess the company's financial
+policy).
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+Gates Global LLC
+
+Assumptions
+
+• U.S. GDP growth is poised to slow down this year to
+2.2% from 2.9% in 2018, and further weakening to
+1.7% in 2020. We estimate a 30%-35% risk of
+recession within the next 12 months. European GDP
+growth of 1.3% in 2019, 1.9% in 2020, and 1.8% in
+2021; and Asia-Pacific GDP growth of 5.2% in 2019,
+5.3% in 2020 and 5.4% in 2021.
+
+Key Metrics
+
+2018A
+EBITDA margin (%)
+
+2019E
+
+2020E
+
+2021E
+
+22.4 19.5-20.5 20.0-20.5 20.5-21.0
+
+Debt/EBITDA (x)
+
+4.3
+
+5.9-5.2
+
+4.5-5.0
+
+4.5-5.0
+
+FOCF/debt (%)
+
+4.6
+
+5.0-6.0
+
+5.0-6.0
+
+5.0-8.0
+
+A--Actual. E--Estimated. FFO--Funds from operations.
+
+• Global light vehicle volume growth to be down in
+2019, primarily due to weaker sales in the U.S. and
+China. We expect stabilization in 2020, with only
+modest growth in China and flat sales in Europe,
+offsetting still-declining volumes in the U.S.
+• U.S. industrial equipment investment growth in the
+2.0%-3.0% range. Global miles driven, which is a key
+factor in the vehicle-repair industry, increases in line
+with global GDP growth.
+• Revenues expected to be down high-single digits in
+2019 with low-single-digit percent organic sales
+growth in 2020 and 2021 based on the company's
+exposure to the automotive end markets and its
+industrial end markets.
+• EBITDA margins down nearly 300 basis points (bps)
+year over year in 2019 after incorporating the
+impact of lower volumes on fixed overheads and
+ongoing restructuring-related expenses. Modest
+recovery in 2020 and 2021.
+• No material acquisitions or divestitures over the
+next two years.
+
+Base-case projections
+We expect Gates Global's FOCF to debt to remain relatively flat from 2018 levels mainly due to reduced capex despite
+lower EBITDA margins.
+
+Company Description
+Gates Global LLC is a leading global manufacturer of power transmission belts and fluid power products that are
+highly engineered and critical components used in diverse industrial and automotive applications, with aftermarket
+revenue representing around 62% of sales of approximately $3.3 billion revenues for 2018. Gates became a portfolio
+company of The Blackstone Group in 2014. Post-IPO in early 2018, Blackstone remains the controlling shareholder,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+Gates Global LLC
+
+with approximately 85% of the common shares of Gates Industrial Corporation plc, a newly formed parent holding
+company for Gates Global LLC.
+
+Business Risk: Fair
+We expect Gates to maintain resilient business prospects (relative to most 'B+' issuers) given its relatively large scale
+and strong competitive position as a premium product provider. This should help Gates sustain the market position of
+its core products (Gates-branded belts, hoses, pulleys, and related products) in the automotive and industrial markets.
+We continue to believe Gates will maintain its good geographic diversity. Nearly half of the revenue from the Gates
+brand is tied to North America and over 22% from the Asia-Pacific region. These are markets where economic
+conditions are currently more favorable than in Europe, Latin America, the Middle East, and Africa.
+We expect the company to maintain and improve its competitive advantage from end users switching from chains to
+belts for their industrial applications. Gates products can be retrofit onto existing applications where chains are used,
+both supporting Gates' aftermarket business and providing the end-user enhancements over traditional chains.
+In the fluid power segment (35% of sales)--recent capex investments should help position Gates well for growth,
+particularly at a time where there is not significant excess capacity in the industry. The management team has made
+large investments in industrial applications through new products and associated footprint to cater to demand in
+hydraulics, including a plant in China. These investments should help position Gates well for growth, at a time where
+there is modest excess capacity in the industry. However, given recent demand weakness, we expect some pressure
+on overall profitability as the new plants will have excess capacity. We assume that Gates' management will look to be
+conservative and lower fixed costs through pulling-forward planned restructuring through reduction of production
+headcount and selling, general, and administrative expenses (SG&A) control.
+
+Peer comparison
+Gates' past track record of effectively managing its costs with consistent above-average EBITDA margins, modest
+capital intensity, and debt reduction after its IPO, will likely support a higher FOCF-to-debt ratio than most of the
+entities that we rate 'B', even in a modest downside scenario. Hence, there is a fair likelihood that over time, the
+company can sustain credit metrics appropriate for the current rating, given its strong market position and history of
+steady cash flow generation.
+Table 1
+
+Gates Global LLC -- Peer Comparison
+Industry Sector: Automotive - Parts Producers & Suppliers
+
+Rating as of May 13, 2019
+
+(Mil. Mix curr.)
+
+Gates Global LLC
+
+American Axle &
+Manufacturing Holdings Inc.
+
+Stoneridge Inc.
+
+TI Fluid Systems plc
+
+B+/Stable/--
+
+BB-/Stable/--
+
+BB/Stable/--
+
+BB-/Stable/--
+
+--Fiscal year ended Dec.
+29, 2018--
+
+--Fiscal year ended Dec. 31, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+$
+
+$
+
+$
+
+€
+
+Revenues
+
+3347.6
+
+7270.4
+
+866.199
+
+3472.8
+
+EBITDA
+
+749.3
+
+1162.55
+
+107.6225
+
+477.85
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+Gates Global LLC
+
+Table 1
+
+Gates Global LLC -- Peer Comparison (cont.)
+Industry Sector: Automotive - Parts Producers & Suppliers
+American Axle &
+Manufacturing Holdings Inc.
+
+Gates Global LLC
+
+Stoneridge Inc.
+
+TI Fluid Systems plc
+
+FFO
+
+464.9
+
+882.0
+
+88.1
+
+316.1
+
+Interest Expense
+
+191.6
+
+251.2
+
+6.0
+
+74.6
+
+Cash Interest Paid
+
+170.4
+
+234.6
+
+6.3
+
+73.6
+
+Cash flow from operations
+
+326.1
+
+766.1
+
+85.1
+
+289.9
+
+Capital expenditures
+
+178.2
+
+496.8
+
+29.0
+
+116.2
+
+Free operating cash flow
+
+147.9
+
+269.3
+
+56.1
+
+173.7
+
+Discretionary cash flow
+
+112.7
+
+265.6
+
+51.9
+
+151.2
+
+Cash and short-term
+investments
+
+423.4
+
+476.4
+
+81.1
+
+358.6
+
+Debt
+
+3242.5
+
+3797.1
+
+121.6
+
+1414.9
+
+Equity
+
+2333.7
+
+1486.3
+
+283.3
+
+1080.1
+
+EBITDA margin (%)
+
+22.4
+
+16.0
+
+12.4
+
+13.8
+
+Return on capital (%)
+
+9.1
+
+10.7
+
+17.7
+
+11.7
+
+EBITDA interest coverage
+(x)
+
+3.9
+
+4.6
+
+17.9
+
+6.4
+
+FFO cash interest
+coverage (x)
+
+3.7
+
+4.8
+
+15.0
+
+5.3
+
+Debt/EBITDA (x)
+
+4.3
+
+3.3
+
+1.1
+
+3.0
+
+FFO/debt (%)
+
+14.3
+
+23.2
+
+72.5
+
+22.3
+
+Cash flow from
+operations/debt (%)
+
+10.1
+
+20.2
+
+70.0
+
+20.5
+
+Free operating cash
+flow/debt (%)
+
+4.6
+
+7.1
+
+46.1
+
+12.3
+
+Discretionary cash
+flow/debt (%)
+
+3.5
+
+7.0
+
+42.7
+
+10.7
+
+Adjusted ratios
+
+Source: S&P Global Ratings.
+
+Financial Risk: Highly leveraged
+The quicker-than-expected slowdown in Gates' industrial end markets amid soft conditions in its automotive
+end-markets over the next 12-18 months will reduce the likelihood of any significant debt reduction from elevated
+levels.
+We do not assume any significant deleveraging will occur over the next 24 months months because Blackstone still
+retains control of voting power and has pursued an aggressive financial strategy with its other portfolio entities in the
+past, using debt and debt-like instruments to maximize shareholder returns.
+Following the slight reduction in growth capex in 2019 and 2020, we expect FOCF to improve and stay in line with our
+expectations for the rating over the next two years. The company also has a good track record in reducing net working
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+Gates Global LLC
+
+capital requirements and we assume some improvement in inventory levels through the course of the next 12 months.
+
+Financial summary
+Table 2
+
+Gates Global LLC--Yearly Data
+Industry Sector: Automotive - Parts Producers & Suppliers
+--Fiscal year ended Dec. 29-2018
+
+2017
+
+B+/Stable/--
+
+B+/Stable/--
+
+Public
+
+Public
+
+3,347.6
+
+3,041.7
+
+EBITDA
+
+749.3
+
+650.4
+
+FFO
+
+464.9
+
+360.6
+
+Interest Expense
+
+191.6
+
+247.8
+
+Cash Interest Paid
+
+170.4
+
+205.0
+
+Cash flow from operations
+
+326.1
+
+333.6
+
+Capital expenditures
+
+178.2
+
+111.1
+
+Free operating cash flow
+
+147.9
+
+222.5
+
+Discretionary cash flow
+
+112.7
+
+196.3
+
+Cash and short-term investments
+
+423.4
+
+564.4
+
+Rating history
+Company status: Public
+(Mil. $)
+Revenues
+
+Gross available cash
+
+423.4
+
+566.8
+
+Debt
+
+3,242.5
+
+4,174.5
+
+Equity
+
+2,333.7
+
+1,428.4
+
+EBITDA margin (%)
+
+22.4
+
+21.4
+
+Return on capital (%)
+
+9.1
+
+7.7
+
+EBITDA interest coverage (x)
+
+3.9
+
+2.6
+
+FFO cash interest coverage (x)
+
+3.7
+
+2.8
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.3
+
+6.4
+
+FFO/debt (%)
+
+14.3
+
+8.6
+
+Cash flow from operations/debt (%)
+
+10.1
+
+8.0
+
+Free operating cash flow/debt (%)
+
+4.6
+
+5.3
+
+Discretionary cash flow/debt (%)
+
+3.5
+
+4.7
+
+FFO--Funds from operations.
+Source: S&P Global Ratings.
+
+Liquidity: Adequate
+We believe Gates has adequate liquidity sources to cover its needs over the next 12-18 months or so, even if its
+EBITDA were to decline unexpectedly.
+Our assessment of Gates' liquidity incorporates the following expectations and assumptions:
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+Gates Global LLC
+
+• Liquidity sources, including cash and facility availability, will be at least 1.2x uses or more over the next 12-18
+months.
+• The company's net sources will remain positive, even if its EBITDA declines by more than 15%.
+• We believe Gates has sound relationships with its banks.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash on hand of about $411 million as of June 30,
+2019;
+
+• Annual capital spending normalizing to around $110
+million over the next 12 months;
+
+• Total committed borrowing headroom of about
+$456.2 million on its asset-backed revolving credit
+facility (which had a borrowing base of $325.0
+million) and its secured revolving credit facility that
+provides for multicurrency revolving loans up to
+$185.0 million; and
+
+• Modest working capital outflows in 2019; and
+• Manageable debt amortization on the company's
+secured term loans.
+
+• Funds from operations of more than $350 million
+annually, per our estimates.
+
+Debt maturities
+Table 3
+
+Debt Maturity Schedule
+(Mil. $)
+Gates Global LLC
+2019
+
+25
+
+2020
+
+25
+
+2021
+
+25
+
+2022
+
+593
+
+2023
+
+25
+
+Thereafter
+
+2,334
+
+As of Dec. 31, 2018. Source: S&P Global Ratings.
+
+Covenant Analysis
+We do not expect the springing net leverage ratio test under the company's bank credit facilities (which is triggered
+when the availability under the revolving credit facility falls below a certain level) will be triggered under our base case
+scenario.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+Gates Global LLC
+
+Other Credit Considerations
+We applied a positive one-notch adjustment to our anchor on Gates to reflect the company's ability to generate a
+significant free cash flow-to-debt ratio, which we expect will be in the 5%-10% range over the next two years. We
+believe Gates' past track record of effectively managing its cost base with consistent above-average EBITDA margins
+and modest capital intensity will likely support a somewhat higher FOCF-to-debt ratio than most of the entities that we
+rate 'B', even in a modest downside scenario.
+
+Environmental, Social, And Governance
+
+Environmental risks will have an increasing influence in our assessment of Gates' competitive advantage over the
+next few years. Gates' fluid power and to a lesser extent, transmission products, will allow it to obtain higher
+content per vehicle as more internal combustion engines start to feature start/stop technology on mild and full
+hybrids. We also positively view Gates ability to win business by reducing potential environmental hazards at some
+industrial customers by offering cleaner and more efficient belt solutions.
+Social risks remain manageable because the company has a minimal amount of employees that fall under
+collective bargaining agreements with various labor unions relative to most tier 1 suppliers. Risks related to
+changing consumer preferences are less likely to directly affect Gates over the next decade because demand for
+the company's products will be largely unaffected by trends such autonomous-driving technology. Products like its
+advanced belts can ensure more safety by avoiding fire- and slip-related hazards from greasy buildups around
+chains.
+Governance risks are moderate. Gates will likely extend its record of accomplishment of disciplined capital
+allocation and steady cash flow toward deleveraging. We assume large share buybacks, mergers and acquisitions
+or dividends will resume if Gates achieves debt reduction goals.
+
+Issue Ratings - Recovery Analysis
+• Our '3' recovery rating on Gates' senior secured debt and our '5' recovery rating on the company's unsecured debt
+are unchanged.
+
+Key analytical factors
+• Our simulated default scenario assumes a payment default in 2023 reflecting a sustained economic downturn that
+reduces customer demand for new automobiles, intense pricing pressure from competitors, and execution
+challenges related to the ramp-up of new technologies and product offerings;
+• This, in turn, would hurt the company's ability to generate free cash flow;
+• We valued the company on a going-concern basis using a 5.5x multiple of our projected emergence EBITDA;
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+Gates Global LLC
+
+• The senior secured bank debt has a second-lien on the asset-based lending (ABL) revolver's assets and perfected
+first-liens on most of the remaining domestic assets;
+• We estimate that for the company to default its EBITDA would need to decline by about 40% from estimated 2018
+levels, representing a significant deterioration in its business;
+• The recovery analysis is dependent on the domestic operations of Gates, but we note that a majority of the
+nonguarantors that are 100%-owned also provide 100% pledges of their shares under the credit agreement and ABL
+revolver; and
+• The majority of the company's U.S. subsidiaries are guarantors of the senior secured credit facilities.
+
+Simulated default assumptions
+• LIBOR of 250 bps.
+• A 60% draw under the $325 million ABL revolver at default, which is a standard assumption under our criteria. We
+assume about $51 million of undrawn letters of credit (LOC) on the facility.
+• We believe that if Gates were to default, a viable business model would remain because of its credible customer
+base, strong book of business, and competitive global footprint. Therefore, we believe that debt holders would
+achieve the greatest recovery value through reorganization rather than through liquidation.
+• An 85% draw under the $185 million cash flow revolver at default, which is a standard assumption as per our
+criteria.
+• We assume the foreign lines of credit are 85% drawn at default.
+• Administrative claims of 5% of enterprise value, which is our standard assumption for the auto-supplier sector.
+• All debt includes six months of accrued prepetition interest at default.
+
+Simplified waterfall
+• Net enterprise value after 5% administrative costs: $1.7 billion
+• Priority claims: $147 million
+• Collateral value available to secured creditors: $1.3 billion
+• Senior secured debt: $2.6 billion
+• --Recovery expectations: Meaningful recovery (rounded estimate: 55%)
+• Senior unsecured debt: $585 million
+• Other pari passu unsecured claims: $1.28 billion
+• --Recovery expectations: Modest Recovery (rounded estimate: 10%)
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 12
+
+Gates Global LLC
+
+Table 4
+
+Reconciliation Of Gates Global LLC Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Gates Global LLC reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+1,947.4
+
+717.6
+
+498.5
+
+175.9
+
+749.3
+
+312.9
+
+182.7
+
+(114.0)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+3,005.0
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(157.9)
+
+--
+
+--
+
+125.2
+
+--
+
+25.7
+
+8.0
+
+8.0
+
+(8.0)
+
+17.7
+
+--
+
+88.6
+
+--
+
+--
+
+--
+
+3.2
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+4.5
+
+(4.5)
+
+(4.5)
+
+(4.5)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+6.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+4.0
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+386.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt - Workers
+compensation/self
+insurance
+
+8.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt - Tax liabilities
+
+14.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+D&A - Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+0.6
+
+--
+
+--
+
+--
+
+--
+
+237.5
+
+386.3
+
+31.7
+
+12.6
+
+15.7
+
+(284.4)
+
+13.2
+
+(4.5)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditures
+
+464.9
+
+326.1
+
+178.2
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+3242.5
+
+2333.7
+
+749.3
+
+511.1
+
+191.6
+
+Source: S&P Global Ratings.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Moderately high
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 13
+
+Gates Global LLC
+
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Auto Suppliers Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 14
+
+Gates Global LLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 9, 2019)*
+Gates Global LLC
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+B+
+
+Senior Unsecured
+
+B
+
+Issuer Credit Ratings History
+06-Jun-2014
+
+B+/Stable/--
+
+Related Entities
+Gates Global Co.
+Senior Unsecured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 16
+
+

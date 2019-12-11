@@ -1,0 +1,1512 @@
+Clean Harbors Inc.
+Primary Credit Analyst:
+Daniel Lee1, CFA, New York + 1 (212) 438 2716; daniel.lee1@spglobal.com
+Secondary Contact:
+Michael Tsai, New York + 1 (212) 438 1084; michael.tsai@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 1
+
+Clean Harbors Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb+
+
+bb+
+BB+/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Leading national player in the hazardous waste management space.
+
+Limited organic growth opportunities, due to mature end-markets
+served.
+
+High barriers to entry supported by the company's expansive waste
+assets, including incinerators and landfills.
+
+Ongoing bolt-on acquisitions and shareholder rewards likely to limit
+sustained improvement in credit metrics.
+
+Predictable, stable demand profile, supported by nondiscretionary
+nature of service offerings.
+
+Further upgrades are unlikely due to financial policies that don't
+support an investment-grade rating.
+
+Stable business fundamental should support modest EBITDA growth and maintain current credit metrics.Steady
+hazardous waste volumes combined with improved price/mix and ongoing operational improvement initiatives should
+support modest EBITDA growth and maintain credit metrics over the next 12 months.
+Future growth is highly dependent on acquisitions. Given the mature nature of its target end markets, Clean Harbors'
+organic growth options are limited. Therefore, we believe the company will largely depend on acquisitions for future
+revenue growth.
+Further upgrades are unlikely due to the company's financial policies. While Clean Harbor's leverage may improve
+below 3x, we do not believe the company is committed to maintaining the credit metrics and financial policies
+consistent with an investment-grade rating. Therefore, future ratings upside is limited.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 2
+
+Clean Harbors Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectations that steady end market demand will support modest EBITDA growth
+while maintaining leverage in the 3x-4x range. We expect the company to continue pursuing bolt-on acquisitions
+and shareholder rewards, but none that would cause leverage to exceed 4x on a sustained basis.
+
+Downside scenario
+Although highly unlikely, we could downgrade the company if we see a sustained decline in operating
+performance, such that leverage exceeds 4x with no foreseeable improvement in the near term. This could occur if
+sales decline by 400 basis points (bps) and operating margins by 400 bps below our base-case scenario. We could
+also downgrade the company if it pursues bolt-on acquisitions or shareholder rewards that result in credit metrics
+weakening to the aforementioned levels.
+
+Upside scenario
+An upgrade is highly unlikely over the next 12 months. The company is not committed to maintaining financial
+policies and credit measures consistent with an investment-grade rating. While leverage may improve to below 3x,
+we do not believe the company is committed to maintaining these levels and that it will prioritize acquisitions and
+shareholder rewards over improving credit metrics further.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020.
+
+2018A
+EBITDA margins (%)
+
+• Real investment growth of 2.7% in 2019 and 2.5% in
+2020.
+• Consolidated revenue growth in the mid-single-digit
+range, driven by low-single-digit organic growth in
+Environmental Services (ES) and Safety-Kleen (SK)
+and acquisition contributions.
+
+Debt to EBITDA (x)
+FFO to total debt (%)
+
+2019E
+
+2020E
+
+16.8 17.5-18.5 17.5-18.5
+3.1
+
+2.9
+
+2.8
+
+25.6
+
+27.6
+
+27.7
+
+FFO--Funds from operations. A--Actual. E--Estimated.
+
+• Adjusted EBITDA margins of 17.5%-18.5%.
+• Capital expenditure (capex) between $225
+million-$235 million.
+• Bolt-on acquisition and share repurchases of around
+$220 million-$230 million per year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 3
+
+Clean Harbors Inc.
+
+Company Description
+Massachusetts-based Clean Harbors is a vertically integrated provider of environmental, industrial, and waste
+management services. The company services over 300,000 customers through its North American network of over 100
+facilities, which includes nine incinerators and 11 landfills. Clean Harbors operates through two main segments, ES and
+SK. ES provides a comprehensive suite of services including industrial cleaning and maintenance, waste packaging and
+collection, transportation, and disposal of various hazardous materials. SK provides full lifecycle management of used
+solvents and oils, including the collection, processing/refinement, and eventual disposal, recycling, or redistribution of
+refined byproducts, such as synthetic oils. The company generated $3.3 billion in sales and $583 million in adjusted
+EBITDA for the 12 months ended June 30, 2019.
+
+Business Risk: Satisfactory
+Our assessment reflects Clean Harbors' established position as one of the few national players in the hazardous waste
+management space, its expansive landfill and incinerator assets, which support high barriers-to-entry, and its
+predictable, recurring revenue stream. These factors are somewhat offset by its mature end markets and exposure to
+oil price volatility.
+The hazardous waste management space has high barriers to entry, and stringent regulations governing the collection
+and processing of hazardous products, factors which benefit Clean Harbors' expansive waste disposal network. Per
+company estimates, its incinerators account for roughly 60% of total market capacity while its landfill account for
+about 30%. The company's landfills and incinerators are a key competitive advantage. New landfills and incinerators
+require significant capital investment, multiple years of development, and are subject to extensive regulations. As a
+result, most expansions are through existing facilities rather than through greenfield opportunities. These factors
+should support steady utilization rates and operating margins across Clean Harbors' landfill and incinerator network.
+The company enjoys predictable, recurring demand due to the nondiscretionary nature of its service offerings and
+tenured customer relationships. Hazardous waste, such as used cleaning solvents and oils, are a byproduct of various
+applications across end markets. As a result, the company serves a broad, diverse customer base, which provides
+relatively stable demand through economic cycles. Furthermore, we believe the company's vertically integrated
+operating platform and national presence support its tenured customer relationships and market position as a
+"one-stop shop" for their waste management needs.
+The key risk with Clean Harbors is that we believe long-term top-line growth opportunities are limited. Overall
+demand is tied to waste volumes, GDP growth trends, and industrial output. While waste volumes will fluctuate
+through the economic cycle, we believe it to be somewhat range bound, given the mature nature of the company's end
+markets. As a result, we believe Clean Harbors is primarily a profitability growth story, with improved price mix,
+cross-selling, and operating leverage its key drivers. We expect any sustained top-line growth to be through bolt-on
+acquisitions.
+The company is also susceptible to depressed oil prices. Low oil prices in 2016 hurt ES' operating performance due to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 4
+
+Clean Harbors Inc.
+
+its exposure to Western Canada oil sands. The company's refined oil products are also vulnerable to lower oil prices
+because its synthetic blends compete directly with virgin oils and lubricants.
+
+Peer comparison
+The peer group includes other players in the environmental services market, such as US Ecology, Stericycle, and
+Advanced Disposal Services. US Ecology is a direct competitor because it offers comprehensive hazardous waste
+management services on a national scale. It possesses the largest landfill asset base in the market (estimated at 36%),
+which will only increase with its recently announced merger with NRC Group Holdings. Stericycle offers similar waste
+management services but covers a larger range of waste streams, including medical disposal and documentation
+destruction. Advanced Disposal Services provides collection, transportation, and disposal of nonhazardous waste,
+primarily servicing eastern U.S.
+Table 1
+
+Peer Comparison
+Industry sector: environmental services
+Clean Harbors Inc. US Ecology Inc.
+Ratings as of Aug. 12, 2019
+
+BB+/Stable/--
+
+Stericycle Inc.
+
+Advanced Disposal Services Inc.
+
+BB/Stable/-- BBB-/Negative/--
+
+BB-/Stable/--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+3,300.3
+
+565.9
+
+3,485.9
+
+1,558.2
+
+EBITDA
+
+553.6
+
+133.7
+
+744.3
+
+403.7
+
+FFO
+
+432.2
+
+101.9
+
+591.8
+
+309.1
+
+Interest expense
+
+101.3
+
+16.8
+
+139.0
+
+115.6
+
+Cash interest paid
+
+101.3
+
+12.3
+
+126.1
+
+91.9
+
+Cash flow from operations
+
+411.5
+
+85.8
+
+259.8
+
+311.4
+
+Capital expenditure
+
+197.4
+
+40.8
+
+127.9
+
+187.8
+
+FOCF
+
+214.1
+
+45.1
+
+131.9
+
+123.6
+
+DCF
+
+169.0
+
+29.3
+
+89.2
+
+123.6
+
+Cash and short-term investments
+
+279.4
+
+32.0
+
+34.3
+
+6.8
+
+Debt
+
+1,688.6
+
+413.4
+
+3,227.6
+
+2,127.0
+
+Equity
+
+1,169.8
+
+359.2
+
+2,597.1
+
+911.5
+
+EBITDA margin (%)
+
+16.8
+
+23.6
+
+21.4
+
+25.9
+
+Return on capital (%)
+
+6.9
+
+12.1
+
+6.1
+
+4.2
+
+EBITDA interest coverage (x)
+
+5.5
+
+7.9
+
+5.4
+
+3.5
+
+FFO cash interest coverage (x)
+
+5.3
+
+9.3
+
+5.7
+
+4.4
+
+Debt/EBITDA (x)
+
+3.1
+
+3.1
+
+4.3
+
+5.3
+
+FFO/debt (%)
+
+25.6
+
+24.6
+
+18.3
+
+14.5
+
+Cash flow from operations/debt (%)
+
+24.4
+
+20.8
+
+8.0
+
+14.6
+
+FOCF/debt (%)
+
+12.7
+
+10.9
+
+4.1
+
+5.8
+
+DCF/debt (%)
+
+10.0
+
+7.1
+
+2.8
+
+5.8
+
+Adjusted ratios
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 5
+
+Clean Harbors Inc.
+
+Financial Risk: Significant
+Our assessment reflects our expectation for modest improvement in operating performance, offset by ongoing
+acquisitions and shareholder rewards. Clean Harbors had steady revenue growth of 8% and adjusted EBITDA margin
+expansion of 100 bps for the 12 months ended June 30, 2019. This was attributable to acquisition contributions,
+modest organic growth in both ES and SK, and improved pricing/waste mix. We expect these factors to support the
+company's continued growth over the next 12 months.
+Demand in the industrial and chemical end markets is expected to remain steady, which should support flat to modest
+top-line growth. We also expect improved pricing/waste mix and ongoing productivity initiatives to support modest
+improvement in operating margins.
+We expect bolt-on acquisitions and shareholder rewards to take priority over any significant debt reduction. Bolt-on
+acquisitions are an important part of Clean Harbors' long-term growth strategy, so we believe it will continue to pursue
+external opportunities. Given the company's current issuer credit rating and its leverage of around 3x, we do not
+expect any substantial debt reduction over the next 12 months. While the company's leverage may improve to below
+3x, we do not believe it is committed to maintaining this level and is more likely to keep leverage in the 3x-4x range.
+Table 2
+
+Financial Summary
+Industry sector: environmental services
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+3,300.3
+
+2,945.0
+
+2,755.2
+
+3,275.1
+
+3,401.6
+
+EBITDA
+
+553.6
+
+476.3
+
+444.3
+
+546.0
+
+568.2
+
+FFO
+
+432.2
+
+353.3
+
+311.8
+
+408.7
+
+441.0
+
+Interest expense
+
+101.3
+
+103.6
+
+103.9
+
+91.5
+
+92.7
+
+Cash interest paid
+
+101.3
+
+104.3
+
+103.2
+
+84.3
+
+85.1
+
+Cash flow from operations
+
+411.5
+
+316.4
+
+283.2
+
+424.8
+
+330.9
+
+Capital expenditure
+
+197.4
+
+168.0
+
+216.7
+
+255.2
+
+263.6
+
+FOCF
+
+214.1
+
+148.3
+
+66.5
+
+169.6
+
+67.3
+
+DCF
+
+169.0
+
+99.4
+
+41.5
+
+94.1
+
+(39.8)
+
+Cash and short-term investments
+
+279.4
+
+357.6
+
+307.0
+
+184.7
+
+246.9
+
+(Mil. $)
+
+Gross available cash
+
+279.4
+
+357.6
+
+307.0
+
+184.7
+
+246.9
+
+Debt
+
+1,688.6
+
+1,688.8
+
+1,696.3
+
+1,511.3
+
+1,492.5
+
+Equity
+
+1,169.8
+
+1,188.2
+
+1,084.2
+
+1,096.3
+
+1,262.9
+
+EBITDA margin (%)
+
+16.8
+
+16.2
+
+16.1
+
+16.7
+
+16.7
+
+Return on capital (%)
+
+6.9
+
+4.9
+
+4.6
+
+8.6
+
+4.5
+
+EBITDA interest coverage (x)
+
+5.5
+
+4.6
+
+4.3
+
+6.0
+
+6.1
+
+FFO cash interest coverage (x)
+
+5.3
+
+4.4
+
+4.0
+
+5.9
+
+6.2
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 6
+
+Clean Harbors Inc.
+
+Table 2
+
+Financial Summary (cont.)
+Industry sector: environmental services
+--Fiscal year ended Dec. 31-2018
+Debt/EBITDA (x)
+
+2017
+
+2016
+
+2015
+
+2014
+
+3.1
+
+3.5
+
+3.8
+
+2.8
+
+2.6
+
+FFO/debt (%)
+
+25.6
+
+20.9
+
+18.4
+
+27.0
+
+29.5
+
+Cash flow from operations/debt (%)
+
+24.4
+
+18.7
+
+16.7
+
+28.1
+
+22.2
+
+FOCF/debt (%)
+
+12.7
+
+8.8
+
+3.9
+
+11.2
+
+4.5
+
+DCF/debt (%)
+
+10.0
+
+5.9
+
+2.4
+
+6.2
+
+(2.7)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Disretionary cash flow.
+
+Liquidity: Strong
+We assess Clean Harbor's liquidity as strong. We expect liquidity sources will be about 2.64x uses over the next 12
+months and that liquidity sources will exceed uses even if forecast EBITDA declines by 30%. In addition, we expect
+the company to apply prudent risk management and to maintain strong relationships with lending sources.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• $259.7 million of available cash as of June 30, 2019;
+
+• Annual debt amortization of $7 million;
+
+• $217 million available under its $400 million
+asset-based lending (ABL) facility as of June 30,
+2019; and
+
+• Annual working capital outflow of around $30
+million;
+
+• Annual funds from operations between $420
+million-$440 million.
+
+• Annual capex between $225 million-$235 million;
+and
+• Annual share repurchases of between $80
+million-$90 million.
+
+Debt maturities
+As of June 30, 2019, Clean Harbors' debt maturities were as follows:
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 7
+
+Clean Harbors Inc.
+
+Chart 1
+
+Covenant Analysis
+Compliance expectations
+As of June 30, 2019, the company was in compliance with all covenants. We expect the company to remain in
+compliance over the next 12 months.
+
+Requirements
+The company's $400 million ABL facility is subject to a springing fixed-charge coverage ratio of 1.0x if the availability
+under its ABL facility falls below $40 million.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates a default occurring in 2024. We assume weak economic conditions
+contribute to lower industrial waste volume, increased competition, all of which would drive negative free cash
+flows and cause the company to draw on its ABL facility. Eventually, Clean Harbors would no longer be able to
+meet its obligations, precipitating a bankruptcy filing.
+• We assume that Clean Harbors would seek covenant amendments on its path to default--increasing interest costs
+on its ABL facility and term loan--and anticipate that it will have drawn 60% on its $400 million revolving credit
+facility, net of outstanding letters of credit.
+• We valued Clean Harbors on a going-concern basis supported by its strong market position.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 8
+
+Clean Harbors Inc.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• EBITDA at emergence: $228 million
+• EBITDA multiple: 6.5x
+
+Simplified waterfall
+• Net enterprise value (after 5% in administrative costs): $1.408 billion
+• Valuation split(obligors/nonobligors): 75%/25%
+• Priority claims: $112.8 million
+• Collateral value available to first-lien debt claims: $1.17 billion
+• Secured first-lien claims: $730.6 million
+• --Recovery expectations: 90%-100% (rounded estimate: 95%)
+• Collateral value available to unsecured claims: $564.6 million
+• Total unsecured debt claims: $866 million
+• --Recovery expectations: 50%-70% (rounded estimate: 65%)
+
+Reconciliation
+Table 3
+
+Reconciliation Of Clean Harbors Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Rolling 12 months ended June 30, 2019-Clean Harbors Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+1,570.5
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+1,209.5
+
+3,350.9
+
+504.6
+
+204.0
+
+83.5
+
+583.4
+
+382.0
+
+--
+
+222.1
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(18.6)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(87.8)
+
+--
+
+--
+
+--
+
+197.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+--
+
+--
+
+--
+
+53.4
+
+10.2
+
+10.2
+
+(10.2)
+
+43.3
+
+--
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+--
+
+--
+
+--
+
+0.5
+
+0.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(233.7)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 9
+
+Clean Harbors Inc.
+
+Table 3
+
+Reconciliation Of Clean Harbors Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0.4
+
+(0.4)
+
+(0.4)
+
+--
+
+(0.4)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+19.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+55.2
+
+--
+
+--
+
+5.2
+
+5.2
+
+5.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+53.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Asset retirement
+obligations
+Nonoperating
+income (expense)
+Debt: workers
+compensation/self
+insurance
+Debt: Tax liabilities
+Debt: other
+
+4.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+93.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.2)
+
+(0.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+170.6
+
+0.0
+
+0.0
+
+78.8
+
+16.9
+
+15.8
+
+(117.0)
+
+42.9
+
+0.0
+
+(0.4)
+
+EBITDA: other
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+1,741.1
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+1,209.5
+
+220.9
+
+3,350.9
+
+583.4
+
+99.3
+
+466.4
+
+424.9
+
+--
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Strong
+• Management and governance: Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 10
+
+221.7
+
+Clean Harbors Inc.
+
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : bb+
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Environmental Services Industry, Feb. 12, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 15, 2019)*
+Clean Harbors Inc.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Senior Secured
+
+BBB-
+
+Senior Unsecured
+
+BB+
+
+Issuer Credit Ratings History
+27-Nov-2012
+
+BB+/Stable/--
+
+01-Nov-2012
+
+BB+/Watch Neg/--
+
+14-Sep-2011
+
+BB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 11
+
+Clean Harbors Inc.
+
+Ratings Detail (As Of August 15, 2019)*(cont.)
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 13
+
+

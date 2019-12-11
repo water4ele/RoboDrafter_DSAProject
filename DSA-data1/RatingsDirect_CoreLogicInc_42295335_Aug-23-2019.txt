@@ -1,0 +1,569 @@
+CoreLogic Inc.
+Primary Credit Analyst:
+Adam Lynn, New York (1) 212-438-2637; adam.lynn@spglobal.com
+Secondary Contact:
+Minesh Patel, CFA, New York (1) 212-438-6410; minesh.patel@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+CoreLogic Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leadership position in real estate data analytics
+
+Exposure to cyclical mortgage originations
+
+High barriers to entry through proprietary data sets
+
+Moderate financial institution client concentration
+
+Scalable business model with a focus on reducing costs leads to
+consistent free operating cash flow (FOCF) generation
+
+Use of free cash flow to fund its acquisitive growth strategy, as well as
+return cash to shareholder through share buybacks
+
+CoreLogic is exposed to the cyclicality in the mortgage market, with roughly 60% of revenues tied to mortgage volumes.
+Significant downturns in mortgage loan origination would have a direct impact on revenues, with every $100 billion
+movement in mortgage volumes resulting in $25 million topline impact for CoreLogic. We expect mortgage loan
+origination to be roughly flat in 2019, as a result of increased refinancing activity being partially offset by a slow
+purchase market (adjusting for housing price index gains), which will contribute to subdued performance in the
+underwriting workflow solutions segment. Additionally, we believe higher interest rates would slow down mortgage
+loan originations and decrease sales for the company overall.
+CoreLogic has a leading position in the mortgage processing market, which has high barriers to entry. The company
+also benefits from its unique proprietary data sets, including residential property data that is hard to replicate, amassed
+over a long period through public and private sources. We consider CoreLogic a leader in its industry (which has high
+switching costs), and its solutions are mission-critical and embedded in its clients' workflows.
+We expect CoreLogic's credit measures to remain steady as its recurring revenue model provides good revenue stability
+and free cash flow. The company has made an effort to cut costs and improve productivity, which we believe will help
+expand margins roughly 100 basis points (bps)-200 bps over the next 12 months. We expect $225 million-$275 million
+in free operating cash flow (FOCF) generation in fiscal 2019, as the company benefits from good operating leverage,
+stable working capital needs, and modest capital expenditures (capex).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+CoreLogic Inc.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+CoreLogic Inc.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on Irvine, Calif.-based data analytics provider CoreLogic Inc. reflects our
+positive view of the company's recurring revenues from data analytics, partly offset by its exposure to volatility in
+the mortgage origination processing market. In 2019, we expect revenue to decline (in the low- to mid-single-digit
+range) largely because of restructuring in its appraisal management company (AMC) business and roughly flat
+mortgage unit volumes, while EBITDA margins expand in the second half of the year as a result of efficiency
+investments and improved revenue mix. We forecast leverage will improve slightly in the second half of 2019, with
+debt to EBITDA in the 4x area by year-end.
+
+Downside scenario
+We could lower the ratings on CoreLogic over the next 12 months if the company experiences increased
+competition, prolonged restructuring costs, or if rising interest rates negatively affect mortgage origination, leading
+to weaker revenue and earnings growth. We could also lower the ratings if management pursues more aggressive
+financial policies, including significant debt-financed acquisitions or shareholder returns resulting in leverage above
+4x on a sustained basis.
+
+Upside scenario
+Although unlikely over the next 12 months, we could raise the rating if the company can expand its analytics
+businesses, resulting in increased earnings stability through mortgage origination cycles, and reduce leverage
+below 3x on a sustained basis. An upgrade would also be contingent on management's commitment to maintain
+leverage at or below these levels.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+CoreLogic Inc.
+
+Assumptions
+
+Key Metrics
+
+• Real U.S. GDP growth of 2.5% in 2019 and 1.8% in
+2020;
+Adj. EBITDA margin (%)
+
+• Low- to mid-single-digit decline in organic revenue
+in 2019, reflecting the ongoing restructuring of the
+AMC business, which could lead to $70 million-$100
+million in revenue declines. Low-single-digit
+percentage organic revenue growth expected in
+2020 and beyond;
+
+Adj. debt to EBITDA (x)
+Adj. FOCF to Debt (%)
+
+2018A
+
+2019E
+
+2020E
+
+25.3
+
+27-29
+
+28-30
+
+4.1 3.75-4.25 3.5-4.0
+14.8
+
+15-17
+
+17-19
+
+A--Actual. E--Estimate. FOCF--Free operating cash
+flow. Adj.--Adjusted.
+
+• Improving EBITDA margins in the 27%-29% area
+over the next 12 months emanating from efficiency
+investments and favorable product mix, with
+margins expanding further by the end of 2020 as the
+company completes its transitions to the Google
+cloud;
+• Mid-single-digit growth in U.S. mortgage
+originations for 2019, as per Mortgage Bankers
+Association (MBA) forecast;
+• Capital expenditures (capex) of roughly $100 million
+in 2019 due to increased spending on productivity
+initiatives and transitioning to the Google cloud; $70
+million-$90 million of capex spending in 2020 as
+increased investments begin to normalize; and
+• The company repurchases around $100 million of
+outstanding share count in 2019.
+
+Company Description
+CoreLogic is a global property information, analytics, and data-enabled services provider operating primarily in North
+America. The company combines data from public, contributory, and proprietary sources to provide coverage of
+property, mortgages, and other encumbrances, consumer credit, tenancy, location, hazard risk, and related
+performance information. The markets served include real estate and mortgage finance, insurance, capital markets,
+and the public sector.
+CoreLogic was incorporated in 1894 and is headquartered in Irvine, Calif. It has annual revenue of $1.79 billion in
+fiscal 2018. The company reports revenue in two segments: Property Intelligence and Risk Management Solutions
+(PIRM) and Underwriting and Workflow Solutions (UWS).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+CoreLogic Inc.
+
+Chart 2
+
+Chart 3
+
+Business Risk: Fair
+The rating on CoreLogic incorporates our expectation that its leadership position in the mortgage processing market
+and its focus on reducing costs will support relatively consistent profits and cash flow generation. The company has
+benefited from increased regulatory scrutiny in the U.S., as financial services firms turn to large providers with
+established track records and high-quality reputations. Key risks include exposure to the cyclical mortgage market,
+modest customer concentration, and the potential for looser regulatory standards.
+We expect mid-single-digit growth in U.S. mortgage loan originations for 2019, which translates to roughly flat
+mortgage unit volume when incorporating gains in housing prices. Our forecast calls for low- to mid-single-digit
+revenue declines in 2019, as flat mortgage volumes limit organic revenue growth for CoreLogic's mortgage processing
+business, and as the company restructures its AMC business. The AMC restructuring focuses on reducing
+labor-intensive, low-margin contracts, and will negatively impact revenues $70 million-$100 million over 2019 and
+2020. Additionally, CoreLogic has moderate customer concentration. The 10 largest customers accounted for about
+31% of total revenues at year-end 2018, down from 37% in 2017, because of a decline in business from mortgage
+customers, and a gain in market share from non-banks such as Quicken Loans Inc. CoreLogic's position as one of the
+leading third-party providers of mortgage market data partially offsets these risks.
+Furthermore, the company's recurring revenue model and high barriers to entry due to its long-term relationships with
+financial institutions, and unique data assets, support our assessment of the company's business risk profile. Corelogic
+has amassed large, proprietary data sets for residential property information, from both public and private sources,
+which are hard to replicate. Despite modest acquisition activity, total revenues for the first half of 2019 decreased
+about 6% over the previous year, primarily because of declines in mortgage market unit volumes, the exit of noncore
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+CoreLogic Inc.
+
+mortgage and default technology units, and a onetime revenue recognition benefit in the first half of 2018. We expect
+EBITDA margins to improve by roughly 100 bps-200 bps over the next 12 months as the company benefits from
+productivity and efficiency investments. We expect the company to realize roughly $20 million in cost savings from the
+migration to the Google Cloud Platform, with the potential for additional savings by the end of 2020. The company
+should also benefit from improved revenue mix as legacy AMC business begins to roll off.
+In December 2018, the company acquired Symbility Solutions Inc. for approximately $80 million, which weighed on
+margins for the first half of 2019. Symbility is a leading global provider of cloud-based property claims workflow
+solutions for the property and casualty insurance industry, headquartered in Canada. Acquisitions contributed $59.5
+million to 2018 revenues, with a majority contribution to the UWS segment.
+
+Financial Risk: Significant
+Our assessment of the company's financial risk profile reflects our expectation that leverage will decrease modestly to
+around 4x in 2019, and further improve to the high-3x area by the end of 2020, primarily driven by mandatory debt
+amortization payments and margin expansion.
+In May 2019, the company amended its senior secured credit facility, increasing the size of the A-1 term loan by $175
+million, to $1.575 billion, and extending the maturity of the A-1 term loan, $175 million A-2 term loan, and revolver to
+May 2024. Also, the company upsized its revolver by $50 million to $750 million. The total net leverage covenant was
+reset to 4.5x, where previously the covenant was set at 4x starting with the quarter ending Sept. 30, 2019. The
+company used proceeds from the add-on mostly to repay borrowings on the revolving credit facility. We believe the
+company will repay approximately $100 million in voluntary prepayments on the senior secured facility in 2019,
+paying down $23 million early during the first quarter. In 2018, CoreLogic repurchased 2.3 million common shares,
+and has stated its plan to repurchase 1.5 million to 2.5 million additional shares in 2019. The company continues to
+exhibit moderate financial policies, with both an acquisition and organic-led growth strategy, along with returning cash
+to shareholders through share buybacks.
+
+Liquidity: Adequate
+In our view, Corelogic has adequate liquidity. We anticipate coverage of uses in excess of 2x for the next 12-24 months
+and positive net sources in the near term, even with a 20% decline in EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+CoreLogic Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and marketable securities of about $82 million
+as of June 30, 2019;
+
+• Mandatory debt amortization payment of $90
+million in full-year 2019 and 2020;
+
+• $740 million of availability under the company's
+$750 million revolving credit facility as of June 30,
+2019; and
+
+• Capital expenditures of about $100 million in 2019
+and $70 million to $90 million in 2020;
+
+• Free cash flow between $225 million and $275
+million over the next 12 months.
+
+• Annual share buyback in the range of $60 million to
+$120 million; and
+• Bolt-on acquisitions.
+
+Debt maturities
+Chart 4
+
+Covenant Analysis
+The credit agreement contains the following financial maintenance covenants: (i) a maximum total leverage ratio not
+to exceed 4.50:1.00; (gradually stepping down to 3.75:1.00 on Sept. 30, 2022) and (ii) a minimum interest coverage
+ratio of at least 3.00:1.00. The company had adequate cushion as of June. 30, 2019, and going forward, we expect it to
+continue to maintain at least 15% EBITDA cushion under the financial covenants.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+CoreLogic Inc.
+
+Issue Ratings - Recovery Analysis
+
+Key analytical factors
+• Our simulated default in 2024 would primarily result from a failure in services or technological capability that
+would lead to customer defections, accompanied by increased competition amid an economic slowdown,
+ultimately hindering profitability and demand for CoreLogic's products and services.
+• The senior secured credit facility consists of a $750 million revolving credit facility due May 2024, a $1.575
+billion term loan A-1 due May 2024, and a $175 million term loan A-2 due May 2024. The revolving facility
+includes a $100 million multi-currency sub-facility and $50 million letter of credit sub-facility.
+• The credit facility is secured by substantially all domestic tangible and intangible assets of the borrower and
+guarantors, in addition to a pledge of 65% of the capital stock of the company's first tier foreign subsidiaries.
+• In a default, we believe the company would reorganize to maximize value to creditors, given its embedded
+position in the mortgage markets and strong brand recognition.
+• We have valued the company on a going-concern basis using a 6.5x multiple of our projected emergence
+EBITDA.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• EBITDA at emergence: $243 million
+• EBITDA multiple: 6.5x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $1.5 billion. Valuation split in % (obligors/nonobligors):
+90/10.
+• Collateral value available to secured creditors: $1.45 billion.
+• Secured first-lien debt: $2.02 billion.
+• --Recovery expectations: 70% to 90% (rounded estimate: 70%).
+• Senior unsecured debt and pari passu claims: $595 million
+• --Recovery expectations: 0% to 10% (rounded estimate: 5%).
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 9
+
+CoreLogic Inc.
+
+• Competitive position: Fair
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : bb
+
+• Group credit profile: bb
+• Entity status within group: Core (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Software And Services Industry, Nov. 19,
+2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 10
+
+CoreLogic Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Modest
+
+Intermediate
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Significant
+
+Ratings Detail (As Of August 22, 2019)*
+CoreLogic Inc.
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Secured
+
+BB+
+
+Senior Unsecured
+
+B+
+
+Issuer Credit Ratings History
+07-Mar-2014
+
+BB/Stable/--
+
+16-Nov-2012
+
+BB/Positive/--
+
+29-Feb-2012
+
+BB/Stable/--
+
+Related Entities
+CoreLogic Australia Pty Ltd
+Senior Secured
+
+BB+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 12
+
+

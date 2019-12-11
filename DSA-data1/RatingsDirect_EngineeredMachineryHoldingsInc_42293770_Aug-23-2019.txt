@@ -1,0 +1,497 @@
+Engineered Machinery Holdings Inc.
+Primary Credit Analyst:
+Gilad Kopelman, New York + 1 (212) 438 1160; gilad.kopelman@spglobal.com
+Secondary Contact:
+Trevor T Martin, CFA, New York (1) 212-438-7286; trevor.martin@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+Engineered Machinery Holdings Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+A sizeable proportion of aftermarket revenue and long-standing customer
+relationships.
+
+High financial leverage.
+
+High barriers to entry given the highly engineered and customized nature of its
+products.
+
+Limited scale relative to other rated capital goods companies.
+Modest customer concentration.
+
+We expect leverage to remain high over the next 12 months. Engineered Machinery Holdings Inc.’s (doing business as
+Duravant LLC) acquisitions have been mostly accretive to its earnings but we expect its leverage to remain elevated at
+about 8.5x. We anticipate that the company will generate moderate organic growth and modestly improve its margin
+over the next year. We also believe the company will supplement its organic growth with additional debt-financed
+acquisitions.
+We expect the Material Handling segment to continue to support Duravant's growth and profitability. This segment,
+which produces conveyor belts for a diverse set of end markets, continues to be the company's most profitable unit.
+Duravant has managed to grow its business with existing customers while continually increasing its backlog. In
+addition, more-profitable aftermarket opportunities allow the company to continue to expand its EBITDA margin.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+Engineered Machinery Holdings Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our view that Duravant will modestly increase its operating scale through minor organic
+growth and debt-financed acquisitions, resulting in a healthy EBITDA margin in the low 20% area. We expect
+leverage to remain elevated in the mid 8.0x area over the next 12 months and anticipate that the company will
+generate about $40 million of free operating cash flow (FOCF) annually.
+
+Downside scenario
+We could lower our ratings if Duravant's liquidity position weakens significantly. This could occur if reduced
+demand for the company's key products, loss of key customers, and other operational challenges prevent Duravant
+from meeting its fixed charges, causing it to generate negative free cash flow. This would likely lead the company
+to draw on its revolver and spring the maximum secured leverage covenant.
+Alternatively, we could also consider a downgrade if Duravant's aggressive financial policies--either through
+additional debt-funded acquisitions or shareholder distributions--lead us to view the company's capital structure as
+unsustainable.
+
+Upside scenario
+Although unlikely over the next 12 months, we could raise our ratings on Duravant if the company's credit metrics
+significantly improve such that its adjusted debt to EBITDA declines below 7.0x. Under this scenario, we would
+need to believe that both management and the company's financial sponsor are willing to adopt the policies and
+discipline necessary to sustain this improvement.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+Engineered Machinery Holdings Inc.
+
+Assumptions
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020 and eurozone real GDP growth of 1.1% in 2019
+and 1.3% in 2020;
+• U.S. equipment spending increases by 2.5% in 2019
+and by 3.1% in 2020;
+• Organic revenue increases by the low-single-digit
+percent area, primarily stemming from growth in the
+Material Handling business along with a full year of
+contributions from prior acquisitions;
+
+Key Metrics
+
+EBITDA margin (%)
+FFO to debt (%)
+Debt to EBITDA (x)
+
+2018A
+
+2019E
+
+2020E
+
+19.2
+
+20-22
+
+20-22
+
+3.3
+
+5-10
+
+5-10
+
+10.4 8.5-9.0 8.0-8.5
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• EBITDA margins improve to 21%-22% on the
+realization of acquisition synergies and pricing
+initiatives;
+• Capital expenditure (capex) of about 1% of sales;
+• Moderate debt-financed merger and acquisition
+(M&A) activity; and
+• Manageable working-capital outflows.
+
+Base-case projections
+We expect Duravant's operating performance to continue to improve over the next 12 months, driven by its Material
+Handling business and healthy backlog. We expect the company's adjusted EBITDA margins to remain about 20%,
+benefitting from synergies from recent acquisitions as well as increased pricing power.
+
+Company Description
+Duravant provides automation solutions for packaging, material-handling, and food-processing equipment for a variety
+of end markets. These include food and beverage, e-commerce, agriculture, lawn and garden, and chemicals. The
+company also provides aftermarket parts and services, which account for just over one-third of its revenue. Although
+Duravant maintains sales and distribution facilities worldwide, it generates about 65% of its revenues in the U.S.
+Duravant is majority owned by private-equity sponsor Warburg Pincus following its leveraged buyout in July 2017.
+
+Business Risk: Weak
+Duravant has limited scale compared with that of its peers, is exposed to cyclical end markets, maintains a moderate
+customer concentration, and doesn't typically sign contracts with its customers. In particular, Duravant's top 10
+customers account for about 30% of its sales while its largest customer contributes about 15% of its combined sales.
+On the other hand, the company has long-standing customer relationships, good market positions (either No. 1 or No.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+Engineered Machinery Holdings Inc.
+
+2) in certain industry niches, fair geographic diversity (with about 30% of sales generated outside the U.S.), and higher
+EBITDA margins than those of its peers.
+
+Financial Risk: Highly leveraged
+Duravant's maintains high leverage because of its financial-sponsor ownership by Warburg Pincus. The company
+ended the March 31, 2019, quarter with adjusted debt to EBITDA of 8.8x and funds from operations (FFO) to debt of
+3.6%. Following a full year of contributions from its 2018 acquisitions, along with minor margin expansion, we expect
+its leverage to be closer to 8.5x by the end of 2019. We also expect the company's free cash flow generation to
+improve, which will help support its acquisitive growth strategy.
+
+Liquidity: Adequate
+We forecast that Duravant will have adequate liquidity during the next 12 months. We expect the company's liquidity
+sources to be more than 4.5x its uses for the next 12 months and anticipate that its net sources will remain positive
+even if its EBITDA declines by 15%. We believe that the qualitative factors related to Duravant's liquidity, particularly
+its less-than-favorable standing in the credit markets and our expectation that it will likely be unable to face a
+high-impact financial event without refinancing, all support our assessment.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash on hand of $27 million as of March 31, 2019;
+
+• Annual working-capital requirements of about $15
+million over the next 12 months;
+
+• Full availability of $70 million under the revolver
+due 2022; and
+• FFO of about $55 million-$65 million.
+
+• Maintenance capex of less than 1.0% of sales
+annually; and
+• Term loan amortization of about $9 million over the
+next 12 months.
+
+Debt maturities
+• 2024: Approximately $866 million; and
+• 2025: $266 million.
+
+Covenant Analysis
+Compliance expectations
+• We do not expect the company to draw on the revolver to the extent that it would cause the covenant to become
+effective during the next four to six quarters, though we expect that Duravant would have adequate headroom if the
+covenant were tested.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+Engineered Machinery Holdings Inc.
+
+Requirements
+• Duravant's first- and second-lien facilities are not subject to financial maintenance covenants. The revolving credit
+facility is subject to a springing maximum first-lien net leverage ratio covenant of 7.75 to 1, which is applicable if the
+drawn revolving credit facility exceeds $21 million or 30% of the revolver's commitment.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario assumes a default occurring in the first half of 2021 amid a deep global recession that
+sharply reduces the capital spending of Duravant's customers and leads to a significant reduction in the company's
+sales. Pricing competition and substitution risk also lead to a decline in Duravant's customer base. We assume that
+in such a scenario, the company's liquidity would be fully utilized to fund its cash shortfalls to the point that it
+cannot meet its fixed obligations.
+• We rate the company's first-lien facility 'B-' with a '3' recovery rating, which indicates our expectation for meaningful
+recovery (50%-70%; rounded estimate: 50%) in the event of a payment default.
+• We rate the company's second-lien facility 'CCC' with a '6' recovery rating, which indicates our expectation for
+negligible recovery (0%-10%; rounded estimate: 5%).
+• We expect the company's revolving credit facility to be 85% drawn at default.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: $106 million
+• EBITDA multiple: 5x
+
+Simplified waterfall
+• Adjusted net enterprise value (after 5% administrative costs and priority claims): $503 million
+• Valuation split (obligors/nonobligors): 65%/35%
+• Value available to first-lien debt collateral/non-collateral: $441 million
+• Secured first-lien debt claims: $936 million
+• --Recovery expectations: 50%-70% (rounded estimate: 50%)
+• Total value available to second-lien debt claims: $62 million
+• Total second-lien debt and deficiency claims: $774 million
+• --Recovery expectations: 0%-10% (rounded estimate: 5%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+Engineered Machinery Holdings Inc.
+
+Business risk: Weak
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+Engineered Machinery Holdings Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 22, 2019)*
+Engineered Machinery Holdings, Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+Issuer Credit Ratings History
+29-Aug-2018
+
+B-/Stable/--
+
+Related Entities
+Duravant LLC
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+WP Deluxe Merger Sub, Inc.
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 9
+
+

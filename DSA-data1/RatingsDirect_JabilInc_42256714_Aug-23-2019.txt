@@ -1,0 +1,1506 @@
+Jabil Inc.
+Primary Credit Analyst:
+Christian Frank, San Francisco + 1 (415) 371 5069; christian.frank@spglobal.com
+Secondary Contact:
+Andrew Chang, San Francisco (1) 415-371-5043; andrew.chang@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Issue Ratings
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 1
+
+Jabil Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/A-3
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good position in the global technology contract manufacturing
+services industry supported by global footprint and domain
+expertise
+
+Leverage of 3.0x at May 31, 2019, expected to fall to mid-2x in fiscal 2020
+(ending August)
+
+Focus on higher-margin, faster growing end markets
+
+Meaningful customer concentration with top five customers accounting for
+43% of revenues over last three quarters, as of May 31, 2019
+
+Good track record of operating performance
+
+Risk of negative consequences from trade actions
+
+Expectation that Jabil can pursue its acquisition shareholder return
+objectives while maintaining leverage below 3x going forward
+
+More capital intensive than other peers in technology hardware, with large
+working capital swings
+Modest adjusted free operating cash flow (FOCF) to debt around 2% in fiscal
+2019 on growth investments, which we expect to rebound to the 20% area in
+2020
+
+Leverage is at our downgrade threshold of 3x, but we expect it to fall to mid-2x in fiscal 2020. Leverage is at our
+downgrade threshold of 3x as of May 31, 2019 because of an increase in debt to support the Johnson & Johnson (J&J)
+acquisition and an increase in accounts receivable program utilization to support increased working capital from
+double-digit revenue growth. We expect leverage to fall to the mid-2x area in 2020 on EBITDA growth and net debt
+reduction. We expect revenue growth to slow to the low-single digits in 2020, more in line with our expectations for
+the technology hardware industry, as large customer wins do not recur. This will allow the company to reduce its
+receivable program utilization and reduce debt incurred for the J&J acquisition and new cloud and automotive
+customers. We believe Jabil will also improve production efficiencies on new programs, allowing it to drive EBITDA
+growth through margin expansion.
+A 10% tariff on list 4 products would be manageable, while 25% would be disruptive and could put the rating at risk.
+The risk of tariffs looms, but we believe Jabil could manage its balance sheet to preserve the 'BBB-' rating if the
+proposed 10% tariff on the remaining trade with China that is currently tariff-free (i.e. list 4) were to go into effect. In
+our view, this tariff action would be manageable--the Chinese currency has recently weakened 3% against the U.S.
+dollar, mitigating some of the impact. Customers and original equipment manufacturers (OEMs), in addition to the
+supply chain, would likely share the remaining impact. Jabil's margins are low, so there isn't much opportunity for
+OEMs to gain concessions beyond its proportional share of profit within the supply chain, which we think would be
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 2
+
+Jabil Inc.
+
+manageable. In this scenario, we believe Jabil has the ability and willingness to manage its balance sheet to preserve
+the 'BBB-' rating. We note that the tariff on products including smartphones and laptops that was originally proposed
+to take effect on September 1 has been postponed until December 15. Tariffs of 25% on list 4 products would be more
+disruptive. More customers would want to move production, which could cause execution issues for Jabil, and any
+new production lines would take time to reach maximum efficiency, there could be demand destruction from price
+increases to end users, and most importantly, there could be a global economic slowdown that would hurt IT
+spending. This scenario could put the rating on Jabil at risk given its credit metrics that are currently near our
+downgrade thresholds. We would consider the company's tariff mitigation and balance sheet management strategies,
+but if we believed credit metrics were likely to exceed our downgrade thresholds over a 24-month period, we could
+lower the rating.
+The company has high concentration with Apple, but we expect the relationship to remain productive since Jabil is an
+important supplier. Apple represented 28% of fiscal 2018 revenues, which has caused volatility in operating
+performance in the past, but performance has been good over the past five years. We estimate revenue from Apple
+grew in the 30% to 40% range in 2018, much higher than the mid-teens growth for Apple itself, we believe because
+Jabil expanded in nonphone categories. We believe revenue from Apple is likely to decline in 2019 and 2020 following
+a strong iPhone cycle in 2018 and as Apple's hardware businesses mature, but that Jabil remains an important
+supplier. This dynamic combined with the company's new customer wins, will lower the company's exposure to Apple.
+Adjusted FOCF was muted in fiscal 2018 and 2019 on growth-related working capital and capital expenditures; we
+expect it to improve in 2020 as growth slows. We note that S&P Global Ratings' adjusted FOCF has been muted over
+the last two years as a result of elevated capital expenditures and working capital increases reflecting robust annual
+revenue growth around 15%. As growth slows to the low- to mid-single-digit range over the next two years as large
+customer wins do not recur and as Apple's hardware growth slows, we expect this metric to return to the 15% area or
+greater. We think the slower growth will enable Jabil to improve its working capital cash conversion cycle, and while
+we expect net capital expenditures to remain in the $800 million area in fiscal 2020 on continued investment to
+support the customer wins from 2019, we believe they should return to Jabil's depreciation level of $700 million or
+lower the following year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 3
+
+Jabil Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Jabil's recent business wins will enable it to deliver EBITDA
+growth and that it will reduce net debt such that leverage reaches the mid-2x area in fiscal 2020, despite the
+potential for some volatility because of trade or macroeconomic uncertainties, and large customer programs. We
+expect revenue growth to moderate to the low-single-digit area in 2020 as large customer wins from 2019 do not
+recur, which will allow it to improve production efficiencies on the new lines and improve working capital ratios,
+resulting in cash flow metrics more in line with the 'BBB-' rating. In addition, the rating incorporates our
+expectation that Jabil can manage acquisitions and shareholder returns while maintaining leverage below 3x.
+
+Downside scenario
+We could lower our ratings if adjusted leverage exceeds 3x on a sustained basis. In our view, this condition would
+most likely be the result of pressures from disruptions from trade actions or a macroeconomic slowdown,
+worse-than-expected profits from Apple because of a poor iPhone cycle, or large acquisitions. To reach this
+threshold, EBITDA would need to underperform our fiscal 2020 forecast by almost 20%, or the company would
+need to spend nearly $1.5 billion on acquisitions assuming a 10x purchase multiple. We could also lower the rating
+if FOCF to debt were to remain below 15% on average over a multi-year period.
+
+Upside scenario
+Although unlikely over the next 12 to 24 months, we could raise the rating if Jabil moderates its acquisition
+appetite and establishes enough EBITDA cushion such that we believe it can pursue its acquisition and shareholder
+return objectives and absorb an operating downturn while maintaining leverage below 2x and FOCF to debt above
+25% on average over a multi-year period.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 4
+
+Jabil Inc.
+
+Assumptions
+
+Key Metrics
+
+• Real global GDP growth of 3.3% in 2019 and 3.6% in
+2020.
+
+• Leverage in the high-2x area in fiscal 2019 and
+mid-2x area in 2020; and
+
+• Real U.S. GDP growth of 2.5% in 2019 and 1.8% in
+2020.
+
+• S&P Global Ratings' FOCF adjusted for equipment
+sales, collection of the deferred purchase price
+receivable, and receivables program utilization,
+around $100 million in fiscal 2019 (2% FOCF to
+debt) and in the $800 million to $1 billion range in
+fiscal 2020 (around 20% FOCF to debt).
+
+• Hardware industry revenue growth that is flat to
+slightly positive.
+• Jabil's revenue growth in the low- to mid-single
+digits in fiscal 2020 and 2021, in line with our
+macroeconomic forecast but slightly above our
+industry expectations, and much slower than the
+mid-teens growth during the prior two years.
+• A return to historical revenue growth levels in the
+low-single digits for the electronics manufacturing
+segment, after two years of double-digit growth on
+large new customer wins; a modest decline in Apple
+revenues in 2020 followed by a rebound in 2021 on
+a new iPhone cycle; a return to historical revenue
+growth in the high-single digit area for the plastics,
+packaging, and health care businesses following
+strong double-digit growth driven by J&J.
+• About 20 basis points of EBITDA margin expansion
+in 2020 to 6.7% as the company optimizes large
+customer wins from 2019.
+• Capital expenditures net of equipment sales around
+$800 million in 2020 consistent with 2019,
+moderating in 2021 to Jabil's depreciation level of
+$700 million.
+• Annual dividend payments around $50 million.
+• Working capital becomes a source of cash in 2020
+following two years of usage as growth moderates,
+and the company's accounts receivable program
+utilization declines accordingly.
+• Although we expect the company to pursue small to
+midsize acquisitions that would complement its
+faster growing businesses like plastics, packaging,
+and health care, we do not include assumptions
+about acquisitions in our forecast due to uncertainty
+around timing and sizing.
+• In the absence of acquisitions, we assume that the
+company would use its FOCF for share buybacks.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 5
+
+Jabil Inc.
+
+Base-case projections
+We expect revenue growth to moderate to historical levels in the low- to mid-single digits, but for margins to expand.
+We expect revenue growth in the mid-teens in fiscal 2019 as a result of large wins from cloud, health care, 5G, and
+automotive customers. We expect growth to moderate to historical levels in the low- to mid-single digits as these large
+wins do not recur, but that margins will expand as the company optimizes production for these wins.
+We expect Jabil to reestablish leverage in the mid-2x area in 2020. We expect leverage to fall to the mid-2x area in
+fiscal 2020 from 3x currently on EBITDA growth from margin expansion, debt repayment, and reduction of accounts
+receivable program utilization, providing roughly 20% cushion to our downside threshold.
+Free cash flow improves following growth-related capital expenditure and working capital investment.FOCF has been
+muted over the last two years as a result of growth-related capital expenditures and working capital increases. As
+growth slows, we expect this metric to return to the 15% area or greater. We think the slower growth will enable Jabil
+to improve its working capital cash conversion cycle and net capital expenditures to return to Jabil's depreciation level
+of $700 million or lower in 2021.
+
+Company Description
+Jabil earned roughly $25 billion in revenues for the last 12 months (LTM) and has S&P Global Ratings' adjusted
+EBITDA margin around 6.6%. It provides outsourced manufacturing and design services in two segments. The
+electronics manufacturing segment (EMS, 60% of LTM revenues as of May 31, 2019) leverages its large scale and
+expertise to provide highly efficient manufacturing services to traditional technology end markets (including server,
+storage, networking, telecommunications, and printing) and nontraditional EMS markets such as automotive and
+industrial. The diversified manufacturing segment (DMS, 40% of LTM revenues) focuses on material sciences and
+serves higher-growth end markets including mobile phones, health care, and consumer packaged goods. In the EMS
+segment, the company competes against large scale providers like Hon-Hai Precision Industry Co. Ltd. and Flex Ltd.,
+as well as smaller players like Sanmina Corp., Benchmark Electronics Inc., Celestica Inc., and Plexus Corp. In DMS, it
+competes mainly against Asian companies like Catcher Technology Co. and Quanta Computer Inc. Its largest
+customers include Apple Inc., Cisco Systems Inc., LM Ericsson Telephone Co., Hewlett-Packard Co., NetApp Inc., and
+Valeo S.A. The company competes on its large scale and global footprint, as well as its expertise in supply chain
+management. Jabil has 43% of its long-lived assets in China as of fiscal year-end 2018, down from 48% in 2016,
+compared with 32% of assets in the U.S. and Mexico combined, up from 28% in 2016. We think this reflects an
+ongoing pivot away from China to North America, partly in response to trade risk and product mix changes.
+
+Business Risk: Satisfactory
+Our view of Jabil's business risk profile reflects its strategic focus on faster-growing end markets like industrial, health
+care, automotive, cloud, 5G, and plastics, and packaging, and good positions in its targeted end markets. However,
+contract manufacturing is highly competitive and cyclical, capital intensive (with net capital expenditures forecasted to
+represent almost half of EBITDA), and has meaningful customer concentration with the top five customers
+representing more than 40% of revenues.
+Apple represented 28% of fiscal 2018 revenues and has caused past operating performance to be volatile, but Jabil has
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 6
+
+Jabil Inc.
+
+proven to be a resilient Apple supplier. For example, we estimate revenue from Apple grew in the 30% to 40% range in
+fiscal 2018, much higher than the mid-teens growth for Apple itself over the same time frame, we believe because of
+Jabil's expansion into nonphone categories. Also, it used to make aluminum cases for previous iPhone models, but
+upon Apple's transition to glass cases, it was able to win new content and generate revenue from other nonphone
+sources. We estimate revenue from Apple will drop in fiscal 2019 and 2020 following a strong iPhone cycle in 2018,
+but we think Jabil remains an important supplier to Apple and that the relationship will remain strong.
+The company has managed the EMS segment well, delivering 27% growth in the first nine months of fiscal 2019 due to
+an increase in revenues from cloud, 5G, industrial, and automotive customers. We expect growth to moderate to the
+low- to mid-single digits, consistent with its historical performance as large wins do not recur. Operating margin has
+fallen to 2.7% during this time period, from 3.4% from a year ago, on new product ramps. We expect this metric to
+improve as the company optimizes the production lines in 2020.
+
+Peer comparison
+Flex Ltd., Jabil's closest peer, is rated the same. Similar in revenue scale, Jabil has higher EBITDA margins because of
+its higher-margin DMS segment, which includes plastics, packaging, and materials capabilities unique to Jabil, but it is
+also more capital intensive even when factoring in proceeds from asset sales. Flex has better customer diversity with
+no customers representing more than 10% of revenues. It has a better position in the critical automotive end market,
+but Jabil's operating performance has been better over the past few years because of its large customer wins and
+because of challenges in Flex's consumer segment. Currently, Jabil's leverage is higher, but we expect it to improve as
+the company repays debt and reduces accounts receivable program utilization. We believe Jabil has a stronger
+business than both Sanmina and Celestica because of its larger scale, and deeper and broader domain expertise.
+Table 1
+
+Jabil Inc.--Peer Comparison
+Industry Sector: Diversified Technology
+
+Ratings as of Aug. 13,
+2019
+
+Jabil Inc.
+
+Flex Ltd.
+
+Sanmina Corp.
+
+Celestica Inc.
+
+BBB-/Stable/A-3
+
+BBB-/Stable/--
+
+BB+/Stable/--
+
+BB/Negative/--
+
+--Fiscal year ended March --Fiscal year ended Sept.
+31, 2019-29, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+--Fiscal year ended Aug.
+31, 2018-(Mil. $)
+Revenue
+
+22,095.4
+
+26,210.5
+
+7,110.1
+
+6,633.2
+
+EBITDA
+
+1,527.0
+
+1,284.1
+
+326.2
+
+265.6
+
+Funds from operations
+(FFO)
+
+1,215.1
+
+924.9
+
+260.5
+
+178.5
+
+Interest expense
+
+179.1
+
+180.5
+
+34.5
+
+33.6
+
+Cash flow from
+operations
+
+485.4
+
+703.6
+
+(14.8)
+
+(24.5)
+
+Capital expenditure
+
+686.4
+
+725.6
+
+118.9
+
+82.2
+
+Free operating cash flow
+(FOCF)
+
+(201.0)
+
+(22.0)
+
+(133.7)
+
+(106.7)
+
+Cash and short-term
+investments
+
+1,257.9
+
+1,696.6
+
+419.5
+
+422.0
+
+Debt
+
+3,592.3
+
+3,384.6
+
+592.2
+
+1,091.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 7
+
+Jabil Inc.
+
+Table 1
+
+Jabil Inc.--Peer Comparison (cont.)
+Industry Sector: Diversified Technology
+Jabil Inc.
+
+Flex Ltd.
+
+Sanmina Corp.
+
+Celestica Inc.
+
+EBITDA margin (%)
+
+6.9
+
+4.9
+
+4.6
+
+4.0
+
+EBITDA interest
+coverage (x)
+
+8.5
+
+7.1
+
+9.5
+
+7.9
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+2.4
+
+2.6
+
+1.8
+
+4.1
+
+FFO/debt (%)
+
+33.8
+
+27.3
+
+44.0
+
+16.3
+
+FOCF/debt (%)
+
+(5.6)
+
+(0.6)
+
+(22.6)
+
+(9.8)
+
+Financial Risk: Intermediate
+Jabil's financial risk profile incorporates current leverage of 3.0x that we expect to fall to the mid-2x area in fiscal 2020,
+the volatile cash flow characteristics of the contract manufacturing industry, and our view that the company can
+manage its acquisitions and share buybacks while maintaining leverage below 3x. We expect S&P Global Ratings'
+adjusted FOCF to be low in fiscal 2019 at around $100 million, adjusted to include proceeds from equipment sales and
+to back out the increase in receivable monetization programs (which run through cash flow from operations, but which
+we view as a financing cash flow), on growth-related capital expenditure and working capital investments. We expect
+this metric to improve to the $800 million to $1 billion range in fiscal 2020, as the company improves its working
+capital cash conversion cycle, and that FOCF to debt will be around 20%.
+
+Financial summary
+Table 2
+
+Jabil Inc. -- Financial Summary
+Industry Sector: Diversified Technology
+--Fiscal year ended Aug. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. $)
+Revenue
+
+22,095.4 19,063.1 18,353.1 17,899.2 15,762.1
+
+EBITDA
+
+1,527.0
+
+1,422.8
+
+1,383.0
+
+1,237.2
+
+799.4
+
+Funds from operations (FFO)
+
+1,215.1
+
+1,074.6
+
+1,086.0
+
+951.3
+
+541.2
+
+Interest expense
+
+179.1
+
+167.8
+
+164.8
+
+151.4
+
+150.0
+
+Cash flow from operations
+
+485.4
+
+1,254.1
+
+746.2
+
+1,069.1
+
+892.8
+
+Capital expenditure
+
+686.4
+
+541.5
+
+924.2
+
+963.1
+
+624.1
+
+Free operating cash flow (FOCF)
+
+(201.0)
+
+712.6
+
+(178.1)
+
+105.9
+
+268.7
+
+Cash and short-term investments
+
+1,257.9
+
+1,189.9
+
+912.1
+
+914.0
+
+1,000.2
+
+Debt
+
+3,592.3
+
+2,804.2
+
+3,059.2
+
+2,243.8
+
+1,861.6
+
+EBITDA margin (%)
+
+6.9
+
+7.5
+
+7.5
+
+6.9
+
+5.1
+
+EBITDA interest coverage (x)
+
+8.5
+
+8.5
+
+8.4
+
+8.2
+
+5.3
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 8
+
+Jabil Inc.
+
+Table 2
+
+Jabil Inc. -- Financial Summary (cont.)
+Industry Sector: Diversified Technology
+--Fiscal year ended Aug. 31-Debt/EBITDA (x)
+
+2.4
+
+2.0
+
+2.2
+
+1.8
+
+2.3
+
+FFO/debt (%)
+
+33.8
+
+38.3
+
+35.5
+
+42.4
+
+29.1
+
+FOCF/debt (%)
+
+(5.6)
+
+25.4
+
+(5.8)
+
+4.7
+
+14.4
+
+N.M.--Not meaningful
+
+Liquidity: Strong
+In our view, Jabil has strong liquidity, with coverage of uses around 2.5x or more for the next 24 months and positive
+net sources even if EBITDA declines by 30%. The 'A-3' short-term rating is a function of the 'BBB-' issuer credit rating.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash of $694 million as of May 31, 2019;
+
+• Annual net capital expenditures in the range of $700
+million to $800 million per year;
+
+• Availability of approximately $1.5 billion under the
+combination of its $1.8 billion revolving credit
+facility due in November 2022 and $150 million
+revolving credit facility due in August 2020; and
+• Annual cash funds from operations around $1.3
+billion.
+
+• Current debt of $455 million and $25 million due
+over the subsequent 12 months;
+• Dividends of around $50 million per year; and
+• Modest but volatile working capital uses.
+
+Other Liquidity Factors
+Despite quantitative metrics that could support a higher liquidity assessment, we limit our assessment to strong
+because of qualitative factors. For example, we believe that in order to absorb a high-impact, low-probability event,
+Jabil would likely require some refinancing. In addition, we don't believe the company has taken steps to establish
+exceptional liquidity because of its acquisition and shareholder return objectives.
+
+Debt maturities
+As of May 31, 2019, Jabil's debt maturities were as follows:
+• $350 million term loan due August 2020
+• $400 million notes due December 2020
+• $500 million notes due September 2022
+• Estimated $460 million term loan due November 2022
+• $300 million notes due July 2023
+• $500 million notes due January 2028
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 9
+
+Jabil Inc.
+
+• $430 million outstanding under the combination of the company's $1.8 billion revolving credit facility due
+November 2022 and $150 million revolving credit facility due August 2020
+
+Covenant Analysis
+Compliance expectations
+We expect Jabil will maintain at least 30% cushion under its financial covenants.
+
+Requirements
+The company has a leverage covenant with a threshold of 4.0x, and an interest coverage covenant with a threshold of
+3.0x on its bank debt.
+
+Other Credit Considerations
+The 'bbb-' anchor rating reflects Jabil's competitive and cyclical industry conditions, capital intensity, and customer
+concentration, relative to other technology companies in the satisfactory business risk category.
+
+Issue Ratings
+Capital Structure
+Jabil Inc.'s capital structure consists of senior unsecured debt issued at the parent level.
+
+Analytical Conclusions
+We rate Jabil's unsecured debt 'BBB-', the same as the issuer credit rating, as no significant elements of subordination
+risk are present in the capital structure.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Jabil Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Aug. 31, 2018-Jabil Inc. reported amounts
+
+Debt
+
+Operating
+Income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+2,518.7
+
+542.2
+
+149.0
+
+1,527.0
+
+933.9
+
+1,036.7
+
+S&P Global Ratings' adjustments
+Depreciation and
+amortization
+
+--
+
+773.7
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation expense
+
+--
+
+98.5
+
+--
+
+--
+
+--
+
+--
+
+447.6
+
+113.6
+
+30.1
+
+(30.1)
+
+83.6
+
+--
+
+6.1
+
+(1.0)
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+Postretirement
+obligations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 10
+
+Jabil Inc.
+
+Table 3
+
+Reconciliation Of Jabil Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $) (cont.)
+Trade receivables
+securitizations
+
+1,695.0
+
+--
+
+--
+
+--
+
+(532.0)
+
+--
+
+Accessible cash and
+liquid investments
+
+(1,257.9)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Deemed repatriation
+(transition tax)
+
+46.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Uncertain tax positions
+
+136.8
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+(180.4)
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+(167.3)
+
+--
+
+--
+
+Funds from operations:
+Other
+
+--
+
+--
+
+--
+
+65.9
+
+--
+
+--
+
+Proceeds from sale of
+PP&E
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(350.3)
+
+1,073.6
+
+984.8
+
+30.1
+
+(311.9)
+
+(448.4)
+
+(350.3)
+
+Debt
+
+EBITDA
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+3,592.3
+
+1,527.0
+
+179.1
+
+1,215.1
+
+485.4
+
+686.4
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Table 4
+
+Reconciliation Of Jabil Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--12 months ended May 31, 2019-Jabil Inc. reported amounts
+
+Debt
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+2,931.7
+
+665.5
+
+178.1
+
+1,606.5
+
+851.7
+
+1,006.7
+
+S&P Global Ratings' adjustments
+Depreciation and
+amortization
+
+--
+
+765.0
+
+--
+
+--
+
+--
+
+--
+
+Share-based
+compensation expense
+
+--
+
+63.1
+
+--
+
+--
+
+--
+
+--
+
+447.6
+
+113.6
+
+30.1
+
+(30.1)
+
+83.6
+
+--
+
+7.4
+
+(1.0)
+
+--
+
+--
+
+--
+
+--
+
+Trade receivables
+securitizations
+
+1,900.7
+
+--
+
+--
+
+--
+
+(379.7)
+
+--
+
+Accessible cash and
+liquid investments
+
+(694.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Deemed repatriation
+(transition tax)
+
+38.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+Postretirement
+obligations
+
+Uncertain tax positions
+
+136.8
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+(180.4)
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+(167.3)
+
+--
+
+--
+
+Funds from operations:
+Other
+
+--
+
+--
+
+--
+
+65.9
+
+--
+
+--
+
+Operating cash flow:
+Other
+
+--
+
+--
+
+--
+
+--
+
+96.8
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 11
+
+Jabil Inc.
+
+Table 4
+
+Reconciliation Of Jabil Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $) (cont.)
+EBITDA: Other
+
+--
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+Proceeds from sale of
+PP&E
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(271.6)
+
+1,836.6
+
+941.0
+
+30.1
+
+(311.9)
+
+(199.3)
+
+(271.6)
+
+Debt
+
+EBITDA
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+4,768.2
+
+1,606.5
+
+208.2
+
+1,294.6
+
+652.4
+
+735.1
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/A-3
+
+Business risk: Satisfactory
+
+• Country risk: Intermediate
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 12
+
+Jabil Inc.
+
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Technology Hardware And Semiconductors
+Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Intermediate
+
+Significant
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of August 16, 2019)*
+Jabil Inc.
+Issuer Credit Rating
+
+BBB-/Stable/A-3
+
+Senior Unsecured
+
+BBB-
+
+Issuer Credit Ratings History
+15-Aug-2019
+
+BBB-/Stable/A-3
+
+10-Dec-2012
+
+BBB-/Stable/--
+
+30-Nov-2011
+
+BB+/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 14
+
+

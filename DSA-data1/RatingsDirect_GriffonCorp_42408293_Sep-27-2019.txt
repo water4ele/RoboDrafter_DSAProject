@@ -1,0 +1,1259 @@
+Griffon Corp.
+Primary Credit Analyst:
+Tennille C Lopez, New York (1) 212-438-3004; tennille.lopez@spglobal.com
+Secondary Contact:
+James E Fielding, Centennial (1) 212-438-2452; james.fielding@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Griffon Corp.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b+
+
+b+
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Well-known brands with leading market positions in hand and
+garden tools, closet storage and organization products, and garage
+doors.
+
+Leverage is high at over 5x EBITDA for the 12 months ended June 30, 2019.
+
+Larger scale than many building materials companies and good
+product diversity.
+
+Most of the company's debt, including its senior notes, comes due over the
+next three years.
+
+Majority of revenues tied to relatively stable maintenance and
+repair markets as opposed to new construction.
+
+EBITDA margins are at the low end of the range we consider to be average,
+though profitability is stable.
+Moderate customer concentration in home centers, with Home Depot
+making up 19% of sales, partially offset by diverse range of products and
+stock keeping units.
+Some earnings volatility in the defense electronics segment (15% of
+revenues) due to size and timing of contracts.
+
+Adjusted leverage is expected to remain high over the next 12 months. Adjusted leverage peaked at just over 7x
+EBITDA in fiscal year 2017 following an agreement to sell Clopay Plastic Products to Berry Global Group, which
+resulted in a substantial drop in revenue and EBITDA from continuing operations. Leverage then receded to 5.3x
+EBITDA for the 12 months ended June 30, 2019, as contributions from ClosetMaid LLC and other acquisitions filled
+the EBITDA gap. However, we expect leverage to remain at or slightly above 5x over the next year.
+Most of Griffon Corp.'s debt comes due over the next three years. We could take a more critical view of the company's
+capital structure and liquidity profile as debt maturities come closer to becoming current liabilities. The company has
+several very large debt maturities coming due over the next three years, including its $350 million revolving credit
+facility due in March 2021 ($123 million drawn and $21 million in letters of credit outstanding as of June 30, 2019).
+Griffon also has $1 billion of senior notes due in March 2022. Earlier this year the company withdrew an opportunistic
+offering of senior notes due to unfavorable market conditions that would have pushed out the maturity of a large
+amount of the senior unsecured notes.
+Well-known brands and leading market positions in the home and building products segment provide a competitive
+advantage. Griffon's brands include Clopay garage doors, AMES garden tools, and ClosetMaid organization products.
+Many products are the first or second-largest sellers in their categories, making them attractive for large retailers like
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Griffon Corp.
+
+Home Depot and other customers. Furthermore, most sales are for repair and remodeling, which is more stable than
+new construction markets.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that leverage will fall modestly, but remain at or slightly above 5x
+EBITDA over the next 12 months. This scenario assumes demand for the company's products remains steady amid
+modest overall economic growth and stable new housing starts. The stable outlook also assumes the maturity of
+the company's revolving credit facility will be extended over the next several months.
+
+Downside scenario
+We would lower our rating in the near term if the revolving credit facility becomes a current liability, at which point
+we would view liquidity to be less than adequate. Similarly, we would lower our rating in the intermediate term if a
+substantial portion of the unsecured notes are not proactively refinanced because we would view a debt-laden
+capital structure with a weighted average debt maturity of less than two years to be aggressive. We do not view a
+downgrade tied to a sharp increase in leverage as likely in the next year given our expectations for stable demand
+for most of Griffon's products.
+
+Upside scenario
+We could upgrade Griffon over the next 12 months if it extends its debt maturities and if adjusted debt to EBITDA
+falls much further than our base-case forecast, to 4x or lower.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. (roughly 78% of sales) GDP growth is 2.5% in
+calendar year 2019 and 1.8% in 2020.
+
+2018A 2019E 2020E
+Revenue ($000)
+
+• Griffon's organic revenue growth roughly
+approximates GDP expansion.
+• Adjusted EBITDA margins hold steady near the
+9.5% achieved through the 12 months ended June
+30, 2019.
+
+1,998
+
+2,185
+
+2,230
+
+Debt to EBITDA (x)
+
+6.3
+
+5.1
+
+4.8
+
+FFO to debt (%)
+
+8.5
+
+13-14
+
+14-15
+
+Note: Fiscal year ends Sept. 30. A--Actual. E--Estimate.
+
+• No additional acquisitions through our forecast
+timeframe.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Griffon Corp.
+
+Base-case projections
+The U.S. economy should support low-single-digit organic growth for Griffon. The U.S. accounted for 78% of Griffon's
+sales in the first nine months of fiscal 2019 (ending Sept. 30). Our economists expect U.S. economic growth to slow
+this year and next because of dissipating fiscal stimulus, mounting trade tension, and softer private fixed investment.
+Still, they forecast low-single-digit growth over the next several years.
+Our base-case financial forecast indicates that financial risk could improve in the intermediate term if near-term
+maturities are addressed. We expect adjusted debt to EBITDA to drop below 5x over the next 12-24 months.
+However, refinancing risk is the predominant credit constraint because most of the company's debt comes due in the
+next three years.
+
+Company Description
+New York City-based Griffon operates two primary business segments. The larger home and building products
+segment's brands include AMES (garden and landscaping tools), Clopay (residential garage doors), ClosetMaid (closet
+organization), and Cornell Cookson (commercial garage doors). The smaller defense and electronics segment provides
+intelligence, surveillance, and communications systems for defense, aerospace, and commercial customers. Griffon is
+publicly traded (NYSE: GFF).
+
+Business Risk: Fair
+Business risks include EBITDA margins that are at the low end of the range (9%-18%) we view as average for building
+products manufacturers, limited geographic diversity (78% of revenue is generated in the U.S.), modest customer
+concentration (Home Depot accounts for 19% of sales), and limited competitive advantages in the defense electronics
+segment (primarily because of its small scale). Strengths include overall good scale (nearly $2.2 billion of revenue
+forecast for fiscal year 2019), competitive advantages in the home and building products segment (85% of sales), and a
+low reliance on volatile residential and commercial construction end markets (less than 25% of sales).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Griffon Corp.
+
+Chart 1
+
+Peer comparison
+Peers with public financial statements include Armstrong World Industries (ceilings and walls), James Hardie
+International Group Ltd. (fiber cement siding) and Mohawk Industries Inc. (flooring products). All four companies sell
+branded products for residential and other end markets. Griffon, Armstrong, and James Hardie also have similar
+business risk profiles. The primary rating differentiator is financial risk, as all three peers have materially lower
+leverage than Griffon.
+Table 1
+
+Peer Comparison
+Industry sector: building materials and products
+
+Ratings as of Aug. 27,
+2019
+
+Griffon Corp.
+
+James Hardie
+International Group Ltd.
+
+Armstrong World
+Industries Inc.
+
+Mohawk Industries Inc.
+
+B+/Stable/--
+
+BB/Stable/--
+
+BB+/Stable/NR
+
+BBB+/Stable/A-2
+
+Fiscal year ended
+Sept. 30, 2018
+
+Fiscal year ended March
+31, 2019
+
+Fiscal year ended Dec.
+31, 2018
+
+Fiscal year ended Dec.
+31, 2018
+
+1,977.9
+
+2,506.6
+
+975.3
+
+9,983.6
+
+(Mil. $)
+Revenue
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Griffon Corp.
+
+Table 1
+
+Peer Comparison (cont.)
+EBITDA
+
+188.4
+
+538.2
+
+480.3
+
+1,764.4
+
+FFO
+
+100.5
+
+548.6
+
+397.7
+
+1,489.4
+
+Interest expense
+
+74.6
+
+63.5
+
+40.2
+
+71.4
+
+Cash interest paid
+
+68.8
+
+66.3
+
+30.9
+
+78.8
+
+Cash flow from operations
+
+87.2
+
+398.7
+
+209.7
+
+1,264.7
+
+Capital expenditure
+
+47.2
+
+301.1
+
+71.9
+
+783.4
+
+FOCF
+
+39.9
+
+97.6
+
+137.8
+
+481.3
+
+(55.5)
+
+(74.5)
+
+(177.4)
+
+197.2
+
+69.8
+
+78.7
+
+325.7
+
+119.1
+
+1,177.9
+
+1,985.7
+
+583.2
+
+3,576.0
+
+474.4
+
+974.4
+
+261.2
+
+7,440.1
+
+EBITDA margin (%)
+
+9.5
+
+21.5
+
+49.2
+
+17.7
+
+Return on capital (%)
+
+6.5
+
+19.1
+
+30.8
+
+10.6
+
+EBITDA interest coverage
+(x)
+
+2.5
+
+8.5
+
+11.9
+
+24.7
+
+FFO cash interest
+coverage (x)
+
+2.5
+
+9.3
+
+13.9
+
+19.9
+
+Debt/EBITDA (x)
+
+6.3
+
+3.7
+
+1.2
+
+2.0
+
+FFO/debt (%)
+
+8.5
+
+27.6
+
+68.2
+
+41.7
+
+Cash flow from
+operations/debt (%)
+
+7.4
+
+20.1
+
+36.0
+
+35.4
+
+DCF
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+
+FOCF/debt (%)
+DCF/debt (%)
+
+3.4
+
+4.9
+
+23.6
+
+13.5
+
+(4.7)
+
+(3.8)
+
+(30.4)
+
+5.5
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+Financial Risk: Highly leveraged
+Griffon's high leverage stems partly from the purchase of ClosetMaid in 2017 and Cornell Cookson in 2018. The $186
+million ClosetMaid acquisition was funded with a $275 million add-on to its 5.25% senior notes due 2022, while the
+$180 million Cornell Cookson acquisition was funded with cash and revolver borrowings. Leverage was also affected
+by a 2017 agreement to sell the Clopay Plastics business, which was then classified as a discontinued operation,
+sharply reducing EBITDA from continuing operations. Debt to EBITDA peaked at 7.1x in 2017, and the sale was
+completed in February 2018. Since then, contributions from ClosetMaid and other acquisitions, plus organic growth,
+have helped lower leverage to 5.4x EBITDA for the 12 months ended June 30. We forecast leverage to fall further
+toward 5.0x over the next 12 months.
+While key credit measures have improved and continue to strengthen under our base-case scenario, refinancing risk is
+the predominant credit constraint at this time. The weighted average maturity of Griffon's debt is under four years.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Griffon Corp.
+
+Table 2
+
+Financial Summary
+-- Fiscal year ended Sept. 30-12 months through June 2019
+
+2018
+
+2017
+
+2016
+
+Revenue
+
+2,181
+
+1,978
+
+1,525
+
+1,957
+
+EBITDA
+
+229
+
+188
+
+149
+
+207
+
+FFO
+
+125
+
+100
+
+69
+
+150
+
+76
+
+75
+
+63
+
+61
+
+Cash flow from operations
+
+99
+
+87
+
+64
+
+122
+
+Capital expenditure
+
+42
+
+47
+
+30
+
+87
+
+FOCF
+
+58
+
+40
+
+34
+
+35
+
+Dividends paid
+
+13
+
+50
+
+10
+
+9
+
+Cash and short-term investments
+
+58
+
+70
+
+48
+
+74
+
+1,219
+
+1,178
+
+1,063
+
+1,014
+
+(Mil. $)
+
+Interest expense
+Working-capital changes
+
+Debt
+Equity
+Debt and equity
+
+488
+
+474
+
+399
+
+411
+
+1,707
+
+1,652
+
+1,462
+
+1,425
+
+10.5
+
+9.5
+
+9.8
+
+10.6
+
+3.1
+
+2.5
+
+2.4
+
+3.4
+
+Adjusted ratios
+EBITDA margin (%)
+Return on capital (%)
+EBITDA interest coverage (x)
+Debt/EBITDA (x)
+
+5.3
+
+6.3
+
+7.1
+
+4.9
+
+10.2
+
+8.5
+
+6.5
+
+14.8
+
+Cash flow from operations/debt (%)
+
+8.2
+
+7.4
+
+6.0
+
+12.0
+
+FOCF/debt (%)
+
+2.8
+
+3.4
+
+3.2
+
+3.4
+
+71.4
+
+71.3
+
+72.7
+
+71.2
+
+FFO/debt (%)
+
+Debt/debt and equity (%)
+FFO--Funds from operations. FOCF--Free operating cash flow.
+
+Liquidity: Adequate
+We view Griffon to have adequate liquidity over the next 12 months, with estimated sources covering estimated uses
+by more than 2x.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• $140 million of forecast funds from operation.
+
+• $48 million of working capital outflows.
+
+• $207 million available on a revolving credit facility
+due 2021.
+
+• About $50 million of capital expenditures.
+• $13 million of dividends.
+
+• $70 million of cash and short term investments.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Griffon Corp.
+
+Debt maturities
+• $123 million drawn on a credit facility due 2021.
+• $1 billion 5.25% senior notes due 2022.
+• $48 million additional debt with various maturities.
+
+Covenant Analysis
+Requirements
+• Total Leverage: maximum 6.5x
+• Senior secured leverage: maximum 3x
+• Interest coverage: minimum 2.5x
+
+Compliance expectations
+Net debt to EBITDA (as calculated according to debt agreements) was 5.4x on June 30, 2019. We expect Griffon to
+remain in compliance with this total leverage covenant given our forecast for leverage to improve. Similarly, we expect
+the company to remain in compliance with other financial covenants.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+Our 'BB' issue-level and '1' recovery rating on the company's $350 million revolving credit facility reflect our
+expectation for very high (90%-100%; rounded estimate: 95%) recovery in the event of a payment default.
+Our 'B+' issue-level and '4' recovery rating on the company's $1 billion senior notes reflect our expectation for average
+(30%-50%; rounded estimate 30%) recovery in the event of a payment default.
+Our simulated default scenario contemplates a prolonged economic contraction in the U.S., with decreased residential
+repair and remodeling spending coupled with a smaller U.S. Department of Defense budget. These factors would
+severely impair Griffon's operational performance. Eventually this would cause a debt restructuring, payment default
+or bankruptcy filing.
+In valuing the company, we attributed approximately 70% of the net enterprise value (about $483 million) to Griffon's
+domestic subsidiaries and 30% (about $207 million) to its foreign subsidiaries. We further assume the revolving credit
+facility is 85% drawn at default, consistent with our treatment of committed credit facilities.
+
+Simulated default assumptions
+• Simulated year of default: 2023
+• EBITDA at emergence: $132 million
+• EBITDA multiple: 5.5x (consistent with other building products companies)
+• Gross enterprise value: $727 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Griffon Corp.
+
+Simplified waterfall
+• Net recovery value (after 5% administrative costs): $690 million
+• Valuation split (obligors/nonobligors): 70%/30%
+• Priority domestic claims (capital leases): about $5 million
+• Total value available to secured debt holders: $583 million
+• Revolving credit facility claim: about $300 million
+• --Recovery expectation: 90%-100% (rounded estimate: 95%)
+• Remaining value for unsecured claims: about $330 million
+• Senior notes claim: $1.03 billion
+• --Recovery expectation: 30%-50% (rounded estimate: 30%)
+
+Reconciliation
+Table 3
+
+Reconciliation Of Griffon Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Sept. 30, 2018-Griffon Corp. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted Cash flow from
+EBITDA
+operations
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Capital
+expenditure
+
+1,121.1
+
+152.3
+
+96.4
+
+65.6
+
+188.4
+
+66.4
+
+50.1
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(32.1)
+
+--
+
+--
+
+Cash taxes paid: other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(59.8)
+
+--
+
+--
+
+Operating leases
+
+87.1
+
+29.7
+
+6.1
+
+6.1
+
+(6.1)
+
+23.6
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+19.9
+
+(3.7)
+
+(3.7)
+
+--
+
+--
+
+--
+
+--
+
+(59.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+Capitalized interest
+
+--
+
+--
+
+--
+
+2.9
+
+(2.9)
+
+(2.9)
+
+(2.9)
+
+Share-based compensation
+expense
+
+--
+
+10.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+2.9
+
+--
+
+--
+
+--
+
+--
+
+9.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: tax liabilities
+Funds from operations: other
+Total adjustments
+
+--
+
+--
+
+--
+
+--
+
+13.1
+
+--
+
+--
+
+56.8
+
+36.1
+
+5.3
+
+9.0
+
+(87.9)
+
+20.7
+
+(2.9)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Griffon Corp.
+
+Table 3
+
+Reconciliation Of Griffon Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,177.9
+
+188.4
+
+101.8
+
+74.6
+
+Funds from Cash flow from
+operations
+operations
+100.5
+
+Capital
+expenditure
+
+87.2
+
+47.2
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Adequate
+• Management and governance: Fair
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : b+
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019Criteria | Corporates | General: Corporate Methodology:
+Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Griffon Corp.
+
+• Criteria | Corporates | Industrials: Key Credit Factors For The Building Materials Industry, Dec. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 6, 2019)*
+Griffon Corp.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+BB
+
+Senior Unsecured
+
+B+
+
+Issuer Credit Ratings History
+27-Sep-2017
+
+B+/Stable/--
+
+08-Sep-2017
+
+BB-/Watch Neg/--
+
+26-Apr-2017
+
+BB-/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+

@@ -1,0 +1,1413 @@
+Guala Closures SpA
+Primary Credit Analyst:
+Lina Sanchez, Milan + 39272111203; lina.sanchez@spglobal.com
+Secondary Contact:
+Desiree I Menjivar, London + 44 20 7176 7822; desiree.menjivar@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 1
+
+Guala Closures SpA
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb-
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Positive/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Stable end markets with growth opportunities in Eastern Europe, the
+Americas, and Asia.
+
+Limited size and product diversity.
+
+Value-added products and pricing discipline support strong profit margins.
+
+Exposure to foreign exchange fluctuations, especially in Argentina.
+Possible improvement in cash flows relies on strict working capital
+management.
+
+Guala Closures' strong geographic footprint, market position, long-standing customer relationships, and leading brand
+underpin the company's growth platform.These factors allow Guala Closures to support its clients' expansion into
+higher growth markets, such as Eastern Europe, the Americas, and India.
+We expect Guala Closures' EBITDA margin to return to historical levels in the medium-term. After 2018's exceptional
+costs, related to the listing of the company on the Milan Stock Exchange, we expect EBITDA margins to gradually
+recover. We do not expect substantial exceptional costs to recur. That said, we foresee some EBITDA margin dilution
+during 2019 due to the consolidation of United Closures and Plastics Ltd., acquired in December 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 2
+
+Guala Closures SpA
+
+Outlook: Positive
+
+The positive outlook indicates that we could raise the long-term issuer credit rating on Guala Closures to 'BB-' in
+the next 12 months if cash flow generation improved materially on a sustainable basis. We expect a reduction in
+working capital outflows to be the main driver of this improvement.
+
+Downside scenario
+We could revise our outlook to stable if Guala Closures' FOCF remained weak, most likely due to ongoing large
+working capital outflows. We could also revise the outlook to stable if Guala Closures' credit metrics failed to
+improve over the next 12 months.
+
+Upside scenario
+We could raise our rating if Guala Closures successfully stemmed its working capital outflows, free operating cash
+flow (FOCF) to debt improved to above 5%, and funds from operations (FFO) to debt sustainably improved to
+above 16%. We would also expect the company to adopt a financial policy that supports such credit metrics.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 3
+
+Guala Closures SpA
+
+Assumptions
+
+• GDP growth in Europe (56% of sales) of 1.1% for
+2019 and 1.4% for 2020. In the Americas (19% of
+sales), we expect GDP growth of 1.0% for 2019 and
+2.0% in 2020. In Asia (15% of sales), we expect
+annual GDP growth of 7.0% in 2019 and 7.1% in
+2020. The majority of Guala Closures' sales in Asia
+relate to India and China.
+
+Key Metrics
+
+2018A
+Debt to EBITDA (x)
+FOCF to debt (%)
+
+2019E
+
+2020E
+
+4.5 4.0-4.5
+
+3.5-4.0
+
+(2.1) 4.0-8.0 6.0-10.0
+
+*All figures are S&P Global Ratings adjusted. A--Actual.
+E--Estimate. FOCF--Free operating cash flow.
+
+• Annual organic revenue growth of 3.7% in 2019 and
+4.4% in 2020, in line with local GDP growth rates.
+• S&P Global Ratings adjusted EBITDA margins at
+about 19%. Margins would be supported by stable
+contribution from high-margin closures, a strong
+pricing discipline, and no sizeable exceptional costs,
+after the listing-related costs in 2018. Margins would
+be undermined, especially during 2019, by the
+consolidation of UCP.
+• Annual capital expenditure (capex) at about 5.5% of
+revenue for 2019-2020. This is broadly in line with
+historical capex levels.
+• Tax payments of about €24 million per year.
+• Annual working capital outflows between €3 million
+and €7 million over 2019 and 2020, on improved
+inventories and payables.
+• Annual dividend payments of €6 million over
+2019-2023, primarily for minority shareholders.
+• No significant acquisitions.
+
+Base-case projections
+The company experienced significant working capital outflows in 2017 and 2018 due to increase in inventories, the
+payment of Space4's trade payables, and the consolidation of UCP, Guala Closures' latest acquisition. From 2019, we
+expect the normalization of Guala Closures' working capital pattern through inventory management, along with
+improved trade payables, will support the company's FOCF generation. That said, foreign exchange fluctuations could
+offset the improvement of the cash flow generation.
+We expect a slight improvement in Guala Closures' key credit measures over 2019-2020. The refinancing in 2018
+extended Guala Closures' debt maturities and lowered the cost of its debt, the full benefit of which will come through in
+2019. We forecast FOCF to debt to improve to about 6% by year-end 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 4
+
+Guala Closures SpA
+
+We assume no acquisitions, although we do not rule them out. The bottle closures market remains fragmented. Guala
+Closures has actively participated in market consolidation via small acquisitions of niche, market-leading, local players,
+which it has successfully integrated with a limited effect on leverage. We think acquisitions will be a part of Guala
+Closures' growth strategy, but we do not incorporate any transformational acquisitions in our base case at this stage.
+
+Company Description
+Guala Closures is an Italy-based producer of aluminum and nonrefillable closures. The company had revenue of €543
+million in 2018. Guala Closures primarily derives revenue from the sale of safety closures (42%), roll-on closures (29%),
+and wine bottle closures (19%). Guala Closures has been listed on the Milan Stock Exchange (STAR segment) since
+August 2018.
+
+Business Risk: Fair
+Guala Closures is the leading player in the market of specialty closures for spirits and wines. It has a 60% market share
+in safety closures for spirits and produces about 30% of all wine screwcaps, a growing market.
+Guala Closures is geographically well diversified, in terms of both revenue and assets. Revenue is split between Europe
+(56%), the Americas (19%), Asia (15%), Oceania (8%), and Africa (3%). Its production plants are spread across all five
+continents.
+Growth opportunities are stronger in Latin America and Asia. These emerging markets are characterized by growing
+demand for spirits and higher counterfeiting risk. In general, we expect Guala Closures to benefit from the increasing
+penetration of screw caps for wine bottles and the premiumization of mineral water products and bottles.
+Guala Closures' strong EBITDA margins also support our business risk assessment. These margins largely reflect the
+patent-protected nature of the company's safety closures (42% of sales), as well as other key products, such as
+value-added wine caps and customized luxury closures. Although the company does not have any contractual
+pass-through provisions, historically it has successfully passed cost increases on to customers in annual contract
+renegotiations, albeit with some delay.
+Our business risk assessment also reflects Guala Closures' limited end-market and product diversity. Revenue mainly
+relates to spirits (63%) and wines (19%); non-alcoholic beverages, oil and vinegar, and pharmaceutical products only
+account for 18% of revenue.
+
+Peer comparison
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 5
+
+Guala Closures SpA
+
+Table 1
+
+Guala Closures SpA--Peer Comparison
+Industry Sector: Packaging
+--Fiscal year ended Sept.
+29, 2018--
+
+--Fiscal year ended Dec. 31, 2018-Guala Closures
+SpA
+
+Ardagh Group
+S.A.
+
+Silgan Holdings
+Inc.
+
+Crown Holdings
+Inc.
+
+Berry Global Group Inc.
+
+Revenue
+
+543.1
+
+7,945.7
+
+3,885.8
+
+9,739.7
+
+6,772.4
+
+EBITDA
+
+(Mil. €)
+
+106.6
+
+1,215.0
+
+544.9
+
+1,373.0
+
+1,189.0
+
+Funds from operations (FFO)
+
+57.0
+
+748.0
+
+390.8
+
+915.3
+
+911.3
+
+Interest expense
+
+29.1
+
+554.5
+
+111.1
+
+346.8
+
+249.3
+
+Cash interest paid
+
+26.6
+
+375.2
+
+112.9
+
+303.1
+
+244.1
+
+Cash flow from operations
+
+26.1
+
+602.2
+
+469.7
+
+530.2
+
+894.1
+
+Capital expenditure
+
+36.0
+
+512.7
+
+166.8
+
+403.5
+
+281.4
+
+Free operating cash flow
+(FOCF)
+
+(9.9)
+
+89.4
+
+302.9
+
+126.6
+
+612.7
+
+(15.5)
+
+(25.8)
+
+257.1
+
+70.7
+
+584.3
+
+47.8
+
+454.2
+
+63.6
+
+530.2
+
+327.9
+
+Debt
+
+478.5
+
+9,668.5
+
+2,120.0
+
+7,739.8
+
+5,082.4
+
+Equity
+
+643.0
+
+(1,318.0)
+
+769.7
+
+1,123.2
+
+1,234.2
+
+EBITDA margin (%)
+
+19.6
+
+15.3
+
+14.0
+
+14.1
+
+17.6
+
+Return on capital (%)
+
+7.6
+
+7.4
+
+11.5
+
+13.3
+
+10.6
+
+EBITDA interest coverage (x)
+
+3.7
+
+2.2
+
+4.9
+
+4.0
+
+4.8
+
+FFO cash interest coverage (x)
+
+3.1
+
+3.0
+
+4.5
+
+4.0
+
+4.7
+
+Discretionary cash flow (DCF)
+Cash and short-term
+investments
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+FFO/debt (%)
+Cash flow from
+operations/debt (%)
+
+4.5
+
+8.0
+
+3.9
+
+5.6
+
+4.3
+
+11.9
+
+7.7
+
+18.4
+
+11.8
+
+17.9
+
+5.5
+
+6.2
+
+22.2
+
+6.8
+
+17.6
+
+FOCF/debt (%)
+
+(2.1)
+
+0.9
+
+14.3
+
+1.6
+
+12.1
+
+DCF/debt (%)
+
+(3.2)
+
+(0.3)
+
+12.1
+
+0.9
+
+11.5
+
+Guala Closures is smaller than its peers, and it focuses primarily on the narrower wine and spirits segment. Its stronger
+EBITDA margins (19%-20%) reflect the value-added nature of its products. This contrasts with most peers, which are
+larger and serve a wider range of end-markets (such as food, personal care, and hygiene). However, their products
+tend to be more commoditized, resulting in lower EBITDA margins (15% on average).
+At 6.6% of revenue, Guala Closures' capex-to-revenue ratio is the highest among the selected peers. This mainly
+relates to recent investments in capacity increase and new products. Guala Closures allocates 60% of its capex to
+expansion projects, such as new facilities, new product developments, and technological expansion. The remaining
+40% relates to maintenance.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 6
+
+Guala Closures SpA
+
+Financial Risk: Aggressive
+We expect EBITDA growth and a reduction in leverage will fuel an improvement in the company's credit metrics.
+In 2018, working capital needs increased by €15 million, primarily due to a reduction in trade payables as a result of
+the merger into Space4 S.p.A. Unfavorable FX movements--particularly translation impact in the company's Argentine
+operations--also harmed cash flow.
+We expect a reduction in working capital outflows in 2019 due to tighter working capital management. Cash flow will
+benefit from reduced interest expenses due to Guala Closures' refinancing in 2018. However, the ongoing devaluation
+of the Argentine peso is likely to partly offset this.
+As a listed company, Guala Closures aims to reduce its net debt to EBITDA to 3.0x-3.5x on a reported basis, as well as
+on an adjusted basis. We expect Guala Closures to achieve this via debt repayments through cash generation.
+
+Financial summary
+Table 2
+
+Guala Closures SpA--Financial Summary*
+Industry Sector: Packaging
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+543.1
+
+534.8
+
+500.3
+
+520.5
+
+487.8
+
+EBITDA
+
+(Mil. €)
+
+106.6
+
+107.1
+
+104.6
+
+106.7
+
+93.6
+
+Funds from operations (FFO)
+
+57.0
+
+50.7
+
+41.5
+
+41.2
+
+30.1
+
+Interest expense
+
+29.1
+
+31.5
+
+41.2
+
+42.6
+
+43.6
+
+Cash interest paid
+
+26.6
+
+30.7
+
+41.2
+
+41.3
+
+42.3
+
+Cash flow from operations
+
+26.1
+
+26.1
+
+36.2
+
+50.1
+
+23.5
+
+Capital expenditure
+
+36.0
+
+28.9
+
+31.3
+
+22.7
+
+33.8
+
+Free operating cash flow (FOCF)
+
+(9.9)
+
+(2.8)
+
+4.9
+
+27.3
+
+(10.4)
+
+(15.5)
+
+(9.7)
+
+(1.4)
+
+23.5
+
+(16.9)
+
+Cash and short-term investments
+
+47.8
+
+40.6
+
+54.7
+
+61.9
+
+35.3
+
+Gross available cash
+
+47.8
+
+40.6
+
+54.7
+
+61.9
+
+35.3
+
+Debt
+
+478.5
+
+614.3
+
+592.9
+
+581.0
+
+567.8
+
+Equity
+
+643.0
+
+91.8
+
+103.5
+
+115.0
+
+136.1
+
+EBITDA margin (%)
+
+19.6
+
+20.0
+
+20.9
+
+20.5
+
+19.2
+
+Return on capital (%)
+
+7.6
+
+10.1
+
+10.3
+
+9.5
+
+7.1
+
+EBITDA interest coverage (x)
+
+3.7
+
+3.4
+
+2.5
+
+2.5
+
+2.1
+
+FFO cash interest coverage (x)
+
+3.1
+
+2.7
+
+2.0
+
+2.0
+
+1.7
+
+Debt/EBITDA (x)
+
+4.5
+
+5.7
+
+5.7
+
+5.4
+
+6.1
+
+11.9
+
+8.3
+
+7.0
+
+7.1
+
+5.3
+
+5.5
+
+4.2
+
+6.1
+
+8.6
+
+4.1
+
+Discretionary cash flow (DCF)
+
+Adjusted ratios
+
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 7
+
+Guala Closures SpA
+
+Table 2
+
+Guala Closures SpA--Financial Summary* (cont.)
+Industry Sector: Packaging
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+FOCF/debt (%)
+
+(2.1)
+
+DCF/debt (%)
+
+(3.2)
+
+(0.5)
+
+0.8
+
+4.7
+
+(1.8)
+
+(1.6)
+
+(0.2)
+
+4.0
+
+(3.0)
+
+*All figures are S&P Global Ratings adjusted.
+
+Liquidity: Adequate
+We assess Guala Closures' liquidity as adequate and estimate liquidity sources to exceed liquidity uses by more than
+2.0x over the next two years. An adequate cash balance and availabilities under Guala Closures' €80 million revolving
+credit facility (RCF) support our assessment of the company's liquidity position. The company has no major debt
+maturities before 2024.
+
+Principal liquidity sources over the 12 months from June 30, 2019
+• Cash balance of about €37 million;
+• Availability of €66 million under the €80 million RCF maturing in 2024; and
+• Forecast cash FFO of €65 million-€70 million.
+
+Principal liquidity uses over the same period
+• Working capital outflows of €5 million;
+• Dividends of about €6 million;
+• Debt repayments of about €7 million ; and
+• Capex of €34 million to €36 million.
+
+Debt maturities
+As of June 30, 2019, Guala Closures' main debt maturities were:
+• 2024: €455 million (senior secured notes); and
+• 2024: €13.4 million (drawings under €80 million RCF at June 30, 2019).
+
+Covenant Analysis
+Compliance expectations
+The documentation of the €80 million RCF includes a springing senior net leverage cap of 6.4x, which only applies if
+the drawings under the RCF exceed 40%. As of year-end 2018, S&P Global Ratings adjusted leverage ratio was 4.5x
+and we do not expect the RCF to be drawn in excess of 40% in our base case.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 8
+
+Guala Closures SpA
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our issue rating and the recovery rating on the €455 million senior secured notes due 2024 are 'B+' and '4',
+respectively. The recovery rating reflects meaningful recovery prospects of 30%-50% (rounded estimate: 40%). The
+rating is supported by the low level of senior secured debt and constrained by prior ranking liabilities (comprising an
+€80 million super senior RCF and local debt facilities).
+• Our hypothetical default scenario assumes pressures on revenue and profitability stemming from customer losses to
+competitors and rising raw material prices, which the company is not able to pass on to customers.
+• We value Guala Closures on a going concern basis, given its leading market shares in specialty closures and its
+long-standing customer relationships.
+
+Simulated default assumptions
+• Year of default: 2023
+• Jurisdiction: Italy
+
+Simplified waterfall
+• Emergence EBITDA: €60 million (maintenance capex assumed at 4.5% of revenues, cyclicality adjustment of
+5%--standard for the packaging sector)
+• Distressed EBITDA multiple: 5.0x
+• Gross recovery value: €300 million
+• Net recovery value after administrative expenses (5%): €285 million
+• Estimated priority claims (RCF and other facilities): €87.6 million
+• Remaining recovery value: €197.4 million
+• Senior secured debt claims: €468.7 million*
+• Recovery range: 30%-50% (rounded estimate: 40%)
+• Recovery rating: 4
+*All debt amounts include six months' prepetition interest.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 9
+
+Guala Closures SpA
+
+Table 3
+
+Reconciliation Of Guala Closures SpA Reported Amounts With S&P Global Ratings' Adjusted Amounts
+--Fiscal year ended Dec. 31, 2018-Guala Closures SpA reported amounts (mil. €)
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+502.08
+
+617.84
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+82.73
+
+48.37
+
+26.76
+
+106.55
+
+48.40
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(22.91)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(25.88)
+
+--
+
+Operating leases
+
+10.41
+
+--
+
+4.34
+
+0.74
+
+0.74
+
+(0.74)
+
+3.60
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+(0.59)
+
+--
+
+--
+
+--
+
+1.63
+
+--
+
+--
+
+(47.80)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+0.83
+
+--
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(25.88)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+25.17
+
+--
+
+--
+
+--
+
+--
+
+--
+
+14.36
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(0.12)
+
+(0.12)
+
+--
+
+--
+
+--
+
+EBITDA: Other
+income/(expense)
+
+--
+
+--
+
+19.61
+
+19.61
+
+--
+
+--
+
+--
+
+Depreciation and amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+(0.10)
+
+--
+
+--
+
+--
+
+(23.62)
+
+25.17
+
+23.83
+
+20.96
+
+2.37
+
+(49.53)
+
+(22.28)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+57.03
+
+26.12
+
+Accessible cash and liquid
+investments
+
+Debt: Amortized cost
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+478.46
+
+643.01
+
+106.55
+
+69.33
+
+29.13
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Positive/--
+
+Business risk: Fair
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 10
+
+Guala Closures SpA
+
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Containers And Packaging Industry, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 11
+
+Guala Closures SpA
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 27, 2019)*
+Guala Closures SpA
+Issuer Credit Rating
+
+B+/Positive/--
+
+Senior Secured
+
+B+
+
+Issuer Credit Ratings History
+24-Sep-2018
+
+B+/Positive/--
+
+22-Jun-2018
+
+B/Watch Pos/--
+
+06-May-2011
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 13
+
+

@@ -1,0 +1,1334 @@
+Entergy New Orleans LLC
+Primary Credit Analyst:
+Gerrit W Jepsen, CFA, New York (1) 212-438-2529; gerrit.jepsen@spglobal.com
+Secondary Contact:
+William Hernandez, Farmers Branch + 1 (214) 765-5877; william.hernandez@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Environmental, Social, And Governance
+Group Influence
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Entergy New Orleans LLC
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb+
+bbbBBB+/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Low-risk, fully rate-regulated utility concentrated in New Orleans.
+
+Small customer base with modest growth.
+
+Generally stable regulatory framework.
+
+Limited regulatory or business diversity.
+
+About 80% of operating revenues are from residential and commercial customers,
+providing stability to the revenue and cash flow.
+
+Susceptible to weather-related disasters.
+Negative discretionary cash flow, leading to external
+funding needs.
+
+We expect stable cash flows in the coming years, with a consistent customer base consisting of about 80% residential
+and commercial customers. It is, however, offset by a concentrated service territory, with almost all of its revenue
+generated in New Orleans.
+Diverse fuel mix for power generation-- Entergy New Orleans LLC (ENO) owns about 500 megawatts (MW) of natural
+gas and fuel oil generating capacity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Entergy New Orleans LLC
+
+Outlook: Stable
+
+The stable outlook on ENO reflects that on its parent company, Entergy Corp. Over the next two years, S&P
+Global Ratings' expectation is that Entergy will successfully exit its higher-risk, non-utility nuclear power
+generation stations and grow through its lower-risk, rate-regulated utility businesses, leading to an improved
+business risk profile. The outlook also reflects our base-case forecast for adjusted funds from operations (FFO) to
+debt averaging around 15% over the next few years, in line with the current significant financial risk profile.
+
+Downside scenario
+We could lower the ratings on Entergy and its subsidiaries, including ENO, over the next 24 months if the
+non-utility-owned nuclear power generation stations, which we currently expect to be closed, remain open and we
+anticipate a weakening in its financial measures, including adjusted FFO to debt consistently below 14%.
+
+Upside scenario
+Although unlikely given our expectation for weakened financial measures due to the impact of U.S. tax reform, we
+could raise our rating on Entergy over the next 24 months if we project that it will improve its adjusted FFO to
+debt consistently above 17%.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• Annual EBITDA margin at 20%-25%;
+
+2018A 2019E
+
+• Ongoing cost recovery through rate surcharges;
+
+Adjusted FFO to debt (%)
+
+• Modest customer growth;
+
+Adjusted debt to EBITDA (x)
+
+• Effective management of regulatory risk;
+• All debt maturities refinanced;
+
+Adjusted FFO cash interest coverage (x)
+
+2020E
+
+27.5
+
+18-19
+
+20-21
+
+4
+
+4-4.5
+
+3.5-4
+
+6.1
+
+4.5-5 4.5-5.5
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Annual capital spending averaging $220 million;
+• Dividend payments of about $10 million; and
+• Negative discretionary cash flow indicates external
+funding needs.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Entergy New Orleans LLC
+
+Company Description
+ENO is a vertically integrated electric and natural gas distribution utility operating largely in New Orleans.
+
+Business Risk: Strong
+Our assessment of ENO's business risk profile reflects its operations under a generally stable regulatory environment
+by the City Council of New Orleans (NOCC), a small customer base, and limited regulatory and business diversity.
+Tariff-setting is characterized by historical test years that can be updated for known and measurable changes, reducing
+regulatory lag and supporting operating cash flow and credit quality. NOCC can authorize constructive rate
+mechanisms such as fuel and capacity riders that provide cash-flow/financial stability. ENO provides roughly 5% of
+Entergy's consolidated revenues and serves a small customer base of 200,000 electric and 105,000 natural gas
+customers. About 80% of operating revenues are from residential and commercial customers, providing some stability
+to revenue and cash flow. ENO's generation fleet of about 500 MW consists of natural gas and fuel oil. ENO is
+constructing a 128-MW, natural gas-fired generating facility--the New Orleans Power Station--for about $210 million.
+The station is expected to be operating by mid-2020.
+
+Peer comparison
+Table 1
+
+Entergy New Orleans LLC -- Peer Comparison
+Industry sector: Electric
+Entergy New Orleans LLC Cleco Power LLC El Paso Electric Co.
+Ratings as of Aug. 5, 2019
+
+BBB+/Stable/--
+
+BBB+/Stable/NR
+
+BBB/Negative/--
+
+Tucson Electric Power Co.
+A-/Negative/NR
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+704.6
+
+1,220.1
+
+903.6
+
+1,432.6
+
+EBITDA
+
+127.8
+
+431.2
+
+319.3
+
+478.5
+
+Funds from operations (FFO)
+
+140.2
+
+357.5
+
+236.1
+
+407.9
+
+Interest expense
+
+27.4
+
+76.3
+
+102.2
+
+71.1
+
+Cash interest paid
+
+27.5
+
+73.7
+
+79.7
+
+70.6
+
+Cash flow from operations
+
+161.7
+
+318.5
+
+272.0
+
+454.6
+
+Capital expenditure
+
+201.6
+
+270.3
+
+273.8
+
+440.7
+
+Free operating cash flow (FOCF)
+
+(39.9)
+
+48.2
+
+(1.8)
+
+13.9
+
+Discretionary cash flow (DCF)
+
+(63.7)
+
+(73.2)
+
+(59.4)
+
+(71.1)
+
+19.7
+
+32.0
+
+12.9
+
+138.1
+
+Debt
+
+509.1
+
+1,548.2
+
+1,519.3
+
+1,828.9
+
+Equity
+
+445.0
+
+1,594.5
+
+1,164.1
+
+1,819.7
+
+EBITDA margin (%)
+
+18.1
+
+35.3
+
+35.3
+
+33.4
+
+Return on capital (%)
+
+8.5
+
+9.4
+
+7.3
+
+8.5
+
+EBITDA interest coverage (x)
+
+4.7
+
+5.7
+
+3.1
+
+6.7
+
+Cash and short-term investments
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Entergy New Orleans LLC
+
+Table 1
+
+Entergy New Orleans LLC -- Peer Comparison (cont.)
+Industry sector: Electric
+Entergy New Orleans LLC Cleco Power LLC El Paso Electric Co.
+
+Tucson Electric Power Co.
+
+FFO cash interest coverage (x)
+
+6.1
+
+5.9
+
+4.0
+
+6.8
+
+Debt/EBITDA (x)
+
+4.0
+
+3.6
+
+4.8
+
+3.8
+
+FFO/debt (%)
+
+27.5
+
+23.1
+
+15.5
+
+22.3
+
+Cash flow from operations/debt (%)
+
+31.8
+
+20.6
+
+17.9
+
+24.9
+
+FOCF/debt (%)
+
+(7.8)
+
+3.1
+
+(0.1)
+
+0.8
+
+(12.5)
+
+(4.7)
+
+(3.9)
+
+(3.9)
+
+DCF/debt (%)
+
+Financial Risk: Significant
+Our assessment of ENO's stand-alone financial risk profile incorporates a base-case scenario for 2019-2021 that
+includes adjusted FFO to debt of 19%-20%, slightly above the midpoint of the benchmark range of the significant
+financial risk profile category. ENO's historical financial measures were elevated due to significantly increased deferred
+taxes that started reversing in 2017. We expect the supplemental ratio of FFO cash interest coverage to be 4.5x-5x,
+supporting the financial risk assessment. In addition, we anticipate continued capital spending, which, when combined
+with the utility's dividend payments, will result in DCF that is negative through 2021. Over the next few years, we
+expect debt leverage to be relatively significant for a regulated utility, as indicated by debt to EBITDA averaging about
+4.1x. The utility will therefore require external financing or capital infusions from the Entergy group. We assess ENO's
+financial risk under our medial volatility financial benchmarks, reflecting the company's lower-risk, regulated utility
+operations and effective management of regulatory risk. These benchmarks are more relaxed compared with those
+used for a typical corporate issuer.
+
+Financial summary
+Table 2
+
+Entergy New Orleans LLC -- Financial Summary
+Industry sector: Electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+704.6
+
+703.4
+
+651.7
+
+668.8
+
+690.1
+
+EBITDA
+
+127.8
+
+141.7
+
+144.5
+
+135.6
+
+99.9
+
+Funds from operations (FFO)
+
+140.2
+
+127.1
+
+208.1
+
+109.6
+
+77.1
+
+27.4
+
+23.7
+
+23.8
+
+19.8
+
+18.5
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+
+27.5
+
+23.3
+
+22.3
+
+17.8
+
+17.9
+
+161.7
+
+118.6
+
+195.3
+
+106.2
+
+82.3
+
+Capital expenditure
+
+201.6
+
+115.5
+
+328.3
+
+90.6
+
+61.4
+
+Free operating cash flow (FOCF)
+
+(39.9)
+
+3.0
+
+(133.0)
+
+15.6
+
+20.9
+
+Discretionary cash flow (DCF)
+
+(63.7)
+
+(92.9)
+
+(152.2)
+
+7.8
+
+14.4
+
+19.7
+
+32.7
+
+103.1
+
+88.9
+
+42.4
+
+Cash flow from operations
+
+Cash and short-term investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+Entergy New Orleans LLC
+
+Table 2
+
+Entergy New Orleans LLC -- Financial Summary (cont.)
+Industry sector: Electric
+--Fiscal year ended Dec. 31-2018
+Gross available cash
+
+2017
+
+2016
+
+2015
+
+2014
+
+19.7
+
+32.7
+
+103.1
+
+88.9
+
+42.4
+
+Debt
+
+509.1
+
+390.1
+
+339.5
+
+258.0
+
+299.5
+
+Equity
+
+445.0
+
+415.5
+
+436.8
+
+359.9
+
+237.9
+
+EBITDA margin (%)
+
+18.1
+
+20.1
+
+22.2
+
+20.3
+
+14.5
+
+Return on capital (%)
+
+8.5
+
+12.7
+
+14.4
+
+15.9
+
+11.5
+
+EBITDA interest coverage (x)
+
+4.7
+
+6.0
+
+6.1
+
+6.9
+
+5.4
+
+FFO cash interest coverage (x)
+
+6.1
+
+6.5
+
+10.3
+
+7.1
+
+5.3
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.0
+
+2.8
+
+2.3
+
+1.9
+
+3.0
+
+FFO/debt (%)
+
+27.5
+
+32.6
+
+61.3
+
+42.5
+
+25.7
+
+Cash flow from operations/debt (%)
+
+31.8
+
+30.4
+
+57.5
+
+41.2
+
+27.5
+
+(7.8)
+
+0.8
+
+(39.2)
+
+6.0
+
+7.0
+
+(12.5)
+
+(23.8)
+
+(44.8)
+
+3.0
+
+4.8
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Liquidity: Adequate
+We assess the company's stand-alone liquidity as adequate, because we believe its liquidity sources are likely to cover
+uses by more than 1.1x over the next 12 months and meet cash outflows even with a 10% decline in EBITDA. The
+assessment also reflects the company's generally prudent risk management, sound relationship with banks, and a
+generally satisfactory standing in credit markets.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Estimated cash FFO of about $130 million; and
+
+• Minimal debt maturities;
+
+• Credit facility availability of about $25 million.
+
+• Capital spending of about $125 million; and
+• Dividends of about $10 million.
+
+Debt maturities
+2019: nil
+2020: $25 million
+2021: nil
+2022: nil
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+Entergy New Orleans LLC
+
+2023: $100 million
+Thereafter: $342.4 million.
+
+Other Credit Considerations
+We assess the comparable rating analysis modifier for ENO as negative, reflecting its vulnerability to hurricanes, a
+unique risk characteristic that could stress credit measures.
+
+Environmental, Social, And Governance
+
+We consider environmental factors in our rating analysis. ENO's social and governance factors are generally
+comparable with those of its peers.
+As both a vertically integrated electric utility with generation assets and a natural gas distribution utility, ENO has
+similar environmental risks to those of its vertically integrated peers and Entergy, which has about 21,000 MW of
+generation that consists of 65% natural gas, 25% nuclear, and about 10% coal. ENO's gas operations are still
+exposed to environmental risks in the normal course of business, as there is a possibility for the company's
+pipelines to emit methane.
+Entergy continues to decarbonize its portfolio with wind-generation investments, and the company plans to have
+1,000 MW of renewable energy resources by 2020, including through power purchase agreements in Arkansas and
+Louisiana. By pursuing more renewables generation, the company is meeting its customers' demand for renewable
+energy.
+Social and governance factors are in line with those of other utility companies.
+
+Group Influence
+Under our group rating methodology, we consider ENO as a core subsidiary of its parent Entergy, reflecting our view
+that it is highly unlikely to be sold, is integral to the overall group strategy, possesses a strong long-term commitment
+from senior management, and is closely linked to the parent's name and reputation. We assess the issuer credit rating
+on ENO to be in line with Entergy's group credit profile of 'bbb+'.
+
+Issue Ratings - Recovery Analysis
+ENO's first mortgage bonds benefit from a first-priority lien on substantially all of the utility's real property owned or
+subsequently acquired. Collateral coverage of more than 1.5x supports a recovery rating of '1+' and an issue rating of
+two notches above the issuer credit rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Entergy New Orleans LLC
+
+Reconciliation
+Table 3
+
+Reconciliation Of Entergy New Orleans LLC's Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Entergy New Orleans LLC's reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+Debt
+
+Revenue
+
+EBITDA
+
+Operating
+income
+
+483.7
+
+717.4
+
+130.1
+
+74.2
+
+19.6
+
+127.8
+
+171.8
+
+202.2
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+39.8
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(19.8)
+
+--
+
+--
+
+Operating leases
+
+9.0
+
+--
+
+2.1
+
+0.5
+
+0.5
+
+(0.5)
+
+1.5
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+4.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(19.7)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+2.2
+
+(2.2)
+
+(2.2)
+
+(2.2)
+
+(65.7)
+
+(12.8)
+
+(12.8)
+
+(1.8)
+
+(1.8)
+
+1.8
+
+(11.0)
+
+--
+
+Power purchase
+agreements
+
+94.8
+
+--
+
+8.2
+
+6.6
+
+6.6
+
+(6.6)
+
+1.6
+
+1.6
+
+Asset retirement
+obligations
+
+2.6
+
+--
+
+0.2
+
+0.2
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(5.0)
+
+--
+
+--
+
+--
+
+--
+
+25.4
+
+(12.8)
+
+(2.3)
+
+0.6
+
+7.8
+
+12.3
+
+(10.1)
+
+(0.6)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+140.2
+
+161.7
+
+201.6
+
+Securitized stranded costs
+
+Nonoperating income
+(expense)
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+509.1
+
+704.6
+
+127.8
+
+74.8
+
+27.4
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Very low
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+Entergy New Orleans LLC
+
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bbb-
+
+• Group credit profile: bbb+
+• Entity status within group: Core (+2 notches from SACP)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Unregulated Power And Gas Industry, March 28,
+2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 10
+
+Entergy New Orleans LLC
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 11, 2019)*
+Entergy New Orleans LLC
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Senior Secured
+
+A
+
+Issuer Credit Ratings History
+03-May-2018
+
+BBB+/Stable/--
+
+09-Jan-2017
+
+BBB+/Positive/--
+
+04-Aug-2016
+
+BBB+/Stable/--
+
+31-Mar-2015
+
+BBB/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 12
+
+

@@ -1,0 +1,527 @@
+Ken Garff Automotive LLC
+Primary Credit Analyst:
+Lawrence Orlowski, CFA, New York (1) 212-438-7800; lawrence.orlowski@spglobal.com
+Secondary Contact:
+Nishit K Madlani, New York (1) 212-438-4070; nishit.madlani@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Group Influence
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Ken Garff Automotive LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Resilient business model with diverse revenue streams. Competitive pricing environment.
+Good data-driven operational controls.
+
+Significant brand and geographic concentration.
+
+Consistent free operating cash flow (FOCF).
+
+More modest scale than public peers.
+
+Ken Garff Automotive Group Inc.'s business model has diverse revenue streams, which should partially offset a
+slowdown in new-car sales. As an auto retailer, Ken Garff's revenue sources include sales of new and used vehicles,
+parts and service (P&S), and finance and insurance (F&I) products. While most revenue comes from vehicle sales, P&S
+contributes about 32% of gross profit. This model provides recurring revenue and acts as a stabilizing force, especially
+helpful during economic downturns.
+We believe the company's smaller scale and greater sales concentration versus other rated U.S. peers introduce more
+risks. Ken Garff had total 2018 revenue of $4.3 billion, last among other rated U.S. auto retailers. Also, Ken Garff has
+substantial geographic concentration, with 76% of 2018 sales coming from three states: Utah, California, and Texas.
+Moreover, the company's brand mix is mostly domestic. Nevertheless, a positive is that domestic sales, mostly
+Chrysler and Ford brands, are derived from more profitable segments of the North American light-vehicle market, such
+as SUVs and pickups.
+We believe Ken Garff will continue to reduce its cost structure in 2019. Selling, general, and administrative (SG&A)
+expense as a percentage of gross profit was over 80%, higher than that of rated U.S. peers. This is partly because of the
+size of rent payments; its policy is to secure operating leases rather than buy the real estate underlying dealerships.
+Still, we expect the company will take actions to rationalize corporate expenses and that gross profit will move toward
+70% over the next several years.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Ken Garff Automotive LLC
+
+Outlook: Stable
+
+The stable outlook includes our belief that the company will maintain current profitability and margins, leverage
+below the 5x threshold, and an FOCF-to-debt ratio above 5% over the next 12 months.
+
+Downside scenario
+We could lower the rating if profitability decreases due to weakening businesses conditions or operational
+performance. As a result, we would expect debt to EBITDA to exceed 5x and FOCF to debt below 5% on a
+sustained basis.
+
+Upside scenario
+We could raise ratings if, due to meaningful cost reduction or greater diversification arising from successfully
+integrated acquisitions, EBITDA margins improve toward 4% or higher. Moreover, we expect debt to EBITDA to
+fall below 4x and FOCF to debt above 10% on a sustained basis.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+Our base-case assumptions for the rating include:
+
+2018A 2019E 2020E 2021E
+EBITDA margin (%)
+
+3.5
+
+3-3.5
+
+3-3.5
+
+3-3.5
+
+N.M.
+
+5-10
+
+5-10
+
+10-15
+
+6.5
+
+4-4.5
+
+4-4.5
+
+4-4.5
+
+• U.S. sales of new light vehicles of 16.7 million units
+in 2019 and 16.5 million units in 2020, partly
+because of falling used-car prices. This is somewhat
+offset by low U.S. unemployment and an average
+vehicle age of over 11 years.
+
+All figures are S&P Global Ratings-adjusted.
+
+• Continued slow and steady recovery for the U.S.
+economy, with a baseline forecast of 2.5% GDP
+growth in 2019 and 1.8% in 2020.
+
+A--Actual. E--Estimate. FOCF--Free operating cash
+flow. N.M.--Not meaningful.
+
+FOCF to debt (%)
+Debt to EBITDA (x)
+
+• Organic sales growth at a compound annual rate of
+about 1%-2% through 2020.
+• Modest EBITDA margin expansion as Ken Garff
+continues to drive comparability, accountability, and
+transparency through its proprietary management
+system.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Ken Garff Automotive LLC
+
+Base-case projections
+Based on these assumptions, we arrive at the following credit measures for 2019-2020:
+• Debt to EBITDA of about 4.5x-5x.
+• FOCF to debt of about 5%-10%.
+
+Company Description
+Ken Garff operates 50 automotive dealerships in the U.S. It offers 25 brands of new and used vehicles in 50 stores and
+86 franchises.
+
+Business Risk: Weak
+Our rating on Garff reflects our view that its profitability, scale, and geographic diversity fall below those of rated U.S.
+auto retailers. The company had 2018 revenue of $4.3 billion, significantly less than that of our smallest rated U.S. auto
+retailer, Asbury Automotive, which was about $6.9 billion. Garff's sales are also more concentrated when measured by
+the top three states in which it operates. Moreover, its EBITDA margin of 3.5% is below average among rated peers,
+partly as a result of higher SG&A expenses.
+Still, Garff shares in the resiliency of the auto retailer model. Revenue comes from the sale of new and used vehicles,
+F&I, and P&S. Although new- and used-vehicle sales are 75% of revenue in 2019 year-to-date, 59% of gross profits
+come from P&S (32%) and F&I (27%). P&S and used-vehicle sales tend to provide some revenue and margin stability
+during industry downturns.
+Garff has 50 dealerships across six states. The top five states by 2018 revenue are Utah (40%), California (21%), Texas
+(15%), Michigan (10%), and Iowa (14%). The company's new-vehicle sales are heavily weighted toward Chrysler
+(31%), which focuses risk on the performance of one automaker. Additionally, Garff is the most exposed to domestic
+brands, as this segment accounted for 56% of 2018 revenue, and we don't expect brand mix will change materially in
+the near term.
+Garff's competitive position benefits from established relationships with automakers and the floorplan financing these
+automakers provide. Moreover, its corporatewide automated systems make its dealer management and customer
+service operations more efficient.
+Macroeconomic drivers for the automotive retailers--in particular, new-vehicle sales--include general economic
+conditions such as consumer confidence, personal discretionary spending, interest rates, fuel prices, unemployment
+rates, and consumer credit availability. We believe macroeconomic factors overall to generally support light-vehicle
+demand.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Ken Garff Automotive LLC
+
+Financial Risk: Aggressive
+We assess Garff's financial risk profile as aggressive. Consequently, we expect the company to maintain debt to
+EBITDA below 5x and FOCF to debt of at least 5% on a sustained basis.
+
+Liquidity: Adequate
+We assess Garff's liquidity as adequate. Our assessment incorporates the following expectations and assumptions:
+• Sources of liquidity, including cash and facility availability, will be at least 1.2x uses over the next 12-18 months.
+• Net sources will remain positive even if EBITDA declines by more than 15%.
+• The company could absorb low-probability, high-impact shocks with limited need for refinancing due to its good
+conversion of EBITDA to discretionary cash flow.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About $91 million cash and cash equivalents (as of
+June 30, 2019).
+
+• Capital spending of about $9.5 million in 2019 and
+$11 million in 2020.
+
+• Funds from operations of about $65 million in 2019
+and over $70 million in 2020.
+
+• Distribution to members in lieu of tax of around $14
+million in 2019 and $16 million in 2020.
+• No material working capital swings over the next 12
+months.
+
+Covenant Analysis
+Compliance expectations
+
+Requirements
+
+As of June 30, 2019, Ken Garff was in compliance with
+the covenants under its existing credit facility, and we
+expect that it will remain so through 2019 and into
+2020.
+
+This facility requires the maintenance of certain
+financial covenants including, current ratio, fixed
+charge coverage ratio, and used floor plan limitations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Ken Garff Automotive LLC
+
+Environmental, Social, And Governance
+
+Ken Garff does not face the demands of designing and manufacturing vehicles that comply with air emissions
+regulations, therefore its environmental responsibilities are more circumscribed that those of automakers or parts
+suppliers. Still, it is subject to many environmental laws and regulations, including those governing discharges into
+water, air emissions, and the storage and disposal of hazardous or toxic wastes.
+The company requires appropriate insurance to cover personal injury and property loss claims from employees,
+customers, and third parties arising in the course of its business. Based on available information, we believe Ken
+Garff operates in compliance with environmental laws and regulations, and that there are no material liabilities that
+would hurt its financial performance and condition.
+We see Ken Garff's management and governance as satisfactory, reflecting consistent operational performance and
+management's demonstrated industry expertise.
+
+Group Influence
+We believe parent Ken Garff Enterprises has incentives to provide support if its automotive subsidiary faces financial
+and operational distress. We consider Ken Garff Automotive to be a core subsidiary; however, the parent's
+creditworthiness doesn't affect the stand-alone rating on Ken Garff Automotive.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+
+• We value the company on a going-concern basis using a 5x multiple of our projected emergence EBITDA plus
+95% of new-car inventories and 95% of used-car inventories.
+• We estimate that for the company to default, EBITDA would need to decline significantly, representing a
+material deterioration from the current state of its business.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Ken Garff Automotive LLC
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Simulated year of default: 2023
+
+• Net enterprise value (after 5% administrative costs):
+$1.247 billion
+
+• EBITDA at emergence: $90.1 million
+• EBITDA multiple: 5x
+
+• Valuation split in % (obligors/nonobligors): 100/0
+• Priority claims: $1.135 billion
+• Value available to first-lien debt claims
+(collateral/noncollateral): $112 million/$0
+• Secured first-lien debt claims: $12 million
+• --Recovery expectations: N/A
+• Total value available to unsecured claims: $100
+million
+• Senior unsecured debt/pari passu unsecured claims:
+$389 million/$11.4 million
+• --Recovery expectations: 10%-30% (rounded
+estimate: 20%)
+All debt amounts include six months of prepetition
+interest. Collateral value equals asset pledge from
+obligors after priority claims plus equity pledge from
+nonobligors after nonobligor debt.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Ken Garff Automotive LLC
+
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b+
+
+• Group credit profile: b+
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 24, 2019)*
+Ken Garff Automotive LLC
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Unsecured
+
+B
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Ken Garff Automotive LLC
+
+Ratings Detail (As Of September 24, 2019)*(cont.)
+Issuer Credit Ratings History
+30-Jul-2018
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+

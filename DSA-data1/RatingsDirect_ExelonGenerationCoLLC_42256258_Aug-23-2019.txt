@@ -1,0 +1,786 @@
+Exelon Generation Co. LLC
+Primary Credit Analyst:
+Aneesh Prabhu, CFA, FRM, New York (1) 212-438-1285; aneesh.prabhu@spglobal.com
+Secondary Contact:
+Tony S Mok, New York + 1 (212) 438 0113; tony.mok@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, and Governance
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 1
+
+Exelon Generation Co. LLC
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb+
+
+BBB+/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Regulators are now more sympathetic to the distressed nature of
+nuclear power production and have approved zero emission credit
+(ZEC) revenues in New Jersey, New York, and Illinois.
+
+Base-load generation is subject to considerable energy margin variability,
+reflecting low natural gas prices, the growing availability of renewable
+power, demand, and changes in weather.
+
+Ability to advocate for market design changes has become, in our
+view, a successful part of its business strategy.
+
+Because of its higher fixed-cost structure and its nuclear plants, margins in
+the past three years have been narrower than those of its peers.
+
+A proactive hedging strategy, and cash flow from wholesale
+generation is significantly hedged over the next two years.
+
+Low gas prices affect marginal costs of production, hurting price-taking
+base-load generation the most. Declining fuel prices also affect capacity
+prices negatively if energy margin offsets are high.
+
+We estimate that about 94% of expected output is hedged in 2019,
+falling to around 42% of output in 2021.
+
+Energy efficiency and behind-the-meter distributed generation slows or
+reduces demand growth, widening reserve margins and negatively
+influencing market heat rates, which affect power prices.
+
+Free operating cash flow (FOCF) is sufficient to help cut about $2.5
+billion in debt by 2022.
+We expect adjusted FOCF to debt will remain positive in the next
+few years despite lower gas prices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 2
+
+Exelon Generation Co. LLC
+
+Outlook: Stable
+
+The stable outlook on Exelon Generation Co. LLC (ExGen) mirrors those on parent Exelon Corp. because of
+ExGen's core status to Exelon. That status implies the ratings on ExGen are supported by and linked to Exelon.
+The stable outlook also reflects our expectations that Exelon's lower-risk utility operations and less volatile
+zero-emissions credits (ZECs) will consistently reflect about 75% of consolidated EBITDA. While the issuer rating
+on ExGen is predicated on Exelon maintaining adjusted funds from operations (FFO) to debt at more than 19%, in
+order for ExGen to maintain a 'bbb' stand-alone credit profile (SACP), we expect it to maintain adjusted FFO to
+debt of at least 35%. ExGen's FFO to debt was about 34% in 2017, but ZEC revenues and lower leverage improved
+the figure to about 40% in 2018.
+
+Downside scenario
+We could revise the outlook to negative if Exelon's adjusted consolidated FFO to debt fell to less than 19%. We
+could also take a negative rating action if Exelon's management of regulatory risk weakens or if its regulated
+utilities and ZECs do not consistently account for about 75% of its consolidated EBITDA. Moreover, gross margins
+could come under pressure if power prices continue to decline because of weak natural gas prices or lower market
+heat rates.
+We would lower the SACP of ExGen if its adjusted FFO to debt were consistently below 33%. We believe ExGen's
+SACP could come under pressure from depressed capacity prices, as higher than expected natural gas production
+encourages incremental gas-fired generation entry. We also see the prospects of a lower SACP if widening reserve
+margins cause implied forward market heat rates to decline or if energy margins decline as more renewable power
+sources come online. Given that power prices are still under pressure and forward EBITDA is backdated, these
+remain possibilities if ExGen does not reduce its debt. However, we expect to see ExGen's free cash flow
+generation to cut about $2.5 billion of net debt at ExGen and Exelon through 2022. A change in ExGen's SACP,
+however, will still not result in an immediate change in its issuer ratings if Exelon's growing utility segment can
+sustain the group's credit profile.
+
+Upside scenario
+Although less likely, we could raise the ratings over the next two years if FFO to debt consistently improved to
+greater than 24%, without increasing the company's business risk. We would expect to raise the SACP of ExGen if
+its adjusted FFO to debt is consistently 40% or more. Such a scenario could stem from an improved economy,
+higher electricity prices, and/or a robust increase in the rate base of Exelon's regulated utility subsidiaries. Energy
+price reforms that strengthens the Pennsylvania-Jersey-Maryland (PJM) Interconnection market could also
+contribute to better credit quality.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 3
+
+Exelon Generation Co. LLC
+
+Assumptions
+
+• Henry Hub gas prices are $2.5-$2.75 per million
+British thermal units (mmBtu) through 2021; PJM
+Interconnection West hub power prices are between
+$27 and $29 per megawatt hour (MWh) through
+2021; Northern Illinois hub hovers around
+$23-24/MWh through 2021.
+• Nuclear capacity factors are consistently at about
+93%-94% through 2021, similar to historical years.
+
+Key Metrics
+
+2019E
+FFO/debt (%)
+Debt/EBITDA (x)
+
+2020E
+
+40.0-40.5 40.0-41.0
+2.3-2.5
+
+2.5
+
+FOCF to Debt (%) 18.0-18.5
+
+18.5
+
+*E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Three Mile Island Nuclear facility closes as expected
+in 2019.
+• Only current hedges are assumed.
+• Total ExGen generation of about 190 terawatt hours
+(TWh) through 2019, falling to about 180 TWh
+through 2021.
+• We have assumed ZEC revenues in Illinois, New
+York, and in New Jersey.
+• We have not priced in any benefits from the Federal
+Energy Regulatory Commission's (FERC's) fast-start
+pricing proposal, or premised on energy price
+reform allowing inflexible (base-load) units the
+opportunity to set market clearing prices.
+
+Company Description
+Exelon Generation Co. LLC is one of the largest merchant power generators in the U.S. and among the largest power
+service providers in the county, with more than 32 gigawatts (GW) of owned generation capacity, and over 140 TWh
+of retail load. As such, the company enjoys significant regional diversity, participating in the Midwest, Mid-Atlantic,
+Texas, New York, and New England markets, as well as the Canadian, U.S. South and West markets (usually grouped
+because of the smaller exposure)"
+
+Business Risk: Satisfactory
+ExGen's unregulated operations constitute about 35% of the consolidated enterprise in terms of cash flow and capital
+spending. We expect that to decline to 30% by 2021 due to an increase in regulated growth and weaker cash flows
+from unregulated businesses. Over the past 24 months, ExGen's SACP has been influenced by depressed energy and
+capacity markets, and the absence of pricing signals that adequately compensate base-load generation. Compared with
+its peers, ExGen's cash flow is more sensitive to commodity prices because about 70% of its generation, including
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 4
+
+Exelon Generation Co. LLC
+
+purchased power, is nuclear. Unlike gas-fired assets, which have a lower cost structure, nuclear plants face narrowing
+margins because of lower market heat rates and weak energy prices. Specifically, ExGen's business risk profile is
+influenced by the following factors:
+• The proliferation of wind generation assets. Renewable energy such as wind displaces base-load generation during
+low-demand periods and could cause negative power prices. Renewable energy can also erode scarcity pricing
+periods, which are essential for base-load assets like nuclear units to earn a reasonable return.
+• Low gas prices affect marginal costs of production, hurting price-taking base-load generation the most. Declining
+fuel prices also affect capacity prices negatively if energy margin offsets are high.
+• Energy efficiency and behind-the-meter distributed generation slows or reduces demand growth, widening reserve
+margins and negatively influencing market heat rates, which affect power prices.
+Hedging is a necessity, especially for a large base-load generator like ExGen. Falling natural gas prices harm ExGen
+more than its peers because a large proportion of its generation is from base-load nuclear generation, all of which
+declining natural gas prices affect.
+The company undertakes ratable hedging largely to bring predictability to future cash flows, which otherwise would be
+extremely volatile. The chart below shows the impact of mark-to-market value of hedges on its open gross margin for
+the year.
+
+Open gross margins are under continual onslaught from a weak power market environment (note that 2018's open
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 5
+
+Exelon Generation Co. LLC
+
+gross margins were higher mostly because they now include ZEC revenues). In contrast, since 2015, hedged margins
+have been fairly resilient. Because the company needs to hedge its large generation, it needs to bring volumes ratably
+into the market, which it does in a measured fashion.
+
+Also, ExGen's hedged gross margin range expectation (unlike chart 1, the margins presented in chart 3 include power
+and non-power new business expectations) is fairly narrow for 2018, but expands in future years. The broader gross
+margin range in 2020 and 2021 is a result of higher future unhedged exposure, and uncertainty over power prices, due
+to volatile natural gas prices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 6
+
+Exelon Generation Co. LLC
+
+From a ratings perspective, a 5% stress to expected gross hedged margin indicates a floor level for gross margins (see
+chart 3). This represents the gross margin expectation at a 95% confidence interval, meaning expected gross margins
+will be lower than this value only if power prices decline more than two standard deviations from current levels. The
+50% case would be the expected gross margin (statistically, the "mean"). Similarly, a 95% case represents gross margin
+expectations if power prices moved up by two standard deviations. From a ratings perspective, we focus on the 5%
+stress as it indicates a floor under a falling price scenario.
+We note the following:
+• Outer years have larger bands as hedged levels are lower.
+• Under a "backwardated" (i.e., future expected earnings are lower than the current year) pricing environment, the
+95% case has fallen each quarter as progressive volumes were hedged at lower levels.
+• The company did well in protecting its floor gross margins (5% case) even under a backwardated pricing
+environment because power pricing did not move down by more than two standard deviations during the year.
+• However, gross margins floors have continually declined in the outer years due to the continuing onslaught on
+power prices (and gross margins) from distributed generation, renewable proliferation, and lower natural gas prices.
+Hedging also has limitations. As a "price taking" business, a baseload merchant generator like ExGen neither controls
+the prompt price of power nor the shape of the forward price curve. It faces backwardated gross margins as old hedges
+come off and they can only roll generation into lower priced hedges. Still, a ratable hedging strategy does provide
+insulation from near-term market forces. In a market that is seeing volatile swings, hedging future production
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 7
+
+Exelon Generation Co. LLC
+
+potentially allows time to revise capital structures that are compatible with the evolving commodity dynamics.
+ExGen has been able to successfully advocate for changes in market design, which is factored in its business risk profile.
+We note that the company's gross margin floor expectations had fallen meaningfully for 2019 (see chart 3). The uplift
+in margins across the board from the fourth quarter of 2016 represent the ZEC revenues.
+We consider ExGen's ability to advocate for changes to market design as an inherent part of its business strategy and
+an area in which the company has been successful. As a consequence of commodity price decline and renewable
+penetration, an increasing number of ExGen's nuclear plants have reported negative cash flow as a consequence of low
+commodity prices and the more available renewable energy. Even as cash flows weakened, however, the company has
+successfully argued for statutory relief for its beleaguered units, citing environmental, fuel diversity, and reliability
+concerns. Regulators are also now more sensitive to the nuclear industry's distress and have approved ZEC revenues
+for ExGen's nuclear plants in Illinois, New York, and most recently in New Jersey (Clinton, Quad Cities, Fitzpatrick,
+Ginna, Nine-Mile Point, and Salem). By our estimates, the Illinois, New Jersey, and New York ZECs boost ExGen's
+revenues by about $630 million. We do not think any developments are likely in Pennsylvania, where ExGen owns 4.5
+GW of nuclear generation (3.6 GW after the 837 MW Three Mile Island closes down later this year), until at least 2020.
+Retail operations provide a natural hedge. ExGen generates a significant portion of earnings from its retail operations.
+Through retail and wholesale channels, ExGen provided nearly 212 TWh of load in 2018, or nearly 5% of total U.S.
+power demand. We expect a similar level in 2019, although this could be lower after 2019 when some nuclear plants
+close down. In an environment where there is a continunal squeeze on margins in wholesale generation, it's imperative
+for merchant companies to find a home for their owned-generation. ExGen has increasingly done so using its retail
+power business. Even as residential retail contracts are typically only 18 to 24 months long, while commercial
+customers usually sign for two-and-a-half years, retail business has become vital to the stability and predictability of
+cash flows, recontracting risks notwithstanding. Constellation's total load served has remained constant over the past
+three years post retail acquisitions. The brand is currently a market leader in commercial and industrial (C&I) load
+served and about fourth nationally in residential load served.
+Exelon has expanded its retail business and improved its load-to-generation mix to the point where the total retail and
+wholesale load served has grown by about 8% in the past three years. The retail load provides a natural hedge against
+backwardation. During periods of high volatility, generation availability provides backstop to load portfolio; during
+periods of low volatility, ExGen is able to capture higher margins through lower cost to serve to its customers and also
+optimize the value of its dispatchable fleet.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 8
+
+Exelon Generation Co. LLC
+
+In most locations, ExGen has adequate intermediate and peaking capacity for managing load-shaping risks. However,
+we believe the company will still need to buy and sell generation in the market to manage its portfolio needs, which
+exposes it to considerable commodity risk. Moreover, ExGen has a significant open position in the Midwest to
+merchant markets, though a somewhat tighter position in the Mid-Atlantic and New England, where it risks finding
+itself short when loads and power prices are high. In particular, ExGen's load-to-generation matching in the Midwest is
+just 36%, and a better 71% matching in the Mid-Atlantic.
+We estimate current hedged levels of expected generation at about 94%, 72%, and 42%, for 2019, 2020, and 2021,
+respectively. These hedges mitigate near-term exposure to commodity markets and demonstrate the significant value
+of ExGen's hedging program. Even though these hedges insulate ExGen, they also show the sensitivity of ExGen's
+margins to the prospect of continued shale gas production. The merchant generation margins at ExGen could decrease
+as higher-priced hedges expire, which is evident in the drop in wholesale hedged gross margins. We note that the
+second quarter 2019 mark-to-market values of hedges is $1.3 billion compared to almost $350 million in 2018. Still,
+retail provides potential for further growth. We believe retail contributions can mitigate the wholesale decline, given
+the potential for cost savings, growth in retail volumes, and acquisitions.
+
+Financial Risk: Intermediate
+Given that base-load generation is price-taking by nature, we expect ExGen's adjusted FFO to debt to remain volatile
+relative to its peers. For instance, we estimate gross margins in 2020 will be lower by about $225 million for every $5
+per megawatt hour (round-the-clock) decline in power prices, and nearly $275 million lower for every $1 per million
+Btu decline in 2019 natural gas prices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 9
+
+Exelon Generation Co. LLC
+
+Because of the decline in commodity prices, we expect ExGen's stand-alone adjusted FFO to debt ratio to hover near
+40% in 2019, which we view as high for its 'bbb' SACP. Even as the company's cash flows are more volatile than those
+of its peers because of the larger proportion of base-load generation and significant fixed costs, natural gas prices must
+consistently stay below the current assumed level of $2.75 per million Btu before ExGen's adjusted FFO to debt falls
+below 20%. While these stress ratio levels are low, they exhibit the low variable cost and highly depreciated nature of
+its nuclear plants.
+We expect 2019 financial ratios to be stronger than in the past, because ExGen will see the full benefit of ZEC
+revenues, a cash flow benefit from the closure of the Three Mile Island reactor, and the use of renewable joint venture
+(JV) proceeds for debt reduction.
+We view ExGen's primary credit driver in coming years as its ability to maintain cash flows in 2020 and beyond. Given
+advancing renewable proliferation and distributed generation/energy efficiency gains, we are concerned that power
+prices in the outer forward curve could cause a significant decline in ExGen's earnings. As a result, we expect the
+company's long-term plan to incorporate significant deleveraging through the next three years. The company has
+indicated to us that it is targeting an adjusted debt to EBITDA of less than 3.0x and adjusted FFO to debt of more than
+35%. By our estimates, achieving these targets would mean reducing debt by about $2.5 billion through 2022. We think
+cash flow over the next three years would allow this level of debt reduction. We expect FFO to debt levels to improve
+in 2019 and 2020 as the company reduces capital spending and moves decisively to deleverage. We expect the
+company to have minimal growth-oriented capital spending.
+Despite lower gas prices, we expect FOCF to debt to remain positive in the next few years, and that ExGen will cut
+$2.5 billion of ExGen or corporate debt by 2022.
+
+Liquidity : Adequate
+Because we view ExGen as a core subsidiary, its liquidity profile is governed by that of its parent, and our short-term
+rating on Exelon is 'A-2'. We assess its liquidity as adequate.
+We expect Exelon to cover its liquidity needs for the next 12 months even if EBITDA declines by 10%, and that
+liquidity sources will exceed uses by more than 1.1x. Under our stress scenario, we don't anticipate that Exelon would
+require access to the capital markets to meet its liquidity needs under our distress scenario. The company benefits
+from stable cash flow, the ability to absorb high-impact but low-probability events with limited need for refinancing,
+sound bank relationships, solid standing in credit markets, and generally prudent risk management.
+As of June 30, 2019, parent Exelon Corp. had a consolidated credit facility of $9.65 billion (comprising Baltimore Gas
+& Electric Co.'s $600 million, Commonwealth Edison Co.'s $1 billion, PECO Energy Co.'s $600 million, ExGen's $5.945
+billion, PEPCO Holdings Inc.'s $300 million, Delmarva Power & Light Co.'s $300 million, Atlantic City Electric Co.'s
+$300 million, and Exelon Corp.'s $600 million). At end of the second quarter of 2019, Exelon had about $560 million of
+commercial paper outstanding.
+While ExGen's liquidity assessment is linked to Exelon's, on a stand-alone basis ExGen's liquidity is strong and we
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 10
+
+Exelon Generation Co. LLC
+
+assess the short-term rating at 'A-2'.
+Over the next 12 months, we expect liquidity sources at ExGen to exceed by about 2.5x, and that sources would
+exceed uses even if EBITDA declines by 30%. While there is a $600 million debt maturity in 2019, ExGen has sufficient
+cash on hand and revolver availability under its $5.3 billion revolver (excluding a $645 million bilateral facility) to meet
+debt repayment obligations.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• FFO of approximately $4 billion;
+
+• Long-term debt repayment of about $625 million;
+
+• Revolver and bilaterals availability of approximately
+$4.8 billion; and
+
+• Capital expenditures of about $1.9 billion;
+
+• Estimated cash balances of about $700 million.
+
+• Working capital charges of about approximately
+$100 million; and
+• Dividend to parent of $800 million.
+
+Environmental, Social, and Governance
+We view environmental factors as the most important of the environment, social, and governance (ESG) drivers to
+ExGen's credit quality. ExGen has a total owned capacity of more than 32 GW across the United States. Of the total
+generation, around 30% of the generating sources are thermal. At the same time, ExGen has nuclear capacity that
+accounts for almost 50% of its generation. ExGen receives ZECs in Illinois and New York---an acknowledgement by
+these states of the zero emissions attributes of the nuclear units. We view these ZECs as material to ExGen's credit
+quality.
+We believe ExGen will continue to manage its nuclear fuel cycle such that more than 90% of the low-level waste
+generated is Class A, which is the least radioactive. Our analysis monitors ExGen's operating performance of nuclear
+units as this will continue to be a key driver of ExGen's ESG strategy.
+As a generator and not a load serving entity, we do not see social exposure from communities or workforce as material
+for ExGen. However, these could gain eminence if there are further nuclear unit closures over and above the ones
+announced-Three Mile Island and Oyster Creek. As recruiters of large workforces, closure of nuclear units affects local
+communities in significant ways.
+Governance factors are consistent with what we see across the industry. Through its parent, Exelon, the company
+maintains a team to address environmental compliance and strategy. The governance structure also includes a
+generation oversight committee and a Corporate Governance committee which supervises compliance with health and
+safety laws.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 11
+
+Exelon Generation Co. LLC
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Adequate
+• Management and governance: Strong
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : bbb
+
+• Group credit profile: bbb+
+• Entity status within group: Core
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Unregulated Power And Gas Industry, March 28,
+2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 12
+
+Exelon Generation Co. LLC
+
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• Criteria | Corporates | Utilities: Collateral Coverage And Issue Notching Rules For '1+' And '1' Recovery Ratings
+On Senior Bonds Secured By Utility Real Property, Feb. 14, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 16, 2019)*
+Exelon Generation Co. LLC
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+01-Mar-2019
+
+BBB+/Stable/A-2
+
+02-Aug-2018
+
+BBB/Positive/A-2
+
+22-Jul-2009
+
+BBB/Stable/A-2
+
+Related Entities
+Atlantic City Electric Co.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Commercial Paper
+Local Currency
+Senior Secured
+
+A-2
+A
+
+Baltimore Gas & Electric Co.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Commercial Paper
+Local Currency
+
+A-1
+
+Preference Stock
+
+BBB+
+
+Senior Unsecured
+
+A
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 13
+
+Exelon Generation Co. LLC
+
+Ratings Detail (As Of August 16, 2019)*(cont.)
+Commonwealth Edison Co.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Preferred Stock
+
+BBB-
+
+Senior Secured
+
+A
+
+Continental Wind LLC
+Senior Secured
+
+BBB/Stable
+
+Delmarva Power & Light Co.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Senior Secured
+
+A
+
+Senior Unsecured
+
+A-
+
+Exelon Corp.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Junior Subordinated
+
+BBB
+
+Junior Subordinated
+
+BBB-
+
+Senior Unsecured
+
+BBB
+
+ExGen Renewables IV LLC
+Issuer Credit Rating
+
+B/Watch Neg/--
+
+Senior Secured
+
+B
+
+PECO Energy Co.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Local Currency
+Senior Secured
+
+A-2
+A
+
+PEPCO Holdings Inc.
+Issuer Credit Rating
+
+A-/Stable/NR
+
+Senior Unsecured
+
+BBB+
+
+Potomac Electric Power Co.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Commercial Paper
+Local Currency
+Senior Secured
+
+A-2
+A
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 16, 2019 15
+
+

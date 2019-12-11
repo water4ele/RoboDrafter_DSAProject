@@ -1,0 +1,498 @@
+Fort Dearborn Holding Co. Inc.
+Primary Credit Analyst:
+James T Siahaan, CFA, New York (1) 212-438-3023; james.siahaan@spglobal.com
+Secondary Contact:
+Henry Fukuchi, New York (1) 212-438-2023; henry.fukuchi@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Fort Dearborn Holding Co. Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b-
+
+b-
+
+B-/Negative/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good market share of the North American label making industry.
+
+High geographic concentration, as virtually all of its sales are
+derived from North America.
+
+Exposure to recession-resistant, consumer-focused end-markets like food,
+beverage, paint, and personal care.
+
+Limited scale of operations, with less than 20 manufacturing
+facilities.
+High leverage, with an adjusted-debt-to-EBITDA ratio of 8.8x as of
+June 30, 2019.
+
+Leverage remains very high, but is coming down. Fort Dearborn Holding Co. Inc. operates with very high leverage.
+This was most problematic during late 2017 and early 2018, when weak performance at its core label business
+(acquired in 2015) contributed to an adjusted-debt-to-EBITDA ratio spiking over 9.5x. Fort Dearborn's debt has risen,
+as an add-on to its term loan that funded the NCL Graphic Specialties Inc. acquisition in early 2018 and as
+lease-related obligations continued to increase. However, operational improvements are yielding benefits, and
+trailing-12-months adjusted EBITDA margins are 100 basis points higher than the year before. Consequently, the
+company's leverage ratio was 8.8x as of June 30, 2019.
+As discretionary expenses roll off, earnings may rise. Fort Dearborn increased sales and administrative spending to
+support its healthy pipeline of business, and also upped outlays pertaining to refurbishment-related capital
+expenditures (capex). Many of its presses have been or will be rebuilt to higher standards, and productivity has
+improved on those that completed the process. We don't believe these expenses will be ongoing, and their absence
+could boost Fort Dearborn's earnings soon, provided that demand conditions for labels don't materially worsen.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Fort Dearborn Holding Co. Inc.
+
+Outlook: Negative
+
+S&P Global Ratings' negative rating outlook on Fort Dearborn reflects the 1-in-3 chance that we could lower the
+ratings due to a high adjusted-debt-to-EBITDA ratio. This ratio was 8.8x on June 30, 2019, compared with 9.7x the
+year before. Management's operational improvement initiatives and contributions from recently acquired
+businesses might allow it to restore credit measures to more appropriate levels for the rating, but the company may
+have to realize these benefits soon, as slowing demand for labels could curtail progress.
+
+Downside scenario
+We could lower the ratings if Fort Dearborn's free cash flow generation becomes consistently negative, rendering
+its capital structure, which comprises mainly covenant-lite term loans, unsustainable. We believe its ability to
+maintain adequate liquidity and access to revolver as critical for the ratings.
+
+Upside scenario
+We could revise Fort Dearborn's outlook to stable if it demonstrates progress in improving its credit measures, with
+the adjusted-debt-to-EBITDA ratio strengthening to below 8.5x and consistently remaining there. Less likely, we
+could raise our ratings if Fort Dearborn establishes a track record of disciplined financial policies and reduces
+leverage by more than we expect in our base-case scenario, either by applying free cash flow to reduce its
+prepayable term loan balances or by increasing EBITDA. However, the deleveraging for a one-notch upgrade
+would need to be considerable, because we see an adjusted-debt-to-EBITDA ratio of 5x-6x as appropriate for a
+modestly higher rating.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Fort Dearborn Holding Co. Inc.
+
+Assumptions
+
+• Low-single-digit percentage revenue growth in 2019,
+reflecting the strong growth in the pressure sensitive
+and shrink-and-roll fed areas, offsetting slight
+weakness in cut-and-stack, along with continued
+share gains at top customers;
+• Adjusted EBITDA margins exceeding 16% in 2019
+and improving modestly thereafter on operational
+improvement initiatives to reduce labor, material,
+and procurement costs, including corporate
+centralization efforts and software-assisted supply
+chain management;
+
+Key Metrics
+
+2018A
+Adj. EBITDA margin(%)
+
+15.1
+
+2019E
+
+2020E
+
+16-17 16.4-17.2
+
+Debt to EBITDA (x)
+
+9.3 8.6-8.9
+
+FFO to debt (%)
+
+2.9
+
+4-6
+
+4.5-6
+
+(0.5)
+
+(2-6)
+
+4-6
+
+FOCF to debt (%)
+
+8.4-8.7
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Capex increasing in 2019 to around $25 million,
+normalizing to $15 million-$20 million from 2020;
+• Free operating cash flow staying negative in 2019,
+$5 million, but becoming positive in 2020 as capital
+spending subsides; and
+• No large outlays for transformative acquisitions.
+
+Company Description
+Fort Dearborn manufactures decorative product labels to a wide variety of end markets that include food, beverages,
+wine and spirits, consumer products, and paint. The company has 17 manufacturing facilities throughout the U.S. and
+Canada.
+
+Business Risk: Fair
+With $474 million in revenue for the 12 months ended June 30, 2019, Fort Dearborn is among the leading participants
+in the more than $8 billion North American prime label production industry. It supplies a wide variety of label types,
+including cut-and-stack (51% of sales), shrink sleeve/roll-fed (38%), and pressure sensitive (11%) labels across multiple
+printing technologies. It serves various consumer-focused end markets that are generally less cyclical, including food
+(which we estimate accounts for 40% of sales), beverage (31%), spirits (10%), paints and coatings (10%), household
+and personal care (6%), and other (3%).
+The competitive landscape is very fragmented, with more than 500 suppliers competing for market share. However, a
+handful of large players command a sizable 25%-30% share of the market. Fort Dearborn is No. 3 in the prime label
+market behind CCL Industries Inc. and LABL Inc. (formerly Multi-Color Corp.), though it enjoys the No. 1 or No. 2
+position in its food, beverage, spirits, and coatings segments.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Fort Dearborn Holding Co. Inc.
+
+Traditional glue-applied, cut-and-stack labels continue to be bulk of Fort Dearborn's output. Although they are a
+lower-cost product, its annual sales growth is very low at roughly 1% compared with other varieties. Customer
+demand for aesthetically appealing shrink sleeve and pressure-sensitive labels has increased and may rise by 4%-6%
+during the next few years. Demand for pressure-sensitive labels is estimated to be more than half of total label demand
+in recent years, with cut-and-stack at less than one-fifth. Fort Dearborn increased its offerings in the higher-growth
+label types through acquisitions. It maintains niche positions in the pressure-sensitive space, though its share remains
+very small.
+In addition, its customer concentration is somewhat high, as its top 10 account for 39% of revenue and its top
+customer almost 6.5%. Consumer products companies, which account for most of Fort Dearborn's top 10 customers,
+carry considerable purchasing power. Year-to-date sales as of June 30, 2019, increased by about 3.5%, with strong
+growth in the roll-fed and pressure-sensitive segments offsetting slight weakness in cut-and-stack.
+Fort Dearborn's profitability recovered as operational improvements yielded benefits. The majority of its sales are
+under contract, and it has generally passed through increases in raw material costs to its customers. Despite the
+low-growth trends for Fort Dearborn's cut-and-stack labels, this label type still has strategic advantages given the
+company's good market share and scale, efficient plant operations, and long-standing customer relationships. It
+continually seeks to improve profitability by diversifying its product mix and undertaking operational improvement
+initiatives to reduce labor, material, and procurement costs at its lower performing plants. We expect adjusted
+EBITDA margins to be 16%-17% and to improve modestly over the next couple of years.
+
+Financial Risk: Highly leveraged
+Fort Dearborn operates with high leverage and is a portfolio company of equity sponsor Advent International, which
+acquired it in October 2016. We estimate Fort Dearborn's adjusted-debt-to-EBITDA ratio was 8.8x for the 12 months
+ended June 30, 2019, and we expect it to remain around this year. The company may engage in debt-funded
+acquisitions from time to time, which could either raise leverage or slow deleveraging.
+
+Liquidity: Adequate
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Ample borrowing capacity under the company's $75
+million cash flow revolving facility; and
+
+• Debt amortization of roughly $5 million per year;
+
+• Annual funds from operations between $25 million
+and $30 million over the next 12 months.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+• Maintenance capex of about $8 million annually;
+and
+• Modest intrayear working capital needs.
+
+SEPTEMBER 25, 2019 5
+
+Fort Dearborn Holding Co. Inc.
+
+Debt maturities
+Chart 1
+
+Covenant Analysis
+Compliance expectations
+We don't expect the drawn amounts under Fort Dearborn's revolving facility to cause the covenant to apply very often;
+though if it did, we expect the company's reported net leverage ratio would allow for appropriate headroom and
+compliance.
+
+Requirements
+The revolving facility is subject to a springing first-lien net leverage covenant of 7.25x. The first- and second-lien term
+loans were issued under a covenant-lite set of terms, and thus they are not subject to any financial maintenance
+covenants.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario assumes a payment default in 2019 stemming from a severe economic recession that
+reduces demand for labels from Fort Dearborn's customers in food, beverage, spirits, paints, and personal care.
+• As a result, its operations would be insufficient to cover fixed charges related to interest, working capital, and capital
+outlays. Eventually, liquidity and capital resources could be strained to the point it could not operate absent a
+bankruptcy filing.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Fort Dearborn Holding Co. Inc.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: $66 million
+• EBITDA multiple: 5x
+• Gross enterprise value: $332 million
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $315 million
+• Valuation split in % (obligors/nonobligors): 100/0
+• Value available to first-lien debt: $315 million
+• Secured first-lien debt claims: $566 million
+• --Recovery expectations: 50%-70% (rounded estimate: 55%)
+• Secured second-lien debt claims: $151 million
+• --Recovery expectations: 0%-10% (rounded estimate: 0%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Negative/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : b-
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Fort Dearborn Holding Co. Inc.
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 25, 2019)*
+Fort Dearborn Holding Company Inc.
+Issuer Credit Rating
+
+B-/Negative/--
+
+Senior Secured
+
+B-
+
+Senior Secured
+
+CCC
+
+Issuer Credit Ratings History
+24-Sep-2018
+
+B-/Negative/--
+
+21-Sep-2016
+
+B-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+

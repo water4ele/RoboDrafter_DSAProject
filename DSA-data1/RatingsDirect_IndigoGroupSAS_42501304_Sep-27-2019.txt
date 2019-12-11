@@ -1,0 +1,1665 @@
+Indigo Group S.A.S.
+Primary Credit Analyst:
+Livia Vilela, Madrid + 34 91 423 3181; livia.vilela@spglobal.com
+Secondary Contact:
+Stefania Belisario, London (44) 20-7176-3858; stefania.belisario@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Indigo Group S.A.S.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+One of the largest car parking operator group globally, managing about 2.3
+million parking spaces in 10 countries.
+
+Given the group's need to continue to expand the business, its
+financial leverage is likely to remain stable, but relatively high.
+
+Market-leading position in France, where the company generates about 75%
+of its global proportionate EBITDA, and it has been consolidating in north and
+south America.
+
+Changes in automotive industry and mobility patterns, combined
+with recent green policies, could threaten the car park industry in
+the long term.
+
+Stable cash flow generation from its long-term concession contracts that have
+historically shown good retention rates of about 80%-90%.
+The group's strong business model gives it solid margins for the sector--for
+example, its adjusted EBITDA margin is 44%-46%.
+
+The group's 2018 performance was in line with our expectations and its financial ratios were comfortably within the
+thresholds for the current rating. Total adjusted revenues increased by 2% in 2018, mainly because the group gained
+new concessions. It reported EBITDA of €295.5 million and successfully maintained its EBITDA margin above 44%.
+The resulting financial ratios--debt to EBITDA at 5.4x and FFO to debt at 13.1%--support the rating.
+The company has divested from noncore European markets to strengthen its position in the leading markets it serves.Its
+operations in the U.K., Slovakia, Germany, and Czech Republic contributed less than 6% to total global proportionate
+EBITDA in 2017. Following the disposal of these operations in 2018, we expect the company to reinforce its position
+in its core European countries--France, Spain, Belgium, and Switzerland--by focusing on ownership acquisition, which
+give it more flexibility in terms of tariff, operating model, and services offered, without renewal risk.
+It plans to pursue a strategy of prudent expansion in emerging markets.Its growth strategy will require prudent risk
+management and will mainly involve forming joint ventures with local partners and signing contracts that carry no
+market risk. After successfully adopting this strategy in Latin America and North America, we expect Indigo Group to
+adopt the same approach in its prospective markets in Asia.
+Green policies and changes in automotive industry and mobility patterns could pose long-term challenges to the
+industry. For example, local municipalities, particularly in certain European countries, may adopt green policies that
+limit access to city centers and restrict the type of vehicles admitted. They may also reduce greenfield opportunities.
+Car-hailing opportunities, combined with the development of electric and autonomous cars, could also threaten the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Indigo Group S.A.S.
+
+parking industry in the long term. In line with peers, the company is working to develop mobility and digital solutions
+to capture opportunities and defend its market position, while expanding its geographical presence outside Europe.
+
+Outlook: Stable
+
+The stable outlook indicates that Indigo Group is expected to maintain adjusted FFO to debt at about 12%-13%
+over the next two years through revenue growth and cost optimization. These ratios provide a good degree of
+headroom to the rating.
+
+Downside scenario
+We could lower the rating if, in our view, Indigo Group was not able to maintain its FFO-to-debt ratio comfortably
+above 10%. This could result from higher-than-expected shareholder distribution or an acquisition strategy not
+supported by adequate EBITDA growth due to stagnant revenues or falling operating margins.
+We could also consider a downgrade if the company significantly changed its business mix so that exposure to
+non-infrastructure business--such as management contracts and short-term leases--increased to about 30% of
+EBITDA. This would likely cause adjusted EBITDA margins to fall below 30% and so weaken our view of the
+company's business risk profile.
+
+Upside scenario
+We could raise the rating by one notch if the company was able to maintain its FFO-to-debt ratio sustainably
+above 13% while committing to a predictable financial policy.
+
+Our Base-Case Scenario
+Our base-case assumptions incorporate Indigo Group's recent sale of its operations in noncore European markets and
+its most recent acquisitions. Traffic trends and tariff growth on the existing perimeter are based on our macroeconomic
+growth assumptions for the countries where the company operates, which in our view largely drive operating
+performance.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Indigo Group S.A.S.
+
+Assumptions
+
+• Annual revenue growth of 1.5% in 2019 and 3.5% in
+2020 in France, in line with our estimated real GDP
+growth of 1.4%-1.5% and consumer price index
+(CPI) growth of 1.3% in the period, plus new
+contracts and organic growth. Indigo's acquisition of
+Spie Batignolles' parking business in 2019 offset the
+negative impact of the increase in real estate taxes
+in Paris and the activities of the "yellow vest"
+protesters.
+
+Key Metrics
+
+2018a
+
+2019e
+
+2020f
+
+EBITDA margin (%)
+
+45.3
+
+45-46
+
+44-45
+
+FFO to debt (%)
+
+13.1
+
+11-12
+
+12-13
+
+Debt to EBITDA (x)
+
+5.4 6.0-6.5 5.5-6.0
+
+FFO interest coverage (x)
+
+5.7 5.5-6.0 5.5-6.0
+
+a--Actual. e--Estimate. f--Forecast.
+
+• In the eurozone, the deconsolidation of noncore
+business still weighs on revenue growth in 2019,
+partially offset by the full-year results from Besix
+Park. Existing operations in the eurozone are
+expected to grow in line with our forecast of real
+GDP growth (1.1% in 2019 and 1.4% in 2020) and
+CPI (1.3% in 2019 and 1.4% in 2020).
+• Consolidation of Canadian subsidiary West Park in
+June 2019 and relatively stable EBITDA generation
+in North America and Brazil suggesting that
+exposure to demand risk has fallen, and therefore
+that margins will be lower, but more stable.
+• Capital expenditure (capex) of about €250
+million-€300 million in 2019 and €80 million-€100
+million in the following years, primarily driven by
+the acquisitions announced this year and potential
+projects in the pipeline;
+• Dividends of €80 million-€100 million per year;
+• Additional concession fee liabilities of €110 million
+in 2019 and €60 million-€70 million going forward.
+Under International Financial Reporting
+Interpretations Committee (IFRIC) 12, the fixed
+concession fee liabilities are included in the reported
+debt. They are difficult to predict as they are subject
+to the awarding of new concessions.
+• Successful issuance of a €100 million tap of the
+1.625% fixed-rate 2028 bond, as well as a 20-year
+€150 million 2.25% annual coupon private
+placement. The transactions were completed in
+June and July 2019, respectively.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Indigo Group S.A.S.
+
+Base-case projections
+Revenue likely to decline in 2019 because of Indigo's strategic exit from noncore markets. Following the disposal of its
+subsidiaries in Germany, the U.K., and Slovakia, we expect the group's revenue to decline by about 4% in 2019, but to
+recover by approximately 4%-5% the following year, reflecting completed acquisitions and the high amount of capex
+included in our forecasts.
+Focus on leading markets will sustain the group's EBITDA margins at around 44%-46%. We expect S&P Global
+Ratings-adjusted EBITDA margin to remains at 44%-46%, because of the group's high exposure to concession
+business, slightly offset by exposure to soft currencies and lower margins in Brazil and the international segment.
+Metrics will weaken slightly as the new acquisitions and contracts mature. FFO to debt is forecast to slightly decline to
+about 11.5%-11.9% given the high capex expected in 2019-2020. This will be financed from the proceeds of the
+disposals. We expect financial leverage to remain 6x on average.
+
+Company Description
+Indigo Group S.A.S. is one of the largest car park operators globally. Its headquarters and core operations are in
+France. Through Indigo Infra S.A. and its subsidiaries, the group operates off-street and on-street car parks in 10
+countries, including Spain, Belgium, and Switzerland in Europe, as well as Canada, the U.S., and Brazil. It has over
+5,050 car parks, more than 2.3 million managed parking spaces (on-street and off-street), and offers on-street
+enforcement services in France, Belgium, Luxembourg, Spain, and the U.S.
+Indigo Group has expanded internationally through acquisitions and partnerships with local operators. In Western
+Europe (particularly in France, Spain, and Belgium), it maintains a concession-type of business that generates high
+levels of profitability. In emerging markets, it has entered into short-term and no demand-risk type of contracts that
+require low investments, but generate low margins. The group also includes a mobility and digital solutions subsidiary
+aimed at developing a mobility services and payment software platform, although its contribution to total revenues is
+negligible at this stage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Indigo Group S.A.S.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Indigo Group S.A.S.
+
+Chart 2
+
+The group's ultimate parent is Infra Foch TopCo, of which 98.4% was initially owned by Ardian and Crédit Agricole
+(Predica). These companies acquired the company from French contracting group Vinci S.A. in June 2016.
+In March 2019, Ardian had entered into exclusive negotiations to sell its equity stake to Mirova (Natixis asset manager)
+and MEAG (Munich Re and Ergo asset manager). In September 2019, the transaction was completed, following the
+approval by the relevant anti-trust authorities. Under the new ownership structure, Predica holds 47.1% of the shares,
+Mirova 32.9%, MEAG 14.2%, treasury shares 0.5%, and the remainder by the management of the group. At this stage,
+we do not expect any material change in the company's business model or financial policy, as we understand that
+Mirova and MEAG are infrastructure-type of investors that have experience in and knowledge of the car park sector.
+We don't anticipate a sale would trigger the potential consolidation of the LAZ Parking subsidiary in the U.S.--Ardian's
+exit would not qualify as a change-of-control event.
+The group's employees and management hold the remaining stake.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Indigo Group S.A.S.
+
+Chart 3
+
+Business Risk: Strong
+Our assessment incorporates the group's solid business model, which focuses on long-term off-street concessions,
+ownership, and long-term leases in Western Europe. These provide relatively predictable cash flows with EBITDA
+margins of about 40%-70%, in line with core infrastructure companies. In emerging markets, the group has favored
+short-term leasing contracts that require lower investment, but yield lower margins, and management contracts that
+carry no exposure to demand risk.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Indigo Group S.A.S.
+
+Chart 4
+
+In France, its main market, the group holds a leading position and generates about 75% of its global proportionate
+EBITDA. Despite the social unrest, new municipal tax in Paris, and some slowdown in Paris city center traffic, we
+understand that the acquisition of Spie Autocite in June 2019 reinforced the group's position and cash generation in
+France.
+The company continues to expand its leading position in Western Europe, with the acquisition of Belgium-based Besix
+Park in July 2018. In Latin America, it undertook an additional 10% stake in its Brazilian subsidiary AGE in October
+2018. Despite its increasing exposure to countries that have soft currencies, we consider that the group's plans to
+expand overseas enhance its diversified profile in terms of municipalities, locations, and number of contracts. This is
+key to success in the car parking business, which is very local.
+Moreover, the combination of limited available space in city centers and the group's good historical retention rate of
+expiring contracts forms an effective barrier to entry. We estimate that it retains 80%-90% of contracts on expiry.
+
+Peer comparison
+Compared with MEIF 5 Arena Holding (previously EMPARK), the market leader in Spain and Portugal, Indigo Group
+benefits from higher reported margins due to its lower exposure to noninfrastructure business. MEIF5's on-street
+segment generates around 15% of its total EBITDA, and around 30% of its parking spaces are operated under
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+Indigo Group S.A.S.
+
+management contracts, which means shorter contracts and higher volatility in cash flow, despite its 90% retention rate.
+APCOA Parking Holdings GmbH is the market leader in Germany, Italy, the U.K., and Scandinavia. Its business model
+focuses on leasing and management contracts. As a facility service provider, it benefits from limited need for capex
+and lower EBITDA margins than infrastructure peers.
+Cofiroute S.A. operates various concession contracts and is the fifth-largest rated toll road network operator in Europe.
+The toll road operator has a significantly stronger EBITDA margin than Indigo Group. This is consistent with the
+stronger business risk profile of a large and mature toll road network under the supportive French regulatory
+framework.
+Table 1
+
+Indigo Group S.A.S. -- Peer Comparison
+Industry Sector: Infrastructure
+(Mil. €)
+
+Indigo Group S.A.S.
+--Fiscal year ended Dec. 31,
+2018--
+
+MEIF 5 Arena Holdings SLU
+--Fiscal year ended Dec. 31,
+2017--
+
+Cofiroute
+--Fiscal year ended Dec. 31,
+2018--
+
+Revenue
+
+746.7
+
+207.7
+
+1,444.7
+
+EBITDA
+
+338.5
+
+71.9
+
+1,081.6
+
+Funds from operations (FFO)
+
+238.9
+
+46.0
+
+735.3
+
+Interest expense
+
+72.6
+
+25.3
+
+76.3
+
+Cash interest paid
+
+51.0
+
+25.9
+
+88.9
+
+Cash flow from operations
+
+251.7
+
+76.7
+
+744.2
+
+Capital expenditure
+
+193.2
+
+27.7
+
+157.7
+
+58.5
+
+49.0
+
+586.5
+
+Discretionary cash flow (DCF)
+
+(22.4)
+
+48.1
+
+125.0
+
+Cash and short-term investments
+
+329.4
+
+46.1
+
+237.6
+
+1,823.7
+
+540.3
+
+3,694.1
+
+648.1
+
+196.3
+
+806.1
+
+EBITDA margin (%)
+
+45.3
+
+34.6
+
+74.9
+
+Return on capital (%)
+
+3.4
+
+(4.0)
+
+18.0
+
+EBITDA interest coverage (x)
+
+4.7
+
+2.8
+
+14.2
+
+FFO cash interest coverage (x)
+
+5.7
+
+2.8
+
+9.3
+
+Free operating cash flow (FOCF)
+
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+5.4
+
+7.5
+
+3.4
+
+FFO/debt (%)
+
+13.1
+
+8.5
+
+19.9
+
+Cash flow from operations/debt (%)
+
+13.8
+
+14.2
+
+20.1
+
+3.2
+
+9.1
+
+15.9
+
+(1.2)
+
+8.9
+
+3.4
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Financial Risk: Significant
+The group's leverage metrics are expected to remain stable and on average at approximately 6.0x EBITDA to debt and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+Indigo Group S.A.S.
+
+FFO to debt of 12%-13% over the next two years. Because it has been awarded new concessions, it will have
+additional concession liabilities. We expect cash flow from operations and the proceeds from the asset disposals to be
+sufficient to support the planned capex without materially increasing leverage.
+Chart 5
+
+We continue to analyze the group on a consolidated basis, based on the accounts of Infra Foch TopCo, as the ultimate
+parent. That said, the parent does not bear any additional financial debt, apart from a €347 million convertible bond
+that we currently treat as equity.
+
+Financial summary
+Table 2
+
+Indigo Group S.A.S. -- Financial Summary
+Industry Sector: Infrastructure
+--Fiscal year ended Dec. 31-(Mil. €)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+746.7
+
+732.2
+
+695.3
+
+647.3
+
+638.6
+
+EBITDA
+
+338.5
+
+354.7
+
+328.5
+
+299.8
+
+293.6
+
+Funds from operations (FFO)
+
+238.9
+
+265.1
+
+213.9
+
+225.0
+
+242.8
+
+72.6
+
+54.0
+
+42.3
+
+40.7
+
+57.3
+
+Interest expense
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 11
+
+Indigo Group S.A.S.
+
+Table 2
+
+Indigo Group S.A.S. -- Financial Summary (cont.)
+Industry Sector: Infrastructure
+--Fiscal year ended Dec. 31-(Mil. €)
+
+2018
+
+Cash interest paid
+
+2017
+
+2016
+
+2015
+
+2014
+
+51.0
+
+50.7
+
+49.1
+
+55.7
+
+38.0
+
+Cash flow from operations
+
+251.7
+
+261.8
+
+227.9
+
+214.6
+
+187.6
+
+Capital expenditure
+
+193.2
+
+162.6
+
+170.2
+
+149.8
+
+126.0
+
+Free operating cash flow (FOCF)
+
+58.5
+
+99.2
+
+57.7
+
+64.8
+
+61.6
+
+Discretionary cash flow (DCF)
+
+(22.4)
+
+17.9
+
+(3.6)
+
+(98.5)
+
+61.4
+
+Cash and short-term investments
+
+329.4
+
+170.1
+
+62.1
+
+33.5
+
+70.7
+
+Gross available cash
+
+329.4
+
+172.4
+
+62.1
+
+33.5
+
+70.7
+
+1,823.7
+
+1,913.9
+
+1,809.6
+
+1,729.4
+
+1,568.4
+
+648.1
+
+634.7
+
+782.7
+
+765.1
+
+890.9
+
+EBITDA margin (%)
+
+45.3
+
+48.4
+
+47.2
+
+46.3
+
+46.0
+
+Return on capital (%)
+
+3.4
+
+5.5
+
+4.9
+
+4.5
+
+5.9
+
+EBITDA interest coverage (x)
+
+4.7
+
+6.6
+
+7.8
+
+7.4
+
+5.1
+
+FFO cash interest coverage (x)
+
+5.7
+
+6.2
+
+5.4
+
+5.0
+
+7.4
+
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+5.4
+
+5.4
+
+5.5
+
+5.8
+
+5.3
+
+FFO/debt (%)
+
+13.1
+
+13.9
+
+11.8
+
+13.0
+
+15.5
+
+Cash flow from operations/debt (%)
+
+13.8
+
+13.7
+
+12.6
+
+12.4
+
+12.0
+
+3.2
+
+5.2
+
+3.2
+
+3.7
+
+3.9
+
+(1.2)
+
+0.9
+
+(0.2)
+
+(5.7)
+
+3.9
+
+FOCF/debt (%)
+DCF/debt (%)
+N.M.--Not meaningful.
+
+Liquidity: Strong
+We view Indigo Group's liquidity as strong, given that we expect liquidity sources to exceed uses by about 3.0x in the
+12 months ending March 2020 and that sources would exceed uses even if forecasted EBITDA declined by 30%. We
+anticipate that the company would be able to sustain high-impact low-probability events without need for refinancing
+and it has solid relationships with banks.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• €297 million of unrestricted cash and equivalents;
+
+• Debt maturities of about €34 million attributable to
+payments of fixed concession fees reported on the
+balance sheet;
+
+• €300 million of undrawn committed revolving credit
+facilities, which mature in the end of 2023;
+• €250 million new notes issued in June and July
+2019; and
+
+• Capex of about €235 million; and
+• Dividends of about €80 million.
+
+• FFO of about €230 million-€240 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 12
+
+Indigo Group S.A.S.
+
+Debt maturities
+Other than the group's concession fees, reported as debt, there is no significant debt maturing in the near future.
+There are no financial covenants on existing debt.
+
+Issue Ratings - Subordination Risk Analysis
+The 'BBB' issue rating on Indigo Group's notes reflects that all the notes are senior unsecured and the amount of debt
+at subsidiaries' level is limited.
+
+Capital structure
+Indigo Group's capital structure comprises about €1.6 billion senior unsecured debt (excluding future concession fees),
+as of Dec. 31, 2018, of which €43 million is attributable to the group's subsidiaries. Indigo Group also reports about
+€330 million in additional financial debt related to net present value of future concession fees. The €347 million
+convertible bond at Infra Foch TopCo bears an 8% interest rate, which is paid through dividends received from the
+Indigo Group.
+
+Analytical conclusions
+Indigo Group's existing debt is rated 'BBB', at the level of the issuer credit rating, because the amount of debt located
+at the level of Indigo Group's subsidiaries is limited to about €43 million. In our subordination analysis, we deduct
+financial debt related to the future concession fees, as this is not third-party debt. Convertible bonds at the holding
+level are held solely by Infra Foch TopCo shareholders and consequently are not exposed to a third party.
+
+Reconciliation
+Our main analytical adjustments to reported financials are as follows:
+• We increase the reported debt by operating lease adjustments, in line with annual payment information received by
+the company.
+• We include in the debt pension liabilities.
+• We consider about €15 million of cash as restricted as it represents payments due to municipalities.
+• We include in our adjusted debt the value of the put option held by the noncontrolling interest in the AGE Brazilian
+subsidiary, as well as liabilities related to employee savings mutual fund and long-term remuneration plans (€26.4
+million).
+• We deduct from both revenues and operating expenditures the amount related to construction services.
+• We are no longer treating the shareholder loan as equity, given its early reimbursement following the refinancing in
+April 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 13
+
+Indigo Group S.A.S.
+
+Table 3
+
+Reconciliation Of Indigo Group S.A.S. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€)
+--Fiscal year ended Dec. 31, 2018-Indigo Group S.A.S. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+774.7
+
+400.6
+
+192.4
+
+61.1
+
+338.5
+
+231.6
+
+193.8
+
+Debt
+
+Shareholders'
+equity
+
+Revenue
+
+1,959.0
+
+636.7
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(48.6)
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(39.8)
+
+--
+
+--
+
+4.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+133.0
+
+--
+
+--
+
+31.5
+
+10.6
+
+10.6
+
+(10.6)
+
+20.9
+
+--
+
+14.9
+
+--
+
+--
+
+0.6
+
+0.6
+
+0.3
+
+--
+
+--
+
+--
+
+(314.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0.6
+
+(0.6)
+
+(0.6)
+
+(0.6)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+2.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+--
+
+11.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Income (expense) of
+unconsolidated
+companies
+
+--
+
+--
+
+--
+
+15.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+--
+
+1.1
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.2)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+11.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and
+liquid investments
+
+Debt: Other
+
+26.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Revenue: Other
+
+--
+
+--
+
+(28.0)
+
+(28.0)
+
+(28.0)
+
+--
+
+--
+
+--
+
+--
+
+COGS: Other
+nonoperating
+nonrecurring items
+
+--
+
+--
+
+--
+
+28.0
+
+28.0
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss)
+on disposals of PP&E
+
+--
+
+--
+
+--
+
+(25.1)
+
+(25.1)
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+--
+
+(99.6)
+
+(99.6)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+--
+
+5.7
+
+--
+
+--
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 14
+
+Indigo Group S.A.S.
+
+Table 3
+
+Reconciliation Of Indigo Group S.A.S. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+€) (cont.)
+Total adjustments
+
+(135.3)
+
+11.4
+
+(28.0)
+
+(62.2)
+
+(106.7)
+
+11.5
+
+(99.6)
+
+20.1
+
+(0.6)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+238.9
+
+251.7
+
+193.2
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,823.7
+
+648.1
+
+746.7
+
+338.5
+
+85.7
+
+72.6
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 15
+
+Indigo Group S.A.S.
+
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Jul. 1, 2019
+• Criteria - Corporates - Industrials: Key Credit Factors For The Transportation Infrastructure Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 20, 2019)*
+Indigo Group S.A.S.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+10-Apr-2018
+
+BBB/Stable/--
+
+17-May-2017
+
+BBB/Positive/--
+
+03-Oct-2014
+
+BBB/Stable/--
+
+Related Entities
+Indigo Infra S.A.S.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Infrastructure Finance Ratings Europe; InfrastructureEurope@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 17
+
+

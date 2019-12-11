@@ -1,0 +1,663 @@
+Industrivarden AB
+Primary Credit Analyst:
+Per Karlsson, Stockholm (46) 8-440-5927; per.karlsson@spglobal.com
+Secondary Contact:
+Mikaela Hillman, Stockholm + 46 84 40 5917; mikaela.hillman@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Ratings Score Snapshot
+Issue Ratings--Subordination Risk Analysis
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+Industrivarden AB
+Credit Highlights
+Issuer Credit Rating
+A+/Stable/A-1
+Nordic Regional Scale
+--/--/K-1
+
+Overview
+Key Strengths
+
+Key Risks
+
+Excellent portfolio liquidity; all investments are minority stakes in blue-chip
+companies that are heavily traded on the Stockholm Stock Exchange.
+
+Moderately concentrated investments with the three largest
+assets--Sandvik, AB Volvo, and Essity--representing about 63%
+of the portfolio.
+
+High asset quality, with average portfolio credit quality comfortably in the low
+'A' rating category.
+
+Investments are largely Sweden-based, reducing geographic
+diversity.
+
+Track record of pursuing conservative investment strategies, with management
+focused on keeping a strong balance sheet with limited debt (Swedish krona
+[SEK]2.7 net debt as of June 30, 2019).
+
+Exposure to equity market valuations and volatility could
+occasionally lead to higher LTV ratios.
+
+S&P Global Ratings' expectations of continued conservative financial policies
+with a loan-to-value (LTV) ratio below 10% (2.5% at June 30, 2019).
+Very robust cash flow adequacy ratio. Following low interest costs, and our
+expectations of about SEK 4 billion-SEK4.2 billion in dividend income, we
+forecast very high cash flow adequacy at around 30x.
+
+Industrivärden holds a lucrative investment portfolio and has significant financial flexibility. Industrivärden invests
+only in listed assets, holding minority stakes typically less than 20% of the capital in blue-chip companies that are
+heavily traded on the Stockholm Stock Exchange, resulting in high portfolio liquidity in our view. The underlying credit
+quality of the investment portfolio is high, at 'A-', meaning that we expect investees to generate stable earnings and
+recurring cash flows over the cycle, and envisage significant protection against total losses. In our view, these
+investment strategies underpin Industrivärden's financial flexibility.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+Industrivarden AB
+
+Chart 1
+
+Recent disposals has created ample headroom under the financial commitment to maintain an LTV ratio of 0%-10%.
+The current financial policy was introduced in February 2016 when Mr. Fredrik Lundberg took over as chairman of the
+board. Since then, Industrivärden has lowered its LTV ratio to about 2.5 at the end of the second quarter of 2019 from
+about 12% as of year-end 2015. The largest improvement has been achieved thanks the sell-down of its stake in ICA
+during 2019 and SSAB during 2018, which allowed management to reduce net debt substantially. At the end of the
+second quarter of 2019, net debt totaled about SEK2.7 billion compared with about SEK11 billion at year-end 2017.
+We view this as a strong indication that the company's risk tolerance has decreased and we perceive management as
+very committed to keeping the LTV ratio within 0%-10%. We therefore don't foresee any near term acquisitions or
+additions to the investment portfolio.
+Very strong cash flow adequacy ratio, but this is unlikely to lead to lower adjusted debt. In our base case, we assume
+robust cash flow ratios of about 30x and total dividend and interest income of about SEK4 billion-SEK5 billion in 2019.
+We expect Industrivärden to use what is left after the shareholder distribution of SEK 2.5 billion that was paid in the
+second quarter of 2019 to be invested in some or several of its existing portfolio companies. Given the already very
+low debt level (SEK2.6 billion), we view this as a very prudent strategy, as over time it will meaningfully expand the
+portfolio and reinforce headroom under the LTV ratio.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+Industrivarden AB
+
+Outlook
+
+The stable outlook reflects our expectation that Industrivärden's LTV ratio will remain below 10%. We assume the
+company will maintain high financial flexibility by focusing on minority-owned listed investments, relatively low
+ownership of assets in the portfolio, and investees with high underlying credit quality.
+
+Downside scenario
+We could lower the ratings if Industrivärden's leverage increased materially from current levels, with the LTV ratio
+staying above 10% for a prolonged period. This could, for example, result from a steep decline in equity markets if
+the company did not take measures to counterbalance the increase in the LTV ratio. It could also stem from
+increasing debt to fund shareholder-friendly measures, although we think such a scenario is highly unlikely in the
+near term.
+
+Upside scenario
+We are unlikely to take a positive rating action since this would require Industrivärden to hold a materially larger
+and more diversified portfolio while keeping the LTV ratio below 10%.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• No major changes in portfolio value.
+• Dividend receipts of about SEK4.0 billion-SEK4.5
+billion in 2019.
+
+2018A 2019E 2020E
+Cash flow adequacy (x)
+LTV (%)
+
+27
+
+27-32
+
+27-32
+
+7
+
+<10
+
+<10
+
+• Dividend payments of about SEK2.5 billion in 2019.
+• Interest payments of about SEK10 million.
+
+Note: All figures are fully S&P Global Ratings-adjusted.
+LTV--Loan to value. A--Actual. E--Estimate.
+
+Base-Case Projections
+The LTV ratio is expected to remain within its leverage policy of 0%-10%. We believe that any deviation over the next
+two years to be unlikely. With the current very low debt level, asset prices needs to shrink materially before the policy
+is breached. Even if the portfolio, for whatever reason, were to drop 50%, Industrivärden would be well in line with its
+LTV policy, thanks to the very low debt level. As management over the last two years been very active in reducing
+debt, we perceive its intention is to continue operating with a significantly lower debt level than in the past.
+Thanks to this, we also believe that Industrivärden should be able to withstand higher volatility in the equity market.
+This is important, as after a relatively long period of price increases, Industrivärden's share price has increased by 47%
+over the past five years (see chart 2), compared with OMX Stockholm (+32%). We now expect the global economy to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+Industrivarden AB
+
+enter a period of less supportive macroeconomic conditions and greater instability that is likely to lead to more
+volatility in asset prices. Uncertainty from Brexit, the China/U.S. trade war, and geopolitical tensions could all lead to
+increased volatility and lower share prices amid tightening credit conditions. We believe, however, that Industrivärden
+is well prepared and should be able to keep its LTV within the group's target range, even if share prices decline in the
+coming years. This is further underpinned by Industrivärden's strategy to continue gradually investing in the existing
+portfolio, and finance acquisition predominantly by dividend income. We expect that this strategy over time will
+continue to build further headroom in the rating.
+Chart 2
+
+Company Description
+Industrivarden is a publicly owned investment holding company founded in 1944 that primarily invests in a
+concentrated selection of listed Nordic companies. Its largest individual shareholder is L E Lundbergforetagen AB
+(Lundbergs; A+/Stable/A-1), with 23.7% of the votes and 16.5% of the capital. We view Lundbergs as a conservative
+and long-term holding, which supports the rating on Industrivärden.
+
+Business Risk
+Portfolio supported by superior liquidity and strong asset quality. Industrivärden's business risk profile is bolstered by
+its focus on listed minority stakes in entities that have strong credit quality and shares that are heavily traded on the
+Stockholm Stock Exchange. Despite a stated long-term investment horizon, we believe the company could completely
+or partly liquidate an investment in a short period of time, if necessary. We think that the portfolio will continue to
+benefit from excellent asset liquidity and to compare favorably with that of most peers, since Industrivärden is an
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+Industrivarden AB
+
+investment holding company with only listed assets, and also low ownership interest, typically below 20%.
+Further supporting the ratings are both the portfolio companies' diversified industrial footprints and substantial
+international operations, which offset Industrivärden's domestic exposure and overreliance on one or two sectors.
+Moderately concentrated portfolio. Industrivärden's investment portfolio comprise eight core holdings (after the
+disposal of ICA earlier in 2019), spread over sectors such as banking, heavy trucks, construction, forest products, and
+capital goods. Nevertheless, its portfolio exhibits only modest asset diversification as the three largest assets constitute
+about 60% of the portfolio (see chart 3). On June 30, 2019, its portfolio was worth about SEK106.8 billion (US$11.1
+billion, up from SEK92 billion at year-end 2018 (US$10.5 billion). The largest asset is Sandvik AB (A-/Stable/A-2),
+comprising about 24.6% of the portfolio; followed by AB Volvo (A-/Stable/A-2), representing 21%; and Essity AB
+(BBB+/Stable/A-2) at 18%.
+Chart 3
+
+Peer comparison
+Table 1
+
+Industrivarden AB --Peer comparison
+
+Rating as of Sept.
+4, 2019
+Business profile
+
+Industrivarden AB
+
+L E Lundbergforetagen AB
+
+JAB Holding Company S.a r.l.
+
+Investor AB
+
+A+/Stable/A-1
+
+A+/Stable/A-1
+
+A-/Stable/--
+
+AA-/Stable/A-1+
+
+Strong
+
+Strong
+
+Satisfactory
+
+Excellent
+
+Portfolio data as of
+Portfolio size
+(adjusted; mil. $)
+Weight of listed
+assets (%)
+
+--Dec. 31, 2018-10,256
+
+8,883
+
+26,077
+
+40,736
+
+99.9
+
+71.6
+
+62.3
+
+74.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+Industrivarden AB
+
+Table 1
+
+Industrivarden AB --Peer comparison (cont.)
+Industrivarden AB
+
+L E Lundbergforetagen AB
+
+JAB Holding Company S.a r.l.
+
+Investor AB
+
+21.6
+
+27.7
+
+51.5
+
+11.8
+
+Three largest
+assets
+
+Handelsbanken, Sandvik,
+and AB Volvo
+
+Fastighets, Industrivarden, and
+Hufvudstanden
+
+Kuerig Dr Pepper - ACORN, Jacobs
+Douwe Egberts - ACORN, and Coty
+- JAB Cosmetics
+
+Atlas Copco, ABB, and
+SEB
+
+Three largest
+assets (% of
+portfolio)
+
+60.9
+
+60.6
+
+79.1
+
+35.0
+
+Cash flow
+adequency (%)
+
+26.9
+
+8.7
+
+2.2
+
+4.7
+
+Loan to value
+ceiling (%)
+
+10.0
+
+15.0
+
+20.0
+
+20.0
+
+7.2
+
+6.2
+
+20.1
+
+7.5
+
+Largest asset (% of
+portfolio)
+
+Loan to value (%)
+
+Compared with its peers, Industrivärden has the highest proportion of listed assets in its portfolio and relatively low
+ownership interest, typically below 20%. Nevertheless, our view of Industrivärden's portfolio risk is constrained by its
+top three assets making up 63% of its portfolio. Our ratings on Industrivärden are at the same level as those on
+Lundbergs (A+/Stable/A-1), but due to the size of Industrivärden's portfolio, below those on Investor AB
+(AA-/Stable/A-1+), and Temasek Holdings (Private) Limited (AAA/Stable/A-1+). Those tend to be more diversified
+than Industrivärden.
+
+Financial Risk
+We expect Industrivärden's LTV ratio to remain below 10% over the coming two years. Management published a new
+debt policy in 2016 and has since firmly executed on the strategy, which has resulted in very low debt. We therefore
+deem the company's policy limiting the LTV ratio to within 0%-10% as very prudent, and we perceive management as
+committed to its financial policy. Both in 2018 and 2019, the company has used proceeds from asset sales to lower net
+debt, thereby reducing the LTV ratio to 2.5% at the end of June 2019 from 10% in 2017. The financial risk policy also
+implies lower dividend payouts, allowing for positive cash flow before changes in the asset portfolio. In our view, these
+factors have strengthened Industrivärden's financial risk since 2016.
+We assess the company's management and governance as strong, reflecting its consistent strategy and stringent
+financial policy.
+
+Financial summary
+Table 2
+
+Industrivarden AB -- Financial Summary
+--Year ended Dec. 31-(Mil. SEK)
+Portfolio as adjusted
+Net debt as adjusted
+Loan to value (%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+92,170 107,288 94,250 81,930 83,062 77,435
+6,601
+7.2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+10,990 11,481 10,122 15,798 18,164
+10.2
+
+12.0
+
+12.4
+
+19.0
+
+23.5
+
+SEPTEMBER 4, 2019 7
+
+Industrivarden AB
+
+Table 2
+
+Industrivarden AB -- Financial Summary (cont.)
+--Year ended Dec. 31-(Mil. SEK)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+Dividend and fees income
+
+3,764
+
+2,786
+
+3,078
+
+3,256
+
+3,064
+
+2,391
+
+Operating charges and tax expenses
+
+121
+
+111
+
+112
+
+229
+
+146
+
+130
+
+Cash flow adequency
+
+26.9
+
+14.8
+
+202.0
+
+284.0
+
+411.0
+
+572.0
+
+2,394
+
+2,800
+
+2,162
+
+2,702
+
+2,282
+
+1,950
+
+Dividend paid
+SEK--Swedish krona.
+
+Liquidity
+We assess Industrivärden's liquidity as strong since we forecast a ratio of cash sources to cash needs at around 1.7x
+over the next 12 months. Our view of liquidity is further supported by relatively low total debt. We also acknowledge
+that all investment companies have declared their dividends for 2019, and expect that has been paid out already during
+April 2019. Furthermore, we consider that Industrivärden's strong ties with Handelsbanken support its ability to
+quickly obtain bank financing if needed. We also expect Industrivärden would be able to absorb a high-impact event
+with limited need for refinancing, given its low leverage. Such a scenario would likely be a severe correction of market
+values for Industrivärden's listed shares, which we consider manageable in view of its low LTV ratio.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• About SEK581 million of cash and equivalents;
+
+• Debt maturities due within one year until June 2020
+totaled SEK800 million and SEK1,250 million the
+year after;
+
+• Dividend inflow of about SEK4.0 billion-SEK 4.5
+billion for 2019 and 2020;
+• Access to a SEK3 billion revolving credit facility
+expiring in January 2023; and
+• Potential disposals of highly liquid shares in the
+event of liquidity constraints.
+
+• Dividends of about SEK2.5 billion–SEK 2.6 billion to
+be paid in 2019 and 2020; and
+• Management and interest expenses of about SEK100
+million-SEK150 million.
+
+Debt maturities
+Within one year
+
+SEK800 million
+
+Within one-two years
+
+SEK1.25 billion
+
+Within two-three years SEK1 billion
+
+Ratings Score Snapshot
+Issuer Credit Rating:
+Business risk:
+
+A+/Stable/A-1
+Strong
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 8
+
+Industrivarden AB
+
+Country risk:
+
+Very low
+
+Industry risk:
+
+Intermediate
+
+Investment position:
+
+Strong
+
+Financial risk:
+Cash flow/Leverage:
+Anchor:
+
+Minimal
+Minimal
+aa-
+
+Modifiers:
+Liquidity:
+
+Strong (no impact)
+
+Management and governance: Strong (no impact)
+Comparable rating analysis:
+
+Negative (-1 notch)
+
+Issue Ratings--Subordination Risk Analysis
+We rate Industrivärden's debt 'A+', the same as the issuer credit rating, since no significant elements of subordination
+risk are present in the capital structure in our view. This is further supported by the company's low leverage and ability
+to liquidate assets to redeem debt. In our analysis of investment holding companies, we focus on the parent company
+and related financing vehicles' debt instruments, but don't take into account debt at investee companies.
+
+Related Criteria
+• General Criteria: Methodology For National And Regional Scale Credit Ratings, June 25, 2018
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | Industrials: Methodology: Investment Holding Companies, Dec. 1, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Ratings Detail (As Of September 4, 2019)*
+Industrivarden AB
+Issuer Credit Rating
+Nordic Regional Scale
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+A+/Stable/A-1
+--/--/K-1
+
+SEPTEMBER 4, 2019 9
+
+Industrivarden AB
+
+Ratings Detail (As Of September 4, 2019)*(cont.)
+Issuer Credit Ratings History
+11-May-2018
+
+A+/Stable/A-1
+
+11-Feb-2016
+
+A/Stable/A-1
+
+08-May-2015
+09-Feb-2004
+
+A-/Positive/A-2
+Nordic Regional Scale
+
+--/--/K-1
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+

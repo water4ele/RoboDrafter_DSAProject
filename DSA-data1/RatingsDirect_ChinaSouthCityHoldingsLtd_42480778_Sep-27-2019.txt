@@ -1,0 +1,1354 @@
+China South City Holdings Ltd.
+Primary Credit Analyst:
+Ricky Tsang, Hong Kong (852) 2533-3575; ricky.tsang@spglobal.com
+Secondary Contact:
+Wes Lao, Beijing + 86 10 6569 2928; wes.lao@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 1
+
+China South City Holdings Ltd.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Positive/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Satisfactory contracted sales growth on residential and commercial apartments Weak sales of trade-center commercial units
+Recurring income is expanding
+
+Improving but still high financial leverage
+Tight liquidity but mild improvement is expected
+
+We expect CSC's contracted property sales growth to remain moderate in fiscal 2020 and 2021.We believe China South
+City Holdings Ltd. (CSC) will continue to deliver 7%-9% contracted property sales growth over the next two fiscal
+years. The moderate growth is driven by its residential and commercial apartments. Most of CSC's saleable resources
+are located in tier-two cities with stronger demand for real estate, such as Chongqing and Zhengzhou. Residential sales
+will account for 50%-60% to total sales over the next two years, and commercial apartments for a 30%. Trade
+center-sales are weakening and will account for 10%-20% of sales, down from close to 60% in fiscal 2016.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 2
+
+China South City Holdings Ltd.
+
+Chart 1
+
+CSC is slowly chipping away at elevated leverage. CSC's leverage is high and will remain so, however we expect to see
+marked improvements. The debt-to-EBITDA ratio fell to 9.5x in fiscal 2019 (ending March 31, 2019), from 12.3x in
+fiscal 2018. We expect CSC's leverage to further trend down to 8.1x-8.4x in fiscal 2020 and 2021, given the company's
+positive operating cash flow supported by steady contracted sales growth, growing recurring income, and controlled
+spending on land acquisitions and capital works.
+Liquidity is tight but improving. We assess CSCs' liquidity to be less than adequate with cash sources around 1.1x cash
+user over the 12 months from March 2019. This is due to CSC's significant short-term debt maturities of Hong Kong
+dollar (HK$) 15.3 billion, versus only HK$7.2 billion unrestricted cash on hand. Having said that, we believe the
+short-term refinancing is manageable. This is because most of the short-term borrowings are in the form of bank loans
+which we expect can rolled over with longer tenors, given they are secured by the company's large
+investment-property portfolio. Longer-tenor refinancing will help CSC to reduce its maturities profile and hence mildly
+boost liquidity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 3
+
+China South City Holdings Ltd.
+
+Outlook: Positive
+
+The positive outlook reflects our view that CSC will continue to deleverage with controlled land acquisitions and
+satisfactory contracted sales over the next 12 months. We also believe that the company will see a mild
+improvement in its liquidity and capital structure, such that it is able to source refinancing and manage near-term
+debt maturity.
+
+Upside scenario
+We may upgrade CSC if the company's contracted sales and operating performance strengthens such that its
+debt-to-EBITDA improves to below 9x and EBITDA interest coverage is stable at 1.5x or above. At the same time,
+we would expect CSC's liquidity to further improve to comfortably above 1x liquidity sources over uses and its
+weighted-average maturity profile lengthens to above two years.
+
+Downside scenario
+We may revise the outlook to stable if CSC's deleveraging is weaker than our expectation with the debt-to-EBITDA
+ratio deteriorating back to above 9x. This could be the result of contracted sales slippage or debt-funded
+acquisitions. We could also revise the outlook back to stable if CSC's EBITDA interest coverage falls significantly
+below 1.5x, which could happen due to higher interest expenses or weaker sales than our expectation. We could
+also revise the outlook to stable if CSC's liquidity sources over uses weakens to below 1x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 4
+
+China South City Holdings Ltd.
+
+Our Base-Case Scenario
+Assumptions
+
+• China's property residential sales to increase by
+12%-15% in 2019, likely driven by a 2%-3%
+expansion in gross floor area and a 10%-12% rise in
+the average selling price (ASP).
+• CSC's contracted sales growth to remain less
+correlated than peers' to overall national contracted
+sales growth. This is because CSC focuses less on
+property development due to its large portfolios of
+trade centers, versus other similar rated property
+developers.
+
+Key Metrics
+
+2019A
+
+2020E
+
+2021E
+
+EBITDA margin (%)
+
+35.5 32.0-34.0 32.0-34.0
+
+Debt to EBITDA (x)
+
+9.5x 8.1x-8.4x 8.1x-8.4x
+
+EBITDA interest coverage (x)
+
+1.5x
+
+1.5x
+
+1.5x
+
+A--Actual. E--Estimate.
+
+• CSC's contracted sales to grow by 7.0%-8.0% in
+fiscal 2020 to HK$15.8 billion-HK$16 billion, from
+HK$14.7 billion last year.
+• Property development revenue to increase by
+14%-15% to about HK$9 billion in fiscal 2020 and by
+8.0%-9.0% to about HK$10.0 billion in fiscal 2021,
+tracking prior years' contracted sales growth.
+• Other revenues from property rentals, property
+management, e-commerce, logistics and
+warehousing, and outlet mall operations to grow by
+13%-15% for the next two fiscal years.
+• The overall gross margin to decline slightly to
+41.0%-42.0% in fiscal 2020 and fiscal 2021 and to
+below 40% in fiscal 2022 from 43.0% in fiscal 2019.
+• The EBITDA margin will track gross margin and
+decline slightly to 32.0%-34.0% in the next two fiscal
+years from 35.5% in fiscal 2019.
+• Construction cash outflows to be HK$4.5
+billion-HK$5.0 billion each for the next two fiscal
+years based on budgeted new starts and completion
+schedules.
+
+Base-case projections
+We expect margins to trend down slightly on lower-margin project deliveries: After maintaining relatively stable gross
+margins at 43.0% in fiscal 2019, a slightly decline to 42.0%-41.0% is likely in fiscal 2020 and 2021, due to higher
+revenue contribution from commercial properties. We forecast the gross margin will fall below 40.0% in fiscal 2022.
+Commercial properties generally have a gross margin of about 35.0%-40.0%, slightly lower than that of 40.0%-45.0%
+for residential properties.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 5
+
+China South City Holdings Ltd.
+
+EBITDA interest coverage expected to remain stable at 1.5x. Despite a mild increase in the average cost of borrowing,
+EBITDA interest coverage at 1.5x in fiscal 2019 came in better than our expectation of 1.2x-1.3x. We expect the ratio
+to remain stable at 1.5x in fiscal 2020 and 2021 with controlled financing cost and further debt size reduction. The
+sound interest coverage ratio should provide good support to the company in terms of refinancing loans backed by
+investment properties.
+
+Company Description
+CSC derives 20%-25% of its revenues from various business lines within its trade centers in China, including
+fashion-retail outlets, operating e-commerce platforms, and warehousing management and logistics services. The
+company also offers property management services to tenants in its trade centers.
+CSC's property developments are located around its existing trade center locations, and account for more than 70% of
+total revenue. It engages in the development of residential units in addition to "gongyu" apartments (which tend to
+have shorter leasehold period) and multi-purpose office units.
+CSC was founded in 2002 and is listed on the Hong Kong stock Exchange. Mr. Cheng Chung Hing and his family
+members together hold 35.7% of CSC, while Tencent Holdings Ltd., the second largest shareholder, has an 11.8%
+stake.
+
+Business Risk: Weak
+We believe CSC will continue to face pressure from weak sales in its trade-center business amid challenging industry
+conditions. However, we believe this is somewhat offset by its increasing fast-churn, high asset turnover business of
+residential sales. Recurring income from various businesses is also expanding. As a result, we expect moderate growth
+in CSC's contracted property sales over the coming two years.
+Trade-center sales are unlikely to pick up meaningfully over the next two years, despite the company's heavy past
+investments in this segment. Contribution from trade center sales to total contracted sales will fall to 10%-20% or
+HK$1.5 billion–HK$2.0 billion for the next two years.
+We see the residential segment as the catalyst for sales growth, owing to resilient demand for affordable residential
+housing across the tier-two cities in which CSC operates. In fiscal 2019, contribution from residential and apartment
+sales increased to 75% to total sales, versus 35.0% only in fiscal 2016.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 6
+
+China South City Holdings Ltd.
+
+Chart 2
+
+We forecast projected sales of HK$16.0 billion in fiscal 2020, up from HK$14.7 billion in fiscal 2020. This will be driven
+by favorable residential sales as well as robust office and apartment sales due to new launches in the tier-2 cities of
+Xi'an and Zhengzhou.
+That being said, the sustainability of residential sales performance in the longer term is still uncertain. We estimate the
+company's residential land bank can only support sales for the next 2-2.5 years. Some of this uncertainty is mitigated
+by strong apartment sales; this segment saw HK$1.6 billion in sales in 2019, a major acceleration from HK$64.6 million
+in fiscal 2018. CSC has a track record of converting its commercial land bank (or trade-center land bank) into
+commercial apartment development without paying significant land premium.
+Apart from property development income, recurring income which comprises of rental, property management,
+logistics and warehousing, outlet mall operations and e-commerce, is also a core revenue source for CSC. Income from
+these sources contributed well over 20% of the revenue in fiscal 2019 and is expected to grow by 13.0%-15.0% over
+the next year, to HK$2.6 billion–HK$3.0 billon.
+We believe the recurring income will be a stable and key contributor to revenue, helping alleviate any potential
+volatility in contracted sales. These revenues have high stickiness given their locations near expanding residential
+clusters and because CSC is the sole-service provider to the tenants. We believe the population inflow into the trade
+center zones stemming from the completion of residential projects along with new tenants, and new project launches
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 7
+
+China South City Holdings Ltd.
+
+should further boost recurring income. Infrastructure completions such as the opening of metro lines will also help
+CSC's trade center rental business.
+Chart 3
+
+Peer comparison
+We view Hopson Development Holdings Ltd. (B/Stable/--) and Xinyuan Real Estate Co. Ltd. (B/Negative/--) as CSC's
+closest peers.
+Both CSC and Hopson have similar revenue distribution with about 65.0%-75.0% of the revenue contributed from
+property development and 25.0%-35.0% contributed from other businesses. Whereas, for Xinyuan, 97.5% of the
+revenue is derived from development and the rest from rental. Within development, CSC derives almost 75% of its
+contracted sales from residential properties and 25% from trade-center and commercial apartment sales. Hopson and
+Xinyuan only develop residential properties.
+Hopson's other revenue mainly comes from property rentals, which reached HK$2.0 billion in 2018, covering about
+60%-70% of interest expense. This is behind our positive comparative-rating assessment on Hopson. CSC's property
+rental revenue of close to HK$800 million in fiscal 2019 covers one-third of interest expense. That said, when
+combined with other revenues from logistics and warehousing and outlet operations, recurring income covers about
+60.0% of CSC's interest expense.
+CSC and Hopson are relatively better diversified than Xinyuan. CSC operates in eight cities, with projects in
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 8
+
+China South City Holdings Ltd.
+
+Zhengzhou and Hefei contributing 24.4% and 35.3% respectively of contracted sales in fiscal 2019.Hopson focuses on
+three economic zones—the Yangtze River Delta (50% of contracted sales), Pearl River Delta (34%) and the Bohai Rim
+(16%). Xinyuan has limited diversification, with more than 40% of contracted sales derived from Zhengzhou.
+Hopson has a biggest land bank among peers at 29.2 million sqm. Xinyuan's is 5.2 million sqm, sufficient for three to
+four years of development. CSC has a relatively thin residential land bank that can develop for the next 2-2.5 years. .
+All three peers are highly leveraged companies. CSC's ratio of debt to EBITDA is about the same as Hopson's at about
+9.5x. Xinyuan's leverage is smaller at 6.5x due to controlled land acquisitions.
+Accordingly, Xinyuan's interest coverage ratio is better at 1.9x, versus 1.6x for Hopson and 1.5x for CSC.
+Hopson's weighted-average maturity of 2.9 years is longer when compared to CSC's 2.1 and Xinyuan's 2.0 years. The
+liquidity conditions for CSC and both its peers remain tight with assessments of less than adequate, as the sources
+cover the uses by only a thin margin.
+Table 1
+
+China South City Holdings Ltd.--Peer Comparison
+China South City Holdings
+Ltd.
+
+Hopson Development Holdings
+Ltd.
+
+Xinyuan Real Estate Co.
+Ltd.
+
+--Fiscal year ended-March 31, 2019
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+Revenue
+
+10,274.3
+
+13,293.5
+
+17,366.7
+
+EBITDA
+
+3,615.9
+
+5,745.8
+
+4,206.3
+
+(1,042.1)
+
+537.9
+
+811.2
+
+Interest expense
+
+2,508.0
+
+3,427.9
+
+2,215.7
+
+Cash interest paid
+
+2,583.5
+
+3,293.2
+
+2,237.5
+
+Cash flow from operations
+
+4,768.8
+
+2,586.2
+
+(126.3)
+
+Capital expenditure
+
+3,537.2
+
+1,133.2
+
+71.5
+
+Free operating cash flow (FOCF)
+
+1,231.6
+
+1,453.1
+
+(197.8)
+
+992.5
+
+529.6
+
+(893.8)
+
+(Mil. HK$)
+
+Funds from operations (FFO)
+
+Discretionary cash flow (DCF)
+Cash and short-term investments
+
+6,217.2
+
+8,232.7
+
+5,345.6
+
+Debt
+
+34,398.3
+
+56,250.2
+
+27,298.0
+
+Equity
+
+36,149.8
+
+67,773.6
+
+5,839.5
+
+EBITDA margin (%)
+
+35.2
+
+43.2
+
+24.2
+
+Return on capital (%)
+
+5.2
+
+4.7
+
+12.2
+
+EBITDA interest coverage (x)
+
+1.5
+
+1.7
+
+1.9
+
+FFO cash interest coverage (x)
+
+0.6
+
+1.2
+
+1.4
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+9.5
+
+9.8
+
+6.5
+
+FFO/debt (%)
+
+(3.0)
+
+1.0
+
+3.0
+
+Cash flow from operations/debt (%)
+
+13.9
+
+4.6
+
+(0.5)
+
+3.6
+
+2.6
+
+(0.7)
+
+FOCF/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 9
+
+China South City Holdings Ltd.
+
+Table 1
+
+China South City Holdings Ltd.--Peer Comparison (cont.)
+DCF/debt (%)
+
+2.9
+
+0.9
+
+(3.3)
+
+HK$--Hong Kong dollar.
+
+Financial Risk: Highly leveraged
+We expect CSC's leverage to improve continuously, but remain high over the next 12-18 months. CSC should be able
+to pay down its high levels of short-term debt and refinance with longer tenors, with increasing reliance from
+investment property-pledged bank loans. As result, liquidity will mildly improve.
+The company's deleveraging efforts should bring its ratio of debt to EBITDA to 8.1x-8.4x in fiscal 2020 and 2021,
+supported by controlled land acquisitions and tame capital expenditure. We estimate CSC will budget at HK$2
+billion–HK$3 billion over the next two years, or only 15%-20% of the contracted sales target. Its capital expenditures
+on investment properties will trim to around HK$1 billion each year, versus HK$3.5 billion in fiscal 2019.
+CSC will continue to extend its maturity profile with refinancing of longer-tenor bank loans. The bank loans in
+particular are likely to refinance with longer tenors. This is given the maturing development of the company's
+investment property portfolios, which can be used as collateral and help improve the debt maturity profile of the
+company. Recent new loans and drawdowns have been done at maturities of more than two years.
+Overall, we expect debt levels to decline by 5.0% in fiscal 2020 and grow moderately thereafter as the company mildly
+reaccelerates land banking spend. This is a key factor in the declining leverage trend.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 10
+
+China South City Holdings Ltd.
+
+Chart 4
+
+Financial summary
+Table 2
+
+China South City Holdings Ltd.--Financial Summary
+Industry sector: Homebuilders and real estate developers
+--Fiscal year ended Mar. 31-2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Revenue
+
+10,274.3
+
+9,405.4
+
+7,838.5
+
+6,136.3
+
+9,757.8
+
+EBITDA
+
+3,615.9
+
+3,189.1
+
+2,627.7
+
+1,635.4
+
+4,096.1
+
+(Mil. HK$)
+
+Funds from operations (FFO)
+
+(1,042.1)
+
+(441.9)
+
+(209.2)
+
+(1,620.2)
+
+1,420.8
+
+Interest expense
+
+2,508.0
+
+2,238.3
+
+2,110.1
+
+2,110.5
+
+1,693.5
+
+Cash interest paid
+
+2,583.5
+
+2,087.1
+
+1,961.2
+
+1,773.7
+
+1,457.9
+
+Cash flow from operations
+
+4,768.8
+
+1,846.0
+
+1,937.7
+
+803.9
+
+268.7
+
+Capital expenditure
+
+3,537.2
+
+4,796.7
+
+2,145.2
+
+5,462.3
+
+12,107.0
+
+Free operating cash flow (FOCF)
+
+1,231.6
+
+(2,950.7)
+
+(207.5)
+
+(4,658.4) (11,838.3)
+(5,790.6) (13,075.2)
+
+Discretionary cash flow (DCF)
+
+992.5
+
+(3,351.0)
+
+(607.8)
+
+Cash and short-term investments
+
+6,217.2
+
+8,410.3
+
+8,022.0
+
+9,355.2
+
+7,286.4
+
+Gross available cash
+
+6,217.2
+
+8,410.3
+
+8,022.0
+
+9,355.2
+
+7,286.4
+
+Debt
+
+34,398.3
+
+39,074.6
+
+33,337.8
+
+34,622.0
+
+25,941.9
+
+Equity
+
+36,149.8
+
+36,400.8
+
+28,479.4
+
+26,368.5
+
+25,021.8
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 11
+
+China South City Holdings Ltd.
+
+Table 2
+
+China South City Holdings Ltd.--Financial Summary (cont.)
+Industry sector: Homebuilders and real estate developers
+--Fiscal year ended Mar. 31-Adjusted ratios
+EBITDA margin (%)
+
+35.2
+
+33.9
+
+33.5
+
+26.7
+
+42.0
+
+Return on capital (%)
+
+5.2
+
+5.2
+
+4.9
+
+4.1
+
+8.3
+
+EBITDA interest coverage (x)
+
+1.5
+
+1.4
+
+1.2
+
+0.8
+
+2.4
+
+FFO cash interest coverage (x)
+
+0.6
+
+0.8
+
+0.9
+
+0.1
+
+2.0
+
+Debt/EBITDA (x)
+
+9.5
+
+12.3
+
+12.7
+
+21.2
+
+6.3
+
+FFO/debt (%)
+
+(3.0)
+
+(1.1)
+
+(0.6)
+
+(4.7)
+
+5.5
+
+Cash flow from operations/debt (%)
+
+13.9
+
+4.7
+
+5.8
+
+2.3
+
+1.0
+
+FOCF/debt (%)
+
+3.6
+
+(7.6)
+
+(0.6)
+
+(13.5)
+
+(45.6)
+
+DCF/debt (%)
+
+2.9
+
+(8.6)
+
+(1.8)
+
+(16.7)
+
+(50.4)
+
+HK$--Hong Kong dollar.
+
+Liquidity: Less than adequate
+We assess CSC's liquidity as less than adequate, primarily due to limited unrestricted cash against large short-term
+debt. In our base-case scenario, the company's cash sources over cash uses will be around 1.1x during the 12 months
+to March 2020.
+However, the tight liquidity is partly mitigated by some of the short-term debt being bank financing pledged by
+projects or investment properties, which should be easier to roll over or extend. We believe CSC also has additional
+flexibility to seek refinancing through the pledging of unencumbered investment properties valued at more than HK$14
+billion.
+We have not included HK$13 billion in bank credit lines in our analysis of liquidity due to their uncommitted nature.
+We believe CSC has a well-established position in both the domestic and offshore capital markets and has sound bank
+relationships including with Agricultural Bank of China Ltd., Bank of China Ltd., China Construction Bank Ltd., and
+Industrial and Commercial Bank of China Ltd.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 12
+
+China South City Holdings Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash balance and cash pledged for
+short-term debt of about HK$7.2 billion as of March
+2019.
+
+• Short-term debt in the 12 months to March 2020 of
+HK$15 billion.
+
+• Funds from operations of HK$5 billion in fiscal 2020
+from: Cash inflow from sales, netting construction
+expenditure that we project to be HK$12 billion,
+against selling, general, administrative, taxes,
+interest expenses and others of HK$7 billion.
+
+• Dividend and other capital expenditure in the 12
+months to March 2020 of HK$1.4 billion.
+
+• New debt drawdown of HK$5 billion from end of
+March 2019 to June 2019.
+
+Debt maturities
+Table 3
+
+China South City Holdings Ltd.--Debt Maturities*
+Year
+
+Amount (Mil. HK$)
+
+2020
+
+15,287
+
+2021
+
+9,454
+
+2022-2024
+
+8,987
+
+Thereafter
+
+537
+
+Total
+
+34,264.7
+
+*As of March 31, 2019. HK$--Hong Kong dollar. Mil.--Million.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of March 31, 2019, CSC's capital structure consisted of HK$17.8 billion of secured debt, mostly in the form of
+secured bank borrowings, and HK$4.2 billion subsidiary-level unsecured debt, mostly domestic bonds. CSC's total debt
+amounted to HK$34.3 billion and priority debt ratio reached 64%, above our 50% notching-down threshold for the
+issue rating.
+
+Analytical conclusions
+We rate CSC's outstanding senior unsecured notes one notch lower than the issuer credit rating to reflect the material
+subordination risk. This is because the senior unsecured notes are subordinated to existing secured debt and
+subsidiary-level debt securities.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 13
+
+China South City Holdings Ltd.
+
+Reconciliation
+Table 4
+
+Reconciliation Of China South City Holdings Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. HK$)
+--Fiscal year ended Mar. 31, 2019-China South City Holdings Ltd. reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+34,264.7
+
+S&P Global
+Ratings' adjusted Cash flow from
+EBITDA
+operations
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+35,990.6
+
+2,817.9
+
+2,643.6
+
+530.9
+
+3,615.9
+
+7,156.4
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2,074.5)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2,570.2)
+
+--
+
+133.6
+
+--
+
+103.4
+
+13.3
+
+13.3
+
+(13.3)
+
+90.1
+
+Capitalized interest
+
+--
+
+--
+
+680.0
+
+680.0
+
+1,963.9
+
+--
+
+--
+
+Share-based
+compensation expense
+
+--
+
+--
+
+14.6
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+495.9
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2,477.7)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+159.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+133.6
+
+159.2
+
+798.0
+
+1,189.2
+
+1,977.2
+
+(4,658.0)
+
+(2,387.6)
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+34,398.3
+
+36,149.8
+
+3,615.9
+
+3,832.8
+
+2,508.0
+
+Operating leases
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+Funds from Cash flow from
+operations
+operations
+(1,042.1)
+
+4,768.8
+
+HK$--Hong Kong dollar. Mil.--Million.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Positive/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 14
+
+China South City Holdings Ltd.
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Less than adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 15
+
+China South City Holdings Ltd.
+
+Ratings Detail (As Of September 17, 2019)*
+China South City Holdings Ltd.
+Issuer Credit Rating
+
+B-/Positive/--
+
+Senior Unsecured
+
+CCC+
+
+Issuer Credit Ratings History
+25-Jul-2019
+
+B-/Positive/--
+
+30-Jul-2018
+
+B-/Stable/--
+
+16-Jan-2017
+
+B/Negative/--
+
+31-Oct-2016
+
+B/Watch Neg/--
+
+09-Dec-2015
+
+B/Negative/--
+
+28-Jul-2015
+
+B+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 17
+
+

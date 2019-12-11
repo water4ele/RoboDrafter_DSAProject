@@ -1,0 +1,711 @@
+Enterprise Holdings Inc.
+Primary Credit Analyst:
+Betsy R Snyder, CFA, New York (1) 212-438-7811; betsy.snyder@spglobal.com
+Secondary Contact:
+Philip A Baggaley, CFA, New York (1) 212-438-7683; philip.baggaley@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 1
+
+Enterprise Holdings Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+a-
+
+a-
+
+A-/Stable/A-2
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+The largest global car rental company, with the leading position in off-airport car rentals
+
+The price-competitive nature of on-airport car rentals
+
+Strong management team that has performed well during periods of weaker demand
+
+Substantial capital spending requirements
+
+The ability to reduce capital spending if demand weakens
+
+We anticipate that Enterprise will maintain its position as both the largest U.S. on-airport and
+off-airport car renter.
+Enterprise is the parent of the Enterprise, National, and Alamo car rental brands. It holds the leading position in both
+the U.S. airport and the off-airport (replacement and local) segments of the car rental industry. Its U.S. on-airport
+business has been growing because of both increased leisure airline traffic and its growth in market share. We expect
+leisure travel to continue to increase. In addition, we expect Enterprise's off-airport business to benefit from the
+continued need for replacement vehicles resulting from ongoing automobile recalls and adverse weather conditions
+that cause vehicle accidents and hence the need to rent vehicles while cars are being repaired.
+
+We expect Enterprise's credit metrics will remain relatively stable over the next two years.
+We expect the company to finance its capital spending with free operating cash flow (FOCF) and a modest level of
+incremental debt. We expect the company's operating performance to improve in 2019 from higher pricing on rentals
+and continued strong used car prices, which result in higher gains on its vehicles upon their disposal and lower vehicle
+expense. We also expect debt to increase modestly as the company uses debt and a combination of free cash flow for
+capital spending and to pay dividends to its parent.
+
+We anticipate Enterprise will continue to maintain its operating and financial advantage relative to
+its major competitors Hertz and Avis Budget.
+Enterprise's operating performance and balance sheet have historically been stronger than those of its major
+competitors Hertz Global Holdings Inc. (parent of the Hertz, Dollar, and Thrifty brands) and Avis Budget Group Inc.
+(parent of the Avis and Budget brands). We expect these trends to continue. As a privately held company, Enterprise
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 2
+
+Enterprise Holdings Inc.
+
+has more flexibility in terms of pricing. For example, it has a greater ability to reduce pricing, which has the potential to
+impair its revenues and earnings, than either publicly held Hertz or Avis Budget. Both Hertz and Avis Budget have
+suffered from pressure on pricing as well as higher vehicle costs than Enterprise, which has hurt their operating
+performance, although both have begun to recover beginning in early 2019.
+Enterprise also benefits from its off-airport operations, which account for approximately two-thirds of its revenues, are
+typically higher margin than on-airport operations, and are less exposed to seasonality and cyclicality compared with
+on-airport operations. In addition, unlike its competitors, Enterprise issues debt on an unsecured basis, which allows
+the company more flexibility with its fleet financing and less refinancing risk, as its maturities are spread out over a
+longer period (for example, some rated debt matures in 2046).
+
+Outlook: Stable
+
+The outlook reflects our expectation that the company's credit metrics will remain relatively consistent over the
+next two years, with EBIT interest coverage of at least 7x and funds from operations (FFO) to debt in the low- to
+mid-50% area.
+
+Downside scenario
+A downgrade is unlikely over the next two years. However, we could lower our rating if EBIT interest coverage
+declined to below 3.5x and the FFO to debt ratio fell to below 30% on a sustained basis. This could be the result of
+significantly less air travel, lower used car prices, or large debt-financed dividends.
+
+Upside scenario
+We are unlikely to raise our rating on Enterprise over the next two years given our view of the challenging auto
+rental industry in which it participates and the company's already strong credit metrics, which we do not anticipate
+will improve further.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 3
+
+Enterprise Holdings Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020
+• Global GDP growth of 3.3% in 2019 and 3.6% in
+2020
+
+2018A
+
+2019E
+
+2020E
+
+About 7
+
+About 7
+
+About 7
+
+About 50
+
+Mid-40
+
+Mid-40
+
+EBIT interest coverage (x)
+
+• Modest demand and price increases through 2020
+• A moderate increase in fleet size, resulting in
+moderate revenue growth
+
+Debt to total capital (%)
+FFO to debt (%)
+
+Low- to mid-50 Low- to mid-50 Low- to mid-50
+
+• Continued strong used car prices through 2020
+• Relatively stable margins
+
+Base-case projections
+We expect relatively stable credit metrics over the next two years, with EBIT interest coverage remaining around 7x.
+We also forecast modestly improving debt to capital in the mid-40% area from around 50% in 2019 and FFO to debt
+around 50% over this period, due to the company's use of free cash flow to reduce debt.
+Reduced airline traffic and lower used car prices are both risks to our forecast. However, we believe the company
+would reduce capital spending to meet weaker demand, as it has in the past.
+
+Company Description
+Enterprise Holdings Inc. is the parent of the Enterprise, National, and Alamo car rental brands. It is the largest global
+car renter, with about one-third of its revenues from on-airport and two-thirds from off-airport (local and replacement)
+operations.
+
+Business Risk: Satisfactory
+Enterprise is the largest global car renter in terms of revenues. It generates around one-third of its revenues from
+on-airport car rentals, which depend primarily on airline passenger traffic and are price competitive. Combined, the
+three largest car renters account for about 95% of U.S. car rentals. The other two-thirds of Enterprise's revenues come
+from off-airport (local and replacement) car rentals, in which Enterprise holds the largest market position by far. We
+view this segment as more stable, with less exposure to seasonality and cyclicality and higher margins than on-airport
+car rentals. Because renters rent these vehicles to replace vehicles that are being repaired following accidents or for
+vehicle recalls, rental periods are typically longer, resulting in higher utilization. In addition, they are higher margin
+because the operating expenses at the locations are typically lower than at airport locations.
+We view on-airport car rentals as cyclical and closely tied to economic activity, resulting in more volatile demand.
+However, car rental companies do have flexibility in sizing their fleets to meet customer demand by adding or
+disposing vehicles as demand warrants. We expect continued growth in airline traffic over the next two years, which
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 4
+
+Enterprise Holdings Inc.
+
+should result in increased demand. However, over time, the car rental sector could face more competition from
+ride-hailing companies such as Uber and Lyft. For now, car rental and ride hailing businesses have only limited overlap
+because most rentals are for longer trips and/or a lengthier period. In addition, we see Enterprise as somewhat less
+vulnerable to ride hailing companies because of its large off-airport business.
+Table 1
+
+Enterprise Holdings Inc.--Peer Comparison
+Ratings as of Aug. 20, 2019
+
+Avis Budget Group Inc.
+
+Ryder System Inc.
+
+Hertz Global Holdings Inc.
+
+BB/Stable/--
+
+BBB+/Stable/A-2
+
+B+/Stable/--
+
+(Mil. $)
+
+--Year ended Dec. 31, 2018--
+
+Revenue
+EBITDA
+
+9,124.0
+
+8,409.2
+
+9,504.0
+
+Operating income
+
+4,022.0
+
+2,126.0
+
+3,637.0
+
+Funds from operations (FFO)
+Interest expense
+Cash interest paid
+Cash flow from operations
+
+959.5
+
+641.7
+
+565.6
+
+3,317.5
+
+2,000.1
+
+2,829.4
+
+668.5
+
+194.5
+
+855.6
+
+651.5
+
+177.8
+
+781.6
+
+Capital expenditure
+
+3,236.5
+
+1,783.8
+
+2,863.4
+
+Free operating cash flow (FOCF)
+
+3,172.0
+
+3,050.4
+
+4,218.0
+
+Discretionary cash flow (DCF)
+
+64.5
+
+(1,266.6)
+
+(1,354.6)
+
+(151.5)
+
+(1,409.2)
+
+(1,354.6)
+
+615.0
+
+68.1
+
+1,127.0
+
+15,962.9
+
+7,432.7
+
+17,273.3
+
+414.0
+
+2,910.3
+
+1,120.0
+
+EBITDA margin (%)
+
+44.1
+
+25.3
+
+38.3
+
+EBIT Margin (%)
+
+10.4
+
+7.4
+
+6.4
+
+Return on capital (%)
+
+5.9
+
+6.4
+
+3.4
+
+EBITDA interest coverage (x)
+
+6.0
+
+10.9
+
+4.3
+
+EBIT interest coverage (x)
+
+1.4
+
+3.2
+
+0.7
+
+FFO cash interest coverage (x)
+
+6.1
+
+12.2
+
+4.6
+
+Cash and short-term investments
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.0
+
+3.5
+
+4.7
+
+Debt/debt and equity (%)
+
+97.5
+
+71.9
+
+93.9
+
+FFO/debt (%)
+
+20.8
+
+26.9
+
+16.4
+
+Cash flow from operations/debt (%)
+
+20.3
+
+24.0
+
+16.6
+
+0.4
+
+(17.0)
+
+(7.8)
+
+(0.9)
+
+(19.0)
+
+(7.8)
+
+FOCF/debt (%)
+DCF/debt (%)
+
+Enterprise is privately held and does not release its financial results publicly. We compare Enterprise to Avis Budget,
+Hertz, and 'BBB+' rated truck lessor Ryder System Inc. Enterprise's credit metrics are stronger, by far, than any of
+these peers'.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 5
+
+Enterprise Holdings Inc.
+
+Financial Risk: Modest
+Financial summary
+Enterprise has always had stronger metrics than its competitors Avis Budget and Hertz, and the gap has widened
+recently, as both those companies have suffered from weaker operating performance and higher interest expense than
+Enterprise, although these trends have improved modestly beginning in 2019. We expect relatively stable credit
+metrics over the next two years. Despite capital spending to grow its fleet, we expect the company to finance this
+growth internally with FOCF and a modest level of incremental debt. We expect the company's operating performance
+to improve in 2019 due to higher pricing on car rentals and strong used car prices, which result in higher gains on its
+vehicles upon their disposal and lower vehicle expense.
+
+Liquidity: Strong
+We assess Enterprise's liquidity as strong. We expect the company's sources of liquidity will be around 1.8x its uses
+over the next 12 months. We also believe that Enterprise meets all other conditions for a strong assessment, including
+ample cushion under its covenants, solid banking relationships, and generally prudent risk management.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash;
+
+• Debt maturities;
+
+• FFO of around $7 billion a year;
+
+• Capital spending for new vehicles; and
+
+• Availability under its credit facilities;
+
+• Dividends.
+
+• Proceeds from vehicle sales; and
+• Potential unsecured debt issuance.
+
+Covenant Analysis
+Compliance expectations
+The company's credit facilities are subject to a maximum debt to EBITDA covenant of 3.25 to 1. As of April 30, 2019,
+the company was in compliance with this covenant, and we expect it to remain compliant going forward.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 6
+
+Enterprise Holdings Inc.
+
+Environmental, Social, And Governance
+
+Environmental and social factors are not a material rating factor. The company has been increasing its percentage
+of less fuel efficient larger rental vehicles such as SUVs due to customer demand. The company's business is
+subject to adverse weather conditions, in that when these occur, it benefits from increased demand to cover
+vehicles that need to be repaired or replaced. Having said that, the company is not subject to any significant
+regulations. In addition, we believe the company has a favorable work culture as it is the largest entry level
+employer of college graduates, with promotion opportunities. We view management and governance as strong,
+reflecting senior management's greater longevity than its peers, and its expertise and experience during adverse
+conditions. Despite continuing to be held by the founding Taylor family and the payment of dividends to its
+shareholders, it has always managed its leverage conservatively.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+• Enterprise's capital structure consists primarily of senior unsecured debt.
+
+Analytical conclusions
+• Its unsecured debt is rated 'A-', the same as the issuer credit rating, as no significant elements of subordination risk
+are present in the capital structure.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A-/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 7
+
+Enterprise Holdings Inc.
+
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bbb+
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - Industrials: Key Credit Factors For The Operating Leasing Industry, Dec. 14, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 20, 2019)*
+Enterprise Holdings Inc.
+Issuer Credit Rating
+
+A-/Stable/A-2
+
+Issuer Credit Ratings History
+20-Feb-2018
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+A-/Stable/A-2
+
+AUGUST 20, 2019 8
+
+Enterprise Holdings Inc.
+
+Ratings Detail (As Of August 20, 2019)*(cont.)
+23-Feb-2010
+
+BBB+/Stable/A-2
+
+31-Jul-2009
+
+BBB/Positive/A-2
+
+Related Entities
+ERAC USA Finance LLC
+Senior Unsecured
+
+A-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 20, 2019 10
+
+

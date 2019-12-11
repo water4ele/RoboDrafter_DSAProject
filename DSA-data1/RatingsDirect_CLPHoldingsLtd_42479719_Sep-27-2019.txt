@@ -1,0 +1,1638 @@
+CLP Holdings Ltd.
+Primary Credit Analyst:
+Apple Li, CPA, Hong Kong (852) 2533-3512; apple.li@spglobal.com
+Secondary Contact:
+Gloria Lu, CFA, FRM, Hong Kong (852) 2533-3596; gloria.lu@spglobal.com
+Research Contributor:
+Sanchita Seth, Mumbai
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Environmental, Social, And Governance
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 2
+
+CLP Holdings Ltd.
+Business Risk: STRONG
+
+Issuer Credit Rating
+
+a+
+Vulnerable
+
+a
+
+Excellent
+
+a
+
+A/Stable/A-1
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Monopolistic and vertically integrated electricity business in its core
+market in Hong Kong.
+
+Lower profitability for Hong Kong business due to reduction of
+permitted return to 8% from 9.99%.
+
+Longer term and more timely fuel-cost adjustment under new Scheme of
+Control starting January 2019.
+
+Higher business risks for unregulated power generation businesses
+outside of Hong Kong.
+
+Transparent and predictable regulations for the Hong Kong business.
+
+Contribution from Australian business turned more volatile.
+
+Goodwill impairment not affecting cash earnings. CLP Holdings Ltd. reported a goodwill impairment of about Hong
+Kong dollar (HK$) 6 billion at EnergyAustralia Holdings Ltd. along with its 2019 interim results. Given the impairment
+loss, the company had a net loss was HK$907 million for the six months ended June 30, 2019, compared with net
+profit of HK$7.4 billion in the same period last year. A noncash adjustment is required by the new federal government
+policy, and has a limited impact on CLPH's financial ratio. We do not expect an additional impairment or
+policy-related loss to be recognized beyond the amount reported in the first half.
+Earnings from Australian market under near-term pressure. We anticipate that the returns from the Australia retail
+market will be negatively affected due to the new regulation. The Australian federal government's default market offer
+and the Victoria default offer, which took effect on July 1, 2019, will set a maximum default price that retailers can
+charge for electricity in regions serviced by EnergyAustralia In addition, the Australian subsidiary's ongoing
+maintenance at Yallourn plant and coal quality issues at its Mount Piper power plant may negatively affect its 2019
+performance.
+Lowered rate of return in Hong Kong. Under the new Scheme of Control Agreement (SCA) starting from January 2019,
+the permitted return on assets was lowered to 8% from 9.99%. Profitability from Hong Kong business would be
+negatively affected over the next one to two years. The lengthened term of the new SCA to 15 years provides higher
+visibility to the company's cash generation and regulatory regime. In addition, the new scheme allows for timely
+pass-through of actual fuel costs. This could help company to adjust fuel costs more frequently and is positive for its
+working capital management.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 3
+
+CLP Holdings Ltd.
+
+Greener development for Greater China and other markets. CLPH is focusing on developing clean energy in
+Asia-Pacific to achieve its "Climate Vision 2050." The company's construction of gas-fired power plants in Hong Kong
+follows the government's target of reducing carbon intensity and increasing gas-fired power generation to 50% of the
+fuel mix in 2020. In the mainland China market, all of the company's newly added capacity are renewable projects
+such as wind and solar power. The operation of Unit 5 and 6 Yangjiang nuclear power plant in July 2018 and July
+2019 will further contribute to dividends received from equity investment in 2019. The company is also exploring more
+low-carbon emission projects in India after its introduction of Caisse de dépôt et placement du Québec as a strategic
+partner in 2018. In July 2019, CLP India entered into an agreement to buy 100% equity stake of three Indian
+transmission and distribution assets.
+
+Outlook: Stable
+
+The stable outlook reflects our view that CLPH's focus on organic growth will stabilize its financial performance
+over the next 24 months, and the company will maintain a steady debt level. We expect CLPH's ratio of funds from
+operations (FFO) to debt to be 38%-43% during 2019-2021.
+The outlook also reflects a minimal likelihood of material mergers and acquisitions by CLP Holdings over the next
+two to three years.
+
+Downside scenario
+We could lower the rating if CLPH's ratio of FFO to debt approaches 30% with no prospect of recovery. The
+deteriorating performance of the company's Australia and mainland China businesses could also lead to a
+downgrade. In addition, we could lower the rating if CLPH makes material debt-funded acquisitions or
+investments, or adopts a more aggressive financial policy that weakens its financial strength without prospects for
+recovery.
+
+Upside scenario
+We could raise the rating if CLPH's ratio of FFO-to-debt is above 40% on a sustainable basis. This could occur if
+leverage reduced faster than we expected because of the better performance of overseas operations or through
+sale of assets.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 4
+
+CLP Holdings Ltd.
+
+Assumptions
+
+Key Metrics
+
+Our base case assumes the following:
+Debt/EBITDA (x)
+
+• Hong Kong's GDP will grow 2.2% in 2019 and 2.4%
+in 2020 from 3.0% in 2018, leading to stable growth
+in electricity demand.
+• Australia's GDP will grow 2.2% in 2019 and 2.5% in
+2020. However, we expect CLPH's revenues from
+Australia to decline slightly due to new regulations
+in the retail market.
+
+2018A
+
+2019E
+
+2020E
+
+1.9x
+
+1.8x-2.2x
+
+1.8x-2.2x
+
+FFO/Debt (%)
+
+43.1% 37.0%-38.0% 38.0%-39.0%
+
+FOCF/Debt (%)
+
+22.9% 19.0%-20.0% 14.0%-15.0%
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• India's GDP will grow at 6.6% in 2019 and 7.8% in
+2020. We expect double-digit decline for CLP India
+due to lower thermal earnings and lower wind
+generation.
+• CLPH's overall EBITDA margin to decline slightly to
+28%-29% during 2019-2021, compared with 30.7%
+in 2018, mainly driven by the implementation of
+new SoC in Hong Kong.
+• The company will not make material acquisitions
+over the next one to two years.
+
+Base-case projections
+• We assume capital expenditure of HK$11.0 billion-HK$11.5 billion in 2019 and HK$13.4 billion in 2020, mainly for
+building assets under Scheme of Control.
+• We assume a stable cash dividend of HK$8 billion-HK$9 billion during 2019-2020. There is no dividend policy, but
+we expect slow growth of less than 10% each year in dividends, consistent with the past record.
+• The dividends from joint ventures are also in line with the management expectations of HK$1.9 billion-HK$2.0
+billion in 2019 and 2020, taking into consideration the full-year contribution from Unit 5 of the Yangjiang nuclear
+project in 2019.
+• We expect CLPH to grow by shifting its focus from fossil fuel-generated electricity to wind and solar power in
+China.
+
+Company Description
+CLPH, via its 100%-owned subsidiary, CLP Power Hong Kong, is one of two vertically integrated power suppliers in
+Hong Kong. It is also one of the largest power utilities in Asia-Pacific, with power assets in Australia, India, China,
+Taiwan, and Southeast Asia.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 5
+
+CLP Holdings Ltd.
+
+Chart 1
+
+Chart 2
+
+Business Risk: Strong
+We expect CLPH to maintain its de facto monopoly for electricity distribution in Kowloon and the New Territories in
+Hong Kong. The Hong Kong business benefits from a transparent and predictable regulatory framework that allows the
+company to generate highly visible and stable operating cash flows through a permitted rate of return and cost
+pass-through mechanism. The core and regulated utility business in Hong Kong has stable power demand and good
+operating efficiency.
+In our view, the new SCA ensures CLPH a stable but lower permitted rate of return for longer term. Under the new
+regime, permitted return has been lowered to 8% from 9.99%, which will weaken company's cash flow generation.
+However, the new SCA extends term to 15 years, compared with 10 years in the previous regulatory cycle.
+The new regime also allows more timely pass-through mechanism. Monthly adjustments to fuel costs is based on the
+average price of the past three months, shortened from 12 months previously. The consistent and transparent
+regulatory climate could protect CLPH's cash flow volatility.
+Somewhat tempering these strengths are CLPH's exposure to unregulated generation operations outside Hong Kong.
+These businesses are subject to uncertainty in power demand and supply, fuel availability, and cost pass-through, and
+governments' environment policy.
+We expect CLPH's 100%-owned subsidiary, EnergyAustralia, to decline slightly in 2019 as prices soften. The
+contribution from Australia to CLP Holdings' EBITDA has steadily increased to 25% in 2018, from 21% in 2017.
+Wholesale prices for electricity in Australia were high for most of the 2018 but heightened competition stimulated by
+government intervention have led to declining mass-market customers. In addition, EnergyAustralia gas sales volume
+to commercial and industrial customers has slowed due to reduced gas supply.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 6
+
+CLP Holdings Ltd.
+
+In our view, CLPH's mainland China business will continue to grow in 2019. The company's stake in Yangjiang nuclear
+power plant contributed to first full-year cash flows in 2018. Over the past year, the company continued to expand its
+non-carbon energy portfolio and acquired Jinchang solar and Meizhou Solar. In addition, grid curtailment has reduced
+for wind in the northeast and solar in the northwest.
+
+Peer comparison
+Table 1
+
+CLP Holdings Ltd.--Peer Comparison
+Industry sector: Electric
+CLP Holdings
+Ltd.
+
+CK Infrastructure
+Holdings Ltd.
+
+Power Assets
+Holdings Ltd.
+
+The Hong Kong and
+China Gas Co. Ltd.
+
+Singapore
+Power Ltd.
+
+Revenues
+
+91,425.0
+
+7,149.0
+
+1,555.0
+
+39,073.0
+
+25,201.0
+
+EBITDA
+
+28,062.5
+
+4,940.5
+
+3,726.0
+
+12,873.7
+
+10,731.0
+
+FFO
+
+22,863.6
+
+7,214.8
+
+4,870.0
+
+9,757.7
+
+9,319.0
+
+2,349.9
+
+916.7
+
+196.0
+
+1,580.6
+
+761.5
+
+(Mil. HK$)
+
+Interest Expense
+Cash Interest Paid
+
+2,379.9
+
+990.7
+
+253.0
+
+1,573.3
+
+747.1
+
+Cash flow from operations
+
+23,361.6
+
+7,888.8
+
+6,882.0
+
+10,382.0
+
+8,655.3
+
+Capital expenditures
+
+10,892.0
+
+423.0
+
+1.0
+
+6,746.0
+
+10,628.2
+
+Free operating cash flow
+
+12,469.6
+
+7,465.8
+
+6,881.0
+
+3,636.0
+
+(1,973.0)
+
+Discretionary cash flow
+
+3,871.6
+
+1,045.8
+
+(11,901)
+
+(1,938.6)
+
+(4,249.2)
+
+Cash and short-term
+investments
+
+11,728.0
+
+6,090.0
+
+5,229.0
+
+9,142.9
+
+9,781.2
+
+Debt
+
+54,527.2
+
+34,533.4
+
+72.2
+
+30,751.6
+
+22,583.7
+
+122,036.5
+
+114,553.5
+
+83,557.0
+
+70,193.3
+
+61,242.2
+
+EBITDA margin (%)
+
+30.7
+
+69.1
+
+239.6
+
+32.9
+
+42.6
+
+Return on capital (%)
+
+11.7
+
+8.0
+
+8.8
+
+13.8
+
+9.3
+
+EBITDA interest coverage
+(x)
+
+11.9
+
+5.4
+
+19.0
+
+8.1
+
+14.1
+
+FFO cash interest
+coverage (x)
+
+10.6
+
+8.3
+
+20.2
+
+7.2
+
+13.5
+
+Debt/EBITDA (x)
+
+1.9
+
+7.0
+
+0.0
+
+2.4
+
+2.1
+
+FFO/debt (%)
+
+41.9
+
+20.9
+
+6,745.6
+
+31.7
+
+41.3
+
+Cash flow from
+operations/debt (%)
+
+42.8
+
+22.8
+
+9,532.5
+
+33.8
+
+38.3
+
+Free operating cash
+flow/debt (%)
+
+22.9
+
+21.6
+
+9,531.1
+
+11.8
+
+(8.7)
+
+Discretionary cash
+flow/debt (%)
+
+7.1
+
+3.0
+
+(16,484.5)
+
+(6.3)
+
+(18.8)
+
+Equity
+Adjusted ratios
+
+FFO--Free operating cash flow. HK$--Hong Kong dollar.
+
+CLPH's closest peer is Power Assets Holdings Ltd., which invests in another regulated utility, Hongkong Electric Co.
+Ltd., in Hong Kong. Both CLPH and Power Assets have significant interests in Hong Kong's regulated business and
+seek growth by expanding outside Hong Kong. However, they follow different investment strategies. Power Assets has
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 7
+
+CLP Holdings Ltd.
+
+focused on power and regulated utility assets in developed markets with stable regulatory regimes, whereas CLPH has
+invested more in unregulated power generation assets in Asia-Pacific.
+In our view, Power Assets has a stronger business risk profile and financial risk profile than CLPH. However, the rating
+on Power Assets is capped at the 'a-' group credit profile of Cheung Kong Infrastructure Holdings Ltd.
+
+Financial Risk: Modest
+We expect CLPH to continue to generate strong cash flow. This is despite negative policy and declining profit
+contributions in Australia as well as lower regulated returns in Hong Kong from 2019 onwards.
+We expect CLPH's stake in joint ventures and associates to contribute dividends of HK$1.9 billion in 2019 and HK$2
+billion in 2020. This should temper the negative impact of the implementation of the new SCA between the company
+and the Hong Kong government.
+In our view, CLP Holdings' sound and stable regulated businesses in Hong Kong will underpin its financial
+performance over the next two years. We have not assumed any material asset sales or unannounced acquisitions. We
+expect the company to maintain its FFO-to-debt ratio at above 35% in 2019-2021, compared with 43% in 2018.
+
+Financial summary
+Table 2
+
+CLP Holdings Ltd.--Financial Summary
+Industry sector: Electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenues
+
+91,425.0
+
+92,073.0
+
+79,434.0 80,700.0 92,259.0
+
+EBITDA
+
+28,062.5
+
+28,259.5
+
+25,739.0 26,129.5 24,976.0
+
+FFO
+
+22,863.6
+
+23,742.7
+
+21,512.8 19,686.8 18,977.2
+
+2,349.9
+
+2,254.8
+
+(Mil. HK$)
+
+Interest Expense
+Cash Interest Paid
+
+2,246.2
+
+2,724.7
+
+4,003.3
+
+2,412.2
+
+4,455.7
+
+4,403.8
+
+2,379.9
+
+2,282.8
+
+Cash flow from operations
+
+23,361.6
+
+24,421.7
+
+23,607.8 18,389.8 20,153.2
+
+Capital expenditures
+
+10,892.0
+
+10,087.0
+
+10,071.0 11,013.0
+
+Free operating cash flow
+
+12,469.6
+
+14,334.7
+
+13,536.8
+
+Discretionary cash flow
+
+3,871.6
+
+6,017.2
+
+5,484.3
+
+(415.7)
+
+3,638.7
+
+Cash and short-term investments
+
+11,728.0
+
+9,583.0
+
+4,469.0
+
+3,567.0
+
+4,038.0
+
+Gross available cash
+
+11,728.0
+
+9,583.0
+
+4,469.0
+
+3,567.0
+
+4,038.0
+
+Debt
+
+54,527.2
+
+58,082.3
+
+Equity
+
+9,192.0
+
+7,376.8 10,961.2
+
+60,257.4 65,700.5 77,042.3
+
+122,036.5 118,611.5 102,877.5 98,036.5 93,063.5
+
+Adjusted ratios
+EBITDA margin (%)
+
+30.7
+
+30.7
+
+32.4
+
+32.4
+
+27.1
+
+Return on capital (%)
+
+11.7
+
+11.9
+
+11.0
+
+10.7
+
+10.4
+
+EBITDA interest coverage (x)
+
+11.9
+
+12.5
+
+11.5
+
+9.6
+
+6.2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 8
+
+CLP Holdings Ltd.
+
+Table 2
+
+CLP Holdings Ltd.--Financial Summary (cont.)
+Industry sector: Electric
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+10.6
+
+11.4
+
+9.9
+
+5.4
+
+5.3
+
+1.9
+
+2.1
+
+2.3
+
+2.5
+
+3.1
+
+FFO/debt (%)
+
+41.9
+
+40.9
+
+35.7
+
+30.0
+
+24.6
+
+Cash flow from operations/debt (%)
+
+42.8
+
+42.0
+
+39.2
+
+28.0
+
+26.2
+
+Free operating cash flow/debt (%)
+
+22.9
+
+24.7
+
+22.5
+
+11.2
+
+14.2
+
+Discretionary cash flow/debt (%)
+
+7.1
+
+10.4
+
+9.1
+
+(0.6)
+
+4.7
+
+FFO cash interest coverage (x)
+Debt/EBITDA (x)
+
+FFO--Funds from operations. HK$--Hong Kong dollar.
+
+Liquidity: Adequate
+We assess CLPH as having adequate liquidity. The company's liquidity sources should exceed its uses by more than
+1.1x over the next 12 months. Net liquidity sources should remain positive even if EBITDA declines by 10%, and the
+company would still be in compliance with its financial covenants.
+CLPH has good financial flexibility, benefiting from its strong and cash-generative utility business in Hong Kong, and
+the group's strong access to banking facilities.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about HK$12.1 billion
+as of Dec. 31, 2018.
+
+• Debt of HK$13.5 billion maturing in 2019.
+
+• Undrawn committed credit facilities of about HK$4
+billion maturing beyond 12 months.
+• FFO of about HK$21.8 billion for 2019.
+
+• Net working capital outflow that we estimate at
+HK$300 million–HK$320 million during the year.
+• Committed capital expenditure of HK$11
+billion-HK$11.5 billion in 2019.
+• Dividend payout of HK$8.0 billion-HK$9.0 billion in
+2019.
+
+Debt maturities
+Table 3
+
+CLP Holdings--Debt Maturities*
+Maturity
+2019
+2020
+
+Amount (Mil. HK$)
+13,535.0
+8,041.0
+
+2021-2023
+
+12,105.00
+
+After 2023
+
+21,617.00
+
+*As of Dec. 31, 2018. HK$--Hong Kong dollar.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 9
+
+CLP Holdings Ltd.
+
+Other Credit Considerations
+We anticipate that the company's FFO-to-debt ratio will be at the weak end of the modest range over 2019-2020. We
+reflect this in our negative comparable rating analysis, leading to a one-notch downward adjustment to the anchor in
+deriving the stand-alone rating of CLPH.
+
+Environmental, Social, And Governance
+
+Environmental and social factors are the chief credit considerations for CLPH. As a vertically integrated electric
+utility, CLP generates, transmits, and distributes electricity to over 80% of Hong Kong's population. Its generation
+comprises 38% coal power, 26% gas power, and 35% nuclear power, which is imported from China. It's critical for
+CLP to maintain a safe and reliable power supply in its service area, which is key to managing regulatory risks and
+public opinion.
+To support Hong Kong's initiative of having 75% of power sourced from clean energy by 2030, CLP will gradually
+retire its coal-fired units with gas-fired power plants and will promote the usage of renewable energy such as
+landfill gas power generation, distributed solar photovoltaics, and green certificates. The government approved
+capital expenditures for new gas-fired generation units and landfill gas power generation project in the five-year
+development plan, which earn 8.0% permitted returns. In addition, costs of purchasing renewables with higher
+feed-in tariffs can be passed through. Outside Hong Kong, CLP also invests in power generation assets primarily in
+Australia, India, and mainland China.
+Traditional power is currently the dominant fuel type in its asset portfolio, but CLP is trying to add more renewable
+energy according to its Climate Vision 2050, and comply with each market's local environmental and carbon
+emissions policy.
+The company generally maintains a satisfactory operational track record and keeps improving its service quality.
+We assess CLP's management and governance as strong, reflecting management's strong strategic planning, risk
+management, and expertise, experience, and operational effectiveness. In addition, as a listed company in Hong
+Kong, the company maintains sound corporate governance practices and disclosures.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 10
+
+CLP Holdings Ltd.
+
+Table 4
+
+Reconciliation Of CLP Holdings Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+HK$)
+--Fiscal year ended Dec. 31, 2018-CLP Holdings Ltd. reported amounts
+
+Reported
+
+S&P Global
+Ratings'
+Operating Interest
+adjusted
+income expense
+EBITDA
+
+Debt
+
+Shareholders'
+equity
+
+EBITDA
+
+56,820.0
+
+114,844.0
+
+26,181.0
+
+18,162.0
+
+1,792.0
+
+Cash flow
+from
+operations
+
+Dividends
+
+Capital
+expenditure
+
+28,062.5
+
+23,951.0
+
+8,723.0
+
+11,154.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2,819.0)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,890.0)
+
+--
+
+--
+
+--
+
+Operating leases
+
+1,325.6
+
+--
+
+336.5
+
+102.9
+
+102.9
+
+(102.9)
+
+233.6
+
+--
+
+--
+
+Intermediate
+hybrids reported as
+equity
+
+2,895.5
+
+(2,895.5)
+
+--
+
+--
+
+125.0
+
+(125.0)
+
+(125.0)
+
+(125.0)
+
+--
+
+Accessible cash and
+liquid investments
+
+(8,796.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+262.0
+
+(262.0)
+
+(262.0)
+
+--
+
+(262.0)
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+1,467.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2,196.1
+
+--
+
+68.0
+
+68.0
+
+68.0
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+2,307.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(423.0)
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+10,088.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+86.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA:
+Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(77.0)
+
+(77.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Foreign
+exchange
+gain/(loss)
+
+--
+
+--
+
+87.0
+
+87.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+14.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Working capital:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(13.0)
+
+--
+
+--
+
+(2,292.8)
+
+7,192.5
+
+1,881.5
+
+2,501.9
+
+557.9
+
+(5,198.9)
+
+(589.4)
+
+(125.0)
+
+(262.0)
+
+Asset retirement
+obligations
+
+Debt: Fair value
+adjustments
+
+Total
+adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 11
+
+CLP Holdings Ltd.
+
+Table 4
+
+Reconciliation Of CLP Holdings Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+HK$) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+54,527.2
+
+122,036.5
+
+28,062.5
+
+Interest
+EBIT expense
+20,663.9
+
+2,349.9
+
+Funds
+from
+operations
+
+Cash flow
+from
+operations
+
+Dividends
+paid
+
+Capital
+expenditure
+
+22,863.6
+
+23,361.6
+
+8,598.0
+
+10,892.0
+
+HK$--Hong Kong dollar.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A/Stable/A-1
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Adequate (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 12
+
+CLP Holdings Ltd.
+
+• Criteria - Corporates - Industrials: Key Credit Factors For The Unregulated Power And Gas Industry, March 28,
+2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+
+Related Research
+• CLPH's Financials Remain Strong Despite EA Goodwill Impairment, June 21, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 16, 2019)*
+CLP Holdings Ltd.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Issuer Credit Ratings History
+26-May-2017
+
+A/Stable/A-1
+
+31-May-2016
+
+A-/Positive/A-2
+
+28-May-2015
+
+A-/Stable/A-2
+
+Related Entities
+Castle Peak Power Co. Ltd.
+Issuer Credit Rating
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AA-/Stable/A-1+
+
+SEPTEMBER 16, 2019 13
+
+CLP Holdings Ltd.
+
+Ratings Detail (As Of September 16, 2019)*(cont.)
+CLP Power Hong Kong Ltd.
+Issuer Credit Rating
+
+A+/Stable/A-1
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 16, 2019 15
+
+

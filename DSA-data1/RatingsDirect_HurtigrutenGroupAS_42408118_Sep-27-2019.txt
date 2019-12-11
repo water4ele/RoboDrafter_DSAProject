@@ -1,0 +1,667 @@
+Hurtigruten Group AS
+Primary Credit Analyst:
+Jebby J Jacob, London (44) 20-7176-7122; jebby.jacob@spglobal.com
+Secondary Contacts:
+Alex Roig, London + 44 20 7176 8599; Alex.Roig@spglobal.com
+Natalia Goncharova, London + 44 20 7176 3018; natalia.goncharova@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Hurtigruten Group AS
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good brand recognition supported by a long history in
+the Norwegian coastal segment.
+
+Highly leveraged capital structure, with risks of postponed deleveraging if the second
+newbuild explorer vessel is delayed.
+
+Potential for quick deleveraging by 2021 if the newbuilds
+generate the forecast cash flows.
+
+Limited diversification, with heavy concentration in the Norwegian market, as well as
+orientation toward the premium segment.
+
+Reliable revenue visibility, with over 50% of its capacity
+booked a year in advance.
+
+Significant capital expenditure (capex) for newbuild deliveries, ship refurbishments,
+and scheduled liquefied natural gas (LNG) conversions.
+
+Fleet ownership, with only two of its 15 vessels leased.
+
+Cyclical nature of the lodging industry and the susceptibility of the travel and leisure
+industry to global and financial events.
+
+2019 will be a transitional year as Hurtigruten acquires two new cruise ships.Norwegian cruise ship operator
+Hurtigruten Group AS will take delivery of MS Amundsen and MS Nansen in 2019 and incur additional debt financing
+of about Norwegian krone (NOK) 2.5 billion (€260 million) to fund these purchases. Given these two vessels' launch
+dates, the company's 2019 results will not fully reflect their contribution to earnings--particularly that of MS Nansen,
+which is expected to be delivered only in the fourth quarter of 2019. Therefore, we expect credit metrics to be weak in
+2019. However, leverage should reduce significantly from 2020 onwards, absent any adverse events.
+An increased focus on explorer cruises should bolster operating margins.With the renewal of its contract with the
+Norwegian government, from 2021, Hurtigruten will reduce the number of vessels dedicated to its coastal cruise
+operations to seven from 11 and will shift the weight of its fleet toward the explorer segment. We expect this change to
+be positive, as the group will benefit from higher average revenues per vessel, translating into higher operating margins
+from the increased share of expedition cruises. The explorer segment generates average ticket prices of about
+NOK5,500 per passenger night compared to average net ticket prices of about NOK2,300 in the coastal cruise
+segment. On the other hand, such rapid capacity expansion brings the potential risk of declining occupancy rates in the
+explorer segment in the medium to long term, from about 72% in 2018.
+Ownership of the Kleven yard could result in additional indebtedness. Last year, due to financial difficulties at the
+Kleven yard, Hurtigruten saw a delay in the delivery of its two new ships, which were expected to be delivered over
+the course of 2018. Hurtigruten, along with its parent shareholders, acquired the yard in 2018 and provided financial
+guarantees to the lenders of this yard. The rationale for the acquisition was to better control the construction of the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Hurtigruten Group AS
+
+new vessels in order to reduce the risk of further delays. Hurtigruten's total contingent liability as a result of the
+guarantees provided to Kleven's debt currently stands at NOK409 million and could reach a maximum of NOK500
+million (or about €50 million), although it will expire on delivery of MS Nansen.
+The cruise sector could face a risk of overcapacity in the next few years.The demand for cruise travel has shown strong
+growth over the last few years, with some industry reports suggesting a global compound annual growth rate of around
+5% between 2001 and 2017, outpacing supply growth over the same period. Encouraged by the favorable demand
+trend, cruise operators have upsized their order books, and as a result supply growth rates are expected to increase to
+around 6%-7% per year over the foreseeable future. This has sparked fear of oversupply among market participants, as
+they consider that supply growth could overtake demand growth, potentially putting pressure on occupancy rates and
+prices. In the event of a global recession, we could see a scenario of a sharp drop in demand further exacerbating these
+overcapacity concerns.
+
+Outlook: Stable
+
+The stable outlook reflects our view that the strong advance bookings for the newbuilds, along with increased
+occupancy rates on the existing ships, will enable the group to increase revenues and profitability, with adjusted
+EBITDA margin reaching 24% by the end of 2020. This should allow Hurtigruten to deleverage and maintain
+adjusted debt to EBITDA of below 7.0x. The stable outlook also incorporates our expectation that the group will
+execute its explorer segment expansion strategy successfully, including the timely commissioning of its second
+newbuild MS Nansen, while maintaining adequate liquidity.
+
+Downside scenario
+We could lower the ratings on Hurtigruten if we considered the group's capital structure unsustainable. About
+NOK2.5 billion of additional debt will crystalize through FY2019 as a result of the delivery of the two newbuilds.
+We could lower our ratings if the new vessels underperformed compared to our expectations, which could result in
+prolonged elevated leverage, rendering the capital structure unsustainable. We could also take a negative rating
+action if the group's liquidity were to weaken and become insufficient to cover the liquidity needs for LNG
+conversion or ship refurbishment capex.
+
+Upside scenario
+While unlikely within the next 12 months, we could consider a positive rating action if the group improved its
+earnings and profit margins beyond our base-case forecast, supporting stronger deleveraging from current levels,
+and maintaining EBITDA interest coverage meaningfully and sustainably above 2.0x. For this scenario, besides
+maintaining yields and increasing occupancy rates above 80%, Hurtigruten should benefit from favorable
+developments in its cost base, namely port fees, bunker fuel for the explorer segment, and foreign currency
+movements.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Hurtigruten Group AS
+
+Assumptions
+
+• Revenue growth of about 7%-10% in 2019 on the
+back of relatively strong growth of about 10% in
+2018. We also expect revenue growth in excess of
+20% in 2020, bolstered by the new vessels' full-year
+contribution to earnings.
+• Our revenue growth forecast is much higher than
+our expected GDP growth in Hurtigruten's main
+markets. This is largely supported by the launch of
+MS Amusden, which launched its first commercial
+cruise on July 5, 2019. Hurtigruten's customer base
+is concentrated toward retirees from developed
+countries who are affluent and have a high
+propensity to spend. Additionally, growth in
+prebooking in both the group's segments for 2019
+underpins our assumptions for the existing fleet.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA* (x)
+
+7.9 8.5x-9.5x
+
+6.0x-7.0x
+
+FFO to debt* (%)
+
+7.6
+
+EBITDA cash int. coverage* (x)
+
+2.0 4.0x-4.5x
+
+~8-9% 10%-13%
+4.5x-5.5x
+
+*S&P Global Ratings-adjusted, mostly for operating
+leases and charter commitments. A--Actual.
+E--Estimate.
+
+• Elevated advance booking levels, in line with those
+shown over the last few years. We believe that the
+group's historical advance booking cancellation rate
+of below 1% will stay largely unchanged as the
+customer pays a 20% upfront deposit. This provides
+good visibility and confidence in our revenue
+forecast for 2019. The group has a good track record
+of meeting its revenue target (absent any
+refurbishment and dry-docking delays). We also
+forecast an increased revenue contribution during
+the "shoulder" months either side of the busy
+summer and winter seasons.
+• S&P Global Ratings-adjusted EBITDA margins of
+about 22% for 2019, slightly up from 21% in 2018.
+We anticipate this trend to continue in 2020 with
+expected adjusted EBITDA margins of about
+24%-25%, driven by the improved profitability from
+the new explorer vessels.
+• Capex of NOK3.6 billion, of which NOK2.7 billion
+relates to the delivery of the two newbuilds, about
+NOK300 million will be spent on ship
+refurbishments, and about NOK200 million will be
+used as maintenance capex. Hurtigruten will use the
+rest for LNG conversion projects and land-based
+growth investments.
+• Hurtigruten incurred external financing of €130
+million at the delivery of MS Amundsen at the end
+of the second quarter, and it will draw an additional
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Hurtigruten Group AS
+
+€130 million on the delivery of MS Nansen in
+fourth-quarter 2019.
+Based on these assumptions, we arrive at the following
+credit measures:
+• S&P Global Ratings-adjusted debt to EBITDA
+temporarily increasing to 9.0-9.5x (7.7x excluding
+shareholder loan) in 2019 (up from 7.9x in 2018) due
+to the debt-funded payment for the delivery of the
+two newbuilds, reducing toward 6.5x-7.0x in 2020
+thanks to the contribution of the new assets to the
+group's EBITDA; and
+• Funds from operations (FFO) to debt of about
+8%-9% in 2019, gradually increasing towards
+10%-13% in 2020 and 13%-15% 2021.
+
+Base-case projections
+Revenue and EBITDA growth is dependent on the successful operation of two new vessels. We believe Hurtigruten will
+exhibit annual revenue growth of about 7%-10% in 2019 and above 20% in 2020. This forecast depends heavily on the
+timely delivery of two new vessels. Issues at Kleven yard had previously delayed the launch of these vessels, and while
+MS Amundsen has recently been delivered and started sailing in July, we do not expect the second ship MS Fridtjof
+Nansen to be operative until at least the first quarter of 2020.
+We expect a decline in the company's exposure to bunker fuel prices due to conversions to hybrid technologies.
+Hurtigruten's fleet is currently largely oil-powered and bunker fuel costs represent a material portion of the company's
+cost structure. As a result, the group is exposed to both pricing risk and currency risk, as fuel prices are U.S.-dollar
+denominated but Hurtigruten pays in Norwegian krone. Although Hurtigruten has taken an active approach to hedging
+its fuel costs (generally hedged up to 36 months), we consider that in the long run the company could remain exposed
+to long-term inflationary trends. However, we consider that this risk will be partially mitigated by the conversion to
+LNG-based hybrid technologies in a significant proportion of its fleet over the next 12-18 months, as we expect these
+to reduce fuel consumption and achieve higher fuel diversification. Nevertheless, even after the successful conversion
+of seven of its vessels to hybrid power, Hurtigruten will likely remain somewhat exposed to long-term trends in oil and
+LNG prices.
+
+Company Description
+Hurtigruten is a Norway-based cruise ship operator running a fleet of 14 vessels, which are dedicated to the company's
+Coastal Cruises and Expeditions segments. The company also operates three year-round hotels in Svalbard, Norway.
+The group reported revenues of NOK5.4 billion (equivalent to about €505 million) and EBITDA of NOK1.1 billion (or
+about €99 million) in 2018, reflecting relatively smaller operations than global peers such as Royal Caribbean
+(revenues of $9.5 billion and EBITDA of $2.9 billion) and Carnival (revenues of $18.9 billion and EBITDA of $5.7
+billion) over the same period.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Hurtigruten Group AS
+
+Business Risk: Weak
+Our view of Hurtigruten's business position is somewhat weaker than that of its larger peers (including Royal
+Caribbean and Viking Cruises), as its small fleet size and its concentration to the Norwegian market expose the group
+to a larger degree to event risk and potential volatility of profitability and cash flows. Furthermore, given the group's
+brand and segment concentration, we consider its addressable market to be relatively smaller than many of its larger
+competitors, which could limit opportunities for future growth.
+We also consider that Hurtigruten has significant exposure to weather-related event risks. The group's operations are
+focused in geographies that have a significantly higher risk of extreme weather conditions, such as the Antarctica, the
+Arctic sea, or the Norwegian coast, among others.
+Although the group postponed the launch of its two new expedition vessels (MS Roald Amundsen and MS Fridtjof
+Nansen) to 2019, we consider Hurtigruten's track record of operating performance to be satisfactory, with sustained
+revenue growth and stable, albeit comparatively low, EBITDA margins. Furthermore, thanks to its strong brand
+reputation, Hurtigruten also benefits from good revenue visibility, with long booking windows compared to its larger
+peers.
+Hurtigruten has recently successfully renewed its existing agreement with the Norwegian government--which was
+expiring in 2021--with more favorable terms, while extending their relationship until 2031. We view this as credit
+positive, as it will provide some revenue stability (indexed contribution based on a price of NOK546 million in 2018)
+over the 10-year period.
+
+Financial Risk: Highly leveraged
+Our adjusted debt to EBITDA for Hurtigruten was 7.9x in 2018, reflecting the group's highly leveraged capital structure
+with about NOK9.1 billion of debt, including corporate term loan debt, finance leases, and shareholder loans.
+Excluding shareholder loans, net debt to EBITDA reduced to 6.4x for the same period.
+We expect leverage to remain high over the next 12 months as a result of the delivery of the two new expedition
+vessels in 2019 and their limited EBITDA contribution, with MS Firdtjof Nansen only expected to be delivered in the
+fourth quarter. These acquisitions will be financed with around NOK2.5 billion in new debt and operating cash flows,
+as well as the €85 million revolving credit facility (undrawn as of June 30, 2019). Nevertheless, we expect the credit
+metrics to improve from 2020, supported by the contribution of the two newbuilds as well as higher profitability
+stemming from the redeployment of several vessels to the higher-margin expeditions segment in 2021.
+Beside newbuild capex, the group will be refurbishing several of its vessels as well as focusing on the conversion of
+most of its fleet into LNG-fueled engines. Our expectations is that the company will have to draw on its revolver to
+finance these initiatives as we do not believe that its internal cash flow generation, as well as government incentives
+related to the LNG conversion projects, will suffice.
+Given the long booking windows and high levels of advance bookings, Hurtigruten benefits from a positive working
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Hurtigruten Group AS
+
+capital cycle. This is typical for the cruise sector and provides additional liquidity support during expansionary periods.
+Hurtigruten was acquired by funds advised by TDR Capital in 2015, a European private equity firm with several leisure
+investments. Under private equity ownership, Hurtigruten has not distributed any dividends or repurchased shares
+since 2015. We do not anticipate any shareholder distributions over the foreseeable future.
+
+Liquidity: Adequate
+We view Hurtigruten's liquidity as adequate, as we consider that the outstanding cash balance, the availability under
+the RCF, and positive operating cash flow generation will support the scheduled debt amortization, working capital
+needs and planned capex over the next 12 months. Furthermore, after delivery of MS Amundsen in the second quarter
+of 2019, the company has additional financing in place for the delivery of its second new build MS Nansen in the fourth
+quarter.
+Therefore, we calculate that liquidity sources will exceed liquidity needs by about 1.5x over the 12 months to June 30,
+2020, and we expect sources to exceed uses even in the event of a 15% decline in our forecast EBITDA. For the
+following 12-month period to June 30, 2021, we do see a scenario where the group's liquidity sources to uses ratio
+could decline below 1.2x. That said, we do not anticipate any liquidity shortfalls over the next 24 months.
+The company has also demonstrated sound banking relationships as it recently increased the size of its term loan by
+NOK760 million. Therefore, and given the low level of expected debt amortization over the next year, we consider that
+the group would be able to withstand high-impact, low-probability events with limited need for refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• At June 30, 2019, Hurtigruten had NOK455 million
+of unrestricted cash on hand.
+
+• Our assumption of intrayear working capital
+outflows of around NOK150 million.
+
+• Full availability under the €85 million revolving
+credit facility, which matures in 2024.
+
+• Scheduled debt maturities of NOK82 million,
+including amortization of finance lease obligations.
+
+• Our forecast of about NOK1,100 million of operating
+cash flows, after expected interest and tax payments
+and working capital movements.
+
+• Our expectation of about NOK3.8 billion in capital
+expenditures mostly related to the delivery of the
+newbuilds, which will be funded by committed
+financing of NOK2.6 billion.
+
+• About NOK100 million in working capital inflows at
+year-end.
+
+• Minor share repurchases of about NOK9 million.
+
+Debt maturities
+• 2019: NOK82 million
+• 2020: NOK242 million
+• 2021: NOK244 million
+• 2022: NOK246 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Hurtigruten Group AS
+
+• Thereafter: NOK8.7 billion
+
+Covenant Analysis
+Compliance expectations
+We expect the group to have sufficient headroom under the springing RCF covenant over the next 12-24 months.
+
+Requirements
+The senior secured term loan is not subject to any maintenance financial covenants. However, the RCF includes one
+maintenance covenant set at 7.7x net leverage, which is tested only when the RCF is drawn by more than 40%.
+
+Environmental, Social, And Governance
+
+Social and governance factors can play a material role in our analysis of Hurtigruten's credit quality. If left
+unmanaged, safety risks such as engine room fires and other fatal catastrophes on cruise ships, whether with the
+company or in the broader cruise industry, can lead to lower customer demand, declining net revenue yields,
+increased cash flow volatility, and consequently weaker credit measures. This risk materialized earlier this year for
+Viking, when one of its cruise ships was involved in a fatal collision with a tourist boat in the Danube.
+Hurtigruten is taking major steps toward reducing its environmental impact by launching two new hybrid vessels in
+2019, which will be the first of their kind in the cruise industry. Furthermore, the company is also investing
+significant resources into converting several of its vessels to run on LNG and battery power, as part of its new
+agreement with the Norwegian government. We believe these developments will help Hurtigruten reduce its
+environmental footprint.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The issue and recovery ratings on the €655 million senior term loan due 2025 and €85 million RCF due 2024 are 'B-'
+and '3', respectively, reflecting comprehensive security and guaranty packages. The recovery rating reflects our view
+of recovery prospects of 50%-70% (rounded estimate: 50%).
+• Our simulated default scenario contemplates a payment default in 2021, attributable to cash flow declines from
+existing ships and weaker-than-expected increases in cash flow from new ships in an environment of greater pricing
+pressure and competition from larger operators.
+• We use a combined enterprise value (EV) and discrete asset value (DAV) approach to value Hurtigruten given that
+the company is financing its newbuilds with separate committed senior secured credit facilities (not rated) that we
+expect to be drawn upon delivery of the ships.
+• The lenders will not have access to the security of two new build vessels. These new vessels will provide security
+solely for the benefit of export credit agency (ECA) loans and are held at Explorer II AS, a subsidiary of Hurtigruten
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Hurtigruten Group AS
+
+Group AS. Although Hurtigruten Group provides an unsecured guarantee to the lenders of these new builds, we
+consider the value of these ships to fulfil the entire claim relating to ECA loans and not have claim on Hurtigruten
+Group. We assume this new debt will rank pari passu to the new senior term loan despite claims under the
+guarantees being unsecured in the restricted group.
+• The rest of the fleet, with the exception of the two leased vessels, serves as collateral to the secured notes and RCF
+as the ships in property are held at the Hurtigruten AS level, another ring-fenced subsidiary of the Hurtigruten
+Group AS. Although we are valuing the group on a going-concern basis, we consider that the hard asset pledge
+further protects the interests of the term loan and RCF lenders.
+• We assume Hurtigruten's revolver is 85% drawn at default.
+
+Simulated default assumptions
+• Year of default: 2021
+• Jurisdiction: Norway
+
+Simplified waterfall
+• Emergence EBITDA: NOK691 million (capex represents 4.0% of expected sales, cyclicality adjustment is 10% in
+line with the specific industry subsegment)
+• Multiple: 6.0x
+• Gross recovery value: : NOK4,149 million
+• Net recovery value for waterfall after admin expenses (5%): NOK3,942 million
+• Estimated priority debt: Nil
+• Remaining recovery value: NOK3,942 million
+• Estimated senior secured debt claims: NOK7,243 million*
+• Recovery range: 50-70% (rounded estimate 50%)
+• Recovery rating: 3
+*All debt amounts include six months' prepetition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Hurtigruten Group AS
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Hurtigruten Group AS
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 6, 2019)*
+Hurtigruten Group AS
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B-
+
+Issuer Credit Ratings History
+26-Apr-2017
+
+B-/Stable/--
+
+12-Apr-2016
+
+B/Negative/--
+
+14-Apr-2015
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+

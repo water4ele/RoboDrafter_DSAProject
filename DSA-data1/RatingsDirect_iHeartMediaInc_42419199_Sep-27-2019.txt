@@ -1,0 +1,874 @@
+iHeartMedia Inc.
+Primary Credit Analyst:
+Rose Oberman, CFA, New York 212-438-0354; rose.oberman@spglobal.com
+Secondary Contact:
+Scott E Zari, CFA, Chicago + 1 (312) 233 7079; scott.zari@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+iHeartMedia Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b+
+
+b
+
+b+
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Position as the largest radio broadcaster in the U.S. provides scale and
+geographic diversity across U.S. markets.
+
+Operating performance is susceptible to cyclicality since 60% of
+revenue comes from advertising.
+
+Healthy free operating cash flow (FOCF) generation supports deleveraging.
+
+Broadcast radio faces structural pressures from digital disruption.
+Elevated leverage of 5.8x.
+
+Around 60% of iHeartMedia's revenue comes from broadcast radio advertising, which is likely to face
+pressure during an economic downturn.
+iHeartMedia generates revenue primarily by selling airtime to local and national advertisers. Core advertising revenue
+(excluding political) is tied to expectations for consumer spending, which drives advertising budgets, such that revenue
+is likely to decline during an economic downturn. We believe core broadcast radio advertising would decline at a
+greater rate than GDP in a recession.
+
+iHeartMedia's scale provides a competitive advantage relative to other radio companies.
+iHeartMedia's size meaningfully surpasses peers, making its platform more attractive to national advertisers looking for
+reach. National advertising contributes around 40% of iHeartMedia's broadcast radio advertising revenue compared to
+around 20% for Entercom (the second-largest radio broadcaster). Additionally, iHeartMedia can bundle advertising
+inventory across its broadcast, digital, and event platforms to capture incremental advertising dollars.
+
+We expect adjusted net debt to EBITDA of 5.4x-5.6x in 2019 will decline to 4.7x-4.9x in 2020.
+iHeartMedia emerged from bankruptcy on May 1, 2019, reducing its leverage to about 5.8x (from around 10x), which
+we believe is still high for a radio broadcast company given its exposure to cyclical advertising revenue and
+competition from alternative media. We expect the company will generate more than $200 million in FOCF in 2019
+(after one-time reorganization costs) and more than $300 million in 2020, which it will use primarily for voluntary debt
+repayment to reduce leverage to more moderate levels.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+iHeartMedia Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that leverage will approach 5x over the next 12 months due to a
+combination of voluntary debt repayment and low-single-digit percent EBITDA growth, supported by modest
+revenue growth and cost-saving initiatives.
+
+Downside scenario
+We could lower the rating if leverage remains above 5.5x over the next year due to weak operating performance
+from operational missteps following emergence, increased competition from alternative media, or an economic
+downturn that causes a pullback in advertising spending. Alternatively, we could lower the rating if leverage
+remains above 5.5x over the next year because cash flow is directed toward acquisitions or dividends rather than
+debt repayment.
+
+Upside scenario
+While unlikely over the next year, we could raise the rating if the company reduces leverage below 4.5x and
+establishes a track record of maintaining it, with capacity for potential acquisitions or dividends. An upgrade would
+also be contingent on continuing positive operating and revenue trends.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+iHeartMedia Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+We expect core advertising revenue for the radio
+industry will lag GDP with annual declines between
+1% and 2% due to increasing competition from
+alternative media (primarily internet advertising).
+
+2018PF
+Debt to EBITDA (x)
+FOCF to debt (%)
+
+2019E
+
+2020E
+
+5.8 5.4-5.6 4.9-5.1
+N.A.
+
+3-5
+
+7-9
+
+• Revenue growth of 1%-3% over the next two years.
+We expect iHeartMedia's revenue growth will
+outpace the industry primarily due to national
+advertising revenue growth of 3%-5% and digital
+advertising revenue growth of 18%-20%.
+
+*We include the company's preferred stock ($60
+million) and operating lease liability (about $882
+million) to our adjusted debt calculation. The company
+emerged with a greater lease liability than we
+expected, which increased our leverage forecast by
+about 0.2x.
+
+• Revenue growth from the company's networks and
+live events in the low-single-digit percent area,
+largely offset by local advertising revenue declines
+relatively in line with the industry.
+
+PF--Pro forma. E—Estimate. N.A.—Not applicable.
+
+• Better revenue growth in 2020 than 2019 because it
+is an election year. Katz (the company's media
+representation firm) represents television stations,
+where political advertising is prevalent.
+• Adjusted EBITDA margin improves to 32%-34%
+over the next two years from about 31% (pro forma)
+in 2018 due to modest cost-saving initiatives and
+operating leverage from the company's largely
+fixed-cost base.
+• Capital expenditures of around $120 million over the
+next two years.
+• Modest tuck-in acquisitions in 2020 to add technical
+capabilities.
+
+Base-case projections
+We expect iHeartMedia will outperform the industry.
+We expect iHeartMedia's revenue growth will outpace the industry primarily due to national advertising and digital
+revenue growth. iHeartMedia garners more revenue from national advertising and digital revenue than its peers due to
+its materially larger size.
+
+Healthy FOCF supports deleveraging.
+We expect the company will generate more than $200 million in FOCF in 2019 that it will use for voluntary debt
+repayment to reduce leverage to 5.4x-5.6x in 2019. We believe that as revenue increases and margins expand FOCF in
+2020 will improve to more than $300 million, which it will use for further voluntary debt repayment to reduce leverage
+to 4.7x-4.9x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+iHeartMedia Inc.
+
+Company Description
+San Antonio-based iHeartMedia is the largest radio company in the U.S. While nearly two-thirds of the company's
+revenue comes from broadcast radio, the company also syndicates more than 100 radio programs through its Premiere
+network; delivers traffic, weather, and news through its Total Traffic & Weather network; operates digital
+music/podcast platform iHeartRadio; runs live music events; and offers audio/media services.
+Chart 1
+
+Business Risk: Fair
+iHeartMedia has unique digital capabilities.
+Given the scale of iHeartRadio (its digital music/podcast platform with 130 million users), iHeartMedia can uniquely
+aggregate and analyze user data to provide targeted advertising and measurement analytics. The company also
+recently acquired technology that allows advertisers to more easily view and buy inventory, historically difficult in the
+larger broadcast industry. Other radio companies have not had the resources to develop these capabilities, which in
+our view gives iHeartMedia a competitive advantage and an opportunity to gain market share. We estimate
+iHeartMedia generates around 2x the amount of digital revenue than Entercom.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+iHeartMedia Inc.
+
+iHeartMedia has strong brand awareness.
+iHeartMedia has unified its various platforms under the iHeartRadio brand. We believe this supports its ability to
+cross-promote products across platforms, such as marketing its podcasts and events on broadcast radio. iHeartMedia's
+live events are also nationally recognized, such as the iHeartRadio Music Festival and iHeartRadio Jingle Ball.
+
+iHeartMedia faces exposure to secular pressures that affect the radio industry.
+We believe advertisers' perception of radio audience value declined over the last several years due to the emergence of
+alternative online media (primarily internet advertising), making it difficult for radio broadcasters to increase ad rates
+and maintain share of advertising spending. We still expect core advertising revenue will decline for radio
+broadcasters, although we believe the low cost of radio spot advertising has made radio a more attractive option
+relative to more expensive forms of media. The cost per thousand (CPM) for a radio ad ranges from $5-$10, which is
+about one-third the CPM for broadcast television.
+
+Peer comparison
+iHeartMedia operates 854 radio stations in 160 markets, while Entercom operates more than 235 radio stations in over
+45 markets and Cumulus operates 428 radio stations in 87 markets.
+We view iHeartMedia's business much more favorably than Entercom and Cumulus. iHeartMedia's size meaningfully
+surpasses Entercom and Cumulus, which in our view makes its platform more attractive to national advertisers looking
+for reach. As a result, iHeartMedia has a higher share of radio revenue relative to its audience at 1.5x as compared to
+Entercom and Cumulus Media at 1.2x. iHeartMedia also garners more revenue from its digital and events businesses
+compared to its peers.
+iHeartMedia's large size provides operating cost efficiencies that result in higher adjusted EBITDA margins (around
+30% pro forma) compared to Entercom (in the mid-20% area) and Cumulus (in the low-20% area).
+We view Sirius XM's business moderately more favorably than iHeartMedia primarily because around 80% of its
+revenue comes from relatively stable subscription revenue, which is less volatile than advertising revenue.
+Additionally, we believe Sirius XM is less susceptible to displacement from online advertising compared to
+iHeartMedia and other terrestrial radio providers. Sirius XM's adjusted EBITDA margin, which declined following its
+acquisition of Pandora, is similar to that of iHeartMedia (pro forma) at around 30%.
+Note: iHeartMedia's 2018 financial metrics include the operations of Clear Channel Outdoor Holdings Inc., which
+became a separate entity on May 1, 2019, following iHeartMedia's emergence from bankruptcy. Sirius XM's 2018
+financial metrics do not include the operations of Pandora; the acquisition closed on Feb. 1, 2019.
+Table 1
+
+iHeartMedia Inc.--Peer Comparison
+Industry Sector: TV and Radio
+
+iHeartMedia Inc.
+Ratings as of Sep. 3, 2019
+
+B+/Stable/--
+
+Entercom Communications
+Corp. Cumulus Media Inc.
+B+/Stable/--
+
+B-/Stable/--
+
+Sirius XM Radio Inc.
+BB/Stable/--
+
+--Year ended Dec. 31, 2018-(Mil. $)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+iHeartMedia Inc.
+
+Table 1
+
+iHeartMedia Inc.--Peer Comparison (cont.)
+Industry Sector: TV and Radio
+
+iHeartMedia Inc.
+
+Entercom Communications
+Corp. Cumulus Media Inc.
+
+Sirius XM Radio Inc.
+
+Revenue
+
+6,325.8
+
+1,462.6
+
+1,140.4
+
+5,770.7
+
+EBITDA
+
+2,545.7
+
+324.3
+
+246.5
+
+2,204.6
+
+Funds from operations (FFO)
+
+1,810.4
+
+153.4
+
+179.1
+
+1,824.6
+
+Interest expense
+
+1,029.3
+
+124.5
+
+59.3
+
+379.1
+
+701.1
+
+116.6
+
+58.2
+
+374.0
+
+1,640.7
+
+134.4
+
+83.4
+
+1,893.0
+
+Cash interest paid
+Cash flow from operations
+Capital expenditure
+
+298.5
+
+41.8
+
+29.7
+
+343.8
+
+Free operating cash flow (FOCF)
+
+1,342.3
+
+92.6
+
+53.7
+
+1,549.2
+
+Discretionary cash flow (DCF)
+
+1,332.8
+
+7.6
+
+53.7
+
+33.5
+
+412.8
+
+192.3
+
+27.6
+
+54.4
+
+24,906.7
+
+1,966.8
+
+1,386.2
+
+7,097.2
+
+(11,560.3)
+
+1,334.3
+
+389.8
+
+(1,816.9)
+
+EBITDA margin (%)
+
+40.2
+
+22.2
+
+21.6
+
+38.2
+
+Return on capital (%)
+
+9.3
+
+6.7
+
+9.4
+
+32.7
+
+EBITDA interest coverage (x)
+
+2.5
+
+2.6
+
+4.2
+
+5.8
+
+FFO cash interest coverage (x)
+
+3.6
+
+2.3
+
+4.1
+
+5.9
+
+Debt/EBITDA (x)
+
+9.8
+
+6.1
+
+5.6
+
+3.2
+
+FFO/debt (%)
+
+7.3
+
+7.8
+
+12.9
+
+25.7
+
+Cash flow from operations/debt
+(%)
+
+6.6
+
+6.8
+
+6.0
+
+26.7
+
+FOCF/debt (%)
+
+5.4
+
+4.7
+
+3.9
+
+21.8
+
+DCF/debt (%)
+
+5.4
+
+0.4
+
+3.9
+
+0.5
+
+Cash and short-term investments
+Debt
+Equity
+Adjusted ratios
+
+Financial Risk: Highly leveraged
+We believe shareholder-friendly activities are likely longer-term.
+We believe FOCF will primarily be used toward voluntary debt repayment over the next two years to improve
+leverage. Management has publicly said it will prioritize debt reduction until it improves leverage to around 4x, at
+which point it will reevaluate its capital allocation priorities. We believe shareholder-friendly activities, including
+acquisitions and shareholder returns, are likely longer-term events since iHeartMedia's former creditors own the
+majority of the reorganized company's equity.
+
+Liquidity: Strong
+We expect iHeartMedia's sources of liquidity will exceed uses by about 5x over the next 12 months and that net
+sources would remain positive even with a 30% decline in forecast EBITDA. Given its healthy discretionary cash flow
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+iHeartMedia Inc.
+
+and long-dated debt maturities, we believe iHeartMedia could withstand a high-impact, low-probability event without
+refinancing. In addition, we believe the company has a solid relationship with its lenders since they own the majority of
+the company's equity.
+Still, we do not believe the company has a high standing in credit markets given its bankruptcy filing in March 2018
+and think that it will need to establish a track record of generally prudent financial risk management following its
+recent emergence in May 2019.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about $127 million as
+of June 30, 2019.
+
+• Capital expenditures of around $120 million over the
+next 12 months.
+
+• Approximately $390 million available under the
+company's $450 million asset-based loan (ABL)
+facility (net of letters of credit).
+
+• Working capital outflows of around $50 million over
+the next 12 months.
+
+• Funds from operations of $600 million to $610
+million over the next 12 months.
+
+• Remaining purchase consideration of around $50
+million related to the company's acquisitions of Stuff
+Media and Jelli in 2018, which will be paid in the
+fourth quarter of 2019.
+
+Debt maturities
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+iHeartMedia Inc.
+
+Covenant Analysis
+iHeartMedia is subject to a minimum fixed-charge ratio covenant of 1x if it has less than $40 million available under its
+ABL facility. While we do not expect this covenant to be active over the next year, we believe the company will have
+covenant headroom in excess of 50%.
+
+Environmental, Social, And Governance
+
+We believe that iHeartMedia faces social risks, including cultural and regulatory, related to content as well as data
+privacy risk around customer information.
+Radio broadcasters are required to operate within the broadcast decency bounds set by the Federal
+Communications Commission (FCC), or risk fines or the loss of broadcast licenses.
+iHeartMedia is also subject to data privacy risk since its streaming platform (and other technology platforms)
+collects consumer data for analytics, attribution and advertising that must be kept confidential. While the company
+regularly reviews and implements security measures to protect personal information, any failure or perceived
+failure to protect consumer data could have negative implications for iHeartMedia's reputation and profitability.
+With no material complaints or fines, iHeartMedia has thus far managed these risks.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• iHeartCommunications Inc. is the borrower of an unrated $450 million senior secured ABL facility maturing in 2023,
+a $3.5 billion senior secured term loan maturing in 2026 ($2.8 billion outstanding), $800 million of 6.375% senior
+secured notes due in 2026, $750 million of 5.25% senior secured notes due in 2027, and $1.5 billion of 8.375%
+senior unsecured notes due in 2027.
+• The senior secured debt is secured by a first-priority lien on substantially all of the company's assets and those of its
+guarantors. The ABL facility has a first-priority lien on accounts receivable, qualified cash, and related assets.
+• All debt is guaranteed by iHeartCommunications' existing and future material wholly owned subsidiaries and
+iHeartMedia Capital I LLC (its direct parent).
+
+Simulated default assumptions
+• Our simulated scenario contemplates a default occurring in 2023 primarily due to increased competition from
+alternative media and a cyclical downturn in advertising that materially reduce iHeartMedia's revenue and cash flow
+given its largely fixed cost base.
+• Other default assumptions include a 60% draw on the ABL facility, LIBOR of 2.5%, and all debt includes six months
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+iHeartMedia Inc.
+
+of prepetition interest.
+• We have valued the company on a going-concern basis using a 6x multiple of our projected emergence EBITDA,
+which is in line with that of other radio companies we rate.
+
+Simplified waterfall
+• EBITDA at emergence: $645 million
+• EBITDA multiple: 6x
+• Gross recovery value: $3.9 billion
+• Net recovery value for waterfall after administrative expenses (5%): $3.7 billion
+• Estimated priority claims: $215 million
+• Value available for senior secured debt: $3.5 billion
+• Estimated senior secured debt claims: $4.4 billion
+• --Recovery expectations: 70%-90% (rounded estimate: 75%)
+• Value available for senior unsecured debt: $0
+• Estimated senior unsecured debt claims: $1.5 billion
+• --Recovery expectations: 0%-10% (rounded estimate: 0%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (+1 notch)
+• Management and governance: Fair (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+iHeartMedia Inc.
+
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria | Insurance | General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Satisfactory
+
+Ratings Detail (As Of September 6, 2019)*
+iHeartMedia Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Issuer Credit Ratings History
+26-Apr-2019
+
+B+/Stable/--
+
+18-Apr-2018
+
+NR/--/--
+
+15-Mar-2018
+
+D/--/--
+
+01-Feb-2018
+
+SD/--/--
+
+15-Mar-2017
+
+CC/Negative/--
+
+13-Feb-2017
+
+CCC/Negative/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+iHeartMedia Inc.
+
+Ratings Detail (As Of September 6, 2019)*(cont.)
+08-Feb-2017
+
+SD/--/--
+
+21-Dec-2016
+
+CC/Negative/--
+
+15-Dec-2016
+
+SD/--/--
+
+14-Jun-2016
+
+CCC/Negative/--
+
+08-Mar-2016
+
+CCC/Watch Neg/--
+
+07-Jan-2016
+
+CCC/Negative/--
+
+Related Entities
+iHeartCommunications Inc.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+BB-
+
+Senior Unsecured
+
+B-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 13
+
+

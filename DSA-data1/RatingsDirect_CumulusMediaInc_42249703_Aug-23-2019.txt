@@ -1,0 +1,568 @@
+Cumulus Media Inc.
+Primary Credit Analyst:
+Scott E Zari, CFA, Chicago + 1 (312) 233 7079; scott.zari@spglobal.com
+Secondary Contact:
+Rose Oberman, CFA, New York 212-438-0354; rose.oberman@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 1
+
+Cumulus Media Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Healthy free cash flow characteristics and proceeds from additional
+asset sales provide a path to reduce leverage.
+
+Competition from alternative media puts pressure on advertising rates,
+which are also sensitive to economic downturns.
+Lower percentage of growing digital revenue relative to that of its peers.
+Leverage of 5.1x as of March 31, 2019, has declined following asset sales
+yet is still high for a radio broadcaster.
+
+Terrestrial radio broadcasters are faced with structural pressures from digital disruption, resulting in lower advertising
+rates. Digital advertising is taking away money from traditional forms of advertising, including radio, newspaper, and
+television. We expect this trend to continue, making it difficult for Cumulus and other radio broadcasters to increase
+advertising rates, resulting in low-single-digit annual percentage declines in radio-industry advertising revenues.
+About 90% of Cumulus's revenue is generated from local and national radio advertising, which is highly sensitive to
+economic downturns. We believe Cumulus's profitability would significantly decline in a recession because nearly all of
+its revenue is generated from terrestrial radio broadcasting and its cost base is largely fixed.
+Cumulus has used the net proceeds from noncore asset sales to reduce debt. The company has executed three asset
+sales since emerging from bankruptcy and used the proceeds, together with cash generated from operations, to reduce
+debt by about $250 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 2
+
+Cumulus Media Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Cumulus will continue to pursue noncore asset sales and use cash
+flow generated from operations to reduce leverage to below 5x over the next 12 months. We also expect that the
+company's same-station revenue will perform in line with or slightly above our expectations for a low-single-digit
+percentage decline in broadcast-radio revenue.
+
+Downside scenario
+We could lower the rating if we expect leverage to increase and remain above 5.5x. This could result from the
+company failing to execute on its turnaround strategy, leading to declines in station ratings, revenue
+underperforming the industry, and EBITDA margin declining by 100 basis points (bps)-200 bps.
+
+Upside scenario
+Although unlikely at this time, we could raise the rating if Cumulus demonstrates significantly improved operating
+performance in addition to a track record of substantial debt repayment. More specifically, the company would
+need to demonstrate that it can outperform the radio industry and show positive revenue and EBITDA growth for a
+sustained period, resulting in leverage declining well below 5x. This scenario could also include the company
+pursuing further de-leveraging asset sales beyond current expectations.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 3
+
+Cumulus Media Inc.
+
+Assumptions
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+We assume core spot advertising (excluding political
+advertising) will be relatively flat to down in the
+low-single-digit percentages over the next few years;
+this is lower than our GDP growth expectations due
+to secular pressures facing the radio industry from
+competition by alternative media.
+• Revenue will decline by 4%-6% in 2019, mainly due
+to the impact of divestures and lower political
+revenues, partially offset by growth in Westwood
+One revenue. We expect revenue to remain roughly
+flat in 2020 as increased political revenue offsets the
+decline in core radio advertising.
+
+Key Metrics
+
+EBITDA margin (%)
+
+2018A
+
+2019E
+
+2020E
+
+21.6
+
+20-22
+
+20-22
+
+Debt/EBITDA (x)
+
+5.6 4.9.0-5.1 4.8-5.0
+
+FOCF/debt (%)
+
+3.9
+
+6.5-9.5
+
+8-11
+
+A--Actual. E—Estimate. FOCF—Free operating cash
+flow.
+
+• We expect costs to decline due to divestitures and
+cost- reduction initiatives in 2019; however, we
+expect the pace of cost reductions to be slower than
+revenue declines and the company's EBITDA
+margin to decline to about 21% in 2019 and remain
+flat in 2020.
+• We expect adjusted leverage to decline to about 5x
+by the end of 2019 and to below 5x in 2020, mainly
+driven by debt repayment funded by free cash flow
+generation and any future asset sales.
+• Cumulus's reorganization plan included the sale of
+owned real estate in Bethesda, Mld., with the
+proceeds used to repay the new term loan. The
+company has not yet been able to close on the land
+sale; however, we believe it could provide additional
+de-leveraging that is not currently incorporated into
+our base-case forecast.
+
+Base-case projections
+We expect ongoing secular declines in the radio industry over the next few years. Radio advertising is highly cyclical,
+especially national advertising, and we expect organic broadcast-only revenue to decline by 1%-2% across the radio
+industry.
+Radio broadcasters have a high proportion of fixed costs and limited ability to cut costs in response to revenue declines.
+If the company cannot offset the secular decline in industrywide broadcast-radio revenue by increasing its market
+share or generating a larger percentage of revenue from alternative sources such as digital and events, the decline in
+total revenue would have a significant impact on its EBITDA margin.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 4
+
+Cumulus Media Inc.
+
+Westwood One's revenue and EBITDA growth are expected to outperform the traditional radio station group. Revenue
+declines at Westwood One hurt the company's profitability since its acquisition in 2013. However, its revenue
+stabilized over the past 18-24 months, and we believe it will continue to perform better than the radio station group
+over the next 12-18 months due to improved utilization, pricing, and content management.
+
+Company Description
+Cumulus Media Inc. operates 428 radio stations in 87 markets, including eight of the top 10 markets, and it is the
+third-largest radio broadcaster in the U.S. in terms of revenue. The company also owns and operates Westwood One,
+which is a radio network airing syndicated content on over 8,000 affiliated stations. Cumulus is publicly traded, but the
+majority of the company's equity is owned by its former lenders, which include hedge funds and distressed-debt
+investors that we believe have an increased risk tolerance relative to public ownership.
+
+Business Risk: Weak
+Cumulus is more exposed to national radio advertising than its small to mid-size peers due to its Westwood One
+business. We view national radio advertising as more volatile than local or direct radio advertising because of
+fluctuations in the timing and pricing of agency-based advertising campaigns and our view of radio as more of a
+price-taker and somewhat dependent on remnant national spending. However, we believe that having the scale and
+presence in key markets necessary to attract national advertising is a competitive strength, as it provides incremental
+revenue opportunities compared to those of broadcasters that are only able to sell locally.
+We believe advertisers don't value radio audiences as highly as in the past, making it difficult for the industry (and the
+company) to increase ad rates and maintain its share of advertising spending. To avoid revenue erosion, we believe
+Cumulus and other radio operators need to significantly enhance their nontraditional radio efforts. Digital revenue
+accounts for less than 10% of Cumulus's revenue and is not growing fast enough to offset the declines in core radio
+advertising revenue. The company's events revenue also accounts for less than 5% of total revenue, which is
+significantly less than that of its peers.
+The company's radio stations significantly underperformed its markets from late 2014 through mid-2016, leading to
+high turnover of on-air talent and steep declines in market rating shares. Following management changes in 2015,
+Cumulus remains focused on stabilizing its ratings shares and streamlining its operations. The company has sold and
+swapped its stations with other radio broadcasters to optimize its portfolio. Although we believe that the new strategy
+has been successful in stabilizing revenue trends, the company faces an uphill battle in regaining market share in a
+declining radio environment. We believe it will be difficult for the company to increase its market revenue shares
+enough to offset the overall decline in industry advertising revenue, and that revenue growth from radio broadcasting
+is unlikely over the next few years.
+
+Peer comparison
+Cumulus is the third-largest radio broadcaster in terms of revenue; however, we view its competitive position much
+less favorably than that of its larger peers, iHeart and Entercom. iHeart is better positioned to serve national
+advertisers by offering greater reach and targeting capabilities, and it has a significantly larger revenue contribution
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 5
+
+Cumulus Media Inc.
+
+from its digital and events businesses. Entercom and Cumulus both generate a much lower percentage of revenues
+from digital advertising than iHeart. However, Entercom has a considerably larger presence in the top 25 markets.
+We view Cumulus's competitive position as in-line with that of Townsquare Media Inc. because while Cumulus has a
+much larger presence in the Top 25 markets and operates at a much larger scale, Townsquare's revenue diversity and
+digital growth differentiate it from its pure-play radio peers.
+With over 400 stations, Cumulus is larger than Beasley Broadcasting Inc. and Hubbard Radio LLC, and it has better
+geographic and station format diversification. Beasley operates 64 stations with concentrations in Philadelphia and
+Boston, and Hubbard operates 30 stations with significant revenue concentration among individual stations. However,
+Cumulus is more exposed to the volatility of national radio advertising than its small to mid-size peers.
+
+Financial Risk: Highly leveraged
+We believe the company will generate sufficient cash flow from operations and potential asset sales to repay debt and
+reduce leverage over the next 12-24 months. We expect Cumulus media to generate around $90 million-$100 million
+of adjusted FOCF annually. The credit agreement includes a 75% excess cash flow (ECF) sweep until total net leverage
+decreases below 4.5x, at which point the ECF sweep decreases to 50%. The credit agreement also requires
+acquisitions to be de-leveraging unless total net leverage pro forma for the acquisition is below 5x. We expect the
+company's cash-flow generation to allow it to repay enough debt to reduce leverage modestly over the next few years.
+
+Liquidity: Adequate
+We expect liquidity sources to exceed uses by about 4x over the next 12 months, mainly due to the company's
+relatively low debt amortization, capital expenditure (capex), and working-capital requirements. The company would
+likely maintain the ability to draw on its asset-based loan (ABL) facility in a stress scenario due to its relatively lenient
+financial covenants. We also believe the company has a sound relationship with its banks and a satisfactory standing in
+credit markets, due to its ability to issue $500 million in senior secured notes to refinance a portion of its term loan in
+June 2019.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of $20.5 million as of June 30, 2019;
+
+• Roughly $20 million-$25 million in annual capex;
+
+• Full availability under its $50 million asset-based
+lending facility maturing in August 2023;
+
+• $13 million of annual mandatory debt amortization;
+and
+
+• Cash funds from operations of $100 million-$110
+million over the next 12 months; and
+
+• $5 million-$10 million in annual working capital
+requirements.
+
+• $12.5 million of proceeds from the contracted sale of
+WABC (AM), which is expected to close in the
+second half of 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 6
+
+Cumulus Media Inc.
+
+Debt maturities
+Cumulus Media's $1.3 billion senior secured term loan (roughly $537 million outstanding) is due on May 15, 2022. In
+June 2019, the company issued $500 million of senior secured notes due 2026 to refinance a portion of the term loan.
+We believe the lower amount outstanding under the term loan due in 2022 has significantly reduced potential
+refinancing risk.
+
+Covenant Analysis
+Compliance expectations
+• The company does not have any financial covenants associated with its term loan or secured notes.
+• Its ABL facility contains a springing fixed-charge coverage ratio of 1x that is only in effect if excess availability on
+the revolver would be less than the greater of 12.5% of total commitments or $5 million. We do not expect this
+covenant to be in effect over the next 12 months, and believe the company would have substantial headroom with
+the covenant if it were in effect.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The senior secured debt is secured by a first-priority lien on substantially all of the company's assets and those of its
+guarantors. The ABL facility has a first-priority lien on its accounts receivable, qualified cash, and related assets.
+
+Simulated default assumptions
+• Our simulated default scenario contemplates a default in 2021, stemming from increased competition from
+alternative media and a station-ratings underperformance that leads to steep revenue declines and cash-flow
+deficits.
+• We value the company as a going concern, using a 6x multiple of our projected emergence EBITDA, which is inline with that for other radio companies we rate.
+• We assume the ABL facility is 60% drawn in our simulated year of default.
+
+Simplified waterfall
+• EBITDA at emergence: About $157 million
+• EBITDA multiple: 6.0x
+• Net enterprise value (after 5% administrative costs): About $900 million
+• Value available to secured debt: About $865 million
+• Secured first-lien debt: About $1.2 billion
+• --Recovery expectations: 70%-90% (rounded estimate: 70%)
+Note: All debt amounts include six months of pre-petition interest.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 7
+
+Cumulus Media Inc.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 8
+
+Cumulus Media Inc.
+
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• General Criteria: Rating Implications Of Exchange Offers And Similar Restructurings, Update, May 12, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of August 15, 2019)*
+Cumulus Media Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+30-May-2018
+
+B-/Stable/--
+
+08-Jan-2018
+
+NR/--/--
+
+01-Dec-2017
+
+D/--/--
+
+02-Nov-2017
+
+SD/--/--
+
+14-Mar-2017
+
+CCC/Negative/--
+
+07-Dec-2016
+
+CC/Negative/--
+
+22-Mar-2016
+
+CCC/Negative/--
+
+06-Nov-2015
+
+B-/Negative/--
+
+05-Mar-2015
+
+B/Negative/--
+
+28-Aug-2014
+
+B/Stable/--
+
+Related Entities
+Cumulus Media New Holdings Inc.
+Senior Secured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 15, 2019 10
+
+

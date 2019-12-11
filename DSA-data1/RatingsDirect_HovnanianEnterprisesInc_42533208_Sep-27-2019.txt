@@ -1,0 +1,1321 @@
+Hovnanian Enterprises Inc.
+Primary Credit Analyst:
+Maurice S Austin, New York (1) 212-438-2077; maurice.austin@spglobal.com
+Secondary Contact:
+William R Mack, CFA, Centennial + 1 (303) 721 4821; william.mack@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+Hovnanian Enterprises Inc.
+Credit Highlights
+Issuer Credit Rating
+CCC+/Negative/--
+
+Overview
+Key strengths
+
+Key risks
+
+Good product and market diversity
+
+Very high leverage relative to peers.
+
+Reinvestment in business leading to increased
+community count.
+
+Refinancing risk on upcoming maturities.
+Cyclical nature of the homebuilding industry and a potential deterioration in
+homebuilding industry conditions.
+
+Hovnanian has upcoming maturities on debt obligations that it will have trouble meeting if it cannot refinance.
+Hovnanian has about $270 million of maturities between now and November 2021. We believe it will either need to
+refinance these obligations or significantly reduce its land spending to generate enough cash to repay them. The
+company faced a similar situation in 2016 and was unable to access the capital markets to refinance. Consequently, the
+company reduced its land spending, which resulted in a reduction in its land position and community count while
+generating cash to repay its obligations. Subsequently, the company saw its business shrink in an environment in
+which most homebuilders saw their businesses grow.
+Leverage is high relative to other rated homebuilders but we still expect an improvement from current levels.At the end
+of its fiscal year (October 2018), debt levels were lower than expected on account of payments made on its revolving
+credit facility and some additional debt pay downs. As a result, debt to EBITDA was slightly lower than we expected at
+year end. However, leverage above 12x EBITDA as of July 31, 2019 is still high relative to our rated universe of U.S.
+homebuilders.
+There was some deterioration in industry conditions as higher mortgage rates affected orders at the end of the calendar
+year. As mortgage rates rose to 4.9% in November 2018 from about 3.9% at the beginning of 2018, most homebuilders
+in our rated universe saw a slowdown in business. Hovnanian's orders declined about 9%, to 934, in the first quarter
+ended January 2019 from 1,027 in the same period last year. As mortgage rates have declined since the end of the
+year, to the 3.7% area, the company has reported an increase in orders, growing 10.1% and 22.6% year over year in
+the second and third quarters, respectively, to 1,546 and 1,515. We expect to see continued improvement in orders,
+absent an uptick in rates back to the 5% area.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+Hovnanian Enterprises Inc.
+
+Outlook
+
+The negative rating outlook reflects the risk to our current base-case scenario that Hovnanian will generate
+sufficient EBITDA to meet its interest payments over the next 12-18 months, presenting liquidity constraints in
+meeting its $75 million of maturities due in 2020. We anticipate that, over the next 24 months, Hovnanian's annual
+EBITDA will remain between $150 million and $180 million, with interest expense between $140 million and $150
+million.
+
+Downside scenario
+We would lower the rating within the next 12 months if EBITDA declined below a level needed to support its
+annual interest expense, currently below $140 million and we began to see the company burn through its cash
+position. This would cause liquidity to become strained such that we believe the company would have trouble
+meeting its upcoming obligations, including its interest payments and $75 million of debt maturities in 2020. We
+could also lower the rating should the company execute another debt exchange or restructuring.
+
+Upside scenario
+An upgrade is unlikely over the next 12 months given the company's high leverage. A positive rating action would
+require the company to improve EBITDA interest coverage above 1.5x with adequate liquidity, which we believe
+would improve the company's prospects for refinancing its 2020 maturities. We estimate that such a scenario could
+occur if gross margins expanded by at least 200 basis points (bps), resulting in EBITDA growth over 30% from our
+base-case scenario.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• We expect U.S. GDP to remain at 2.5% in 2019 and
+fall to 1.8% in 2020.
+• Annual housing starts of 1.3 million in 2019 and
+2020.
+• Mortgage rate to be about 4.2%, increasing to 4.4%
+in 2020.
+
+2018A 2019E 2020E
+EBITDA margin (%)
+
+8.6
+
+7.6
+
+8.0
+
+Debt to EBITDA (x)
+
+9.7
+
+12.1
+
+10.5
+
+139.0
+
+135.3
+
+Debt to capitalization (%) 145.9
+
+A--Actual. E--Estimate.
+
+Base-case projections
+We expect consolidated revenue to grow about 2% by the end of this fiscal year. We expect home sale revenue to grow
+by about 2.5% by the end of 2019 due to our assumptions of about 2% growth in closings, coupled with relatively flat
+average selling prices compared with 2018 levels. After revenues declined about 18% in 2018 due to a lower number of
+closings from a smaller number of communities, we expect community count to grow by almost 12% in 2019 as the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+Hovnanian Enterprises Inc.
+
+company continues to increase its spending on land and focuses on opening new communities, which should lead to a
+higher number of closings.
+Homebuilding gross margins will be relatively flat over the next two years.We expect full year 2019 homebuilding
+gross margin to fall by 55 bps, going to 17.9% from 18.4% due to higher input costs. We expect 2020 gross margins to
+increase back to 2018 levels of about 18.5% because of favorable double-digit growth in closings expected, partially
+offset by higher input costs.
+We believe that selling, general and administrative (SG&A) will be higher relative to 2018. We expect SG&A to
+increase to about $240 million in 2019 from about $230 million in 2018. Consequently, we estimate SG&A as a percent
+of total revenue will increase to about 12% in 2019 from 11.5% in 2018. The 50 bps increase is due to our expectation
+of openings of new communities and in line with management guidance. From 2020 onward, we expect improvement
+in operating leverage as the company aims to focus on its efficiency.
+
+Company Description
+Hovnanian Enterprises Inc. designs, constructs, markets, and sells residential homes in the U.S. It constructs
+single-family detached homes, attached townhomes and condominiums, urban infill, and active lifestyle homes. The
+company markets its homes for first-time buyers, first-time and second-time move-up buyers, luxury buyers,
+active-lifestyle buyers, and empty nesters in 165 communities in 25 markets. It also provides financial services
+comprising originating mortgages from homebuyers and selling them in the secondary market, and offers title
+insurance services.
+
+Business Risk
+Our rating on Hovnanian reflects its relatively weak positions in its markets. This is offset by the company's good
+product and market diversity. The company is the 14th-largest homebuilder in the U.S. based on deliveries, with 165
+active communities in 25 markets and 14 states. However, the company is not No. 1 or No. 2 in any of its markets. The
+company does have what we believe is broad product diversification, with move-up homes being 34% of homes sold in
+2018. This is followed by first-time home buyers at 31%, luxury homes at 21%, and active adult at 14%.
+Our rating on Hovnanian also reflects the recent lack of investment in the company as Hovnanian had to slow its land
+purchases in the business to repay its obligations in 2016. Due to its high level of debt, the company could not access
+the capital markets. Consequently, the company underinvested in its business, which resulted in a reduction in its land
+position and community count, enabling it to generate cash to repay its obligations. Ultimately making its obligations,
+we saw a decline in the business after 2016 across the board from net orders going to 5,586 in 2018 from 6,380 in
+2016. Deliveries went to 5,831 from 6,712 and revenues to $1.99 billion from $2.75 billion during that same time
+period. As the company is now able to sufficiently invest organically, we expect orders, deliveries, and revenues to
+increase about 4.5%, 2.0%, and 2.5%, respectively, in 2019 while continuing to grow in upcoming years.
+
+Peer comparison
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+Hovnanian Enterprises Inc.
+
+Table 1
+
+Hovnanian Enterprises Inc.--Peer Comparison
+Industry sector: homebuilders and real estate developers
+Hovnanian Enterprises
+Inc.
+Ratings as of Sept. 24, 2019
+
+The New Home
+Company Inc.
+
+Beazer Homes USA Inc.
+
+William Lyon Homes
+Inc.
+
+CCC+/Negative/--
+
+B-/Negative/--
+
+B-/Positive/--
+
+B/Stable/--
+
+--Fiscal year ended Oct. 31,
+2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+--Fiscal year ended Sept.
+30, 2018--
+
+--Fiscal year ended Dec.
+31, 2018--
+
+(Mil. $)
+Revenue
+
+1,991.2
+
+667.6
+
+2,107.1
+
+2,087.2
+
+EBITDA
+
+171.2
+
+39.7
+
+201.1
+
+255.9
+
+54.9
+
+32.4
+
+103.8
+
+148.4
+
+Interest expense
+
+162.7
+
+27.1
+
+104.9
+
+93.1
+
+Cash interest paid
+
+113.7
+
+0.2
+
+96.9
+
+83.2
+
+Cash flow from operations
+
+(59.8)
+
+(138.3)
+
+33.5
+
+34.8
+
+5.2
+
+0.2
+
+17.0
+
+7.4
+
+Free operating cash flow
+(FOCF)
+
+(65.0)
+
+(138.5)
+
+16.5
+
+27.5
+
+Discretionary cash flow
+(DCF)
+
+(65.0)
+
+(147.1)
+
+16.5
+
+7.1
+
+Cash and short-term
+investments
+
+187.9
+
+42.3
+
+139.8
+
+33.8
+
+Debt
+
+1,662.9
+
+390.6
+
+1,245.9
+
+1,335.9
+
+Equity
+
+(523.5)
+
+240.0
+
+644.0
+
+1,014.3
+
+EBITDA margin (%)
+
+8.6
+
+6.0
+
+9.5
+
+12.3
+
+Return on capital (%)
+
+14.7
+
+1.4
+
+8.9
+
+11.1
+
+EBITDA interest coverage
+(x)
+
+1.1
+
+1.5
+
+1.9
+
+2.7
+
+FFO cash interest coverage
+(x)
+
+1.5
+
+147.6
+
+2.1
+
+2.8
+
+Debt/EBITDA (x)
+
+9.7
+
+9.8
+
+6.2
+
+5.2
+
+Funds from operations
+(FFO)
+
+Capital expenditure
+
+Adjusted ratios
+
+FFO/debt (%)
+
+3.3
+
+8.3
+
+8.3
+
+11.1
+
+Cash flow from
+operations/debt (%)
+
+(3.6)
+
+(35.4)
+
+2.7
+
+2.6
+
+FOCF/debt (%)
+
+(3.9)
+
+(35.5)
+
+1.3
+
+2.1
+
+DCF/debt (%)
+
+(3.9)
+
+(37.6)
+
+1.3
+
+0.5
+
+Financial Risk
+Our rating reflects the company's high leverage and upcoming maturities in November 2019 and November 2020. We
+expect the company to meet these obligations. The company's $26 million note due November 2019 is owned by a
+wholly owned subsidiary of the company and no cash is required to retire the debt. The company's $125 million
+revolver, which currently has nothing drawn, converts to a term loan at the end of 2019 if there is an outstanding
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+Hovnanian Enterprises Inc.
+
+balance. The company intends to fully withdraw the entire $125 million revolver commitment right before its
+expiration and have it convert to the term loan, which will have a final maturity date of December 2022. In addition to
+the $83 million of cash already on the balance sheet, the incremental $125 million is more than enough cash to meet
+the $75 million obligation due November 2020. As such, the company does not have any significant maturities due
+until November 2021. At that time, we are less certain of the company's ability to repay the $195 million of senior
+secured notes due.
+In addition to the upcoming maturities, we do expect a return to a slow, steady improvement in credit measures after a
+weaker-than-expected first nine months of the fiscal year because rising home prices and higher mortgage rates
+contributed to weaker demand. This is in addition to the weaker operating results since 2016 as the company
+underinvested in its business. The weaker-than-expected demand this year contributed to the company's leverage
+being sustained at a higher level than we previously expected as debt to EBITDA increased to 12.3x as of July 2019
+from 9.7x as of fiscal year-end October 2018. We currently expect debt to EBITDA of about 12.1x through the end of
+2019, with further improvement in 2020 when we expect debt to EBITDA to decline to about 10.5x.
+
+Financial summary
+Table 2
+
+Hovnanian Enterprises Inc.--Financial Summary
+Industry sector: homebuilders and real estate developers
+--Fiscal year ended Oct. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+1,991.2
+
+2,451.7
+
+2,752.2
+
+2,148.5
+
+2,063.4
+
+EBITDA
+
+171.2
+
+196.1
+
+209.8
+
+160.1
+
+184.2
+
+(Mil. $)
+
+Funds from operations (FFO)
+
+54.9
+
+103.5
+
+107.9
+
+71.1
+
+96.4
+
+Interest expense
+
+162.7
+
+161.9
+
+168.3
+
+167.7
+
+147.2
+
+Cash interest paid
+
+113.7
+
+91.5
+
+103.3
+
+87.2
+
+87.2
+
+Cash flow from operations
+
+(59.8)
+
+304.7
+
+396.1
+
+(311.7)
+
+(181.9)
+
+5.2
+
+6.5
+
+8.0
+
+2.1
+
+3.4
+
+Free operating cash flow (FOCF)
+
+(65.0)
+
+298.2
+
+388.1
+
+(313.8)
+
+(185.4)
+
+Discretionary cash flow (DCF)
+
+(65.0)
+
+298.2
+
+388.1
+
+(313.8)
+
+(185.4)
+
+Cash and short-term investments
+
+187.9
+
+469.3
+
+346.8
+
+253.7
+
+261.9
+
+Gross available cash
+
+187.9
+
+469.3
+
+346.8
+
+253.7
+
+261.9
+
+Debt
+
+1,662.9
+
+1,853.2
+
+1,981.8
+
+2,252.6
+
+1,948.4
+
+Equity
+
+(523.5)
+
+(530.4)
+
+(198.5)
+
+(198.1)
+
+(187.8)
+
+Capital expenditure
+
+Adjusted ratios
+EBITDA margin (%)
+
+8.6
+
+8.0
+
+7.6
+
+7.5
+
+8.9
+
+Return on capital (%)
+
+14.7
+
+11.4
+
+9.9
+
+7.5
+
+11.3
+
+EBITDA interest coverage (x)
+
+1.1
+
+1.2
+
+1.2
+
+1.0
+
+1.3
+
+FFO cash interest coverage (x)
+
+1.5
+
+2.1
+
+2.0
+
+1.8
+
+2.1
+
+Debt/EBITDA (x)
+
+9.7
+
+9.4
+
+9.4
+
+14.1
+
+10.6
+
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+3.3
+
+5.6
+
+5.4
+
+3.2
+
+4.9
+
+(3.6)
+
+16.4
+
+20.0
+
+(13.8)
+
+(9.3)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+Hovnanian Enterprises Inc.
+
+Table 2
+
+Hovnanian Enterprises Inc.--Financial Summary (cont.)
+FOCF/debt (%)
+
+(3.9)
+
+16.1
+
+19.6
+
+(13.9)
+
+(9.5)
+
+DCF/debt (%)
+
+(3.9)
+
+16.1
+
+19.6
+
+(13.9)
+
+(9.5)
+
+Liquidity
+We believe Hovnanian's liquidity is adequate. We expect sources of liquidity to exceed uses by 3.6x or more over the
+next 12 months. We believe that sources of liquidity would continue to exceed uses even if forecast EBITDA were to
+decrease by 30%. The company has limited need for refinancing since the next significant maturity doesn't occur until
+November 2020. The company demonstrated generally prudent risk management by anticipating its liquidity
+constraints in 2016 to meet $260 million of maturities by slowing land spending and creating some financial flexibility.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Available cash balance of about $83 million as of
+July 31, 2019.
+
+• $67 million of working capital outflows for the next
+12 months.
+
+• Short-term undrawn bank lines of $125 million
+maturing in December 2019, converting to a term
+loan maturing in 2022.
+
+• $2.3 million of capex for the next 12 months.
+
+• Cash flow from operations of $14 million for the next
+12 months.
+
+Debt maturities
+Table 3
+
+Debt Maturities
+Debt type
+
+Maturity date As of July 31, 2019 (Mil $)
+
+9.5% senior secured notes
+
+Nov. 15, 2020
+
+74.70
+
+5% senior secured notes
+
+Nov. 1, 2021
+
+137.00
+
+2% senior secured notes
+
+Nov. 1, 2021
+
+53.10
+
+10% senior secured notes
+
+15-Jul-22
+
+436.40
+
+10.5% senior secured notes
+
+15-Jul-24
+
+416.70
+
+13.5% senior notes
+
+Feb. 1, 2026
+
+100.40
+
+Senior unsecured term Loan Feb. 1, 2027
+
+201.50
+
+5% senior notes
+
+43.70
+
+Feb. 1, 2040
+
+Covenant Analysis
+Requirements
+The credit facility does not contain any financial maintenance covenants.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+Hovnanian Enterprises Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We rate the company's $436 million senior secured notes due in 2022 and $416 million senior secured notes due in
+2024 'CCC'. The recovery rating is '5', indicating our expectation for modest (10%-30%; rounded estimate: 25%)
+recovery in the event of payment default.
+• We rate the company's $75 million 9.5% senior secured notes due in 2020 and both the 2% and 5% senior secured
+notes due in 2021 'CCC'. The recovery rating is '5', indicating our expectation for modest (10%-30%; rounded
+estimate: 25%) recovery in the event of payment default.
+• We rate the company's $201.5 million unsecured term loan, maturing in 2027; 13.5% unsecured notes due in 2026;
+and 5% unsecured notes due in 2040,'CCC-'. The recovery rating is '6', indicating our expectation for negligible
+(0%-10%; rounded estimate: 0%) recovery in the event of payment default.
+• We estimate a gross recovery value of about $523 million, which assumes a blended 45% discount to the assumed
+$1.2 billion in book value of inventory.
+
+Simulated default assumptions
+Our simulated default scenario assumes a default in 2020, burning through its cash position and having trouble
+accessing the capital markets to address its 2020 maturities of senior secured notes.
+
+Simplified waterfall
+• Gross recovery value: $523 million
+• Administrative costs (5%): $26 million
+• Net recovery value: $497 million
+• Collateral available to secured debt: $260 million
+----------------------------------• Collateral available to first-lien creditors: $260 million
+• First-lien claims: $896 million*
+• --Recovery expectations: 10%-30% (rounded estimate: 25%)
+----------------------------------• Collateral available to 2% and 5% and first-lien secured creditors: $69 million
+• Total secured claims: $272 million*
+• --Recovery expectations: 10%-30% (rounded estimate: 25%)
+----------------------------------• Collateral available to second-lien and unsecured creditors: $0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+Hovnanian Enterprises Inc.
+
+• Unsecured claims: $1.1 billion
+• --Recovery expectations: 0%-10% (rounded estimate: 0%)
+*All debt claims include an assumed six months of accrued but unpaid interest.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Hovnanian Enterprises Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Rolling 12 months ended July 31, 2019-Hovnanian Enterprises Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+1,783.0
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+(493.6)
+
+1,918.2
+
+67.5
+
+63.8
+
+90.5
+
+152.1
+
+(227.3)
+
+--
+
+4.1
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3.9)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest
+paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(88.5)
+
+--
+
+--
+
+--
+
+Operating leases
+
+22.5
+
+--
+
+--
+
+8.7
+
+1.7
+
+1.7
+
+(1.7)
+
+7.0
+
+--
+
+--
+
+Intermediate
+hybrids reported
+as equity
+
+70.0
+
+(70.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized
+interest
+
+--
+
+--
+
+--
+
+58.8
+
+58.8
+
+31.2
+
+40.0
+
+40.0
+
+--
+
+40.0
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+0.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends
+received from
+equity
+investments
+
+--
+
+--
+
+--
+
+16.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income
+(expense)
+
+--
+
+--
+
+--
+
+--
+
+37.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+0.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+92.5
+
+(69.4)
+
+0.0
+
+84.6
+
+98.2
+
+32.9
+
+(54.0)
+
+47.0
+
+0.0
+
+40.0
+
+Total
+adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+1,875.5
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+(563.1)
+
+161.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+1,918.2
+
+152.1
+
+123.5
+
+98.1
+
+(180.3)
+
+--
+
+44.1
+
+SEPTEMBER 25, 2019 9
+
+Hovnanian Enterprises Inc.
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• General Criteria: Hybrid Capital: Methodology And Assumptions, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+Ratings Detail (As Of September 25, 2019)*
+Hovnanian Enterprises Inc.
+Issuer Credit Rating
+
+CCC+/Negative/--
+
+Preferred Stock
+
+C
+
+Issuer Credit Ratings History
+06-Jul-2018
+
+CCC+/Negative/--
+
+06-Apr-2018
+
+CC/Negative/--
+
+06-Feb-2018
+
+CCC+/Stable/--
+
+30-Jan-2018
+
+SD/--/--
+
+08-Jan-2018
+
+CC/Watch Neg/--
+
+03-May-2016
+
+CCC+/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 11
+
+

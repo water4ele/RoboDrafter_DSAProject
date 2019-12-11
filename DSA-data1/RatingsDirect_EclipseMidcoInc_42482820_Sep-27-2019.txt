@@ -1,0 +1,512 @@
+Eclipse Midco Inc.
+Primary Credit Analyst:
+Kevin Cheng, New York + 1 (212) 438 1151; kevin.cheng@spglobal.com
+Secondary Contact:
+James W Thomas, New York + (212) 438-0181; james.w.thomas@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 1
+
+Eclipse Midco Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Diverse customer base with over 16,000 customers and minimal
+product concentration.
+
+High pro forma leverage of over 6.5x, which we expect will remain
+elevated over the next 12 months.
+
+Improving subscription revenue mix and recurring revenue share
+(approximately 74%).
+
+Narrow customer base concentrated in the smaller end of the small and
+midsize business (SMB) space.
+
+Strong cash flow conversion from minimal capital expenditure and
+working capital requirements.
+
+Limited operating scale, especially when compared with some of its
+peers.
+
+Outlook: Stable
+
+The stable outlook on ECi Software Solutions reflects our expectation for modest revenue growth supported by
+acquisitions, which will be partially offset by declining perpetual license sales and SMB customer attrition. We
+anticipate that the company will have limited capacity to pay down debt over the next year due to substantial
+interest expense and expect its pro forma adjusted debt to EBITDA to remain above 6x through 2021.
+
+Downside scenario
+We could lower our rating on ECi Software Solutions if challenges arise due to integration missteps, cost-saving
+execution issues, and/or accelerated customer attrition. Potential catalysts for a downgrade include sustained
+negative free cash flow, weakened liquidity, or narrow covenant headroom, particularly if we believe the firm's
+capital structure has become unsustainable.
+
+Upside scenario
+Although unlikely over the next 12 months, we could consider raising our rating on ECi Software Solutions if it
+generates sufficient free cash flow to repay a significant level of its outstanding debt, increases its recurring
+revenue base without impairing its operating metrics, and maintains adjusted debt to EBITDA of less than 6.5x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 2
+
+Eclipse Midco Inc.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• Global real GDP growth of 3.3% in 2019 and 3.6% in
+2020;
+
+2018A
+Revenue (mil. $)
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020;
+• Global information technology (IT) spending
+increases by the low- to mid-single digit percent
+area in 2019;
+
+2019E
+
+2020E
+
+204 220-240 280-300
+
+Adjusted EBITDA margin (%)
+
+25
+
+30-32
+
+34-36
+
+Adjusted debt to EBITDA (x)
+
+10.7
+
+Over 9
+
+Over 6
+
+A--Actual. E--Estimate.
+
+• Revenue increases by the low-double digit percent
+area in fiscal year 2020 as ECi increases its
+subscription revenue through acquisitions;
+• S&P-adjusted EBITDA margins improve to the 30%
+area in 2020;
+• Cash flow from operations of approximately $20
+million in fiscal year 2019;
+• Capital expenditure (capex) of about $5 million
+annually; and
+• Debt amortization of approximately $5 million
+annually.
+Based on these assumptions, we arrive at the following
+credit measures over the coming year:
+• S&P Global Ratings pro forma adjusted leverage of
+more than 6.5x for 2020 and above 6.0x for 2021;
+and
+• EBITDA interest coverage of about 1.5x over the
+next 18 months.
+
+Company Description
+ECi Software specializes in enterprise resource planning (ERP) software solutions for a number of related customer
+end-market verticals, primarily in the distribution, construction, field service, and manufacturing sectors. In August
+2017, ECi Software was acquired by Apax partners in a sponsor-to-sponsor sale (Carlyle Group) and was then merged
+with a division (Exact software) of the Apax portfolio, which subsequently created the ECi Software Solutions/ Eclipse
+Midco Inc. entity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 3
+
+Eclipse Midco Inc.
+
+Business Risk: Weak
+Our assessment of ECi Software Solutions' business risk profile reflects the borrower's smaller scale, narrow revenue
+base, and our expectation that it will successfully complete the integration of Trivest and PacSoft to increase its
+subscription revenue. The company has a niche focus in the fragmented ERP software market of the SMB segment in
+the manufacturing, construction, and e-commerce distribution industry verticals. In addition, the vast majority of ECi's
+customers employ less than 500 staff members and generate less than $100 million of annual revenue, which entails
+inherent macro risk. However, the company has consistently improved its proportion of recurring revenue, which
+accounts for approximately 74% of its total revenue.
+Historically, ECi has excelled at upselling additional business applications and functionalities to its existing customer
+base. These business applications include payment processing, customer relationship management (CRM), mobile
+capabilities, etc. and represent significant white space opportunities for the company to achieve incremental revenue
+gains. While upselling layered functionality increases its penetration within its customer base and augments the
+stickiness of its customer relationships, the limited organic growth in its core software sales constrains it from
+effectively gaining scale.
+Therefore, we anticipate the growth in ECi's acquired businesses will be minimal. While the integration of Trivest and
+PacSoft will provide opportunities to save costs through the realization of synergies due to their overlap with the
+company's industry verticals and product portfolio capabilities, the merger does not materially alter our assessment of
+ECi's business risk profile.
+
+Financial Risk: Highly leveraged
+Our assessment of ECi's financial risk profile primarily reflects its significant pro forma adjusted debt to EBITDA of
+approximately 6.6x. We expect the company's leverage to decline over the next few quarters as its completes the
+integration of Trivest and PacSoft. However, we anticipate the realization of additional cost synergies and
+management's adoption of the ASC 606 revenue standard will improve its EBITDA margins to the low- to mid-30%
+area by the end of fiscal year 2020. We project that ECi will generate approximately $20 million of annual cash flow
+from operations in 2019, which we expect will increase to approximately $40 million in 2020 with a full year of
+contributions from the Trivest/PacSoft acquisitions.
+Management expects pro forma revenue of $285 million for 2019 and reported EBITDA of $113 million. In addition,
+we expect limited deleveraging over the next 12 months as the company integrates Trivest and PacSoft and focuses on
+improving its operational efficiencies to increase profitability. Over the longer term, we expect modest deleveraging
+from EBITDA margin expansion and anticipate that any debt reduction will be limited to required annual amortization
+payments due to the company's track record of using its free cash flow to fund acquisitions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 4
+
+Eclipse Midco Inc.
+
+Liquidity: Adequate
+In our view ECi has adequate liquidity. We expect its liquidity sources to be more than 2x its uses over the next 12
+months and anticipate that its net sources will remain positive over the near term even if its EBITDA declines by 50%.
+While the company meets our quantitative criteria for an exceptional liquidity position, we constrain our assessment
+due to qualitative factors.
+Specifically, we view ECi's standing in the credit markets as insufficient to qualify for a stronger liquidity score and
+believe that the firm would be unable to absorb a high-impact, low-probability event without refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and liquid investments of about $26 million as
+of June 30, 2019;
+
+• Approximately $5 million of annual amortization
+payments on the first-lien term loan; and
+
+• Full availability under its $60 million revolving credit
+facility; and
+
+• Capex of about $8 million in fiscal year 2020.
+
+• Approximately $40 million of cash flow from
+operations in fiscal year 2020.
+
+Covenant Analysis
+The first-lien credit facility will be governed by a 7.25x first-lien gross debt to EBITDA financial covenant that springs
+when the company draws upon at least 35% of the facility's commitment. We expect the company to sustain sufficient
+headroom under this covenant to maintain adequate liquidity.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We have a '2' recovery rating on ECi's first-lien secured debt and a '6' recovery rating on its second-lien secured
+debt.
+• Our simulated default scenario contemplates a default occurring in 2021 due to a failure to successfully integrate
+recent acquisitions and stem revenue and profit declines and intensifying customer attrition that leads to losses in its
+core ERP business and attached business applications.
+• We value the company on a going-concern basis using a 6.0x multiple of our projected emergence-level EBITDA.
+This multiple reflects the company's small operational scale and growth prospects relative to that of its peers.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• Emergence EBITDA: Approximately $74 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 5
+
+Eclipse Midco Inc.
+
+• Multiple: 6.0x
+• Jurisdiction: U.S.
+
+Simplified waterfall
+• Gross recovery value: About $449 million
+• Net recovery value for waterfall after admin. expenses: About $423 million
+• Obligor/nonobligor valuation split: 90%/10%
+• First-lien secured debt claims: About $583 million
+• Collateral value available to first-lien secured creditors: $408 million
+• --Recovery range: 70%-90% (rounded estimate: 70%)
+• Second-lien secured debt claims: About $177 million
+• --Recovery range: 0%-10% (rounded estimate: 0%)
+Note: Estimated claim amounts include approximately six months of accrued but unpaid interest that we assume
+would be outstanding at default. Amounts have been rounded.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 6
+
+Eclipse Midco Inc.
+
+Stand-alone credit profile : b-
+
+• Group credit profile: b-
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Software And Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 17, 2019)*
+Eclipse Midco, Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+01-Oct-2018
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+B-/Stable/--
+
+SEPTEMBER 17, 2019 7
+
+Eclipse Midco Inc.
+
+Ratings Detail (As Of September 17, 2019)*(cont.)
+Related Entities
+ECi Macola/MAX, LLC
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC
+
+Exact Holding North America Inc.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC
+
+Exact Merger Sub LLC
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 9
+
+

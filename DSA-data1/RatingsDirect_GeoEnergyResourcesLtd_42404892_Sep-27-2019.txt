@@ -1,0 +1,1535 @@
+Geo Energy Resources Ltd.
+Primary Credit Analyst:
+Isabel Goh, Singapore (65) 6597-6110; isabel.goh@spglobal.com
+Secondary Contacts:
+Bertrand P Jabouley, CFA, Singapore (65) 6239-6303; bertrand.jabouley@spglobal.com
+Eric C Nietsch, CFA, Singapore + 65 6216 1089; eric.nietsch@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Geo Energy Resources Ltd.
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Negative/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Sound cost position with low strip ratio.
+
+Potential refinancing risks in the absence of mine acquisition.
+
+Sufficient interest coverage and sizable cash balances. Limited growth potential due to domestic production quota.
+Modest production, single mineral and mine concentration with short reserve life.
+High sensitivity of earnings and hence credit metrics to fluctuations in coal prices.
+
+Geo Energy Resources Ltd. (GERL) faces mounting refinancing risks given the lack of investment in its reserves base.
+GERL has yet to deploy the bond proceeds it raised during the last quarter of 2017. Bondholders have the option to put
+the notes in April 2021 in the absence of investment in reserves from the company. We believe the company's
+bargaining power may progressively erode as negotiations on potential acquisitions move closer to the date of the put.
+Furthermore, GERL's ability to raise additional funds to support an acquisition is untested given uncertain market
+sentiment and the incurrence covenants on the company's notes.
+A subdued pricing environment and constraints on production growth will weigh on GERL's creditworthiness. The
+company's operating performance has been subdued since the last quarter of 2018 due to low coal prices. We believe
+prices are unlikely to rebound given growing imbalances between regional demand and supply. In addition, we
+anticipate limited growth in production given quota limits set by Indonesian mining authorities. Moreover, higher
+output would accelerate the depletion of the company's mineral reserves.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Geo Energy Resources Ltd.
+
+Outlook: Negative
+
+The negative outlook reflects our view that GERL could face difficulty repaying the bonds if the company is not
+able to increase reserves without significantly raising its leverage while bondholders exercise the put option in
+April 2021.
+
+Downside scenario
+We could lower the rating if GERL's financial commitments increasingly appear to be unsustainable. This would
+happen if the company fails to add to its reserves in the next few months, making a bond redemption in April 2021
+increasingly likely. We could also lower the rating if realized prices remain low, with EBITDA per ton sustainably
+below US$3.
+
+Upside scenario
+We would revise the outlook to stable if GERL acquires new mines with established operations, increasing total
+reserves and removing refinancing risk in early 2021. A revision in the outlook would also require the company to
+maintain sufficient liquidity as a cushion against price and margin fluctuations through a pricing cycle, to support
+its ability to meet its debt obligations.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Geo Energy Resources Ltd.
+
+Assumptions
+
+• GDP growth of about 5% in Indonesia; and about
+6% on average in China and 7% in India, two
+countries that are major consumers and importers of
+coal.
+• Coal prices to remain volatile with average realized
+prices per ton in the US$34-US$36 range,
+benchmarked to the Indonesian Coal Index, less
+US$2-US$3 per ton marketing fee.
+• Production of 7.5 to 8.0 million metric tons (MMT)
+in 2019 and subsequently to plateau around 8 MMT
+in view of the cap by Indonesian mining authorities.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+FFO-to-debt ratio (%)
+
+7.7
+
+4.0-5.0
+
+5.0-6.0
+
+Debt-to-EBITDA ratio (x)
+
+4.7
+
+8.0-9.0
+
+7.5-8.5
+
+Reserves (MMT)
+
+82.2 70.0-80.0 60.0-70.0
+
+All figures are adjusted. FFO--Funds from
+operations=EBITDA minus cash interest paid minus
+cash tax paid. A--Actual. E--Estimate. MMT--Million
+metric tons.
+
+• Cash costs per ton to be relatively stable and
+average around US$29-US$31, in view of contracted
+mining operations.
+• EBITDA of US$30 million-US$40 million through
+2021.
+• Capital expenditure to be below US$5 million
+annually because the company contracts processing
+and transportation to third parties.
+• Dividends of about 30% of prior year's income.
+
+Base-case projections
+Soft coal prices could persist. Following 24 months of strong coal prices, prices have declined since the last quarter of
+2018 due to persistent oversupply in part from U.S. exports, as well as dampened demand from China. The slump is
+further exacerbated by rising competition globally from cleaner, renewable energy such as wind, solar, and cheap
+natural gas. Continued weakness in coal prices would pressure GERL's earnings and hence credit metrics.
+Production to remain modest, in the absence of acquisitions. We expect GERL's output to be up to 8 MMT through
+2021 given the production quota stipulated by Indonesian mining authorities. In the absence of acquisitions, we also
+believe GERL will be cautious in ramping up production quickly in view of declining reserves. Should incidents of
+flooding persist in the second half of the year, production could be lower.
+
+Company Description
+Established in 2008 and listed in Singapore since 2012, GERL is a holding company that controls a group of coal
+mining companies in Indonesia. It owns four assets in Kalimantan, with the production concentrated on two main
+assets in one seam, PT Sungai Danau Jaya (SDJ) and PT Tanah Bumbu Resources (TBR). The company has combined
+reserves of over 80 MMT as of 2018. During the year, the company produced 7.9 MMT of coal, generated US$299
+million of revenue and US$66 million of EBITDA. In the first half of 2019, GERL reported EBITDA of US$10 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Geo Energy Resources Ltd.
+
+from coal production of 3.6 MMT.
+
+Business Risk: Vulnerable
+GERL's modest size, high profitability sensitivity to fluctuations in coal prices, as well as limited growth potential due
+to the domestic production quota continue to constrain the company's earnings quality. Tempering these weaknesses
+are the company's low cash costs and stable relationship with its mining contractors.
+Modest production and scale. We regard GERL's narrow asset diversity as a main credit constraint. The company
+operates on a small scale and produced 7.9 MMT of coal in 2018.
+The company is highly dependent on two mining assets, SDJ and TBR, the former accounting for 89% of production
+volume in 2018. Average reserve life was about 10 years on Dec. 31, 2018, which is short compared with its peers like
+Coronado Global Resources Inc. (35 years; B+/Stable/--) and PT Bumi Resources Tbk. (20 years; CCC+/Stable/--).
+Although we expect more contribution from TBR going forward, declining reserves at the SDJ mine will continue to
+limit total production. We estimate the reserve life at SDJ to be less than seven years. The mine at PT Surya Tambang
+Tolindo (STT) is still in the exploratory phase and the company has not forecast any meaningful production from
+there. Production from PT Bumi Enggang Khatulistiwa (BEK) mine is also likely to be minimal at about 1 MMT.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Geo Energy Resources Ltd.
+
+Susceptibility in earnings and credit metrics to fluctuations in coal prices. GERL's cash flow generation is highly
+sensitive to fluctuations in coal prices. For the first half of 2019, the average selling prices (ASP) dipped to
+US$33.9/MT, down 24% from the first half of 2018. As a result, reported EBITDA in the period reduced to US$10
+million with production volumes of 3.6 MMT compared to US$44 million and production volumes of 3.8 MMT a year
+before. Cash profit per ton fell to US$5.5 from US$13.0. We estimate every US$1 change in ASP to result in a 2%-3%
+change in funds from operations (FFO) to debt.
+Chart 2
+
+Limited growth potential due to domestic production quota. The Domestic Market Obligation (DMO) in Indonesia
+requires local coal companies to sell at least 25% of their production to the domestic market and cap the selling price
+of coal to the state-owned electricity firm, Perusahaan Perseroan (Persero) PT Perusahaan Listrik Negara (PLN;
+BBB/Stable/--).
+GERL's target for production and sales of at least 8 MMT of coal for both SDJ and TBR in 2019 was based on the
+quota received and set out by the Indonesian mining authorities in the Rencana Kerja Anggaran Biaya (RKAB).
+Although the company plans to apply for an additional 2 MMT in 2019, this is subject to approval. In addition,
+companies that are noncompliant with the production cap may have their quota reduced. The company had complied
+with its DMO requirements as of June 30, 2019, and barring any unforeseen circumstances, will meet its full-year
+DMO requirement in 2019.
+Low cash costs and stable relationship with mining contractor. GERL's cash costs of US$30.8/ton in 2018 is among the
+lowest of its peers like PT Bayan Resources Tbk. (US$33.3/ton; B+/Stable/--) and Bumi (US$35.1/ton). Supporting
+GERL's low cash costs is its low strip ratio, averaging about 3.3x. The ratio is likely to decline further, especially for the
+TBR mine after the company completes prestripping. In the first semester of 2019, cash cost decreased further to
+US$28.4/ton. This was mainly due to a reduction in overburden distance and renegotiations with suppliers to lower
+costs in the second quarter, in line with weak coal prices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Geo Energy Resources Ltd.
+
+In addition, the company has been outsourcing mining operations to PT Bukit Makmur Mandiri Utama (BUMA) since
+2015, significantly reducing its capital spending and working capital requirements. Given the fairly stable stripping
+ratios, we expect GERL to sustain this cost position over the next few years.
+
+Peer comparison
+Table 1
+
+Geo Energy Resources Ltd.--Peer Comparison
+Industry sector: Mining
+Geo Energy
+Resources Ltd.
+
+PT Bayan
+Resources Tbk.
+
+PT Bumi
+Resources Tbk.
+
+Coronado Global Mongolian Mining
+Resources Inc.
+Corp.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+299.2
+
+1,676.7
+
+1,111.8
+
+1,980.5
+
+590.7
+
+EBITDA
+
+67.0
+
+737.0
+
+73.2
+
+515.7
+
+218.0
+
+FFO
+
+24.5
+
+623.2
+
+(129.1)
+
+447.2
+
+169.5
+
+Interest expense
+
+26.6
+
+5.5
+
+156.8
+
+74.4
+
+46.1
+
+Cash interest paid
+
+24.0
+
+3.8
+
+76.5
+
+44.9
+
+35.6
+
+(12.9)
+
+576.7
+
+(109.8)
+
+379.6
+
+123.5
+
+4.5
+
+82.2
+
+6.4
+
+114.3
+
+89.5
+
+Free operating cash flow
+
+(17.3)
+
+494.5
+
+(116.2)
+
+265.3
+
+34.0
+
+Discretionary cash flow
+
+(27.0)
+
+326.8
+
+(116.2)
+
+265.3
+
+34.0
+
+Cash and short-term
+investments
+
+202.6
+
+229.2
+
+88.5
+
+124.9
+
+33.0
+
+Debt
+
+316.6
+
+151.4
+
+1,724.9
+
+526.3
+
+682.2
+
+Equity
+
+174.1
+
+678.1
+
+503.6
+
+1,253.8
+
+817.3
+
+EBITDA margin (%)
+
+22.4
+
+44.0
+
+6.6
+
+26.0
+
+36.9
+
+Return on capital (%)
+
+Cash flow from operations
+Capital expenditures
+
+Adjusted ratios
+
+12.0
+
+95.6
+
+18.7
+
+26.7
+
+10.4
+
+EBITDA interest coverage
+(x)
+
+2.5
+
+134.0
+
+0.5
+
+6.9
+
+4.7
+
+FFO cash interest
+coverage (x)
+
+2.0
+
+166.6
+
+(0.7)
+
+11.0
+
+5.8
+
+Debt/EBITDA (x)
+
+4.7
+
+0.2
+
+23.6
+
+1.0
+
+3.1
+
+FFO/debt (%)
+
+7.7
+
+411.6
+
+(7.5)
+
+85.0
+
+24.8
+
+Cash flow from
+operations/debt (%)
+
+(4.1)
+
+380.9
+
+(6.4)
+
+72.1
+
+18.1
+
+Free operating cash
+flow/debt (%)
+
+(5.5)
+
+326.6
+
+(6.7)
+
+50.4
+
+5.0
+
+Discretionary cash
+flow/debt (%)
+
+(8.5)
+
+215.8
+
+(6.7)
+
+50.4
+
+5.0
+
+FFO--Funds from operations.
+
+We consider Bayan, Bumi, and Mongolian Mining Corp. (MMC; B-/Stable/--) as GERL's close peers, given their
+similar operations in coal mining, comparable production scale and coal quality, and country risks. Coronado is
+another peer, but it has lower country risks due to the location of its operations in the U.S. and Australia.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Geo Energy Resources Ltd.
+
+GERL, Bumi, and Bayan have similar jurisdiction and mining license-related exposure with operations in Indonesia. As
+such, coal quality and type are similar (lower calorific quality, ash, and sulphur content). The prices of coal produced
+by GERL, Bayan, and Bumi tend to be at a discount to the benchmark Newcastle price to account for the lower
+calorific content. In comparison, Coronado's mines offer a wide array of metallurgical coal that have higher selling
+prices compared with thermal coal. Similarly, MMC specializes in coking coal.
+GERL is similar to Bumi and Bayan in their asset concentration of one to two mines as compared with Coronado,
+which has four large operating assets located in the U.S. and Australia. In terms of production volume, GERL is much
+smaller compared with its local peers, with Bayan producing 28 MMT and Bumi 85 MMT in 2018.
+GERL's customer geographical concentration is largely skewed to China, which contributes more than 80% of
+revenues. This is similar to MMC, given the land-bound nature of the company's operations. Coronado, on the other
+hand, is much more diversified, selling 52% to the international market and remaining 48% to domestic markets in
+Australia and the U.S.
+In terms of operating efficiency, GERL has one of the lowest cash costs of US$30.8/ton, comparable with Bayan's
+US$33.3/ton as of 2018. Both are in the first quartile of the global cost curve, given the calorific value and low strip
+ratios. Bumi's cash costs are slightly higher at US$35.1/ton. MMC's cost position lies in a higher quartile owing largely
+to high transportation costs. On the other hand, Coronado's portfolio operates within the first and second quartile
+because the majority of its capacity is in opencast mining, which has lower production costs compared with
+underground mines.
+Nevertheless, GERL's ASP is markedly lower than its local peers'. In 2018, its ASP was US$42.1/ton as compared with
+Bayan's US$58.5/ton and Bumi's US$59.2/ton. This is largely attributable to the lower average calorific content of its
+coal. MMC and Coronado fetch higher ASPs given their sales concentration in metallurgical coal.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Geo Energy Resources Ltd.
+
+Chart 3
+
+As such, GERL reported a lower average EBITDA margin of 20%-25% and average EBITDA per ton of US$9-US$11
+for the past two years, compared with Bayan of over 40% and about US$25/ton, respectively. Meanwhile, Coronado's
+and MMC's EBITDA margins are over 25%. Bumi, on the other hand, is on the weaker end of the spectrum, with
+EBITDA margins of less than 10%.
+In terms of leverage, Bayan is the strongest among its peers, with negligible debt. Coronado's credit metrics are also
+much stronger than GERL's, but could weaken due to its ownership by a financial sponsor. Both MMC and GERL carry
+high leverage. Bumi's capital structure highly exposes the company to coal prices, because all cash is upstreamed on a
+quarterly basis to accelerate the repayment of its first tranche of debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Geo Energy Resources Ltd.
+
+Chart 4
+
+Financial Risk: Highly leveraged
+Our view of GERL's balance sheet reflects its high leverage in view of weaker earnings from declines in production and
+low coal prices.
+Sustained debt. The only debt on the company's balance sheet comprises US$300 million of senior unsecured notes
+issued since September 2017 with a maturity in April 2022. The company intends to use its cash balance--which stood
+at US$200 million as of June 30, 2019--for mine acquisitions. If the company is unable to make significant acquisitions,
+then it could be forced to use the cash to fund the put option on the bonds.
+Deterioration in leverage. The company's adjusted FFO to debt declined to 7.7% in 2018 from 20.3% in 2017, due to
+subdued earnings on the back of lower sales volumes, higher operating costs at its TBR mine, as well as dampened
+coal prices toward the last quarter of 2018. We anticipate that leverage could deteriorate further in 2019 with FFO to
+debt dipping below 5x in 2019 on the back of weaker earnings and elevated debt.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Geo Energy Resources Ltd.
+
+Chart 5
+
+Financial summary
+Table 2
+
+Geo Energy Resources Ltd.--Financial Summary
+Industry sector: Mining
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+299.2
+
+316.3
+
+182.1
+
+18.2
+
+53.1
+
+EBITDA
+
+67.0
+
+83.7
+
+46.8
+
+1.2
+
+(4.3)
+
+FFO
+
+24.5
+
+66.7
+
+38.2
+
+(6.1)
+
+(9.6)
+
+Interest expense
+
+26.6
+
+12.8
+
+6.2
+
+6.6
+
+5.4
+
+Cash interest paid
+
+24.0
+
+6.8
+
+6.0
+
+6.6
+
+2.0
+
+(12.9)
+
+1.3
+
+22.7
+
+17.4
+
+(18.1)
+
+4.5
+
+34.9
+
+0.3
+
+20.0
+
+50.4
+
+Free operating cash flow
+
+(17.3)
+
+(33.6)
+
+22.4
+
+(2.7)
+
+(68.5)
+
+Discretionary cash flow
+
+(27.0)
+
+(52.2)
+
+22.4
+
+(2.7)
+
+(68.5)
+
+Cash and short-term investments
+
+202.6
+
+265.8
+
+67.7
+
+12.4
+
+13.3
+
+(Mil. $)
+
+Cash flow from operations
+Capital expenditures
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Geo Energy Resources Ltd.
+
+Table 2
+
+Geo Energy Resources Ltd.--Financial Summary (cont.)
+Industry sector: Mining
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Gross available cash
+
+202.6
+
+Debt
+
+316.6
+
+265.8
+
+67.7
+
+12.4
+
+13.3
+
+329.6
+
+115.5
+
+88.0
+
+94.0
+
+Equity
+
+174.1
+
+154.4
+
+124.7
+
+94.0
+
+108.0
+
+EBITDA margin (%)
+
+22.4
+
+26.4
+
+25.7
+
+6.3
+
+(8.1)
+
+Return on capital (%)
+
+Adjusted ratios
+
+12.0
+
+18.6
+
+16.1
+
+(2.7)
+
+(6.1)
+
+EBITDA interest coverage (x)
+
+2.5
+
+6.5
+
+7.6
+
+0.2
+
+(0.8)
+
+FFO cash interest coverage (x)
+
+2.0
+
+10.8
+
+7.4
+
+0.1
+
+(3.9)
+
+Debt/EBITDA (x)
+
+4.7
+
+3.9
+
+2.5
+
+76.2
+
+(21.8)
+
+FFO/debt (%)
+
+7.7
+
+20.3
+
+33.1
+
+(7.0)
+
+(10.3)
+
+Cash flow from operations/debt (%)
+
+(4.1)
+
+0.4
+
+19.7
+
+19.7
+
+(19.2)
+
+Free operating cash flow/debt (%)
+
+(5.5)
+
+(10.2)
+
+19.4
+
+(3.0)
+
+(72.9)
+
+Discretionary cash flow/debt (%)
+
+(8.5)
+
+(15.8)
+
+19.4
+
+(3.0)
+
+(72.9)
+
+FFO--Funds from operations.
+
+Liquidity: Adequate
+We expect GERL's liquidity sources to cover its needs adequately due to limited debt maturities over the next 12
+months. However, the company has a limited track record compared with peers', and is relatively new in the U.S.
+dollar capital markets. We also expect the company to have access to prepayment of production by off-takers, which
+could provide an additional source of funds. We do not view the company's funding position as providing protection
+against a low-probability, high-impact event due to project and regional concentration in SDJ and TBR.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balances of US$200 million as of June 30,
+2019.
+
+• Working capital outflows of about US$20 million in
+the period.
+
+• Cash flow from operations before change in working
+capital at US$10 million-US$15 million by June 30,
+2020.
+
+• Capital expenditure of about US$5 million over the
+12 months to June 30, 2020.
+• Dividends of US$4 million-US$6 million over the 12
+months ending June 30, 2020.
+
+Debt maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+Geo Energy Resources Ltd.
+
+Table 3
+
+Geo Energy Resources Ltd.--Debt Maturities*
+Debt Due In
+
+Amount (Mil. US$)
+
+2019
+
+0
+
+2020
+
+0
+
+2021
+
+0
+
+2022
+
+300
+
+2023
+
+0
+
+Thereafter
+
+0
+
+Total
+
+300
+
+*As Of June 30, 2019.
+
+Covenant Analysis
+Requirements
+The senior unsecured notes do not have financial maintenance covenants but have two incurrence covenants. These
+include debt-to-EBITDA ratio below 3.5x and fixed charge coverage ratio above 3.0x.
+In addition, there is another covenant that mandates GERL to provide an offer to purchase the notes at par plus
+accrued interest after three and a half years if certain conditions are not met. At any time prior to three and a half years
+from the date of issuance:
+• The company must have 120 MMT of reserves and any new incremental reserves must be from producing mines
+with a minimum license expiry of eight years; or
+• At three and a half years from the date of issuance, the company must have 80 MMT of reserves, all of which must
+be from mines with licenses that expire in or after 2025.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 13
+
+Geo Energy Resources Ltd.
+
+Environmental, Social, And Governance
+
+We view governance factors as most important to our analysis, though environmental factors are also material.
+This is because the company has not been able to execute its strategic plans. GERL issued US$300 million in notes
+at 8% in 2017, but has yet to utilize the proceeds, resulting in elevated leverage and interest expense.
+This also increases refinancing risk due to a potential put option in 2021 should the minimum reserve requirement
+not be met. The put option, if exercised, could drive lower ratings over the next couple years if the company
+remains unable to execute its acquisition strategy. In addition, management has not been consistent with its
+production targets.
+GERL and other coal producers face risks related to global energy transition and carbon emissions targets.
+International and domestic environmental regulations could affect long-term financial metrics. Flooding, in
+particular, has been cited as leading to decreased production for GERL. However, while we view environmental
+risks as material, they are similar to those faced by other coal mining companies and unlikely to affect the rating at
+current levels. GERL has a sound safety record with no major injuries or fatalities in 2018, and we view social
+factors as less material.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+GERL's rated borrowings include US$300 million senior unsecured notes issued by Geo Coal International Pte. Ltd.
+(GCI) in 2017 and unconditionally guaranteed by GERL and substantially all of the company's subsidiaries. These
+notes are currently the only significant debt.
+
+Analytical conclusions
+All of the company's assets are located in Indonesia, a jurisdiction that we consider to have weak rule of law, lack of
+creditor-friendly features, and lack of consistency in the conformity of the distribution of proceeds to legal rankings of
+claims. Accordingly, we believe recovery prospects in the event of bankruptcy are uncertain in the country. Therefore,
+we equalize the rating on the notes with the 'B-' issuer credit rating on the company.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 14
+
+Geo Energy Resources Ltd.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Geo Energy Resources Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Fiscal year ended Dec. 31, 2018-Geo Energy Resources Ltd. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+173.9
+
+66.2
+
+54.3
+
+26.5
+
+67.0
+
+(8.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(18.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(24.0)
+
+--
+
+Reported lease liabilities
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+0.1
+
+--
+
+0.2
+
+0.0
+
+0.0
+
+(0.0)
+
+0.2
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+0.7
+
+--
+
+0.1
+
+0.1
+
+0.1
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+0.4
+
+--
+
+--
+
+--
+
+--
+
+Asset retirement obligations
+
+--
+
+--
+
+--
+
+--
+
+0.1
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+4.2
+
+--
+
+--
+
+--
+
+Reclassification of interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(20.0)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+25.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+290.5
+
+Cash taxes paid
+Cash interest paid
+
+Reported
+S&P Global Ratings'
+adjustments
+
+Debt: Streaming transactions
+Operating cash flow: Other
+Total adjustments
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+15.0
+
+26.1
+
+0.2
+
+0.7
+
+4.3
+
+0.2
+
+(42.5)
+
+(4.8)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+24.5
+
+(12.9)
+
+S&P Global Ratings' adjusted
+amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+316.6
+
+174.1
+
+67.0
+
+58.6
+
+26.6
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Negative/--
+
+Business risk: Vulnerable
+
+• Country risk: Moderately high
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 15
+
+Geo Energy Resources Ltd.
+
+• Industry risk: Moderately high
+• Competitive position: Vulnerable
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b-
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria | Corporates | Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Metals And Mining Upstream Industry, Dec. 20,
+2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 16
+
+Geo Energy Resources Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+Geo Energy Resources Ltd.
+Issuer Credit Rating
+
+B-/Negative/--
+
+Issuer Credit Ratings History
+05-Jul-2019
+
+B-/Negative/--
+
+07-Jul-2017
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 18
+
+

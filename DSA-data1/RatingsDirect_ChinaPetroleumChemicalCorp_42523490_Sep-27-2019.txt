@@ -1,0 +1,1701 @@
+China Petroleum & Chemical Corp.
+Primary Credit Analyst:
+Danny Huang, Hong Kong (852) 2532-8078; danny.huang@spglobal.com
+Secondary Contact:
+Ronald Cheng, Hong Kong (852) 2532-8015; ronald.cheng@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+China Petroleum & Chemical Corp.
+Business Risk: STRONG
+
+a+
+Vulnerable
+
+a+
+
+a+
+
+Issuer Credit Rating
+
+Excellent
+
+Foreign Currency Rating
+Financial Risk: MODEST
+Highly leveraged
+
+A+/Stable/-Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Dominant market position with diverse assets and revenue streams.
+
+Sensitivity to inherent cyclicality in the oil industry.
+
+Well-established marketing and distribution network in China.
+
+Negative free cash flow because of significant capital
+spending.
+
+Large and highly integrated operations.
+Extremely high likelihood of extraordinary support from the Chinese government.
+
+Well-integrated operations with diverse assets help China Petroleum & Chemical Corp. (Sinopec Corp.) maintain its
+competitive advantage. Sinopec Corp. has good vertical integration with presence in upstream, refining,
+petrochemical, and distribution operations. This helps mitigate cyclical risks in the industry and generate more stable
+cash flows compared with pure upstream peers. In 2018, for example, the company's earnings in the refining and
+downstream segments fell but it maintained steady operating cash flows as higher oil prices boosted its upstream
+segment.
+Sinopec Corp.'s dominant position in China's oil refining and marketing industry bolsters its business strength. Sinopec
+Corp. is China's biggest producer of refined oil and petrochemical products and one of the largest globally. The
+company processed 244 million tons of crude oil in 2018, accounting for 40% of China's total refinery throughput.
+Sinopec Corp. has over 30,000 gas stations, or 30% of China's total, making it the largest distributor of refined products
+in the country. Due to its well-located gas stations, Sinopec Corp. accounted for about 55% of China's oil product sales
+volume in 2018. In addition, the company's refineries are located in China's more affluent coastal areas, which gives it
+an edge in demand and transportation. Sinopec Corp.'s market leadership on the back of these characteristics has
+enabled the company to maintain steady profitability.
+Sinopec Corp.'s earnings will remain vulnerable to lower oil refining margins and crude oil price volatility. In 2018,
+Sinopec Corp.'s operating profits in its refining, petrochemical, and marketing segments slumped due to the sizable
+negative inventory impact as oil prices slumped in the fourth quarter. Nevertheless, the company's overall earnings
+remained steady because of considerably narrowed operating losses in its upstream business. However, we believe the
+company's earnings will decline in 2019 and 2020 as upstream segment losses widen based on our assumption of
+lower oil prices. In addition, we expect oil refining margins to be muted, weighed down by softer global demand amid
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+China Petroleum & Chemical Corp.
+
+capacity expansions.
+Chart 1
+
+Significant capital outlay is expected to lead to negative discretionary cash flows. The Chinese government has called
+for higher capital expenditure (capex) by the three national oil companies (NOCs) in domestic exploration and
+production (E&P). We therefore expect Sinopec Corp.'s capex to increase in 2019 and remain high over the subsequent
+years. Given that the capex will take time to translate into operating cash flow, we estimate Sinopec Corp.'s
+discretionary cash flow will be negative in 2019 and 2020. That said, the company has considerable rating buffer and
+can absorb the incremental spending.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+China Petroleum & Chemical Corp.
+
+Outlook: Stable
+
+The stable outlook on Sinopec Corp. reflects the outlook on the sovereign credit rating on China. The outlook also
+reflects the extremely high likelihood of extraordinary support from the Chinese government to Sinopec Corp.,
+given its strategic position as one of the largest NOCs in China. We also expect Sinopec Corp.'s financial
+performance to remain relatively stable in the next 12-24 months given its integrated operations.
+
+Downside scenario
+We will downgrade Sinopec Corp. if we lower the sovereign credit rating.
+We may also downgrade Sinopec Corp. if its ratio of debt to EBITDA rises above 2.5x, possibly due to: (1) higher
+capex than we expect or large-scale debt-funded acquisitions; or (2) very low oil prices, leading to significant losses
+in the upstream business, or a significant increase in oil price in a short period of time, leading to significant losses
+in the refining business.
+
+Upside scenario
+We will upgrade Sinopec Corp. if we raise the sovereign credit rating.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+China Petroleum & Chemical Corp.
+
+Assumptions
+
+• China's GDP growth to moderate to 6.2% in
+2019-2020 from 6.6% in 2018. Slower economic
+growth and China's shift toward a more
+consumption-based economy will lower oil
+consumption growth. This will result in falling diesel
+demand, which is driven by industrial activities,
+while gasoline and kerosene consumption will rise,
+supported by a growing auto fleet, albeit at a slower
+pace, and an increase in passenger and cargo flights.
+
+Key Metrics
+
+Debt-to-EBITDA ratio (x)
+FFO-to-debt ratio (%)
+DCF-to-debt ratio (%)
+
+2018A
+
+2019E
+
+2020E
+
+0.9
+
+1.1-1.3
+
+1.1-1.3
+
+82.3
+
+70-75
+
+63-68
+
+2.6 (12)-(17) (5)-(10)
+
+FFO--Funds from operations. DCF--Discretionary cash
+flow. A--Actual. E--Estimate.
+
+• Brent oil price per barrel to average US$60 for the
+rest of 2019 and in 2020, and US$55 in 2021, down
+from US$72 in 2018. This is based on slower
+demand growth and rising production, especially in
+the U.S. However, oil prices could increase on
+continued OPEC production cuts and geopolitical
+events.
+• Oil production to fall by 0.5% per year in 2019 and
+2020, from 289 million barrels in 2018. Gas
+production to grow by 4.5% in 2019 and 4.0% in
+2020, from 977 billion cubic feet in 2018. We expect
+faster growth for natural gas owing to constraints in
+Sinopec Corp.'s oil reserves and the company's plan
+to ramp up its gas production, especially in the
+Sichuan basin.
+• Refinery throughput to grow by 1.0% per annum in
+2019 and 2020 from 244 million tons in 2018. This is
+at a weaker pace than in prior years mainly because
+of China's slowing demand growth for oil products.
+• Gross refining margin of US$9 per barrel in 2019 and
+2020, down from US$9.49 per barrel in 2018, due to
+falling oil prices and rising supply versus demand.
+We have not factored in any potential positive
+impact from the implementation of the International
+Maritime Organization's new sulfur restriction on
+marine fuel from 2020.
+
+Base-case projections
+Sinopec Corp.'s revenue to decline by 10%-13% in 2019 and 3%-5% in 2020. The drop in revenue will be primarily
+driven by lower Brent oil prices, which we estimate will fall by 12.5% in 2019 and 4.8% in 2020 on a full-year average
+basis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+China Petroleum & Chemical Corp.
+
+Adjusted EBITDA margins to increase to 8%-9% in the next 12-24 months from 7.9% in 2018, because of a lower
+revenue base on lower oil prices. However, the company's absolute adjusted EBITDA will decrease to Chinese
+renminbi (RMB) 210 billion-RMB220 billion in 2019 and 2020 from RMB228 billion in 2018, owing to our assumptions
+of lower crude oil prices and refining margins.
+Leverage to increase slightly as a result of higher capital spending over the next two years. We expect Sinopec Corp.'s
+annual capex to increase to RMB130 billion-RMB140 billion over the next 12-24 months from RMB103 billion in 2018.
+This is in response to the Chinese government's directive to increase domestic oil and gas production for energy
+security. Consequently, we expect the company to generate negative discretionary cash flows, leading to an increase
+in the debt-to-EBITDA ratio to 1.1x-1.3x in 2019 and 2020, from 0.9x in 2018.
+
+Company Description
+Sinopec Corp. is the key operating subsidiary of China Petrochemical Corp. (Sinopec Group). It accounted for about
+99% of Sinopec Group's revenues and 78% of its reported assets in 2018. Sinopec Corp. operates in five business
+segments: oil and gas exploration and production, refining, marketing, chemicals, and trading and research.
+Given the strategic importance of the petroleum industry, we believe the Chinese government will continue to
+maintain its majority ownership in Sinopec Corp., through parent Sinopec Group.
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+China Petroleum & Chemical Corp.
+
+Business Risk: Strong
+We believe Sinopec Corp.'s large and well-integrated operations with diverse assets and revenue streams, dominant
+market position in the downstream segment, and well-established marketing and distribution network in China
+underpin the company's strong business position. However, these benefits are partially offset by the cyclical risk in oil
+and gas because the industry's performance is highly dependent on fluctuations in crude oil prices.
+As one of China's three NOCs and the largest downstream operator, Sinopec Corp. contributes to about 40% of the
+total crude oil processed in the country. However, Sinopec Corp.'s own crude oil production can only meet less than
+one-fifth of its refining capacity. Hence, over the past few years, the company has increased its investments in the
+upstream segment, mainly in cleaner natural gas, which is in line with China's national goal of increasing use of clean
+energy compared to crude oil.
+Losses at Sinopec Corp.'s E&P segment narrowed materially to RMB10 billion in 2018 from RMB46 billion in 2017 due
+to the recovery in oil prices. Realized oil prices rose to US$65 per barrel in 2018 from US$49 per barrel in 2017, in line
+with Brent oil prices. We expect operating losses at the company's E&P segment to widen to RMB20 billion-RMB 30
+billion based on our assumption of declining oil prices in 2019 and 2020.
+Profits at the company's downstream segment will remain under pressure over the next 12-24 months, in our view.
+Operating profit at the company's refining business plummeted to RMB55 billion in 2018 from RMB65 billion in 2017,
+due to the negative inventory impact triggered by a sharp fall in crude oil prices in the fourth quarter. We expect
+refining earnings to remain relatively stable at RMB50 billion-RMB55 billion in 2019 and 2020 as incremental industry
+supply growth will outpace demand.
+Operating profits at Sinopec Corp.'s marketing segment plunged to RMB24 billion in 2018 from RMB32 billion in 2017
+because of the sizable negative inventory impact along with stiff competition from independent refiners in China. In
+our view, the lower margins were attributable to discounts offered in response to competition from independent
+station operators. We anticipate this intense competition to weigh on the segment's performance, leading to flat
+earnings of RMB24 billion-RMB 25 billion over the next two years.
+Operating profits at the company's chemical segment remained flat at RMB27 billion in 2018 as increases in average
+selling prices and sales volumes were offset by higher feedstock cost following the rise in crude oil prices. We expect
+chemical spreads to remain flat over the next 12-24 months owing to rising global capacity and subdued demand. As
+such, we forecast earnings to slow to RMB28 billion-RMB30 billion.
+
+Peer comparison
+Table 1
+
+China Petroleum & Chemical Corp.--Peer Comparison
+Industry Sector: Integrated oil and gas
+
+China Petroleum &
+Chemical Corp.
+
+China National
+Petroleum Corp.
+
+China National
+Offshore Oil
+Corp.
+
+Exxon Mobil
+Corp.
+
+Royal Dutch
+Shell PLC
+
+BP PLC
+
+--Fiscal year ended Dec. 31, 2018--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+China Petroleum & Chemical Corp.
+
+Table 1
+
+China Petroleum & Chemical Corp.--Peer Comparison (cont.)
+Industry Sector: Integrated oil and gas
+
+China Petroleum &
+Chemical Corp.
+
+China National
+Petroleum Corp.
+
+China National
+Offshore Oil
+Corp.
+
+Exxon Mobil
+Corp.
+
+Royal Dutch
+Shell PLC
+
+BP PLC
+
+Revenue
+
+2,891,179.0
+
+2,739,011.0
+
+712,689.1
+
+1,921,199.1
+
+2,671,206.2
+
+2,054,794.1
+
+EBITDA
+
+228,356.5
+
+458,412.5
+
+183,756.5
+
+354,872.2
+
+450,476.4
+
+237,697.9
+
+Funds from operations
+(FFO)
+
+168,591.2
+
+352,305.7
+
+150,024.3
+
+268,195.3
+
+343,109.8
+
+177,965.2
+
+17,778.2
+
+25,676.8
+
+11,224.6
+
+16,571.1
+
+41,105.6
+
+21,815.2
+
+(Mil. RMB)
+
+Interest expense
+Cash interest paid
+
+15,948.2
+
+23,699.8
+
+10,868.9
+
+12,671.4
+
+34,736.7
+
+17,970.5
+
+Cash flow from
+operations
+
+189,819.3
+
+401,035.7
+
+148,523.5
+
+247,444.9
+
+369,788.9
+
+171,451.9
+
+Capital expenditure
+
+103,014.0
+
+315,856.0
+
+57,393.0
+
+130,142.4
+
+158,265.8
+
+114,908.0
+
+Free operating cash
+flow (FOCF)
+
+86,805.3
+
+85,179.7
+
+91,130.5
+
+117,302.5
+
+211,523.1
+
+56,544.0
+
+5,306.3
+
+44,998.7
+
+68,743.2
+
+16,425.3
+
+64,880.8
+
+6,858.5
+
+Cash and short-term
+investments
+
+192,747.0
+
+426,564.0
+
+199,828.0
+
+20,922.4
+
+183,920.2
+
+145,246.1
+
+Debt
+
+204,777.8
+
+340,121.2
+
+183,555.7
+
+427,679.0
+
+616,417.8
+
+513,981.7
+
+Equity
+
+856,535.0
+
+2,390,149.0
+
+731,873.3
+
+1,365,442.6
+
+1,392,995.2
+
+698,430.3
+
+EBITDA margin (%)
+
+7.9
+
+16.7
+
+25.8
+
+18.5
+
+16.9
+
+11.6
+
+Return on capital (%)
+
+11.6
+
+6.2
+
+12.8
+
+12.6
+
+12.7
+
+11.8
+
+EBITDA interest
+coverage (x)
+
+12.8
+
+17.9
+
+16.4
+
+21.4
+
+11.0
+
+10.9
+
+FFO cash interest
+coverage (x)
+
+11.6
+
+15.9
+
+14.8
+
+22.2
+
+10.9
+
+10.9
+
+Debt/EBITDA (x)
+
+0.9
+
+0.7
+
+1.0
+
+1.2
+
+1.4
+
+2.2
+
+FFO/debt (%)
+
+82.3
+
+103.6
+
+81.7
+
+62.7
+
+55.7
+
+34.6
+
+Cash flow from
+operations/debt (%)
+
+92.7
+
+117.9
+
+80.9
+
+57.9
+
+60.0
+
+33.4
+
+FOCF/debt (%)
+
+42.4
+
+25.0
+
+49.6
+
+27.4
+
+34.3
+
+11.0
+
+2.6
+
+13.2
+
+37.5
+
+3.8
+
+10.5
+
+1.3
+
+Discretionary cash flow
+(DCF)
+
+Adjusted ratios
+
+DCF/debt (%)
+RMB--Chinese renminbi.
+
+We have selected the other two Chinese NOCs, China National Petroleum Corp. (CNPC) and China National Offshore
+Oil Corp. (CNOOC), as Sinopec Corp.'s domestic peers. We have also chosen international oil companies BP PLC,
+Exxon Mobil Corp., and Royal Dutch Shell PLC as the global peers.
+We believe Sinopec Corp.'s business position is comparable to CNOOC's but weaker than CNPC's and its global peers'.
+This is because Sinopec Corp. has a smaller reserve base and shorter reserve life. Sinopec Corp.'s total oil and gas
+reserve was 2.8 billion barrels of oil equivalent (boe), smaller than CNOOC's 5.0 billion boe and PetroChina Co. Ltd.'s
+(CNPC's flagship subsidiary) 20.8 billion. Sinopec Corp.'s reserve life as of 2018 was 5.9 years, lower than PetroChina's
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+China Petroleum & Chemical Corp.
+
+13.7 years and CNOOC's 10.5 years.
+CNPC and CNOOC benefited from increasing oil prices in 2018 on the back of their large exposure to the upstream
+segment. As a result, the two NOCs recorded strong net profit growth, while Sinopec Corp., being a downstream
+major, reported much lower net profit growth in 2018. However, we believe Sinopec Corp.'s integrated business will
+lead to relatively stable cash flows compared with the other NOCs over the next two years as we expect oil prices to
+decline; this was demonstrated by Sinopec Corp.'s more resilient earnings in the last downturn in 2015-2016.
+Sinopec Corp.'s financial strength is on par with the other two Chinese NOCs' and comparable to its international peers
+due to its well-integrated operations and diverse assets. All major oil companies have been cautious about costs and
+active in cutting capex and operating expenses in response to falling oil prices.
+All the three NOCs--CNPC, Sinopec Corp., and CNOOC--are government-related entities as they are 100% owned by
+the Chinese central government. BP and Shell are publicly traded private companies and do not receive government
+support. We assess CNPC, Sinopec Corp., and CNOOC as having extremely high likelihood of receiving extraordinary
+government support. This is because oil and gas are strategic reserves and these three companies are the only NOCs
+with a dominant position in the oil and gas value chain. We apply a one-notch uplift to both CNOOC and Sinopec
+Corp. in view of potential government support, while CNPC's issuer credit rating is constrained by the sovereign credit
+rating on China given its 'aa-' stand-alone credit profile.
+
+Financial Risk: Modest
+We believe Sinopec Corp. will maintain its robust, albeit slightly increasing, leverage position on the back of its
+significant cash balance over the next 12-24 months.
+Sinopec Corp. has significantly improved its financial strength by aggressively reducing its operating costs and capex
+since oil prices slumped in 2015. In view of the efforts, the company's leverage, determined by the debt-to-EBITDA
+ratio, improved to 0.9x in 2018 from 2.6x in 2014, while its cash balance rose to RMB193 billion in 2018 from RMB10
+billion in 2014.
+Under our base case, we expect Sinopec Corp.'s capex to increase to RMB130 billion-RMB140 billion in 2019 and
+2020, in line with management guidance, from about RMB103 billion in 2018. We also expect the company's dividend
+payments to remain at RMB40 billion-RMB55 billion over that period. Given our view of declining oil prices over the
+next two to three years, we believe the company's operating cash flows will be insufficient to fully accommodate its
+capex requirements and dividend payments, resulting in negative discretionary cash flows and a mild increase in
+leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+China Petroleum & Chemical Corp.
+
+Chart 3
+
+Having said that, we believe Sinopec Corp.'s strong cash balance will help the company sustain its robust, albeit
+slightly deteriorating, credit metrics over the next two to three years. Given the company's cash balance of about
+RMB193 billion as of the beginning of 2019, we expect adjusted debt to grow moderately and leverage to sustain at
+healthy levels. As such, we expect the ratio of debt to EBITDA to remain at 1.1x-1.3x over the next two to three years,
+compared to 0.9x in 2019.
+
+Financial summary
+Table 2
+
+China Petroleum & Chemical Corp.--Financial Summary
+Industry sector: Integrated oil and gas
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. RMB)
+Revenue
+
+2,891,179.0 2,360,193.0 1,930,911.0 2,020,375.0 2,825,914.0
+
+EBITDA
+
+228,356.5
+
+233,208.5
+
+224,290.0
+
+182,423.0
+
+191,235.0
+
+Funds from operations (FFO)
+
+168,591.2
+
+186,793.1
+
+172,155.4
+
+138,843.0
+
+137,848.4
+
+17,778.2
+
+17,630.4
+
+20,974.6
+
+20,331.0
+
+24,012.6
+
+Interest expense
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+China Petroleum & Chemical Corp.
+
+Table 2
+
+China Petroleum & Chemical Corp.--Financial Summary (cont.)
+Industry sector: Integrated oil and gas
+--Fiscal year ended Dec. 31-2018
+Cash interest paid
+
+2017
+
+2016
+
+2015
+
+2014
+
+15,948.2
+
+15,296.4
+
+17,863.6
+
+19,122.0
+
+20,864.6
+
+Cash flow from operations
+
+189,819.3
+
+200,829.1
+
+217,365.4
+
+166,068.0
+
+145,121.4
+
+Capital expenditure
+
+103,014.0
+
+70,948.0
+
+72,847.0
+
+102,698.0
+
+124,381.0
+
+86,805.3
+
+129,881.1
+
+144,518.4
+
+63,370.0
+
+20,740.4
+
+5,306.3
+
+89,653.1
+
+121,089.4
+
+37,675.0
+
+(8,964.6)
+
+Cash and short-term investments
+
+192,747.0
+
+165,004.0
+
+142,497.0
+
+69,666.0
+
+10,100.0
+
+Gross available cash
+
+192,747.0
+
+165,004.0
+
+142,497.0
+
+69,666.0
+
+10,100.0
+
+Debt
+
+204,777.8
+
+207,089.0
+
+270,465.4
+
+381,725.9
+
+503,397.3
+
+Equity
+
+856,535.0
+
+852,890.0
+
+831,235.0
+
+788,161.0
+
+645,577.0
+
+EBITDA margin (%)
+
+7.9
+
+9.9
+
+11.6
+
+9.0
+
+6.8
+
+Return on capital (%)
+
+11.6
+
+11.4
+
+8.6
+
+7.3
+
+8.5
+
+EBITDA interest coverage (x)
+
+12.8
+
+13.2
+
+10.7
+
+9.0
+
+8.0
+
+FFO cash interest coverage (x)
+
+11.6
+
+13.2
+
+10.6
+
+8.3
+
+7.6
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+0.9
+
+0.9
+
+1.2
+
+2.1
+
+2.6
+
+FFO/debt (%)
+
+82.3
+
+90.2
+
+63.7
+
+36.4
+
+27.4
+
+Cash flow from operations/debt (%)
+
+92.7
+
+97.0
+
+80.4
+
+43.5
+
+28.8
+
+FOCF/debt (%)
+
+42.4
+
+62.7
+
+53.4
+
+16.6
+
+4.1
+
+2.6
+
+43.3
+
+44.8
+
+9.9
+
+(1.8)
+
+DCF/debt (%)
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess Sinopec Corp.'s liquidity as adequate because we expect the company's liquidity sources to exceed its uses
+by about 1.2x over the next 12 months. Net liquidity sources should remain positive even if EBITDA declines by 15%.
+We expect the group to retain its strong access to banks and debt capital markets.
+As of June 30, 2019, Sinopec Corp. had total banking facilities of RMB388 billion. Only RMB24 billion was used, while
+RMB364 billion remains unused, demonstrating strong support from banks.
+In addition, with about RMB180 billion in cash and cash equivalents as of June 30, 2019, we believe the company is
+able to absorb high-impact, low-probability events.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+China Petroleum & Chemical Corp.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of about RMB168 billion
+as of March 31, 2019.
+
+• Debt maturity of RMB73 billion due in the 12
+months ending March 31, 2020.
+
+• Funds from operations of about RMB160 billion in
+the 12 months ending March 31, 2020.
+
+• Working capital outflow of RMB5 billion during that
+time.
+• Capex of RMB136 billion over that period.
+• Dividend payments of RMB52 billion during the
+same period.
+
+Debt maturities
+Table 3
+
+China Petroleum & Chemical Corp.--Debt Maturities
+Debt due in
+
+Amount (Mil. RMB)
+
+2019
+
+61,127.0
+
+Beyond 2019
+
+103,000.0
+
+Total
+
+164,127.0
+
+RMB--Chinese renminbi.
+
+Covenant Analysis
+Sinopec Corp. does not have any major financial covenants in its bank loans and other borrowings.
+
+Environmental, Social, And Governance
+
+As one of China's three NOCs, Sinopec Corp. is responsible for meeting environmental protection targets set by the
+Chinese government. Sinopec Corp. announced its Green Corporate Action Plan in April 2018, with the aim of
+making the company a "clean, efficient, low-carbon, and recycling" green corporation by 2023. Specific targets
+include energy conservation of 6 million tons of standard coal and an 18% reduction in sulfur dioxide. Sinopec
+Corp. has not experienced very severe environmental issues since an oil pipeline exploded in Shandong province
+in late 2013 because of a leak. There have been fires at refineries but the financial impact has been insignificant.
+The company spent RMB7.9 billion (about US$1.2 billion) on environmental protection in 2017. It also supplied the
+Chinese domestic market with national standard (NS) V (equivalent to Euro V) gasoline and diesel in 2017 and NS
+VI in 28 cities in northern China from September 2017 as required by the government. At the same time, Sinopec
+Corp. is promoting and developing biojet fuel and biodiesel in China. Sinopec's biojet fuel was put into commercial
+use in 2017 and its B5 biodiesel was launched in Shanghai in October 2017.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+China Petroleum & Chemical Corp.
+
+Government Influence
+Sinopec Corp. is the core and most valuable operating subsidiary of Sinopec Group, which is one of the three NOCs in
+China fully owned by the government. We see an extremely high likelihood of extraordinary support from the Chinese
+government directly to the company. Our view is based on the following assessments:
+• Critical role to the government: Sinopec Corp. plays a key role in ensuring a secured supply of energy to meet
+growing domestic demand. Limited private ownership in the oil and gas industry in China solidifies the company's
+critical role.
+• Very strong link with the government: The Chinese government owns 100% of Sinopec Group through the
+State-owned Assets Supervision and Administration Commission (SASAC). Sinopec Group controlled about 68.31%
+of Sinopec Corp. as of Dec. 31, 2018. We believe the government is able to exert a strong influence on the
+company's strategy through the appointment of its senior executives and constant surveillance.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of Dec. 31, 2018, Sinopec Corp.'s capital structure consisted of about RMB154.6 billion in senior unsecured debt
+issued by Sinopec Corp., of which RMB51.4 billion was issued at the subsidiary level.
+
+Analytical conclusions
+We rate the senior unsecured debt issued by Sinopec Corp. at 'A+', which is the same as our long-term issuer credit
+rating on the company. This reflects our view that the company's capital structure does not constitute material
+subordination risk because priority debt does not exceed our threshold of 50% of consolidated total debt.
+With its extremely high likelihood of extraordinary government support, we believe the government is willing and able
+to intervene so that structurally subordinated lenders would not have poorer recovery prospects than structurally
+senior lenders in case of financial distress.
+
+Reconciliation
+Table 4
+
+Reconciliation Of China Petroleum & Chemical Corp. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-China Petroleum & Chemical Corp. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+717,284.0
+
+198,512.0
+
+82,264.0
+
+5,883.0
+
+228,356.5
+
+175,868.0
+
+--
+
+--
+
+--
+
+--
+
+(33,073.0)
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+154,654.0
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+China Petroleum & Chemical Corp.
+
+Table 4
+
+Reconciliation Of China Petroleum & Chemical Corp. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB) (cont.)
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(5,984.0)
+
+--
+
+163,178.8
+
+--
+
+13,369.5
+
+9,964.2
+
+9,964.2
+
+(9,964.2)
+
+3,405.3
+
+(144,560.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+493.0
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+4,394.0
+
+--
+
+--
+
+--
+
+--
+
+31,505.3
+
+--
+
+--
+
+--
+
+1,438.0
+
+--
+
+--
+
+Exploration costs
+
+--
+
+--
+
+10,744.0
+
+--
+
+--
+
+(10,744.0)
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+23,571.0
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+10,546.0
+
+Noncontrolling
+interest/minority interest
+
+--
+
+139,251.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA - Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+1,526.0
+
+1,526.0
+
+--
+
+--
+
+--
+
+EBITDA - Other
+
+--
+
+--
+
+(189.0)
+
+(189.0)
+
+--
+
+--
+
+--
+
+D&A - Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+6,281.0
+
+--
+
+--
+
+--
+
+50,123.8
+
+139,251.0
+
+29,844.5
+
+41,153.2
+
+11,895.2
+
+(59,765.2)
+
+13,951.3
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+168,591.2
+
+189,819.3
+
+Operating leases
+Accessible cash & liquid
+investments
+
+Asset retirement
+obligations
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+204,777.8
+
+856,535.0
+
+228,356.5
+
+123,417.2
+
+17,778.2
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+Foreign Currency: A+/Stable/--
+
+Business risk: Strong
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+China Petroleum & Chemical Corp.
+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : a+
+
+• Likelihood of government support: Extremely high (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Oil And Gas Exploration And Production Industry,
+Dec. 12, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology For Crude Oil And Natural Gas Price Assumptions For Corporates And Sovereigns,
+Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+China Petroleum & Chemical Corp.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+China Petroleum & Chemical Corp.
+Issuer Credit Rating
+Foreign Currency
+
+A+/Stable/--
+
+Issuer Credit Ratings History
+22-Sep-2017
+
+Foreign Currency
+
+A+/Stable/--
+
+13-Apr-2017
+
+AA-/Negative/--
+
+01-Apr-2016
+
+A+/Negative/--
+
+25-Jan-2016
+
+A+/Stable/--
+
+30-Sep-2014
+
+AA-/Stable/--
+
+Related Entities
+China Petrochemical Corp.
+Issuer Credit Rating
+
+A+/Stable/A-1
+
+Sinopec Century Bright Capital Investment Ltd.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Sinopec Insurance Ltd.
+Financial Strength Rating
+Local Currency
+
+A+/Stable/--
+
+Issuer Credit Rating
+Local Currency
+
+A+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 18
+
+
