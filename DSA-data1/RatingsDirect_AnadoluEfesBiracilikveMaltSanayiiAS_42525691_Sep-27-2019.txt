@@ -1,0 +1,1505 @@
+Anadolu Efes Biracilik ve Malt Sanayii
+AS
+Primary Credit Analyst:
+Maxime Puget, Paris (33) 1-4075-2577; maxime.puget@spglobal.com
+Secondary Contact:
+Nicolas Baudouin, Paris (33) 1-4420-6672; nicolas.baudouin@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Rating Above The Sovereign
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+A balanced portfolio of beer and soft drinks, supported by
+well-known beverage brands.
+
+Large presence in high-risk countries like Turkey, Russia, and Pakistan.
+
+Leading positions and strengthened presence in the Russian beer
+market.
+
+Debt levels, mostly in hard currencies, exposed to volatile
+currency-exchange movements.
+
+Improved geographical diversity, with most earnings from outside
+Turkey.
+
+Sustained decline in profitability in the Turkish beer operations.
+
+Long track record of positive free operating cash flow (FOCF).
+
+High financing costs in Turkey.
+
+Debt to EBITDA contained at 2.0x-2.3x by a disciplined financial
+policy.
+
+The Anheuser-Busch InBev SA/NV deal in Russia is credit positive. S&P Global Ratings views positively Anadolu Efes
+Biracilik ve Malt Sanayii AS' (AEFES') beer joint venture with Belgium-based Anheuser-Busch InBev SA/NV in Russia
+and Ukraine, which started in 2018. AEFES is now co-leader in this region, head to head with Carlsberg (not rated), has
+a strong portfolio of brands, and a large footprint. The Anheuser-Busch InBev partnership also furthers earnings
+diversification outside Turkey, taking into account that beer has higher profitability then soft drinks and that
+profitability in Turkey beer has been declining.
+The expansion strategy is likely to remain prudent.AEFES' ventures into new territories via a Coke license are limited
+because they would depend on a decision from The Coca-Cola Company (A+/Stable/A-1). That said, AEFES could
+grow through bolt-on acquisitions of local brands. We think it is unlikely that AEFES would acquire a significant beer
+player in its current market-leading status. We think its joint venture with Anheuser-Busch InBev in Russia and Ukraine
+effectively mitigates operational risks in these large territories.
+Group profitability should gradually stabilize by 2020. The decreasing operating margin in the Turkish beer market
+due to unfavorable economic conditions will likely continue to weigh on AEFES' profitability. We also think
+profitability should remain flat to slightly negative in soft drinks due to less favorable market conditions in Turkey and
+Pakistan. That said, the operating margin in international beer, notably Russia, should increase thanks to economies of
+scale, cost synergies, and a larger product portfolio with more premium offering.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Outlook: Stable
+
+The stable outlook on AEFES reflects our view that the group should be able to continue generating stable free
+operating cash flow (FOCF) and maintain moderate debt leverage over the next two years, despite the difficult
+macroeconomic conditions in Turkey.
+The business should remain supported by the positive volume growth prospects in the soft drinks market, its larger
+scale, and market position in the Russian beer market following the tie-up with Anheuser-Busch InBev, and its
+focus on cost controls in Turkey to offset high foreign exchange volatility and continued volume decline in the beer
+market.
+We also believe that, given the volatile operating environment in Turkey, AEFES is likely to maintain a prudent
+financial policy toward debt-financed acquisitions and shareholder remuneration.
+We believe AEFES should maintain adjusted debt to EBITDA well within 2x-3x and funds from operations (FFO)
+to debt of 30%-45%, is in line with the current rating.
+
+Downside scenario
+We could take a negative rating action if we saw a weakening operating performance over the next two years. This
+could arise from a decrease in volume growth in soft drinks combined with a decline in volume growth and
+profitability in beer in Russia. Slowing growth in soft drinks could come from slowing demand in large markets
+such as Pakistan, and price pressure from competitors. A setback in volumes and profitability from beer operations
+in Russia could arise from negative consumption trends and pricing pressures, together with an inability to achieve
+planned cost synergies.
+We could also take a negative rating action if adjusted debt to EBITDA rose on a sustained basis to between
+2.5x-3.0x and funds from operations (FFO) to debt declined to about 30%. This could come from AEFES' inability
+to manage cash flow generation and debt leverage in the current high currency-exchange volatility in Turkey, or it
+could reflect a more aggressive financial policy.
+We would lower the ratings if we lowered the foreign currency rating on Turkey to 'B' from 'B+'. We would also
+view negatively a weakening of AEFES' liquidity position, for example due to a lower share of hard
+currency-denominated cash balances and cash flow generation.
+
+Upside scenario
+An upgrade appears remote at this time given that we already rate AEFES four notches above our 'B+' foreign
+currency sovereign rating on Turkey. This is the maximum allowed under our criteria.
+We also note that AEFES continues to experience operational challenges in Turkey, notably in the beer operations,
+which faces volume decline and lower profitability.
+We think it likely that the group's cash flow generation and debt metrics will continue to face high foreign currency
+volatility over at least the next 12 months, which does not support the case for improved credit metrics compared
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+to 2017.
+
+Our Base-Case Scenario
+Assumptions
+
+• We assume the Turkish economy will contract by
+0.5% in 2019 but rebound to +3.0% in 2020. We
+assume the Turkish lira (TRY) to weaken slightly
+against U.S. dollar in 2019 and 2020.
+• Revenue growth of about 20% in 2019 and about
+10%-15% in 2020. This is mostly due to high price
+inflation in Turkey despite volume decline due to
+affordability pressures, positive currency exchange,
+price increases, and higher volumes in international
+beer based on the wider product offering, relatively
+high price inflation (Turkey and Pakistan) but
+low-single-digit volume growth in soft drinks.
+
+Key Metrics
+
+2018a
+FFO/debt (%)
+Adjusted debt/EBITDA (x)
+FOCF/debt (%)
+
+2019e
+
+2020e
+
+38.3 30.0-35.0
+
+30.0-35
+
+1.9
+
+2.0-2.3
+
+1.9-2.3
+
+17.1 10.0-15.0 10.0-15.0
+
+a--Actual. e—Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Adjusted EBITDA margin of about 15.0%-16.0%,
+derived mostly from the large and increasing share
+of earnings from soft drinks (which is lower margin
+than beer), higher margin in international beer
+thanks to cost synergies and product range and
+lower profitability in beer in Turkey due to higher
+raw materials costs and currency-exchange
+movements despite strong hedging coverage.
+• FFO of about TRY2.2 billion-TRY2.7 billion, driven
+by a higher EBITDA, offset by higher interest
+expenses.
+• FOCF of about TRY850 million-TRY950 million
+annually, assuming capital expenditure (capex) of
+8.5% of revenue.
+• Adjusted net debt of about TRY7 billion-TRY8
+billion, assuming negative transaction effects from
+the large level of debt in U.S. dollars and euros,
+annual cash dividends of TRY300 million-TRY400
+million, but no acquisitions. We evaluate restricted
+cash at about TRY950 million at Dec. 31, 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Base-Case Assumptions
+Long track record of positive free cash flow. Despite some pressure on profitability, high financing costs in lira, and
+taking into account the working capital and capex intensity of the business, AEFES has developed a sound track record
+of generating positive FOCF over the past five years. For the coming two years, we forecast AEFES will generate
+about TRY850 million-TRY950 million annually, slightly lower than in 2018 due to higher interest costs.
+Disciplined financial policy supports debt leverage of about 2.0x-2.3x. AEFES has been very prudent in recent years
+regarding debt-financed acquisitions. We note that the recent link-up with Anheuser-Busch InBev in Russia and
+Ukraine did not weigh on AEFES' credit quality, thanks to limited cash outflows or new debt being issued. Dividends
+have often been cut (as we observed in 2016 and 2019) or suspended (2014) when the group had to conserve cash.
+
+Company Description
+AEFES is a beer and soft drinks bottling group based in Turkey. The group owns and operates 21 breweries and 26 soft
+drinks bottling plants across 16 countries. In 2018, AEFES generated revenues of TRY18.7 billion (approximately €3.1
+billion) and adjusted EBITDA of TRY2.9 billion (about €480 million). Beer volume sales amounted to 31.8 million
+hectoliters (pro forma) in 2018; soft drinks volumes sales, to 1,315 million unit cases.
+AEFES is 43% owned by Anadolu Group Holding, a Turkish conglomerate, and 24% owned by AB InBev Harmony
+Ltd., a holding company 100% owned by Anheuser-Busch InBev S.A./N.V. (A-/Negative/A-2). The remaining 33% of
+AEFES' shares are free float on Borsa Istanbul.
+We believe that AEFES benefits from a supportive corporate governance structure and good transparency in terms of
+financial disclosure.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Chart 1
+
+Chart 2
+
+Based on 2018 pro forma figures, beer operations accounted for 43% of group revenue and 40% of group EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+There are two main beer businesses: Turkey (AEFES' home market), and international operations (through
+Netherlands-based subsidiary EBI). The beer operations encompass Russia, Kazakhstan, Ukraine, Georgia, and
+Moldova. Russia is now the group's largest beer market, ahead of Turkey.
+In 2018, soft drinks accounted for 57% of the group's revenue and 60% of its reported EBITDA. The soft drinks
+business is run by Coca-Cola Icecek (CCI), a separate legal entity that is also listed, in which AEFES holds a majority
+50.3% stake. CCI's other main shareholder is The Coca-Cola Company (A+/Stable/A-1), with 20% of shares. Free float
+shares account for 26.7% of the total. CCI is the sixth-largest Coca-Cola bottler worldwide by volume and covers
+Turkey, Pakistan, Central Asia, and part of the Middle East.
+
+Business Risk: Satisfactory
+AEFES' business model benefits from the low cyclicality of beverage manufacturing. The portfolio is overall well
+balanced between soft drinks operations, which are steady but lower-margin (38.5% gross margin in H1 2019), and the
+more volatile but higher-margin beer business (34% gross margin in first-half 2019).
+AEFES holds leading positions in several large consumer markets (notably Turkey, Russia, and Pakistan). In the beer
+segment, the group remains clear market leader in Turkey (60% market share by volume in 2018), and is the co-leader
+in Russia, the world's fifth-largest beer market, with 29% market share. The group is also the No. 1 player in beer in a
+number of countries in Central Asia (notably Kazakhstan).
+Its affiliate CCI is the largest soft drinks bottler in Turkey (65% market share by sales volume) and is No. 2 in Pakistan
+(42% market share) behind PepsiCo Inc. (A+/Stable/A-1). We continue to think that volume sales growth prospects
+appear stronger in soft drinks than in beer given the large, underpenetrated markets and lower level of regulation
+compared with alcoholic beverages. Revenue visibility is supported by the 10-year extension on the bottling agreement
+with The Coca-Cola Company signed in 2017.
+The group benefits from a portfolio of over 100 own or licensed international and local beverage brands (including
+Coca-Cola, Fanta, Sprite, Efes, Bud, and Kozel), which enables it to maintain a price premium in most markets. In
+Russia, where the beer market has been stabilizing after years of decline, the group strategically uses its high-end
+brands to expand in the higher-margin premium beer market and stabilize profitability.
+AEFES has strengthened its market position in Russia and Ukraine following the combination of its beer operations
+with those of Anheuser-Busch InBev in April 2018. We estimate that Russia now accounts for the majority of revenue
+and earnings in beer, sailing ahead of Turkey. The joint venture is a solid player, with 29% market share in value in
+2018, and is now on par with Carlsberg's 29% market share. We believe earnings growth in 2019-2020 should benefit
+from cost synergies in production, sales, and distribution. It should also benefit from stronger pricing power thanks to
+its larger range of premium brands in the portfolio. We think this should compensate for what we see as a lack of
+long-term volume growth prospects in Russia.
+Business weaknesses include large exposures to Turkey, Russia, and Pakistan, which carry a high operating risk. We
+view positively that following the Anheuser-Busch joint venture, AEFES' country exposure to Turkey has decreased to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+about 30%-35% of EBITDA versus 45% in 2017. We believe this somewhat mitigates the impact of the sharp
+devaluation of the lira and weak consumer trends in Turkey.
+In our view, volume growth prospects in the Turkish beer market remain constrained by the higher excise taxes, strict
+regulation, and lower consumer affordability despite improved tourism inflow. We also note higher level of
+competition. AEFES has responded by reorganizing its production and distribution, and repositioning its product
+portfolio toward value products.
+The Russian beer market rebounded last year thanks to the FIFA World Cup and continues to grow in 2019. AEFES's
+market share has risen to close to 30%, but the group faces price pressure from retailers and competitors. Also the risk
+of higher excise tax rises and stricter regulations like restrictions on PET plastic bottles will likely persist, constraining
+growth prospects in Russia.
+AEFES is exposed to volatile commodity costs (such as barley, resins, aluminum, and sugar), some of which are priced
+in U.S. dollars. Raw material costs will thus increase in 2019-2020, especially in Turkey. However, this should be partly
+contained with the large hedging coverage and ability to raise prices to protect margins. That said, strong price rises
+can hinder volume sales.
+Finally, we see the business as relatively capital-intensive due to the level of capex (8.5% of revenue). In addition, there
+are some large swings in working capital throughout the year because of the inventory build-up in preparation for the
+summer selling season.
+
+Peer comparison
+We compare AEFES with Saudi Arabia-based food and beverage producer Almarai Company (BBB-/Stable/A-3),
+Turkey-based appliances manufacturer Arcelik A.S. (BB+/Negative/--), and Switzerland-based soft drinks bottler
+Coca-Cola HBC (AG).
+Almarai has similar revenue and free cash flow base compared with AEFES. However, the business is more diversified
+owing to the Saudi company's divisions in dairy products, baked goods, poultry, and juices. Also, Almarai's profitability
+is much higher, with EBITDA margin of about 30% versus AEFES' 15%-16%. That said, revenue growth prospects
+have receded for Almarai, which has flat revenue growth, and it is geographically concentrated to Saudi Arabia, where
+it generates two-thirds of its revenue, and small countries in the Gulf Cooperation Council. Furthermore, Almarai is
+more leveraged, with S&P Global Ratings-adjusted debt to EBITDA of more than 3x, against about 2x for AEFES, due
+to its large capex program in the past.
+CCH is bigger than AEFES by revenue and EBITDA base due to the large production and distribution scale across
+parts of Europe, Russia, and Nigeria. Profitability levels are similar to the soft drinks operations of CCI (subsidiary of
+AEFES). CCH results can also suffer from the high foreign exchange volatility in high-risk countries like Nigeria and
+Russia, are two of its largest markets. That said, overall CCH has good geographical diversity in mature European
+markets like Italy or Poland. Debt leverage was very low in 2018 but we forecast it to increase to about 2.0x in 2019
+due to increasing shareholder remuneration.
+Like AEFES, Arcelik is a Turkey-based consumer group and has similar revenue and EBITDA base to AEFES. Arcelik
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+also has a significant portion of its debt in hard currencies. Arcelik operates in a less profitable consumer segment than
+bottling with a larger working capital intensity due to the dealership network in Turkey. Arcelik has more exposure to
+Western Europe, which generates a significant amount of earnings in hard currency. Still, its credit metrics are weaker
+than those of AEFES. In particular, we note our estimate of Arcelik's EBITDA interest coverage of 2.0x-2.5x in 2019
+due to the large amount of lira-denominated debt bearing high interest rate, that helps fund the working capital.
+Table 1
+
+Anadolu Efes Biracilik ve Malt Sanayii AS -- Peer Comparison
+Industry Sector: Beverages
+Anadolu Efes Biracilik ve Malt
+Sanayii AS
+
+Arcelik A.S.
+
+Almarai Company
+
+Coca-Cola HBC AG
+
+BBB-/Stable/--
+
+BB+/Negative/--
+
+BBB-/Stable/A-3
+
+BBB+/Stable/A-2
+
+Ratings as of Aug. 21, 2019
+
+--Fiscal year ended Dec. 31, 2018-(Mil. €)
+Revenue
+
+3,082.9
+
+4,438.0
+
+3,195.1
+
+6,657.1
+
+EBITDA
+
+481.4
+
+467.0
+
+1,000.3
+
+1,029.3
+
+Funds from operations (FFO)
+
+358.4
+
+309.1
+
+876.8
+
+863.1
+
+Interest expense
+
+93.0
+
+170.7
+
+115.3
+
+59.3
+
+Cash interest paid
+
+92.1
+
+140.5
+
+118.1
+
+49.7
+
+Cash flow from operations
+
+423.0
+
+162.3
+
+581.0
+
+800.7
+
+Capital expenditure
+
+265.6
+
+296.5
+
+456.0
+
+438.7
+
+Free operating cash flow
+(FOCF)
+
+157.4
+
+(134.2)
+
+125.0
+
+362.0
+
+94.3
+
+(205.9)
+
+(101.0)
+
+135.2
+
+790.3
+
+881.1
+
+275.4
+
+887.8
+
+Discretionary cash flow (DCF)
+Cash and short-term
+investments
+Debt
+
+943.9
+
+1,218.5
+
+3,129.7
+
+908.9
+
+3,519.1
+
+1,355.8
+
+3,379.7
+
+3,116.4
+
+EBITDA margin (%)
+
+15.6
+
+10.5
+
+31.3
+
+15.5
+
+Return on capital (%)
+
+7.7
+
+15.3
+
+7.7
+
+16.6
+
+EBITDA interest coverage (x)
+
+5.2
+
+2.7
+
+8.7
+
+17.4
+
+FFO cash interest coverage (x)
+
+4.9
+
+3.2
+
+8.4
+
+18.4
+
+Debt/EBITDA (x)
+
+2.0
+
+2.6
+
+3.1
+
+0.9
+
+FFO/debt (%)
+
+38.0
+
+25.4
+
+28.0
+
+95.0
+
+Cash flow from
+operations/debt (%)
+
+44.8
+
+13.3
+
+18.6
+
+88.1
+
+FOCF/debt (%)
+
+16.7
+
+(11.0)
+
+4.0
+
+39.8
+
+DCF/debt (%)
+
+10.0
+
+(16.9)
+
+(3.2)
+
+14.9
+
+Equity
+Adjusted ratios
+
+Financial Risk: Intermediate
+AEFES' financial position is supported by its strong track record of positive FOCF, moderate debt leverage, and limited
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+refinancing risks over the next three years. In our view, this offsets the large translational currency-exchange volatility
+affecting its mostly U.S. dollar-denominated debt.
+For 2019-2020, we forecast AEFES to generate free cash flow of about TRY800 million-TRY925 million annually,
+driven mostly by higher earnings from the international beer segment (notably from the Anheuser-Busch InBev joint
+venture and slightly higher earnings in soft drinks offset by flat earnings from the beer operations in Turkey. We also
+account for higher interest expenses in countries like Turkey and rising capex of about TRY2 billion annually. We note
+that working capital has tightened in both the beer and soft drinks businesses, supporting internal cash flows. Capex
+should increase slightly, with expansion capex mostly at CCI level in countries like Pakistan.
+Despite our assumption that the profitability of beer operations in Turkey will continue to decline in 2019-2020, due
+notably to adverse currency-exchange movements, we believe that the cash flow profile is now better diversified. We
+estimate that the Turkey operations (beer and soft drinks) now generates about 30%-35% of the group EBITDA while
+the international beer operations (Russia, Ukraine, and Central Asia) equally generate about 30%-35% of group
+EBITDA. The rest being the soft drinks business in Pakistan and other territories outside Turkey. In the international
+beer revenues are mostly in local currencies (the largest being the Russian ruble) but cash balances are then partly
+converted to U.S. dollars and held outside Turkey.
+We forecast credit metrics to weaken slightly in 2019 versus 2018 and stabilize in 2020. Negative currency-exchange
+movements due to the weak lira is the main reason. At end-June 2019, AEFES had 85% of its debt denominated in U.S.
+dollars and euros, while about 30%-35% its EBITDA is generated in Turkey in local currency. We also note that the
+ruble has been steady versus hard currencies but that foreign exchange risk could also materialize on earnings from
+Central Asian markets and Pakistan. In our base case, we see adjusted debt leverage rising to 2.0x-2.2x in 2019 (versus
+1.9x in 2018) and FFO to debt lowering to 30%-35% (versus 38% in 2017).
+Near-term refinancing risks appear limited with only the $500 million of senior notes in November 2022 at AEFES level
+being significant. We also note that both the beer and soft drinks operations, which are managed autonomously, are
+free cash flow positive. Interest-rate risk is limited by more than 80% of the debt being fixed or hedged.
+We view positively AEFES' very prudent financial policy on acquisitions and its stable but flexible dividend policy. In a
+challenging environment in Turkey, AEFES has protected its financial ratios by lowering its dividend in 2019 compared
+with 2018. This is in line with past measures, such as a dividend freeze in 2014 and cutting dividends in half in 2016.
+
+Financial summary
+Table 2
+
+Anadolu Efes Biracilik ve Malt Sanayii AS -- Financial Summary
+Industry Sector: Beverages
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+18,689.7
+
+12,946.9
+
+10,420.3
+
+10,205.1
+
+10,079.1
+
+EBITDA
+
+2,918.3
+
+2,216.0
+
+1,776.3
+
+1,713.3
+
+1,730.4
+
+Funds from operations (FFO)
+
+2,172.7
+
+1,855.3
+
+1,475.1
+
+1,386.0
+
+1,377.8
+
+(Mil. TRY)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Table 2
+
+Anadolu Efes Biracilik ve Malt Sanayii AS -- Financial Summary (cont.)
+Interest expense
+
+563.7
+
+Cash interest paid
+
+275.8
+
+219.2
+
+227.0
+
+203.2
+
+558.6
+
+244.0
+
+208.7
+
+215.0
+
+194.9
+
+Cash flow from operations
+
+2,564.6
+
+2,106.7
+
+1,787.2
+
+1,733.7
+
+1,500.3
+
+Capital expenditure
+
+1,610.2
+
+836.6
+
+761.1
+
+1,092.1
+
+1,045.8
+
+Free operating cash flow (FOCF)
+
+954.4
+
+1,270.1
+
+1,026.1
+
+641.7
+
+454.5
+
+Discretionary cash flow (DCF)
+
+571.9
+
+1,076.3
+
+865.4
+
+319.3
+
+412.2
+
+Cash and short-term investments
+
+4,791.2
+
+5,498.2
+
+2,756.3
+
+1,891.6
+
+1,562.5
+
+Gross available cash
+
+4,791.2
+
+5,498.2
+
+2,756.3
+
+1,891.6
+
+1,565.5
+
+Debt
+
+5,722.2
+
+4,664.1
+
+3,889.3
+
+3,856.7
+
+3,276.3
+
+21,334.0
+
+15,826.9
+
+14,817.0
+
+12,573.5
+
+11,823.9
+
+EBITDA margin (%)
+
+15.6
+
+17.1
+
+17.0
+
+16.8
+
+17.2
+
+Return on capital (%)
+
+7.7
+
+7.0
+
+5.1
+
+6.3
+
+2.8
+
+EBITDA interest coverage (x)
+
+5.2
+
+8.0
+
+8.1
+
+7.5
+
+8.5
+
+FFO cash interest coverage (x)
+
+4.9
+
+8.6
+
+8.1
+
+7.4
+
+8.1
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+2.0
+
+2.1
+
+2.2
+
+2.3
+
+1.9
+
+FFO/debt (%)
+
+38.0
+
+39.8
+
+37.9
+
+35.9
+
+42.1
+
+Cash flow from operations/debt (%)
+
+44.8
+
+45.2
+
+46.0
+
+45.0
+
+45.8
+
+FOCF/debt (%)
+
+16.7
+
+27.2
+
+26.4
+
+16.6
+
+13.9
+
+DCF/debt (%)
+
+10.0
+
+23.1
+
+22.3
+
+8.3
+
+12.6
+
+TRY--Turkish lira.
+
+Liquidity: Adequate
+We assess AEFES' liquidity as adequate. We forecast that the ratio of liquidity sources to uses will exceed 1.2x over the
+next 12 months.
+We note that both the beer and the soft drinks businesses are free cash flow positive and can thereby service their own
+debt independently. In addition, AEFES maintains large cash balances in hard currencies (67% of total cash at
+June-end 2019) to match operating needs for raw materials and upcoming debt maturities, as 84% of the debt at
+June-end 2019 is in USD or EUR. We also note that the majority of cash balances are held outside Turkey. The next
+large debt maturity (greater than 20% of total debt) being the $500 million senior notes of AEFES due November 2022.
+We also factor into our liquidity assessment the group's well-established relationships with a large pool of local and
+international banks, prudent risk management, and broadly satisfactory standing in the credit markets as demonstrated
+by the recent bond issuance at CCI's level. We note that AEFES and CCI had significant headroom (more than 30%)
+under their financial covenants on June 30, 2019.
+AEFES has no long-term undrawn committed credit lines, but has access to uncommitted undrawn credit lines from
+various banks. We understand that this is market practice in Turkey and that AEFES has been able to draw under these
+credit lines to meet its short-term funding needs.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balances and short-term investments of
+TRY4.8 billion on June 30, 2019.
+
+• Debt repayments of TRY3.2 billion within one year
+from June 30, 2019. About TRY460 million at the
+debt due are shareholder loans to Anheuser-Busch
+InBev.
+
+• Our forecast of cash FFO of about TRY2.8 billion in
+the next 12 months.
+
+• Our estimate of maintenance capex of about TRY1.3
+billion in the next 12 months.
+• Our forecast of cash dividends of about TRY300
+million in the next 12 months.
+
+Debt maturities
+As at June 30, 2019 (mil. US$):
+• 2019: 325
+• 2020: 222
+• 2021: 16
+• 2022: 519 (including $500 million of senior notes issued by Anadolu Efes)
+• 2023 and after: 663
+
+Covenant Analysis
+Compliance expectations
+AEFES and affiliate CCI have significant (greater than 30%) headroom under their respective financial covenants.
+
+Requirements
+CCI has two maintenance financial covenants: Maximum net debt to EBITDA less than 3.25x (was 1.67x at June-end
+2019) and net interest coverage greater than 4x (was at 9.8x at June-end 2019).
+AEFES has only maintenance financial covenants (debt leverage on subsidiary EBI and interest coverage) on a small
+bank loan maturing early 2020.
+
+Rating Above The Sovereign
+We rate AEFES four notches above our 'B+' foreign currency sovereign credit rating on Turkey, which is the maximum
+allowed under our criteria, and above our 'BB-' transfer and convertibility assessment on Turkey. The hypothetical
+scenario of sovereign default assumes a 50% devaluation of the Turkish lira against hard currencies. We believe that
+AEFES will be able to meet its debt obligations in such a stress scenario.
+In our analysis, we take into account that AEFES operates in the beverages manufacturing sector, which we consider
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+has moderate sensitivity to country risk. We note that the business is relatively noncyclical, AEFES does not depend
+on government contracts or subsidies, and the group is free to price its products in Turkey.
+In addition, AEFES maintains large cash balances in hard currencies (67% at end-June 2019) at all times, holding most
+of its cash outside Turkey. We also estimate that the group now generates 70%-75% of its EBITDA from outside
+Turkey. There are no large debt maturities (greater than 20% of total debt) until 2022. Liquidity sources sufficiently
+cover short-term debt, working capital, and capex needs under a stressed economic scenario reflecting a hypothetical
+sovereign default.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Most of the debt is senior unsecured and held at holding companies level: Either Anadolu Efes (beer business) or at
+Coca-Cola Icecek A.S. (soft drinks business). We note that the interest on AEFES' $500 million senior notes due
+November 2022 is serviced mostly by the positive cash flows from the beer operations and by the dividends received
+from affiliate holding company Coca-Cola Icecek A.S. (not rated).
+
+Analytical conclusions
+We rate AEFES' long-term senior unsecured notes issued 'BBB-', in line with the issuer credit rating. This is because we
+see limited structural subordination in the capital structure.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Anadolu Efes Biracilik ve Malt Sanayii AS Reported Amounts With S&P Global Ratings'
+Adjusted Amounts (Mil. TRY)
+--Fiscal year ended Dec. 31, 2018-Anadolu Efes Biracilik ve Malt Sanayii AS reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+11,278.7
+
+2,903.7
+
+1,606.0
+
+555.8
+
+2,918.3
+
+2,818.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(187.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(552.7)
+
+--
+
+Operating leases
+
+79.3
+
+--
+
+12.6
+
+6.0
+
+6.0
+
+(6.0)
+
+6.7
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+90.5
+
+--
+
+2.0
+
+2.0
+
+2.0
+
+--
+
+--
+
+(3,842.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+214.2
+
+--
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+9,228.7
+
+Cash taxes paid
+Cash interest paid
+
+Cash flow
+from
+operations
+
+S&P Global Ratings'
+adjustments
+
+Accessible cash and liquid
+investments
+Nonoperating income
+(expense)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Table 3
+
+Reconciliation Of Anadolu Efes Biracilik ve Malt Sanayii AS Reported Amounts With S&P Global Ratings'
+Adjusted Amounts (Mil. TRY) (cont.)
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(260.3)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+10,055.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: foreign currency
+hedges
+
+(44.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: put options on
+minority stakes
+
+210.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Total adjustments
+
+(3,506.5)
+
+10,055.3
+
+14.6
+
+222.1
+
+7.9
+
+(745.7)
+
+(253.7)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+2,172.7
+
+2,564.6
+
+S&P Global Ratings'
+adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+5,722.2
+
+21,334.0
+
+2,918.3
+
+1,828.0
+
+563.7
+
+TRY--Turkish lira
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Moderately high
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Related Criteria
+• Criteria - Corporates - Industrials: Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 01 2019
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, July 01, 2019
+• General Criteria: Ratings Above The Sovereign--Corporate And Government Ratings: Methodology And
+Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 24, 2019)*
+Anadolu Efes Biracilik ve Malt Sanayii AS
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Senior Unsecured
+
+BBB-
+
+Issuer Credit Ratings History
+14-Jun-2012
+
+BBB-/Stable/--
+
+24-May-2011
+
+BB+/Positive/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+Anadolu Efes Biracilik ve Malt Sanayii AS
+
+Ratings Detail (As Of September 24, 2019)*(cont.)
+22-Jun-2010
+
+BB/Positive/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 18
+
+

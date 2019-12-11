@@ -1,0 +1,1561 @@
+Central China Real Estate Ltd.
+Primary Credit Analyst:
+Esther Liu, Hong Kong (852) 2533-3556; esther.liu@spglobal.com
+Secondary Contact:
+Ricky Tsang, Hong Kong (852) 2533-3575; ricky.tsang@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 1
+
+Central China Real Estate Ltd.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b+
+
+b+
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Near-doubling of scale owing to strong market position and good
+brand recognition in home market.
+
+High geographical concentration with nearly all projects located in one
+province.
+
+Strong cash position and adequate liquidity.
+
+Increasing use of jointly controlled entity (JCE) structures and guarantees
+lowers consolidated financial transparency.
+High leverage but gradually improving.
+
+Robust sales and market share growth affirm Central China Real Estate Ltd.'s (CCRE) position as the largest developer
+in Henan. CCRE's total contracted sales increased 77% to Chinese renminbi (RMB) 53.7 billion in 2018, achieving
+119% of its target. The company has over RMB100 billion in saleable resources, which should ensure continued sales
+growth to RMB63.5 billion in 2019. In the first half of 2019, the company's contracted sales reached RMB27.7 billion,
+which is 43.6% of its full-year sales target. That said, we expect growth to ease to 10%-15%, in line with slower market
+growth. CCRE's sales rose 9.2% year-on-year in January-June 2019. We believe the company will meet its contracted
+sales target comfortably as the targeted sell-through rate is only 49%, compared with over 75% in the last two years.
+We also expect the attributable ratio to remain at 70%-75% in the next one to two years, compared with 72% in 2018.
+CCRE is the largest developer in Henan, having increased its market share to 10.7% in the first half of 2019, from 5.2%
+in 2017, while continuing to grow its asset-light business.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 2
+
+Central China Real Estate Ltd.
+
+Chart 1
+
+High geographical concentration, though sales mix is becoming more balanced. CCRE's exposure remains concentrated
+in Henan, though it has substantially improved its geographical diversity within the province in the past two years. The
+company now has development projects across 91 cities in Henan, compared with 44 in 2017 and 36 cities in 2016. It
+aims to fully cover all 120 cities within Henan in the coming years. The sales mix has also become more balanced,
+with its top three cities contributing to 45% of total sales in 2018, compared with 64% in 2016. No single city
+accounted for more than 26% of sales.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 3
+
+Central China Real Estate Ltd.
+
+Chart 2
+
+Consolidated and see-through leverage should improve gradually but remain high. Given CCRE's expansion plans, we
+expect its see-through (when joint ventures are proportionally consolidated) debt-to-EBITDA ratio to improve to
+4.5x-5.0x in 2019 and 4.0x-4.5x in 2020, from 6.4x in 2018. This is aided primarily by higher revenue recognition from
+increased sales and controlled debt-funded expansion. We also believe its consolidated leverage will follow a similar
+trend.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 4
+
+Central China Real Estate Ltd.
+
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 5
+
+Central China Real Estate Ltd.
+
+Chart 4
+
+Outlook: Stable
+
+The stable outlook reflects our view that CCRE's financial leverage on our adjusted and proportionally
+consolidated basis will stabilize in the coming 12 months while the company grows its operating scale. We expect
+CCRE to maintain its leading position in Henan as well as its stable sales execution and profitability in the next 12
+months.
+
+Downside scenario
+We could lower the rating if CCRE's debt-to-EBITDA ratio on our proportionally consolidated basis materially
+worsens from our base case of about 6x. This could happen if the company's debt-funded expansion is more
+aggressive than we expect, or project execution is delayed.
+
+Upside scenario
+We could raise the rating if CCRE shows a deleveraging trend, such that its debt-to-EBITDA ratio on our
+proportionally consolidated basis is sustainably below 4x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 6
+
+Central China Real Estate Ltd.
+
+Our Base-Case Scenario
+Assumptions
+
+• China's property residential sales to increase by
+12%-15% in 2019, which is likely driven by a 2%-3%
+growth in gross floor area (GFA) and a 10%-12% rise
+in the average selling price (ASP).
+• CCRE's contracted sales growth to be in line with
+the national rate. Total contracted sales, including
+contributions from joint ventures (JVs), will
+moderately increase to RMB60 billion-RMB66
+billion in 2019 and RMB73 billion-RMB75 billion in
+2020, from RMB53.7 billion in 2018.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+EBITDA margin (%)
+
+21.1
+
+20-22
+
+20-22
+
+Debt-to-EBITDA ratio (consolidated)
+
+7.0x
+
+5.0x-6.0x 4.5x-5.0x
+
+Debt-to-EBITDA ratio (see through)
+
+6.4x
+
+4.5x-5.0x 4.0x-4.5x
+
+*See-through debt-to-EBITDA ratio proportionally
+consolidates debt and EBITDA of JVs and associates,
+which are not included in the consolidated statement,
+netting off guarantees. A--Actual. E--Estimate.
+
+• Sales from JVs to account for 25%-30% of total sales
+in the coming two to three years.
+• EBITDA margin to remain steady at 20%-22% in
+2019 and 2020, mainly because we expect
+high-margin projects sold in 2017-2018 to be
+recognized.
+• Revenue to increase to RMB21 billion-RMB24 billion
+in 2019 and RMB30 billion-RMB34 billion in 2020,
+from RMB14.8 billion in 2018, driven by robust
+contracted sales growth.
+• Land acquisition budget of RMB18 billion-RMB20
+billion over the next two years, which is relatively
+flat compared to RMB17 billion spent in 2018, given
+that CCRE targets controlled and balanced growth.
+• Construction expenditure to increase to RMB20
+billion-RMB23 billion in 2019 and about RMB30
+billion in 2020, largely because of its scalable growth
+in contracted sales.
+
+Base-case projections
+The off-balance-sheet debt at the JV project level will not materially impact CCRE's leverage after proportional
+consolidation. By 2019, we expect CCRE to have attributable debt at the off-balance-sheet JV level of RMB4.8
+billion-RMB5.0 billion and attributable EBITDA of RMB0.7 billion-RMB 0.9 billion. Therefore we believe leverage at
+the JV level will be similar to but slightly lower than that at the consolidated level, consistent with our understanding
+that project-level debt is limited to standard development loans. We also do not expect CCRE to guarantee more than
+its share of debt at the JV level, unlike in the past. In 2017-2018, CCRE's guarantee to JCE was higher than its
+attributable off-balance-sheet debt, which explains the difference between consolidated and see-through leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 7
+
+Central China Real Estate Ltd.
+
+Company Description
+CCRE is a China-based property developer that focuses on residential property development in the Henan province.
+The company is the largest developer in Henan. It has a market share of 9% in 2018, including its asset-light model
+projects. CCRE also has a small presence in cultural tourism projects and hotel operations. It has the longest listing
+history compared to its peers from Henan. The company was founded by Mr. Wu Po Sum in 1992. He owns 74.84% Of
+CCRE's shares after the second-largest shareholder, CapitaLand, sold the shares back to the chairman.
+
+Business Risk: Weak
+CCRE's business strengths include its established market position in Henan, low-cost land bank, improved fast asset
+turnover model, and gradually growing asset-light model. High geographic concentration in one province, rising
+potential counterparty risks associated with high JV exposure, and the high proportion of sales contribution from
+lower-tier cities temper the above strengths.
+We expect CCRE to remain the market leader in Henan and continue to benefit from its strong local knowledge and
+business networks. For instance, CCRE acquired about 2 million square meters (sqm) of land by project acquisition in
+Luoyang, one of CCRE's top five markets, at a reasonable cost, accounting for only 10% of the expected selling price.
+Another example is CCRE's fast-growing asset-light business model, where it lends its branding and execution
+capability to smaller developers. Total planned gross floor area increased significantly to 16.6 million sqm in 2018,
+from 7.1 million sqm in 2016. This would not have been possible without CCRE's established brand name and local
+knowledge.
+We believe CCRE will gradually regain its presence in Zhengzhou, Henan's capital, where housing demand is more
+stable. Zhengzhou, where CCRE bought three pieces of land in the first five months of 2019, accounted for 78% of its
+new land acquisition spent during the same period. Zhengzhou contributed 26% of contracted sales in 2018 and holds
+around 30% of the company's land reserves. This is also in line with the company's strategic alignment of focusing its
+asset-heavy projects only in Zhengzhou, and tier-three and tier-four cities. Its asset-light projects will be targeted for
+lower-tier, county-level cities.
+We believe the new strategy of employing its asset-light model in county-level cities is a good strategic move to
+mitigate risk in such cities, given their less matured markets. In 2018, county-level cities accounted for 30% of
+contracted sales and about 27% of its land bank.
+We expect CCRE's EBITDA margins to be stable at 20%-22% over the next one to two years, after a jump to 21.1% in
+2018 from 17.5% in 2017. This is because recent sales carry better margins; pricing in tier-three and tier-four cities
+have surged. The company's average land cost is RMB1,062 per sqm, accounting for only 15% of the average selling
+price in 2018. This also offers some buffer for the future.
+However, the use of JVs lowers CCRE's financial transparency and visibility from its consolidated figures. We believe
+contributions from JCEs are likely to reach 25%-30% of total contracted sales in the next 12 months, along with the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 8
+
+Central China Real Estate Ltd.
+
+company's geographic shift to enter more tier-three and tier-four cities within Henan. Many of CCRE's JV partners are
+reputable developers while borrowings at the JV level are legally non-recourse, except for guaranteed bank loans
+(about RMB4.9 billion as of end-2018). However, in the event of distress in JV projects, we believe there is a high
+likelihood that partners would have obligations to support their projects and repay the debt. Hence, we continue to
+analyze its see-through leverage ratios.
+In our view, CCRE's strong cash position somewhat offsets its expansion risk. We believe the company's growing
+operating scale, improved fast-churn capability and sales execution, and market leadership in Henan are comparable
+to peers with 'B+' ratings. These factors support CCRE's positive comparable rating analysis.
+
+Peer comparison
+Table 1
+
+Central China Real Estate Ltd.--Peer Comparison
+Industry sector: Homebuilders and real estate developers
+Central China Real
+Estate Ltd.
+
+Times China
+Holdings Ltd.
+
+Yuzhou Properties
+Co. Ltd.
+
+China Aoyuan
+Group Ltd.
+
+China SCE Group
+Holdings Ltd.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenues
+
+14,783.5
+
+34,375.0
+
+24,305.9
+
+31,005.8
+
+17,782.9
+
+EBITDA
+
+3,113.8
+
+10,680.9
+
+6,465.8
+
+9,132.5
+
+6,167.7
+
+FFO
+
+(221.0)
+
+5,357.3
+
+(515.3)
+
+3,154.4
+
+2,498.3
+
+Interest Expense
+
+1,308.0
+
+3,413.4
+
+3,157.0
+
+3,993.4
+
+2,163.8
+
+Cash Interest Paid
+
+1,207.0
+
+3,113.9
+
+3,124.9
+
+3,593.5
+
+2,016.7
+
+Cash flow from operations
+
+3,512.4
+
+(463.1)
+
+3,053.8
+
+8,888.5
+
+4,552.9
+
+Capital expenditures
+Free operating cash flow
+Discretionary cash flow
+
+922.2
+
+188.0
+
+108.5
+
+683.2
+
+1,400.3
+
+2,590.1
+
+(651.2)
+
+2,945.2
+
+8,205.3
+
+3,152.6
+
+2,096.1
+
+(1,410.9)
+
+2,367.9
+
+7,048.8
+
+1,996.4
+
+Cash and short-term
+investments
+
+14,285.0
+
+23,374.2
+
+27,162.2
+
+37,864.7
+
+16,157.8
+
+Debt
+
+21,768.7
+
+49,761.5
+
+45,349.8
+
+52,939.8
+
+36,507.1
+
+Equity
+
+10,269.8
+
+32,296.2
+
+19,518.4
+
+30,733.8
+
+21,439.4
+
+EBITDA margin (%)
+
+21.1
+
+31.1
+
+26.6
+
+29.5
+
+34.7
+
+Return on capital (%)
+
+10.1
+
+14.6
+
+12.1
+
+12.6
+
+13.4
+
+EBITDA interest coverage
+(x)
+
+2.4
+
+3.1
+
+2.0
+
+2.3
+
+2.9
+
+FFO cash interest
+coverage (x)
+
+0.8
+
+2.7
+
+0.8
+
+1.9
+
+2.2
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+7.0
+
+4.7
+
+7.0
+
+5.8
+
+5.9
+
+FFO/debt (%)
+
+(1.0)
+
+10.8
+
+(1.1)
+
+6.0
+
+6.8
+
+Cash flow from
+operations/debt (%)
+
+16.1
+
+(0.9)
+
+6.7
+
+16.8
+
+12.5
+
+Free operating cash
+flow/debt (%)
+
+11.9
+
+(1.3)
+
+6.5
+
+15.5
+
+8.6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 9
+
+Central China Real Estate Ltd.
+
+Table 1
+
+Central China Real Estate Ltd.--Peer Comparison (cont.)
+Industry sector: Homebuilders and real estate developers
+Central China Real
+Estate Ltd.
+
+Times China
+Holdings Ltd.
+
+Yuzhou Properties
+Co. Ltd.
+
+China Aoyuan
+Group Ltd.
+
+China SCE Group
+Holdings Ltd.
+
+9.6
+
+(2.8)
+
+5.2
+
+13.3
+
+5.5
+
+Discretionary cash
+flow/debt (%)
+
+Figures shown are on a consolidated basis; CCRE’s proportional consolidated debt-to-EBITDA ratio was 6.4x in 2018. RMB--Chinese renminbi.
+FFO--Funds from operations.
+
+We consider Times China Holdings Ltd. as CCRE's closest peer. We assess the two companies to have similar business
+and financial risk profiles. CCRE and Times China are regional players with high concentration in the Henan and
+Guangdong provinces, respectively. Their target segments are first-time homebuyers and upgraders.
+On the other hand, China Aoyuan Group Ltd., Powerlong Real Estate Holdings Ltd., Yuzhou Properties Co. Ltd., and
+China SCE Group Holdings Ltd. have similar geographic diversification, while Times China and CCRE are less
+diversified. Times China and CCRE focus on a few key cities in their home market and have little intent to expand
+further afield. Others continue to gradually expand beyond their home base.
+Compared with Times China, CCRE has slightly lower contracted sales but its project diversification in terms of
+number of cities is better. Times China has a comparatively larger scale with contracted sales of around RMB60 billion,
+compared to CCRE's RMB53 billion in 2018.
+While most peers, including CCRE, had positive free cash flow from operations in 2018 and the first half of 2019,
+mainly due to scaled back land acquisition in the second half of 2018 while market conditions were uncertain, CCRE
+has less replenishment pressure compared to Aoyuan and China SCE. CCRE has more than four years of land reserves,
+while Aoyuan and China SCE have about three years according to our estimates. Among peers, only Times China had
+negative operating cash flow last year.
+CCRE also has good liquidity, with liquidity sources to uses of over 2.6x in 2019. It has greater flexibility in managing
+short-term maturities given that it has close to RMB17 billion cash on hand for short-term borrowings of RMB5.3
+billion as of end-2018; this is stronger than most peers.
+
+Financial Risk: Highly leveraged
+CCRE's see-through debt-to-EBITDA ratio after proportionally consolidating JVs is likely to improve to 4.5x-5.0x in
+the next 12-18 months, from 6.4x in 2018, given our anticipation that sales and revenue growth will outpace that of
+debt. CCRE's debt growth is keeping pace with EBITDA growth, and we expect this to improve further.
+CCRE is becoming more strategic in acquiring land. It is planning to spend RMB17 billion for new land acquisition in
+2019, which is equivalent to about 27% of attributable contracted sales over the same period. This compares to 32% in
+2018 and 53% in 2017. During the first five months of 2019, it spent RMB6.5 billion in new land acquisition, accounting
+for 40% of its full-year land budget. This pace matches its contracted sales, which achieved 40% of its full-year target
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 10
+
+Central China Real Estate Ltd.
+
+during the same period.
+
+Financial summary
+Table 2
+
+Central China Real Estate Ltd.--Financial Summary
+Industry sector: Homebuilders and real estate developers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenues
+
+14,783.5
+
+13,879.2
+
+9,495.0
+
+12,562.7
+
+9,228.8
+
+EBITDA
+
+3,113.8
+
+2,433.5
+
+1,768.4
+
+2,308.6
+
+2,406.9
+
+FFO
+
+(221.0)
+
+(84.9)
+
+71.8
+
+223.5
+
+859.5
+
+Interest Expense
+
+1,308.0
+
+1,087.1
+
+1,088.2
+
+901.6
+
+827.7
+
+Cash Interest Paid
+
+1,207.0
+
+1,231.8
+
+850.1
+
+811.5
+
+745.6
+
+Cash flow from operations
+
+3,512.4
+
+4,767.5
+
+1,661.4
+
+3,999.0
+
+(352.7)
+
+(Mil. RMB)
+
+Capital expenditures
+
+922.2
+
+1,104.4
+
+389.3
+
+380.7
+
+609.4
+
+Free operating cash flow
+
+2,590.1
+
+3,663.2
+
+1,272.1
+
+3,618.3
+
+(962.1)
+
+Discretionary cash flow
+
+2,096.1
+
+3,598.3
+
+1,005.7
+
+3,324.2
+
+(1,273.6)
+
+Cash and short-term investments
+
+14,285.0
+
+11,381.0
+
+9,882.2
+
+7,499.3
+
+5,085.6
+
+Gross available cash
+
+14,285.0
+
+11,381.0
+
+9,882.2
+
+7,499.3
+
+5,085.6
+
+Debt
+
+21,768.7
+
+19,300.3
+
+17,320.7
+
+14,545.4
+
+13,360.7
+
+Equity
+
+10,269.8
+
+8,473.2
+
+6,997.3
+
+7,317.5
+
+7,066.9
+
+EBITDA margin (%)
+
+21.1
+
+17.5
+
+18.6
+
+18.4
+
+26.1
+
+Return on capital (%)
+
+Adjusted ratios
+
+10.1
+
+9.4
+
+7.4
+
+11.8
+
+13.0
+
+EBITDA interest coverage (x)
+
+2.4
+
+2.2
+
+1.6
+
+2.6
+
+2.9
+
+FFO cash interest coverage (x)
+
+0.8
+
+0.9
+
+1.1
+
+1.3
+
+2.2
+
+Debt/EBITDA (x)
+
+7.0
+
+7.9
+
+9.8
+
+6.3
+
+5.6
+
+FFO/debt (%)
+
+(1.0)
+
+(0.4)
+
+0.4
+
+1.5
+
+6.4
+
+Cash flow from operations/debt (%)
+
+16.1
+
+24.7
+
+9.6
+
+27.5
+
+(2.6)
+
+Free operating cash flow/debt (%)
+
+11.9
+
+19.0
+
+7.3
+
+24.9
+
+(7.2)
+
+Discretionary cash flow/debt (%)
+
+9.6
+
+18.6
+
+5.8
+
+22.9
+
+(9.5)
+
+Figures shown are on a consolidated basis; CCRE’s proportional consolidated debt to EBITDA was 6.4x in 2018. FFO--Funds from operations.
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess CCRE's liquidity as adequate. In our base-case scenario, the company's cash sources will exceed cash uses
+by over 2.6x for the next 12 months. Our calculation does not factor in the potential cash outflow for uncommitted
+land acquisitions. CCRE also has the flexibility to cut its budgeted expenditure on construction if needed.
+We do not assess the liquidity as strong. This is because our cash outflow calculation only factors in committed land
+premiums as of the end of 2018 but land payments in the coming 12 months will likely be much higher.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 11
+
+Central China Real Estate Ltd.
+
+CCRE has established relationships with banks. Under stressed conditions, the company can also reduce land
+acquisitions and slow construction to preserve liquidity.
+CCRE has demonstrated satisfactory standing in the credit market in the past few years, which is proven by its tapping
+of offshore and domestic capital markets. CCRE has actively managed its borrowing and built up diverse funding
+channels. The early repayment of US$200 million in 2018 lowered refinancing pressure in the offshore bond due in
+January 2019. In April 2019, the exercised rate of puttable option of its RMB3 billion domestic bond was 50%. While
+the issuance of 364-day-notes will weigh on its short-term maturities, the risk is offset by its successful issuance of
+three- and four-year notes.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash balance of RMB17.8 billion as at
+end-2018.
+
+• Short-term borrowings of RMB5.3 billion due in
+2019.
+
+• Cash funds from operations (FFO) of RMB17 billion
+in 2019.
+
+• Dividend of RMB353 million.
+
+• New loan drawdown of RMB4 billion since start of
+2019.
+
+• Land acquisition committed premiums of about
+RMB9 billion in 2019, including RMB6.5 billion
+spent on land bought in the first five months of 2019
+and with the merger and acquisition in June.
+
+Debt maturities
+Table 3
+
+Central China Real Estate Ltd.--Debt Maturities*
+Due
+
+Amount (Mil. RMB)
+
+2019
+
+5,346.0
+
+2020
+
+7,217.0
+
+2021
+
+6,037.0
+
+2022
+
+563.0
+
+2023
+
+213.0
+
+*As of Dec. 31, 2018. RMB--Chinese renminbi.
+
+Covenant Analysis
+Compliance expectations
+CCRE is in compliance with its financial covenants, and we expect it to have sufficient buffer to meet its covenants
+over the next 12 months.
+
+Issue Ratings - Subordination Risk Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 12
+
+Central China Real Estate Ltd.
+
+Capital structure
+As of Dec. 31, 2018, CCRE's capital structure consisted of about RMB10.6 billion in secured bank loans and loans at
+subsidiaries (including guarantees at subsidiaries), while the company's reported debt was RMB21.7 billion. As such, its
+priority debt ratio is 48%. The senior unsecured notes are ranked equally as its secured debt and subsidiary-level debt,
+which together remain lower than 50% of total debt. We, therefore, do not notch down its issue rating.
+
+Analytical conclusions
+We rate CCRE's debt at 'B+', in line with the issuer credit rating, given that secured and priority debt are below 50% of
+its total debt and there are no significant elements of subordination risk in the capital structure.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Central China Real Estate Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-Central China Real Estate Ltd. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+19,851.3
+
+S&P Global
+Ratings' adjusted Cash flow from
+EBITDA
+operations
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+8,837.1
+
+2,863.2
+
+2,594.7
+
+264.2
+
+3,113.8
+
+4,102.9
+
+(2,127.9)
+
+--
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,195.4)
+
+--
+
+282.2
+
+--
+
+14.9
+
+11.6
+
+11.6
+
+(11.6)
+
+3.3
+
+(3,571.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+486.5
+
+486.5
+
+1,032.2
+
+--
+
+--
+
+Share-based
+compensation expense
+
+--
+
+--
+
+43.1
+
+--
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+5.2
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+(2.3)
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(593.9)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+1,432.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+4,984.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+Accessible cash and liquid
+investments
+
+Debt - Guarantees
+Debt - Other
+
+221.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA - Other
+
+--
+
+--
+
+(299.0)
+
+(299.0)
+
+--
+
+--
+
+--
+
+EBIT - Other
+
+--
+
+--
+
+--
+
+234.9
+
+--
+
+--
+
+--
+
+1,917.4
+
+1,432.7
+
+250.6
+
+431.7
+
+1,043.8
+
+(3,334.9)
+
+(590.6)
+
+Total adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 13
+
+Central China Real Estate Ltd.
+
+Table 4
+
+Reconciliation Of Central China Real Estate Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+21,768.7
+
+10,269.8
+
+3,113.8
+
+3,026.4
+
+1,308.0
+
+Funds from Cash flow from
+operations
+operations
+(221.0)
+
+3,512.4
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 14
+
+Central China Real Estate Ltd.
+
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 9, 2019)*
+Central China Real Estate Ltd.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Unsecured
+
+B+
+
+Issuer Credit Ratings History
+07-May-2018
+
+B+/Stable/--
+
+26-Apr-2017
+
+B+/Negative/--
+
+05-Apr-2016
+
+B+/Stable/--
+
+07-Sep-2015
+
+BB-/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 9, 2019 16
+
+

@@ -1,0 +1,716 @@
+Borger Energy Associates L.P./Borger
+Funding Corp.
+Primary Credit Analyst:
+Safina Ali, CFA, New York (1) 212-438-1877; safina.ali@spglobal.com
+Secondary Contacts:
+Trevor J D'Olier-Lees, New York (1) 212-438-7985; trevor.dolier-lees@spglobal.com
+Aashnam Kulshrestha, Mumbai; aashnam.kulshrestha@spglobal.com
+
+Table Of Contents
+Project Description
+Credit Highlights
+Outlook
+Performance Update
+Base Case
+Downside Case
+Peer Comparison
+Rating Score Snapshot
+Recovery Analysis
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 1
+
+Borger Energy Associates L.P./Borger Funding
+Corp.
+Credit Rating(s)
+Senior Secured
+
+B-/Stable
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country.
+
+Project Description
+Borger Energy Associates L.P./Borger Funding Corp. (Borger) is a 230 megawatt natural gas-fired cogeneration facility
+near Borger, Texas. Commercial operations began on June 12, 1999. The project sells its energy output and electrical
+capacity to Southwestern Public Service Co. (SPS) under the terms of a 25-year power purchase agreement that
+expires in June 2024. Additionally, the project sells its steam output to Phillips 66 under a 20-year steam sales and
+operating agreement that expires in June 2024.
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+The project's entire capacity is contracted under a power purchase agreement
+with Southwestern Public Service Co. (SPS), which provides both fixed and
+variable payments until June 2024.
+
+The project's steam margins are directly exposed to the volatility
+in natural gas prices and variable demand from the refinery
+off-taker.
+
+The increased steam factor and the addition of a fixed fee under the amended
+steam agreement will help offset the cash flow decline from lower energy
+margins.
+
+Lack of adequate liquidity especially in years where debt service
+coverage ratio (DSCR) is below 1.0x
+The project has a weak distribution test that excludes major
+maintenance funding and does not adequately reserve cash
+ahead of the project's needs.
+
+The project's entire capacity is contracted under a power purchase agreement with SPS, which
+provides both fixed and variable payments until June 2024.
+The project has a PPA with Southwestern Public Service Co. (A-/Stable/A-2), rated several notches higher than the
+project. The project benefits from some cash flow certainty as the PPA with SPS provides capacity revenues based on
+100% contract capacity and energy revenues based on dispatch. Additionally, the operations and maintenance (O&M)
+payment, under the PPA, consists of both a fixed rate and a variable rate component. As per the terms of the PPA, the
+capacity rate for the second half of 2019 will be reduced by approximately 40% as compared to the pricing in the first
+half of the year. Subsequently, the capacity payment rate will be adjusted downward and we therefore expect the
+project's capacity revenues to decline from 2019 until 2022. The project's energy payment is a product of gas price,
+guaranteed heat rate, and energy delivered. Given our view of lower capacity factors and low gas prices, we anticipate
+the project's energy revenues also will decline going forward.
+We expect the debt service coverage ratio to be approximately 1.43x in 2019. The 2019 ratio is excluded from our
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 2
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+analysis because of unusually high coverage due to a combination of lower debt service payments (the project's
+scheduled amortization profile is front-loaded, with principal payments declining significantly after 2018) and high
+contracted capacity payments, which will decline after 2019 as per the PPA.
+
+The increased steam factor and the addition of a fixed fee under the amended steam agreement will
+help offset the cash flow decline from lower energy margins.
+Effective June 12, 2019, the project renewed its steam sales and operating agreement with WRB Refining L.P. (a joint
+partnership between Phillips 66 and Cenovus Energy Inc.). The amended agreement brought in two key changes--an
+increase in the steam factor and the addition of a fixed steam fee (escalated at CPI) to the steam revenues, both of
+which improve the cash flow profile of the project. The payment of the fixed steam fee will be subject to certain
+performance standards related to frequency of unplanned outages. The amended steam agreement enhances the
+project's cash flows and will significantly help offset lower energy margins and the impact of falling gas prices on the
+steam revenues. We anticipate that the steam revenues will account for over 40% of the project's revenues as
+compared to approximately 35% before the amended agreement.
+
+The project's steam margins are directly exposed to the volatility in natural gas prices and variable
+demand from the refinery off-taker.
+In addition to the steam factor and monthly fixed fee, the project's steam margins are also a function of off-taker
+demand and natural gas prices. Although the amended steam agreement improves cash flows, the steam margins
+remain directly exposed to the variable nature of demand from the refinery off-taker and natural gas price volatility.
+
+We view the project's liquidity as critical to the current rating, especially in years when DSCR is less
+than or close to 1.0x.
+The availability of adequate liquidity is critical to make up debt service payments in years when cash flows are less
+than sufficient. In our base case and downside case scenarios, the project generates a debt service coverage ratio
+(DSCR) of below 1.0x in some years, we, therefore, monitor the project's liquidity carefully and identify it as a key risk
+to the 'B-' rating. As on June 30, 2019, the project had sufficient liquidity in the form of cash and available reserves
+(please see liquidity sections for details).
+
+The project's distribution test is weaker compared with its peers.
+The distribution test excludes major maintenance funding and therefore does not reserve adequate cash ahead of a
+project need. We therefore assess structural protection as fair given the relatively weak distribution test. Because the
+operations phase stand-alone credit profile (SACP) is already 'b-', we do not apply a further one-notch reduction,
+leading to a final credit rating of 'B-'
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 3
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+Outlook
+
+The stable outlook reflects our view that the project's successful renewal of its steam agreement and our current
+assumptions on gas pricing, major maintenance funding, and operational performance support the 'B-' rating as
+long as the project's liquidity does not significantly decline, which it does not under our base-case scenario. The
+minimum DSCR of 0.78x occurs in 2020.
+
+Downside scenario
+A lower rating would most likely stem from operational issues or a deteriorating liquidity balance. Specifically, we
+could lower the ratings if liquidity balances deteriorate such that the project cannot meet its full debt-service
+obligations before depleting reserves. This situation could occur if the plant's operational performance weakens
+and our assumptions for gas pricing decrease materially. We could also lower our rating on the project if we
+downgrade the parent company or lower the rating on any of the irreplaceable revenue counterparties below the
+rating on the project.
+
+Upside scenario
+Although we consider an upgrade less likely, we could raise the rating if the project maintains consistent operating
+performance that results in a minimum DSCR in the middle of the of 1.0x-1.4x range, liquidity balances improve
+significantly and remain consistently high relative to outstanding debt throughout the forecast period, and we rate
+the parent company and the irreplaceable revenue counterparties above the project. In addition, an upgrade could
+also result if the project's steam production remains steady, which combined with the provisions in the renewed
+steam agreement, can generate cash flows sufficient to generate DSCRs in the middle of the 1.0x-1.4x range.
+
+Performance Update
+The project generated DSCR of 1.21x for year ended Dec. 31, 2018, which excludes funding for major maintenance.
+After including major maintenance as an expense, DSCR would be 0.67x. This compares with S&P Global Ratings'
+forecast DSCR of 0.97x. The actual DSCR was lower than our forecast primarily due to lower capacity factor and
+higher major maintenance expenses from outages. The sponsor injected $2.8 million to cover the debt service shortfall.
+The project continues to meet its availability target (92% target as per PPA) to receive full capacity payments. The
+project generated an availability factor of 94.26% in 2018 (94.19% in 2017) against S&P Global Ratings' base-case
+assumption of 92%. The year-to-date June 2019 availability, at 96.6%, has also been above the PPA target. The
+availability factor was lower in both 2018 and 2017 compared with the project's historical performance due to
+scheduled major maintenance outages to replace the CT rotors (CT rotor 1 was out of commission for 645.7 hours
+during March 2017. CT 2 rotor was out of commission for 671.2 hours in March 2018).
+The project's capacity factor has followed a declining trend due to a combination of the aforementioned outages and
+lower demand from SPS. Capacity factor was 76.13% and 79.8% for the years ended 2018 and 2017, respectively.
+Capacity factor for year-to-date June 2019 was 72.73%. We expect the capacity factor to trend lower compared with
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 4
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+historical performance and have adjusted our base case lower leading to a decline in the projected energy revenues.
+Steam production in 2018 was 8,281,244 Klbs, a 1% increase from the prior year due to higher demand from the steam
+off-taker Phillips 66 (P66). Although steam production has consistently outpaced the project's expectation, we project a
+decline in steam production from 2020-2022. As per the project, the refinery off-taker has provided guidance that
+steam demand could be lower because of process improvements. As a result, we assume a decline in steam demand in
+our base case. We will continue to monitor the project's steam production. If demand remains steady as in historical
+years, we will revise our base-case forecast upward.
+
+Base Case
+Assumptions
+
+Key Metrics
+
+• Henry Hub gas price of $2.25 in 2019, $2.50 in 2020,
+$2.75 in 2021 and $3 in 2022. This translates into an
+average annual gas price assumption, after
+adjustments, for the Southwest Power Pool of about
+$2.13 per million Btu for 2019 and 2020.
+
+• Minimum DSCR: 0.78x (2020); and
+• Average DSCR: 0.98x.
+
+• Availability factor of 93.8%.
+• Capacity factor of about 75%.
+• All-in heat rate (including steam) of 13,200
+Btu/kilowatt-hour from 2020 - 2022.
+• Average yearly steam production of 7,380,935 klbs
+from 2020 - 2022.
+• Steam factor of 1.37.
+• Fixed monthly steam payments of $250,000
+beginning June 2019, increasing with inflation from
+2020 onward.
+• Major maintenance funding assumptions for the
+next four years through 2022 stem from the major
+maintenance guidance the project provided and
+confirmed by an independent engineer.
+• Inflation of 2%.
+
+Table 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 5
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+Preliminary Operations Phase SACP
+--Preliminary operations phase SACP outcome in column headers---Minimum DSCR ranges shown in the cells below*-aa
+
+a
+
+bbb
+
+bb
+
+b
+
+1-2
+
+=> 1.75
+
+1.75–1.20
+
+1.20–1.10
+
+<1.10§
+
+<1.10§
+
+3-4
+
+N/A
+
+=> 1.40
+
+1.40–1.20
+
+1.20–1.10
+
+< 1.10
+
+5-6
+
+N/A
+
+=> 2.00
+
+2.00–1.40
+
+1.40–1.20
+
+< 1.20
+
+7–8
+
+N/A
+
+=> 2.50
+
+2.50–1.75
+
+1.75–1.40
+
+< 1.40
+
+9–10
+
+N/A
+
+=> 5.00
+
+5.00–2.50
+
+2.50–1.50
+
+< 1.50
+
+11-12
+
+N/A
+
+N/A
+
+N/A
+
+=> 3.00x
+
+< 3.00
+
+OPBA
+
+*DSCR ranges include values at the lower but not upper bound. For example, for a range of 1.20x-1.10x, a value of 1.20x is excluded while a
+value of 1.10x is included. §To determine the outcome in these cells, the key factors are typically the forecasted minimum DSCR (with at least
+1.05x generally required for the 'BB' category), as well as relative break-even performance and liquidity levels. Please see "Project Finance:
+Project Finance Operations Methodology," published Sept. 16, 2014. SACP--Stand-alone credit profile. OPBA--Operations phase business
+assessment. DSCR--Debt service coverage ratio. N/A--Not applicable. Source: S&P Global Ratings.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 6
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+Downside Case
+Assumptions
+
+Key Metrics
+
+• Henry Hub gas price of $2.00 per million Btu,
+adjusted for the Southwest Power Pool;
+
+The project demonstrates resiliency consistent with
+our expectation of the 'B' category, with reserves
+depleting in less than three years under our downside
+scenario.
+
+• 6% decline in availability factor;
+• Capacity rate of approximately 70.2%;
+• 3% heat degradation;
+• 12% increase in operating and maintenance
+expenses costs (including major maintenance
+expenses); and
+• Inflation rate increases by 1% for the first five years.
+
+Peer Comparison
+Table 2
+
+Ratings Score Snapshot And Peer Comparison
+Borger Energy Associates
+L.P./Borger Funding Corp.
+
+Orange Cogen
+Funding Corp.
+
+Logan Generating
+Company L.P.
+
+Chambers
+Cogeneration L.P.
+
+Operations phase SACP
+(senior debt)
+
+b-
+
+bbb+
+
+bbb
+
+bbb+
+
+Asset class operations
+stability
+
+5
+
+5
+
+5
+
+5
+
+Performance risk
+
+Neutral or N/A
+
+Neutral or N/A
+
+Neutral or N/A
+
+Neutral or N/A
+
+Operations phase business
+assessment
+
+7
+
+8
+
+5
+
+5
+
+Minimum DSCR
+
+0.78
+
+3.6
+
+1.4
+
+1.62
+
+Average DSCR
+
+0.98
+
+3.63
+
+1.5
+
+1.76
+
+Preliminary SACP
+
+b-
+
+a-
+
+bbb-
+
+bbb
+
+Downside assessment
+
+b
+
+aa
+
+a
+
+aa
+
+Capital structure and avg.
+DSCR
+
+None
+
+None
+
+None
+
+None
+
+Liquidity
+
+Neutral
+
+Neutral
+
+Neutral
+
+Neutral
+
+Comparative ratings
+analysis
+
+0
+
+0
+
+0
+
+0
+
+Counterparty rating
+adjustments
+
+None
+
+None
+
+None
+
+None
+
+Sovereign rating limitation
+
+aa+
+
+aa+
+
+aa+
+
+aa+
+
+Operations phase SACP
+
+b-
+
+bbb+
+
+bbb
+
+bbb+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 7
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+Table 2
+
+Ratings Score Snapshot And Peer Comparison (cont.)
+Borger Energy Associates
+L.P./Borger Funding Corp.
+
+Orange Cogen
+Funding Corp.
+
+Logan Generating
+Company L.P.
+
+Chambers
+Cogeneration L.P.
+
+Parent linkage
+
+Capped
+
+De-linked
+
+De-linked
+
+De-linked
+
+Structural protection
+
+Fair
+
+Neutral
+
+Fair
+
+Fair
+
+Full credit guarantee
+
+No
+
+No
+
+No
+
+No
+
+Senior debt issue rating
+
+B-
+
+BBB+
+
+BBB-
+
+BBB
+
+Modifiers (senior debt)
+
+SACP--Stand-alone credit profile. DSCR--Debt service coverage ratio. Source: S&P Global Ratings.
+
+The project's closest peers are Orange Cogen Funding Corp. (Orange Cogen), Logan Generating Co. (Logan), and
+Chambers Cogeneration L.P. (Chambers).
+• Orange Cogen and Borger are gas-fired cogeneration plants under long-term PPAs with investment-grade
+counterparties. Both projects have some market risk exposure because they have a higher operations phase
+business assessment as compared to Logan and Chambers.
+• Logan and Chambers are coal-fired cogeneration plants under long-term PPAs with investment-grade
+counterparties with minimal market risk.
+• The rating on Borger, which is the lowest among peers, is largely a function of a weak DSCR profile as compared to
+peer projects, which have much stronger coverage ratios.
+
+Rating Score Snapshot
+Operations phase SACP (Senior Debt)
+• Operations phase business assessment: 7 (12-pt. scale; '1' best)
+• Preliminary SACP: 'b-'
+• Downside impact on preliminary SACP: None
+• Capital structure and average DSCR impact on preliminary SACP: None
+• Liquidity: Neutral
+• Comparative analysis sssessment: None
+• Operations phase SACP: 'b-'
+Modifiers (Senior Debt)
+• Parent linkage: Capped
+• Structural protection: Fair
+• Extraordinary government support: None
+• Sovereign rating limits: 'aa+'
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 8
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+• Full credit guarantees: None
+• Senior debt issue rating: 'B-'
+
+Operations phase SACP
+• We assess the project's operating phase business assessment as 7 on a 12-point scale on which 1 is the strongest.
+The project's OPBA is typical for the asset type, a gas-fired cogeneration power plant with complex electrical and
+mechanical engineering aspects and maintenance that requires specialty equipment. We assess market risk
+exposure as low, competitive position as strong, and no country risk.
+• Based on the OPBA of 7, the minimum debt service coverage of 0.78x is at the low end of the 'b' category range
+under table 15 of our operations criteria, resulting in a preliminary operations phase SACP is 'b-'. The downside case
+performance of the credit reflects the 'b' category, surviving stresses for less than three years, and results in adjusted
+operations SACP after downside of 'b-'.
+• The project's liquidity assessment is neutral, and there is no refinancing risk.
+
+Project Counterparties
+We rate all material irreplaceable counterparties above the project. The project has a capped parental linkage (WG
+Partners Acquisition LLC). We also consider the energy off-taker Southwestern Public Service Co. and Phillips 66 to be
+irreplaceable; if either rating goes below that on the project, we would lower the project rating.
+
+Liquidity
+We assess the project's liquidity as neutral. The project has a six-month debt service reserve of approximately $2.8
+million. A letter of credit with MUFG Union Bank N.A. provides the reserve. The project has additional liquidity on its
+balance sheet as restricted and unrestricted cash, totaling approximately $6 million as of June 30, 2019.
+
+Other modifiers
+The distribution test excludes major maintenance funding and therefore does not reserve adequate cash ahead of a
+project need. We therefore assess structural protection as fair given the relatively weak distribution test. Because the
+operations phase SACP is already 'b-', we do not apply a further one-notch reduction, leading to a final credit rating of
+'B-'.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 9
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+Recovery Analysis
+
+Key analytical assumptions
+• The recovery rating on the senior secured notes is '4', indicating prospects for average (30%-50%; rounded
+estimate: 40%) recovery if a payment default occurs.
+• For valuation, we assume the project would reorganize rather than be liquidated and that the PPA and the steam
+agreement survive the reorganization.
+• We analyzed recovery prospects through a discounted cash flow methodology, assessing the net present value
+of future cash flows through the expected remaining asset life.
+
+Simulated default assumptions
+• Simulated year of default is 2020 and our discount rate is 12%. We assume that the project will emerge out of
+default in 2021. Therefore, we revert to the base-case scenario at that time.
+• Availability to decrease by 10% from our base-case levels from 2019-2020, base-case thereafter (2021-2022).
+• Heat rate degrades by 10% from base-case levels from 2019-2020, base-case thereafter.
+• 12% increase in non-fuel operations and maintenance (O&M) cost and major maintenance (MM) funding.
+• Gas prices drop to levels commensurate with our downside case, at $2 per MMBtu.
+
+Simplified waterfall
+• Total debt outstanding: $8.7 million (Including a draw on the debt service reserve LOC and six months of
+prepetition debt service)
+• Gross enterprise value (future cash flows discounted at 12%): $4.14 million
+• Less administrative costs at 3%: $0.207 million
+• Net enterprise value: $3.9 million
+• --Recovery = (net enterprise value/total debt outstanding) = 4 (rounded estimate: 40%, unchanged from last
+year).
+
+Related Criteria
+• Criteria - Corporates - Project Finance: Key Credit Factors For Power Project Financings, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Operations Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Transaction Structure Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Framework Methodology, Sept. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Structured Finance - General: Counterparty Risk Framework Methodology And Assumptions, June 25,
+2013
+• Criteria - Corporates - Project Finance: Project Finance Construction And Operations Counterparty Methodology,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 10
+
+Borger Energy Associates L.P./Borger Funding Corp.
+
+Dec. 20, 2011
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 11, 2019 12
+
+

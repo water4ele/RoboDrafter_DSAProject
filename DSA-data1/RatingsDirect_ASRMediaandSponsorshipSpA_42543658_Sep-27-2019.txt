@@ -1,0 +1,770 @@
+ASR Media and Sponsorship S.p.A.
+Primary Credit Analyst:
+Michele Sindico, Stockholm + 46 84 40 5937; michele.sindico@spglobal.com
+Secondary Contact:
+Stefania Belisario, London (44) 20-7176-3858; stefania.belisario@spglobal.com
+
+Table Of Contents
+Issuer Description
+Bond Issuance
+Credit Highlights
+Outlook
+Transaction Summary
+Performance Update
+Rating Rationale
+MediaCo's Stand-Alone Credit Profile
+Business Risk
+Financial Risk
+Liquidity
+Parent Linkage Dependency Assessment
+Rating Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Table Of Contents (cont.)
+Recovery
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+ASR Media and Sponsorship S.p.A.
+Credit Rating(s)
+Senior Secured
+EUR275 mil 5.125% nts due 08/01/2024
+Local Currency
+
+BB-/Stable
+
+Recovery Rating
+
+5(10%)
+
+Senior Secured
+
+BB-/Stable
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country.
+
+Issuer Description
+Italy-based ASR Media and Sponsorship S.r.l. (MediaCo, the issuer) was established in 2014 as part of the business
+reorganization of Italian football club A.S. Roma (TeamCo, the parent). As a result, the activities associated with media,
+broadcasting, and monetization of TeamCo's trademarks, including sponsorship and commercial ventures, were
+separated from TeamCo's core business of managing the football club and distributed to MediaCo.
+MediaCo is the A.S. Roma group's main financing vehicle. On Feb. 10, 2015, MediaCo borrowed €175 million under a
+floating-rate loan facility due 2020 to refinance TeamCo's existing debt and distribute the remaining proceeds to
+TeamCo through an intercompany loan. On June 22, 2017, the outstanding loan--equal to €161.4 million--was
+amended and extended. As part of the amendment, the notional loan amount increased to €230 million, and the
+maturity was extended to 2022.
+MediaCo services its loan through TeamCo's media and sponsorship contracts receivables. TeamCo, in turn, relies on
+the distributions it receives from MediaCo to fund its operations.
+
+Bond Issuance
+On Aug. 8, 2019, MediaCo issued €275 million of bonds due August 2024 to refinance its outstanding debt and
+distribute the remaining proceeds to TeamCo.
+In particular, MediaCo applied the proceeds from the bonds issuance together with the balance of cash in the secured
+accounts associated with the previous loan facility to:
+• Pay transaction fees and expenses;
+• Repay the outstanding balance under the previous loan facility (€211.875 million) plus the interests accrued from
+the last payment date (June 2019) to the repayment date;
+• Fund the secured account up to the required amounts; and
+• Advance the rest to A.S. Roma for its general corporate purposes through (a) amounts loaned to A.S. Roma via an
+intercompany loan and (b) distribution of a dividend of up to €2.6 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+ASR Media and Sponsorship S.p.A.
+
+In the context of the issuance of the notes, MediaCo was transformed from a limited liability company (società a
+responsabilità limitata) into a joint stock company (società per azioni) denominated ASR Media and Sponsorship S.p.A.
+The larger quantum of debt, combined with minimal mandatory amortization leaving 92% of the debt outstanding at
+maturity, increased MediaCo's exposure to refinancing risk upon the bond's maturity in August 2024. At the same time,
+in light of the reduced mandatory amortization and the lower cost of debt, MediaCo will retain less cash and distribute
+larger sums to TeamCo. Specifically, the debt service reserve account's target balance reduced to about €9.9 million
+compared with €16.6 million previously. Additionally, the amount that MediaCo will need to deposit in the debt
+service account ahead of distributions will also reduce in line with the ongoing lower debt service requirements.
+On the positive side, the notes pay a fixed interest rate, which provides greater visibility on debt service compared to
+the floating rate payable under the previous loan facility.
+As a result, MediaCo's stand-alone creditworthiness weakened and became less resilient to any cash volatility that may
+arise from the on-pitch performance of A.S. Roma's first team or from media and sponsorship contracts renegotiations.
+We now assess MediaCo's preliminary stand-alone credit profile (SACP) at 'bb-', in line with the constraint posed by
+TeamCo's creditworthiness.
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+A.S. Roma has a long track record of participation in Serie A, Italian
+football's top division.
+
+A.S. Roma's first team on-pitch performance has a significant effect on
+MediaCo's cash flows.
+
+The global A.S. Roma brand represents MediaCo's key business asset.
+
+MediaCo's ability to repay its debt is somewhat dependent on
+TeamCo's operations and financial conditions.
+
+MediaCo has a structurally senior position to the majority of A.S.
+Roma's financial and operational expenses, including players' salaries.
+
+The notes issued are exposed to substantially higher refinancing risk.
+The debt issuance benefits from weaker liquidity.
+Due to Italian law, the creation and perfection of security interests is
+more challenging compared to most secured financings we rate.
+
+A.S. Roma's participation in Serie A, Italian football's top division, provides MediaCo with a solid revenue base. A.S.
+Roma is a leading Italian football club founded in 1927. Since then, it has participated in all Serie A seasons, with the
+exception of a one-year relegation to Serie B at the end of the 1950-1951 season. As long as TeamCo continues to
+compete in Serie A, we expect that MediaCo will have access to a moderately stable share of the revenue from the sale
+of Serie A's broadcasting rights. Serie A generates the third-highest broadcasting revenue among European domestic
+football leagues, behind England and Spain.
+The global A.S. Roma brand supports sponsorship revenue and mitigates short-term contract renewal risk.MediaCo
+owns the "A.S. Roma" trademarks, providing creditors with some protection if its parent, TeamCo, were to enter a
+financial distress scenario. Within Serie A, A.S. Roma is one of the most popular teams, making the A.S. Roma brand
+one of the most recognizable and valuable. The club's current main sponsors include Qatar Airways Group (not rated),
+Hyundai (BBB+/Stable/-), and Nike (AA-/Stable/A-1+). With the exception of technical sponsorship, these contracts
+tend to have short-term maturities and may or may not be renewed on similar terms. Management's focus on
+increasing the club's value, combined with the strength of A.S. Roma's brand, mitigates the risk that such contracts
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+ASR Media and Sponsorship S.p.A.
+
+may not be renewed on similar terms. A.S. Roma succeeding on the field of play would further support this risk
+mitigation.
+MediaCo has a structurally senior position to the majority of A.S. Roma's financial and operational expenses,
+supporting its ability to generate strong cash flow. Employee wages--the majority of which are player
+salaries--represent the bulk of the operating costs in a football club. In light of the legal and contractual structure in
+place, TeamCo pays these using cash flows distributed by MediaCo after its debt service. MediaCo's creditors
+therefore rank senior to TeamCo's creditors and have access to the vast majority of the revenue originated by
+TeamCo.
+A.S. Roma's on-pitch performance, which MediaCo is unable to control, exposes MediaCo to cash flow volatility. A
+significant portion of MediaCo's revenue entitlement--in excess of 70% in fiscal 2019 (ended June 30)--is associated
+with TeamCo's media rights revenue from Serie A and Union of European Football Associations (UEFA) competitions.
+Such revenue varies depending on A.S. Roma's on-pitch performance. We consider season results to be inherently
+unpredictable and, to a significant degree, dependent on TeamCo's economic resources and investment in players.
+That said, Serie A revenue is moderately stable, based on the current allocation method. UEFA revenue is strictly
+dependent on A.S. Roma's Serie A ranking in each season and, thereafter, on its progress in either the UEFA
+Champions League or UEFA Europa League. Consequently, this revenue is highly exposed to on-pitch performance
+compared to Serie A revenue. The commercial exploitation of the A.S. Roma trademark through multi-million-euro
+sponsorship contracts, which generated about 20% of MediaCo's revenue in fiscal 2019, are in turn strictly related to
+sport performance and especially on the club's international visibility, which it can improve through successful
+participation in UEFA competitions. Poor performance by A.S. Roma's first team could adversely affect its popularity,
+brand, and ability to attract and retain top players. As a result, being associated with the team may be of less value to
+sponsors.
+MediaCo's and TeamCo's financial conditions are closely related. MediaCo's structure provides some creditor
+protection against the risk associated with TeamCo's operating and financial performance, but it does not eliminate it,
+in our view. Specifically, TeamCo's financial health is a pre-condition for the club to be admitted to the UEFA
+competitions and maintain its Serie A license. In addition, we think investment in players is critical for the club to
+remain near the top of its domestic league on a consistent basis. There is typically a positive correlation between
+on-field performance and player investment, salaries, and net transfer spend. Consequently, we think MediaCo's
+broadcasting cash inflows and its sponsorship partnerships are somewhat dependent on TeamCo's financial health.
+Equally, TeamCo is dependent on the cash flows distributed by MediaCo to pay its operating expenses, mainly players'
+and management's salaries, and for general operations. Such an interdependent relationship is unusual in fully delinked
+structures, where issuers operations are typically independent from the parent.
+The terms of the bond substantially increase creditors' exposure to refinancing risk.MediaCo's €275 bond will not repay
+any principal before December 2020. Thereafter the bond will feature marginal mandatory amortization, exposing
+creditors to substantially larger refinancing risk at maturity. Approximately €253 million (about 92% of the debt) will
+remain outstanding on its maturity date. In contrast, the previous facility left €172 million (about 75% of the original
+debt) outstanding on its June 2022 maturity date.
+Following the bond issuance, MediaCo benefits from lower sources of liquidity than under the previous capital
+structure, thereby becoming more exposed to unexpected revenue shocks.MediaCo's liquidity is less than adequate for a
+business that, in our view, has weak visibility on long-term operating and financial performance and relies on access to
+additional financing to service its bullet debt. This position weakened following the bond issuance. Due to the cheaper
+cost of debt and lower principal amortization, we expect the secured accounts to hold less liquidity than under the
+existing facility.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+ASR Media and Sponsorship S.p.A.
+
+Compared with most secured financing that we rate, the creation and perfection of security interests is more
+challenging. Italian law does not permit the grant of security over the receivables arising from future contracts or
+arrangements. Therefore, MediaCo and TeamCo will be required to enter into future security assignment agreements
+in respect of receivables arising under future sponsorship agreements and media contracts. The recurrent need to
+create and perfect security interests under Italian law exposes creditors to an ongoing risk of potential challenges by
+an insolvency administrator or by other creditors of TeamCo under the rules of avoidance or clawback of Italian
+bankruptcy law. The legal structure in place, however, reduces clawback risks for the issuer's creditors, including
+noteholders.
+
+Outlook
+
+The stable outlook reflects our expectation that A.S. Roma will continue playing in Italian football's top division,
+allowing MediaCo to benefit from sufficient cash flows to service its new debt issuance and support its refinancing
+needs at that point. We also anticipate TeamCo will adjust its relatively high salary bill from fiscal 2019 to
+strengthen its operating cash flows in the coming season, especially since the team has not qualified for the
+lucrative UEFA Champions League.
+
+Downside scenario
+We could lower the rating, possibly by more than one notch, if our view of TeamCo's creditworthiness weakened
+or if TeamCo does not fulfill its obligations under the contractual arrangements in place with MediaCo. We could
+also lower the rating if MediaCo's stand-alone credit profile weakens. This could stem from a change to the rules
+regarding the distribution of Serie A media rights, which would increase revenue sensitivity to on-pitch
+performance or result in a lower parachute payment to relegated teams, or if existing sponsorship contracts are not
+renewed on approximately similar terms. Additionally, we could lower the rating if the capital structure becomes
+more aggressive due to future refinancing or changes in the structural protections.
+
+Upside scenario
+An upgrade is unlikely in the near future. This would require an improvement of TeamCo's creditworthiness, which
+could occur if the A.S. Roma group generates stronger cash flow, placing less reliance on net player sales to fund
+liquidity needs. Additionally, an upgrade would require greater visibility over MediaCo's long-term cash flow
+generation supported by contracted revenue. An upgrade could also stem from a substantial reduction in the
+group's leverage.
+
+Transaction Summary
+In February 2015, TeamCo--the listed sports company holding the franchise (titolo sportivo) entitling A.S. Roma's first
+team to compete in the Italian professional football leagues--and Soccer S.a.S. di Brand Management S.r.l.
+(Soccer)--the operator of A.S. Roma brands' marketing, merchandising, and sponsorship business--made the following
+in-kind contributions to MediaCo as a going concern, pursuant to article 2555 of the Italian Civil Code:
+• TeamCo contributed to MediaCo its media rights relating to Roma TV--A.S. Roma's subscription-based
+channel--and Roma Radio station, the licensing of A.S. Roma's archive content rights, as well as its digital operations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+ASR Media and Sponsorship S.p.A.
+
+platforms. The contribution includes all licenses, permits, and employees required to exercise the business; and
+• Soccer contributed to MediaCo the title to "A.S. Roma" trademarks and its sponsorship business, including existing
+sponsorship contracts and the right to future commercial exploitation of the A.S. Roma trademarks through
+marketing, sponsorship, and merchandising activities, together with all licenses, permits, and employees required to
+exercise the contribution.
+Notably, pursuant to Serie A and UEFA regulation, TeamCo could not contribute to MediaCo the media rights
+associated with the broadcasting of Serie A and UEFA matches. TeamCo remains therefore the sole full title owner of
+the receivables arising from the associated media contracts (known as indirect media rights contracts). To secure such
+receivables in support of MediaCo's liabilities, TeamCo and MediaCo entered into an assignment agreement relating to
+the receivables arising from such contracts. Under the agreement, TeamCo assigned to MediaCo the revenue from
+existing Serie A and UEFA media rights contracts and undertakes to assign to MediaCo future revenue as it arises.
+To strengthen the assignment of receivables from indirect contracts, TeamCo legally segregated the indirect media
+contracts from the rest of its estate through the creation of a "patrimonio destinato ad uno specifico affare" (PD) in
+accordance with articles 2447-bis(1)(a) et seq. of the Italian Civil Code. The PD is not a separate legal entity from
+TeamCo. However, its constitution at the level of TeamCo ring-fences the indirect media contracts against the general
+TeamCo creditors that will therefore have no actions with respect to, or rights to attach to, the indirect media
+contracts and the associated revenue.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+ASR Media and Sponsorship S.p.A.
+
+MediaCo's business is governed by, and conducted according to, arrangements it has entered into with A.S. Roma and
+Soccer. Most importantly, MediaCo relies on agreements with A.S. Roma in order to receive the proceeds from current
+media and sponsorship contracts and negotiate future ones. Furthermore, MediaCo's cash flows are dependent on A.S.
+Roma's compliance with Serie A and UEFA regulations and meeting all requirements of media rights contracts and
+sponsorship agreements. The key arrangements include the following:
+• MediaCo and Soccer entered into a lease agreement under which MediaCo leases to Soccer its going concern
+contributed by TeamCo and Soccer respectively. In exchange, MediaCo receives from Soccer a lease payment.
+• Soccer, as licensor, and TeamCo, as licensee, entered into a license agreement that regulate the use by TeamCo of
+MediaCo's intellectual property rights including the A.S. Roma brands (previously leased to Soccer under the lease
+agreement) in connection with its sport and indirect media rights activities. Notably, the direct media rights and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+ASR Media and Sponsorship S.p.A.
+
+sponsorship activities are not licensed back to TeamCo and remain exclusively at Soccer's level.
+• MediaCo, Soccer, and TeamCo entered into a services agreement, which requires TeamCo to perform certain basic
+administration activities not available internally to MediaCo and Soccer in exchange for a service charge of nominal
+value.
+• TeamCo and MediaCo entered into a playing and staging agreement, which requires TeamCo to play all matches as
+required under applicable football body regulations, to perform any obligations and meet all requirements under
+current and future media and sponsorship agreements, and to play substantially all home matches at Stadio
+Olimpico or Stadio della Roma, as applicable.
+
+MediaCo's creditors have priority claim over a large part of the revenue generated by the A.S. Roma group. Ahead of
+its bullet maturity, MediaCo's bond will be serviced directly from TeamCo's media and sponsorship revenue--close to
+70% of group revenue in fiscal 2019--and only after a marginal portion of the A.S. Roma group operating expenses.
+TeamCo retains the group's main expenses, including player salaries, and relies mainly on deferred payments and
+distributions from MediaCo as well as tickets sales to services its operating expenses and debt obligations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+ASR Media and Sponsorship S.p.A.
+
+Table 1
+
+Main Revenues And Costs Split Before Distributions
+MediaCo
+
+TeamCo
+
+Revenue
+Direct media rights revenue (non-Serie A/UEFA)
+
+Revenue
+Ticket sales and match-day revenue
+
+Indirect media rights revenue (Serie A/UEFA)*
+Sponsorship revenue
+Costs
+
+Costs
+
+Personnel costs directly attributable to the monetization of
+media rights and sponsorship (marketing and sales
+primarily)
+
+Playing staff--salary and bonuses
+
+Costs associated with the operation of Roma TV/Media
+center
+
+Nonplaying technical/trainers staff
+Any other personnel cost not paid by MediaCo
+Opex including directorate, legal, HR, finance, procurement,
+logistics, strategy, IT, communication, and stadium operations
+
+*Revenue assigned by TeamCo
+
+Table 2
+
+Key Features
+Issuer
+
+ASR Media and Sponsorship S.p.A.
+
+Security group
+
+MediaCo and Soccer
+
+Source of revenues Media broadcasting and sponsorship contracts' receivables
+Debt instrument
+Senior secured
+notes amount
+
+€275 million
+
+Maturity
+
+Aug. 1, 2024
+
+Amortization
+
+Partial amortization; 92% outstanding at maturity
+
+Debt service
+frequency
+
+Semiannually on June 30 and Dec. 31, commencing on Dec. 31, 2019
+
+Payment
+conditions
+
+DSCR>1.5x (or, if A.S. Roma us not entitled to play in Serie A, 2x) backward- and forward-looking (notably, this is the same
+trigger for an event of default to occur under the bonds); each of the secured accounts are fully funded in accordance with
+the priority of payments; no risk event is outstanding; and no insolvency of TeamCo or Soccer.
+
+Risk event
+(relegation)
+
+TeamCo is not entitled to play in Serie A League or Serie B League; or on or after the date on which each Serie A or Serie B
+team (as applicable) has played 10 or more Serie A or Serie B matches, TeamCo is not in one of the top 13 positions in the
+Serie A or Serie B league table; and the DSCR (backward- and forward-looking assuming relegation) is below 4x.
+
+Risk event
+(indirect media
+rights)
+
+Termination, revocation, or cessation of existing indirect media contracts; the league in which the A.S. Roma first team is
+eligible to play fails to reach an agreement for the licensing and broadcasting of the national or international media rights
+relating; TeamCo ceases to be entitled to indirect media revenues; and the DSCR (backward- and forward-looking) is below
+4x.
+
+Financial covenant DSCR>1.5x (or, if A.S. Roma is not entitled to play in Serie A, 2x) forward- and backward-looking.
+(event of default
+trigger)
+Debt service
+reserve
+
+The lesser of (a) maximum annual interest due on the notes and (b) 50% of the maximum annual debt service for the notes.
+
+Additional
+indebtedness
+
+The issuer may incur pari passu debt if: within 12 months from the issue date, (i) DSCR (back- and forward-looking) is equal
+or greater than 10x and (ii) has received rating agency confirmation; or after 12 months from the issue date (i) DSCR (backand forward-looking) is equal or greater than 7.5x and (ii) has received rating agency confirmation. Soccer will not incur any
+indebtedness other than indebtedness owing to and held by the issuer. TeamCo's debt is limited to €25 million.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+ASR Media and Sponsorship S.p.A.
+
+Table 2
+
+Key Features (cont.)
+Security
+
+Pledge over the corporate capital of MediaCo; pledge over the membership interest of Soccer; pledge over the accounts of
+the MediaCo (including the secured accounts); pledge over the accounts of Soccer; pledge over the account of TeamCo into
+which revenues received from UEFA will be deposited; security assignment of the rights and receivables arising under the
+existing direct media contracts, the existing indirect media rights arrangements and the existing sponsorship agreements; an
+undertaking to provide a security assignment of rights and receivables arising under the future indirect media rights
+arrangements, the future direct media contracts and the future sponsorship agreements; and a pledge over the MediaCo's
+material intellectual property rights.
+
+Key parties
+Parent company
+
+A.S. Roma S.p.A.
+
+Trustee
+
+The Law Debenture Trust Corp. PLC
+
+Security agent
+
+Unione di Banche Italiane S.p.A.
+
+Paying agent
+
+The Bank of New York Mellon, London Branch
+
+Account bank
+
+Unione di Banche Italiane S.p.A.
+
+Performance Update
+A.S. Roma's recent weaker on-field performance has not harmed MediaCo's Serie A revenue in fiscal 2019, but it will
+weigh on its UEFA competition revenue in fiscal 2020. A.S. Roma ranked sixth in the 2018-2019 Serie A season, after
+finishing no lower than third in each of the five previous seasons. Despite the weaker on-field performance and the
+change in distribution criteria applicable from 2018-2019, we expect Serie A broadcasting cash inflows to remain
+broadly stable, at about €80 million, corresponding to more than 40% of total MediaCo's total revenue in 2018-2019.
+This is due to the increase in value of the associated contracts negotiated by Lega Nazionale Pro for the three seasons
+starting 2018-2019.
+Despite the exposure to renegotiation risk and future changes in allocation, we deem the Serie A broadcasting cash
+inflows as MediaCo's most important and stable source of cash to service its debt. For example, even if A.S. Roma
+were to finish No. 17 next season out of 20 teams, we estimate that its Serie A revenue would only be about 10% lower
+than our base-case assumption of about €70 million on a sustainable basis. However, UEFA broadcasting revenue is
+directly dependent on A.S. Roma's Serie A ranking and, thereafter, its progress in the Champions League or Europa
+League. Therefore, this revenue is significantly less predictable--about €58 million in the 2018-2019 season, compared
+with about €84 million in 2017-2018 and €28 million in 2016-2017.
+Due to weaker on-field performance last season, A.S. Roma did not qualify for the UEFA Champions League for the
+coming season. Its sixth place finish in Serie A did not initially grant the club direct access to the UEFA Europa League
+either, requiring it to play in the qualification round during summer 2019. However, UEFA has banned A.C. Milan from
+all UEFA competitions after the club breached its financial fair play break-even obligations. As a result, A.S. Roma
+gained entry to the UEFA Europa League, replacing A.C. Milan, on June 28, 2019. We expect MediaCo to receive a
+minimum of €12 million from UEFA broadcasting revenue in fiscal 2020. MediaCo is also entitled to payments
+depending on games won or drawn during the group stage, and further payments if A.S. Roma then progresses through
+the knockout stages. Due to the intrinsic uncertainty of, and reliance on, A.S. Roma's performance, we do not include
+additional UEFA revenue in our cash flow forecasts, unless certain.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+ASR Media and Sponsorship S.p.A.
+
+TeamCo's improved commercial efforts support sponsorship revenue growth, although short-term contracts entail
+renewal risk. Shirt partnerships account for the largest segment of sponsorship revenue, at about 43% in 2018-2019.
+Furthermore, the three-year contract TeamCo signed with Qatar Airways Group (not rated) in 2018 makes A.S. Roma
+one of the strongest Italian clubs in terms of shirt sponsorship revenue, behind A.C. Milan and Juventus, and in line
+with F.C. Internazionale.
+Top European clubs have recently experienced an increase in shirt sponsorship revenue, although we assume in our
+base case that TeamCo will renew this contract at similar terms. This reflects both the high competition among clubs
+to attract sponsors and the inherent dependency of this source of income on A.S. Roma's on-field performance. For
+example, in 2018, TeamCo also signed contracts with Hyundai and Betway, who sponsor the back of A.S. Roma's
+match day jersey and training jersey, respectively. These deals coincided with a successful UEFA Champions League
+campaign, in which the club reached the semi-final against Liverpool. Although these contracts support our view of
+A.S. Roma's brand strength, we also note that the Italian government passed the "Dignity Decree" in third-quarter
+2018, banning any gambling or betting advertisement in Italian sports. As a result, TeamCo had to terminate its
+contract with Betway early, in early July 2019, to comply with the legislation.
+The availability of sufficient financial resources remains critical for TeamCo to attract players and deliver strong
+on-field performance. During fiscal 2019, TeamCo experienced an increase in personnel costs while revenue declined,
+largely due to weaker performance in the UEFA Champions League compared with the previous season. Nevertheless,
+the sale of some of the club's players ahead of June 30 allowed TeamCo to fund its immediate liquidity needs.
+Based on existing known player contracts, we understand that some of the cost pressure will begin to ease from
+2019-2020 season. We also expect TeamCo will seek to calibrate new players' salaries in line with lower revenue in
+2019-2020, on account of TeamCo's failure to qualify for the UEFA Champions League.
+We expect the club's investment strategy will focus on maintaining a high-quality roster, in line with its ambition and
+fan expectations. However, the strength of the group's financial resources remains critical to attract top quality players.
+This is necessary to deliver strong and consistent on-field performance, which, in turn, increases the group's ability to
+generate revenue. Currently, TeamCo's financial leverage on a consolidated basis is high, in our view, potentially
+limiting its ability to invest in top-quality players compared with other clubs. However, we see American-based Raptor
+Group, which acquired A.S. Roma in 2011 and remains the main shareholder, as a strategic investor that may continue
+to provide fresh capital to support player investments.
+
+Rating Rationale
+In light of the legal and contractual structure in place, the issue rating on the €275 million bonds reflects our
+assessment of MediaCo's risk profile on a stand-alone basis, combined with our view on TeamCo's creditworthiness to
+reflect MediaCo's cash flows dependency on TeamCo's operational and financial performance.
+At present, the rating on the debt is not constrained by TeamCo's creditworthiness. However, the parent linkage may
+limit potential positive rating actions and spur negative rating actions on the notes.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+ASR Media and Sponsorship S.p.A.
+
+MediaCo's Stand-Alone Credit Profile
+Following the €275 bond issuance, we assess MediaCo's SACP at 'bb-'.
+In our view MediaCo's stand-alone creditworthiness has weakened, mainly due to its more aggressive capital structure
+that will increase creditors' exposure to refinancing risk. This is in addition to its materially volatile cash flow available
+to service debt over the long term, owing to short-term contracts linked directly or indirectly to TeamCo's on-field
+performance.
+
+Business Risk
+MediaCo's operational risk is at the higher end of our range of assessments at '11' (on a scale of '1' [lowest risk] to '12'
+[highest risk]). This reflects the potential for substantial cash flow volatility after its short-term contracts expire.
+
+Financial Risk
+Base-case assumptions
+Serie A broadcasting cash inflows (43% of MediaCo's total revenue in fiscal 2019): A significant portion of MediaCo's
+revenue is derived from TeamCo's assignment of its share of revenue from the Italian national football body's (Serie
+A's) sale of its broadcasting rights. The value of the Serie A broadcasting contract has increased over the years and, on
+account of the applicable distribution criteria, TeamCo has historically been allocated one of the largest portions of
+broadcasting revenue among Serie A teams. Nevertheless, any reduction in future contracts' value upon each
+three-year contract renegotiation, any changes in the allocation of media rights revenue, or poor on-pitch performance
+by AS Roma's first team could be detrimental to MediaCo's future receivables. We consider that, following recent
+years' growth in contract value, broadcasting contracts might reach a price ceiling. A combination of elevated deal
+prices, an evolving competitive environment among broadcasters, and some signs of a decline in the viewership of
+free-to-air broadcasters and pay-TV players may deter broadcasters from significantly bidding up prices of future
+broadcasting arrangements. As such, we assume that future contracts will be renegotiated on similar terms as those for
+the 2018-2021 seasons.
+The rules governing the allocation of the broadcasting revenues to Serie A clubs are set out by law. They were
+amended from the 2018-2019 season and will be further adjusted from the 2021-2022 season. The changes contribute
+to reduced revenue volatility in the event of TeamCo's underperformance by increasing the portion of media revenue
+that is divided equally among the Serie A teams to 50%, up from 40%. Although this provides better visibility on the
+short-term receivables for MediaCo, the changes result in the reduction of the overall share of performance-based
+media revenue from which top clubs, including A.S. Roma, have historically benefitted. We do not expect substantial
+changes in the short term; however forecasting medium and long-term changes in law is difficult. As such we assume
+that distribution criteria for Serie A broadcasting rights revenue will remain in line with the currently known allocation
+criteria.
+Despite TeamCo's recent on-field performance, we consider football match results to be inherently volatile and, to a
+significant degree, dependent on TeamCo's economic resources and investment in players. In our view, in the long
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+ASR Media and Sponsorship S.p.A.
+
+term, there is no certainty that TeamCo's economic resources will be sufficient to continue operating a
+high-performing football team in a market where competition, players' transfer fees, and wage inflation are constantly
+rising. As a result, under our base-case scenario we prudently assume that TeamCo's first team will rank seventh in
+Serie A over our forecast period.
+UEFA broadcasting revenue (31% of MediaCo's total revenue in fiscal 2019): The broadcasting revenue distributed
+from UEFA is solely dependent on TeamCo's Serie A ranking and, thereafter, its progress through the UEFA
+competitions. Therefore, poor on-pitch performance by A.S. Roma's first team could have a more pronounced adverse
+effect on such receivables, compared to Serie A's. Additionally, a strong on-field performance by TeamCo may alone
+not be sufficient for MediaCo to gain access to UEFA broadcasting revenue. This is because the number of teams
+eligible to play for the UEFA Champions League or UEFA Europa League also depends upon the overall ranking of
+Serie A in comparison with other European leagues, and to eventual changes of the access list decided by UEFA.
+Moreover, failure to comply with the UEFA financial fair play rules could lead to revenue from participation in UEFA
+competitions being withheld or ultimately to the exclusion of TeamCo from UEFA-sponsored competitions. In light of
+these observations, and consistently with long-term Serie A ranking assumption, under our base case TeamCo's first
+team does not qualify for UEFA competitions.
+Sponsorship revenue (22% of MediaCo's total revenue in fiscal 2019): Sponsorship agreements have short-term tenor
+generally ranging from two to five years. The largest sponsorship contracts currently in place will terminate in two
+years--Qatar Airways and Hyundai--and five years--Nike. When they expire, A.S. Roma's on-pitch performance and
+popularity will play a substantial role in Soccer's ability to renew the contracts and negotiate similar or better
+economic terms. In the short term, TeamCo is, in our view, well placed to capitalize on its recent on-pitch performance
+and the associated strengthening of its brand recognition. As such, we assume in our base case that TeamCo will be
+able to renew the existing contract, albeit at similar terms. This reflects both the high competition among clubs to
+attract sponsors and the inherent dependency of this source of income on A.S. Roma's on-field performance.
+Archive content revenue (2% of MediaCo's total revenue in fiscal 2019): Public television and radio broadcasting rights
+for Serie A matches must be sold on a centralized basis by law. As a result, until midnight of the eighth day after Serie
+A matches are played, domestic broadcasting rights are jointly owned by Italian national football body and the Serie A
+clubs. Thereafter, clubs are able to freely market the archive content of their home matches. Soccer has an agreement
+with Sky Italia, thereafter assigned to MediaCo, for the exclusive commercialization of A.S. Roma's archive rights in
+relation to matches played in Serie A, Coppa Italia, or Supercoppa Italiana. The agreement expires in 2021 and
+generates approximately €4 million to MediaCo. Beyond its expiration, we assume the contract will be renewed at the
+same terms.
+Roma TV and Roma Radio revenue (2% of MediaCo's total revenue in fiscal 2019): Existing regulation grants
+individual clubs the right to enter into direct agreements with pay-TV providers for broadcasting content other than
+live matches. MediaCo owns and Soccer operates Roma TV, a subscription-based pay-TV channel, which broadcasts a
+variety of A.S. Roma-related content. Sky Italia has thereafter been granted the exclusive license to distribute Roma
+TV via pay-TV under a contract set to expire in 2021. Furthermore, MediaCo owns and Soccer also operates an FM
+radio station, named Roma Radio, which provides national and international radio streaming. Cash inflows relating to
+RomaTV and Roma Radio form part of MediaCo revenue entitlement and totaled €3.5 million during fiscal 2019. Such
+revenue is assumed to remain constant.
+Operating expenses: MediaCo is, by construct, responsible for a negligible portion of A.S. Roma group's operating
+expenses, the majority of which remain at TeamCo level. The cost split within the A.S. Roma group contributes to
+healthy annual debt service coverage ratios (ADSCR) at MediaCo, provided that TeamCo has enough liquidity to pay
+its operating expenses, including players' and management's salaries. We account for such dependency as part of our
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 14
+
+ASR Media and Sponsorship S.p.A.
+
+parent linkage dependency assessment.
+Taxation: MediaCo is consolidated with Neep Roma Holding S.p.A and some of its subsidiaries for corporate income
+tax purposes until June 2021. Pursuant to this arrangement, which is subject to periodic renewal and potential
+extension, MediaCo can benefit from tax losses generated within the tax consolidation group. Our stand-alone analysis
+assumes MediaCo is directly responsible for its own tax, including both corporate income and regional tax.
+Refinancing: MediaCo needs to refinance approximately 92% of the bond principal balance in 2024. In our base case,
+we look beyond the bond's current maturity date and assume refinancing via a fully amortizing debt instrument
+maturing in 2037. This is 12 years before the expected termination date of the contractual arrangements granting
+MediaCo access to TeamCo's media and sponsorship receivables.
+
+Key metrics
+• The preliminary operations phase SACP is constrained by our assessment of the post-refinancing period, during
+which ADSCRs are lower than before 2024, due to our assumption of a higher cost of debt (interest and debt
+amortization) after refinancing, and lower revenue visibility in later years.
+• We assess the preliminary operations phase SACP at 'b+', reflecting our expectation that MediaCo will generate a
+minimum ADSCR of at least 2.8x after refinancing. Before 2024, we project a minimum ADSCR of 4.6x.
+
+Downside-case assumptions
+In our downside scenario, we consider the risk of TeamCo being temporarily relegated from Serie A. This is, in our
+view, a low probability event based on A.S. Roma's first team history, but with a high impact. If A.S. Roma's first team
+were to be relegated to Serie B at the end of the next season, MediaCo could expect to receive approximately €1.5
+million in broadcasting cash inflow plus a one-time parachute payment from Serie A that is currently €25 million, as
+opposed to the €80 million it received from Serie A in fiscal 2019. Additionally, in a relegation scenario, many of the
+existing sponsorship agreements provide for significant penalties, reductions, or even termination. We therefore also
+expect that, while in Serie B, sponsors may exercise their rights to reduce contracted payments where possible and
+that they may not renegotiate expiring contracts. In summary, our main downside assumptions include:
+• TeamCo to be relegated twice over our forecast period and, in both cases, promoted back to Serie A the following
+season;
+• While in Serie B, MediaCo will receive approximately €1.5 million in broadcasting cash inflows from Serie B in
+addition to €25 million parachute payment from Serie A;
+• While in Serie B, sponsorship revenue will generally drop by 50%, with some exceptions.
+• Operating costs increase by 50% compared with the base case; and
+• A base rate of 6.0% and credit spread of 9.0% after refinancing.
+
+Downside-case key metrics
+• MediaCo is able to withstand a short-term relegation scenario in line with our assumptions with the support of its
+available liquidity sources, largely owing to its limited debt service obligations under the bond issuance.
+• However, after the bond issuance, the substantially higher amount of debt needing refinancing at maturity reduces
+MediaCo's capacity to survive a second relegation that will take place in the medium-to-long term, where the
+visibility on its contracted revenue is weaker.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 15
+
+ASR Media and Sponsorship S.p.A.
+
+• We reflect the resilience to a short-term shock into a one-notch positive adjustment to the preliminary operations
+phase SACP. This leads to an operations phase SACP of 'bb-'.
+
+Liquidity
+The bond benefits from a fully funded reserve of €9.9 million, aimed to cover the lesser of the peak annual interest
+service and half of peak annual debt service. The bond will also benefit from a requirement for MediaCo to prefund the
+operating expenditure and debt service accounts, up to defined target balances, before cash flows can be distributed to
+TeamCo.
+Furthermore, MediaCo features an unfunded risk reserve account serving as a cash trapping mechanism in the event
+that ADSCRs fall--or are expected to fall--below 4x due to poor on-pitch performance or inability to get timely access
+to receivables from indirect media contracts.
+In our view, due to the high potential for cash flow volatility, liquidity is less than adequate.
+
+Parent Linkage Dependency Assessment
+MediaCo has been structured in order to provide creditor protection against the risk associated with A.S. Roma's
+operating and financial performance. Nevertheless, A.S. Roma's operations are vital to its business, results of
+operations, financial condition, and cash flows. As such, it is not possible, in our view, to fully isolate MediaCo's
+stand-alone credit standing from that of its parent.
+We expect that MediaCo's legal set-up and, most notably, its ownership of the "A.S. Roma" brand and trademarks may
+support debt repayment if its parent were to enter a financial distress scenario. However, under such circumstances
+MediaCo may be exposed to potential temporary cash flow disruptions that, combined with high leverage and
+less-than-adequate liquidity, could make it more financially vulnerable.
+Therefore, the rating on the bond is also based on our assessment of TeamCo's creditworthiness. Our current view of
+the latter, combined with our recognition of the safeguards that structurally enhance MediaCo's creditors compared to
+TeamCo's, also limits MediaCo's bond rating at 'bb-'.
+
+Rating Score Snapshot
+Operations phase SACP (senior debt)
+• Operations phase business assessment: 11 (1=best to 12=worst)
+• Preliminary SACP: b+
+• Downside impact on preliminary SACP: bb (+1 notch)
+• Liquidity: Less than adequate
+• Comparative analysis assessment: Neutral
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 16
+
+ASR Media and Sponsorship S.p.A.
+
+• Operations phase SACP: bbModifiers (senior debt)
+• Parent linkage: Linked (bb- cap)
+• Structural protection: Neutral
+• Senior debt issue rating: BB-
+
+Recovery
+The recovery rating on the notes is '5', reflecting our expectation of modest recovery (10%-30%; rounded estimate:
+10%) in the event of a payment default.
+
+Related Criteria
+• Criteria | Structured Finance | General: Counterparty Risk Framework: Methodology And Assumptions, March 8,
+2019
+• Criteria - Corporates - Project Finance: Project Finance Framework Methodology, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Key Credit Factors For Social Infrastructure, Accommodation, And
+Entertainment Project Financings, Sept. 16, 2014
+• Criteria - Corporates - Project Finance: Project Finance Operations Methodology, Sept. 16, 2014
+• Criteria | Corporates | Project Finance: Project Finance Transaction Structure Methodology, Sept. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Project Finance: Project Finance Construction And Operations Counterparty Methodology,
+Dec. 20, 2011
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• ASR Media And Sponsorship S.p.A. Proposed Issuance Assigned Preliminary 'BB-' Long-Term Issue Rating; Outlook
+Stable, July 29, 2019
+
+Additional Contact:
+Infrastructure Finance Ratings Europe; InfrastructureEurope@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 18
+
+

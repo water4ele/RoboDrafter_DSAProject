@@ -1,0 +1,1406 @@
+American Assets Trust Inc.
+Primary Credit Analyst:
+Samantha L Stevens, New York + 1 (212) 438 1888; samantha.stevens@spglobal.com
+Secondary Contact:
+Kristina Koltunicki, New York (1) 212-438-7242; kristina.koltunicki@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 1
+
+American Assets Trust Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bbbBBB-/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Above-average asset quality in high-barrier-to-entry markets where
+Geographic concentration, with the majority of net operating income
+land is scarce and development is restricted via zoning/environmental (NOI) generated in California, which could pressure rents and occupancy
+laws and lengthy entitlement processes.
+levels if market fundamentals were to deteriorate.
+Diversification by asset classes (office, retail, and multifamily), which
+should support fairly stable cash flows.
+
+Vacancies can have an outsized impact on portfolio operating metrics
+due to the company’s smaller scale, which has resulted in some
+performance volatility.
+
+Credit-protection measures expected to improve significantly
+following the largely equity-funded acquisition of La Jolla Commons
+in the second quarter of 2019.
+
+The potential reform of Proposition 13 in California could increase
+nonresidential property taxes and pressure margins, which are already
+modestly weaker than those of the company’s peers due to its smaller
+scale.
+
+The acquisition of La Jolla Commons modestly improves the company's scale in our view, while maintaining
+above-average asset quality. In June 2019, American Assets Trust Inc. (AAT) announced the acquisition of La Jolla
+Commons, consisting of two class 'A' office towers, an entitled development land parcel, and two parking structures in
+San Diego for a purchase price of $525 million (less a seller credit of approximately $11.5 million). The two office
+towers were built in 2008 and 2014. One tower, with approximately 421,000 square feet, is 100% leased to LPL
+Financial. The other, which has about 303,000 square feet, is 95.9% leased following the execution of a new lease with
+Illumina for some of the remaining space. (Upon acquisition, it was approximately 72% leased to tenants such as U.S.
+Bank National Association, Paul Hastings LLP, and Finch, Thornton & Baird LLP.) La Jolla Commons has
+above-average annualized base rent (ABR) per square foot of $51.62 as of June 30, 2019. As a result of this transaction,
+AAT's portfolio now consists of 28 properties with approximately $3.1 billion in undepreciated real estate assets.
+However, its concentration has also increased, with over 60% of square footage in California, including 43% in San
+Diego alone.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 2
+
+American Assets Trust Inc.
+
+Chart 1
+
+Credit-protection measures are expected to improve materially over the next year as the company realizes EBITDA
+from the recent equity-financed acquisition of La Jolla Commons. The acquisition of La Jolla Commons was largely
+funded through equity issuance ($472.6 million), along with some incremental debt. We do not expect any significant
+acquisitions over the next two years. Rather, we believe AAT will focus on pre-leasing tenants for the development of
+the third tower. We expect a high level of pre-leasing prior to construction and anticipate funding for future
+development will be largely leverage-neutral. We expect trailing-12-month (TTM) S&P Global Ratings'-adjusted debt
+to EBITDA to decline to the low-to-mid-5x area by year-end 2020, supported by EBITDA growth from the recent
+acquisition, positive re-leasing spreads, and some expected debt repayment. We also expect AAT to continue to issue
+a modest amount of equity if its share price were to trade at a premium to the analyst consensus of net asset value.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 3
+
+American Assets Trust Inc.
+
+Outlook: Stable
+
+The outlook on AAT is stable. We expect cash flows from AAT's portfolio of well-positioned West Coast shopping
+centers, office buildings, mixed-use properties, and multifamily communities will increase over the next two years,
+driven by the recent acquisition of La Jolla Commons, positive re-leasing spreads, and the completion of
+redevelopment projects. We expect improvement in the company's credit-protection measures, with S&P Global
+Ratings'-adjusted debt to EBITDA declining to the mid- to high-5x area in 2019, followed by additional
+improvement to the low- to mid-5x area in 2020 as it generates EBITDA from La Jolla Commons. Moreover, we
+see fixed-charge coverage (FCC) rising to the high-3x area over the next year as AAT pays down some outstanding
+secured debt.
+
+Upside scenario
+We would consider a positive rating action if AAT continues to meaningfully build scale, such that any one tenant
+vacancy would not materially affect operating metrics negatively or disrupt cash flows. We would also expect
+operating performance to improve, such that same-store NOI growth returns to positive levels with occupancy and
+rents continuing to outpace those of its peers. AAT's adjusted debt to EBITDA would also need to be sustained in
+the mid-5x area or lower, perhaps through greater- than-expected equity issuance, with FCC in the mid-3x range or
+better, which is currently in line with our projections. We believe the main factor in improving our rating on AAT
+lies with the company growing its scale and reducing meaningful tenant concentration to further reduce volatility
+of its cash flows and operating metrics.
+
+Downside scenario
+Although unlikely, we could consider a negative rating action if operating results deteriorate meaningfully and
+compare unfavorably to those of similarly sized and rated peers for a sustained period. We would also consider
+lowering the rating if the company pursues debt-financed acquisitions or development such that debt to EBITDA
+rises above 7.5x or FCC declines below 2.1x on a sustained basis.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 4
+
+American Assets Trust Inc.
+
+Assumptions
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020, with unemployment remaining in the mid- to
+high-3% area, which should support steady real
+estate demand;
+• Same-property NOI growth of approximately 1%-2%
+in 2019, improving to the 3% area in future years;
+• Acquisitions of approximately $525 million in 2019
+(already executed), with no significant additional
+acquisitions or asset sales expected for 2019 and
+2020;
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt to EBITDA (x)
+
+6.6 5.4-5.8 5.2-5.6
+
+Fixed-charge coverage (x)
+
+3.4 3.5-3.9 3.8-4.2
+
+Debt to debt and undepreciated equity (%)
+
+47
+
+36-40
+
+34-38
+
+All figures are S&P Global Ratings-adjusted. A--Actual.
+E--Estimate.
+
+• Development funding of approximately $15
+million-$30 million per year, excluding the future
+development of entitled land at La Jolla Commons;
+• Equity issuance of at least $500 million in 2019; and
+• Approximately $55 million in maintenance capital
+expenditures (capex) per year.
+
+Base-case projections
+We expect AAT to post flat to modestly positive same-property NOI growth in 2019, improving in 2020 and 2021. Thus
+far in 2019, lease termination fees within office and retail have hurt AAT's operating performance. However, we expect
+improvement in future quarters, supported by solid re-leasing spreads, stable occupancy, and the addition of
+development and acquisitions to the same-property pool.
+We expect S&P Global Ratings-adjusted debt to EBITDA to decline to the low- to mid-5x area over the next two years.
+We believe that metrics could further improve based on the company's willingness to issue additional equity. We also
+expect that any future development for the third tower at La Jolla Commons will be funded in a largely
+leverage-neutral manner, such that credit-protection measures do not rise significantly following expected
+deleveraging.
+
+Company Description
+AAT--a publicly traded real estate investment trust (REIT)--owns a small but diversified portfolio of assets consisting of
+12 retail shopping centers, nine office properties, six multifamily properties, and a mixed-use property that consists of
+a hotel and a retail shopping center. The company's core markets include San Diego, the San Francisco Bay area,
+Portland, Seattle, and Oahu.
+
+Business Risk: Satisfactory
+AAT's operating performance has remained largely stable, with leased occupancy above 90% and positive re-leasing
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 5
+
+American Assets Trust Inc.
+
+spreads for all segments despite some volatility in same-property metrics due to the timing of lease termination fees
+and tenant move-outs. In the first quarter of 2019, same-property NOI percentage growth (cash basis, excluding
+redevelopment) decelerated to 0.7% (compared to 7.0% in the first quarter of 2018), largely attributable to -3.2%
+growth at retail properties from lower rents upon renewal at some assets and $4.5 million in non-cash lease
+termination fees in connection with the surrender of the former Sears location in Carmel Mountain Plaza. In the
+second quarter of 2019, same-property NOI percentage growth (excluding redevelopment) further decelerated to
+-5.1% (compared to 6.8% during the same period in 2018) due to negative growth in the office (-10%) and retail (-3.3%)
+segments. However, excluding the impact of lease-termination fees, overall same-property NOI growth would have
+been 1.2%, and growth at multifamily properties remained positive at 4.4%. We expect improving metrics as new
+leases contribute cash rents (the former Sears space is now leased to At Home Corp.) and as
+development/redevelopment projects are leased and enter the same-property pool.
+Chart 2
+
+AAT's assets are highly productive, with above-average asset quality and rents. ABR per square foot in the company's
+office portfolio (45% of cash NOI for the quarter ended June 30, 2019) continues to rise, reaching $43.85 on June 30,
+2019, supported by the acquisition of La Jolla Commons and solid re-leasing spreads. The company's retail assets
+(30% of cash NOI) continue to boast strong ABR per leased square foot at $24.49, despite declines over the past year.
+(Annualized retail ABR/sq. ft. was $25.48 in the second quarter of 2018.) The mixed-use Waikiki Beach Walk property
+(11% of cash NOI) has less than 100,000 sq. ft. of retail space and a hotel with 369 units. The retail portfolio generates
+an ABR of $118/sq. ft., while the top-ranked Embassy Suites hotel generates annualized revenue per available room of
+$280 per day. Multifamily properties (14% of cash NOI) had average monthly base rent increase to $2,088 per leased
+unit from $2,048 a year prior. The portfolio has strong embedded growth, with approximately 19% of in-place office
+rents below market as of June 30, 2019, which we believe should support strong re-leasing spreads.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 6
+
+American Assets Trust Inc.
+
+Despite improvement in scale following the recent acquisition, AAT remains a relatively small REIT, with just 28
+properties. Moreover, the company is concentrated by tenant and geography. For the three months ended June 30,
+2019, Southern and Northern California contributed 36% and 15% of cash NOI, respectively, with AAT's top-three
+tenants contributing 15.1% of ABR. (LPL Holdings Inc. is the top tenant, at 8.2% of ABR.) However, lease expirations
+are slightly more manageable than in previous years, with 2.6% of leases set to expire in 2019 followed by 8.9% in
+2020 and 6.9% in 2021. The company also has a good track record with renewal rates, which minimizes some risk.
+
+Peer comparison
+AAT is one of our smaller rated REITs, with undepreciated real estate of $3.1 billion as of June 30, 2019. We view
+ROIC, Hudson Pacific Properties, and Kilroy as close peers, given their concentration on the West Coast and focus on
+office and retail, though AAT is more diversified. (HPP and Kilroy are also much larger.). Washington REIT is similarly
+diversified but operates within different markets. (The company is concentrated in the D.C. area.) In our view, AAT has
+above-average asset quality. Although AAT's retail portfolio is small at just 12 shopping centers, the company's retail
+rents are above average for our rated strip-center REITS. (Only Federal Realty has higher rents.) Likewise, the
+company's office rents continue to improve and remain above average.
+Table 1
+
+American Assets Trust Inc.--Peer Comparison
+Industry sector: Real
+estate companies
+American Assets
+Trust
+
+Retail Opportunity
+Investments Corp.
+
+Hudson Pacific
+Properties
+
+Kilory Realty
+Corp.
+
+Washington
+REIT
+
+BBB-/Stable/--
+
+BBB-/Stable/--
+
+BBB-/Stable/--
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+Revenue
+
+328.5
+
+290.4
+
+692.9
+
+720.3
+
+332.5
+
+EBITDA
+
+190.6
+
+207.5
+
+396.3
+
+446.4
+
+201.3
+
+Funds from operations
+(FFO)
+
+134.9
+
+145.6
+
+288.8
+
+329.2
+
+149.9
+
+Cash flow from
+operations
+
+137.2
+
+131.1
+
+215.2
+
+342.6
+
+145.4
+
+Free operating cash flow
+(FOCF)
+
+84.3
+
+91.8
+
+(121.2)
+
+244.3
+
+76.4
+
+Cash and short-term
+investments
+
+48.0
+
+6.1
+
+53.7
+
+73.4
+
+6.0
+
+1,250.7
+
+1,493.0
+
+2,850.7
+
+2,923.2
+
+1,240.7
+
+802.5
+
+1,308.4
+
+3,943.3
+
+4,201.3
+
+1,068.5
+
+EBITDA margin (%)
+
+58.0
+
+71.4
+
+57.2
+
+62.0
+
+60.5
+
+Return on capital (%)
+
+3.8
+
+3.5
+
+1.9
+
+2.4
+
+3.2
+
+EBITDA interest
+coverage (x)
+
+3.5
+
+3.3
+
+3.5
+
+3.7
+
+3.8
+
+FFO cash interest
+coverage (x)
+
+3.4
+
+3.4
+
+3.7
+
+3.8
+
+3.9
+
+Debt/EBITDA (x)
+
+6.6
+
+7.2
+
+7.2
+
+6.5
+
+6.2
+
+10.8
+
+9.8
+
+10.1
+
+11.3
+
+12.1
+
+Rating as of Aug. 22,
+2019
+(Mil. $)
+
+Debt
+Equity
+Adjusted ratios
+
+FFO/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 7
+
+American Assets Trust Inc.
+
+Table 1
+
+American Assets Trust Inc.--Peer Comparison (cont.)
+Industry sector: Real
+estate companies
+American Assets
+Trust
+
+Retail Opportunity
+Investments Corp.
+
+Hudson Pacific
+Properties
+
+Kilory Realty
+Corp.
+
+Washington
+REIT
+
+Debt fixed-charge
+coverage (x)
+
+3.4
+
+3.2
+
+3.5
+
+3.5
+
+3.6
+
+Total coverage (all equity
+distributions) (x)
+
+1.5
+
+1.3
+
+1.4
+
+1.5
+
+1.3
+
+Debt/debt and
+undepreciated equity (%)
+
+47.3
+
+47.7
+
+38.1
+
+34.3
+
+40.3
+
+Financial Risk: Intermediate
+AAT's credit-protection measures have improved over the past few years, with TTM debt to EBITDA declining to 6.6x
+as of June 30, 2019 (compared to a peak of 6.9x in 2017 after three largely debt-financed acquisitions). Following the
+recent acquisition of La Jolla Commons, which was mainly funded with equity ($472.6 million), we expect further
+improvement in credit metrics over the next two years. We project that AAT's TTM debt to EBITDA will decline to the
+mid-to-high-5x area in 2019 followed by the mid- to low-5x area in 2020, with fixed-charge coverage improving to the
+high 3x area or better as the company continues to pay down secured debt when due.
+Chart 3
+
+In January 2019, AAT entered into the second amendment to its credit agreement, extending the maturity of its term
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 8
+
+American Assets Trust Inc.
+
+loan A ($100 million) to Jan. 21, 2021 (subject to three one-year extension options). As a result, AAT does not have
+any maturities for the remainder of 2019 and just $51 million in secured maturities in 2020, which we expect the
+company will pay down when due. AAT's weighted average fixed interest rate was 4.0% on June 30, 2019, with a
+weighted average maturity of 5.0 years. We expect modest improvement in these figures following the issuance on
+July 30 of $150 million in private placement notes due in 2030 at 3.91%, with proceeds used to repay amounts
+outstanding on the credit facility (along with general corporate purposes).
+
+Financial summary
+Table 1
+
+American Assets Trust Inc.--Financial Summary
+Industry sector: Real estate companies
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+328.5
+
+314.2
+
+294.3
+
+275.5
+
+260.0
+
+EBITDA
+
+190.6
+
+184.0
+
+173.5
+
+162.7
+
+156.5
+
+Funds from operations (FFO)
+
+134.9
+
+132.8
+
+121.7
+
+110.1
+
+101.4
+
+Cash flow from operations
+
+137.2
+
+145.7
+
+121.9
+
+103.8
+
+101.6
+
+Free operating cash flow (FOCF)
+
+84.3
+
+99.8
+
+63.8
+
+(22.8)
+
+(37.6)
+
+Cash and short-term investments
+
+48.0
+
+82.6
+
+44.8
+
+39.9
+
+59.4
+
+1,250.7
+
+1,266.8
+
+1,042.8
+
+1,046.0
+
+1,026.9
+
+802.5
+
+844.1
+
+838.6
+
+828.9
+
+766.6
+
+EBITDA margin (%)
+
+58.0
+
+58.6
+
+58.9
+
+59.0
+
+60.2
+
+Return on capital (%)
+
+3.8
+
+4.8
+
+5.3
+
+5.2
+
+4.9
+
+EBITDA interest coverage (x)
+
+3.5
+
+3.2
+
+3.1
+
+2.9
+
+2.6
+
+FFO cash interest coverage (x)
+
+3.4
+
+3.6
+
+3.4
+
+3.1
+
+2.9
+
+Debt/EBITDA (x)
+
+6.6
+
+6.9
+
+6.0
+
+6.4
+
+6.6
+
+10.8
+
+10.5
+
+11.7
+
+10.5
+
+9.9
+
+Debt fixed-charge coverage (x)
+
+3.4
+
+3.1
+
+3.0
+
+2.8
+
+2.6
+
+Total coverage (all equity distributions) (x)
+
+1.5
+
+1.5
+
+1.4
+
+1.4
+
+1.4
+
+47.3
+
+47.8
+
+44.4
+
+45.8
+
+47.7
+
+(Mil. $)
+
+Debt
+Equity
+Adjusted ratios
+
+FFO/debt (%)
+
+Debt/debt and undepreciated equity (%)
+
+Liquidity: Adequate
+In our view, AAT has adequate sources of liquidity to cover its uses over the next 12 months. The company's portfolio
+is largely unencumbered. ($2.9 billion of gross assets are unencumbered as of the end of second-quarter 2019). This
+provides the company with additional financial flexibility, should the need ever arise to raise capital by securing these
+assets with mortgage debt.
+Our assessment of the company's liquidity profile incorporates the following expectations and assumptions:
+• Sources of liquidity will exceed uses by at least 1.2x or more over the next 12 months;
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 9
+
+American Assets Trust Inc.
+
+• Net liquidity sources will remain positive, even if forecasted EBITDA declines by 10%;
+• The company will maintain sufficient covenant headroom to allow for forecasted EBITDA to decline by 10%
+without breaching coverage tests;
+• The company has sound relationships with its banks; and
+• AAT has a generally satisfactory standing in the credit markets.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash and equivalents of $44.8 million
+on June 30, 2019;
+
+• Principal mortgage amortization of approximately
+$1 million-$2 million per year;
+
+• $150 million in proceeds from the issuance of
+private placement notes in July 2019;
+
+• Maintenance capex of about $55 million per year;
+
+• $255 million in capacity under the company's $350
+million revolving line of credit due in January 2022,
+subject to two six-month extensions at the
+company's option; and
+
+• Approximately $12 million in unfunded development
+related to the Torrey Point project; and
+• Common dividends of approximately $85
+million-$105 million per year.
+
+• Assumed funds from operations will total $150
+million-$180 million in 2019 and 2020.
+
+Debt maturities
+Chart 4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 10
+
+American Assets Trust Inc.
+
+Covenant Analysis
+Compliance expectations
+AAT was in compliance with all applicable covenants as of June 30, 2019. We believe the company will maintain
+sufficient cushion over the next 12-24 months.
+
+Requirements
+Credit facility:
+• Maximum leverage ratio of 60%;
+• Maximum secured leverage ratio of 40%;
+• Minimum FCC ratio of 1.50x;
+• Minimum unsecured interest coverage ratio of 1.75x;
+• Maximum unsecured leverage ratio of 60%; and
+• Maximum recourse indebtedness of 15% of total asset value.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+For investment-grade real estate companies, we typically rate the senior unsecured debt the same as the issuer credit
+rating, unless the percentage of secured debt exceeds 35% of total undepreciated real estate assets (or 40% of the fair
+market value of assets). As of June 30, 2019, a significant majority of AAT's properties were unencumbered.
+
+Analytical conclusions
+AAT has no publicly traded unsecured notes outstanding. AAT's ratio of secured debt to undepreciated asset base was
+less than 10% as of June 30, 2019, below the threshold of 35%. Therefore, should the company issue any public
+unsecured notes in the future (with a similar ratio of secured debt to total assets), they would likely be rated the same
+as the issuer credit rating.
+
+Reconciliation
+Table 3
+
+Reconciliation Of American Assets Trust Inc.'s Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-American Assets Trust Inc.'s reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+Revenue
+
+1,290.8
+
+803.0
+
+330.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+186.6
+
+79.5
+
+52.2
+
+190.6
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+136.5
+
+54.4
+
+AUGUST 22, 2019 11
+
+American Assets Trust Inc.
+
+Table 3
+
+Reconciliation Of American Assets Trust Inc.'s Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $) (cont.)
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(0.5)
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(52.6)
+
+--
+
+--
+
+7.9
+
+--
+
+--
+
+3.3
+
+1.1
+
+1.1
+
+(1.1)
+
+2.2
+
+--
+
+(48.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized
+interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.5
+
+(1.5)
+
+(1.5)
+
+(1.5)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+3.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+(0.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Revenue: Other
+
+--
+
+--
+
+(2.4)
+
+(2.4)
+
+(2.4)
+
+--
+
+--
+
+--
+
+--
+
+Total adjustments
+
+(40.1)
+
+(0.5)
+
+(2.4)
+
+3.9
+
+(1.0)
+
+2.6
+
+(55.7)
+
+0.7
+
+(1.5)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+134.9
+
+137.2
+
+52.9
+
+Operating leases
+Accessible cash
+and liquid
+investments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,250.7
+
+802.5
+
+328.5
+
+190.6
+
+78.5
+
+54.9
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 12
+
+American Assets Trust Inc.
+
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb-
+
+Related Criteria
+• Criteria - Corporates - Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• SG Industry Report Card: Real Estate And Homebuilders/Developers, June 3, 2019
+• REITrends: Back In The Capital Markets And Largely Well Positioned For Opportunity, May 31, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 13
+
+American Assets Trust Inc.
+
+Ratings Detail (As Of August 22, 2019)*
+American Assets Trust, Inc.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+01-Jul-2015
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 22, 2019 15
+
+

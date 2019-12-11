@@ -1,0 +1,1472 @@
+Agilent Technologies Inc.
+Primary Credit Analyst:
+Adam Dibe, Toronto + 1 (416) 507 3235; adam.dibe@spglobal.com
+Secondary Contact:
+Tulip Lim, New York (1) 212-438-4061; tulip.lim@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings--Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 1
+
+Agilent Technologies Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a-
+
+bbb+
+
+bbb+
+
+BBB+/Stable/NR
+
+Financial Risk: MINIMAL
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Top three positions within most of its end markets
+
+Smaller scale compared with other industry
+competitors that have stronger business risk
+profiles
+
+Well-diversified end markets that include pharmaceuticals, academia, chemical/energy,
+food, environment, and diagnostics, but moderate exposure to volatile industries, such as oil
+and gas
+
+Lower recurring revenue compared with the
+industry as a whole
+
+Diverse product and services base, minimal customer concentration, and a diverse
+geographic footprint
+
+Agilent Technologies Inc. maintains its stable and entrenched position as a midsize player in the life science industry,
+with market-leading positions in all of its end markets. Despite revenue of about $5 billion for fiscal 2018, Agilent lacks
+the scale of significantly larger competitors such as Thermo Fisher Scientific Inc. ($25 billion of revenue in 2018) and
+Danaher Corp. ($20 billion of revenue in 2018). However, the company has leading market positions in all of its end
+markets. Within the life sciences and applied markets segment, Agilent has the largest position in the
+environmental/forensics and chemical/energy end markets and the second-largest position in food safety testing and
+pharmaceutical/biotechnology. Within the clinical diagnostics segment, Agilent has the second-largest position in
+anatomic pathology. In addition, Agilent is increasing its focus on niche diagnostics markets, which continue to grow
+in the high-single-digit area, ahead of the company's other end markets and faster than the life sciences industry in
+general.
+We expect stable organic growth despite some weakness in the life sciences and applied markets business. This segment
+is exposed to intense competition from larger peers and is growing at a slower pace, in line with said competitors.
+However, we believe Agilent benefits from strong pricing power in its diagnostics and genomics and Crosslab
+segments, contributing to our overall expectation for stable organic growth. In addition, we expect mergers and
+acquisitions (M&A) within high-growth areas, such as sequencing and diagnostics, to supplement organic growth.
+We expect the company to sustain its current leverage profile of less than 1.5x despite its M&A appetite. Adjusted
+leverage will increase materially to about 1.2x following the close of the recently announced acquisition of BioTek
+Instruments for $1.17 billion. We believe the company's M&A capacity within the current rating is now about $1.7
+billion over the next 12 months, excluding acquired EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 2
+
+Agilent Technologies Inc.
+
+Outlook: Stable
+
+The stable rating outlook on Agilent Technologies Inc. reflects S&P Global Ratings' expectation that the company's
+revenue will grow 3.7% in 2019, which will enable the company to maintain its leading position in key end markets
+and generate continued strong free cash flow. The stable outlook also reflects our expectation that the company's
+financial policy will remain conservative and leverage will remain below 1.5x.
+
+Downside scenario
+A lower rating is possible if leverage meaningfully exceeds 2x and we expect leverage to remain at that high level
+for more than one year. The current rating provides cushion for operational weakness that could result from
+competitive pressures or customers' budgetary constraints. Therefore, a lower rating would more likely result from
+an unexpected, debt-financed share repurchase or a large debt-financed acquisition that deviates from our view of
+the company's conservative financial policy. A share repurchase or acquisition of more than $1.7 billion could
+contribute to a lower rating.
+
+Upside scenario
+We could raise the rating if Agilent improved its scale and diversity (which in our view would strengthen its
+competitive position) while maintaining the same amount of financial leverage. However, we believe this scenario
+is unlikely over the next few years because the improvement in scale and diversity would likely be achieved
+through a transformative acquisition resulting in meaningfully higher leverage.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 3
+
+Agilent Technologies Inc.
+
+Assumptions
+
+• We project Agilent's reported revenue will grow
+organically at about 3.7% for fiscal 2019, in line with
+our expectation for the life science industry. We
+expect growth to be aided by strong demand in its
+CrossLab and diagnostics and genomics segments
+(particularly in the pathology-related and nucleic
+acid businesses), offset by weaker demand
+(stemming from intense competition) in its life
+sciences and applied market segment.
+
+Key Metrics
+
+2018A
+Debt to EBITDA (x)
+FFO to debt (%)
+Free operating cash flow (Mil. $)
+
+2019E
+
+2020E
+
+0.1
+
+1.2
+
+1.1
+
+>100
+
+>100
+
+>100
+
+943 750-800 900-950
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• We expect stable margins in 2019, with operational
+efficiencies and an increasing revenue contribution
+from the company's higher-margin CrossLab
+segment offset by increased wages and higher
+acquisition- and integration-related costs.
+• Annual capital spending of about $165 million to
+$175 million.
+• We believe that the company will deploy most of the
+internally generated free cash flows (of about $800
+million to $850 million) toward M&A, dividends, and
+share buybacks.
+• Based on the above assumptions, we expect
+leverage will be sustained at about 1x over the next
+two years.
+
+Company Description
+Agilent Technologies Inc. is a life sciences company providing laboratory workflow solutions, including instruments,
+software, services, and consumables, to the life sciences, diagnostics, and applied chemicals markets. The company
+operates through the following three business segments:
+• Life sciences and applied markets group: Instruments and software that enable customers to identify, quantify, and
+analyze the physical and biological properties of substances and products by interrogating samples at the molecular
+and cellular level.
+• Diagnostics and genomics group: Provides active pharmaceutical ingredients for oligo-based therapeutics as well as
+solutions, which enable customers in the clinical and life sciences research areas to interrogate samples at the
+cellular and molecular level.
+• Agilent CrossLab group: Spans the entire laboratory with an extensive consumables and services portfolio, the
+majority of which is vendor neutral, meaning Agilent can serve and supply customers regardless of their instrument
+purchase choices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 4
+
+Agilent Technologies Inc.
+
+Chart 1
+
+Chart 2
+
+Business Risk: Satisfactory
+Our assessment of Agilent's business risk reflects the company's entrenched position in several diverse end markets, its
+long-standing customer relationships, a history of successful product introductions, a broad product and services
+portfolio, and a broad geographic footprint. These strengths are partially offset by Agilent's moderate exposure to the
+more volatile oil and gas industry, its relatively low percentage of recurring revenues compared with peers, and the
+company's medium scale compared with larger competitors such as Thermo Fisher Scientific Inc. and Danaher Corp.
+Those companies have stronger business risk profiles, are more diversified, and have greater financial resources.
+Despite intense competition from the larger peers, Agilent's strong position as a laboratory workflow solutions
+provider in all of its key markets distinguishes the company from its competitors. In addition, Agilent is increasing its
+focus on clinical diagnostics, including companion diagnostics, anatomic pathology, and molecular diagnostics niches.
+We expect these niche diagnostics markets to continue growing in the high-single-digit area, ahead of the company's
+other end markets and faster than the life sciences industry in general. While Agilent competes in clinical diagnostics
+with large peers like Illumina Inc., Roche Holding AG, and Abbott Laboratories, we think the company benefits from a
+broader product portfolio.
+Agilent's recurring revenues from consumables and services account for about 55% of the company's revenue,
+compared with the industry average of between 65% and 85%. However, we don't view this as a significant
+disadvantage because we recognize that Agilent's lower consumables ratio comes from the company's higher
+end-market diversity and historically lower focus on diagnostics.
+
+Peer comparison
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 5
+
+Agilent Technologies Inc.
+
+Table 1
+
+Agilent Technologies Inc.--Peer Comparison
+Industry sector: health care equipment
+
+Ratings as of July 15, 2019
+
+Agilent Technologies
+Inc.
+
+Thermo Fisher Scientific
+Inc.
+
+PerkinElmer Inc.
+
+Illumina Inc.
+
+BBB+/Stable/--
+
+BBB+/Stable/A-2
+
+BBB/Negative/--
+
+BBB/Stable/--
+
+--Fiscal year ended Oct.
+31, 2018--
+
+--Fiscal year ended Dec. 31,
+2018--
+
+--Fiscal year ended Dec. 31, --Fiscal year ended Dec.
+2018-30, 2018--
+
+(Mil. $)
+Revenue
+
+4,914.0
+
+24,358.0
+
+2,778.0
+
+3,333.0
+
+EBITDA
+
+1,252.0
+
+6,415.0
+
+590.0
+
+1,332.0
+
+Funds from operations
+(FFO)
+
+1,560.3
+
+5,092.5
+
+461.3
+
+1,186.7
+
+Interest expense
+
+83.7
+
+711.5
+
+79.3
+
+103.3
+
+Cash interest paid
+
+88.7
+
+731.5
+
+68.8
+
+46.3
+
+Cash flow from operations
+
+1,120.3
+
+4,688.5
+
+355.6
+
+1,172.7
+
+Capital expenditure
+
+177.0
+
+758.0
+
+93.3
+
+296.0
+
+Free operating cash flow
+(FOCF)
+
+943.3
+
+3,930.5
+
+262.3
+
+876.7
+
+Dividends paid
+
+191.0
+
+266.0
+
+31.0
+
+0.0
+
+Discretionary cash flow
+(DCF)
+
+330.3
+
+3,164.5
+
+173.9
+
+601.7
+
+2,247.0
+
+2,103.0
+
+163.1
+
+3,512.0
+
+92.0
+
+18,877.7
+
+2,186.3
+
+0.0
+
+4,571.0
+
+27,586.0
+
+2,585.0
+
+3,906.0
+
+EBITDA margin (%)
+
+25.5
+
+26.3
+
+21.2
+
+40.0
+
+Return on capital (%)
+
+20.7
+
+8.5
+
+7.1
+
+28.4
+
+EBITDA interest coverage
+(x)
+
+15.0
+
+9.0
+
+7.4
+
+12.9
+
+EBITDA cash interest
+coverage (x)
+
+14.1
+
+8.8
+
+8.6
+
+28.8
+
+FFO cash interest coverage
+(x)
+
+18.6
+
+8.0
+
+7.7
+
+26.7
+
+0.1
+
+2.9
+
+3.7
+
+0.0
+
+FFO/debt (%)
+
+1,696.1
+
+27.0
+
+21.1
+
+N.M.
+
+Cash flow from
+operations/debt (%)
+
+1,217.8
+
+24.8
+
+16.3
+
+N.M.
+
+FOCF/debt (%)
+
+1,025.4
+
+20.8
+
+12.0
+
+N.M.
+
+359.0
+
+16.8
+
+8.0
+
+N.M.
+
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+DCF/debt (%)
+N.M.--Not meaningful.
+
+Peers like Thermo Fisher, PerkinElmer, and Illumina are all life science companies with leading market positions
+within their respective niches. Agilent sits in the middle level of the industry, where peers like Illumina only have one
+niche end-market while larger players like Thermo Fisher have many end-markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 6
+
+Agilent Technologies Inc.
+
+Thermo Fisher Scientific Inc. is nearly five times Agilent's size, has greater diversity, and has a vast distribution
+network that has more scope compared with Agilent's. Moreover, its volatility is lower due to its presence in different
+businesses. However, Thermo Fisher is rated the same as Agilent due to Thermo's much higher leverage, in the range
+of 3x to 4x, and more aggressive financial policy.
+PerkinElmer is half the size of Agilent, but has similarly diversified end markets, occupies top three positions within
+most of them, and has moderate exposure to some more volatile industries. The difference in rating is due to
+PerkinElmer's more aggressive financial policy, with our expectation that leverage will be maintained in the range of 2x
+to 3x.
+Illumina Inc. has narrower operating focus in genome sequencing. Despite its moderate scale and leading position, its
+lack of product and business diversity contributes to a rating that is one-notch lower.
+
+Financial Risk: Minimal
+Our assessment of Agilent's financial risk reflects our expectation that leverage will remain below 1.5x and free
+operating cash flow to total adjusted debt will remain in excess of 50% over the next two years. Our assessment of the
+company's financial risk also incorporates our belief that Agilent will continue making acquisitions to support its
+growth strategy. We also project Agilent will use most of its free cash flow generation toward dividends and share
+buybacks. We expect the shareholder returns to be funded with a combination of debt and internally generated cash
+flow such that leverage remains at about 1x.
+
+Financial summary
+Table 2
+
+Agilent Technologies Inc. -- Financial Summary
+Industry Sector: Healthcare Equipment
+--Fiscal year ended Oct. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+4,914.0
+
+4,472.0
+
+4,202.0
+
+4,038.0
+
+4,048.0
+
+EBITDA
+
+1,252.0
+
+1,151.0
+
+1,009.5
+
+1,001.0
+
+1,201.5
+
+Funds from operations (FFO)
+
+1,560.3
+
+998.0
+
+861.2
+
+790.8
+
+917.2
+
+Interest expense
+
+83.7
+
+87.0
+
+80.3
+
+76.2
+
+121.3
+
+Cash interest paid
+
+88.7
+
+90.0
+
+81.3
+
+81.2
+
+153.3
+
+(Mil. $)
+
+Cash flow from operations
+
+1,120.3
+
+921.0
+
+821.2
+
+526.8
+
+756.2
+
+Capital expenditure
+
+177.0
+
+176.0
+
+139.0
+
+98.0
+
+205.0
+
+Free operating cash flow (FOCF)
+
+943.3
+
+745.0
+
+682.2
+
+428.8
+
+551.2
+
+Discretionary cash flow (DCF)
+
+330.3
+
+381.0
+
+98.2
+
+28.8
+
+175.2
+
+Cash and short-term investments
+
+2,247.0
+
+2,678.0
+
+2,289.0
+
+2,003.0
+
+2,218.0
+
+Gross available cash
+
+2,247.0
+
+2,678.0
+
+2,289.0
+
+2,003.0
+
+2,218.0
+
+Debt
+Equity
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+92.0
+
+174.9
+
+531.5
+
+408.3
+
+350.4
+
+4,571.0
+
+4,835.0
+
+4,246.0
+
+4,170.0
+
+5,304.0
+
+SEPTEMBER 5, 2019 7
+
+Agilent Technologies Inc.
+
+Table 2
+
+Agilent Technologies Inc. -- Financial Summary (cont.)
+Industry Sector: Healthcare Equipment
+--Fiscal year ended Oct. 31-Adjusted ratios
+EBITDA margin (%)
+
+25.5
+
+25.7
+
+24.0
+
+24.8
+
+29.7
+
+Return on capital (%)
+
+20.7
+
+18.2
+
+14.9
+
+12.8
+
+12.1
+
+EBITDA interest coverage (x)
+
+15.0
+
+13.2
+
+12.6
+
+13.1
+
+9.9
+
+EBITDA cash interest coverage (x)
+
+14.1
+
+12.8
+
+12.4
+
+12.3
+
+7.8
+
+FFO cash interest coverage (x)
+
+18.6
+
+12.1
+
+11.6
+
+10.7
+
+7.0
+
+0.1
+
+0.2
+
+0.5
+
+0.4
+
+0.3
+
+FFO/debt (%)
+
+1,696.1
+
+570.5
+
+162.0
+
+193.7
+
+261.7
+
+Cash flow from operations/debt (%)
+
+1,217.8
+
+526.5
+
+154.5
+
+129.0
+
+215.8
+
+FOCF/debt (%)
+
+1,025.4
+
+425.9
+
+128.4
+
+105.0
+
+157.3
+
+359.0
+
+217.8
+
+18.5
+
+7.1
+
+50.0
+
+Debt/EBITDA (x)
+
+DCF/debt (%)
+N.M.--Not meaningful
+
+Liquidity: Exceptional
+We continue to assess liquidity as exceptional. We expect sources of liquidity to significantly exceed uses and that
+sources would exceed uses even if forecast EBITDA declined by 50%.
+Our assessment of Agilent's liquidity profile also reflects our view that the company has well established and solid
+relationships with banks and high standing in the credit markets, given its diverse capital structure. In addition,
+Agilent's ample cash balance supports our view that the company's risk management practices are very prudent. We
+also think Agilent would be able to absorb a high-impact, low-probability event without the need for refinancing, given
+the company's solid cash flow generation and a sizable cash balance.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of about $2.1 billion as of April 30,
+2019;
+
+• Working capital outflows of about $100 million
+annually,
+
+• Full availability of $1 billion under the revolver as of
+April 30, 2019; and
+
+• Capital expenditures of $165 million to $175 million
+per year, and
+
+• Cash funds from operations generation of about $1
+billion over the next 12 months.
+
+• Dividends about $200 million to $210 million per
+year.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 8
+
+Agilent Technologies Inc.
+
+Covenant Analysis
+The covenant allows a maximum ratio of consolidated total debt to consolidated total capitalization of 65%. Agilent
+was in full compliance with this covenant as of April 30, 2019, and we expect it to maintain at least 30% headroom.
+
+Issue Ratings--Subordination Risk Analysis
+Capital structure
+Agilent's capital structure consists of unsecured obligations, with $1.7 billion of senior unsecured notes and a $1 billion
+revolving credit facility.
+
+Analytical conclusions
+We consider companies such as Agilent, with a financial risk profile assessment of minimal, to have leverage that is
+low enough to limit the possibility of any lenders being more significantly disadvantaged than others. Therefore, we
+rate the long-term debt issued by Agilent 'BBB+', the same as the issuer credit rating.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Agilent Technologies Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Rolling 12 months ended July 31, 2019-Agilent Technologies Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+1,798.0
+
+4,747.0
+
+5,090.0
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+Operating Interest
+income expense
+
+1,170.0
+
+931.0
+
+71.0
+
+1,268.8
+
+1,079.0
+
+202.0
+
+162.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+139.6 --
+
+--
+
+42.0
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+82.2 --
+
+--
+
+(19.0)
+
+Accessible cash and
+liquid investments
+
+(1,765.0) --
+
+--
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+284.1 --
+
+--
+
+--
+
+Operating leases
+
+Debt: tax liabilities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+--
+
+8.7
+
+(124.0) --
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(73.0) --
+
+--
+
+--
+
+33.3 --
+
+--
+
+--
+
+8.7
+
+(8.7)
+
+(19.0) --
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+71.0 --
+
+--
+
+--
+
+--
+
+--
+
+--
+
+73.0 --
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+SEPTEMBER 5, 2019 9
+
+Agilent Technologies Inc.
+
+Table 3
+
+Reconciliation Of Agilent Technologies Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+$) (cont.)
+EBITDA: other
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+--
+
+Funds from
+operations: other
+
+--
+
+--
+
+--
+
+--
+
+Total adjustments
+
+(1,259.1)
+
+4.8
+
+0.0
+
+0.0
+
+4.8 --
+
+--
+
+--
+
+--
+
+--
+
+21.0 --
+
+--
+
+--
+
+--
+
+--
+
+(144.0) --
+
+--
+
+--
+
+--
+
+--
+
+98.8
+
+88.5
+
+8.7
+
+(349.7)
+
+33.3
+
+0.0
+
+0.0
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity Revenue EBITDA
+
+538.9
+
+4,747.0
+
+5,090.0
+
+1,268.8
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+1,019.5
+
+79.7
+
+919.0
+
+1,112.3
+
+202.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/NR
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Minimal
+
+• Cash flow/Leverage: Minimal
+Anchor: aModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Exceptional (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bbb+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 10
+
+162.0
+
+Agilent Technologies Inc.
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Health Care Equipment Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 5, 2019)*
+Agilent Technologies Inc.
+Issuer Credit Rating
+
+BBB+/Stable/NR
+
+Senior Unsecured
+
+BBB+
+
+Issuer Credit Ratings History
+16-Sep-2014
+
+Foreign Currency
+
+19-Sep-2013
+
+BBB+/Watch Neg/NR
+
+22-Dec-2011
+16-Sep-2014
+
+BBB+/Stable/NR
+BBB+/Stable/NR
+
+Local Currency
+
+BBB+/Stable/NR
+
+19-Sep-2013
+
+BBB+/Watch Neg/NR
+
+22-Dec-2011
+
+BBB+/Stable/NR
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 11
+
+Agilent Technologies Inc.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 5, 2019 13
+
+

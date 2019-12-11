@@ -1,0 +1,1791 @@
+Boeing Co.
+Primary Credit Analyst:
+Christopher A Denicolo, CFA, Washington D.C. (1) 202-383-2398; christopher.denicolo@spglobal.com
+Secondary Contact:
+Philip A Baggaley, CFA, New York (1) 212-438-7683; philip.baggaley@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+Boeing Co.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a
+
+a
+
+a
+
+A/Stable/A-1
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+One of two global producers of large commercial aircraft
+
+737 MAX grounding resulting in significant cash outflows and weak credit ratios
+
+One of the five largest U.S. defense contractors
+
+Uncertainty as to when MAX deliveries will resume and long term impacts on
+competitiveness
+
+Strong demand for commercial aircraft and robust defense
+spending
+
+Substantial investments required to develop new commercial aircraft
+
+Exceptional liquidity
+
+Significant post-retirement liabilities
+
+In our base-case scenario, we believe Boeing will be able to resume 737 MAX deliveries this fall, contingent on
+regulatory approval.The company appears to be on track to present the updated MCAS flight control software to the
+FAA in September. We assume it will not take very long for final certification once the FAA receives the update, as
+they have been working with Boeing throughout the process. Therefore, deliveries could resume as soon as October
+2019. However, there is still considerable uncertainty to this timeline. Furthermore, regulators of other countries will
+also have to certify the updated software before Boeing can deliver aircraft to those locations. We believe most global
+regulators, with the notable exception of China, will likely give their approval along with or soon after the FAA does.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+Boeing Co.
+
+Chart 1
+
+We do not expect large cancellations or deferrals of MAX orders. Since the MAX grounding, some airlines have
+indicated that they will cancel orders, but there have not been any actual cancellations. Aircraft lessor Air Lease Corp.
+has said it will convert 15 MAX orders to orders for the larger 787. We believe the vast majority of airlines will
+maintain their orders, although delivery dates could shift, as they need these aircraft to support growth or to replace
+older aircraft with much higher operating costs. In addition, there is a large backlog of the competing Airbus A320neo
+and Airbus has limited ability to raise production rates much from current levels. Therefore if an airline were to cancel
+its MAX orders, that airline would have to wait many years to get an A320neo. However, market share could shift over
+time in favor of the A320neo, already the market leader, if doubts about the MAX's safety linger.
+The 737 MAX grounding will likely result in weak credit ratios into 2020 before recovering. We expect funds from
+operations (FFO) to debt will likely remain below our downgrade trigger of 40% through most of 2020 due to the
+impact on profitability and cash flow from the MAX grounding. Credit ratios will start to improve as cash flows
+increase once the company resumes deliveries this fall, works down the backlog of aircraft built but not delivered, and
+customers resume making pre-delivery payments for aircraft on order. It will likely take until the end of 2020 before
+Boeing can deliver all the aircraft built during the grounding, as it can only deliver around an estimated 70 per month
+based on the highest historical delivery rate. This should result in FFO to debt increasing to above 40% by the end of
+2020, even if deliveries do not resume until early 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+Boeing Co.
+
+Compensation to airlines will mostly be in forms other than cash payments. In the second quarter of 2019, Boeing took
+a $5.6 billion pre-tax charge to cover compensation to airlines for the grounding of the MAX and delayed deliveries.
+We expect only a modest portion of that amount will be cash compensation, which the company will likely pay out in
+the next six to nine months. The remainder will likely be in the form of discounts on future orders, free upgrades or
+services, or the rescheduling of deliveries that will occur over the next few years. Boeing will also likely have costs to
+compensate the families of the victims of the crash, but we believe insurance will likely cover most of those costs.
+However, the lower MAX production rates will affect program profitability. Boeing has added $2.7 billion to the total
+737 program costs due to the prolonged period of only producing 42 aircraft a month when it was expecting to
+produce 57 a month. This will modestly reduce overall program profitability, but the 737 will likely remain the
+company's most profitable commercial aircraft program. The temporarily lower production rates will allow suppliers,
+many of which had been struggling to produce at 52 a month, to catch up. We assume 737 production will get back to
+that number by the end of 2020 if deliveries resume later this year.
+Boeing has taken significant steps to bolster liquidity while the MAX remains grounded. Since the MAX was grounded,
+the company has suspended share repurchases, put a short-term $1.5 billion revolver in place and taken other actions
+to conserve cash. It has also issued $10.5 billion in debt, although $4.2 billion of that is to cover the pending
+investment in the Embraer joint venture. We believe these actions, combined with the significant cash flow the rest of
+the business produces and temporary suspension of share buybacks, should enable the company to handle the $8
+billion to $10 billion of peak outflows before MAX deliveries resume. As of June 30, 2019, the company had $9.6 billion
+of cash and marketable securities and access to a total of $6.6 billion of revolving credit facilities. We expect Boeing to
+resume share repurchases when all the aircraft built during the grounding are delivered and production has increased
+to 57 a month.
+The remainder of Boeing's business remains strong. The company has increased production of the 787 to 14 a month
+and the defense and aftermarket operations are generating solid growth and margins, providing earnings and cash
+flows that will somewhat offset the impact of the MAX grounding.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+Boeing Co.
+
+Outlook: Stable
+
+The stable outlook on Boeing Co. reflects our expectation that credit measures will likely be below our downgrade
+trigger through most of 2020 due to the MAX grounding, but then recover to levels appropriate for the rating. We
+expect funds from operations (FFO) to debt to decline to 15%-20% in 2019 from 72% in 2018, and then improve to
+the 55%-65% range 2020.
+
+Downside scenario
+We could lower the rating if FFO to debt falls below 40% and remains there in 2020. This could occur if the MAX
+grounding is substantially longer than we anticipate or causes material order cancellations such that Boeing does
+not increase production as planned once deliveries resume. It could also occur if significant supply chain problems
+upset planned production increases, if order cancellations increase significantly because of a weaker global
+economy or geopolitical crises, if defense sales decrease substantially, or if shareholder returns consistently exceed
+cash flow and excess cash on the balance sheet. Credit ratios could also deteriorate because of additional large
+acquisitions, while the company continues to return all its free cash flow to shareholders once the MAX issue is
+resolved.
+
+Upside scenario
+Although unlikely, we could raise the rating in the next two years if the company successfully resumes MAX
+deliveries, raises production to 57 a month, reduces debt it used to support liquidity during the grounding,
+profitably delivers on its huge backlog, and successfully develops new derivatives of existing models while
+maintaining its conservative financial policy and exceptional liquidity, with FFO-to-debt consistently above 60%.
+We could also raise the rating if the company improves EBITDA margins to around 15% and maintains FFO to
+debt of at least 50%.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+Boeing Co.
+
+Assumptions
+
+• Demand for Boeing's commercial aircraft is tied to
+growth in global air travel, which is somewhat
+correlated with global GDP (over the long term), and
+growth in per capita wealth and other factors.
+Related aftermarket services depend on both air
+traffic growth and the size and age of the global
+fleet. The firm's defense operations depend on U.S.
+and allied governments' military spending and are
+largely independent of economic factors.
+
+Key Metrics
+
+2018A
+FFO to debt (%)
+Debt to EBITDA (x)
+Free operating cash flow/debt (%)
+
+72.4
+1.2
+
+2019E
+
+2020E
+
+15.0-20.0 55.0-65.0
+4.0-4.5
+
+1.0-1.5
+
+79.9 (10.0)-(5.0)
+
+75-80
+
+• MAX deliveries resume in October 2019 and Boeing
+is able to deliver 70 aircraft a month by the end of
+2019, with all aircraft built during the grounding
+delivered by the end of 2020. Production increases
+to 57 a month by the end of 2020 from 42 a month.
+• The majority of the airline compensation occurs in
+the next two years. Furthermore, margins on future
+737 deliveries are modestly lower due to the
+prolonged production decrease and other costs
+directly related to the grounding.
+• Revenues decline more than 15% in 2019 due to the
+MAX grounding, offset by solid growth at BDS and
+BGS. Revenues then increase more than 50% in
+2020 as aircraft built during the grounding are
+delivered and MAX production increases to 57 a
+month.
+• EBITDA margins decline to 7%-9% in 2019 due to
+the impact of the MAX grounding, especially the
+$5.6 billion charge, then return to 15%-16% in 2020.
+• Significant inventory build in 2019 due to the MAX
+grounding, which largely reverses in 2020. Capital
+expenditures steady at around $2.3 billion.
+• Dividends increase 10% per year.
+• No further share repurchases in 2019 ($2.3 billion
+were made before the MAX grounding in March plus
+$400 million as part of a preset 10b5-1 program in
+the second quarter), but increases significantly in
+late 2020 once MAX deliveries equal production.
+• Commercial paper is mostly paid off and any
+maturities in 2019 and 2020 are repaid and not
+refinanced.
+• Includes $10.5 billion of already completed debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+Boeing Co.
+
+issuance.
+• The Embraer JV closes at the end of 2019 and the
+company does $500 million of other acquisitions in
+2019 and $1 billion in 2020.
+
+Delivery and production
+Chart 2
+
+Company Description
+Boeing designs, manufactures, and markets a full range of large commercial jetliners through its Boeing Commercial
+Airplanes unit (BCA). Its defense operations, Boeing Defense, Space & Security (BDS), produces fighter jets, military
+cargo aircraft, attack and cargo helicopters, civil and military satellites, and missile defense systems. In mid-2017, the
+company combined the service offerings of its commercial and defense businesses into a new segment, Boeing Global
+Services (BGS). This new segment provides a range of services including flight training, maintenance, spare parts
+distribution, data analysis, navigation products, and logistics. The company also provides financing, primarily for its
+commercial aircraft, through its Boeing Capital (BCC) subsidiary.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+Boeing Co.
+
+Chart 3
+
+Business Risk: Strong
+Boeing is one of two global producers of large commercial aircraft and is the second-largest U.S. defense contractor.
+However, these markets are very competitive (especially commercial aircraft manufacturing), which limits profit
+margins. Although the company is taking significant actions to improve profitability, the development of new aircraft
+types is very expensive and risky. We expect U.S. defense spending to increase through at least government fiscal year
+2020. Although the pace of growth thereafter is still somewhat uncertain, higher U.S. military spending and demand
+from international customers should support modest growth of Boeing's defense operations.
+Boeing essentially splits the global market for large commercial jetliners with the European Airbus Group, but Boeing
+has a somewhat stronger position in the wide-body segment of the market, while Airbus has a somewhat stronger
+position in narrow-body aircraft (see charts 4 and 5).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 8
+
+Boeing Co.
+
+Chart 4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+Boeing Co.
+
+Chart 5
+
+Boeing estimates the global market for commercial jetliners (of more than 100 seats) at more than 44,000 planes worth
+$6.8 trillion over the next 20 years (Airbus' forecast is similar), doubling the size of the global fleet. Global air traffic
+growth has slowed somewhat in 2019, but from levels well above historical averages of around 5%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 10
+
+Boeing Co.
+
+Chart 6
+
+Long-term shifts in market share possible
+Boeing's small- to medium-sized 787 wide-body aircraft, which incorporate new technology to save fuel and other
+benefits, have been successful. Airbus introduced the A330neo but has only received fewer than 250 orders. Boeing is
+in the process of developing a successor version of its larger wide-body 777 (the 777X) incorporating similar
+technology early in the next decade. However, the backlog for the 777X has only grown modestly since the program
+launched and some of the initial customers are troubled Middle Eastern airlines. The first flight of the 777X has been
+delayed to early 2020 from 2019 because of issues with developing the new engines from General Electric, but it still
+expects the first deliveries next year. Boeing has slowed development of the smaller, longer range version, the 777-8.
+The MAX accidents and grounding could result in a longer and more expensive certification process for the new
+models, as the FAA has received a lot of criticism for how it handled the certification of the MCAS software for the
+MAX. Airbus has delivered almost 300 of the its own new-technology, wide-body A350, which will include versions
+that compete with the 777.
+Airbus has a several-year lead in introducing its new A320neo narrow-body aircraft ahead of Boeing's similar
+737-MAX, and currently has a larger backlog. The small- and medium-sized versions of these planes sell at comparable
+rates, but the popularity of the largest Airbus version, the A321neo, prompted Boeing to develop the 737-10 MAX to
+be more directly comparable to the A321neo. Airbus also began offering a longer range version, the A321XLR, which
+has proven very popular and for which Boeing does not have a direct competitor. As Airbus is not able to increase
+production much more than it currently plans, it is unlikely it will benefit much from the MAX grounding in the near
+term.
+Boeing is currently considering developing a new aircraft, often referred to as the New Midsize Airplane (NMA). It
+would be between the 737 and 787 in both size and range, (225-275 seats and 4,500-5,000 miles range) and replace the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+Boeing Co.
+
+757 and 767. The A321XLR will likely be a strong competitor in the targeted market and will be available sooner. The
+company had originally planned to launch the NMA in 2019 with first deliveries in 2025, but appears to be struggling
+to design an aircraft with acceptable margins for Boeing that has the performance airlines are demanding at a price
+they are willing to pay. The MAX grounding has also likely redirected some resources that were working on the NMA
+and it's unlikely they will launch the aircraft until the MAX is flying again. Other issues include uncertainty about the
+ultimate size of the market, whether it will be a single-aisle or twin-aisle aircraft, what new technologies to include, the
+need for engine-makers to develop a new engine for this class of aircraft, and any changes to certification requirements
+after the MAX accidents. Boeing should be able to develop the aircraft without increasing its research and
+development (R&D) spending materially, as its current largest development program, the 777X, will be in production
+by the time NMA R&D ramps up in a few years.
+
+Orders will likely remain weak in 2019
+The moderation in orders is due to several factors. The company has largely satisfied the pent-up demand from the
+2008-2009 recession and its aftermath, and there are relatively few new programs at a stage where airlines start
+placing orders. If an airline places an order today it would likely not receive an aircraft for five or six years because of
+the large backlog for popular models (737 MAX and 787, for example). Weaker economic growth in some regions and
+the impact of the trade war with China are also likely affecting demand. A moderate level of new orders will be driven
+by solid air traffic growth, still-healthy airline profits, and the still-substantial needs to replace aging aircraft currently in
+service (demand for new planes comprises about 55%-60% for growth and 40%-45% for replacement). China has thus
+far excluded large commercial jet imports from the U.S. from tariffs it intends to levy, probably reflecting the inability
+of Airbus to replace them near-term and perhaps hopes that a different U.S. Administration would change trade policy
+in the future. But a protracted U.S.-China confrontation could handicap Boeing in future campaigns to sell planes to
+China. Although a much smaller market than commercial aircraft, Boeing has also recently seen higher demand for
+cargo aircraft, but this will likely decline as air freight demand has been weak because of lower economic growth and
+trade frictions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 12
+
+Boeing Co.
+
+Chart 7
+
+The MAX grounding and supply chain issues have constrained deliveries
+Despite the current weakness, booming orders earlier in the decade have caused a buildup of a substantial backlog of
+more than 5,500 aircraft worth $390 billion. The company has determined that this backlog, which represents more
+than six years of production, is too high and has increased production on the most popular aircraft types. However, it
+cut production rates on the large wide-body 747 due to weak demand from air cargo operators and virtually no recent
+orders from passenger airlines. In addition, the company also cut production on the 777, as it could not win enough
+orders to hold production rates until the 777X starts delivering in 2020. Prior to the MAX grounding, Boeing expected
+to deliver 895-905 aircraft in 2019, up from 806 in 2017, due to the expected 737 deliveries of 57 a month and 787
+rates of 14 per month. We now believe Boeing will only deliver 500-550 aircraft, depending on when MAX deliveries
+resume and how quickly Boeing can get them to customers. This year will be the first since 2011 that Airbus will
+deliver more aircraft than Boeing. The supply chain has been straining to keep up, with suppliers of the fuselage for the
+737, engines for the 737 MAX, and interiors for wide-body aircraft all having issues in the past year. This could limit
+further increases, especially for the 737, which is seeing the greatest market demand for more deliveries.
+
+Profitability is a key focus
+Boeing is taking a number of steps to raise its profitability, reduce development time of new aircraft, improve efficiency
+(such as using more automation), and increase its control of the production process. Profit margins have been well
+below those of its suppliers and these actions are intended to capture more of the value throughout the aircraft's
+lifecycle.
+The first step was its "partnering for success" program, which aims to reduce supplier costs by offering them additional
+work and help improve their own operating efficiency in exchange for lower prices. The challenge is to lower costs but
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 13
+
+Boeing Co.
+
+not impair suppliers' ability to keep up with increasing production. The recent U.S. tariffs on steel and aluminum, as
+well as on certain parts from China, could offset some of the planned profitability gains.
+Boeing's next area of focus is to greatly expand its presence in the aftermarket. Last year, the company formed BGS,
+which it plans to grow to $50 billion in sales in five to 10 years through organic growth and acquisitions (such as the
+purchase of distributor KLX for $4.25 billion). Boeing has also decided to bring some work (previously done by
+suppliers) back in-house (such as the 777X wing) and is developing capabilities in avionics, seats, actuators, nacelles,
+and auxiliary power units to offer an alternative to existing suppliers. These actions will likely weaken the sales and
+earnings of Boeing's suppliers and have prompted a wave of consolidation, most notably United Technologies'
+acquisition of Rockwell Collins. However, the full impact on the supply chain will not likely be known until after the
+next new aircraft, such as the NMA, is launched.
+Boeing also announced it has agreed to a JV with Embraer's commercial aircraft operations (Boeing would invest $4.2
+billion to own 80%). The JV would not only extend Boeing's product line into the regional jet market, but would give
+the company access to Embraer's lower-cost engineers and more efficient aircraft development process. We expect
+the transaction to close by the end of this year. The deal with Embraer was at least partially in response to Airbus'
+acquisition of the C-series program from Bombardier (since renamed the Airbus A220).
+
+The defense business is growing
+Boeing's defense business will likely grow moderately as U.S. defense spending and foreign sales increase. The recent
+deal for fiscal 2020 and 2021 U.S. military budgets provides more visibility to near-term spending, although
+longer-term growth rates are still uncertain. Growth programs include the troubled KC-46A aerial refueling tanker
+(based on the 767 freighter and which began deliveries earlier this year) and P-8 maritime patrol aircraft. Although
+Boeing lost out to Northrop Grumman on the next-generation B-21 bomber program, it won the T-X trainer for the
+U.S. Air Force, and the MQ-25A unmanned aerial tanker for the Navy last year. However, it bid very aggressively to
+win both programs, requiring almost $700 million of charges, and raising questions about the long-term profitability of
+the programs. Boeing has said it will not bid on the Ground Based Strategic Deterrent nuclear ballistic missile unless
+the Air Force changes the contract structure, leaving Northrop Grumman as the only bidder. Boeing's current fighter
+programs have also been revived with recent orders from the U.S. Navy for the F/A-18 and foreign orders for the F-15,
+as well as funds in the fiscal 2020 budget proposal for the F-15X (a new version of the F-15) for the U.S. Air Force.
+
+Peer comparison
+Boeing was the world's largest aerospace and defense company in 2018, about 35% larger than Airbus and almost
+twice the size of Lockheed Martin. Boeing's and Airbus' commercial aircraft businesses are similar in size and breadth
+of product offerings, but Boeing has a bigger share of widebodies and Airbus of narrowbodies. Boeing's commercial
+operations are more profitable than Airbus'. In the defense market, Boeing is the second-largest company, about 80%
+the size of Lockheed, but with a less favorable product portfolio. It is only modestly larger than General Dynamics'
+defense operations and Raytheon. Overall, Boeing's EBITDA margins are modestly weaker than those of General
+Dynamics and Lockheed, but much lower than Raytheon's and much better than Airbus'.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 14
+
+Boeing Co.
+
+Table 1
+
+Boeing Co. -- Peer Comparison
+Industry Sector: Aerospace & Defense
+
+Ratings as of Aug. 20,
+2019
+
+Boeing Co.
+
+Airbus SE
+
+Lockheed Martin
+Corp.
+
+General Dynamics
+Corp.
+
+A/Stable/A-1
+
+A+/Stable/A-1+
+
+A-/Stable/A-2
+
+A+/Negative/A-1
+
+--Fiscal year ended
+Dec. 31, 2018-(Mil. Mix curr.)
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+Raytheon Co.
+A+/Watch
+Neg/A-1
+--Fiscal year
+ended Dec. 31,
+2018--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+$
+
+€
+
+$
+
+$
+
+$
+
+Revenue
+
+100,853.0
+
+63,707.0
+
+53,762.0
+
+36,193.0
+
+27,058.0
+
+EBITDA
+
+14,303.0
+
+7,417.5
+
+8,892.5
+
+5,637.5
+
+5,493.0
+
+Funds from
+operations (FFO)
+
+12,290.4
+
+6,162.6
+
+8,252.3
+
+4,715.2
+
+5,226.6
+
+Interest expense
+
+632.0
+
+628.9
+
+720.2
+
+434.3
+
+239.4
+
+Cash interest paid
+
+704.0
+
+357.9
+
+687.2
+
+390.3
+
+249.4
+
+15,282.0
+
+2,583.6
+
+3,319.3
+
+3,347.2
+
+3,594.6
+
+Capital expenditure
+
+1,710.0
+
+2,194.0
+
+1,278.0
+
+690.0
+
+821.0
+
+Free operating cash
+flow (FOCF)
+
+13,572.0
+
+389.6
+
+2,041.3
+
+2,657.2
+
+2,773.6
+
+369.0
+
+(820.4)
+
+(1,797.7)
+
+(186.8)
+
+380.6
+
+8,564.0
+
+22,207.0
+
+772.0
+
+963.0
+
+3,608.0
+
+16,978.4
+
+0.0
+
+17,663.3
+
+14,798.1
+
+4,477.6
+
+(87.0)
+
+9,719.0
+
+1,449.0
+
+11,732.0
+
+11,883.0
+
+EBITDA margin (%)
+
+14.2
+
+11.6
+
+16.5
+
+15.6
+
+20.3
+
+Return on capital (%)
+
+75.2
+
+47.3
+
+42.7
+
+21.1
+
+28.2
+
+EBITDA interest
+coverage (x)
+
+22.6
+
+11.8
+
+12.3
+
+13.0
+
+22.9
+
+FFO cash interest
+coverage (x)
+
+18.5
+
+18.2
+
+13.0
+
+13.1
+
+22.0
+
+Debt/EBITDA (x)
+
+1.2
+
+0.0
+
+2.0
+
+2.6
+
+0.8
+
+FFO/debt (%)
+
+72.4
+
+NM
+
+46.7
+
+31.9
+
+116.7
+
+Cash flow from
+operations/debt (%)
+
+90.0
+
+NM
+
+18.8
+
+22.6
+
+80.3
+
+FOCF/debt (%)
+
+79.9
+
+NM
+
+11.6
+
+18.0
+
+61.9
+
+2.2
+
+NM
+
+(10.2)
+
+(1.3)
+
+8.5
+
+Cash flow from
+operations
+
+Discretionary cash
+flow (DCF)
+Cash and short-term
+investments
+Debt
+Equity
+Adjusted ratios
+
+DCF/debt (%)
+N.M.--Not meaningful
+
+Financial Risk: Modest
+We expect credit ratios to deteriorate materially in 2019 due to the MAX grounding, before rebounding in 2020. This
+will likely result in FFO to debt declining below 20% in 2019 from 70% in 2018. In our base case, FFO to debt returns
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 15
+
+Boeing Co.
+
+to the 55%-65% range in 2020, but this depends on when MAX deliveries resume and how quickly Boeing can deliver
+aircraft built during the grounding. It also depends on when and how aggressively Boeing resumes share repurchases
+following the MAX's return to service. We expect in 2021 Boeing will resume its historically high level of share
+repurchases and continue to make acquisitions to build out is aftermarket business, resulting in FFO to debt in the
+50%-60% range.
+Boeing's cash from operations has increased significantly in recent years (see chart 8), reaching more than $15 billion
+in 2018 from around $8 billion in 2013. This increase was due to greater cash flow on the 787 as production increased
+and development problems were resolved, as well as increasing 737 production. We expect cash flow from operations
+to be about breakeven in 2019 due to the MAX grounding, before increasing to well above $20 billion in 2020 as
+aircraft built during the grounding are delivered. It will likely than return to a more normalized level of around $18
+billion in 2021.
+The company invested a total of about $13 billion in capital expenditures in 2013 to 2018 , but it returned the majority
+of cash flow, and usually more, to shareholders, totaling $54 billion of share repurchases and dividends. We expect the
+company to resume a high level of share repurchases once the MAX issue is resolved. Acquisition activity had been
+modest before 2017, but then the company spent more than $3 billion on KLX. We expect the $4.2 billion Embraer
+transaction to close in late 2019 and the company to make additional acquisitions to augment growth in BGS.
+Chart 8
+
+We analyze BCC as a captive finance company, but its assets and liabilities are modest relative to the consolidated
+totals and do not affect our financial risk assessment. BCC's mission is to help arrange for customer financing, but to
+avoid--where possible--providing that financing itself.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 16
+
+Boeing Co.
+
+Financial summary
+Table 2
+
+Boeing Co. -- Financial Summary
+Industry Sector: Aerospace & Defense
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+100,853.0
+
+93,085.0
+
+94,273.0
+
+95,701.0
+
+90,346.0
+
+EBITDA
+
+14,303.0
+
+12,373.5
+
+7,770.5
+
+10,300.0
+
+9,927.0
+
+Funds from operations (FFO)
+
+12,290.4
+
+11,017.5
+
+5,637.5
+
+8,222.3
+
+9,021.2
+
+Interest expense
+
+632.0
+
+540.0
+
+547.6
+
+511.5
+
+510.1
+
+Cash interest paid
+
+704.0
+
+637.0
+
+705.6
+
+660.5
+
+619.1
+
+15,282.0
+
+13,177.5
+
+10,110.9
+
+9,220.5
+
+8,718.9
+
+1,710.0
+
+1,760.0
+
+2,443.0
+
+1,948.0
+
+1,980.0
+
+13,572.0
+
+11,417.5
+
+7,667.9
+
+7,272.5
+
+6,738.9
+
+(Mil. $)
+
+Cash flow from operations
+Capital expenditure
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+369.0 (1,235.5) (2,089.1) (1,968.5) (1,377.1)
+
+Cash and short-term investments
+
+8,564.0
+
+9,992.0
+
+10,029.0
+
+12,052.0
+
+13,092.0
+
+Gross available cash
+
+8,564.0
+
+9,992.0
+
+10,029.0
+
+12,052.0
+
+13,092.0
+
+16,978.4
+
+15,194.7
+
+14,346.5
+
+12,615.7
+
+10,679.7
+
+(87.0)
+
+(92.0)
+
+293.0
+
+5,922.0
+
+8,306.0
+
+EBITDA margin (%)
+
+14.2
+
+13.3
+
+8.2
+
+10.8
+
+11.0
+
+Return on capital (%)
+
+75.2
+
+70.2
+
+36.2
+
+45.1
+
+41.1
+
+EBITDA interest coverage (x)
+
+22.6
+
+22.9
+
+14.2
+
+20.1
+
+19.5
+
+FFO cash interest coverage (x)
+
+18.5
+
+18.3
+
+9.0
+
+13.4
+
+15.6
+
+1.2
+
+1.2
+
+1.8
+
+1.2
+
+1.1
+
+FFO/debt (%)
+
+72.4
+
+72.5
+
+39.3
+
+65.2
+
+84.5
+
+Cash flow from operations/debt (%)
+
+90.0
+
+86.7
+
+70.5
+
+73.1
+
+81.6
+
+FOCF/debt (%)
+
+79.9
+
+75.1
+
+53.4
+
+57.6
+
+63.1
+
+2.2
+
+(8.1)
+
+(14.6)
+
+(15.6)
+
+(12.9)
+
+Debt
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+DCF/debt (%)
+N.M.--Not meaningful
+
+Liquidity: Exceptional
+We consider Boeing's liquidity to be exceptional. We expect sources of liquidity to exceed uses by at least 2.1x over
+the next 12-24 months and that sources would exceed uses even if EBITDA declined by 50%. We also expect the
+company to maintain substantial cushion under the leverage covenant in its credit facilities. Boeing has taken
+significant actions to preserve liquidity during the MAX crisis, including suspending share repurchases, reducing cash
+use in other parts of the business, and putting in place a temporary $1.5 billion revolver. It also issued $10.5 billion of
+debt to bolster cash and prefund the Embraer transaction and upcoming maturities.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 17
+
+Boeing Co.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and short-term investments totaling $9.2
+billion as of June 30, 2019;
+
+• Capital expenditures of $2.2 billion-$2.5 billion
+annually;
+
+• Undrawn revolving credit facilities totaling $5.1
+billion;
+
+• Annual dividend payments of $4 billion-$4.5 billion;
+
+• An undrawn $1.5 billion short term credit facility
+that supports CP borrowings; and
+• Cash from operations (unadjusted, as reported) of at
+least $11 billion to $12 billion over the next 12
+months.
+
+• Commercial paper repayments of $3 billion as of
+June 30, 2019;
+• Long-term debt maturities of $1.7 billion over the
+next 24 months; and
+• Pending investment in Embraer JV for $4.2 billion.
+
+Debt maturities
+As of June 30, 2019 (pro forma for July 2019 debt issuance; includes debt issued by BCC and excludes $3 billion of
+commercial paper):
+• 2019: $500 million
+• 2020: $1.10 billion
+• 2021: $1.45 billion
+• 2022: $1.15 billion
+• 2023: $775 million
+• Thereafter: $16.74 billion
+
+Covenant Analysis
+Compliance expectations
+We expect the company to maintain ample cushion in the maximum debt-to-capital covenant in its revolver credit
+facilities.
+
+Requirements
+Maximum debt to capital, as defined in the revolving credit facilities, of 60%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 18
+
+Boeing Co.
+
+Environmental, Social, And Governance
+
+Boeing faces long term environmental risk related to regulations of aircraft greenhouse gas (GHG) and nitrogen
+oxide emissions; however, this is not material to the rating at this time. Current regulations can be met with
+existing technology, but if the regulations are tightened it may require investment to develop new technologies
+(most likely this would fall mainly on the engine manufacturers) and could increase costs for airlines, possibly
+slowing air travel and aircraft demand. It could also be a positive, as airlines are forced to order newer generation
+aircraft to replace non-compliant models. Boeing has been investing a modest amount in developing new
+technologies, such as biofuels, to address this risk. We don't believe Boeing's defense operations (about 30% of
+sales) carry material environmental risk.
+Product safety is a key risk for an aircraft manufacturer. The three-month grounding of the 787 in 2013 did not
+have a material impact on the company's financials or the plane's backlog. While the near-term impact of the 737
+MAX grounding has certainly been material, we don't expect a permanent financial impact, as insurance may have
+covered some of the costs, but the long-term effects are still unknown. Another social risk involves Boeing's mostly
+unionized work force, since strikes can cause a significant, even if short-term, disruption and financial cost. The
+company has had a somewhat contentious relationship with its unions, but has come to terms with its main unions
+in the most recent negotiations.
+We view Boeing's governance as satisfactory, reflecting its extensive planning process and ability to adapt to
+operational issues, such as the development problems with the 787. However, it continues to face cost overruns
+and delays on certain military programs like the KC-46 aerial refueling tanker, and the 737 MAX issue is putting a
+spotlight on the company's design process and communications with customers and investors. It generally
+balances the needs of its stakeholders, but has favored shareholders somewhat in recent years.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Pro forma for the July 2019 debt issuance, the company's capital structure comprised approximately $22 billion of
+unsecured debt issued by Boeing Co. and $2.5 billion of debt issued by its subsidiary BCC. We consider BCC to be a
+captive finance company so we do not include its debt in our analysis.
+
+Analytical conclusions
+We rate the company's unsecured debt 'A', the same level as our issuer credit rating, because there is no evidence of
+significant subordination risk in its capital structure.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 19
+
+Boeing Co.
+
+Table 3
+
+Reconciliation Of Boeing Co. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-Boeing Co. reported amounts
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+Cash flow
+from
+Capital
+operations expenditure
+
+Debt
+
+Shareholders'
+equity
+
+13,847.0
+
+339.0
+
+101,127.0
+
+14,127.0
+
+12,013.0
+
+544.0
+
+14,303.0
+
+15,322.0
+
+1,791.0
+
+Revenue EBITDA
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,326.0)
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(616.0)
+
+--
+
+--
+
+1,334.0
+
+--
+
+--
+
+249.0
+
+81.0
+
+81.0
+
+(81.0)
+
+168.0
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+16,040.2
+
+--
+
+--
+
+(60.0)
+
+(60.0)
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(8,135.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+81.0
+
+(81.0)
+
+(81.0)
+
+(81.0)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+202.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3,010.0)
+
+(497.0)
+
+(274.0)
+
+(215.0)
+
+(157.0)
+
+(74.0)
+
+91.4
+
+(127.0)
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+--
+
+152.0
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+71.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Tax liabilities
+
+111.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Government
+cost recovery
+(defense sector)
+
+(3,208.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3,131.4
+
+(426.0)
+
+(274.0)
+
+176.0
+
+16.0
+
+88.0
+
+(2,012.6)
+
+(40.0)
+
+(81.0)
+
+Operating leases
+
+Captive finance
+operations
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+16,978.4
+
+(87.0)
+
+Revenue EBITDA
+100,853.0
+
+14,303.0
+
+EBIT
+12,029.0
+
+Interest Funds from
+expense operations
+632.0
+
+12,290.4
+
+Cash flow
+from
+Capital
+operations expenditure
+15,282.0
+
+1,710.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A/Stable/A-1
+
+Business risk: Strong
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 20
+
+Boeing Co.
+
+• Country risk: Intermediate
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Exceptional
+• Management and governance: Satisfactory
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : a
+
+Related Criteria
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology: The Impact Of Captive Finance Operations On Nonfinancial
+Corporate Issuers, Dec. 14, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Aerospace And Defense Industry, March 25, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 21
+
+Boeing Co.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 4, 2019)*
+Boeing Co.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Commercial Paper
+Local Currency
+
+A-1
+
+Senior Unsecured
+
+A
+
+Issuer Credit Ratings History
+29-Jul-2009
+
+Foreign Currency
+
+10-Apr-2009
+29-Jan-2009
+29-Jul-2009
+
+A/Stable/A-1
+A+/Watch Neg/A-1
+A+/Negative/A-1
+
+Local Currency
+
+A/Stable/A-1
+
+10-Apr-2009
+
+A+/Watch Neg/A-1
+
+29-Jan-2009
+
+A+/Negative/A-1
+
+Related Entities
+Boeing Capital Corp.
+Issuer Credit Rating
+
+A/Stable/NR
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 22
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 23
+
+

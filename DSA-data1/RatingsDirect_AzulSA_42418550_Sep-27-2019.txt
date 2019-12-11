@@ -1,0 +1,1404 @@
+Azul S.A.
+Primary Credit Analyst:
+Victor H Nomiyama, CFA, Sao Paulo (55) 11-3039-9764; victor.nomiyama@spglobal.com
+Secondary Contact:
+Diego H Ocampo, Buenos Aires (54) 114-891-2116; diego.ocampo@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Azul S.A.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Brazil National Scale
+brAA/Stable/--
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Third-largest airline in Brazil, but with leading positions in the main
+routes it operates--it's the sole operator for about 70% of its routes.
+
+Operates in the cyclical, capital-intensive, and price-competitive airline
+industry.
+
+Focus on more regional destinations, allowing greater network
+capillarity
+
+Global economic slowdown and trade disputes could affect demand and
+exacerbate currency volatility, hampering profitability and leverage.
+
+Solid liquidity position.
+
+Volatile fuel prices and domestic currency swings could affect Azul’s cost
+structure.
+Geographic concentration, with high exposure to the Brazilian economy.
+
+Better industry fundamentals in Brazil support profitability. Industry fundamentals have been improving since Avianca
+Brasil stopped operating and due to the continued disciplined supply management among the remaining three main
+industry players, Azul S.A. (B+/Stable/--), Gol Linhas Aereas Inteligentes S.A. (B/Stable/--) and Latam Airlines Group
+S.A. (BB-/Stable/--). This should allow the sector to sustain better load factors and adjusted yields, supporting higher
+profitability. Azul also benefitted from Avianca's slots redistribution, so that Azul was able to enter the
+Congonhas-Santos Dumont route--Brazil's busiest.As a result, we expect Azul to sustain load factors close to 83% and
+EBITDA margins close to 30% over the next couple of years.
+A resilient business model and barriers to entry sustain Azul's competitive advantage.Although we see the airline
+industry as high-risk, we believe that Azul's network capillarity and strategic position in the Brazilian market somewhat
+mitigate the risks of the competitive, cyclical, and capital-intensive airline industry. Azul's strong presence in
+underserved markets is possible thanks to its diverse fleet that can fit into many different routes, which enables it to be
+the sole operator in many of them, giving it pricing advantages and the ability to capture corporate clients. As a result,
+the company has higher revenue per available seat kilometer (RASK) than its competitors, and higher margins, despite
+incurring more expensive costs per available seat kilometer (CASK) due to lower economies of scale per flight.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Azul S.A.
+
+Geographic concentration and cyclical industry weigh on its credit profile.Although Azul does have a significant reach
+across Brazil, it is concentrated in a single market, which exposes the company to economic downturns and the
+Brazilian regulatory framework. Also, Azul's revenues are mostly generated in Brazilian reais, while part of the
+company's operating costs (most notably fuel and maintenance) are linked to the dollar, exposing it to greater volatility
+of margins than global companies.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Azul will gradually improve its metrics by increasing cash flow
+generation, reflecting its fleet management plan, increasing ASK by replacing its E-Jets with the new generation
+A320. Its metrics would also improve amid a more favorable market in Brazil after the exit of Avianca. We expect
+Azul to maintain its business model, sustaining market leadership in key routes it operates while it improves cash
+flow generation. We expect Azul's gross debt to EBITDA to be below 4.5x by the end of this year and below 4.0x
+next year, while funds from operations (FFO) to debt will improve to 14%-15% this year and 16%-17% next year.
+
+Downside scenario
+A negative rating action would stem from worsening market conditions in Brazil, a hike in fuel prices or greater
+currency volatility that could increase Azul's cost structure substantially, worsening its operating performance and
+leading to free operating cash flow (FOCF) shortfalls and higher leverage. In this scenario, we would see gross debt
+to EBITDA close to 5.0x and FFO to debt of about 12% consistently. A negative rating action is also possible if
+volatility in the company's cash generation results in operational cash burn, weakening Azul's liquidity.
+
+Upside scenario
+We could take a positive rating action in the next 12 months if Azul were to significantly increase its cash flow
+generation, while it maintains a healthier capital structure amid still favorable conditions for the sector. In this
+scenario, we would also need to see stronger credit metrics amid relatively stable currency levels. Thus, we could
+see gross debt to EBITDA trending to 3.0x, FFO to gross debt of about 30%, and FOCF to gross debt above 15%
+consistently.
+
+Our Base-Case Scenario
+S&P Global Ratings expects that Azul will continue to work on increasing supply through its fleet management plan,
+while it increases operational performance, actively managing its capacity and benefiting from favorable market
+conditions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Azul S.A.
+
+Assumptions
+
+Key Metrics
+
+• Brazil's GDP increasing 1.0% in 2019 and about
+2.0% in 2020, supporting demand from corporate
+and business clients.
+
+• EBITDA margin: 27.5% in 2018, projected at
+29%-30% in 2019, and estimated at 31.0%-31.5% in
+2020 and 30.0%-31.1% in 2021;
+
+• Brazil's CPI of about 4% starting in 2019, impacting
+the company's local costs, including SG&A and
+COGS related salaries.
+
+• FFO to debt: 15.2% in 2018, projected at 14%-15%
+in 2019, and estimated at 16%-17% in 2020 and
+17%-18% in 2021;
+
+• Average exchange rate of R$3.90 per $1 in 2019 and
+R$3.95 per $1 in 2020,which impacts fuel,
+maintenance, and leasing payments.
+
+• Debt to EBITDA: 4.5x in 2018, projected at
+4.0x-4.5x in 2019, and estimated at 3.5x-4.0x in 2020
+and 3.5x in 2021; and
+
+• End-of-period exchange rate of R$3.95 per $1 in
+2019 and 2020.
+
+• FOCF to debt: 4.9% in 2018, projected at 5%-6% in
+2019, and estimated at 5%-6% in 2020 and 6%-7%
+in 2021.
+
+• Total operating fleet of 142 aircraft in 2019 and 151
+in 2020. In 2020, the A320neo should represent
+about 35% of total fleet, up from 16% in 2018,
+gradually replacing the E-195.
+• Aircraft fuel prices increasing according to our
+forecasted Brent oil prices and average exchange
+rate. We expect average Brent oil prices of $60 per
+barrel (bbl) in 2019 and 2020.
+• ASK to increase close to 25% in 2019 and 2020, as
+the company replaces E195 with the A320neo and
+expands its routes.
+• Revenue passenger per kilometer (RPK) increasing
+26% in 2019 and 23% in 2020, reflecting the more
+resilient demand for Azul's main routes and the
+impact of exit of Avianca Brasil.
+• These assumptions result in an expected load factor
+of about 84% in 2019 and 83% in 2020.
+• Average yields improving about 4% in 2019.
+• Capital expenditures (capex) of about R$900 million
+in 2019 mainly related to new aircraft, engines, and
+equipment.
+• Lease liabilities of R$11 billion – R$12 billion in 2019
+and R$12 billion – R$13 billion in 2020 to fund
+expansion and reflecting the fleet's lower average
+age.
+• No relevant dividend payout.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Azul S.A.
+
+Base-case projections
+Better industry fundamental and Azul's fleet management plan to support growth and higher margins.We expect Azul
+to post ASK growth of 25% in 2019 and 2020 while it maintains load factor of 83%-84%, reflecting more rational
+supply management in the sector after the exit of Avianca Brasil, the addition of larger aircraft to the fleet (A320neo)
+and replacing some of its smaller E-Jets on longer-haul flights. The A320 should strength its network, while reducing
+cost per seats in longer routes.
+High liquidity cushion and conservative hedging should diminish volatility. We expect Azul to maintain a robust cash
+position in order to lessen the impact of the volatile exchange rates have on costs and on foreign currency debt. Our
+base-case scenario also assumes that the company will maintain a hedging strategy of 40% of fuel price for the next 12
+months.
+
+Company Description
+Azul is a Brazil-based, low-cost airline founded in 2008 with a total fleet of 134 aircraft. The company is the country's
+largest airline in terms of domestic departures and cities it serves, with about 822 daily flights. It is the third largest in
+terms of ASK. As of the end of 2018, Azul provides air transportation services to 23 million passengers per year to
+about 110 destinations through 222 non-stop routes, mainly in Brazil. In addition, the company wholly owns its loyalty
+program TudoAzul, which had close to 11 million members as of Dec. 31, 2018. Azul generated revenue of about R$10
+billion in the 12 months ended June 30, 2019.
+
+Business Risk: Weak
+Azul is Brazil's third-largest airline in terms of market share. The company posted significant growth following the exit
+of Avianca Brasil, increasing its market share to 25% in June 2019 from 18% in June 2018, versus Gol's and Latam's
+40% and 34%, respectively.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Azul S.A.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Azul S.A.
+
+Chart 2
+
+The company focuses on regional airports in economically dynamic areas of the country. This allows Azul to capture a
+significant amount of corporate client demand, which has proven to be resilient even during the economic downturn in
+Brazil. Also, Azul is the only carrier in about 70% of its routes, and it has a leading position in seven out of the ten
+largest domestic airports in number of departures in Brazil. This business model allows the company to charge higher
+average ticket prices, bolstering margins and RASK above those of competitors, despite incurring greater CASK due to
+lower economies of scale per flight.
+Although the company has small presence in international routes, it has been expanding its alliances with international
+carriers--mainly TAP and United Airlines--through code share agreements, improving commercial cooperation, and
+synergies. Azul also counts on its own frequent flier program, TudoAzul.
+
+Peer comparison
+Table 1
+
+Azul SA. -- Peer Comparison
+Azul S.A.
+
+Latam Airlines Group S.A. Gol Linhas Aereas Inteligentes S.A.
+
+Issuer credit rating
+
+B+/Stable/--
+
+BB-/Stable/--
+
+B/Stable/--
+
+Country
+
+Brazil
+
+Chile
+
+Brazil
+
+Business risk profile
+
+5 - Weak
+
+4 - Fair
+
+5 - Weak
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Azul S.A.
+
+Table 1
+
+Azul SA. -- Peer Comparison (cont.)
+Azul S.A.
+
+Latam Airlines Group S.A. Gol Linhas Aereas Inteligentes S.A.
+
+Financial risk profile
+
+5 - Aggressive 5 - Aggressive
+
+5 - Aggressive
+
+Anchor
+
+b+
+
+bb-
+
+b+
+
+Diversification/portfolio effect
+
+Neutral (0)
+
+Neutral (0)
+
+Neutral (0)
+
+Capital structure
+
+Negative (-1)
+
+Neutral (0)
+
+Negative (-1)
+
+Financial policy
+
+Neutral (0)
+
+Neutral (0)
+
+Neutral (0)
+
+Liquidity
+
+Adequate (0)
+
+Adequate (0)
+
+Adequate (0)
+
+M&G
+
+Fair (0)
+
+Satisfactory (0)
+
+Fair (0)
+
+CRA
+
+Positive (+1)
+
+Neutral (0)
+
+Neutral (0)
+
+SACP
+
+b+
+
+bb-
+
+b
+--Fiscal year ended Dec. 31, 2018--
+
+S&P's Adjusted Figures (Mil. $)
+Revenues
+
+2,364.4
+
+9,895.5
+
+2,947.7
+
+EBITDA
+
+677.5
+
+2,228.0
+
+635.2
+
+Funds from operations (FFO)
+
+474.9
+
+1,639.2
+
+365.6
+
+Net income from continuing operations
+
+108.6
+
+213.2
+
+(280.4)
+
+Cash flow from operations
+
+384.6
+
+1,455.3
+
+572.3
+
+Capital expenditures
+
+220.8
+
+741.5
+
+226.2
+
+Free operating cash flow
+
+163.7
+
+713.7
+
+346.1
+
+Discretionary cash flow
+
+160.6
+
+641.1
+
+56.7
+
+Cash and short-term investments
+
+435.7
+
+1,465.6
+
+337.0
+
+2,999.9
+
+8,621.4
+
+3,230.8
+
+817.2
+
+3,746.8
+
+(1,163.8)
+
+27.5
+
+22.5
+
+20.9
+
+Return on Capital (%)
+
+9.1
+
+7.8
+
+13.0
+
+EBITDA interest coverage (x)
+
+3.0
+
+4.0
+
+2.2
+
+FFO cash interest coverage (x)
+
+3.4
+
+3.9
+
+2.6
+
+Debt
+Equity
+Adjusted ratios
+EBITDA margin (%)
+
+Debt/EBITDA (x)
+
+4.6
+
+3.9
+
+5.2
+
+FFO/debt (%)
+
+15.2
+
+19.0
+
+10.9
+
+Cash flow from operations/debt (%)
+
+12.2
+
+16.9
+
+17.3
+
+Free operating cash flow/debt (%)
+
+4.9
+
+8.3
+
+10.3
+
+Discretionary cash flow/debt (%)
+
+4.8
+
+7.4
+
+8.2
+
+Financial Risk: Aggressive
+We expect Azul to continue improving its operating cash flows, offsetting the higher volumes of operating lease debt
+due to depreciation of the currency, and fleet renewal and expansion. Higher operating cash flows will allow the
+company to deleverage gradually. Lower Brent prices, lower capacity additions following Avianca Brasil's bankruptcy,
+price adjustments, as well as Azul's efficient fleet and route strategies will also support deleveraging. We expect the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Azul S.A.
+
+company to maintain a high cash position and use only a part of it to prepay debt, which is a conservative strategy for
+its liquidity and offsets potential negative effects from volatility in exchange rates and the cyclical demand in the airline
+business. We expect debt to EBITDA to be in the 4.0x-4.5x range by the end of 2019 and 3.5x-4.0x in 2020, while FFO
+to debt remains between 14% and 16% for the next two years.
+
+Financial summary
+Table 2
+
+Azul S.A. -- Financial Indicators
+Industry Sector: Air Transport
+-- Fiscal year ended December 31 -2018
+Rating History
+
+2017
+
+2016
+
+2015
+
+2014
+
+B+/Stable/brAA B+/Stable/brAA
+
+NR
+
+NR
+
+NR
+
+(Mil. R$)
+Revenues
+
+9,153.4
+
+7,789.5 6,669.9
+
+6,257.9 5,803.1
+
+EBITDA
+
+2,516.8
+
+2,287.4 1,748.5
+
+1,054.5 1,288.2
+
+Funds from operations (FFO)
+
+1,769.6
+
+1,513.9
+
+Net income from continuing operations
+
+788.9
+
+123.9
+
+420.3
+
+529.0
+
+1,419.9
+
+1,071.6
+
+817.6
+
+283.1
+
+721.7
+
+Capital expenditures
+
+854.8
+
+645.6
+
+442.1
+
+1,246.4
+
+447.8
+
+Free operating cash flow
+
+565.1
+
+426.0
+
+375.5
+
+(963.3)
+
+273.9
+
+Discretionary cash flow
+
+552.9
+
+378.6
+
+29.1
+
+(963.3)
+
+273.9
+
+1,686.6
+
+1,798.5
+
+880.4
+
+666.4
+
+888.8
+
+Cash flow from operations
+
+Cash and short-term investments
+Debt
+Equity
+Adjusted Ratios
+
+(126) (1,074.9)
+
+606.6
+
+11,613.7
+
+9,877.5 9,897.9
+
+3,163.7
+
+2,833.6 1,002.0
+
+(65)
+
+12,321.1 8,103.9
+(392.2)
+
+416.5
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+EBITDA margin (%)
+
+27.5
+
+29.4
+
+26.2
+
+16.8
+
+22.2
+
+Return on capital (%)
+
+9.1
+
+10.8
+
+6.4
+
+2.2
+
+9.0
+
+EBITDA interest coverage (x)
+
+3.0
+
+2.6
+
+1.6
+
+1.1
+
+1.9
+
+FFO cash interest coverage (x)
+
+3.4
+
+3.0
+
+1.8
+
+1.1
+
+1.9
+
+Debt/EBITDA (x)
+
+4.6
+
+4.3
+
+5.7
+
+11.7
+
+6.3
+
+FFO/Debt (%)
+
+15.2
+
+15.3
+
+8.0
+
+1.0
+
+7.5
+
+Cash flow from operations/debt (%)
+
+12.2
+
+10.8
+
+8.3
+
+2.3
+
+8.9
+
+Free operating cash flow/debt (%)
+
+4.9
+
+4.3
+
+3.8
+
+(7.8)
+
+3.4
+
+Discretionary cash flow/debt (%)
+
+4.8
+
+3.8
+
+0.3
+
+(7.8)
+
+3.4
+
+Liquidity: Adequate
+We view Azul's liquidity is adequate. Given robust cash position, forecasted cash generation, and manageable debt
+amortization schedule, we expect liquidity sources to surpass uses by more than 1.2x in the next 12 months and that
+sources will continue to exceed uses even if EBITDA declines by 30%. Azul is subject to debt-payment acceleration
+covenants under some of its debt contracts, which require adjusted net debt to EBITDA to be lower than 5.5x to 6.5x
+(depending on the contract) and interest coverage greater than 1.2x, both of which we expect the company to meet
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+Azul S.A.
+
+with significant headroom.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash position of R$1.4 billion as of June 30, 2019;
+and
+
+• Short-term debt of R$227 million as of June 30,
+2019;
+
+• Expected cash FFO of about R$1.3 billion in the next
+12 months.
+
+• Annual capex of about R$900 million;
+• Working capital outflows of R$242 million in the
+next 12 months; and
+• No dividend payout.
+
+Debt maturities
+As of June 2019, Azul had the following debt maturity profile, not including the hedge impact on its senior unsecured
+note:
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 11
+
+Azul S.A.
+
+Covenant Analysis
+Compliance expectations
+As of December 2018, the company's debt totaled R$822 million under the acceleration-type covenants. The
+covenants are mostly related to Azul's debentures (9th and 10th issuances) and to aircraft financing. The company's
+operating lease agreements or bonds don't have financial covenants, although the bonds have the usual cross-default
+provisions with other relevant debt amounts and events of default. Azul was compliant with such clauses as of
+December 2018, and according to our projections, it will be able to comply with those covenants over the next few
+years, and with about 30% cushion in the next 12 months.
+
+Requirements
+The covenants require maximum leverage of 5.5x to 6.5x Debt to EBITDA (depending on the contract) and adjusted
+debt service coverage ratio of 1.2x.
+
+Other Credit Considerations
+We believe that Azul's sizable amount of dollar-denominated debt on an adjusted basis and its exposure to unhedged
+fuel costs could add volatility to margins and financial metrics. This is because dollar-denominated operating costs
+outweigh revenue in the same currency, given that about 50% of the company's total costs are linked to foreign
+currency, while foreign currency revenue is likely to represent about 10% of total revenues in 2019. Therefore, we view
+Azul's capital structure as negative, as its financial metrics remain exposed to currency mismatches that could lead to
+covenant pressures if the Brazilian real were to weaken sharply. However, we believe Azul compares favorably with its
+peers in the 'B' rating category. This stems from Azul's strategy of operating in markets with little or no competition,
+which generate higher margins than for domestic peers. It also reflects the company's policy of hedging all of its
+foreign currency debt and interest expenses from exchange rate volatility amid a significant cushion in its liquidity. We
+also consider that Azul has contingent assets consisting of a portion of TAP's convertible bonds, which are
+denominated in euros and are a source of foreign currency, given their face value.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 12
+
+Azul S.A.
+
+Environmental, Social, And Governance
+
+The airline industry is subject to long-term risks from environmental and social factors. But we don't view them as
+a considerable rating driver for Azul. The prevalence of unions in the airline industry leads to moderately high
+social risks; 100% of Azul's employees are unionized. In addition, the industry has high public visibility regarding
+safety, noise, and other factors. In order to adapt to the Carbon Offsetting and Reduction Scheme for International
+Aviation (CORSIA), as of 2019, the Brazilian National Civil Aviation Agency (ANAC) requires all carriers to report
+their CO2 emission levels. It is part of implementing environmental obligations under Chicago Convention, of
+which Brazil is a signatory.
+Azul has been reducing its CO2 emission per ASK through the renewal of its fleet for more technological and fuel
+efficient models. Also, its average fleet age is 5.9 years, significantly lower than those of most large airlines in the
+U.S. (average of 10 to 16 years). And Azul aims to reduce fuel consumption in the future. We assess Azul's
+management and governance as fair, because we believe management has a solid knowledge of the airline
+industry, amid absence of high turnover with many of directors working in the company since its inception.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+The 'B+' rating on Azul's senior unsecured note due 2024 is at the same level as the issuer credit rating, reflecting a
+recovery rating of '4' with an average recovery expectation of 45% (rounded) for unsecured creditors. Although most of
+Azul's fleet is under operating and financial leases, the issue-level rating reflects the company's non-aircraft related
+debts, which are mostly unsecured. We analyze Azul's recovery under a going concern scenario, because of the size of
+the company's operations in Brazil, which benefit from little or no competition, and given that we don't expect other
+players to replace Azul should it cease to operate. These factors lead us to believe that the company would likely be
+restructured in a distress scenario.
+Our valuations reflect our estimate of the value of the various assets at emergence adjusted for expected realizations
+rates in a distressed scenario. Under this scenario, we believe Azul's available assets would be enough to meet its
+secured loans and about 45% of its unsecured loans.
+
+Simulated default assumptions
+• Simulated year of default: 2023
+• We apply an overall haircut of about 70% to Azul's asset base, including about 80% dilution rate to its cash position,
+because the company would likely use part of its cash position to fund working capital needs and repay more
+expensive loans in a distress scenario.
+• We apply a 5% cut for administrative expenses.
+• Therefore, we arrive at a gross enterprise value of about R$2.3 billion.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 13
+
+Azul S.A.
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative expenses): R$2.2 billion
+• Secured debt: R$686 million (FINAME and other secured debt)
+• Total value available to unsecured claims: R$1.5 billion
+• Total senior unsecured debt: R$3.1 billion
+• Expected recovery of senior unsecured debt: 30%-50% (rounded estimate: 45%)
+
+Reconciliation
+Table 3
+
+Reconciliation Of Azul S.A. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. R$)
+--Rolling 12 months ended June 30, 2019-Azul S.A. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+3,051.2
+
+2,073.6
+
+1,132.5
+
+705.7
+
+2,828.5
+
+1,466.6
+
+1,111.1
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(0.7)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(629.4)
+
+--
+
+--
+
+9,585
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+--
+
+736.2
+
+247.8
+
+247.8
+
+(247.8)
+
+488.4
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+41.3
+
+--
+
+--
+
+--
+
+--
+
+-219
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported lease
+liabilities
+
+Debt: Derivatives
+Debt: Tax liabilities
+
+101
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss)
+on disposals of PP&E
+
+--
+
+19.9
+
+19.9
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+(1.2)
+
+(1.2)
+
+--
+
+--
+
+--
+
+--
+
+9,466
+
+754.9
+
+307.7
+
+247.8
+
+(877.9)
+
+488.4
+
+0.0
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+Capital
+expenditure
+
+12,517.4
+
+2,828.5
+
+1,440.2
+
+953.5
+
+1,950.6
+
+1,955.0
+
+1,111.1
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 14
+
+Azul S.A.
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: High
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Negative (-1 notch)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : b+
+
+Related Criteria
+• General Criteria: Methodology For National And Regional Scale Credit Ratings, June 25, 2018
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Transportation Cyclical Industry, Feb. 12, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 15
+
+Azul S.A.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+Azul S.A.
+Issuer Credit Rating
+
+B+/Stable/--
+
+Brazil National Scale
+
+brAA/Stable/--
+
+Issuer Credit Ratings History
+11-Oct-2017
+11-Jul-2018
+
+B+/Stable/-Brazil National Scale
+
+11-Oct-2017
+
+brAA/Stable/-brA-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 16
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 17
+
+

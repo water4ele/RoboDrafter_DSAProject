@@ -1,0 +1,526 @@
+Baffinland Iron Mines Corp.
+Primary Credit Analyst:
+Phalguni Adalja, CFA, Toronto + 1 (416) 507 3212; phalguni.adalja@spglobal.com
+Secondary Contacts:
+Jarrett Bilous, Toronto (1) 416-507-2593; jarrett.bilous@spglobal.com
+Nicole Jiang, Toronto + 1 (416) 507 3228; nicole.jiang@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 1
+
+Baffinland Iron Mines Corp.
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+High reserve grades at Mary River mine earns price
+premium.
+
+Limited operating diversity, with exclusive reliance on Mary River mine for cash flow
+generation.
+
+Long reserve life provides production visibility.
+
+Credit measures highly sensitive to iron ore price fluctuations given the company's
+single-commodity focus and small scale of production.
+
+Phase 3 expansion will enhance capacity and should
+materially reduce unit costs.
+
+Execution risk and potentially higher leverage and funding risk related to its
+capital-intensive Phase 3 expansion.
+
+The company is in the midst of materially expanding its iron ore production capacity, which adds financial risk.
+Baffinland Iron Mines Corp. exclusively mines iron ore from its Mary River operations in Nunavut, Canada, and is in
+the process of materially expanding its production capacity. Its capital-intensive Phase 3 expansion includes rail line
+extension (from mine to port) and port investments to increase shipment capacity from 5.4 million metric tons (mt) in
+2018 to a targeted 18 million mt per year by 2022 (subject to permitting). S&P Global Ratings views the expansion as
+aggressive given the large capital outlay (US$1.3 billion), potential for cost overruns, dependence on favorable iron ore
+prices and premiums, and reliance on sponsor equity and getting the key permit amendments. In our view,
+lower-than-expected cash flow generation during the expansion could increase external funding requirements and
+negatively affect the sustainability of Baffinland's prospective capital structure.
+Meaningful improvement in estimated earnings and cash flow generation this year will likely be followed by a modest
+decline in 2020. Higher shipments from increased mined production, and stronger realized prices underpin the
+expected improvement this year. Based mainly on our higher cash flow estimates, we expect Baffinland's adjusted
+debt-to-EBITDA ratio to be in the high-3.0x area this year (4.9x in 2018). In 2020, we assume modestly lower realized
+iron ore prices and incremental debt associated with Phase 3 funding will mainly result in leverage approaching 5x.
+However, we estimate the company's EBITDA interest coverage to remain above 3x, which provides ample cushion at
+the current rating.
+Sponsor equity and debt financing is likely to cover funding shortfalls over the next two years, but only a portion is
+committed. As the company continues to spend aggressively on the rail expansion, we expect Baffinland will incur free
+cash flow deficits of about US$150 million-US$175 million in each of 2019 and 2020. The company plans to fund the
+deficit by using internal cash flow generation, sponsor equity (US$180 million of committed capital available), and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 2
+
+Baffinland Iron Mines Corp.
+
+preferred equity (additional US$50 million available under the purchase agreement as of date). It also intends to secure
+project financing/capital leases as additional sources of financing. However, the inability to secure new debt financing
+will likely require more equity capital (of which there is no assurance), or spending curtailment. There is also no
+assurance that permitting will be received in a timely manner, given the issues surrounding ore dust and potential
+impact on narwhals. In our view, these issues could delay the expansion but still require capital investments to
+continue at heightened levels due the seasonal access to the mine's port.
+
+Outlook: Stable
+
+The stable outlook on Baffinland primarily reflects S&P Global Ratings' expectation that the company will generate
+adjusted debt-to-EBITDA in the 3.5x-4.5x range in 2019 and 2020, with sufficient liquidity to fund its Phase 3
+expansion. We believe the company will fund free cash flow deficits related to heightened development spending
+with a combination of debt and equity injections from its owners. However, we also expect Baffinland's credit
+measures and funding requirements to remain highly sensitive to modest sustained weakness in iron ore prices
+relative to our assumptions.
+
+Downside scenario
+We could downgrade the company if, over the next 12 months, we expect liquidity to materially weaken beyond
+our expectations, leading to interest coverage below 1.5x, and increased potential for a covenant breach under the
+credit facility. In this scenario, we would consider the company's capital structure as unsustainable, most likely the
+result of a material drop in benchmark (62%) iron ore prices and premiums, higher-than-expected operating costs,
+or a higher-than-expected amount of debt used to fund Baffinland's expansion.
+
+Upside scenario
+An upgrade is unlikely over the next 12 months, given the funding and execution risks associated with Baffinland's
+capital-intensive Phase 3 expansion. In addition, we expect the company's credit measures and liquidity to remain
+highly sensitive to iron ore price fluctuations. However, we could consider an upgrade if adjusted debt-to-EBITDA
+were to approach and remain at 3x. In this case, we would expect Baffinland to generate material free cash flows
+that reduces funding risk associated with its growth strategy beyond 2019. In our view, this could result from a
+significant increase in realized iron ore prices that meaningfully exceed our expectations for a protracted period.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 3
+
+Baffinland Iron Mines Corp.
+
+Assumptions
+
+Key Metrics
+
+• Iron ore production of about 6 million mts in 2019
+and 2020, in line with company guidance
+
+2018A
+Debt-to-EBITDA
+
+• Canadian/U.S.-dollar exchange rate assumptions of
+about $1.34 in 2019 and $1.32 in 2020
+• Iron ore price of US$90/mt for the rest of 2019 and
+US$80/mt in 2020
+• Premiums for the direct ship pellet (DSP) product of
+about US$25/mt in 2019 and US$20/mt in 2020
+(assuming the company realizes about 50% of the
+Atlantic blast furnace pellet premium)
+
+FFO-to-debt
+FOCF-to-debt
+EBITDA-to-interest
+
+2019E
+
+4.9x High 3.0x area
+6%
+(40%)
+2.6x
+
+About 20%
+
+2020E
+About 4.5x
+About 15%
+
+About (15%) About (10%)
+About 4.0x
+
+About 3.5x
+
+FFO--Funds from operations. FOCF--Free operating
+cash flow. A--Actual. E--Estimate.
+
+• Direct operating cash costs of about US$40/mt area
+in 2019 and moderately declining in 2020
+• Capital expenditures (capex) of about
+US$300-US$350million for each of 2019 and 2020 as
+the company moves forward with its Phase 3
+expansion plans
+• Free cash flow deficit of US$150 million-US$175
+million on average, in 2019 and 2020
+
+Company Description
+Baffinland produces iron ore at its wholly owned Mary River mine on northern Baffin Island, in the Nunavut Territory
+of Canada. The company achieved commercial production in late 2015, and produced about 5.5 mt of iron ore in 2018.
+Baffinland is majority owned by The Energy & Minerals Group and headquartered in Ontario, Canada.
+
+Business Risk: Vulnerable
+Our assessment of Baffinland's business risk profile as vulnerable reflects the company's single mine operation, small
+scale of operations relative to that of other rated mining peers, and limited track record of operation. The company
+derives all the production from its wholly owned Mary River mine, which exposes it to fluctuations in iron ore prices
+and premiums (relative to lower-grade benchmark prices), as well as unforeseen production disruptions that can
+materially impair operating results.
+In our view, the risks associated with limited diversity are heightened by the mine's relatively early stage of operation,
+having achieved commercial production in late 2015. We expect production to increase in 2019 to more than 6 mt, but
+Baffinland's scale of operations remains below that of other rated peers, including Fortescue Metals Group Ltd.,
+Cleveland-Cliffs Inc., and Ferrexpo plc. We believe the company's limited operating diversity and scale exacerbates its
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 4
+
+Baffinland Iron Mines Corp.
+
+vulnerability to market price and unit cost volatility. Moreover, in our view, improved visibility with respect to the
+sustainability of Baffinland's operating costs will requires a longer track record of production, particularly given the
+highly seasonal and remote Arctic location of the company's operations.
+Our assessment also reflects the high reserve grades at the Mary River mine (typically 66% iron ore), which earn a
+premium (grade adjustment) relative to benchmark prices. Its lump iron ore--also known as DSP--accounts for about
+70% of the mine's production (balance is fines) and is sold as a replacement to pellets. Although DSP receives a lower
+price premium than pellets, it is produced at a much lower cost due to the lack of required processing before shipping.
+We estimate Baffinland's unit cash costs (including freight and overheads) at about US$65/mt in 2019--excluding costs
+associated with stockpiled ore. In our view, a material improvement in the cost structure is unlikely until rail expansion
+is completed, the timing of which is unknown because permits are required for development to commence.
+
+Financial Risk: Highly leveraged
+Our assessment of Baffinland's financial risk primarily reflects its relatively high prospective leverage and the risks
+associated with its capital-intensive Phase 3 expansion. We expect the company will generate adjusted
+debt-to-EBITDA in the 3.5x-4.5x range in 2019 and 2020, and maintain sufficient liquidity to fund its expansion.
+However, iron ore prices have been historically volatile, and we take into account the sensitivity of the company's
+credit measures and liquidity to relatively modest fluctuations in prices, premiums and input costs.
+For example, we estimate that a $20 per pound (/lb) decline in average iron ore prices in 2019 relative to assumption
+results in a 30% decline in EBITDA and leverage over 5.0x (an increase of about 1.5x). Current prices are just below
+our assumption for the year, but we acknowledge the potential for significant volatility. For example, iron ore prices
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 5
+
+Baffinland Iron Mines Corp.
+
+peaked at about US$115/lb just over a month ago (July) to about US$80/lb currently.
+Our assessment also incorporates the risks associated with the company's Phase 3 expansion. We believe debt in the
+form of project financing/capital leases will be used to cover amounts not funded with internal cash flow generation,
+and equity capital. As a result, we believe leverage will remain high over our forecast period given the likelihood for
+higher debt levels without a corresponding increase in earnings and cash flow from the project in 2019 and 2020. In
+our view, higher leverage amid a sustained period of price weakness and heightened capex pose a risk to the
+sustainability of Baffinland's capital structure.
+
+Liquidity: Less than adequate
+We view liquidity as less than adequate, which mainly reflects qualitative factors that we do not view as sufficient for a
+higher assessment. We expect sources of liquidity to exceed uses by over 2x in the next 12 months--an improvement
+relative to last year. The increase in sources mainly reflects the higher estimated cash flows mainly linked to higher
+iron ore prices. However, we believe the company has limited flexibility to cut project development-related capex,
+particularly given seasonal access to the Mary River mine. As such, we view Baffinland to have limited ability to
+absorb high-impact, low-probability events. Our assessment also reflects the company's limited track record with
+respect to financial management.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and equivalents of about US$60 million at June
+30, 2019
+
+• Annual sustaining capex of about $30 million
+• Seasonal working capital of about US$50 million
+
+• Funds from operations of above US$150 million
+over the next 12 months
+
+Debt maturities
+Debt maturities are as follows:
+• US$550 million 8.75% senior secured notes due July 2026
+• A US$147.5 million revolving credit facility due May 2020
+
+Covenant Analysis
+The company is subject to maintaining a fixed-charge coverage ratio of 2x and debt-to-EBITDA (as calculated under
+bank agreement) of less than 5x. The company is in compliance with these covenants. The leverage ratio steps down
+to 3.5x for the quarter ending Dec. 31 2019, and thereafter; however, it is likely that the covenant will be loosened
+given the delay in receiving permits.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 6
+
+Baffinland Iron Mines Corp.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We have updated our recovery analysis and the '4' recovery rating and 'B-' issue-level rating on the US$575 million
+senior secured notes is unchanged. The '4' recovery rating reflects our expectation for average (30%-50%; rounded
+estimate 30%) recovery in a default scenario.
+• Our simulated default scenario, assumed in 2021, reflects deterioration in iron ore prices relative to our price
+assumption that exhausts the company's liquidity and ability to fund fixed obligations, including interest and
+maintenance capex.
+• We assume the US$147.5 million revolving credit facility will be 85% draw at the time of default.
+• We believe it is likely that Baffinland will incur additional debt as its Phase 3 expansion progresses, but this is not
+incorporated into our default scenario (given the uncertainty regarding the amount and terms of incremental debt).
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: about US$70 million
+• EBITDA multiple: 5x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative expenses): US$335 million
+• Obligor/non obligor valuation split: 100%/0%
+-----------------------------------------------------------• Estimated priority claims: About US$140 million
+• Value available for first-lien claim: US$195 million
+• Estimated first-lien claim: US$600 million
+• --Recovery expectations: 30%-50% (rounded estimate: 30%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Vulnerable
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Vulnerable
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 7
+
+Baffinland Iron Mines Corp.
+
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Less than adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Metals And Mining Upstream Industry, Dec. 20, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Methodology For Standard & Poor's Metals And Mining Price Assumptions, Nov.
+19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 8
+
+Baffinland Iron Mines Corp.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 6, 2019)*
+Baffinland Iron Mines Corp.
+Issuer Credit Rating
+
+B-/Stable/--
+
+Senior Secured
+
+B-
+
+Issuer Credit Ratings History
+09-Dec-2016
+
+B-/Stable/--
+
+Related Entities
+Baffinland Iron Mines LP
+Senior Secured
+
+B-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 6, 2019 10
+
+

@@ -1,0 +1,1420 @@
+Beijing Capital Land Ltd.
+Primary Credit Analyst:
+Matthew Chow, CFA, Hong Kong (852) 2532-8046; matthew.chow@spglobal.com
+Secondary Contact:
+Wes Lao, Beijing + 86 10 6569 2928; wes.lao@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Group Influence
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 1
+
+Beijing Capital Land Ltd.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+BB+/Negative/--
+
+b
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong ongoing support from SOE parent in the form of resource
+sourcing, political clout, and financing advantage.
+
+High leverage due to aggressive land acquisitions and primary land
+development spending to accelerate growth.
+
+Future supply of saleable resources supported by sizable land bank
+under both primary and secondary development.
+
+Geographic concentration risk in its home markets.
+
+Established market position in its home markets of Beijing and Tianjin.
+
+Increasing exposure to unconsolidated joint ventures and associate
+projects, leading to weaker financial transparency.
+
+Diversified financing channels and competitive funding costs.
+
+Beijing Capital Land Ltd. (BCL) has been actively building its land bank to accelerate growth. BCL's sales growth fell
+behind its peers over 2015-2018 and its national sales ranking dropped to 43rd in 2018, from 23rd in 2015. In response
+to its weakening market position, BCL refocused on expansion and actively increased land acquisitions. In 2017-2018,
+the company's annual total land acquisitions exceeded 70% of its annual total contracted sales, fueled by substantial
+incremental debt financing. BCL has also stepped up investment in primary land development over the past few years.
+The company views that as a major source of future supply of saleable resources and hopes to internally absorb 60%
+of secondary land generated from its primary development activities. We believe this will further weigh on its leverage
+because primary land development has a long cash recycling cycle compared with secondary land investment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 2
+
+Beijing Capital Land Ltd.
+
+Chart 1
+
+BCL's geographic concentration in Beijing and Tianjin remains, although it now has presence in the Yangtze River
+Delta and Greater Bay Area. BCL's current contracted sales remain highly concentrated in its home markets of Beijing
+and Tianjin. In the first half of 2019, the two municipalities contributed Chinese renminbi (RMB) 27.8 billion in
+contracted sales, accounting for about 68.5% of the company's total contracted sales. In the past two years, BCL has
+stepped up investments outside the greater Beijing region, with a strategic emphasis on the Yangtze River Delta and
+Greater Bay Area. This has helped to lower the Beijing-Tianjin-Hebei share of total land bank to 53% in the first half of
+2019, from 67% in 2017. We expect BCL's land bank to become more geographically balanced, but its reliance on the
+Beijing-Tianjin-Hebei area will persist, with the region accounting for about half of its land bank and sales in the next
+two to three years. Such concentration risk will remain a constraint on the company's overall business profile.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 3
+
+Beijing Capital Land Ltd.
+
+Chart 2a
+
+Chart 2b
+
+We expect an increase in leverage owing to debt expansion and slow revenue growth. In our view, BCL's consolidated
+debt-to-EBITDA ratio will stay at 16x-17x in the next 12-24 months, compared with 18x as of end-2018 and 13x as of
+end-2017. Due to heightened land investment activities, BCL's absolute debt level has risen dramatically in the past
+two years. The company's total debt, including hybrid instruments, increased by RMB28 billion in 2018, which is
+around 87% of the company's equity at 2018 year-start. Total debt rose by another RMB20 billion in the first half of
+2019, though this was partly owing to the company's efforts to build up a cash buffer as the financing environment for
+the property sector has undergone significant tightening this year. On the other hand, the company's revenue and
+EBITDA growth have been below our expectations. This was partly because more stringent environmental policies in
+the Beijing-Tianjin-Hebei area have hampered construction progress and project delivery. The rise in BCL's leverage
+has also pushed up the overall leverage level of its parent, Beijing Capital Group (BCG).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 4
+
+Beijing Capital Land Ltd.
+
+Chart 3
+
+BCL's significant participation in joint ventures (JVs) weakens its financial transparency. We estimate that about 40%
+of BCL's total contracted sales are contributed by JV projects that were not consolidated in the past three years. In
+other words, solid growth in the share of profit from associates and JVs should offset earlier sacrifices to topline
+growth from 2018. We expect profit contributions from JVs and associates to rise in the next 12-24 months. In
+addition, given BCL's relatively low funding cost at the corporate level, it has been providing debt financing to JV
+projects and collaboration partners--often with an interest spread. This has helped limit the amount of
+off-balance-sheet debt at the JV project level. Based on our estimates, BCL's see-through debt-to-EBITDA ratio after
+proportionally consolidating JV projects is about 1x lower than that of the consolidated ratio. However, financial
+transparency of the company's participation in JVs is limited; there could be unseen risks, especially with complex
+financing arrangements between related parties.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 5
+
+Beijing Capital Land Ltd.
+
+Outlook: Negative
+
+The negative outlook on Beijing Capital Land Ltd. mirrors that on its parent BCG and our expectation that the
+company's leverage will stay high with EBITDA growth slower than that of debt.
+At the same time, the negative outlook reflects our view that BCG's leverage may rise from its current elevated
+level over the next 18-24 months. It also reflects the rising business concentration risk as the group relies more
+heavily on the development segment for profit and cash flow contributions, while proportional contributions from
+the environmental and infrastructure segments decrease.
+
+Downside scenario
+We could downgrade BCL if we lower the rating on BCG. In a less likely scenario, we may lower the rating on BCL
+if we believe the company's importance to the group slips, or the group's control of BCL weakens.
+We could lower the rating if BCG's equity issuance and growth execution falter, its debt expansion is faster than we
+anticipate, or its social housing and primary land development businesses do not generate the desired level of
+profit and cash flow, such that its debt-to-EBITDA ratio deteriorates from the current 13x-14x.
+
+Upside scenario
+We could revise BCL's outlook back to stable if BCG's outlook stabilizes. This could be indicated by BCG achieving
+stronger operating performance and EBITDA growth compared to our base case, while prudently managing debt
+expansion such that its debt-to-EBITDA ratio demonstrates a clear improving trend toward 10x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 6
+
+Beijing Capital Land Ltd.
+
+Assumptions
+
+Key Metrics
+
+• China's real GDP to grow 6.2% in 2019 and 2020.
+• China's national contracted sales to increase by
+12%-15% in 2019, largely due to a further rise in
+average selling price (ASP) of 10%-12% and gross
+floor area (GFA) growth of 2%-3%.
+• BCL's 2019 contracted sales to grow by 12-13% to
+about RMB80 billion, driven by a 10% increase in
+contracted sales GFA to 3.4-3.5 million square
+meters. ASP to increase up to 2%-3% in 2019.
+
+2018A 2019E
+
+2020E
+
+Consolidated debt-to-EBITDA ratio (x)
+
+17.9
+
+16-17
+
+15-16
+
+See-through debt-to-EBITDA ratio (x)
+
+16.8
+
+15-16
+
+14-15
+
+EBITDA interest coverage(x)
+EBITDA margin (%)
+
+1.2 1.3-1.4
+23.9
+
+25-26
+
+25-26
+
+A--Actual. E--Estimate.
+
+• Total revenue to increase to RMB26 billion-RMB27
+billion in 2019 and to about RMB25 billion in 2020.
+This forecast is in line with the company's fast sales
+growth in recent years.
+• Adjusted EBITDA margin to remain stable at
+25%-26% in 2019-2020.
+• BCL's land premium cash payments and
+construction costs to rise to above RMB35 billion in
+2019, following the ramp-up in development scale
+and increasing land investments and primary
+development capital expenditure (capex).
+• Joint ventures to account for about 45% of total
+sales in 2019 and 2020.
+• BCL's total adjusted debt including perpetuals to
+increase to about RMB115 billion in 2019 to support
+the company's expansion.
+
+Base-case projections
+BCL's revenue to grow moderately in 2019-2020 given the significant proportion of sales from JV projects.Despite the
+above 20% increase in annual contracted sales in 2017-2018 and the widening gap between contracted sales and
+recognition, for revenue we anticipate a moderate 15% growth in 2019 and below 20% growth as JV projects do not
+contribute to the topline. In addition, we believe it is challenging to immediately accelerate the construction process in
+the Beijing-Tianjin-Hebei region, given the stringent environmental policies in place.
+We expect BCL's margin to remain stable while leverage stays elevated. BCL has stabilized its profitability in the past
+two years by focusing on the three key metropolitan areas and exiting some weaker markets. We expect the company
+to maintain about 25% adjusted EBITDA margin in the next 12-24 months. However, we believe BCL's debt will
+continue to grow in the next two years, albeit less aggressively, such that its debt-to-EBITDA ratio stays above 15x.
+This is because meaningful deleveraging is difficult when revenue growth is relatively mild.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 7
+
+Beijing Capital Land Ltd.
+
+Company Description
+BCL is a midsize property developer and the real estate development arm of BCG, a Beijing government-owned
+conglomerate that has a 54.47% stake in BCL.
+Founded in 2002, BCL is mainly engaged in the development and sale of mid-to-high-end residential and commercial
+properties. The company also engages in sizable primary land development in Beijing and Tianjin, and operates a
+portfolio of large retail outlet stores through its separately listed subsidiary, Beijing Capital Grand Ltd.
+Since 2017, the company has embarked on its growth strategy that focuses on the Beijing-Tianjin-Hebei region,
+Yangtze River Delta, and Greater Bay Area with the aim of achieving RMB100 billion total sales in 2020. The company
+has been listed on the Hong Kong stock exchange since 2003.
+
+Business Risk: Fair
+We expect BCL to maintain its established market position in Beijing and Tianjin, and good margin recovery after its
+land bank reshuffle toward higher-tier cities. However, the company faces some geographical concentration risk and
+execution uncertainties during its expansion.
+BCL has a good market position in Beijing and Tianjin, with a long operating record and satisfactory brand recognition.
+In addition, it has some advantage in land procurement in the region because of its primary land development. With its
+parent company's state-owned enterprise (SOE) background, BCL has acquired primary land projects in the
+Beijing-Tianjin-Hebei region with GFA of about 30 million square meters. In the past, it had converted over 80% of its
+primary land projects to expand its land bank.
+We estimate that BCL will maintain its improved EBITDA margin of 25%-26% in 2019, compared with 23.9% in 2018.
+In 2017, the company's EBITDA margin improved to 26.4%, from below 20% in previous years, as it reshuffled its land
+bank away from its low-margin lower-tier cities, in particular in northeastern China. In 2018, projects in Beijing,
+Shanghai, and Tianjin with good gross margins accounted for about 78% of total contracted sales.
+Despite the slight diversification following its expansion, we believe concentration risks remain high because the
+company focuses mainly on the six core cities of Beijing, Tianjin, Chongqing, Chengdu, Shanghai, and Shenzhen. That
+said, the robust demand in these higher-tier cities partly mitigate the risks. In our view, BCL's execution faces some
+uncertainties outside its anchor markets, particularly Beijing and Tianjin. To support its aggressive sales growth, the
+company intends to expand into areas where it has yet to establish an operational record.
+
+Peer comparison
+Table 1
+
+Beijing Capital Land Ltd.--Peer Comparison
+Industry sector: Homebuilders and real estate developers
+Beijing Capital Land
+Ltd.
+
+China Overseas Grand Oceans
+Group Ltd.
+
+China Jinmao Holdings Group
+Ltd.
+
+--Fiscal year ended Dec. 31, 2018--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 8
+
+Beijing Capital Land Ltd.
+
+Table 1
+
+Beijing Capital Land Ltd.--Peer Comparison (cont.)
+Industry sector: Homebuilders and real estate developers
+Beijing Capital Land
+Ltd.
+
+China Overseas Grand Oceans
+Group Ltd.
+
+China Jinmao Holdings Group
+Ltd.
+
+(Mil. RMB)
+Revenue
+
+22,949.8
+
+22,457.5
+
+34,016.2
+
+EBITDA
+
+5,486.2
+
+6,092.6
+
+11,909.4
+
+Funds from operations (FFO)
+
+(3,443.1)
+
+2,526.6
+
+1,752.9
+
+Interest expense
+
+4,673.0
+
+1,212.7
+
+5,213.1
+
+Cash interest paid
+
+5,512.7
+
+1,185.5
+
+4,647.3
+
+(11,597.6)
+
+2,272.1
+
+(2,732.9)
+
+2,112.0
+
+64.9
+
+1,396.7
+
+Free operating cash flow (FOCF)
+
+(13,709.6)
+
+2,207.2
+
+(4,129.6)
+
+Discretionary cash flow (DCF)
+
+(17,719.6)
+
+2,026.8
+
+(7,657.3)
+
+Cash and short-term investments
+
+21,748.2
+
+22,273.3
+
+18,729.5
+
+Debt
+
+98,069.6
+
+23,460.5
+
+85,018.8
+
+Equity
+
+24,724.7
+
+17,809.3
+
+56,137.0
+
+EBITDA margin (%)
+
+23.9
+
+27.1
+
+35.0
+
+Return on capital (%)
+
+6.6
+
+16.9
+
+10.4
+
+EBITDA interest coverage (x)
+
+1.2
+
+5.0
+
+2.3
+
+Cash flow from operations
+Capital expenditure
+
+Adjusted ratios
+
+FFO cash interest coverage (x)
+
+0.4
+
+3.1
+
+1.4
+
+Debt/EBITDA (x)
+
+17.9
+
+3.9
+
+7.1
+
+FFO/debt (%)
+
+(3.5)
+
+10.8
+
+2.1
+
+Cash flow from operations/debt (%)
+
+(11.8)
+
+9.7
+
+(3.2)
+
+FOCF/debt (%)
+
+(14.0)
+
+9.4
+
+(4.9)
+
+DCF/debt (%)
+
+(18.1)
+
+8.6
+
+(9.0)
+
+RMB--Chinese renminbi.
+
+We consider China Jinmao Holdings Group Ltd. (Jinmao) and China Overseas Grand Oceans Group Ltd. (COGO) as
+BCL's peers, given similarities in scale and ownership. These developers also have SOEs as their parent group.
+BCL's scale is larger than COGO's, but is smaller than Jinmao's. In 2018, BCL, Jinmao, and COGO had sales of
+RMB70.6 billion, RMB 128.0 billion, and RMB 45.5 billion, respectively. Jinmao has the most diversified income
+stream because of its rental and hotel portfolio with high asset quality; BCL and COGO's primary focus is on property
+development. COGO and Jinmao are more geographically diversified with presence in over 20 cities. However, BCL
+focuses on higher-tier cities with better demand and higher margins than COGO, which operates only in lower-tier
+cities with less attractive markets.
+BCL has the weakest leverage compared to peers', given its aggressive growth appetite and low returns in the past few
+years due to destocking of inventory in lower-tier cities. However, we expect the company's leverage to improve
+modestly in the next 12-24 months as it rebalances its portfolio toward higher-tier cities.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 9
+
+Beijing Capital Land Ltd.
+
+All the three companies have some parental support. However, COGO and Jinmao's overall credit profiles are stronger
+than BCL's, partly because they benefit from the stronger credit profile of their parents, China Overseas Land &
+Investment Ltd. and Sinochem Group, respectively. COGO and Jinmao also have lower leverage and a better capital
+structure.
+
+Financial Risk: Highly leveraged
+We believe BCL is unlikely to materially improve its leverage in the next 12-24 months as the company targets to grow
+contracted sales to RMB100 billion in 2020 and RMB140 billion in 2021. We expect BCL to maintain spending on land
+acquisitions in the next two years to support its expansion, with land investments staying at about 50% of contracted
+sales. In addition, BCL is spending more heavily on primary land development projects in Beijing and Tianjin, which
+require significant upfront financing for a lengthy period. We believe the company's operating cash flow will remain
+negative over the next two years owing to slower cash collections as credit conditions in China tighten.
+BCL has good access to diversified financing channels, thanks to its parental support and SOE background. BCL's
+funding costs remain favorable at about 5.45% in 2018, with debt issuances in the domestic bond market still at very
+favorable costs. . BCL is also proposing a rights issue plan, which will offer the company's existing shareholders the
+right to subscribe for further shares in proportion to such number of shares held. The proceeds of the rights issue plan
+is estimated to be about RMB3 billion and may alleviate some pressure on BCL's leverage.
+
+Financial summary
+Table 2
+
+Beijing Capital Land Ltd.--Financial Summary
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+22,949.8
+
+20,910.4
+
+19,447.0
+
+15,045.3
+
+9,476.3
+
+EBITDA
+
+5,486.2
+
+5,522.0
+
+3,603.4
+
+2,937.7
+
+2,215.8
+
+(3,443.1) (1,259.2) (3,643.8)
+
+(Mil. RMB)
+
+Funds from operations (FFO)
+
+(5,058.7)
+
+(2,674.1)
+
+Interest expense
+
+4,673.0
+
+3,780.7
+
+4,042.6
+
+4,336.7
+
+2,524.6
+
+Cash interest paid
+
+5,512.7
+
+4,451.9
+
+4,316.0
+
+5,462.7
+
+2,886.8
+
+Cash flow from operations
+Capital expenditure
+
+(11,597.6)
+2,112.0
+
+15.2 (5,279.7) (14,429.7) (15,322.6)
+2,488.0
+
+1,347.8
+
+1,027.1
+
+748.8
+
+Free operating cash flow (FOCF)
+
+(13,709.6) (2,472.7) (6,627.6) (15,456.9) (16,071.4)
+
+Discretionary cash flow (DCF)
+
+(17,719.6) (2,472.7) (6,627.6) (15,456.9) (16,071.4)
+
+Cash and short-term investments
+
+21,748.2
+
+18,123.7
+
+16,775.9
+
+18,432.4
+
+10,861.0
+
+Gross available cash
+
+21,748.2
+
+18,123.7
+
+16,775.9
+
+18,432.4
+
+10,861.0
+
+Debt
+
+98,069.6
+
+70,647.1
+
+62,370.5
+
+58,440.4
+
+41,121.5
+
+Equity
+
+24,724.7
+
+26,023.4
+
+21,105.1
+
+18,075.5
+
+12,475.7
+
+EBITDA margin (%)
+
+23.9
+
+26.4
+
+18.5
+
+19.5
+
+23.4
+
+Return on capital (%)
+
+6.6
+
+7.5
+
+6.6
+
+5.8
+
+6.6
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 10
+
+Beijing Capital Land Ltd.
+
+Table 2
+
+Beijing Capital Land Ltd.--Financial Summary (cont.)
+--Fiscal year ended Dec. 31--
+
+EBITDA interest coverage (x)
+FFO cash interest coverage (x)
+Debt/EBITDA (x)
+FFO/debt (%)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+1.2
+
+1.5
+
+0.9
+
+0.7
+
+0.9
+
+0.4
+
+0.7
+
+0.2
+
+0.1
+
+0.1
+
+17.9
+
+12.8
+
+17.3
+
+19.9
+
+18.6
+
+(3.5)
+
+(1.8)
+
+(5.8)
+
+(8.7)
+
+(6.5)
+
+Cash flow from operations/debt (%)
+
+(11.8)
+
+0.0
+
+(8.5)
+
+(24.7)
+
+(37.3)
+
+FOCF/debt (%)
+
+(14.0)
+
+(3.5)
+
+(10.6)
+
+(26.4)
+
+(39.1)
+
+DCF/debt (%)
+
+(18.1)
+
+(3.5)
+
+(10.6)
+
+(26.4)
+
+(39.1)
+
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess BCL's liquidity as adequate. We estimate the company's ratio of liquidity sources to liquidity uses to be 1.9x
+over the next 12 months. We believe the high liquidity ratio is temporary as the company has completed a large
+amount of financing in the first half of 2019 and has been building up its cash buffer. Given its name sharing with BCG
+and SOE status, BCL has good relationships with banks and a good standing in credit markets. The company has
+issued over RMB8 billion of private placement domestic bonds in 2019 with an average coupon below 4.5%.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash of RMB36.9 billion as of June 30,
+2019.
+
+• Short-term debt of RMB25 billion maturing in the 12
+months to July 2020.
+
+• Cash funds from operations of RMB15 billion in the
+12 months to July 2020 prior to land acquisitions.
+
+• Other capex that we estimate at about RMB2 billion;
+and acquisitions of about RMB1 billion.
+
+• New issuance of private placement debt securities of
+RMB2.1 billion in July 2019.
+
+• Committed or paid land acquisitions of about RMB2
+billion since June 2019.
+
+• Planned equity issuances of RMB2.0 billion-RMB2.5
+billion by end-2019.
+
+Debt maturities
+Table 3
+
+Beijing Capital Land Ltd.--Debt Maturities*
+Period
+
+Amount (Mil. RMB)
+
+2019
+
+23,452.3
+
+2020
+
+21,861.9
+
+2021
+
+22,553.4
+
+2022
+
+1,836.8
+
+2023
+
+13,171.2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 11
+
+Beijing Capital Land Ltd.
+
+Table 3
+
+Beijing Capital Land Ltd.--Debt Maturities*
+(cont.)
+Period
+
+Amount (Mil. RMB)
+
+After 2023
+
+4,099.9
+
+Total
+
+86,975.5
+
+*As of Dec. 31, 2018. RMB--Chinese renminbi.
+
+Group Influence
+We assess BCL as a highly strategic subsidiary of BCG. The issuer credit rating on BCL is one notch below that on its
+parent. The rating and outlook on BCL would move in tandem with those on BCG.
+Our assessment of BCG's strong support reflects BCL's importance to the group. BCL is one of the two most important
+subsidiaries of BCG and undertakes one of the group's most profitable businesses of real estate development. BCL's
+importance also comes from its significant role in supporting the group's revenues and earnings. We estimate that BCL
+will continue to make about 50% contribution to BCG's EBITDA over the next two years.
+In addition, we expect BCG to support BCL by consolidating all its property-related businesses under the company.
+For example, the group could sell its hotel or office properties to BCL to increase the efficiency of the property
+business.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Beijing Capital Land Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-Beijing Capital Land Ltd. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+86,975.5
+
+29,115.4
+
+S&P Global
+Ratings' adjusted Cash flow from
+EBITDA
+operations
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+4,366.3
+
+4,321.6
+
+2,570.9
+
+4,856.2
+
+(6,094.7)
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3,416.5)
+
+--
+
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(5,511.9)
+
+--
+
+Operating leases
+
+15.8
+
+--
+
+9.9
+
+0.9
+
+0.9
+
+(0.9)
+
+9.0
+
+Debt-like hybrids
+
+3,574.3
+
+(3,574.3)
+
+--
+
+--
+
+211.9
+
+--
+
+--
+
+(5,437.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+480.0
+
+480.0
+
+1,889.3
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+1,853.9
+
+--
+
+--
+
+--
+
+Accessible cash & liquid
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 12
+
+Beijing Capital Land Ltd.
+
+Table 4
+
+Reconciliation Of Beijing Capital Land Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. RMB) (cont.)
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(5,511.9)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+9,085.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt - Guarantees
+
+1,399.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt - Derivatives
+
+32.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(414.6)
+
+5,511.0
+
+489.9
+
+2,334.8
+
+2,102.1
+
+(8,929.3)
+
+(5,502.8)
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+86,560.9
+
+34,626.4
+
+4,856.2
+
+6,656.4
+
+4,673.0
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Funds from Cash flow from
+operations
+operations
+(4,073.1)
+
+(11,597.6)
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Negative/--
+
+Business risk: Fair
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b
+
+• Group credit profile: bbb• Entity status within group: Highly strategic (+4 notches from SACP)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 13
+
+Beijing Capital Land Ltd.
+
+Related Criteria
+• General Criteria: Hybrid Capital: Methodology And Assumptions, July 1, 2019
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Transportation Infrastructure Industry, Nov. 19,
+2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 14
+
+Beijing Capital Land Ltd.
+
+Ratings Detail (As Of September 27, 2019)*
+Beijing Capital Land Ltd.
+Issuer Credit Rating
+
+BB+/Negative/--
+
+Issuer Credit Ratings History
+08-Aug-2019
+
+BB+/Negative/--
+
+14-Dec-2017
+
+BB+/Stable/--
+
+28-Jun-2016
+
+BB+/Negative/--
+
+Related Entities
+Beijing Capital Group Co. Ltd.
+Issuer Credit Rating
+
+BBB-/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 16
+
+

@@ -1,0 +1,298 @@
+Broward County, Florida
+Port Everglades; Ports/Port
+Authorities
+Primary Credit Analyst:
+Kenneth P Biddison, Centennial + 1 (303) 721 4321; kenneth.biddison@spglobal.com
+Secondary Contact:
+Joseph J Pezzimenti, New York (1) 212-438-2038; joseph.pezzimenti@spglobal.com
+
+Table Of Contents
+Rationale
+Outlook
+Enterprise Risk
+Financial Risk
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 1
+
+Broward County, Florida
+Port Everglades; Ports/Port Authorities
+Credit Profile
+US$326.725 mil port facs rev bnds (amt) (Port Everglades) ser 2019B due 09/01/2049
+Long Term Rating
+
+A/Stable
+
+New
+
+US$113.58 mil port facs rev bnds (non-amt) (Port Everglades) ser 2019A due 09/01/2049
+Long Term Rating
+
+A/Stable
+
+New
+
+US$43.345 mil port facs rfdg rev bnds (non-amt) (Port Everglades) ser 2019C due 09/01/2029
+Long Term Rating
+
+A/Stable
+
+New
+
+US$21.385 mil subord port facs rfdg rev bnds (amt) (Port Everglades) ser 2019D due 09/01/2027
+Long Term Rating
+
+A-/Stable
+
+New
+
+Rationale
+S&P Global Ratings assigned its 'A' long-term rating to Broward County, Fla.'s proposed $113.6 million series 2019A
+and $326.7 million series 2019B port facility revenue bonds, and to the county's $43.3 million port facilities refunding
+revenue bonds, all issued for Port Everglades. S&P Global Ratings also assigned its 'A-' long-term rating to the county's
+proposed $21.4 million series 2019D subordinate port facilities refunding revenue bonds. At the same time, S&P Global
+Ratings affirmed its 'A' rating on the county's port facilities revenue bonds outstanding. The outlook is stable.
+The ratings are based on the application of our "U.S. And Canadian Not-For-Profit Transportation Infrastructure
+Enterprises" criteria, published March 12, 2018.
+The ratings reflect our opinion of the port's strong enterprise risk and financial risk profiles. Our enterprise risk profile
+assessment reflects the port's favorable location, which affords it excellent access to open-ocean shipping lanes, Fort
+Lauderdale-Hollywood International Airport, and major Latin American and Caribbean markets. Some fluctuations in
+activity levels across different economic cycles offset this credit strength. The financial risk profile assessment reflects
+our expectation Port Everglades will maintain debt service coverage (DSC), per our calculations, and debt capacity at
+levels we consider strong inclusive of the port's plans to issue approximately $150 million in additional debt through
+2023 while maintaining significant cash reserves to fund a sizable capital program.
+The enterprise risk profile reflects our view of the port's:
+• Strong market position due to generally diverse operations, with the majority of revenues derived from cruise ships,
+containerized cargo, and petroleum, although activity levels fluctuate somewhat across different economic cycles
+and there is moderate concentration in the cruise industry;
+• Extremely strong service area economic fundamentals, which include favorable GDP per capita, low
+unemployment, and a large and growing population;
+• Low industry risk relative to that of other industries and sectors; and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 2
+
+Broward County, Florida Port Everglades; Ports/Port Authorities
+
+• Very strong management and governance that we believe has established a track record of operating its major lines
+of business and managing risk.
+The financial risk profile reflects our view of the port's:
+• DSC (S&P Global Ratings-calculated) that we expect will remain at levels we consider strong, at approximately 2x
+or above including the effects of potential additional borrowing throughout the five-year forecast period;
+• Strong debt and liabilities capacity, including the effects of the capital improvement plan (CIP), which we consider
+manageable but that is funded with a significant amount of additional debt; and
+• Very strong liquidity and financial flexibility because of the port's substantial available liquidity and its plan to draw
+on the position somewhat to fund a portion of the CIP but maintain a minimum of 600 days' cash on hand.
+Net port revenues secure the port facility bonds, and the subordinate bonds have a junior pledge of net revenues. The
+bonds also benefit from a debt service reserve funded to maximum annual debt service (MADS). The debt service
+reserve requirement, which equals MADS (approximately $21.8 million) on all bonds (except for the 2009 series), is
+satisfied with a surety policy from Assured Guaranty Municipal Corp. The bond documents do not require the port to
+replace a surety provider if the rating on it drops below a certain level. As of fiscal year-end 2018, the port has
+approximately $144.5 million in senior parity debt. It also has $25.0 million in series 2008 subordinate port facilities
+refunding revenue bonds, which we do not rate. We view the bond provisions as credit neutral.
+Port Everglades is a county-owned enterprise and is ranked the largest seaport in Florida by revenue, with $168
+million. It is the second-busiest international containerized cargo port in the state, and is also the third-busiest cruise
+port worldwide. The port's convenient access points; deep channel; close proximity to Latin America and the
+Caribbean; and extensive, modern, and expandable facility infrastructure enable it to remain competitive in all of its
+major business lines.
+
+Outlook
+The stable outlook reflects our expectation that the port's generally diverse operations will continue to support DSC
+and debt capacity near strong levels as it manages its CIP.
+
+Upside scenario
+We could raise the rating if the port demonstrates very strong and sustainable debt burden capacity, including the
+effects of additional debt.
+
+Downside scenario
+Although unlikely, if DSC erodes significantly below forecast levels, we could lower the rating.
+
+Enterprise Risk
+Our assessment of Port Everglades' enterprise risk profile reflects the port's economic fundamentals, low industry risk,
+market position, and management and governance.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 3
+
+Broward County, Florida Port Everglades; Ports/Port Authorities
+
+Economic fundamentals
+Our economic fundamentals assessment is based on the Miami-Fort Lauderdale-West Palm Beach metropolitan
+statistical area (MSA), although we consider the broader area the port serves from a container and cruise passenger
+perspective. As a result, we consider the port's economic fundamentals extremely strong. Exemplifying this is the
+MSA's GDP per capita of approximately $59,539; the projected 2018 unemployment rate of 3.6%, in line with the
+national rate of 3.9%; and a projected three-year population growth rate of 2.6% for the 6.2 million population of the
+MSA.
+
+Market position
+The port's overall market position reflects revenues from cruise operations, containerized cargo, and petroleum that
+are estimated at 36%, 21%, and 22%, respectively, of total revenues, based on audited 2018 results. Although Port
+Everglades is the dominant petroleum provider for the southern Florida market, petroleum volumes have fluctuated
+historically. Containerized- and bulk-cargo growth recovered during fiscal years 2011-2014 and surpassed
+pre-recession volumes; cargo volumes were up approximately 8% in fiscal 2017 and 1.9% in fiscal 2018. Finally,
+cruise-passenger volume has remained relatively flat at 3.87 million passengers in fiscal 2018, compared with 3.83
+million in 2016. However, Royal Caribbean Cruises Ltd. expects to decrease its service at Port Everglades, with
+anticipated passenger levels declining in fiscal 2019 to approximately 3.6 million. Royal Caribbean and Carnival Corp.
+are the largest tenants at the port, with approximately 18.7% and 16.2% of operating revenues in fiscal 2018,
+respectively. Overall, we consider the port's operations diversified.
+Located in southern Florida, Port Everglades has a good competitive position in terms of its trade lane market share,
+due to ease of access to southern, Latin American, and Caribbean markets. It competes largely with the Port of Miami
+and Port Canaveral. In addition, the port has a favorable location for the cruise industry and could have long-term
+benefits with post-panamax ships. Deep waterways are important because they enable ports to handle the increasingly
+large vessels used by shipping companies. The market position also reflects competitive advantages related to the
+port's rail access, which contribute to quick transit times for goods flowing to and from the port, and its available
+capacity for expansion to accommodate demand growth.
+
+Management and governance
+The port's management and governance, in our view, is very strong, reflecting our opinion of the strategic positioning,
+risk and financial management, and organizational effectiveness. The Broward County Board of County
+Commissioners governs the port as a self-funded enterprise fund. Management has maintained favorable financial
+margins despite some fluctuating activity levels. We consider the port's revenue forecasts conservative, based on
+existing activity and agreements with tenants. Although the forecast includes some draws on liquidity and a
+heightened debt burden from this proposed bond issuance, management, in our opinion, has been very effective in
+operating facilities and managing finances. We expect officials will manage the CIP prudently.
+The port has minimum annual guarantees with shipping companies, which have been renegotiated due to changes in
+the companies' business strategies. In the case where the minimum annual guarantee was renegotiated, the
+agreement's term was extended and the shipping company agreed to invest in port facilities.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 4
+
+Broward County, Florida Port Everglades; Ports/Port Authorities
+
+Financial Risk
+Our assessment of Port Everglades' financial risk profile reflects the port's financial performance, debt and liabilities
+capacity, and liquidity and financial flexibility. Our financial profile risk assessment considers pro forma figures, which
+include the effects of the planned additional bonds of approximately $150 million through 2023, while maintaining
+significant available liquidity to fund a portion of the CIP. The pro forma figures also reflect steady or modest increases
+in demand and related net revenue growth. Our financial profile assessment also considers the port's financial policies,
+which we consider credit neutral.
+
+Financial performance
+The strong financial performance assessment reflects our expectation that DSC, as per our pro forma calculations, will
+remain near or above 2x. The port has historically maintained diverse operations, enabling it to exhibit solid financial
+performance through weaker economic conditions. Steady operational growth has supported incremental revenue
+increases since 2014, with a 2% five-year compound annual growth rate for total operating revenues since fiscal 2014.
+Operating revenues were up 3.9% in fiscal 2018 to $168 million, due to increases in cruise and petroleum revenues.
+The port, in our opinion, is moderately concentrated in the cruise industry with cruise-related activity, including cruise
+and parking revenues, accounting for 40.6% of operating revenues in fiscal 2018.
+We expect DSC to be strong over the next five years as the port funds its capital plan. Fiscal 2018 results yield all-in
+DSC of about 3x. Historically, the port has maintained all-in DSC of no less than 1.6x since fiscal 2007, and above 2.2x
+over the past seven years. However, we expect DSC, per our calculations, will fall to approximately 2x in fiscal 2023,
+including the effects of the proposed debt issuances over the five-year forecast period. Our coverage calculations
+include all of the port's senior and subordinate obligations. The forecast assumes annual increases in operating
+revenues and is based on annual guarantees through port agreements. The projections also take into account the
+reduction in cruise revenue and the increase in other revenue streams, such as increased container operations driven
+by new infrastructure. Although we expect DSC to remain strong, the sizing and timing of potential additional debt
+issuances are subject to change as the port proceeds with its long-term master plan. We believe the financial profile is
+sufficiently strong for the system to support the financial profile assessment even with additional debt issuances,
+although this is subject to the pledge of revenues, timing, and sizing of additional borrowings. However, a substantial
+portion of the capital plan is devoted to increased revenue-generating capabilities, so we expect DSC will remain
+strong throughout the forecast period.
+
+Debt and liabilities
+We assess the port's debt and liabilities capacity as strong. We base this assessment on our expectation that revenue
+growth will somewhat offset the rising debt burden and translate into debt-to-EBIDA metrics at about 10x or less. We
+expect that, including additional debt borrowing through 2023, principal outstanding will rise to approximately $800
+million. At fiscal year-end 2018, Port Everglades has approximately $169.5 million in revenue bonds outstanding
+including senior and subordinate bonds. The fiscal 2018 debt load equaled 2.7x the authority's net revenues.
+We consider the port's five-year CIP, at about $500.8 million, large but manageable for the size of its facilities. A
+significant portion of the plan will be debt-financed. As demand warrants, management incorporates additional
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 5
+
+Broward County, Florida Port Everglades; Ports/Port Authorities
+
+infrastructure projects into its plan, but sizing and timing remain flexible. Most of the projects are growth-driven and
+could be scaled down should demand decrease. We will monitor the port's CIP as it completes its long-term strategic
+master plan. Port Everglades has an updated roadmap for growth over the next 20 years to improve productivity for
+cargo, cruise, and petroleum businesses that operate at the South Florida seaport. The port expects to issue
+approximately $150 million in senior-lien bonds in 2022 and a $122 million in subordinate Transportation
+Infrastructure Finance and Innovation Act loan in 2020.
+Currently, all of the port's senior debt is fixed-rate, while the subordinate debt is variable-rate and 100% synthetically
+fixed from a floating-to-fixed rate swap with Goldman Sachs Groups Inc. As a result, the port's exposure to unhedged
+variable-rate debt is zero. Although after issuance of the series 2019 bonds, all debt will be fixed-rate and the swap
+agreement will be terminated, as of Sept. 30, 2018, the swap had a mark-to-market value of negative $1.7 million,
+meaning if it was terminated on that date, the port would owe approximately this amount to the counterparty. The
+swap agreement includes a termination trigger that occurs if S&P Global Ratings lowers its rating on the port's debt
+below 'BBB'. We consider this possibility to be remote given the difference between the current and trigger ratings. We
+believe the port has ample liquidity to manage any termination risks. Port Everglades is not required to post any
+collateral under the swap agreement.
+
+Liquidity and financial flexibility
+The port's liquidity and financial flexibility reflects the ample cash reserves to support operations and balance
+additional debt needs. Fiscal 2018 unrestricted cash and investments totaled $227.2 million, providing 798 days' cash
+on hand. Available liquidity ranged from 779-1,136 days' cash on hand during fiscal years 2011-2018. Available
+liquidity to debt was 132% in 2018. However, we expect spending for the capital plan will lower cash reserves over the
+next several years. We understand management maintains minimum-targeted liquidity of 600 days' cash on hand.
+Ratings Detail (As Of August 21, 2019)
+Broward Cnty, Florida
+Port Everglades, Florida
+Broward Cnty (Port Everglades Auth)
+Long Term Rating
+
+A/Stable
+
+Affirmed
+
+A/Stable
+
+Affirmed
+
+A(SPUR)/Stable
+
+Affirmed
+
+Broward Cnty (Port Everglades)
+Long Term Rating
+Broward Cnty (Port Everglades)
+Unenhanced Rating
+Many issues are enhanced by bond insurance.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 6
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 7
+
+

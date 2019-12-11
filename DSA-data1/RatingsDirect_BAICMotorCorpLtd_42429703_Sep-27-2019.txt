@@ -1,0 +1,1635 @@
+BAIC Motor Corp. Ltd.
+Primary Credit Analyst:
+Stephen Chan, Hong Kong (852) 2532-8088; stephen.chan@spglobal.com
+Secondary Contact:
+Claire Yuan, Hong Kong (852) 2533-3542; Claire.Yuan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Environmental, Social, And Governance
+Group Influence
+Government Influence
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+BAIC Motor Corp. Ltd.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+bbb-
+
+bbbBBB+/Negative/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good market position due to its high exposure in the
+premium vehicle market.
+
+Parent BAG's elevated debt leverage will exert downward rating pressure on BAG
+and hence BAIC.
+
+Strong and stable alliance with leading global OEMs.
+
+Further losses expected at the proprietary Beijing brand amid industry downturn
+and intense competition.
+
+Timely and sufficient group support in case of need.
+
+High capital spending and net working capital outflow will reduce free operating
+cash flows.
+
+A market leader with high exposure to a growing premium-brand market. We expect BAIC Motor Corp. Ltd. (BAIC) to
+sustain its leading market position in China's auto market in the next 12-24 months, given its high exposure to the
+growing premium market. BAIC's product offerings ranges across mass to premium passenger vehicles. We expect its
+premium brand, Beijing Benz, to continue to be the most important profit contributor to BAIC. In our view, Beijing
+Benz's attractive product appeal and new model launches will help it to sustain its top-3 position in China's premium
+passenger vehicle market. This, together with the continuous growth of the premium market under the backdrop of
+Chinese consumption upgrade, underpin BAIC's market position.
+Stable alliances with global OEMs to support business growth. We expect BAIC to maintain stable shareholdings in its
+joint ventures (JVs) with Daimler AG (Daimler) at 51% and Hyundai Motor Co. (Hyundai) at 50% over the next two to
+three years, despite the Chinese government's relaxation on foreign shareholding restrictions in the auto industry. In
+our view, the international partners will still have to leverage on BAIC for production facilities, local supply chain
+network, financial resources and local government relationships for production localization and market share
+expansion in the Chinese auto sector. The proposed US$892 million capital injection in March 2019 into Beijing Benz
+without any shareholding changes between BAIC and Daimler supports our view. Moreover, we believe the recent
+acquisition of 5% shares in Daimler by its parent, Beijing Automotive Group Co. Ltd. (BAG), in July 2019 will further
+strengthen the relationship between BAIC and Daimler. .
+BAIC's proprietary brand losses to narrow as company adjust strategy amid downturn in China's auto market.Chinese
+passenger vehicle sales volume dropped by 14% year-over-year (yoy) in the first half of 2019, after a 2.7% decline in
+full-year 2018. The emergence of other Chinese local brands with attractive pricing and product offerings is
+exacerbating general market competition. We anticipate BAIC's proprietary brands will remain loss-making on weak
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+BAIC Motor Corp. Ltd.
+
+sales. However, the losses will narrow over the next 12-24 months as the company invests in research & development
+(R&D) for technology upgrades and at the same time to dispose some non-performing brands.
+Lower free operating cash flows driven by high capital expenditure and working capital outflow. While we forecast
+BAIC's free operating cash flow (FOCF) will remain positive, we see less buffer due to increasing capital spending and
+net working capital outflow. We expect Beijing Benz to continue to expand capacity to capture growing demand in the
+premium market. We also anticipate BAIC will work on technology upgrades and enhancement for its proprietary
+brand. Meanwhile, the net working capital outflow is likely negative during 2019-2020, driven by slower turnover of
+receivables and inventory amid generally challenging conditions across the industry value chain.
+BAIC to remain a core subsidiary of BAG and its rating is equalized to the parent rating The rating on BAIC reflects
+our expectation that the company will remain a core subsidiary of BAG. We believe BAIC will receive timely and
+sufficient support from BAG in case of need. We therefore equalize the rating on the company with the rating on BAG.
+In our view, BAG's elevated leverage to exert downward rating pressure on BAG and hence BAIC. We estimate the
+additional debt arising from its 5% stake in Daimler AG will more than offset improving profit and working capital
+management, making BAG's ratio of funds from operations (FFO) to debt approach our downgrade threshold of 20% in
+2019-2020.
+
+Outlook: Negative
+
+The negative outlooks on BAG and BAIC reflect our expectation that BAG's financial leverage is unlikely to
+improve substantially over the next 24 months due to the company's recent acquisition of Daimler's shares. This is
+despite our forecast of BAG's increasing profit and better working capital management following a robust
+performance by the Beijing Benz JV and faster collection of new energy vehicle (NEV) subsidies.
+
+Downside scenario
+We may lower the ratings on BAG and BAIC if BAG's FFO-to-debt ratio fails to revert to above 20% over a
+sustained period. This could happen due to a significant deterioration in profitability owing to a prolonged industry
+downturn or weaker working capital management than we expect.
+We may also lower the ratings if BAG's competitive position weakens as reflected by a material decline in sales
+volume and profitability for an extended period.
+We could also downgrade the companies if we believe the likelihood of extraordinary support from the Beijing
+government could weaken, or if BAIC loses a controlling stake in Beijing Benz.
+In addition, we could downgrade BAIC if BAIC's importance to BAG weakens.
+
+Upside scenario
+We may revise the outlooks on BAG and BAIC to stable if BAG's FFO-to-debt ratio reverts to above 20%
+sustainably. This could happen if BAG's stake in Daimler is partly funded by equity or the company's financial
+performance beats our expectation, likely due to better working capital management or stronger-than-expected
+industry recovery.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+BAIC Motor Corp. Ltd.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• China's real GDP to grow at 6.2% in 2019 and 2020.
+• BAIC's revenue to grow by 10%-15% in 2019,
+followed by a mid-to-high single digit growth in
+2020.
+• EBITDA margin to be 15%-17% in 2019-2020,
+versus 18.3% in 2018.
+
+2018A
+EBITDA margin
+
+2019E
+
+2020E
+
+18.3% 15.0%-17.0% 15.0%-17.0%
+
+Debt/EBITDA
+
+Net cash
+
+Net cash
+
+Net cash
+
+FFO/Debt
+
+Net cash
+
+Net cash
+
+Net cash
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Annual capital expenditure spending to be Chinese
+renminbi (RMB) 10 billion-RMB12 billion in
+2019-2020, from RMB7.0 billion in 2018.
+
+Base-case projections
+BAIC's revenue supported by premium market growth. We expect BAIC's revenues to continue to expand by 10%-15%
+annually, supported by the robust growth of Beijing Benz. This is despite the industry downturn, which saw Chinese
+passenger vehicles slump 14% yoy in sales volume in the first half of 2019.
+EBITDA margin to decline to 15%-17% in 2019-2020 from 18.3% in 2018. The decrease is mainly attributable to the
+delivery of A-class Beijing Benz models which have a relatively lower gross margin and require higher selling expenses
+for the model rollout. This is partially mitigated by the company's disposal of loss-making proprietary brands and
+transfer of their excess production capacity to Beijing Benz.
+Dividend from Beijing Hyundai to remain limited. We account for Beijing Hyundai under the equity method (same as
+reported) and assume it will continue to proportionally pay out all of its free operating cash flow to BAG and Hyundai.
+Beijing Hyundai's sales volume remained flat in 2018 after a 31% yoy decline in 2017. We anticipate that Beijing
+Hyundai will continue to focus on product upgrades and enhancing capacity utilization to improve its overall
+competitiveness and financial management. We expect dividend income from Beijing Hyundai to be minimal in 2019
+and RMB200 million-RMB500 million in 2020.
+
+Company Description
+Headquartered in Beijing, BAIC mainly engages in the research and development, manufacturing, and sales of
+automobiles in China. The company was listed on Hong Kong stock exchange in December 2014. BAIC is 43% owned
+by Beijing government via BAG (BBB+/Stable/--).
+BAIC is the major operating subsidiary of BAG and it holds core assets of the latter. The company accounted for
+around 60% of BAG's revenue and 90% of BAG's EBITDA in 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+BAIC Motor Corp. Ltd.
+
+Chart 1
+
+Business Risk: Fair
+We expect BAIC to maintain its top-3 position in China's premium-auto market. BAIC has a wide product portfolio
+ranging from premium to mass-market passenger vehicles. We believe this makes the company more competitive than
+most the majority of its domestic peers, which are solely exposed to the mass market. Despite a 4.1% yoy decline in
+the overall Chinese passenger vehicles' sales volume in 2018, BAIC's sales volume decreased a marginal 0.4%. This
+was mainly attributable to the robust performance of Beijing Benz, which saw 15% volume growth.
+Beijing Benz should continue to be the major profit contributor to BAIC given the sustainable growth in China's
+premium auto market. In our view, the domestic premium market will continue to grow over the next one to two
+years, amid an upgrade trend by Chinese consumers. We anticipate Beijing Benz will maintain its top-three position in
+the premium market, owing to its ongoing launch of new models and production ramp-up. By our estimates, Beijing
+Benz will continue to contribute over 90%-100% of BAIC's gross profit over the next 12-24 months.
+On the other hand, BAIC's proprietary passenger vehicles will likely face intensified competition against the backdrop
+of declining demand in the mass market. The sales volume of the company's proprietary brand, Beijing brand, declined
+by 34% in 2018, after a 48% drop in 2017. We believe the Beijing brand will continue to see lower margins compared
+with the global industry average. This is mainly driven the segment's limited technology assistance from leading global
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+BAIC Motor Corp. Ltd.
+
+original equipment manufacturers (OEMS), less-appealing product offerings, limited market recognition, and low
+capacity utilization. We believe that the Beijing brand is likely to continue to incur gross profit losses. However, the
+losses are likely to narrow with the company working on product upgrades and disposing of nonperforming brands.
+
+Peer comparison
+We consider Beijing Automotive Group Co. Ltd. (BAG), Dongfeng Motor Group Co. Ltd. (Dongfeng), Geely
+Automobile Holdings Ltd. (Geely), Hyundai Motor Co. (Hyundai)and Daimler AG (Daimer) as BAIC's closest peers as
+they are all auto OEMs.
+BAIC's business scale is comparable to most domestic peers, but smaller than that of the international peers. The
+company has product offerings in both the premium and mass markets, but with a focus in the premium market which
+accounts for around 90% of its revenue. As such, BAIC enjoys relatively higher EBITDA margin as compared to
+Dongfeng and Geely, which only focus in mass market.
+Both BAIC and Dongfeng are core subsidiaries of their state-owned enterprise (SOE) parents, and are likely to receive
+indirect extraordinary government support from the Beijing municipal government and Chinese central government
+respectively in case of need. Geely, Hyundai Motor, and Daimler are private companies that don't benefit from
+extraordinary government support.
+Table 1
+
+BAIC Motor Corp. Ltd.--Peer Comparison
+Industry Sector: Automotive - OEM'S
+BAIC Motor
+Corp. Ltd.
+
+Beijing Automotive
+Group Co. Ltd.
+
+Dongfeng Motor
+Group Co. Ltd.
+
+Geely Automobile
+Holdings Ltd.
+
+Hyundai
+Motor Co.
+
+Daimler AG
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenues
+
+151,920.4
+
+258,279.4
+
+104,543.0
+
+106,595.1
+
+840,357.6
+
+1,111,024.4
+
+EBITDA
+
+27,784.7
+
+29,884.3
+
+12,398.5
+
+11,999.5
+
+40,880.7
+
+111,202.4
+
+FFO
+
+16,979.9
+
+13,376.5
+
+10,546.1
+
+9,302.2
+
+31,097.5
+
+96,211.2
+
+1,326.8
+
+4,104.7
+
+351.4
+
+117.0
+
+3,395.2
+
+7,326.9
+
+Interest Expense
+Cash Interest Paid
+
+925.4
+
+5,826.9
+
+377.4
+
+76.4
+
+1,897.1
+
+1,620.5
+
+20,207.9
+
+2,149.7
+
+(9,754.9)
+
+9,027.1
+
+39,013.3
+
+86,110.9
+
+Capital expenditures
+
+6,997.2
+
+10,718.2
+
+4,405.0
+
+2,312.9
+
+35,899.2
+
+62,987.4
+
+Free operating cash
+flow
+
+13,210.7
+
+(8,568.5)
+
+(14,159.9)
+
+6,714.2
+
+3,114.2
+
+23,123.5
+
+2,642.8
+
+(18,646.0)
+
+(17,445.9)
+
+4,517.3
+
+(7,970.8)
+
+(10,500.3)
+
+35,389.9
+
+58,387.4
+
+29,120.0
+
+15,737.2
+
+140,365.5
+
+200,246.3
+
+Cash flow from
+operations
+
+Discretionary cash flow
+Cash and short-term
+investments
+Debt
+
+0.0
+
+81,403.8
+
+6,479.6
+
+0.0
+
+0.0
+
+0.0
+
+67,239.6
+
+114,453.5
+
+124,925.0
+
+45,374.7
+
+493,339.5
+
+419,257.3
+
+EBITDA margin (%)
+
+18.3
+
+11.6
+
+11.9
+
+11.3
+
+4.9
+
+10.0
+
+Return on capital (%)
+
+34.5
+
+10.8
+
+12.4
+
+29.4
+
+5.8
+
+15.9
+
+Equity
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+BAIC Motor Corp. Ltd.
+
+Table 1
+
+BAIC Motor Corp. Ltd.--Peer Comparison (cont.)
+Industry Sector: Automotive - OEM'S
+BAIC Motor
+Corp. Ltd.
+
+Beijing Automotive
+Group Co. Ltd.
+
+Dongfeng Motor
+Group Co. Ltd.
+
+Geely Automobile
+Holdings Ltd.
+
+Hyundai
+Motor Co.
+
+Daimler AG
+
+EBITDA interest
+coverage (x)
+
+20.9
+
+7.3
+
+35.3
+
+102.6
+
+12.0
+
+15.2
+
+FFO cash interest
+coverage (x)
+
+19.3
+
+3.3
+
+28.9
+
+122.8
+
+17.4
+
+60.4
+
+Debt/EBITDA (x)
+
+0.0
+
+2.7
+
+0.5
+
+0.0
+
+0.0
+
+0.0
+
+FFO/debt (%)
+
+N.M.
+
+16.4
+
+162.8
+
+N.M.
+
+N.M.
+
+N.M.
+
+Cash flow from
+operations/debt (%)
+
+N.M.
+
+2.6
+
+(150.5)
+
+N.M.
+
+N.M.
+
+N.M.
+
+Free operating cash
+flow/debt (%)
+
+N.M.
+
+(10.5)
+
+(218.5)
+
+N.M.
+
+N.M.
+
+N.M.
+
+Discretionary cash
+flow/debt (%)
+
+N.M.
+
+(22.9)
+
+(269.2)
+
+N.M.
+
+N.M.
+
+N.M.
+
+N.M. - Not Meaningful. RMB--Chinese renminbi. FFO--Funds from operations.
+
+Financial Risk: Modest
+We believe BAIC will maintain its net cash position in 2019 and 2020 despite the challenging market conditions.
+We expect BAIC to generate strong operating cash flow during the period, mainly supported by the robust
+performance of Beijing Benz. In our view, consumer upgrades will solidify the standing of Beijing Benz in the premium
+vehicle segment. At the same time, both the Beijing brand and Beijing Hyundai are undertaking measures to improve
+their profitability. These include enhancing their product appeal, increase and production efficiency, as well as the
+disposal of non-performing brands, e.g. Wevan.
+BAIC's free operating cash flows will continue to remain positive 2019-2020, but to decline as compared to 2018, due
+to working capital changes and high capital spending. We forecast the company will see annual net working capital
+outflow of RMB2.0 billion-RMB6.0 billion during the period, due to longer turnover days for accounts receivable and
+inventory in face of the challenging conditions. At the same time, we expect the company to incur high capital
+expenditure to fund production capacity expansion in Beijing Benz. While the mass market demand has been
+shrinking, we expect Beijing Benz to continue to expand capacity to capture growing demand. The JV is currently
+running at over 100% utilization. We also anticipate BAIC will work on technology upgrades for the Beijing brand,
+including for the NEV product line. As such, we forecast the company's annual capital expenditure to be RMB10
+billion-RMB12 billion, compared with RMB7.0 billion in 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+BAIC Motor Corp. Ltd.
+
+Financial summary
+Table 2
+
+BAIC Motor Corp. Ltd.--Financial Summary
+Industry Sector: Automotive - OEM's
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+151,920.4 134,158.5 116,199.0 84,111.5
+
+56,370.3
+
+(Mil. RMB)
+Revenues
+EBITDA
+
+27,784.7
+
+26,876.6
+
+17,993.4 10,026.5
+
+5,112.9
+
+Funds from operations (FFO)
+
+16,979.9
+
+19,692.6
+
+12,544.8
+
+7,001.6
+
+2,526.3
+
+6,366.9
+
+3,318.6
+
+4,510.8
+
+17,743.7 12,042.9
+
+4,420.2
+
+Net income from continuing operations
+
+4,429.5
+
+2,252.8
+
+20,207.9
+
+21,438.7
+
+6,997.2
+
+9,571.7
+
+6,988.4
+
+Free operating cash flow
+
+13,210.7
+
+11,867.1
+
+10,755.3
+
+3,654.3 (4,518.3)
+
+Discretionary cash flow
+
+2,642.8
+
+3,569.8
+
+8,980.4
+
+874.5 (7,311.0)
+
+35,389.9
+
+36,824.9
+
+Cash flow from operations
+Capital expenditures
+
+Cash and short-term investments
+Debt
+
+8,388.6
+
+8,938.5
+
+36,063.9 23,946.5
+
+21,923.3
+
+0.0
+
+4,176.6
+
+8,485.6 12,456.7
+
+13,518.7
+
+67,239.6
+
+59,640.9
+
+58,033.3 47,069.4
+
+41,968.6
+
+EBITDA margin (%)
+
+18.3
+
+20.0
+
+15.5
+
+11.9
+
+9.1
+
+Return on capital (%)
+
+34.5
+
+29.7
+
+23.4
+
+10.3
+
+8.6
+
+EBITDA interest coverage (x)
+
+20.9
+
+20.3
+
+14.5
+
+8.1
+
+4.0
+
+FFO cash int. cov. (x)
+
+19.3
+
+21.3
+
+17.2
+
+6.2
+
+3.1
+
+0.0
+
+0.2
+
+0.5
+
+1.2
+
+2.6
+
+FFO/debt (%)
+
+N.M.
+
+471.5
+
+147.8
+
+56.2
+
+18.7
+
+Cash flow from operations/debt (%)
+
+N.M.
+
+513.3
+
+209.1
+
+96.7
+
+32.7
+
+Free operating cash flow/debt (%)
+
+N.M.
+
+284.1
+
+126.7
+
+29.3
+
+(33.4)
+
+Discretionary cash flow/debt (%)
+
+N.M.
+
+85.5
+
+105.8
+
+7.0
+
+(54.1)
+
+Equity
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+N.M. - Not Meaningful. RMB--Chinese renminbi. FFO--Funds from operations.
+
+Liquidity: Strong
+We assess BAIC's liquidity as strong. We believe liquidity sources will exceed uses by over 1.5x for the 12 months from
+March 2019, and remain above 1.0x over the subsequent 12-month period. Liquidity sources should exceed uses even
+if EBITDA falls 30% from our base-case forecast.
+We believe BAIC's abundant cash on hand provides the company a cushion against potential industry adversity with
+limited need for refinancing. In addition, we expect BAIC to maintain its sound relationship with Chinese state-owned
+banks and satisfactory standing in credit markets, which help in securing funding at low costs. BAIC has no restrictive
+financial covenants.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+BAIC Motor Corp. Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Unrestricted cash and cash equivalents balance of
+RMB46 billion as at June 30, 2019;
+
+• Debt maturities of RMB16.5 billion over the 12
+months ending June 30, 2020 and RMB5.5
+billion-RMB6.5 billion over the subsequent 12
+months;
+
+• Annual FFO of RMB19 billion-RMB23 billion over
+the next 12 to 24 months, including dividends
+received from JVs;
+
+• Net working capital outflow of RMB3 billion-RMB4
+billion over the 12 months ending June 30, 2020 and
+RMB5 billion-RMB6 billion over the subsequent 12
+months;
+• Capital expenditure of RMB10 billion-RMB12 billion
+over the 12 months ending June 30, 2020 and RMB7
+billion-RMB9 billion over the subsequent 12 months;
+• Annual dividend payment of RMB8.0 billion-RMB8.5
+billion in 2019 and 2020.
+
+Debt maturities
+Table 3
+
+Beijing Automotive Group Co. Ltd.--Debt Maturities*
+Period
+
+Amount (Mil. RMB)
+
+2019
+
+8,956.0
+
+2020
+
+6,163.3
+
+2021-2023
+
+6,445.8
+
+2023 onwards
+
+2,298.2
+
+RMB--Chinese renminbi. * As of Dec-31, 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 10
+
+BAIC Motor Corp. Ltd.
+
+Environmental, Social, And Governance
+
+Environmental factors are relevant for our analysis of BAIC, given that auto producers are facing increasing
+regulations in China in terms of carbon dioxide emissions, which in turn may affect their competitiveness and
+profit.
+NEVs accounted for 3% of BAIC's total sales volume in 2018 and the percentage is likely to moderately increase in
+the next one to two years. BAIC mainly rolls out NEV models through its proprietary Beijing brand and the
+company is China's No.8 NEV producer by the number of NEV credits in 2018. The Chinese government requires
+auto OEMs to accumulate a certain number of NEV credits to avoid potential punishment such as temporary
+suspension for the manufacture of high fuel-consumption vehicles. We believe BAIC will invest substantially to
+advance NEV technology in the coming two years. At the same time, the company is in the process of launching
+the EQC model, the first NEV model of Daimler, at Beijing Benz. As such, we anticipate BAIC will increase its 2019
+and 2020 capital expenditure and R&D spending by around 30%-50% yoy. However, this is likely to have only
+limited impact on the company's financial metrics.
+Social factors do not play a material role in our assessment for BAIC, but product liability issues are inherent risks
+for all auto producers. So far, we have not observed any material recalls or lawsuits concerning the above.
+
+Group Influence
+We view BAIC to be a core subsidiary of BAG. We believe BAIC will receive timely and sufficient support from BAG in
+case of need. As such, we equalize BAIC's rating to our rating on BAG.
+We anticipate BAG will remain the sole controlling shareholder of BAIC. BAG also directly appointed majority of
+senior management to the company for strategic alignment. In our view, BAIC is highly integrated with the group in
+terms of strategy and operations in the development of passenger vehicles in both mass and premium markets. BAG
+mainly conducts business via BAIC, which holds the key assets of BAG, including the joint ventures of BAG with
+Daimler AG and Hyundai Motor Co. as well as the proprietary brands. We expect BAIC to continue to contribute to
+more than 90% of BAG's EBITDA.
+BAG's elevated financial leverage will likely exert downward rating pressure on BAG and hence BAIC. We expect
+BAG's profit to increase on robust performance of Beijing Benz and its working capital management should also
+improve on faster collection of NEV subsidies. However, these strengths will be insufficient to offset the impact of the
+additional debt incurred in the recent purchase of Daimer shares.
+
+Government Influence
+We see BAG as having a very high likelihood of receiving extraordinary support from the municipal government of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 11
+
+BAIC Motor Corp. Ltd.
+
+Beijing in the event of distress, based on the following factors:
+• Very important role to the Beijing government: BAG contributes more than 80% of the industrial production of
+Beijing's automotive industry, which is considered a high-end pillar industry for the city. BAG is one of the largest
+profit and tax contributors, and creates a large employment pool for the city. We believe a default or credit stress at
+BAG would disrupt its operations, and would have a materially negative social and economic impact.
+• Very strong link with the Beijing government: The government owns 100% of BAG, and we believe it intends to
+maintain absolute majority control on the company over the next two years at least. We believe the government
+exerts a strong influence on the company's strategy through the appointment of the board and senior management.
+Meanwhile, the government has a track record of providing continuous support to BAG in the past years, through
+capital injections and cash subsidies, to support various R&D initiatives.
+
+Reconciliation
+Table 4
+
+Reconciliation Of BAIC Motor Corp. Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-BAIC Motor Corp. Ltd. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+48,415.5
+
+28,610.2
+
+20,628.0
+
+915.9
+
+27,784.7
+
+21,733.4
+
+8,735.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(9,879.4)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+23,863.2
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+Cash interest paid
+Operating leases
+Debt-like hybrids
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(915.9)
+
+--
+
+--
+
+120.3
+
+--
+
+126.5
+
+9.5
+
+9.5
+
+(9.5)
+
+117.0
+
+--
+
+1,998.2
+
+(1,998.2)
+
+--
+
+--
+
+111.9
+
+--
+
+--
+
+--
+
+(26,542.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+289.6
+
+--
+
+--
+
+--
+
+Capitalized
+development costs
+
+--
+
+--
+
+(1,738.1)
+
+512.9
+
+--
+
+--
+
+(1,738.1)
+
+(1,738.1)
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+95.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+1,664.8
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+95.6
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+20,822.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA - Gain/(loss)
+on disposals of PP&E
+
+--
+
+--
+
+(39.5)
+
+(39.5)
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash &
+liquid investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 12
+
+BAIC Motor Corp. Ltd.
+
+Table 4
+
+Reconciliation Of BAIC Motor Corp. Ltd. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. RMB) (cont.)
+EBITDA - Foreign
+exchange gain/(loss)
+
+--
+
+--
+
+(133.7)
+
+EBITDA - Other
+
+--
+
+--
+
+D&A - Impairment
+charges/(reversals)
+
+--
+
+--
+
+EBIT - Other
+
+-(24,424.0)
+
+Total adjustments
+
+(133.7)
+
+--
+
+--
+
+--
+
+--
+
+863.8
+
+863.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(837.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(44.5)
+
+--
+
+--
+
+--
+
+--
+
+18,824.2
+
+(825.5)
+
+1,995.9
+
+411.0
+
+(10,804.8)
+
+(1,525.5)
+
+(1,738.1)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditures
+
+16,979.9
+
+20,207.9
+
+6,997.2
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+--
+
+67,239.6
+
+27,784.7
+
+22,624.0
+
+1,326.8
+
+Adjusted
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Negative/--
+
+Business risk: Fair
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Fair
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb-
+
+• Group credit profile: bbb+
+• Entity status within group: Core (+2 notches from SACP)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 13
+
+BAIC Motor Corp. Ltd.
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Auto And Commercial Vehicle Manufacturing
+Industry, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria | Insurance | General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+
+Related Research
+• Beijing Automotive Group And BAIC Motor Outlooks Revised To Negative After Daimler Deal; 'BBB+' Ratings
+Affirmed, July 29, 2019
+• Research Update: Beijing Automotive Group And Notes 'BBB+' Ratings Affirmed On Premium Market Growth;
+Outlook Stable, June 3, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Modest
+
+Intermediate
+
+Significant
+
+SEPTEMBER 10, 2019 14
+
+BAIC Motor Corp. Ltd.
+
+Ratings Detail (As Of September 10, 2019)*
+BAIC Motor Corp. Ltd.
+Issuer Credit Rating
+
+BBB+/Negative/--
+
+Issuer Credit Ratings History
+29-Jul-2019
+
+BBB+/Negative/--
+
+07-Jul-2019
+
+BBB+/Stable/--
+
+Related Entities
+Beijing Automotive Group Co. Ltd.
+Issuer Credit Rating
+
+BBB+/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 16
+
+

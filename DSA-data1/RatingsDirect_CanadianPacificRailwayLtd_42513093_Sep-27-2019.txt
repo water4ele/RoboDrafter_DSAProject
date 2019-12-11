@@ -1,0 +1,1944 @@
+Canadian Pacific Railway Ltd.
+Primary Credit Analyst:
+Alessio Di Francesco, CFA, Toronto (1) 416-507-2573; alessio.di.francesco@spglobal.com
+Secondary Contact:
+Jarrett Bilous, Toronto (1) 416-507-2593; jarrett.bilous@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Canadian Pacific Railway Ltd.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb+
+
+bbb+
+
+BBB+/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Strong market position in Canada and the U.S. Northeast and Midwest with
+significant barriers to entry
+
+Exposure to bulk commodities, which are more sensitive to weather
+and economic changes
+
+Operating efficiency among the strongest of the North American railroads
+
+Lacks the scale of its main Canadian competitor and some of its U.S.
+competitors
+
+Meaningful financial flexibility from consistently strong FOCF
+
+Volumes likely to decline in the event of weaker than expected
+macroeconomic conditions
+
+Well-diversified rail network by customer, end market, and region
+
+Strong free cash flow generation provides significant financial flexibility. Under our assumptions of mid-to-high
+single-digit revenue growth and modestly higher margins, we estimate CP will generate more than C$3 billion of
+operating cash flow per year. This easily covers the C$1.5 billion–C$1.7 billion of capital expenditures in our base-case
+scenario and leaves at least C$1.5 billion of free operating cash flow (FOCF) that we assume is used primarily to pay
+dividends and repurchase shares, with low impact on leverage.
+In our view, CP has significant financial flexibility to manage weaker-than-expected cash flow generation related to
+slowing macroeconomic conditions. We would expect the company to reduce share repurchases to an extent that
+facilitates positive discretionary cash flow and preserves credit measures--consistent with its track record during past
+cycles. In a severe or prolonged recession, CP could also reduce or defer a portion of its dividends and capital
+expenditures to limit the impact of lower cash flow on its balance sheet. Notwithstanding short-term pressure on credit
+measures likely in such a scenario, we believe CP has the capacity and willingness to generate leverage and cash flow
+ratios in line with our long-term expectations. This includes adjusted funds from operations (FFO)-to-debt of 30%-35%
+and adjusted debt-to-EBITDA of 2.0x-2.5x, which are consistent with CP's target of achieving an adjusted net
+debt-to-EBITDA ratio of 2.0x-2.5x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Canadian Pacific Railway Ltd.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Canadian Pacific Railway Ltd.
+
+Chart 2
+
+Trade uncertainties and slowing global growth have increased the likelihood of a recession, but we believe CP is well
+positioned to manage these risks. We do not believe CP would be materially affected by an escalating trade war, most
+notably that between the U.S. and China. In our view, CP's diverse product mix and geographic distribution limit the
+company's exposure to any one product category or trade negotiation. For instance, we believe trade between China
+and the U.S. represents about 5% of revenue. Furthermore, we believe Canada's trade with the U.S. (about one-third of
+CP's freight revenue) is likely to remain steady over the next few years with the United States-Mexico-Canada
+Agreement signed late last year. While CP is certainly not immune to financial risk from trade restrictions or tariffs
+(since about 70% of freight revenue is generated from cross-border and international trade), its revenue base is highly
+diversified by bulk, merchandise, and intermodal shipments. In our view, its broad market exposure underpins the
+strength of its business and credit profile.
+S&P Global Ratings believes trade uncertainties and a persistent weak global industrial backdrop contribute to a
+30%-35% probability of a U.S. recession in the next 12 months. We do not assume a recession in our base-case
+assumptions, but we consider how CP might perform in such a scenario. Railroads tend to perform well in industry
+downturns, as there is often no alternative shipping mode. We estimate adjusted EBITDA could decline 10%-20% if
+the company faces a degree of stress similar to the 2008-2009 downturn. Such a scenario is likely to result in credit
+measures that are weaker than we currently expect, potentially including adjusted FFO-to-debt below 23% and
+adjusted debt-to-EBITDA above 3x. However, we believe this would be temporary and (as noted above) the company
+would manage share repurchases to return adjusted FFO-to-debt above 23% within a two-year period.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Canadian Pacific Railway Ltd.
+
+CP is among the most efficient railways in North America. We expect CP's operating efficiency to remain among the
+strongest of the North American railroads, underpinned by our forecast adjusted EBIT margins of about 40%, which
+we consider above average for Class 1 railroads. The modest improvement in profitability within our forecast, despite
+challenging weather conditions in first-quarter 2019, stems primarily from mid-to-high single-digit annual revenue
+growth we assume along with ongoing investments the company is making to upgrade its network and renew its
+equipment (new grain hoppers and locomotives).
+In our view, CP's solid operating performance is a testament to the benefits of the precision scheduled railroading
+model the company implemented in 2012. Having ingrained this operating model into its business well before its U.S.
+peers, the company has, we believe, a relatively lower risk of service disruptions.
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Canadian Pacific Railway Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that over the next few years, CP's adjusted
+FFO-to-debt should be 30%-35%, supported by strong demand across most of the products in the company's
+portfolio. Our ratings also place an emphasis on the company's adherence to its financial policies that include a
+target net debt-to-EBITDA ratio of 2.0x-2.5x.
+
+Downside scenario
+We could downgrade CP within the next two years if we expect adjusted FFO-to-debt to be below 23%. This could
+occur if the company adopts more-aggressive financial policies or if earnings are significantly weaker than we
+expect, potentially due to lower volumes and pricing brought on by a severe recession.
+
+Upside scenario
+Although unlikely over the next two years, we could upgrade CP if stronger-than-expected earnings growth
+contributes to adjusted FFO-to-debt above 35% and adjusted FOCF-to-debt above 15%. In this scenario, we would
+expect the company to sustain these stronger credit measures, supported by financial policies that are more
+conservative than our current view.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Canadian Pacific Railway Ltd.
+
+Assumptions
+
+• Canadian real GDP growth of 1.2% in 2019 and
+1.7% in 2020; slightly stronger U.S. real GDP growth
+of 2.5% in 2019 and 1.8% in 2020.
+• Canadian CPI growth of about 2% per year.
+• Average value of the Canadian dollar to be relatively
+flat against the U.S. dollar.
+• Mid-to-high single-digit annual revenue growth
+driven by 2%-5% growth in revenue ton miles (RTM)
+and price increases above rail inflation.
+• Average price of West Texas Intermediate crude oil
+of US$50-US$60 per barrel through 2020.
+
+Key Metrics
+
+2018A
+EBITDA (mil. C$ )
+
+2019E
+
+2020E
+
+3,693.50 4,000-4,100 4,200-4,300
+
+EBIT margin (%)
+
+39.1
+
+40-41
+
+40-41
+
+FFO-to-debt (%)
+
+31.5
+
+32-34
+
+33-35
+
+2.5
+
+2.2-2.4
+
+2.2-2.4
+
+13.3
+
+14-16
+
+15-17
+
+Debt-to-EBITDA (x)
+FOCF-to-debt (%)
+
+Note: Figures include S&P Global Ratings' adjustments.
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free Operating cash flow.
+
+• Lower per unit fuel and labor costs contribute to
+modestly higher adjusted EBIT margins through
+2021 versus 2018.
+• Operating ratio (reported operating expenses as a %
+of revenue) in the low 60's area through 2020.
+• Annual capital expenditures of C$1.5 billion–C$1.7
+billion through 2020.
+• Annual dividend payments of C$400 million-C$450
+million through 2020.
+• Annual share repurchases of C$1.1 billion-C$1.3
+billion through 2020 funded with FOCF remaining
+after paying dividends and a modest increase in
+debt.
+• Upcoming debt maturities are refinanced.
+
+Base-case projections
+Strong demand expected to spur low-to-mid single-digit volume and yield growth leading to mid-to-high single-digit
+revenue growth. We expect strong demand in the majority of CP's product portfolio will fuel growth in consolidated
+volumes and pricing, largely due to a still solid macroeconomic environment and tight capacity across various modes
+of transportation. We expect this environment will foster mid-to-high single-digit annual revenue growth for the
+company over the next couple of years. During the first half of 2019, freight revenue was up about 10%, with eight out
+of nine product segments up from last year. We assume economic growth in the second half of this year should slow
+modestly, resulting in mid-to-high single-digit revenue growth for 2019. We expect mid-single-digit revenue growth in
+2020, fueled by favorable macroeconomic conditions and new business wins, including a three-year agreement for CP
+to handle all of Yang Ming Marine Transport Corp.'s Vancouver traffic (intermodal) effective Jan. 1, 2020. We also see
+strong demand for crude oil by rail (about 5% of revenue in 2018), at least through 2020, due to delays in new pipeline
+capacity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Canadian Pacific Railway Ltd.
+
+Chart 4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Canadian Pacific Railway Ltd.
+
+Chart 5
+
+Company Description
+CP is a Canadian Class I railway that primarily serves Canada, as well as the Midwestern and Northeastern U.S. It
+operates a network of about 12,500 route miles serving the principal business centers of Canada, from Montreal to
+Vancouver, as well as the U.S. Midwest and Northeast. In 2018, the company generated more than C$7 billion of
+revenue, making it the second-largest railroad in Canada (about half the size of Canadian National Railway Ltd. [CN])
+and the sixth-largest in North America.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+Canadian Pacific Railway Ltd.
+
+Chart 6
+
+Chart 7
+
+Business Risk: Strong
+We believe CP should benefit from the limited competition from alternate modes of long-haul commercial freight
+transport within the North American railroad industry, significant barriers to entry, moderate degree of cyclicality, and
+ability to increase freight pricing in excess of rail inflation (including fuel costs). Likewise, the company's strong market
+position in Canada and the U.S. Northeast and Midwest and well-situated rail network support the ratings.
+Trucking is a competitive alternative on short-haul routes and for time-sensitive freight, and barges and vessels offer
+competition on the Great Lakes-St. Lawrence Seaway. However, rail remains an attractive and cost-effective choice for
+bulk and long-distance commodity traffic, in our opinion.
+We expect CP's operating efficiency to remain among the strongest of the North American railroads, underpinned by
+our forecast adjusted EBIT margins of about 40%, which we consider above average for Class 1 railroads and about in
+line withCN. The modest expected improvement in profitability stems primarily from the benefits of operating leverage
+given the mid-single-digit annual revenue growth we assume along with ongoing investments the company is making
+to upgrade its network and renew its equipment (new grain hoppers and locomotives).
+In our view, CP should continue to generate stable earnings due in large part to its geographic, customer, and product
+diversity. This typically allows the company to offset weak demand in certain sectors with strong performance in
+others. Moreover, fuel surcharge mechanisms are included in most of the company's freight contracts--as is common
+in the rail industry, albeit there can sometimes be a lag before rates reset. We believe these mechanisms should
+mitigate CP's cost exposure to volatile fuel prices, further supporting our view of the company's earnings stability.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+Canadian Pacific Railway Ltd.
+
+Peer comparison
+We believe the degree of CP's diversification is weaker than that of its Canadian and some U.S. peers due to the
+company's significant exposure to bulk commodities. These include coal, grain, potash, and fertilizer products, which
+we believe exhibit greater volatility in freight volumes, because of higher relative exposure to unpredictable weather
+and economic fluctuations. Bulk commodities represented about 41% of CP's freight revenue in 2018 compared with
+about 22% for CN. In our opinion, CP also lacks the larger scale of its Canadian rival, and of some of its U.S.
+competitors, in particular Burlington Northern Santa Fe and Union Pacific. Larger rail networks typically benefit from
+better customer, end-market, and geographic diversity, along with access to more ports and terminals to better serve
+customers.
+From a financial risk perspective, we believe CP is comparable with most of the other Class 1 railroads except for CN,
+which we expect will maintain relatively more conservative credit measures.
+Table 1
+
+Canadian Pacific Railway Ltd. -- Peer Comparison
+Industry Sector: Railroads
+
+Union
+Pacific Corp.
+
+Burlington
+Northern
+Santa Fe
+LLC
+
+Kansas City
+Southern
+
+Strong
+
+Strong
+
+Strong
+
+Satisfactory
+
+Very Low
+
+Very Low
+
+Very Low
+
+Very low
+
+Intermediate
+
+Low
+
+Low
+
+Low
+
+Low
+
+Low
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Satisfactory
+
+Modest
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Canadian
+Pacific
+Railway Ltd.
+
+Canadian
+National
+Railway Co.
+
+CSX Corp.
+
+Norfolk
+Southern Corp.
+
+Business Risk
+Profile
+
+Strong
+
+Strong
+
+Strong
+
+Country Risk
+
+Very Low
+
+Very Low
+
+Industry Risk
+
+Low
+
+Low
+
+Strong
+Intermediate
+
+Competitive
+Position
+Financial Risk
+Profile
+Anchor
+Active Modifier
+
+Stand-alone-credit
+Profile
+Ratings as of Sept.
+16, 2019
+
+bbb+
+
+a
+
+a-
+
+a-
+
+a-
+
+a-
+
+bbb
+
+--
+
+--
+
+Comparable
+Ratings Analysis
+(-1)
+
+Comparable
+Ratings Analysis
+(-1)
+
+--
+
+Comparable
+Ratings
+Analysis (-1)
+
+--
+
+bbb+
+
+a
+
+bbb+
+
+bbb+
+
+a-
+
+bbb+
+
+bbb
+
+BBB+/Stable/-- A/Stable/A-1 BBB+/Stable/A-2 BBB+/Stable/A-2 A-/Stable/A-2 A+/Stable/-- BBB/Stable/A-2
+--Fiscal year ended Dec. 31, 2018--
+
+(Mil. Mix curr.)
+
+C$
+
+C$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+Revenue
+
+7,316.0
+
+14,321.0
+
+12,250.0
+
+11,458.0
+
+22,832.0
+
+23,855.0
+
+2,714.0
+
+EBITDA
+
+3,693.5
+
+7,076.5
+
+6,241.0
+
+5,193.0
+
+11,212.5
+
+10,546.0
+
+1,400.2
+
+Funds from
+operations (FFO)
+
+2,890.3
+
+5,777.6
+
+4,782.0
+
+4,127.1
+
+9,145.2
+
+8,406.8
+
+1,060.5
+
+EBIT
+
+2,863.2
+
+5,527.9
+
+4,959.0
+
+3,998.9
+
+8,787.3
+
+7,987.6
+
+986.9
+
+Interest expense
+
+508.2
+
+523.9
+
+670.0
+
+607.9
+
+1,004.3
+
+1,203.2
+
+123.7
+
+Cash interest paid
+
+485.2
+
+522.9
+
+645.0
+
+546.9
+
+862.3
+
+1,234.2
+
+118.7
+
+2,750.3
+
+6,047.6
+
+4,673.0
+
+3,760.1
+
+8,960.2
+
+8,174.8
+
+991.2
+
+Cash flow from
+operations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 11
+
+Canadian Pacific Railway Ltd.
+
+Table 1
+
+Canadian Pacific Railway Ltd. -- Peer Comparison (cont.)
+Capital
+expenditure
+
+1,531.0
+
+3,531.0
+
+1,745.0
+
+1,934.0
+
+3,437.0
+
+3,163.0
+
+619.0
+
+Capital
+expenditure (% of
+revenue)
+
+20.9
+
+24.7
+
+14.2
+
+16.9
+
+15.1
+
+13.3
+
+22.8
+
+Free operating
+cash flow (FOCF)
+
+1,219.3
+
+2,516.6
+
+2,928.0
+
+1,826.1
+
+5,523.2
+
+5,011.8
+
+372.2
+
+348.0
+
+1,333.0
+
+751.0
+
+844.0
+
+2,299.0
+
+5,465.4
+
+147.5
+
+12.7
+
+22.0
+
+16.1
+
+22.4
+
+25.7
+
+66.9
+
+14.9
+
+(231.7)
+
+(870.4)
+
+(2,494)
+
+(1,798.9)
+
+(5,000.8)
+
+(453.6)
+
+(18.8)
+
+61.0
+
+266.0
+
+1,111.0
+
+358.0
+
+1,333.0
+
+1,985.0
+
+100.5
+
+Debt
+
+9,161.9
+
+13,385.3
+
+14,582.5
+
+11,762.7
+
+23,434.2
+
+23,186.9
+
+2,766.2
+
+Equity
+
+6,636.0
+
+17,641.0
+
+12,580.0
+
+15,362.0
+
+20,423.0
+
+42,899.0
+
+5,132.7
+
+EBITDA margin
+(%)
+
+50.5
+
+49.4
+
+50.9
+
+45.3
+
+49.1
+
+44.2
+
+51.6
+
+EBIT margin (%)
+
+39.1
+
+38.6
+
+40.5
+
+34.9
+
+38.5
+
+33.5
+
+36.4
+
+Return on capital
+(%)
+
+18.8
+
+18.7
+
+18.4
+
+15.0
+
+20.3
+
+12.1
+
+12.7
+
+EBITDA interest
+coverage (x)
+
+7.3
+
+13.5
+
+9.3
+
+8.5
+
+11.2
+
+8.8
+
+11.3
+
+FFO cash interest
+coverage (x)
+
+7.0
+
+12.0
+
+8.4
+
+8.5
+
+11.6
+
+7.8
+
+9.9
+
+Debt/EBITDA (x)
+
+2.5
+
+1.9
+
+2.3
+
+2.3
+
+2.1
+
+2.2
+
+2.0
+
+FFO/debt (%)
+
+31.5
+
+43.2
+
+32.8
+
+35.1
+
+39.0
+
+36.3
+
+38.3
+
+Cash flow from
+operations/debt
+(%)
+
+30.0
+
+45.2
+
+32.0
+
+32.0
+
+38.2
+
+35.3
+
+35.8
+
+Dividends paid
+Dividends paid (%
+of cash flow from
+operations)
+Discretionary
+cash flow (DCF)
+Cash and
+short-term
+investments
+
+Adjusted ratios
+
+FOCF/debt (%)
+
+13.3
+
+18.8
+
+20.1
+
+15.5
+
+23.6
+
+21.6
+
+13.5
+
+DCF/debt (%)
+
+(2.5)
+
+(6.5)
+
+(17.1)
+
+(15.3)
+
+(21.3)
+
+(2)
+
+(0.7)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 12
+
+Canadian Pacific Railway Ltd.
+
+Chart 8
+
+Financial Risk: Intermediate
+We expect adjusted FFO-to-debt of 30%-35% and adjusted debt-to-EBITDA of 2.0x-2.5x over the next few years. We
+consider these credit measures to be at the stronger end of our acceptable range for the rating. We assume annual
+adjusted EBITDA growth in the high single-digit area as freight volumes and rates continue to rise through 2020. We
+also believe that the company will deploy all of the FOCF it generates along with proceeds from modest debt increases
+to shareholders in the form of dividends and share repurchases. Our forecast for improving credit measures is also
+consistent with the company's target to improve adjusted net debt to adjusted EBITDA (based on CP's methodology)
+to 2.0x-2.5x over the long term from 2.6x at the end of 2018.
+Under our assumptions, CP should generate C$1.4 billion-C$1.6 billion of annual FOCF over the next couple of years
+after C$1.5 billion-C$1.7 billion of capital expenditures (about equal to 20%-22% of revenue). This translates into
+adjusted FOCF-to-debt of 14%-17% through 2020. While we anticipate this cash flow will primarily go toward
+repurchasing shares, we also note that through its ability to redeploy this cash, CP has the financial flexibility to remain
+opportunistic regarding investments that may strengthen its competitive position or reduce debt to maintain steady
+leverage measures if earnings decline.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 13
+
+Canadian Pacific Railway Ltd.
+
+Table 2
+
+Canadian Pacific Railway Ltd. -- Financial Summary
+Industry Sector: Railroads
+--Fiscal year ended Dec. 31-2018
+Rating history
+
+2017
+
+2016
+
+2015
+
+2014
+
+BBB+/Stable/-- BBB+/Stable/-- BBB+/Stable/-- BBB+/Stable/-- BBB+/Stable/--
+
+(Mil. C$)
+Revenue
+
+7,316.0
+
+6,554.0
+
+6,232.0
+
+6,712.0
+
+6,620.0
+
+EBITDA
+
+3,693.5
+
+3,300.0
+
+3,205.0
+
+3,322.5
+
+2,982.5
+
+Funds from operations (FFO)
+
+2,890.3
+
+2,362.0
+
+2,343.4
+
+2,766.9
+
+2,399.1
+
+Interest expense
+
+508.2
+
+514.0
+
+524.6
+
+439.6
+
+335.4
+
+Cash interest paid
+
+485.2
+
+513.0
+
+539.6
+
+379.6
+
+357.4
+
+Cash flow from operations
+
+2,750.3
+
+2,228.0
+
+2,139.4
+
+2,525.9
+
+2,192.1
+
+Capital expenditure
+
+1,531.0
+
+1,324.0
+
+1,157.0
+
+1,508.0
+
+1,434.0
+
+Free operating cash flow (FOCF)
+
+1,219.3
+
+904.0
+
+982.4
+
+1,017.9
+
+758.1
+
+Discretionary cash flow (DCF)
+
+(231.7)
+
+213.0
+
+(482.6)
+
+(1,995.1)
+
+(1,535.9)
+
+Cash and short-term investments
+
+61.0
+
+338.0
+
+164.0
+
+650.0
+
+226.0
+
+Gross available cash
+
+61.0
+
+338.0
+
+164.0
+
+650.0
+
+226.0
+
+Debt
+
+9,161.9
+
+8,243.8
+
+8,976.5
+
+8,835.8
+
+6,500.8
+
+Equity
+
+6,636.0
+
+6,437.0
+
+4,626.0
+
+4,796.0
+
+5,610.0
+
+EBITDA margin (%)
+
+50.5
+
+50.4
+
+51.4
+
+49.5
+
+45.1
+
+Return on capital (%)
+
+Adjusted ratios
+
+18.8
+
+18.0
+
+18.2
+
+17.5
+
+18.6
+
+EBITDA interest coverage (x)
+
+7.3
+
+6.4
+
+6.1
+
+7.6
+
+8.9
+
+FFO cash interest coverage (x)
+
+7.0
+
+5.6
+
+5.3
+
+8.3
+
+7.7
+
+Debt/EBITDA (x)
+
+2.5
+
+2.5
+
+2.8
+
+2.7
+
+2.2
+
+FFO/debt (%)
+
+31.5
+
+28.7
+
+26.1
+
+31.3
+
+36.9
+
+Cash flow from operations/debt (%)
+
+30.0
+
+27.0
+
+23.8
+
+28.6
+
+33.7
+
+FOCF/debt (%)
+
+13.3
+
+11.0
+
+10.9
+
+11.5
+
+11.7
+
+DCF/debt (%)
+
+(2.5)
+
+2.6
+
+(5.4)
+
+(22.6)
+
+(23.6)
+
+Liquidity: Strong
+Our liquidity assessment incorporates our view that CP's sources of liquidity will exceed uses by more than 1.5x over
+the next 12 months. We also expect that the company will maintain sufficient liquidity to exceed its funding needs
+even in a stress scenario whereby our forecast EBITDA declines by 30%. Furthermore, we believe CP has the capacity
+to withstand a high-impact, low-probability event with limited need for refinancing; well-established and solid banking
+relationships; generally high standing in credit markets with great access to capital markets; and generally very
+prudent financial risk management.
+We have a short-term rating of 'A-2' on Canadian Pacific Railway Co. (a subsidiary of CP), which reflects our 'BBB+'
+long-term issuer credit rating and strong liquidity profile on CP.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 14
+
+Canadian Pacific Railway Ltd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of C$45 million as of
+June 30, 2019.
+
+• Annual capital expenditures of C$1.5 billion-C$1.7
+billion.
+
+• US$1 billion in undrawn revolving credit facility due
+June 28, 2023.
+
+• Annual dividend payments of C$400 million-C$450
+million.
+
+• Annual FFO of more than C$3.0 billion.
+
+• Seasonal working capital investments that typically
+peak in the first quarter.
+• At least C$500 million of share repurchases over the
+next 12 months with discretion.
+
+Debt maturities
+• During the first half of 2019, CP issued C$400 million of unsecured notes due 2029 and repaid US$350 million of
+unsecured notes that matured in May 2019.
+Chart 9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 15
+
+Canadian Pacific Railway Ltd.
+
+Covenant Analysis
+Compliance expectations
+We believe there is sufficient headroom under CP's financial covenants for EBITDA to be 30% lower than our forecast
+without the company breaching its covenant limits.
+
+Requirements
+The company's revolving credit facility includes a financial covenant that limits its debt-to-EBITDA.
+
+Environmental, Social, And Governance
+
+ESG factors are not a major influence on the rating on CP. Transportation of energy, chemical, and plastic products
+that we consider CP's most hazardous line of business represented a modest 12% of carloads in 2018. We believe
+the railroad is among the safest in North America based on Federal Railroad Administration reporting criteria. That
+said, operations tend to be more challenging in Canada than in the U.S. due to colder weather conditions and
+steeper grades, particularly in parts of Western Canada. CP operates a fuel efficient fleet of locomotives that on
+average used 0.95 U.S. gallons per thousand gross ton miles in 2018, which we believe is about 15% lower than the
+average North American railway. We also believe transporting freight by rail instead of trucks is significantly more
+fuel efficient on average, contributing to lower greenhouse gas emissions and higher relative profitability. We
+expect service levels to remain relatively stable over the next few years. CP's customers and employees are not
+being disrupted by a transition to scheduled railroading, as CP was an early adopter of this operating model, having
+implemented it in 2012. Furthermore, while about 75% of the company's workforce is unionized, its labor relations
+have been relatively stable. The company is publicly held, with a highly regarded management team and good
+governance practices.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of June 30, 2019, CP's capital structure consists of about C$8.5 billion of unsecured debt and less than C$300
+million of secured debt outstanding at subsidiary Canadian Pacific Railway Co.
+
+Analytical conclusions
+• We rate the company's unsecured notes 'BBB+', the same as the issuer credit rating, as no significant elements of
+subordination risk are present in the capital structure.
+• We rate the secured equipment notes due 2024 'A', two notches higher than the issuer credit rating, based on our
+view that equipment creditors are likely to continuing receiving payments at contracted rates during a railroad
+reorganization scenario, as well as on the relatively stable value of the railroad equipment securing the debt.
+• We rate less than C$50 million of perpetual 4% consolidated debenture stock 'AA-' to reflect the credit risk of the
+Canadian banks that have provided a letter of credit to support the obligation.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 16
+
+Canadian Pacific Railway Ltd.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Canadian Pacific Railway Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. C$)
+--Rolling 12 months ended June 30, 2019-Canadian Pacific Railway Ltd. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+7,648.0
+
+3,726.0
+
+3,029.0
+
+454.0
+
+3,945.0
+
+2,738.0
+
+1,580.0
+
+Debt
+
+Shareholders'
+equity
+
+Revenue
+
+8,384.0
+
+7,157.0
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(419)
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(442)
+
+--
+
+--
+
+530.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+92.0
+
+17.8
+
+17.8
+
+(17.8)
+
+74.2
+
+--
+
+(45)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22.0
+
+(22)
+
+(22)
+
+(22)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+116.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+60.0
+
+--
+
+--
+
+11.0
+
+11.0
+
+11.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3)
+
+--
+
+--
+
+--
+
+--
+
+Debt: Workers'
+compensation/self
+insurance
+
+111.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Total adjustments
+
+656.1
+
+0.0
+
+0.0
+
+219.0
+
+25.8
+
+50.8
+
+(900.8)
+
+52.2
+
+(22)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+3,044.2
+
+2,790.2
+
+1,558.0
+
+Reported lease
+liabilities
+Operating leases
+Accessible cash and
+liquid investments
+
+Asset retirement
+obligations
+Nonoperating
+income (expense)
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+Revenue
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+9,040.1
+
+7,157.0
+
+7,648.0
+
+3,945.0
+
+3,054.8
+
+504.8
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Strong
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 17
+
+Canadian Pacific Railway Ltd.
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Methodology And Assumptions For Analyzing Letter Of Credit-Supported Debt, Feb. 20, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Railroad And Package Express Industry, Aug. 12,
+2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Containers And Packaging Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 18
+
+Canadian Pacific Railway Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 20, 2019)*
+Canadian Pacific Railway Ltd.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Issuer Credit Ratings History
+04-Nov-2014
+
+BBB+/Stable/--
+
+16-Apr-2014
+
+BBB/Positive/--
+
+12-Mar-2014
+
+BBB-/Watch Pos/--
+
+Related Entities
+Canadian Pacific Railway Co.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Foreign Currency
+
+A-2
+
+Equipment Trust Certificates
+
+A
+
+Senior Unsecured
+
+AA-
+
+Senior Unsecured
+
+BBB+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 19
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 20
+
+

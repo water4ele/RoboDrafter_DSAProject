@@ -1,0 +1,1861 @@
+Canadian National Railway Co.
+Primary Credit Analyst:
+Alessio Di Francesco, CFA, Toronto (1) 416-507-2573; alessio.di.francesco@spglobal.com
+Secondary Contact:
+Jarrett Bilous, Toronto (1) 416-507-2593; jarrett.bilous@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+Canadian National Railway Co.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a
+
+a
+
+a
+
+A/Stable/A-1
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Strong market position in Canada with an extensive North American rail network Volumes likely to decline in the event of weaker-than-expected
+that connects three coasts and significant barriers to entry
+macroeconomic conditions
+Operating efficiency among the strongest of the North American railroads
+
+Network congestion from tight capacity could weaken service
+levels and margins, as in 2017/2018
+
+Meaningful financial flexibility from consistently strong free operating cash flow
+(FOCF)
+
+Elevated capital expenditures should contribute to modestly
+lower FOCF-to-debt
+
+Well-diversified rail network by customer, end market, and region
+
+Strong free cash flow generation provides financial flexibility. Under our assumptions of low-to-mid single-digit
+revenue growth and modestly higher margins, we estimate Canadian National Railway Co. (CN) will generate more
+than C$5.8 billion of operating cash flow per year. This easily covers the C$3.8 billion–C$4.0 billion of capital
+expenditures in our base-case scenario and should leave more than C$2.0 billion of free operating cash flow (FOCF)
+that we assume is used primarily to pay dividends and repurchase shares without materially affecting leverage.
+In our view, CN has significant financial flexibility to manage weaker-than-expected cash flow generation related to
+slowing macroeconomic conditions. We would expect the company to reduce share repurchases to an extent that
+facilitates positive discretionary cash flow and preserves credit measures--consistent with its track record during past
+cycles. In a severe or prolonged recession, CN could also reduce or defer a portion of its dividends and capital
+expenditures to limit the impact of lower cash flow on its balance sheet. Notwithstanding short-term pressure on credit
+measures likely in such a scenario, we believe CN has the capacity and willingness to generate leverage and cash flow
+ratios in line with our long-term expectations. This includes adjusted funds from operations (FFO)-to-debt of 40%-45%
+and adjusted debt-to-EBITDA of 1.8x-2.0x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+Canadian National Railway Co.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+Canadian National Railway Co.
+
+Chart 2
+
+Trade uncertainties and slowing global growth have increased the likelihood of a recession, but we believe CN is well
+positioned to manage these risks. We do not believe CN would be materially affected by an escalating trade war, most
+notably between the U.S. and China. In our view, CN's diverse product mix and geographic distribution limit the
+company's exposure to any one product category or trade negotiation. For instance, we believe trade between China
+and the U.S. represents about 5% of revenue. Furthermore, we believe Canada's trade with the U.S. (about one-third of
+CN's freight revenue) is likely to remain steady over the next few years with the United States-Mexico-Canada
+Agreement signed late last year. While CN is certainly not immune to financial risk from trade restrictions or tariffs
+(since about 68% of freight revenue is generated from cross-border and international trade), its revenue base is highly
+diversified by bulk, merchandise, and intermodal shipments. In our view, its broad market exposure underpins the
+strength of its business and credit profile.
+S&P Global Ratings believes trade uncertainties and a persistent weak global industrial backdrop contribute to a
+30%-35% probability of a U.S. recession in the next 12 months. We do not assume a recession in our base-case
+assumptions, but we consider how CN might perform in such a scenario. Railroads tend to perform well in industry
+downturns, as there is often no alternative shipping mode. We estimate adjusted EBITDA could decline 10%-20% if
+the company faces a degree of stress similar to the 2008-2009 downturn. Such a scenario is likely to result in credit
+measures that are weaker than we currently expect, potentially including adjusted FFO-to-debt below 35% and
+adjusted debt-to-EBITDA above 2.5x. However, we believe this would be temporary and (as noted above) the
+company would manage share repurchases to return adjusted FFO-to-debt above 35% within a two-year period.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+Canadian National Railway Co.
+
+Chart 3
+
+CN is among the most efficient railways in North America. We expect CN's operating efficiency to remain among the
+strongest of the North American railroads, underpinned by our forecast adjusted EBIT margins of about 40%, which
+we consider above average for Class 1 railroads. The modest expected improvement in profitability stems from
+mid-to-high single-digit annual revenue growth we assume along with ongoing investments the company is making to
+upgrade its network and renew its equipment. These investments include adding double track, new grain hoppers, and
+new locomotives.
+Furthermore, 2017 and 2018 operating performance was adversely affected by inefficiencies from congestion issues in
+key corridors of CN's network that emerged in the second half of 2017 and by the additional costs required to address
+them. CN has since improved network fluidity and efficiencies from recently added employees should continue to
+improve through 2020.
+In our view, CN's solid operating performance is a testament to the benefits of the scheduled railroading model the
+company implemented in the mid-2000s. Having ingrained this operating model into its business well before its U.S.
+peers and having made significant investments over the past couple of years to add capacity to its network, the
+company has, we believe, relatively lower risk of service disruptions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+Canadian National Railway Co.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation that over the next few years, CN's adjusted
+FFO-to-debt should be 40%-45%. This incorporates our assumption of volume growth and favorable pricing from
+strong demand in most end-markets along with a modest improvement in profit margins.
+
+Downside scenario
+We could downgrade CN within the next two years if adjusted FFO-to-debt falls below 35% and adjusted
+FOCF-to-debt falls below 17.5% for a prolonged period. This could occur if the company adopts more-aggressive
+financial policies or if earnings are significantly weaker than we expect, potentially due to lower volumes or pricing
+brought on by a severe recession.
+
+Upside scenario
+Although it is unlikely over the next two years, we could upgrade CN if stronger-than-expected earnings growth
+contributes to adjusted FFO-to-debt above 50% and adjusted FOCF-to-debt above 30%. In this scenario, we would
+expect the company to sustain these stronger credit measures, supported by financial policies that are more
+conservative than we currently view them, including a reduced proportion of cash flow allocated to
+shareholder-friendly initiatives or net debt repayment.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+Canadian National Railway Co.
+
+Assumptions
+
+• Canadian real GDP growth of 1.2% in 2019 and
+1.7% in 2020; slightly stronger U.S. real GDP growth
+of 2.5% in 2019 and 1.8% in 2020.
+• Canadian CPI growth of about 2% per year.
+• Average value of the Canadian dollar to be relatively
+flat against the U.S. dollar.
+• Mid-to-high single-digit annual revenue growth
+driven by 2%-5% growth in revenue ton miles (RTM)
+and price increases above rail inflation.
+• Average price of West Texas Intermediate crude oil
+of US$50-US$60 per barrel through 2020.
+
+Key Metrics
+
+Fiscal 2018A Fiscal 2019E Fiscal 2020E
+EBITDA (mil. C$ )
+
+7,076.50
+
+7,700-7,900
+
+8,300-8,500
+
+EBIT margin (%)
+
+38.6
+
+38-39
+
+39-41
+
+FFO-to-debt (%)
+
+43.2
+
+About 40
+
+40-45
+
+1.9
+
+1.8-2.0
+
+1.8-2.0
+
+18.8
+
+14-15
+
+16-17
+
+Debt-to-EBITDA (x)
+FOCF-to-debt (%)
+
+Note: Figures include S&P Global Ratings' adjustments.
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Lower per unit fuel and labor costs contribute to
+modestly higher adjusted EBIT margins through
+2021 versus 2018.
+• Operating ratio (reported operating expenses as a
+percentage of revenue) in the low 60's area.
+• Annual capital expenditures of about C$3.9 billion,
+or 22%-25% of revenue through 2020.
+• Annual dividend payments of C$1.4 billion-C$1.7
+billion through 2020.
+• Annual share repurchases of about C$1.5 billion
+through 2020 funded with FOCF remaining after
+paying dividends and incremental debt that includes
+C$800 million of unsecured notes issued in February
+2019.
+• Upcoming debt maturities are refinanced.
+
+Base-case projections
+Strong demand expected to spur low-to-mid single-digit volume and yield growth leading to mid-to-high single-digit
+revenue growth. We expect strong demand in the majority of CN's product portfolio will fuel growth in consolidated
+volumes and pricing largely due to a still solid macroeconomic environment and tight capacity across various modes
+of transportation. We expect this environment will foster mid-to-high single-digit annual revenue growth for the
+company over the next couple of years. During the first half of 2019, rail freight revenue was up about 11%, with all
+seven product segments up from last year. We assume economic growth in the second half of this year should slow
+modestly, resulting in mid-to-high single-digit revenue growth for 2019. We expect mid-single-digit revenue growth in
+2020, fueled by favorable macroeconomic conditions and increasing intermodal traffic from the Port of Prince Rupert.
+We also see strong demand for crude oil by rail (about 4% of revenue in 2018), at least through 2020, due to delays in
+new pipeline capacity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+Canadian National Railway Co.
+
+Chart 4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+Canadian National Railway Co.
+
+Chart 5
+
+Company Description
+CN is a Canadian Class I railway that serves Canada, as well as the Midwestern and Southern U.S. With a network of
+about 19,500 route miles, the company connects the three coasts: the Atlantic, the Pacific, and the Gulf of Mexico. In
+2018, CN generated more than C$14 billion of revenue, making it the largest railroad in Canada and the fifth-largest in
+North America.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+Canadian National Railway Co.
+
+Chart 6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+Canadian National Railway Co.
+
+Chart 7
+
+Business Risk: Strong
+In our view, CN enjoys a strong competitive position in the long-haul freight transportation industry with limited
+competition, significant barriers to entry, and a moderate degree of cyclicality. We believe the company's network
+breadth and consolidated industry characteristics, particularly in Canada, support a favorable pricing environment
+whereby CN should generally be able to increase freight rates higher than rail inflation (including fuel costs). We also
+consider the company's approximately 20,000-route-mile rail network well positioned to service customers, as it
+extends to key ports on North America's three major coasts: the Pacific coast (Vancouver and Prince Rupert, B.C.), the
+Atlantic coast (Halifax, N.S., and Montreal), and the Gulf of Mexico (New Orleans, La. and Mobile, Ala.). This makes
+CN the only Class 1 railroad reaching three coasts with its network. Further bolstering CN's competitive position is its
+relatively fluid track going into the high-traffic Chicago area that we believe is a competitive advantage over other
+Class I railroads.
+Trucking is a competitive alternative on short-haul routes and for time-sensitive freight, and barges and vessels offer
+competition on the Great Lakes-St. Lawrence Seaway and the Mississippi River System. However, rail remains an
+attractive and cost-effective choice for bulk and long-distance commodity traffic, in our opinion.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 11
+
+Canadian National Railway Co.
+
+We expect CN's operating efficiency to remain among the strongest of the North American railroads, underpinned by
+forecast adjusted EBIT margins of about 40%, is above the average of Class 1 railroads and about in line with CP. The
+modest expected improvement in profitability stems primarily from the benefits of operating leverage given the
+mid-single-digit annual revenue growth we assume along with ongoing investments the company is making to upgrade
+its network and renew its equipment. These investments include adding double track, new grain hoppers, and new
+locomotives. The company is also making capital investments in IT to improve inspection productivity, from which we
+believe most of the incremental benefit should be realized between 2020 and 2022.
+In our view, CN should generate stable earnings due in large part to its geographic, customer, and product diversity.
+This typically allows the company to offset weak demand in certain sectors with strong performance in others.
+Moreover, fuel surcharge mechanisms are included in most of the company's freight contracts--as is common in the
+rail industry, albeit there can sometimes be a lag before rates reset. We believe these mechanisms should mitigate CN's
+cost exposure to volatile fuel prices, further supporting our view of the company's earnings stability.
+
+Peer comparison
+CN is the fifth largest Class 1 railroad in North America and about half the size of Union Pacific Corp. and Burlington
+Northern Santa Fe. Larger rail networks typically benefit from better customer, end-market, and geographic diversity,
+along with access to more ports and terminals to better serve customers. That said, we believe CN operates a very
+broad network with a diverse product portfolio with very efficient operations.
+CN's strong credit profile compared with that of most other Class 1 railroads is in large part based on our expectation
+that the company should maintain relatively stronger core credit measures over the long term. These include adjusted
+FFO-to-debt of 40%-45% and adjusted debt-to-EBITDA of 1.8x-2.0x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 12
+
+Canadian National Railway Co.
+
+Chart 8
+
+Table 1
+
+Canadian National Railway Co. -- Peer Comparison
+Industry Sector: Railroads
+Canadian
+National
+Railway Co.
+
+Canadian
+Pacific
+Railway Ltd.
+
+CSX Corp.
+
+Norfolk
+Southern Corp.
+
+Union
+Pacific Corp.
+
+Burlington
+Northern
+Santa Fe LLC
+
+Kansas City
+Southern
+
+Business Risk
+Profile
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Satisfactory
+
+Country Risk
+
+Very Low
+
+Very Low
+
+Very Low
+
+Very Low
+
+Very Low
+
+Very low
+
+Intermediate
+
+Industry Risk
+
+Low
+
+Low
+
+Low
+
+Low
+
+Low
+
+Low
+
+Low
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Strong
+
+Satisfactory
+
+Modest
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Anchor
+
+a
+
+bbb+
+
+a-
+
+a-
+
+a-
+
+a-
+
+bbb
+
+Active Modifier
+
+--
+
+--
+
+Comparable
+Ratings Analysis
+(-1)
+
+Comparable
+Ratings Analysis
+(-1)
+
+--
+
+Co,parable
+Ratings
+Analysis (-1)
+
+--
+
+Stand-alone-credit
+Profile
+
+a
+
+bbb+
+
+bbb+
+
+bbb+
+
+a-
+
+bbb+
+
+bbb
+
+Competitive
+Position
+Financial Risk
+Profile
+
+Ratings as of Sept.
+16, 2019
+
+A/Stable/A-1 BBB+/Stable/-- BBB+/Stable/A-2 BBB+/Stable/A-2 A-/Stable/A-2 A+/Stable/NR BBB/Stable/A-2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 13
+
+Canadian National Railway Co.
+
+Table 1
+
+Canadian National Railway Co. -- Peer Comparison (cont.)
+--Fiscal year ended Dec. 31, 2018-C$
+
+C$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+Revenue
+
+14,321.0
+
+7,316.0
+
+12,250.0
+
+11,458.0
+
+22,832.0
+
+23,855.0
+
+2,714.0
+
+EBITDA
+
+7,076.5
+
+3,693.5
+
+6,241.0
+
+5,193.0
+
+11,212.5
+
+10,546.0
+
+1,400.2
+
+Funds from
+operations (FFO)
+
+5,777.6
+
+2,890.3
+
+4,782.0
+
+4,127.1
+
+9,145.2
+
+8,406.8
+
+1,060.5
+
+EBIT
+
+5,527.9
+
+2,863.2
+
+4,959.0
+
+3,998.9
+
+8,787.3
+
+7,987.6
+
+986.9
+
+Interest expense
+
+523.9
+
+508.2
+
+670.0
+
+607.9
+
+1,004.3
+
+1,203.2
+
+123.7
+
+Cash interest paid
+
+522.9
+
+485.2
+
+645.0
+
+546.9
+
+862.3
+
+1,234.2
+
+118.7
+
+Cash flow from
+operations
+
+6,047.6
+
+2,750.3
+
+4,673.0
+
+3,760.1
+
+8,960.2
+
+8,174.8
+
+991.2
+
+Capital
+expenditure
+
+3,531.0
+
+1,531.0
+
+1,745.0
+
+1,934.0
+
+3,437.0
+
+3,163.0
+
+619.0
+
+Capital
+expenditure (% of
+revenue)
+
+24.7
+
+20.9
+
+14.2
+
+16.9
+
+15.1
+
+13.3
+
+22.8
+
+Free operating
+cash flow (FOCF)
+
+2,516.6
+
+1,219.3
+
+2,928.0
+
+1,826.1
+
+5,523.2
+
+5,011.8
+
+372.2
+
+Dividends paid
+
+1,333.0
+
+348.0
+
+751.0
+
+844.0
+
+2,299.0
+
+5,465.4
+
+147.5
+
+22.0
+
+12.7
+
+16.1
+
+22.4
+
+25.7
+
+66.9
+
+14.9
+
+(870.4)
+
+(231.7)
+
+(2,494)
+
+(1,798.9)
+
+(5,000.8)
+
+(453.6)
+
+(18.8)
+
+266.0
+
+61.0
+
+1,111.0
+
+358.0
+
+1,333.0
+
+1,985.0
+
+100.5
+
+Debt
+
+13,385.3
+
+9,161.9
+
+14,582.5
+
+11,762.7
+
+23,434.2
+
+23,186.9
+
+2,766.2
+
+Equity
+
+17,641.0
+
+6,636.0
+
+12,580.0
+
+15,362.0
+
+20,423.0
+
+42,899.0
+
+5,132.7
+
+EBITDA margin
+(%)
+
+49.4
+
+50.5
+
+50.9
+
+45.3
+
+49.1
+
+44.2
+
+51.6
+
+EBIT margin (%)
+
+38.6
+
+39.1
+
+40.5
+
+34.9
+
+38.5
+
+33.5
+
+36.4
+
+Return on capital
+(%)
+
+18.7
+
+18.8
+
+18.4
+
+15.0
+
+20.3
+
+12.1
+
+12.7
+
+EBITDA interest
+coverage (x)
+
+13.5
+
+7.3
+
+9.3
+
+8.5
+
+11.2
+
+8.8
+
+11.3
+
+FFO cash interest
+coverage (x)
+
+12.0
+
+7.0
+
+8.4
+
+8.5
+
+11.6
+
+7.8
+
+9.9
+
+Debt/EBITDA (x)
+
+1.9
+
+2.5
+
+2.3
+
+2.3
+
+2.1
+
+2.2
+
+2.0
+
+FFO/debt (%)
+
+43.2
+
+31.5
+
+32.8
+
+35.1
+
+39.0
+
+36.3
+
+38.3
+
+Cash flow from
+operations/debt
+(%)
+
+45.2
+
+30.0
+
+32.0
+
+32.0
+
+38.2
+
+35.3
+
+35.8
+
+(Mil. Mix curr.)
+
+Dividends paid (%
+of cash flow from
+operations)
+Discretionary
+cash flow (DCF)
+Cash and
+short-term
+investments
+
+Adjusted ratios
+
+FOCF/debt (%)
+
+18.8
+
+13.3
+
+20.1
+
+15.5
+
+23.6
+
+21.6
+
+13.5
+
+DCF/debt (%)
+
+(6.5)
+
+(2.5)
+
+(17.1)
+
+(15.3)
+
+(21.3)
+
+(2)
+
+(0.7)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 14
+
+Canadian National Railway Co.
+
+Financial Risk: Modest
+We estimate that CN should generate adjusted FFO-to-debt of 40%-45% and adjusted debt-to-EBITDA of 1.8x-2.0x
+over the next few years. We assume annual adjusted EBITDA growth in the high single-digit area as freight volumes
+and rates continue to rise through 2020. In this scenario, we believe CN will increase debt to fund a portion of its share
+repurchases, thereby maintaining credit measures near current levels.
+Under our assumptions, over the next couple of years CN should generate C$2.0 billion-C$2.5 billion of annual FOCF,
+which includes elevated levels of annual capital expenditures of about C$3.9 billion (22%-25% of revenue). This
+translates into adjusted FOCF-to-debt of about 14%-17% through 2020. While we anticipate this cash flow will
+primarily go toward repurchasing shares, we also note that through its ability to redeploy this cash, CN has the
+financial flexibility to remain opportunistic regarding investments that may strengthen its competitive position or
+reduce debt to maintain steady leverage measures if earnings decline.
+
+Financial summary
+Table 2
+
+Canadian National Railway Co. -- Financial Summary
+Industry Sector: Railroads
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+14,321.0
+
+13,041.0
+
+12,037.0
+
+12,611.0
+
+12,134.0
+
+EBITDA
+
+7,076.5
+
+6,774.5
+
+6,524.5
+
+6,574.0
+
+5,886.5
+
+Funds from operations (FFO)
+
+5,777.6
+
+5,552.4
+
+5,363.3
+
+5,376.5
+
+4,718.0
+
+Interest expense
+
+523.9
+
+514.1
+
+518.2
+
+479.5
+
+408.5
+
+Cash interest paid
+
+522.9
+
+510.1
+
+508.2
+
+472.5
+
+446.5
+
+Cash flow from operations
+
+6,047.6
+
+5,622.4
+
+5,318.3
+
+5,261.5
+
+4,487.0
+
+Capital expenditure
+
+3,531.0
+
+2,673.0
+
+2,695.0
+
+2,706.0
+
+2,297.0
+
+Free operating cash flow (FOCF)
+
+2,516.6
+
+2,949.4
+
+2,623.3
+
+2,555.5
+
+2,190.0
+
+Discretionary cash flow (DCF)
+
+(Mil. C$)
+
+(870.4)
+
+(360.6)
+
+(587.7)
+
+(282.5)
+
+(133.0)
+
+Cash and short-term investments
+
+266.0
+
+70.0
+
+176.0
+
+153.0
+
+52.0
+
+Gross available cash
+
+266.0
+
+70.0
+
+176.0
+
+153.0
+
+52.0
+
+Debt
+
+13,385.3
+
+11,520.6
+
+11,576.8
+
+11,172.4
+
+9,213.8
+
+Equity
+
+17,641.0
+
+16,656.0
+
+14,841.0
+
+14,950.0
+
+13,470.0
+
+EBITDA margin (%)
+
+49.4
+
+51.9
+
+54.2
+
+52.1
+
+48.5
+
+Return on capital (%)
+
+18.7
+
+19.3
+
+19.3
+
+21.3
+
+20.6
+
+EBITDA interest coverage (x)
+
+13.5
+
+13.2
+
+12.6
+
+13.7
+
+14.4
+
+FFO cash interest coverage (x)
+
+12.0
+
+11.9
+
+11.6
+
+12.4
+
+11.6
+
+1.9
+
+1.7
+
+1.8
+
+1.7
+
+1.6
+
+FFO/debt (%)
+
+43.2
+
+48.2
+
+46.3
+
+48.1
+
+51.2
+
+Cash flow from operations/debt (%)
+
+45.2
+
+48.8
+
+45.9
+
+47.1
+
+48.7
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 15
+
+Canadian National Railway Co.
+
+Table 2
+
+Canadian National Railway Co. -- Financial Summary (cont.)
+Industry Sector: Railroads
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+FOCF/debt (%)
+
+18.8
+
+25.6
+
+22.7
+
+22.9
+
+23.8
+
+DCF/debt (%)
+
+(6.5)
+
+(3.1)
+
+(5.1)
+
+(2.5)
+
+(1.4)
+
+Liquidity: Strong
+Our liquidity assessment incorporates our view that CN's sources of liquidity will exceed uses by more than 1.5x over
+the next 12 months. We also expect that the company will maintain sufficient liquidity to exceed its funding needs
+even in a stress scenario whereby our forecast EBITDA declines by 30%. Furthermore, we believe CN has the capacity
+to withstand a high-impact, low-probability event with limited need for refinancing; well-established and solid banking
+relationships; generally high standing in credit markets with great access to capital markets; and generally very
+prudent financial risk management.
+We have a short-term rating of 'A-1' on CN, which reflects our 'A' long-term issuer credit rating and strong liquidity
+profile on the company.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of C$612 million at June
+30, 2019. This includes C$484 million of restricted
+cash that we believe is available to the company
+within a short period
+
+• Expected annual capital expenditures of about C$3.9
+billion, of which we assume about one-third can be
+deferred or cancelled in a stress scenario
+
+• Full availability under its revolving credit facility of
+C$2 billion that consists of two C$1 billion tranches
+maturing on May 5, 2022 and May 5, 2024,
+respectively
+• Full availability under a C$450 million accounts
+receivable securitization program that matures Feb.
+1, 2021 that could be utilized to fund seasonal
+working capital requirements
+• Annual FFO of more than C$6 billion
+
+• Seasonal working capital investments that typically
+peak in the first quarter
+• Annual dividend payments of C$1.4 billion-C$1.7
+billion and discretion on future share repurchases
+through 2020.
+• US$961 million (C$1,258 million) of commercial
+paper outstanding as at June 30, 2019 that matures
+within 90 days
+• Other debt maturities within the next 24 months
+include, US$300 million due Feb. 3, 2020, C$250
+million due Feb. 18, 2021, and US$400 million due
+Dec. 15, 2021
+
+Debt maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 16
+
+Canadian National Railway Co.
+
+Chart 9
+
+Covenant Analysis
+Compliance expectations
+We believe there is sufficient headroom under CN's financial covenants for EBITDA to be 30% lower than our forecast
+without the company breaching its covenant limits.
+
+Requirements
+The company's revolving credit facility includes a financial covenant that limits debt as a percentage of total
+capitalization.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 17
+
+Canadian National Railway Co.
+
+Environmental, Social, And Governance
+
+ESG factors are not a significant risk to the rating on CN. Transportation of petroleum and chemical products that
+we consider CN's most hazardous category represented a modest 11% of carloads in 2018. We believe the
+company is among the safest railroads in North America based on Federal Railroad Administration reporting
+criteria. That said, operations tend to be more challenging in Canada than in the U.S. due to colder weather
+conditions and steeper grades, particularly in parts of Western Canada. This increases the risk of accidents and
+service disruptions that we believe the company does a good job managing. CN operates a fuel efficient fleet of
+locomotives that on average used 0.94 U.S. gallons per thousand gross ton miles in 2018, which we believe is about
+15% lower than the average North American railway. We also believe transporting freight by rail instead of trucks
+is significantly more fuel efficient on average, contributing to lower greenhouse gas emissions and higher relative
+profitability. Unlike some of its industry peers, CN's customers and employees are not being disrupted by a
+transition to scheduled railroading, as CN was an early adopter of this operating model, having implemented it in
+the mid-2000's. Furthermore, while just under 80% of the company's workforce is unionized, its labor relations
+have been relatively stable.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of June 30, 2019, CN's capital structure consisted of just over C$12 billion of unsecured notes and debentures, of
+which almost all is outstanding at the parent level. The company's debt outstanding also includes about C$1.3 billion
+borrowed under its commercial paper program.
+
+Analytical conclusions
+We rate CN's unsecured notes 'A', the same as the issuer credit rating, as no significant elements of subordination risk
+are present in the capital structure and the company has a modest financial risk profile.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Canadian National Railway Co. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. C$)
+--Fiscal year ended Dec. 31, 2018-Canadian National Railway Co. reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest S&P Global Ratings'
+expense
+adjusted EBITDA
+
+Cash flow from
+operations
+
+12,569.0
+
+6,822.0
+
+5,493.0
+
+489.0
+
+7,076.5
+
+5,918.0
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(776)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 18
+
+Canadian National Railway Co.
+
+Table 3
+
+Reconciliation Of Canadian National Railway Co. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. C$) (cont.)
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(488)
+
+--
+
+Operating leases
+
+545.5
+
+164.5
+
+34.9
+
+34.9
+
+(34.9)
+
+129.6
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+210.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+(266)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+90.0
+
+--
+
+--
+
+--
+
+--
+
+Asset retirement obligations
+
+46.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Workers'
+compensation/self insurance
+
+261.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+Debt: Other
+
+19.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+816.3
+
+254.5
+
+34.9
+
+34.9
+
+(1,298.9)
+
+129.6
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+13,385.3
+
+7,076.5
+
+5,527.9
+
+523.9
+
+5,777.6
+
+6,047.6
+
+Total adjustments
+S&P Global Ratings' adjusted amounts
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A/Stable/A-1
+
+Business risk: Strong
+
+• Country risk: Very low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 19
+
+Canadian National Railway Co.
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Railroad And Package Express Industry, Aug. 12,
+2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Containers And Packaging Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 20, 2019)*
+Canadian National Railway Co.
+Issuer Credit Rating
+
+A/Stable/A-1
+
+Senior Unsecured
+
+A
+
+Senior Unsecured
+
+A-1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 20
+
+Canadian National Railway Co.
+
+Ratings Detail (As Of September 20, 2019)*(cont.)
+Issuer Credit Ratings History
+09-Dec-2013
+
+A/Stable/A-1
+
+26-Nov-2013
+
+A-/Watch Pos/A-2
+
+18-Jul-2005
+
+A-/Stable/A-2
+
+Related Entities
+Grand Trunk Western Railroad Company
+Senior Unsecured
+
+A-1
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 21
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 22
+
+

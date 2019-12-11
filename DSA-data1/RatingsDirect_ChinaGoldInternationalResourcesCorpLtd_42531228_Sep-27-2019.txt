@@ -1,0 +1,1448 @@
+China Gold International Resources
+Corp. Ltd.
+Primary Credit Analyst:
+Betty Huang, Hong Kong (852) 2533-3526; betty.huang@spglobal.com
+Secondary Contact:
+Christine Li, Hong Kong (852) 2532-8005; Christine.Li@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+China Gold International Resources Corp. Ltd.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbbb+
+
+b+
+
+BBB-/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Steady ramp up and long reserve life at Jiama mine provides
+production visibility.
+
+Limited product and asset diversity with operations concentrated in a
+single geography.
+
+Controlled capital spending to improve free operating cash flow.
+
+High production costs could continue to strain profitability.
+Exposure to volatile gold and copper prices.
+Financial leverage to remain high.
+
+Increased copper production capacity will support revenue growth.China Gold International Resources Corp. Ltd.
+(CGI) achieved commercial production of its Jiama mine series II, phase II expansion, in July 2018, ahead of schedule.
+The full commercial production significantly enhanced the company's copper production to a record high of 55,000
+tons in 2018. We forecast Jiama's copper production will continue to grow to about 60,000 tons in 2019, based on the
+mine's full production capacity and in line with CGI's guidance. Furthermore, Jiama mine's long reserve life of over 30
+years reduces pressure on the company to aggressively replace depleting reserves, resulting in production visibility.
+Controlled capital spending likely over the next 12-24 months. CGI has budgeted US$90 million-US$120 million capital
+expenditure (capex) over the next 12-24 months, compared with US$232 million in 2017. Capex in 2019 and 2020 will
+be mainly for operational maintenance and further exploration at the Jiama underground mine to be completed by the
+end of 2020.
+Product and geographic concentration remains constraints.CGI's product concentration risk exposes the company to
+volatile gold and copper prices. CGI's asset concentration also constrains its business strength; the company's
+operations are largely dependent on the performance of its two major mines in China. Unforeseeable operating and
+geological events pertaining to any of these mines could hit business performance. A series of wall failures in 2017 on
+one side of the Changshanhao (CSH) mine temporarily suspended the mine's production, affecting revenue growth
+from gold mining in 2018 and 2019. However, the company's increased production capacity and long mine life at the
+Jiama mine provide good revenue visibility and offset the impact of the decline in production at the CSH mine.
+CGI will remain a relatively high-cost metal producer. We expect the company's cost position will remain on the higher
+end of the global cost curve. We forecast CGI's unit cost of gold and copper production to rise by about 13% and 19%,
+respectively, in 2019 from already high levels in 2018. The rise in cost in 2019 is primarily driven by declining ore
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+China Gold International Resources Corp. Ltd.
+
+grade at both mines. However, we expect CGI's operational costs to decline in 2020 owing to better utilization of
+mining resources and equipment with likely higher ore grade and recovery in Jiama mine. The completion of a new
+section of Jiama's underground mine with higher-grade ore by the end of 2020 will further reduce production costs
+from 2021.
+Leverage to remain high. We expect CGI's debt-to-EBITDA ratio to rise to 9.0x-9.2x in 2019, from 6.5x in 2018,
+primarily driven by decline in operating earnings on higher production costs, while total debt remains high. Although
+we anticipate credit metrics to improve from 2020 owing to steady growth in gold and copper production, rising
+copper price, and improved operational efficiency through cost-cutting measures, CGI's leverage will remain high.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+China Gold International Resources Corp. Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects our view that financial leverage of CGI's parent China National Gold Group Co. Ltd.
+(CNG) will moderately improve but remain high over the next one to two years. This is due to strengthening
+copper prices and increasing gold and copper production. We expect CNG's EBTIDA interest coverage ratio to
+stay comfortably above 2.0x over the period.
+
+Downside scenario
+We would lower the rating on CGI if we downgrade CNG. Weaker gold and copper prices than we expected, and
+higher production costs than we anticipated at CNG, such that its EBITDA interest coverage falls below 2.0x,
+would indicate such deterioration.
+We could also downgrade CGI if we believe that extraordinary government support to CNG has weakened or if we
+believe the importance of CGI to CNG has weakened.
+
+Upside scenario
+We would upgrade CGI if CNG can significantly lower its financial leverage such that its debt-to-EBITDA ratio falls
+below 4.0x for a sustained period. This could happen if the group sees improving profitability, reduced capex, or
+lower debt. We see limited upside in the next 12 months.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+China Gold International Resources Corp. Ltd.
+
+Assumptions
+
+Key Metrics
+
+• Gold price to be US$1,300 per ounce (oz) for the rest
+of 2019 and in 2020, versus US$1,269/oz in 2018.
+
+2018
+Debt/EBITDA (x)
+
+• Copper price to be US$6,300/ton for the rest of
+2019 and US$6,500/ton in 2020, versus
+US$6,261/ton in 2018.
+• CGI's gold production from the CSH mine to remain
+stable at about 145,000 ounces in 2019, versus
+145,000 ounces in 2018, and then recover to
+150,000-180,000 ounces in 2020 owing to CGI's
+implementation of a new pit design at the mine. Our
+forecast is in line with the company's guidance.
+
+FFO/Debt (%)*
+EBITDA interest coverage (x)*
+
+2019E
+
+2020E
+
+6.5 9.0-9.2
+
+6.6-6.8
+
+11.6 7.0-9.0 10.0-12.0
+4.3 3.4-3.6
+
+4.1-4.3
+
+E--Estimate. FFO--Funds from operations.
+
+• CGI's copper production to increase to about 60,000
+tons in 2019, from 55,000 tons in 2018, owing to
+ramp up of the Jiama mine and in line with the
+company's guidance. Production to increase to
+60,000-65,000 tons in 2020 as production at the
+Jiama mine continues to grow.
+• Revenue growth to be 5%-9% in both 2019 and
+2020, versus 39% in 2018, owing to increase in
+production levels and rising copper prices.
+• Unit cash cost for gold to increase to US$850/oz in
+2019, from US$750/oz in 2018, in line with the
+company's guidance. Cost to decrease by 5% to
+US$808/oz in 2020 through cost optimization.
+• Unit cash cost for copper to increase to
+US$1.62/pound in 2019, from US$1.36/pound in
+2018, in line with the company's guidance. The cost
+to decrease by 4% to US$1.56/pound in 2020
+through cost-cutting measures.
+• Capex to decrease to US$120 million in 2019 and
+about US$90 million in 2020, from US$132 million in
+2018 and US$232 million in 2017.
+
+Base-case projections
+Steady growth in profitability likely. We project CGI's EBITDA margin will decline to 22%-24% in 2019, from 34.6% in
+2018, mainly due to higher production costs owing to lower-grade ore from both the mines. We anticipate profitability
+will recover from 2020 onward, with EBITDA margin of 27%-30%, due to increase in copper and gold production,
+higher copper prices, and better cost optimization.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+China Gold International Resources Corp. Ltd.
+
+Chart 2
+
+Company Description
+CGI is a gold and base metals mining company based in Vancouver, Canada. It is the only overseas operation and
+financing platform of CNG, a Beijing-based gold mining enterprise that the State-owned Assets Supervision and
+Administration Commission (SASAC) owns.
+CGI mainly engages in the exploration, development, and mining of mineral reserves in China. The company currently
+operates two mines: the CSH gold mine and the Jiama copper-polymetallic mine.
+As of June 30, 2019, CGI has gold reserves of 1.61 million ounces and copper reserves of 2.5 million tons. CSH has a
+reserve life of less than 10 years, while Jiama's is 31 years.
+The company is listed on both the Toronto and Hong Kong stock exchanges.
+
+Business Risk: Weak
+CGI's high operating costs, limited product diversity, exposure to volatile commodity prices, and single geographic
+operations are the primary constraints for its business risk profile.
+We expect CGI's cost position to remain relatively high on the global cost curves. The company's relatively weak cost
+structure is owing to complexities in the exploitation of low grade ore minerals. We estimate that the unit production
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+China Gold International Resources Corp. Ltd.
+
+cost of the CSH mine will remain high, given the mine's significant fixed costs and low-grade ore. Unit production cost
+of the Jiama mine will also stay high due to low ore grade and recovery rate.
+CGI's product and geographic concentration risk is likely to remain. The company's product offerings are largely
+limited to gold and copper, and both products persistently contribute over 80% of overall revenue. CGI therefore faces
+revenue and earnings compression when commodity prices are low, impacting its cash flow. We anticipate recovery in
+CGI's gold mining operations at the CSH mine from 2020 onwards. Meanwhile, the company's product portfolio will
+remain reasonably skewed toward copper mining.
+
+Peer comparison
+Table 1
+
+China Gold International Resources Corp. Ltd.--Peer Comparison
+Industry sector: Metals
+China Gold International Resources
+Corp. Ltd.
+
+IAMGOLD Corp. New Gold Inc.
+
+Eldorado Gold
+Corp.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. US$)
+Revenue
+
+570.6
+
+1,111.0
+
+604.5
+
+459.0
+
+EBITDA
+
+197.5
+
+330.7
+
+252.3
+
+147.3
+
+Funds from operations (FFO)
+
+149.3
+
+262.4
+
+184.7
+
+69.4
+
+Interest expense
+
+45.5
+
+37.9
+
+64.9
+
+47.6
+
+Cash interest paid
+
+43.5
+
+29.4
+
+63.5
+
+41.0
+
+Cash flow from operations
+
+151.5
+
+179.8
+
+132.2
+
+86.3
+
+Capital expenditure
+
+132.4
+
+307.9
+
+213.9
+
+274.1
+
+19.1
+
+(128.1)
+
+(81.7)
+
+(187.8)
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+
+18.6
+
+(131.8)
+
+(81.7)
+
+(189.9)
+
+138.0
+
+734.1
+
+103.7
+
+295.5
+
+Debt
+
+1,284.2
+
+654.8
+
+1,030.3
+
+723.3
+
+Equity
+
+1,489.2
+
+2,792.6
+
+959.3
+
+3,347.1
+
+EBITDA margin (%)
+
+34.6
+
+29.8
+
+41.7
+
+32.1
+
+Return on capital (%)
+
+2.2
+
+1.5
+
+0.4
+
+1.0
+
+EBITDA interest coverage (x)
+
+4.3
+
+8.7
+
+3.9
+
+3.1
+
+FFO cash interest coverage (x)
+
+4.4
+
+9.9
+
+3.9
+
+2.7
+
+Cash and short-term investments
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+6.5
+
+2.0
+
+4.1
+
+4.9
+
+FFO/debt (%)
+
+11.6
+
+40.1
+
+17.9
+
+9.6
+
+Cash flow from operations/debt
+(%)
+
+11.8
+
+27.5
+
+12.8
+
+11.9
+
+FOCF/debt (%)
+
+1.5
+
+(19.6)
+
+(7.9)
+
+(26.0)
+
+DCF/debt (%)
+
+1.4
+
+(20.1)
+
+(7.9)
+
+(26.3)
+
+We consider IAMGOLD Corp., New Gold Inc. and Eldorado Gold Corp. as close peers for CGI, given that they operate
+in the same industry and have similar business risk profiles or cost structures.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+China Gold International Resources Corp. Ltd.
+
+All the peers have limited product diversity. CGI and New Gold operate in copper and gold mining, while IAMGOLD
+and Eldorado Gold have operations concentrated in gold mining.
+CGI's gold production is lower than that of all of its rated peers while its copper production is higher than New Gold's
+following the ramp up of the Jiama mine. CGI's CSH mine life is largely similar to that of IAMGOLD and New Gold's
+mines. The mine life of the Jiama mine is comparable to that of two of Eldorado Gold's mines.
+CGI, IAMGOLD, and Eldorado Gold have higher cost structures than New Gold, which contributes to New Gold's
+above-average profitability.
+Leverage remains high for CGI and the peers. IAMGOLD's credit metrics are more favorable in terms of
+debt-to-EBITDA ratio and ratio of funds from operations (FFO) to debt. However, its sizable capex will lead to
+negative free operating cash flow.
+Unlike its peers, CGI is a highly strategic subsidiary of a central state-owned enterprise (SOE). In our view, CGI will
+benefit from its group status, with extraordinary government support flowing through its parent in case of financial
+stress. Therefore the rating receives four notches of uplift.
+
+Financial Risk: Aggressive
+We expect CGI's debt-to-EBITDA ratio to trend higher in 2019 mainly because of higher production costs and
+persistent high debt levels. We estimate credit metrics will start to recover from 2020 as costs and capex will decline,
+while copper and gold output and copper price will rise. We estimate the company's EBITDA interest coverage will
+continue to remain well above 2x over the next 12-24 months.
+We expect CGI's free operating cash flows to improve over the next 12-24 months owing to controlled capex. We
+believe the company will focus on improving operational efficiency at its mines. We have not factored in any potential
+acquisitions in our forecast.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+China Gold International Resources Corp. Ltd.
+
+Chart 3
+
+Financial summary
+Table 2
+
+China Gold International Resources Corp. Ltd.--Financial Summary
+Industry sector: Metals
+--Fiscal year ended Dec. 31-(Mil. US$)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+570.6
+
+411.9
+
+338.6
+
+339.9
+
+277.8
+
+EBITDA
+
+197.5
+
+175.2
+
+120.3
+
+118.1
+
+136.0
+
+Funds from operations (FFO)
+
+149.3
+
+91.9
+
+39.3
+
+62.4
+
+83.1
+
+Interest expense
+
+45.5
+
+46.4
+
+41.4
+
+45.4
+
+40.5
+
+Cash interest paid
+
+43.5
+
+68.3
+
+63.2
+
+42.8
+
+37.8
+
+Cash flow from operations
+
+151.5
+
+79.6
+
+54.6
+
+43.6
+
+(12.3)
+
+Capital expenditure
+
+132.4
+
+231.8
+
+177.2
+
+252.8
+
+249.1
+
+19.1
+
+(152.2)
+
+(122.6)
+
+(209.2)
+
+(261.4)
+
+18.6
+
+(152.4)
+
+(122.9)
+
+(209.5)
+
+(261.6)
+
+138.0
+
+147.3
+
+59.9
+
+112.4
+
+565.6
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+Gross available cash
+
+138.0
+
+147.3
+
+59.9
+
+112.4
+
+565.6
+
+Debt
+
+1,284.2
+
+1,344.4
+
+1,216.2
+
+1,015.7
+
+1,240.1
+
+Equity
+
+1,489.2
+
+1,510.0
+
+1,420.2
+
+1,447.3
+
+1,465.2
+
+EBITDA margin (%)
+
+34.6
+
+42.5
+
+35.5
+
+34.7
+
+48.9
+
+Return on capital (%)
+
+2.2
+
+3.4
+
+1.8
+
+2.1
+
+3.6
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+China Gold International Resources Corp. Ltd.
+
+Table 2
+
+China Gold International Resources Corp. Ltd.--Financial Summary (cont.)
+Industry sector: Metals
+--Fiscal year ended Dec. 31-(Mil. US$)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA interest coverage (x)
+
+4.3
+
+3.8
+
+2.9
+
+2.6
+
+3.4
+
+FFO cash interest coverage (x)
+
+4.4
+
+2.3
+
+1.6
+
+2.5
+
+3.2
+
+Debt/EBITDA (x)
+
+6.5
+
+7.7
+
+10.1
+
+8.6
+
+9.1
+
+FFO/debt (%)
+
+11.6
+
+6.8
+
+3.2
+
+6.1
+
+6.7
+
+Cash flow from operations/debt (%)
+
+11.8
+
+5.9
+
+4.5
+
+4.3
+
+(1.0)
+
+FOCF/debt (%)
+
+1.5
+
+(11.3)
+
+(10.1)
+
+(20.6)
+
+(21.1)
+
+DCF/debt (%)
+
+1.4
+
+(11.3)
+
+(10.1)
+
+(20.6)
+
+(21.1)
+
+Liquidity: Adequate
+We view CGI's liquidity as adequate. We forecast the company's liquidity sources will exceed uses by 1.4x over the 12
+months ending June 30, 2020. Net liquidity sources will remain positive even if EBITDA declines by 15%.
+CGI has maintained good banking relationships and a generally satisfactory standing in the capital market, in our view.
+As of June 30, 2019, the company has total bank facilities of RMB9.5 billion, of which RMB3.3 billion are unused.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and liquid investments of US$175.2 million as
+of June 30, 2019.
+
+• Short-term debt obligations of about US$103 million
+that will due in the 12 months ending June 30, 2020.
+
+• FFO that we estimate at US$129 million in the 12
+months ending June 30, 2020.
+
+• Maintenance capex of about US$105 million during
+the period.
+• Working capital outflow of about US$8 million over
+the same period.
+
+Debt maturities
+Table 3
+
+China Gold International Resources Corp. Ltd. --Debt Maturities*
+Period
+
+Amount (Mil. US$)
+
+2019
+
+124
+
+2020
+
+539
+
+2021
+
+98
+
+2022
+
+98
+
+2023
+
+98
+
+2023 onwards
+
+285
+
+*As of Dec. 31, 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+China Gold International Resources Corp. Ltd.
+
+Group Influence
+We view CGI as highly strategic to CNG as the group's only overseas operation and financing platform. We believe
+CGI will receive timely and sufficient support from CNG, when needed. The rating on CGI is therefore one notch
+below our rating on CNG.
+Our assessment of CGI's importance to the group is based on the following factors:
+• We expect CNG to maintain its dominant shareholding of 39.3% in CGI. We believe CGI will remain integral to
+CNG's overall development strategy and continue to be the only overseas operation and financing platform of the
+group.
+• CGI contributes more than 30% of the group's gold output and more than 54.9% of its copper output.
+• CGI is unlikely to be sold. The company shares the same name as the group. It is closely linked to the group's
+reputation, brand name, and risk management.
+• CGI has a strong and long-term commitment of support from the group's senior management team, given the
+overlap of the management team. Four of the nine members on CGI's board also serve in senior roles at CNG.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of Dec. 31, 2018, CGI's capital structure consists of about US$509 million in secured debt, and US$730 million in
+unsecured debt on a consolidated basis. US$201 million of the consolidated unsecured debt is at the subsidiaries.
+
+Analytical conclusions
+CGI is highly strategic to CNG, which we assess to have high likelihood of receiving extraordinary government support
+in case of financial distress. As a result, even though CGI's priority debt ratio is higher than our 50% threshold for
+notching down the issue rating, we do not apply notching from the issuer credit rating. We believe the government is
+willing and able to intervene so that structurally subordinated lenders would not have worse recovery prospects than
+structurally senior lenders.
+
+Reconciliation
+Table 4
+
+Reconciliation Of China Gold International Resources Corp. Ltd. Reported Amounts With S&P Global
+Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-China Gold International Resources Corp. Ltd. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+1,239.3
+
+1,474.4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+193.9
+
+43.0
+
+41.5
+
+197.5
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+154.9
+
+133.4
+
+SEPTEMBER 25, 2019 11
+
+China Gold International Resources Corp. Ltd.
+
+Table 4
+
+Reconciliation Of China Gold International Resources Corp. Ltd. Reported Amounts With S&P Global
+Ratings' Adjusted Amounts (Mil. $) (cont.)
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4.2)
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(42.5)
+
+--
+
+--
+
+0.3
+
+--
+
+0.1
+
+0.0
+
+0.0
+
+(0.0)
+
+0.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1.0
+
+(1.0)
+
+(1.0)
+
+(1.0)
+
+44.6
+
+--
+
+3.0
+
+3.0
+
+3.0
+
+--
+
+--
+
+--
+
+Exploration costs
+
+--
+
+--
+
+0.5
+
+--
+
+--
+
+(0.5)
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+16.3
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2.6)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+14.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss)
+on disposals of PP&E
+
+--
+
+--
+
+0.0
+
+0.0
+
+--
+
+--
+
+--
+
+--
+
+44.9
+
+14.8
+
+3.6
+
+19.3
+
+4.0
+
+(48.2)
+
+(3.5)
+
+(1.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+149.3
+
+151.5
+
+132.4
+
+Operating leases
+Capitalized interest
+Asset retirement
+obligations
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,284.2
+
+1,489.2
+
+197.5
+
+62.4
+
+45.5
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 12
+
+China Gold International Resources Corp. Ltd.
+
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b+
+
+• Group credit profile: bbb
+• Entity status within group: Highly strategic (+4 notches from SACP)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Metals And Mining Upstream Industry, Dec. 20, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 13
+
+China Gold International Resources Corp. Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 25, 2019)*
+China Gold International Resources Corp. Ltd.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+31-Aug-2017
+
+BBB-/Stable/--
+
+04-Aug-2015
+
+BBB-/Negative/--
+
+04-Jul-2014
+
+BBB-/Stable/--
+
+Related Entities
+China National Gold Group Co. Ltd.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 15
+
+

@@ -1,0 +1,1679 @@
+Axiata Group Bhd.
+Primary Credit Analyst:
+Yijing Ng, Singapore (65) 6216-1170; yijing.ng@spglobal.com
+Secondary Contact:
+Kah Ling Chan, Singapore (65) 6239-6336; kahling.chan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Group Influence
+Rating Above The Sovereign
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 1
+
+Table Of Contents (cont.)
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 2
+
+Axiata Group Bhd.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb+
+
+bbb+
+
+BBB+/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Solid position among the top three wireless telecommunications service
+providers in Malaysia and Indonesia.
+
+Elevated levels of investment to grow presence in emerging
+markets.
+
+Wide regional diversification with presence in mature and growing markets.
+
+Gradual increase in exposure to developing countries with high
+regulatory and political risk.
+
+Moderate leverage and supportive financial policy, encouraged by portfolio
+rationalization.
+
+Shelving of proposed merger with Telenor ASA (A/Watch Neg/A-1) has no impact on Axiata Group Bhd.
+(BBB+/Stable/--) rating. The rating on Axiata has been not predicated on the merger happening. Given the progress
+of merger talks, we expect Axiata to continue exploring other consolidation opportunities.
+Axiata's earnings and margins to recover moderately, with more rational competition in one of its main markets of
+Indonesia and increased contribution from emerging markets. Axiata's Indonesian operations are expected to benefit
+from lower competitive pressure. Contributions from subsidiaries in emerging markets will increase with the growth
+momentum of data consumption. Growth prospects in emerging markets somewhat mitigate limited longer-term
+growth in mature markets. Groupwide cost optimization is also expected to uplift adjusted EBITDA margin, which is
+estimated to widen to 39%-40%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 3
+
+Axiata Group Bhd.
+
+Chart 1
+
+Credit metrics will benefit from improved performance as well as portfolio rationalization. We estimate that Axiata's
+debt-to-EBITDA ratio will improve to about 2.2x-2.3x in fiscal 2020 from 2.5x in fiscal 2018. Besides performance
+improvement, portfolio rationalization with divestment of noncore assets is expected to allow some deleveraging and
+uplift in credit metrics. This is after the implementation of new lease accounting standards under the Malaysian
+Financial Reporting Standards (MFRS) 16, which had an adverse impact on the company's financial ratios.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 4
+
+Axiata Group Bhd.
+
+Outlook: Stable
+
+The stable outlook on Malaysia-based Axiata reflects our expectation that the company will maintain stable
+operating performance over the next 18-24 months. We project Axiata's debt-to-EBITDA ratio to not significantly
+exceed 2.0x on a sustained basis, while maintaining strong cash flows and balancing its investment outlays with
+dividends to shareholders.
+
+Downside scenario
+We may lower the rating if Axiata's financial strength significantly deteriorates, resulting in a debt-to-EBITDA ratio
+of significantly more than 2.0x on a sustained basis. This scenario could arise if: (1) Axiata makes material
+debt-funded investments or capital expenditure (capex) beyond our expectations; (2) its shareholder distributions
+significantly exceed our estimates; or (3) the company's operating performance weakens substantially.
+
+Upside scenario
+An upgrade is unlikely over the next 24 months. Nevertheless, we may raise the rating if Axiata moderates its
+acquisition growth strategy and commits to a conservative financial policy, such that the ratio of funds from
+operations (FFO) to debt exceeds 60% on a consistent basis. This also assumes that the company will maintain its
+competitive position.
+We may also raise the rating if Axiata significantly improves its competitive position in Malaysia.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 5
+
+Axiata Group Bhd.
+
+Assumptions
+
+• Malaysia's GDP growth to be 4.4% in 2019 and 4.5%
+in 2020. Indonesia's GDP growth to be 5.1% in 2019
+and 5.2% in 2020.
+• Moderate linkage of Axiata's overall revenue growth
+to individual country GDP growth, given its diverse
+regional footprint. We believe that local competitive
+dynamics in each individual market play a more
+integral role in the company's performance.
+• Group revenue to rise 3%-4% in fiscal 2019. This
+improvement is attributable to recovery in
+Indonesia's PT XL Axiata Tbk. (XL Axiata) and also
+supported by increased contribution from emerging
+markets. This mitigates degrowth in Malaysia's
+Celcom Axiata Bhd. (Celcom).
+
+Key Metrics
+
+2018A
+Debt/EBITDA (x)
+
+2019E
+
+2020E
+
+2.5 2.3-2.4 2.2-2.3
+
+FFO/Debt (%)
+
+28.7
+
+32-34
+
+35-37
+
+FOCF/Debt (%)
+
+(3.5)
+
+5-6
+
+8-9
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow: Cash flow from
+operations minus capital expenditures (plus or minus
+all applicable adjustments). All figures include S&P
+Global Ratings' adjustments.
+
+• Celcom to see moderate decline in revenue of
+4%-5% in fiscal 2019, with a decline in its subscriber
+base but a higher blended average revenue per user
+(ARPU). Thereafter, we expect slight decline of
+2%-3% in fiscal 2020.
+• XL Axiata's revenue to see higher growth of 5%-7%
+over the projection period, underpinned by more
+rational competition and expansion into ex-Java
+areas.
+• Reported EBITDA to improve to about 38% over the
+next two years due to groupwide cost optimization
+and higher contribution from emerging markets.
+• Elevated capital spending at about Malaysian ringgit
+(MYR) 6.6 billion-MYR6.8 billion in fiscal 2019 and
+MYR6.2 billion-MYR6.4 billion in fiscal 2020. This is
+to fund network improvement and rollout of new
+technologies in emerging markets. Capex is also
+expected to be higher in the digital and
+infrastructure arenas as the group grows these
+business verticals.
+• Dividend payouts that we estimate to be of
+approximately MYR900 million to MYR1 billion in
+fiscals 2019 and 2020. But we expect Axiata to lower
+payouts if there are more pressing cash needs.
+• Exclusion of potential payment of capital gains tax
+for Ncell--Axiata's mobile network operator in
+Nepal--due to material uncertainties still shrouding
+the potential payment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 6
+
+Axiata Group Bhd.
+
+Base-case projections
+We expect Axiata's cash flows to recover in fiscal 2019 and improve further in fiscal 2020. Moderating competition in
+one of its main markets of Indonesia is the main driver for growth over the projection period. We also expect
+investments made in emerging markets to reap rewards.
+Further portfolio rationalization with sale of noncore assets and deepening of investments in others, predominantly
+funded by debt. We expect Axiata to continue its practice of portfolio review to monetize noncore assets. The
+proceeds will be used to deepen investments in strategic assets. Capital spending is forecast to remain elevated to
+strengthen network and technology in emerging markets, increase the footprint of edotco (Axiata's regional
+telecommunications towers company), and grow digital assets.
+
+Company Description
+Axiata is a Malaysia-based telecommunications provider with operations in South and Southeast Asia (see table 1). In
+2018, it generated about MYR23.9 billion in revenue and MYR8.7 billion in adjusted EBITDA. The company was
+incorporated in 1992 as TM International Bhd. before changing its name to Axiata Group Bhd. in March 2009. Axiata
+is headquartered in Kuala Lumpur, Malaysia.
+Khazanah Nasional Bhd.--the Malaysian government's strategic investment fund--is the largest shareholder, with a 36%
+direct stake. As of Dec. 31, 2018, Axiata is approximately 72% owned by government-related entities such as
+Permodalan Nasional Bhd. and the Employees Provident Fund.
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 7
+
+Axiata Group Bhd.
+
+Chart 3
+
+Business Risk: Satisfactory
+Meaningful geographic diversification with a good mix of mature and high-growth markets providing core stability.
+Axiata has meaningful market shares in its various operating markets and is among the top three players in each
+market. Its operations are geographically diversified, with further diversification between mature and high-growth
+markets. This is expected to support overall stability.
+Table 1
+
+Axiata Group Bhd.'s Operations
+Group
+Company
+
+Country
+
+Sovereign Credit
+Rating (FC)
+
+Operation
+type
+
+Revenue market
+position
+
+Effective
+ownership (%)*
+
+Consolidation
+Treatment
+
+Celcom
+
+Malaysia
+
+A-/Stable/A-2
+
+Mobile
+
+#2
+
+100
+
+Full
+
+XL Axiata
+
+Indonesia
+
+BBB/Stable/A-2
+
+Mobile
+
+#2
+
+66.4
+
+Full
+
+Dialog
+
+Sri Lanka
+
+B/Stable/B
+
+Integrated
+
+#1
+
+83.3
+
+Full
+
+Robi
+
+Bangladesh
+
+BB-/Stable/B
+
+Mobile
+
+#2
+
+68.7
+
+Full
+
+Smart
+
+Cambodia
+
+Not rated
+
+Mobile
+
+#1
+
+72.5
+
+Full
+
+Ncell
+
+Nepal
+
+Not rated
+
+Mobile
+
+#1
+
+80
+
+Full
+
+Vodafone Idea
+
+India
+
+BBB-/Stable/A-3
+
+Integrated
+
+#1
+
+8.15
+
+Investment
+
+*Effective ownership as of Dec. 31, 2018. Source: S&P Global Ratings.
+
+For the quarter ended March 31, 2019, Celcom is the second-largest player. Among the three largest players, Celcom
+had 31% revenue market share--behind Maxis' 39% and just slightly ahead of Digi's 30%. We expect Celcom's revenue
+market share to remain within close range of Digi's over the next 24 months, while remaining behind Maxis'.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 8
+
+Axiata Group Bhd.
+
+We believe that Celcom's subscriber base will decline, with the decline in prepaid subscribers outpacing the increase in
+postpaid subscribers. This is against the backdrop of Malaysia's high mobile market penetration that limits organic
+growth. As of end-2018, Malaysia's mobile penetration rate was 130.2%. Nonetheless, we expect Celcom's continued
+focus on high-value customers to reap benefits in terms of higher ARPU. This partially offsets the decline in subscriber
+base, resulting in the expected 4%-5% decline in Celcom's revenue in fiscal 2019. However, Celcom's EBITDA is
+forecast to improve due to the absence of taxing promotional activities. Celcom dangled 100,000 free handsets in a
+2018 promotion to grow its subscriber base.
+Competition in Indonesia intensified in the earlier half of 2018, following a prepaid SIM registration exercise. Despite
+this, XL Axiata maintained its subscriber base while other operators such as PT Telekomunikasi Selular and PT Indosat
+Tbk. saw declines. XL Axiata overtook Indosat to become the second-largest player by revenue market share in 2018.
+We expect an increasing subscriber base and data migration to drive growth over the projection period. XL Axiata is
+anticipating subscriber base growth outside Java with the expansion of its 4G network. We expect XL Axiata to remain
+in second position over the next 18-24 months and for its lead over Indosat to widen.
+We believe contributions from emerging markets will grow and that Axiata will maintain leading positions. This is
+underpinned by expectations that Axiata will deepen investments in their networks and that these markets will see a
+strong growth momentum in data consumption.
+We also expect edotco's contribution to increase in 2019 due to more towers and managed sites. Given Axiata's plan
+to grow its tower infrastructure segment, we expect edotco's revenue to increase over the longer term with both
+acquisitive and organic growth.
+In our view, Axiata's presence in mature and emerging markets is strategic. The portfolio provides Axiata with both
+stability and growth potential. We estimate Axiata's growth to be an annualized 3%-4% in fiscals 2019 and 2020. With
+limited organic growth opportunities in its main markets, Axiata is looking to undertake groupwide cost optimization.
+Overall, we estimate adjusted EBITDA to recover to the range of 39%-40% from 36.4% in 2018.
+However, we believe Axiata's increasing exposure to higher-risk noninvestment-grade countries may temper the
+benefits of diversification to some extent. In our view, these countries have higher risk of currency depreciation,
+political uncertainty, regulatory risk, weaker macroeconomic conditions, and competitive pressure. Apart from Ncell's
+capital tax issue in Nepal, we currently do not foresee any material regulatory risk for Axiata.
+
+Peer comparison
+Table 2
+
+Axiata Group Bhd.--Peer Comparison
+Industry sector: Pure wireless companies
+Axiata Group
+Bhd.
+
+Advanced Info Service
+Public Co. Ltd.
+
+Singapore Telecommunications
+Ltd.
+
+Telekom Malaysia
+Bhd.
+
+--Fiscal year ended-Dec. 31, 2018
+
+Dec. 31, 2018
+
+March 31, 2019
+
+Dec. 31, 2018
+
+5,775.7
+
+5,254.5
+
+12,850.8
+
+2,858.0
+
+(Mil. $)
+Revenues
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 9
+
+Axiata Group Bhd.
+
+Table 2
+
+Axiata Group Bhd.--Peer Comparison (cont.)
+EBITDA
+
+2,099.7
+
+2,433.9
+
+4,836.4
+
+889.9
+
+FFO
+
+1,519.3
+
+2,089.0
+
+3,919.5
+
+705.7
+
+Interest expense
+
+330.9
+
+195.6
+
+420.9
+
+142.1
+
+Cash interest paid
+
+304.2
+
+135.7
+
+415.2
+
+137.3
+
+Cash flow from operations
+
+1,558.8
+
+2,149.8
+
+3,866.6
+
+697.1
+
+Capital expenditures
+
+1,743.7
+
+624.8
+
+1,268.3
+
+547.3
+
+Free operating cash flow
+
+(184.9)
+
+1,525.0
+
+2,598.3
+
+149.8
+
+Discretionary cash flow
+
+(391.8)
+
+849.0
+
+466.6
+
+37.6
+
+Cash and short-term
+investments
+
+1,191.5
+
+280.5
+
+378.5
+
+667.0
+
+Debt
+
+5,296.4
+
+6,049.8
+
+9,155.4
+
+1,777.3
+
+Equity
+
+5,613.4
+
+1,784.0
+
+22,006.2
+
+1,696.4
+
+EBITDA margin (%)
+
+36.4
+
+46.3
+
+37.6
+
+31.1
+
+Return on capital (%)
+
+1.1
+
+18.0
+
+9.7
+
+10.5
+
+EBITDA interest coverage (x)
+
+6.3
+
+12.4
+
+11.5
+
+6.3
+
+FFO cash interest coverage
+(x)
+
+6.0
+
+16.4
+
+10.4
+
+6.1
+
+Debt/EBITDA (x)
+
+2.5
+
+2.5
+
+1.9
+
+2.0
+
+FFO/debt (%)
+
+28.7
+
+34.5
+
+42.8
+
+39.7
+
+Cash flow from
+operations/debt (%)
+
+29.4
+
+35.5
+
+42.2
+
+39.2
+
+Free operating cash flow/debt
+(%)
+
+(3.5)
+
+25.2
+
+28.4
+
+8.4
+
+Discretionary cash flow/debt
+(%)
+
+(7.4)
+
+14.0
+
+5.1
+
+2.1
+
+Adjusted ratios
+
+We view Singapore Telecommunications Ltd. (Singtel; A+/Negative/A-1) as a peer because it is a regionally
+diversified telco as well. Although Telekom Malaysia Bhd. (A-/Stable/--) has predominantly fixed-line operations as
+compared to Axiata's predominantly mobile operations, it is viewed as a peer due to its operations in Malaysia and its
+similar shareholding by the Malaysian government. We also view Thailand-based Advanced Info Service Public Co.
+Ltd. (AIS; BBB+/Stable/--) as a peer due to its predominantly mobile operations.
+Compared with Singtel, Axiata has a smaller scale of operations and narrower focus on wireless services. Singtel's
+revenue of US$13 billion is more than twice of Axiata's US$5.8 billion. Singtel is comparatively more diversified in
+fixed-line and digital services. Its mobile subsidiaries and associates also have better market positions that those of
+Axiata's. These factors lead to Singtel's comparatively stronger portfolio.
+Telekom Malaysia's business benefits from its entrenched almost-monopolistic position in Malaysia's fixed-line
+telecommunications services. It is also the Malaysian government's partner to further the latter's plans for the
+telecommunications industry. In this aspect, Axiata is comparatively weaker. While Axiata's entities are among the
+leading players in their respective markets, it does not enjoy similar monopolistic benefits. Instead, it faces strong
+competition in its oligopolistic main markets of Malaysia and Indonesia.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 10
+
+Axiata Group Bhd.
+
+Although AIS operates only in Thailand, its business strength is similar to Axiata's--because both have similar revenue
+sizes. While AIS operates in a competitive environment with two other incumbents, it has demonstrated a resilient and
+meaningful lead in its revenue market share.
+Within the peer group, Axiata is the most leveraged while Singtel is the least leveraged despite both companies being
+regionally diversified. Axiata's high leverage is due to its acquisitive growth strategy. Axiata's higher debt is also a
+function of its portfolio strategy, where it holds majority stakes in most of its mobile operations--with the exception of
+Vodafone Idea Ltd., an Indian telecommunications operator. Resultantly, Axiata consolidates the debt of its regional
+subsidiaries. In contrast, Singtel only has majority stakes in its telco operations in Singapore and Australia. With
+minority stakes in its regional associates, they are equity-accounted for and Singtel does not add their debt to its
+consolidated balance sheet. AIS' debt-to-EBITDA ratio is just marginally lower than Axiata's, despite AIS' geographical
+concentration. AIS' high leverage is due to high spectrum costs in Thailand.
+
+Financial Risk: Modest
+Steady cash flows are expected to continue. Proceeds from portfolio optimization will help to fund capex in strategic
+operations. Axiata's cash flows declined in fiscal 2018, mainly due to increased competition in its main markets and
+also due to unfavorable currency movements. Over the projection period, we expect recovery in its cash flows, backed
+by recovery in one of its main markets of Indonesia. Cost optimization efforts will also help to uplift cash flows.
+We opine that Axiata is committed to keeping modest leverage. Axiata maintains its well-articulated policy to keep the
+ratio of reported gross debt to EBITDA below 2.5x. While its debt-to-EBITDA ratio deteriorated in fiscal 2018 with
+weakened business performance, proceeds from the sale of Singapore mobile operator M1 Ltd. in early 2019 provided
+cushion to its credit metrics. Axiata also decreased its dividend payouts in 2016 and 2017 to conserve cash. This
+cushioned the cash outflows resulting from the acquisition of Ncell and amid significant foreign exchange volatility.
+Despite these efforts, we estimate that Axiata's ratio of debt to EBITDA will remain high in fiscal 2019 at 2.3x-2.4x.
+This is mainly due to the implementation of MFRS 16, which resulted in the recognition of a larger-than-expected
+amount of lease obligations. However, we expect Axiata's more conservative policies and recovery in performance to
+translate into improvement in its ratio of debt to EBITDA in the following years. We expect the ratio to improve to
+2.2x-2.3x in fiscal 2020 and further to 2.1x-2.2x in fiscal 2021.
+Axiata's capex is expected to remain elevated as the company continues to deploy 3G/4G technologies and improve
+networks in emerging markets. Furthermore, we also expect capital spending to remain high in growing its digital and
+tower infrastructure segments.
+Other than the sale of M1, Axiata also reduced its effective shareholding in Vodafone Idea. We see reductions in these
+nonstrategic investments as credit-positive as we do not expect meaningful value accretion from these holdings. Funds
+can be channeled into deleveraging to better position Axiata to seize strategic investment opportunities.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 11
+
+Axiata Group Bhd.
+
+Table 3
+
+Axiata Group Bhd.--Financial Summary
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. MYR)
+Revenues
+
+23,885.8 24,402.4 21,565.4 19,883.5 18,711.8
+
+EBITDA
+
+8,683.3
+
+9,665.3
+
+8,409.6
+
+7,779.0
+
+7,433.3
+
+FFO
+
+6,283.4
+
+7,557.8
+
+6,436.7
+
+6,375.9
+
+5,724.1
+
+Interest expense
+
+1,368.4
+
+1,362.1
+
+1,295.5
+
+916.5
+
+823.4
+
+Cash interest paid
+
+1,258.2
+
+1,376.9
+
+1,228.0
+
+593.7
+
+800.8
+
+Cash flow from operations
+
+6,446.4
+
+6,301.8
+
+7,245.1
+
+6,818.1
+
+6,048.2
+
+Capital expenditures
+
+7,211.1
+
+5,013.4
+
+6,447.3
+
+5,041.1
+
+3,657.3
+
+Free operating cash flow
+
+(764.8)
+
+1,288.3
+
+797.8
+
+1,777.0
+
+2,390.8
+
+Divdends paid
+Discretionary cash flow
+Cash and short-term investments
+
+855.4
+
+494.4
+
+982.6
+
+734.1
+
+1,949.7
+
+(1,620.2)
+
+794.0
+
+(184.8)
+
+1,042.9
+
+101.4
+
+4,927.7
+
+6,640.2
+
+4,918.2
+
+5,336.6
+
+5,036.9
+
+Debt
+
+21,903.8 18,441.0 22,758.9 14,549.8 12,043.7
+
+Equity
+
+23,214.7 30,504.6 28,620.2 25,724.3 22,557.8
+
+Adjusted ratios
+EBITDA margin (%)
+
+36.4
+
+39.6
+
+39.0
+
+39.1
+
+39.7
+
+Return on capital (%)
+
+1.1
+
+6.2
+
+6.0
+
+12.0
+
+12.5
+
+EBITDA interest coverage (x)
+
+6.3
+
+7.1
+
+6.5
+
+8.5
+
+9.0
+
+FFO cash interest coverage (x)
+
+6.0
+
+6.5
+
+6.2
+
+11.7
+
+8.1
+
+Debt/EBITDA (x)
+
+2.5
+
+1.9
+
+2.7
+
+1.9
+
+1.6
+
+FFO/debt (%)
+
+28.7
+
+41.0
+
+28.3
+
+43.8
+
+47.5
+
+Cash flow from operations/debt (%)
+
+29.4
+
+34.2
+
+31.8
+
+46.9
+
+50.2
+
+Free operating cash flow/debt (%)
+
+(3.5)
+
+7.0
+
+3.5
+
+12.2
+
+19.9
+
+Discretionary cash flow/debt (%)
+
+(7.4)
+
+4.3
+
+(0.8)
+
+7.2
+
+0.8
+
+MYR--Malaysian ringgit.
+
+Liquidity: Adequate
+We consider Axiata to have adequate liquidity because we expect the company's sources of liquidity to exceed its uses
+by about 1.24x over the 12 months to June 30, 2019. Given Axiata's sizable cash balances and manageable refinancing
+over that period, we estimate that Axiata would be able to service its maturing debt, capital spending, and dividends
+using its sources of liquidity even if EBITDA falls by 15%.
+In our view, Axiata benefits from strong relationships with regional banks and has a good standing in credit markets,
+given its size and operating record. We believe the company has generally prudent financial policies and risk
+management to manage the impact of potentially negative events.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 12
+
+Axiata Group Bhd.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of MYR5.4 billion as of
+June 30, 2019.
+
+• Debt maturities of MYR5.1 billion over the next 12
+months.
+
+• Committed undrawn bank lines of about MYR830
+million, which will mature in May 2020. However,
+we expect these facilities to be renewed on a timely
+basis.
+
+• Estimated maintenance capex of about MYR5.5
+billion.
+• Estimated cash dividend payment of MYR950
+million over the next 12 months.
+
+• Estimated FFO of MYR8 billion over the next 12
+months to June 2020.
+
+Debt maturities
+Table 4
+
+Axiata Group Bhd.--Debt maturities*
+Amount (MYR bil.)
+2019
+
+4.719
+
+2020
+
+6.575
+
+2021
+
+1.933
+
+2022
+
+1.469
+
+2023
+
+2.498
+
+After 2023
+
+3.903
+
+MYR--Malaysian ringgit.
+
+Covenant Analysis
+Axiata does not have financial covenants at the holding company level. However, many of its operating subsidiaries
+have financial covenants. We expect them to remain in compliance. While not all covenants are publicly disclosed,
+certain ratios (debt to assets, EBITDA interest coverage, and debt to EBITDA) are required to be met.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 13
+
+Axiata Group Bhd.
+
+Environmental, Social, And Governance
+
+Axiata is exposed to regulatory risks, particularly in its emerging market operations. For example, Axiata operates
+in Nepal through Ncell. It was given full clearance by the Large Taxpayers Office of Nepal (LTO) after it paid
+capital gains tax in 2017, following its purchase of Ncell. However, the LTO brought further claims in April 2019,
+which Axiata is contesting. Currently, we do not foresee any other material regulatory risk. But if Axiata increases
+its presence in emerging markets, we consider increased regulatory risks to be inevitable.
+Axiata has undertaken initiatives to increase energy efficiency and reduce carbon emission by constructing
+bamboo telecommunication towers in Bangladesh and installing green energy sites. edotco is deploying more
+bamboo towers in Bangladesh and is also looking to bring bamboo towers to its other markets. Axiata's installation
+of green energy sites involves converting existing sites to use alternative sources of energy for power, instead of
+diesel.
+
+Group Influence
+Our view that there is a moderate likelihood of extraordinary government support from the Malaysian government
+through its sovereign national fund (Khazanah) is based on:
+• Strong link with the government. Axiata is approximately 72% owned by government-related entities. Khazanah is
+the single largest shareholder. In our view, the government of Malaysia can influence Axiata's strategic and
+operating decisions through its holdings.
+• Limited importance in terms of role to the government, given Axiata's significant diversification beyond Malaysia
+and its role in the highly competitive domestic wireless telecommunications industry.
+We believe Axiata has a moderate likelihood of extraordinary government support in situations of financial stress.
+However, the rating on the company does not receive any notch-up benefit from its relationship with the Malaysian
+government at the current rating level.
+
+Rating Above The Sovereign
+We believe our rating on Axiata is not constrained by the sovereign credit rating on Indonesia (BBB/Stable/A-2),
+where it has significant assets and operations. Axiata generates about 30% of its revenue and EBITDA from Indonesia.
+We believe Axiata will maintain adequate liquidity to meet its foreign currency obligation even in a hypothetical
+sovereign stress scenario for Indonesia, assuming no cash flows from the Indonesian operations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 14
+
+Axiata Group Bhd.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Axiata's capital structure as of Dec. 31, 2018, consists of approximately MYR920 million in secured debt and
+approximately MYR18.2 billion in unsecured debt.
+About 7.7% of the total debt is held directly by Axiata while 6.6% pertains to fixed-rate guaranteed notes held by
+Axiata's wholly owned subsidiary Axiata SPV1 (Labuan) Ltd. About 21.9% of total debt pertains to the rated
+multicurrency Sukuk program held by Axiata's wholly owned subsidiary Axiata SPV2 Bhd. The program has no
+financial maintenance covenants.
+
+Analytical conclusions
+Despite the predominance of structurally senior claims at the operating company level, we rate Axiata's senior
+unsecured debt 'BBB+'--the same as our long-term issuer credit rating on the company. This reflects our view that
+Axiata's leverage is low, which limits the possibility of senior unsecured debt holders being significantly disadvantaged
+relative to other lenders. All else equal, if Axiata's financial position were to weaken--with the ratio of priority debt
+(secured debt and debt at the operating subsidiaries level) to total debt remaining over 50%-- we would typically rate
+unsecured debt one notch below the long-term issuer credit rating.
+
+Reconciliation
+Table 5
+
+Reconciliation Of Axiata Group Bhd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+MYR)
+--Fiscal year ended Dec. 31, 2018-Axiata Group Bhd. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+19,129.8
+
+17,476.8
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+8,334.1
+
+689.3
+
+1,272.4
+
+8,683.3
+
+5,969.8
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,141.8)
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(1,176.6)
+
+--
+
+1,276.4
+
+--
+
+244.0
+
+81.6
+
+81.6
+
+(81.6)
+
+162.4
+
+60.3
+
+--
+
+(3.1)
+
+(3.1)
+
+6.6
+
+--
+
+--
+
+(3,695.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+10.3
+
+--
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+90.2
+
+--
+
+--
+
+--
+
+--
+
+365.5
+
+--
+
+7.8
+
+7.8
+
+7.8
+
+--
+
+--
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Asset retirement obligations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 15
+
+Axiata Group Bhd.
+
+Table 5
+
+Reconciliation Of Axiata Group Bhd. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+MYR) (cont.)
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+(3,562.3)
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+314.1
+
+Noncontrolling
+interest/minority interest
+
+--
+
+5,737.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Finance leases
+
+3,094.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Put options on minority
+stakes
+
+1,673.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3,319.2
+
+--
+
+--
+
+--
+
+2,774.1
+
+5,737.9
+
+349.2
+
+(156.9)
+
+96.0
+
+(2,400.0)
+
+476.5
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+6,283.4
+
+6,446.4
+
+EBIT: Other
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+21,903.8
+
+23,214.7
+
+8,683.3
+
+532.5
+
+1,368.4
+
+MYR--Malaysian ringgit.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 16
+
+Axiata Group Bhd.
+
+Stand-alone credit profile : bbb+
+
+• Related government rating: A
+• Likelihood of government support: Moderate (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• Criteria - Corporates - Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• General Criteria: Methodology For Rating Sukuk, Jan. 19, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Ratings Above The Sovereign--Corporate And Government Ratings: Methodology And
+Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 17
+
+Axiata Group Bhd.
+
+Ratings Detail (As Of September 13, 2019)*
+Axiata Group Bhd.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Issuer Credit Ratings History
+30-Sep-2013
+
+BBB+/Stable/--
+
+07-May-2012
+
+BBB/Positive/--
+
+28-Jul-2011
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 18
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 19
+
+

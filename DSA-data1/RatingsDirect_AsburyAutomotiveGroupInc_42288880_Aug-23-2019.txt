@@ -1,0 +1,546 @@
+Asbury Automotive Group Inc.
+Primary Credit Analyst:
+Lawrence Orlowski, CFA, New York (1) 212-438-7800; lawrence.orlowski@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 1
+
+Asbury Automotive Group Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb+
+
+bb+
+BB+/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Resilient business model with diverse revenue streams. Competitive pricing environment.
+Lean operating cost structure.
+
+Some exposure to cyclical new vehicle sales.
+
+Consistent free operating cash flow.
+
+Less geographically diverse than larger public peers.
+
+Asbury Automotive Group Inc.'s business model has diverse revenue streams, which should partially offset the risk of a
+decline in new car sales. As an auto retailer, Asbury's revenue sources include sales of new and used vehicles, parts
+and services, and finance and insurance products. While most revenue comes from vehicle sales, parts and services
+(P&S) contributes over 45% of gross profit. This model has the beneficial effect of providing recurring revenue and acts
+as a stabilizing force, which is especially helpful during economic downturns.
+Asbury has a lean cost structure and is well positioned to navigate profit pressures arising from declining vehicle
+demand or the effect of rising prices. Selling, general, and administrative (SG&A) expenses as a percentage of gross
+profit were 68% in the second quarter, the lowest among rated public auto retailers. In that quarter, the company
+benefited from favorable business mix, volume growth, and lower costs from omnichannel initiatives. However,
+increased omnichannel investments will likely raise SG&A expenses in the second half of 2019. Still, the company's
+efficient cost structure will help it navigate declining new vehicle demand due to falling consumer confidence or
+original equipment manufacturer (OEM) incentives. Moreover, increasingly competitive wage rates to compete for
+trained technicians could limit sales and compress margins for the profitable P&S business.
+The company has pursued a prudent mergers and acquisitions strategy.Management has a track record of making
+acquisitions that can deliver comparable operating margins and be purchased at reasonable prices. The focus is not on
+size for its own sake, but the return to shareholders.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 2
+
+Asbury Automotive Group Inc.
+
+Outlook: Stable
+
+Our stable outlook on Asbury reflects our assumption that its current level of profitability is sustainable, its debt
+leverage will remain below 4x, and that its free operating cash flow (FOCF)-to-debt ratio will stay above 10%.
+
+Downside scenario
+We could lower our rating if we believe Asbury's profitability will decline, reflecting an unexpected negative trend
+in its business operations. We could also lower the rating if, for instance, higher-than-expected capital spending on
+dealer upgrades leads Asbury's FOCF-to-debt ratio to fall below 10% on a sustained basis, or if the company
+increases its debt leverage above 4x to fund a dividend payout, share repurchase, or acquisitions.
+
+Upside scenario
+Asbury would need to maintain debt leverage of 3x or less and an FOCF-to-debt ratio of 15% or better for us to
+raise our rating. We would also need to believe the company would employ a moderate financial policy going
+forward that balances shareholder expectations for revenue growth (and share repurchases) with the credit quality
+consistent with a higher rating.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 3
+
+Asbury Automotive Group Inc.
+
+Assumptions
+
+• U.S. sales of new light vehicles of 16.7 million units
+in 2019 and 16.5 million units in 2020, partly
+because of falling used car prices. This is somewhat
+offset by low U.S. unemployment and an average
+vehicle age of over 11 years.
+• The U.S. economy continues its slow and steady
+recovery, with a baseline forecast of 2.5% GDP
+growth in 2019 and 1.8% in 2020.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+2021E
+
+Debt to EBITDA (x)
+
+2.8 3.0-3.5 3.0-3.5 3.0-3.5
+
+EBITDA margin (%)
+
+5.1 4.5-5.0 4.5-5.0 4.5-5.0
+
+FOCF to debt (%)
+
+21.4
+
+15-20
+
+10-15
+
+10-15
+
+A--Actual. E--Estimated. FOCF--Free operating cash
+flow.
+
+• Revenue growth between 0% and 5% for 2019 and
+2020.
+• Capital expenditures between 1% and 2% of revenue
+annually.
+• Acquisitions of dealerships and real estate of $75
+million-$100 million in 2019, funded with FOCF, the
+revolving acquisition credit line, or mortgage debt.
+• Reported FOCF of over $100 million or more
+annually.
+• Share repurchases of about $50 million in 2019.
+
+Base-case projections
+Our base-case projections for 2019 and 2020 assume debt to EBITDA metric at or below 3.0x and FOCF to debt
+between 10% and 15%.
+
+Company Description
+Asbury is one of the largest automotive retailers in the U.S, owning and operating 105 new vehicle franchises at 86
+dealership locations and 24 collision centers.
+
+Business Risk: Satisfactory
+Although Asbury's P&S business generated only 11.9% of its revenue in 2018, it contributed 46.8% of the company's
+gross profits. In addition, while the firm's finance and insurance (F&I) segment generated just 4.3% of its 2017 revenue,
+it generated 26.5% of its gross profits. On the other hand, new and used vehicle sales were responsible for 55.1% and
+28.7% of Asbury's 2018 sales, but contributed only 15.0% and 11.7% of gross profits, respectively. While the
+company's new and used vehicle sales segments are more volatile and have lower margins, the recurring nature of its
+P&S and F&I sales and their higher margins help mitigate the impact of industry downturns.
+The key economic factors for automotive retailers, particularly new vehicle unit sales, include general economic
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 4
+
+Asbury Automotive Group Inc.
+
+conditions such as consumer confidence, consumer discretionary spending levels, interest rates, fuel prices,
+unemployment rates, and consumer credit availability. Luxury brands accounted for about 33% of Asbury's 2018 new
+vehicle sales and we believe luxury vehicle buyers are less sensitive to overall economic conditions than buyers of
+mid-line import and domestic vehicles. The company's significant luxury sales mix somewhat mitigates the effect of
+economic downturns. Non-luxury imports were 47% of sales, and domestic models accounted for 20%.
+At the same time, Asbury, like other auto retailers, has weak pricing power because it depends on a few large
+manufacturers and operates in the fragmented and competitive U.S. light vehicle marketplace. Moreover, the
+company's operations are concentrated in the southern U.S., which adds some operating risk because Florida accounts
+for about 36% of the company's new vehicle sales.
+Increases in U.S. new light vehicle sales benefit retailers because increased showroom traffic boosts both vehicle sales
+and F&I revenues, and eventually benefits their highly profitable P&S businesses. New vehicle traffic also often
+provides retailers with trade-in vehicles to sell.
+Asbury has invested in online capabilities and digital marketing to improve the customer buying experience. In the
+past few years, the company has launched online sales tools that allow customers to buy a vehicle and select financing
+alternatives from several lenders. It has also created a guest experience center where sales specialists manage
+customer interactions either online or by telephone. Service kiosks speed up the buying process and customers can
+track their sales process online.
+
+Financial Risk: Significant
+Our assessment of Asbury's financial risk reflects our view that the company will generate positive discretionary free
+cash flow in 2019 and 2020. We expect Asbury will have manageable capital spending and working capital needs,
+combined with tightly controlled SG&A, which should allow it to consistently generate cash.
+We expect Asbury's management to pursue a financial policy that balances business expansion and shareholder
+returns against the need to maintain leverage appropriate for the rating. As of year-end 2018, Asbury had a
+debt-to-EBITDA metric of 2.8x and an FOCF-to-debt ratio of over 21.4%. Our base-case projections assume the
+company's debt-to-EBITDA metric will stay around 3.0x and FOCF-to-debt ratio will remain between 10% and 15% in
+2019 and 2020.
+Auto retailers make heavy use of floorplan loans to finance their vehicle inventory. We consider auto retailers'
+floorplan borrowings as more akin to trade payables than to debt because of the borrowings' indefinite maturities, high
+loan-to-value ratios, widespread availability, and long-established manufacturer subsidies that largely offset borrowing
+costs. As a result, we believe Asbury's discretionary and periodic use of cash to pay down its floorplan borrowings to
+reduce its interest expense could cause operating cash flow to turn negative.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 5
+
+Asbury Automotive Group Inc.
+
+Liquidity: Adequate
+We view Asbury's liquidity as adequate. Our assessment incorporates the following expectations and assumptions:
+• We expect the company's sources of liquidity, including cash and facility availability, to exceed uses by 1.2x or more
+over the next 12-18 months;
+• We expect the company's net sources to remain positive even if its EBITDA declines by as much as 15%;
+• Compliance with financial covenants could survive a 15% drop in EBITDA, in our view; and
+• Because of Asbury's diverse revenue stream and highly variable cost structure, we believe that it could absorb a low
+probability, high-impact event with limited need for financing.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Availability of about $187.5 million under its $900
+million new vehicle floor plan facility;
+
+• About $60 million of annual capital expenditures in
+2019 through 2020, excluding the purchase of real
+estate, which we view as manageable because most
+of the spending is for dealer store upgrades;
+
+• Availability under its used vehicle floorplan facility
+($150 million) subject to $116.2 million borrowing
+base;
+• Availability totaling $47.3 million under its $250
+million revolving credit facility for acquisitions,
+working capital, and general corporate purposes,
+after accounting for $12.7 million letters of credit
+and $190 million currently designated to its new
+vehicle floor plan facility;
+• Cash and cash equivalents of $9.6 million and a
+floorplan offset account balance of $87.4 million,
+which we view as fairly liquid because this cash is
+available to Asbury upon request within two days;
+
+• Share repurchases totaling over $50 million in 2019
+and no shareholder dividend payments;
+• We estimate Asbury will spend about $100
+million-$150 million to acquire dealerships in 2019;
+and
+• We expect Asbury, which now owns over 70% of its
+stores, will continue to buy out leases on an
+opportunistic basis.
+
+• We believe Asbury can generate FOCF of over $150
+million in 2019;
+• We do not expect any significant cash from future
+asset sales to bolster cash balances or reduce debt;
+and
+• We assume proceeds from any dealership sales will
+likely be reinvested in acquiring new dealerships.
+
+Covenant Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 6
+
+Asbury Automotive Group Inc.
+
+Compliance expectations
+Asbury was in compliance with the covenants under its credit facilities as of June 30, 2019, and we expect that it will
+remain so through 2019 and into 2020.
+
+Requirements
+The covenants on the company's credit facilities include a required consolidated current ratio of 1.10x or greater
+through the remainder of the term of the facilities, a fixed-charge coverage ratio of greater than or equal to 1.2x, and a
+total lease-adjusted leverage ratio of less than or equal to 5.75x.
+
+Environmental, Social, And Governance
+
+Asbury does not face the demands of designing and manufacturing vehicles that comply with air emissions
+regulations, and therefore its environmental responsibilities are more circumscribed that those of automakers or
+parts suppliers. Still, the company is subject to a wide range of environmental laws and regulations, including those
+governing discharges into water, air emissions, and the storage and disposal of hazardous or toxic wastes.
+The company requires appropriate levels of insurance to cover claims from employees, customers, and third
+parties regarding personal injury and property losses arising in the course of its business. Based on available
+information, we believe Asbury operates in compliance with existing environmental laws and regulations and that
+there are no material liabilities that would hurt its financial performance and condition.
+We see Asbury's management and governance as satisfactory, reflecting consistent operational performance and
+management's demonstrated industry expertise.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+Our simulated default scenario assumes a payment default in 2024, reflecting a sustained U.S. economic downturn,
+sharp increases in fuel costs leading to a pronounced shift in customer preference toward smaller vehicles, and less
+attractive inventory financing terms as a result of rising interest rates and reduced interest credits from automotive
+manufacturers.
+Other key default assumptions include: an increase in LIBOR to 350 basis points, a 60% drawn revolver at default, and
+other priority claims including mortgages and fleet financing totaling $1.1 billion at default.
+
+Simulated default assumptions
+• Simulated year of default: 2024
+• EBITDA at emergence: $120 million
+• EBITDA multiple: 5x
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 7
+
+Asbury Automotive Group Inc.
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $1.32 billion
+• Valuation split (obligors/nonobligors): 100%/0%
+• Priority claims: $1.18 billion
+• Collateral value available to secured creditors: $137 million
+• Total value available to unsecured claims: $137 million
+• Structurally subordinated debt: $618 million
+• --Recovery expectations: 10%-30% (rounded estimate: 20%)
+All debt amounts include six months of prepetition interest. Collateral value equals asset pledge from obligors after
+priority claims plus equity pledge from nonobligors after nonobligor debt.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral
+• Financial policy: Neutral
+• Liquidity: Adequate
+• Management and governance: Satisfactory
+• Comparable rating analysis: Neutral
+Stand-alone credit profile : bb+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 8
+
+Asbury Automotive Group Inc.
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of August 21, 2019)*
+Asbury Automotive Group Inc.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Subordinated
+
+BB
+
+Issuer Credit Ratings History
+02-Jun-2015
+
+BB+/Stable/--
+
+14-Apr-2014
+
+BB/Positive/--
+
+14-Mar-2013
+
+BB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 21, 2019 10
+
+

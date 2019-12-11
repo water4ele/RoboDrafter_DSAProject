@@ -1,0 +1,512 @@
+24 Hour Fitness Worldwide Inc.
+Primary Credit Analyst:
+Adam J Odland, Centennial (1) 303-721-4664; adam.odland@spglobal.com
+Secondary Contact:
+Emile J Courtney, CFA, New York (1) 212-438-7824; emile.courtney@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+24 Hour Fitness Worldwide Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Clustering strategy in densely populated areas.
+
+Competitive fitness club space creates high levels of customer attrition inherent in the
+industry.
+
+Good interest coverage for the highly leveraged financial
+risk score.
+
+AEA Investors', Fitness Capital Partners' and Teachers' Private Capital's majority
+ownership of the company.
+
+Good geographic diversity and solid market position.
+
+Exposure to high operating leverage from fixed cost operating leases.
+
+Clustering strategy in seven densely populated areas provides benefits to the company. Approximately three quarters of
+clubs are located within clusters in four metropolitan areas in California, Dallas, Houston, and Denver. This strategy
+provides the company with numerous benefits, including scaling of advertising and advantageous labor access in
+populated areas, as well as strengthening brand recognition and market share. In addition, this strategy can increase
+convenience for its member base by increasing the chances a club is located near a member's work and home.
+The fitness club industry is highly competitive, negatively affecting attrition rates.24 Hour operates in the highly
+competitive fitness club industry, which has low barriers to entry and high customer attrition rates. The company has a
+high average monthly attrition rate, currently averaging about 3.7% in the first half of 2019, because the company faces
+increasing competitive pressures from boutique studios, no-frills clubs, and luxury clubs. As a result, customers may
+choose more budget-friendly alternatives with fewer services or high-end alternatives with more services.
+Good geographical diversification helps mitigate exposure to regional economic risk.As of June 30, 2019, the company
+operated 445 clubs in 13 states and 23 markets primarily in suburban areas. Club locations spanning across the West
+Coast to the Southeast provide a strong geographical footprint and a solid market position, which modestly offsets
+risks associated with region-specific economic deterioration. On the other hand, with approximately half of total clubs
+located in California, statewide minimum wage increases through 2022 might negatively affect operating income.
+Financial risk is elevated due to financial sponsor ownership, and significant operating leases expose the company to
+high operating leverage. Our financial risk assessment incorporates financial sponsor ownership and the impact on the
+company's cash-flow activities. AEA Investors', Fitness Capital Partners' and Teachers' Private Capital's majority
+ownership of 24 Hour creates risks because we believe that, over time, financial sponsors tend to engage in leveraging
+transactions to fund distributions to shareholders. In addition, financial risk reflects our expectation that lease-adjusted
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+24 Hour Fitness Worldwide Inc.
+
+debt to EBTIDA will be highly leveraged. Significant operating leases can cause EBITDA margin to deteriorate in times
+of revenue decline as a result of high fixed-rent costs associated with the leases.
+
+Outlook: Stable
+
+Our rating outlook is stable despite a modest anticipated decline in comparable club revenue and EBITDA margin
+through 2020. This is mostly because we expect incremental EBITDA from newly opened clubs will partly offset
+leverage from newly executed operating leases and cause our measure of adjusted leverage to be about flat
+through 2020. We expect operating lease-adjusted debt to EBTIDA in the mid-6x area and EBITDA interest
+coverage in the low-2x through 2020. Our stable outlook also reflects our expectation that the company's sponsors
+will not engage in transactions that will meaningfully increase leverage over the next two years.
+
+Downside scenario
+We could lower the ratings if lease adjusted debt to EBITDA were sustained above 7x or if EBITDA coverage of
+interest expense declined to the 1.5x area as a result of an operating performance that underperformed our
+expectation or a leveraging transaction. We would also consider lowering the ratings if 24 Hour became unable to
+internally fund its growth initiatives or increase leverage meaningfully to fund distributions to shareholders.
+
+Upside scenario
+Higher ratings are unlikely over the next two years, given our expectation that the company will maintain an
+aggressive position toward club expansion and that operating lease-adjusted debt to EBITDA will be in the mid-6x
+area through 2020. However, we could raise the rating by one notch if we believed that adjusted debt to EBITDA
+would remain below 5.5x. A higher rating would also depend on our expectation that AEA, Fitness Capital
+Partners, and Teachers' Private Capital would not engage in any significant leveraging transactions and that the
+company would fund expansion through internally generated funds, such that adjusted leverage would be
+sustained below the 5.5x threshold.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+24 Hour Fitness Worldwide Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth of 2.2% and 1.7% in 2019 and
+2020, respectively.
+• Growth in U.S consumer spending of 2.5% and 2%
+in 2019 and 2020, respectively.
+• Comparable club revenue will continue to decline
+slightly through 2020.
+
+2018A
+
+2019E
+
+2020E
+
+Adj. debt/EBITDA (x)
+
+6.6
+
+Mid-6
+
+Mid-6
+
+Adj. FFO/debt (%)
+
+8.5 About 8.5 About 8.5
+
+Adj. EBITDA interest coverage (x)
+
+2.3
+
+Low 2
+
+Low 2
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• EBITDA margin will be negatively affected in 2019
+due to increased rent and labor-related costs but
+improve slightly in 2020.
+• Average member count increases in 2019 and 2020
+as a result of nine newly opened clubs net of
+closures in 2018 and double-digit club openings in
+2019.
+• Total revenue grows in the low-single digits in 2019
+and 2020, driven by openings of new clubs.
+
+Base-case projections
+Comparable club revenue will continue to decline slightly. Revenue generated by clubs operating for 13 or more
+consecutive months grew in 2018, but experienced a decline in the first half of 2019. A 2018 announcement of
+personal training price increases effective in 2019 shifted a portion of ancillary revenue to late 2018. We expect
+declining comparable club revenue in 2019 due to increased attrition through the second quarter, but partially
+mitigated by membership price increases.
+New club openings drive total revenue growth. We expect revenue growth from new club openings to offset
+comparable club revenue reductions. For the six months ended June 30, 2019, clubs operating for less than 13 months
+contributed $14 million of revenue offsetting a $9 million decline in comparable club revenue. We expect double-digit
+club growth, net of closures, to improve revenue through 2020 despite negative comparable club revenue.
+EBITDA margins will be slightly compressed in 2019, pressured by rising operating costs. We expect a slight EBITDA
+margin decline in 2019, primarily due to rising labor costs and rent from newly opened clubs. Although we expect the
+closures of underperforming clubs and improved general and administrative (G&A) expenses to partially offset higher
+labor and rent costs, overall EBITDA margin will likely decline. We expect EBITDA margin to rebound modestly in
+2020 as new clubs ramp-up and the company reduces G&A expenses related to executive management compensation.
+
+Company Description
+24 Hour Fitness Worldwide Inc. owns and operates fitness clubs and health centers. Currently, the company operates
+445 clubs across 13 states and has approximately 3.5 million members. The company offers a variety of services,
+including personal training, group classes, and retail sales. The company was incorporated in 1994 and is
+headquartered in San Ramon, Calif.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+24 Hour Fitness Worldwide Inc.
+
+Business Risk: Fair
+Additional business risk considerations include:
+The fitness club industry typically faces low barriers to entry and high customer attrition rates. About half of the
+company's clubs are in California, where fitness consciousness is higher than in many other states and where the
+company enjoys a leading market share with well-developed club clusters in major cities such as San Francisco, Los
+Angeles, and San Diego. However, the concentration potentially subjects the company to revenue and to EBITDA
+volatility resulting from economic cycles and increasing labor costs in California. Despite the company's substantial
+size, its clubs remain vulnerable to competition from strong regional and national players, such as Planet Fitness, LA
+Fitness International LLC, Life Time Fitness Inc., and Equinox Holdings Inc.
+
+Financial Risk: Highly leveraged
+Additional financial risk considerations include:
+We expect funds from operations to debt to be about 8.5% and EBITDA interest coverage to remain in the low 2x
+area, through 2020.
+
+Liquidity: Adequate
+Based on expected sources and uses of liquidity over the next 12 to 18 months and incorporating our performance
+expectations, 24 Hour has an adequate liquidity profile, according to our criteria. We expect that over the next 12 to 18
+months, liquidity sources will exceed uses by 1.2x or more, and sources would exceed uses even if EBITDA were to
+underperform our forecast by 15%.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• As of June 30, 2019, 24 Hour had $1.3 million in
+unrestricted cash on the balance sheet.
+
+• Our expectation for annual capital expenditures of
+about $150 million in 2019 and 2020, which include
+planned spending for club expansions but exclude
+tenant improvement incentives funded by landlords.
+
+• As of June 30, 2019, 24 Hour had $93 million
+available under its $120 million revolving credit
+facility.
+
+• Scheduled debt amortization payments.
+
+• Our expectation for operating cash flow from
+operations of about $110 million through 2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+24 Hour Fitness Worldwide Inc.
+
+Covenant Analysis
+The leverage ratio covenant applies when the borrowings on the revolver reach 35% or more. We expect the company
+to maintain adequate cushion of at least 15% over the forecast period.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our recovery rating on 24 Hour's senior secured credit facility is '2', indicating our expectation for substantial
+(70%-90%; rounded estimate: 85%) recovery for lenders in the event of a payment default.
+• Our recovery rating on 24 Hour's senior unsecured notes remains '6', indicating our expectation for negligible
+(0%-10%) recovery for lenders in the event of a payment default.
+• Our simulated default scenario contemplates a default occurring in 2022, following a significant decline in EBITDA
+from a prolonged economic downturn and increased competition.
+• If 24 Hours were to default, it would continue to have a viable business model because of the company's leading
+positions in its core markets and its large network of clubs. As a result, we believe that lenders would achieve
+greater recovery value through reorganization rather than a liquidation of the business. To value the enterprise, we
+applied a 5.5x multiple.
+• We assume the $120 million revolver is 85% drawn at default.
+
+Simulated default assumptions
+• Year of default: 2022
+• EBITDA at emergence: $158 million
+• EBITDA multiple: 5.5x
+• Revolving credit facility: 85% drawn at default
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): $825 million
+• Obligor/non-obligor split: 100%/0%
+• Estimated secured debt: $952 million
+• Value available for first-lien claim: $825 million
+• --Recovery expectation: 70%-90% (rounded estimate 85%)
+• Estimated senior secured deficiency claim: $127 million
+• Estimated senior unsecured notes claim: $520 million
+• Value available for senior unsecured notes claim: $0 million
+• --Recovery expectation: 0%-10% (rounded estimate: 0%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+24 Hour Fitness Worldwide Inc.
+
+All debt amounts include six months of prepetition interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Leisure And Sports Industry, March 5, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+24 Hour Fitness Worldwide Inc.
+
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 4, 2019)*
+24 Hour Fitness Worldwide Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B+
+
+Senior Unsecured
+
+CCC+
+
+Issuer Credit Ratings History
+30-Mar-2010
+
+B/Stable/--
+
+21-Apr-2009
+
+B/Negative/--
+
+24-Dec-2008
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+

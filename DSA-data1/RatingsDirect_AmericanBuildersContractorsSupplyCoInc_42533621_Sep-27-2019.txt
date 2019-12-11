@@ -1,0 +1,555 @@
+American Builders & Contractors
+Supply Co. Inc.
+Primary Credit Analyst:
+Kimberly M Garen, New York (1) 212-438-4615; kimberly.garen@spglobal.com
+Secondary Contact:
+Thomas J Nadramia, New York + 1 (212) 438 3944; thomas.nadramia@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 1
+
+American Builders & Contractors Supply Co. Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Largest distributer of roofing products in the U.S. with strong distribution
+network.
+
+Commodity-like interior and exterior building materials products
+with little differentiation.
+
+Sales are more heavily weighted toward the repair and remodeling market,
+which provides more stable revenues than new construction.
+
+Operation in a highly competitive and fragmented market.
+
+Continued bolt-on acquisitions and large size compared to peers.
+
+Exposure to product cost volatility with somewhat constrained
+ability to pass on costs to customers.
+
+Above-average EBITDA margins of around 10.0%, the highest among its
+distribution peers.
+
+Addition of wallboard distribution business that increases exposure
+to new construction and potential earnings volatility.
+
+Stable leverage metrics of 3.0x-3.5x by the end of 2019.
+
+Revenue growth has outpaced construction and replacement markets in 2019 due to share gains and
+growth initiatives.
+We expect ABC Supply's revenue to grow in excess of 10% for full-year 2019 on acquisitions and market share gain
+from its competitors. We project low- to mid-single-digit growth thereafter, with the company maintaining its large
+scale and dominant market position.
+
+ABC's leverage will likely remain stable despite some margin contraction.
+We expect a slight decline in EBITDA margin by 10 basis points (bps)-30 bps for 2019 based on increased product cost
+and less pricing momentum than in prior years. However, we expect full-year adjusted EBITDA margins will remain
+just above 10% allowing the company to finish 2019 with debt leverage of less than 3.5x with further reductions below
+3x for 2020, absent any material acquisitions.
+
+Sizeable cash flow generation will continue to support capex and growth initiatives while supporting
+distributions to owners.
+ABC generates strong free cash flow more than sufficient to fund working capital growth, capex, and its normal levels
+of distributions to owners. The company's sizable cash flows also allow for the potential to quickly de-lever after any
+debt-financed acquisitions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 2
+
+American Builders & Contractors Supply Co. Inc.
+
+Outlook: Stable
+
+The stable outlook on ABC Supply reflects our expectation that over the next 12 months the company will
+continue to generate positive free cash flow and maintain strong liquidity. At the same time, we expect it to
+maintain total leverage (including lease obligations) of 3.0x-3.5x. We expect ABC to reduce leverage over the next
+12 months through debt reduction and earnings accretion.
+
+Downside scenario
+We could downgrade ABC within the next 12 months if the company's leverage trended above 4.0x. This could
+occur if the U.S. housing starts and consumer spending contracted in a recessionary environment (on which our
+economists place a 25%-30% probability). This, in our view, would mean at least a 200-bps decline in its EBITDA
+margin, which we consider unlikely in the current operating environment.
+
+Upside scenario
+In our opinion, an upgrade is also unlikely over the next 12 months. However, we could upgrade ABC if it
+permanently increased earnings margins as a result of a more attractive product mix and/or stronger economies of
+scale from its expanded operating breadth, while keeping leverage below 3.0x as the company grows by
+acquisitions. An upgrade would also require our expectation that leverage could remain at or below this level even
+in a cyclical housing downturn.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 3
+
+American Builders & Contractors Supply Co. Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020.
+Debt to EBITDA (x)
+
+• 1.3 million housing starts in 2019 and 2020.
+• Repair and remodel spending growth in the
+low-single digits in 2019 and 2020.
+• Residential investment contraction of 1.3% in 2019
+and growth of 1.8% in 2020.
+• Nonresidential investment contraction of 1.4% in
+2019 and growth of 3.3% in 2020.
+
+2018A
+
+2019E
+
+2020E
+
+3.2
+
+3.0-3.5
+
+2.5-3.0
+
+FFO to debt (%)
+
+26.2 25.0-35.0 25.0-35.0
+
+OCF to debt (%)
+
+11.6 15.0-20.0 27.0-32.0
+
+ABC is a privately held company and does not disclose
+its financial results. A—Actual. E—Estimate.
+OCF—Operating cash flow.
+
+• Annual capital spending of about $250 million–$275
+million;
+• Annual debt amortization of $10 million-$25 million
+in each of the next two years.
+• Dividend distribution (majority for tax payments) of
+approximately $300 million in each of 2019 and
+2020.
+• Annual acquisition spending of $50 million-$100
+million in each of the next two years.
+
+Base-case projections
+Under our base-case scenario we expect:
+• ABC Supply's revenue to grow approximately in the low-double digits at around 10% in 2019 and low- to mid-single
+digits in 2020;
+• Adjusted EBITDA margin dip of 10 bps–30 bps in 2019 to 10.1% before recovering to the current level of 10.3% in
+2020; and
+• We expect the company to continue to generate stable positive free cash flow over the next 12 months to 24
+months.
+
+Company Description
+ABC Supply Co. Inc. is a leading wholesale distributor of roofing and wallboard in the U.S. It also distributes siding,
+windows, and other select exterior and interior building products, as well as tools and related supplies. It operates
+close to 800 branches and other facilities in 49 states. The company operates in two business segments, exterior and
+interior. The exterior operating segment primarily distributes roofing, siding, windows, gutters, and other select
+building products. The interior operating segment primarily distributes wallboard, metal framing, ceiling tiles and grids,
+and other select building products.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 4
+
+American Builders & Contractors Supply Co. Inc.
+
+Business Risk: Fair
+Our rating on ABC Supply reflects our view of the company's strong market position as the largest roofing and building
+products distributor in the U.S., its effective business strategy of market growth, and its above-average margins
+compared to peers. It sells the majority of its products to professional contractors and builders for use in the residential
+and commercial end markets. A significant portion of revenue comes from repair and remodeling, which tend to be
+less cyclical and benefit from more stable demand than new residential or commercial construction. Weather patterns
+can favorably (or unfavorably) affect operations during the spring and summer selling seasons. However, its national
+footprint allows for participation during most storm activity throughout the country.
+ABC Supply is one and a half times larger than its closest peer, Beacon Roofing Supply Inc. Furthermore, we consider
+ABC Supply's EBITDA margin to be above average at around 10%, higher than that of other rated building materials
+distribution peers such as Beacon Roofing (about 8%), Builders FirstSource Inc. (about 7%), and BMC Stock Holdings
+(about 7%). The company maintains strong bargaining power with its suppliers and its ability to integrate new
+acquisitions gives stability to its margins.
+The fragmented nature of the building products distribution space, which leads to intense competition, limited pricing
+power, and a lack of product differentiation, somewhat temper these business strengths. Its nationwide reach is limited
+by its high product concentration due to heavy dependence on the roofing and wallboard segments. We also
+acknowledge ABC's limited ability to pass on increased product costs and its lack of vertical integration during a
+downturn.
+
+Financial Risk: Significant
+Our ratings reflects ABC Supply's metrics as of June 30, 2019 of leverage of 3.6x, funds from operations (FFO) to debt
+of 23%, and EBITDA interest coverage of above 5x, levels that are in line with the current rating. We expect the
+company to improve its credit metrics over the next 12 months due to strong cash flows, reduced debt, and EBITDA
+growth. We project ABC Supply to deleverage to just above 3x at fiscal year-end 2019 and slightly below 3x at fiscal
+year-end 2020 with FFO to adjusted debt between 25%-30% for 2019 and 2020, assuming it makes no sizable
+acquisitions or special dividends during that time.
+ABC's financial risk is further strengthened by its healthy and consistent FFO of about $900 million-$950 million per
+year, more than sufficient to meet capital requirements and working capital needs. This, along with a strong liquidity
+position, should enable the company to continue with its dividend distribution policy (with the majority going toward
+tax payments). The company's ability to maintain leverage within our expectations while maintaining a capital
+allocation policy that funds working capital, growth, capex, and dividends from operating cash flows is a key
+consideration in our analysis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 5
+
+American Builders & Contractors Supply Co. Inc.
+
+Liquidity: Strong
+We assess ABC Supply's liquidity as strong. Our view is based on our expectation that sources will exceed uses by
+over 2x over the next 24 months.
+We expect that liquidity sources would continue to exceed uses even if forecast EBITDA were to decline by 30%. The
+company should continue to exceed the availability threshold under its credit facility, even with a 30% drop in
+EBITDA.
+We expect that the company could absorb high-impact, low-probability events without refinancing as it has high
+asset-backed lending (ABL) availability and high internal cash generation. We believe it has sound relationships with
+banks, considering its history of issuance of public debt and various term loan repricing. We assess the company's
+standing in the credit markets as satisfactory relative to rated peers.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and equivalents of approximately $0.6 million
+as of June 30, 2019;
+
+• Seasonal working capital requirements of
+approximately $120 million-$130 million in 2019 and
+$190 million-$200 million in 2020;
+
+• Availability of $352 million under its $1.00 billion
+credit facility as of June 30, 2019; and
+• FFO of about $900 million-$950 million over each of
+the next two years.
+
+• Annual capital spending of about $250 million–$275
+million;
+• Annual debt amortization of $10 million-$25 million
+in each of the next two years;
+• Dividend distribution of approximately $300 million
+in each of 2019 and 2020; and
+• Annual acquisition spending of $50 million-$100
+million in each of the next two years.
+
+Debt maturities
+• $1.0 billion ABL facility matures on Sept. 28, 2023;
+• $1.88 billion (balance as of June 30, 2019 of $1.82 billion) senior secured term loan matures Sept. 28, 2023;
+• $600 million senior unsecured notes matures on May 15, 2026; and
+• $350 million senior secured notes matures on Dec. 15, 2023.
+
+Covenant Analysis
+The company's credit agreements are covenant-lite.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 6
+
+American Builders & Contractors Supply Co. Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• ABC Supply's $1.875 billion secured term loan has a '2' recovery rating, indicating our expectation for high
+(70%-90%; rounded estimate: 85%) recovery for lenders in the event of payment default. The issue-level rating is
+'BB+', in line with our notching guidelines for a '2' recovery rating.
+• The company's $600 million 5.875% senior unsecured notes due in 2026 and $350 million 5.75% senior secured
+notes due in 2023 have a '6' recovery rating, indicating our expectation for negligible (0%-10%, rounded estimate:
+0%) recovery for lenders in the event of payment default. The issue-level rating is 'B+', in line with our notching
+guidelines for a '6' recovery rating.
+• Our assessment of recovery prospects contemplates a reorganization value for the company of about $2.5 billion,
+reflecting emergence EBITDA of about $425 million and a 6x multiple. Our emergence EBITDA assumption
+contemplates a rebound in profitability following the sharp cyclical downturn that we believe is required for the
+company to default. As a result, our EBITDA assumption does not purport to represent a default-level EBITDA,
+which we think could be substantially lower. The 6x multiple is within the 5x-6x range that we generally use for
+building products companies. We note that we generally use 5.5x-6.0x multiples for building distribution companies
+given the high multiples being paid for companies in this space.
+• Our simulated default scenario contemplates a default in 2024, stemming from a downturn in the company's end
+markets (namely U.S. residential and nonresidential roofing and reroofing), with a combination of significant
+decreases in sales volumes and price, higher operating costs, heightened competition, and significant price increases
+imposed by suppliers that cannot be passed on to customers. Under our default scenario, we also envision the
+closing of a significant number of branches, leading to a loss of market share to other competitors.
+
+Simulated default assumptions
+• Year of default: 2024
+• EBITDA at emergence: $425 million
+• Implied enterprise valuation (EV) multiple: 6x
+• Gross EV: $2,500 million
+
+Simplified waterfall
+• Net EV (after 5% administrative costs): $2,400 million
+• Priority claims and adjustments: $800 million
+• Total collateral value for secured claims (U.S. value remaining after coverage of ABL facility plus 65% of foreign
+value): $1,600 million
+---------------------------------------------------------------• Total term loan claim: $1,800 million
+• --Recovery expectation for term loan: 80%-90% (rounded estimate: 85%)
+----------------------------------------------------------------
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 7
+
+American Builders & Contractors Supply Co. Inc.
+
+• Remaining enterprise value for senior unsecured claims (excess collateral plus unencumbered value): $0 million
+• Estimated unsecured claims: $1,200 million
+• --Recovery expectation for senior notes: 0%-10% (rounded estimate: 0%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb
+
+Related Criteria
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Building Materials Industry, Dec. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 8
+
+American Builders & Contractors Supply Co. Inc.
+
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 25, 2019)*
+American Builders & Contractors Supply Co. Inc.
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Secured
+
+BB+
+
+Senior Unsecured
+
+B+
+
+Issuer Credit Ratings History
+20-Sep-2016
+
+BB/Stable/--
+
+30-Aug-2016
+
+BB/Watch Neg/--
+
+21-Mar-2016
+
+BB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 25, 2019 10
+
+

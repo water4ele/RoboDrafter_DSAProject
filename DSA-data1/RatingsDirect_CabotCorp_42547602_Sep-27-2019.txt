@@ -1,0 +1,1514 @@
+Cabot Corp.
+Primary Credit Analyst:
+Daniel S Krauss, CFA, New York (1) 212-438-2641; danny.krauss@spglobal.com
+Secondary Contact:
+Michael P McConnell, New York + 1 (212) 438 0059; michael.mcconnell@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Cabot Corp.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Weaknesses
+
+Strong market position in carbon black.
+
+High concentration of revenues in a few cyclical end markets.
+
+Considerable geographic diversity, with about 80% of
+revenues derived from outside of the U.S.
+
+The company’s significant footprint in China leads to more exposure to the ongoing
+U.S.-China trade war than a less geographically diverse competitor.
+
+Global manufacturing and distribution operations.
+
+Cabot is the most geographically diverse carbon black producer. The company derives roughly 80% of its revenues
+from outside the U.S., including about 20% from China. We believe a strong footprint in China is integral, as China has
+grown its share over time to become the No. 1 tire producing region country.
+We believe Cabot will benefit from its pricing initiatives and renegotiated contracts. Over the years Cabot has
+renegotiated contracts to reduce the lag on passing through raw material price increases, and we believe pricing
+initiatives have helped somewhat offset the auto weakness in 2019.
+We expect the company's financial policies will remain supportive of the current rating. We expect the company will
+use free cash flows to fund organic and inorganic growth initiatives, along with its stated intention to return 50% of
+discretionary cash flow to shareholders.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+Cabot Corp.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+Cabot Corp.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on Cabot Corp. reflects our expectation that the company's fiscal 2020 (ending
+September) volumes should witness modest growth, in line with GDP growth in key geographies and the global
+automotive market. We expect EBITDA margins will increase from expected 2019 levels, as a result of volume
+growth, higher margin new product introductions, and benefits from cost reduction and pricing initiatives. As a
+result, we expect the company to maintain FFO to debt in the 30% to 45% range. We believe the company will
+look to supplement its organic growth with inorganic growth opportunities, while pursuing its stated intention to
+return 50% of discretionary cash flow to shareholders.
+
+Downside scenario
+We could lower the ratings within the next two years if the company significantly increases its debt to fund
+shareholder rewards or its growth initiatives. If this occurs, we would expect credit metrics to deteriorate such that
+FFO to adjusted debt falls below 30% on a weighted average basis. We could also consider a lower rating if the
+current downturn in the automotive markets is significantly prolonged or worse than we expect. While the
+company's current mix of businesses is different that it was in 2009, it still depends heavily on the global tire and
+automotive markets. The 2009 global recession had a significantly negative impact on Cabot's earnings and credit
+measures, as fiscal 2009 revenues were down 30%, with the majority of that driven by volume declines. In the
+event that certain key countries fall into a recession, we believe EBITDA margins could decline by 200 basis points
+(bps) or more, along with a moderate drop in revenues compared with our base-case expectations.
+
+Upside scenario
+While less likely, we could consider an upgrade within the next two years if volumes and EBITDA are significantly
+higher than our base-case expectations, driven by stronger-than-expected GDP growth in key geographies and a
+recovery in demand in the automotive tire industry. We believe a resolution in the U.S.-China trade war would
+likely be a necessary first step before seeing any potential rebound in the automotive tire market. In such a
+scenario, we would expect the company to maintain EBITDA margins of at least 20%, combined with modestly
+higher-than-expected revenue growth. To consider an upgrade, we would expect the company to maintain FFO to
+debt of above 45% and believe the company's financial policies support these credit measures. Additionally, we
+would need to believe, given the company's concentration in the tire industry, credit measures will not drop well
+below that threshold for an extended period in a future downturn.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+Cabot Corp.
+
+Assumptions
+
+• Low- to mid-single-digit organic revenue growth
+over the next two years, supported by Eurozone
+GDP growth of 1.1% and 1.3%, U.S. GDP growth of
+2.5% and 1.8%, and Asia-Pacific GDP growth of
+5.1% and 5.3%, in 2019 and 2020 respectively. We
+believe the company will look to supplement its
+organic growth with inorganic growth opportunities,
+such as acquisition and expansion in capacity.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+EBITDA margin (%)
+
+18.3
+
+16-17 17.5-19
+
+FFO/debt (%)
+
+42.8
+
+30-38
+
+32-42
+
+1.8 2.0-2.3
+
+1.5-2.2
+
+Debt/EBITDA (x)
+
+A--Actual. E--Estimate. Represents fiscal year ended
+September.
+
+• West Texas Intermediate (WTI) prices of $55 per
+barrel in 2019 and beyond.
+• U.S. light-vehicle sales of 16.7 million and 16.5
+million units in 2019 and 2020, respectively.
+• EBITDA margins to decline into the 16%-17% range
+in 2019 driven by a weaker automotive market
+affecting volumes and lower unit margins due to a
+weaker pricing environment in China. We expect an
+improvement in 2020, driven primarily by volume
+growth, pricing actions and cost reduction
+initiatives.
+• Our assumptions are closely tied to crude oil, which
+affects offshore drilling activity, freight transit costs,
+and the number of tires on the road, as well as
+housing starts and construction, key end-markets of
+Performance Chemicals.
+• No large debt-funded acquisitions or shareholder
+rewards.
+
+Company Description
+Cabot is a global specialty chemicals and performance materials company currently operating in three segments:
+Reinforcement Materials, Performance Chemicals, and Purification Solutions. The company's products are rubber and
+specialty grade carbon blacks, specialty compounds, fumed metal oxides, activated carbons, inkjet colorants, aerogel,
+cesium formate drilling fluids, and fine cesium chemicals. In June 2019, the company closed the sale of its Specialty
+Fluids business to Sinomine (Hong Kong) Rare Metal Resources Co. Ltd.
+
+Business Risk: Satisfactory
+Cabot is a global leader in the carbon black segment with considerable geographic diversity--about 80% of fiscal 2018
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+Cabot Corp.
+
+revenues were from outside the U.S. It is the most geographically diversified major carbon black producer and is
+well-positioned to benefit from its footprint in China (which generated more than 20% of the company's fiscal 2018
+revenues). China has steadily grown its share of global tire production over the years and has emerged as the leading
+tire manufacturer, with approximately a 35% global share in 2018. We believe demand for carbon black will grow in
+the low-single-digit-percentage range annually, driven primarily by expected growth in vehicle production, the number
+of vehicles on the road (vehicle parc), and increased tire production.
+Our assessment of the company's business risk is comparatively better than another commodity chemical companies
+such as CF Industries Inc., given its stronger product, end market, and geographic diversity. Since 2007, the company
+has grown its Reinforcement Materials EBIT by about 2.5x despite roughly the same carbon black capacity, through a
+combination of repositioning toward larger scale assets, higher-value added new products, value pricing, efficiency
+improvements, and stricter environmental regulations and enforcement. The chief application for the company's
+products is in tire markets across the world. We expect earnings will remain susceptible to downturns in the
+automobile industry and economy, though a significant portion of the demand for carbon black is for replacement tires,
+which does not directly depend on new automobile production.
+
+Peer comparison
+Table 1
+
+Peer Comparison
+Cabot Corp.
+
+Rating as of May 14, 2019
+
+Cabot Corp.
+
+Westlake Chemical
+Corp.
+
+CF Industries Inc.
+
+Celanese US Holdings
+LLC
+
+BBB/Stable/A-2
+
+BBB/Stable/--
+
+BB+/Stable/--
+
+BBB/Stable/--
+
+Fiscal year ended Sept. 30, Fiscal year ended Dec. 31, Fiscal year ended Dec. 31, Fiscal year ended Dec. 31,
+2018
+2018
+2018
+2018
+(Mil.)
+
+(Mil. $)
+
+(Mil. $)
+
+(Mil. $)
+
+(Mil. $)
+
+Revenues
+
+3,242.0
+
+8,635.0
+
+4,429.0
+
+7,155.0
+
+EBITDA
+
+593.5
+
+2,125.0
+
+1,713.0
+
+2,123.5
+
+FFO
+
+454.0
+
+1,566.5
+
+1,457.3
+
+1,865.2
+
+Interest Expense
+
+62.5
+
+168.5
+
+262.7
+
+150.3
+
+Cash Interest Paid
+
+55.5
+
+182.5
+
+248.7
+
+158.3
+
+Cash flow from operations
+
+313.0
+
+1,473.5
+
+1,573.3
+
+1,591.2
+
+Capital expenditures
+
+230.0
+
+695.0
+
+421.0
+
+327.0
+
+Free operating cash flow
+
+83.0
+
+778.5
+
+1,152.3
+
+1,264.2
+
+(160.0)
+
+507.5
+
+262.3
+
+156.2
+
+Cash and short-term
+investments
+
+175.0
+
+753.0
+
+682.0
+
+446.0
+
+Gross available cash
+
+175.0
+
+753.0
+
+682.0
+
+446.0
+
+Debt
+
+1,060.6
+
+2,701.5
+
+4,562.4
+
+3,830.2
+
+Equity
+
+1,279.0
+
+6,076.0
+
+5,731.0
+
+3,379.0
+
+EBITDA margin (%)
+
+18.3
+
+24.6
+
+38.7
+
+29.7
+
+Return on capital (%)
+
+17.2
+
+16.6
+
+7.3
+
+23.8
+
+9.5
+
+12.6
+
+6.5
+
+14.1
+
+Discretionary cash flow
+
+Adjusted ratios
+
+EBITDA interest coverage (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+Cabot Corp.
+
+Table 1
+
+Peer Comparison (cont.)
+Cabot Corp.
+
+Cabot Corp.
+
+Westlake Chemical
+Corp.
+
+CF Industries Inc.
+
+Celanese US Holdings
+LLC
+
+9.2
+
+9.6
+
+6.9
+
+12.8
+
+FFO cash interest coverage
+(x)
+Debt/EBITDA (x)
+
+1.8
+
+1.3
+
+2.7
+
+1.8
+
+FFO/debt (%)
+
+42.8
+
+58.0
+
+31.9
+
+48.7
+
+Cash flow from
+operations/debt (%)
+
+29.5
+
+54.5
+
+34.5
+
+41.5
+
+Free operating cash
+flow/debt (%)
+
+7.8
+
+28.8
+
+25.3
+
+33.0
+
+(15.1)
+
+18.8
+
+5.7
+
+4.1
+
+Discretionary cash flow/debt
+(%)
+FFO--Funds from operations.
+
+Financial Risk: Intermediate
+We expect operating rates and EBITDA to gradually improve starting in fiscal 2020, based on our expectations for
+limited capacity expansions in the industry over at least the next two years, combined with modest demand growth for
+the company's products. We would expect the company to maintain weighted-average FFO to debt in the 30% to 45%
+range. We believe the company's financial policies and cash flow prioritization will support organic and inorganic
+growth initiatives, while pursuing its stated intention to return 50% of discretionary cash flow to shareholders. When
+calculating the company's adjusted debt balances, we net 90% of cash against debt, to reflect our estimate of cash in
+jurisdictions where timely access may be an issue or for friction costs related to the utilization of these balances.
+
+Financial summary
+Table 2
+
+Cabot Corp.--Yearly Data
+Industry Sector: Chemical Cos
+Fiscal year ended Sept. 30
+2018
+Rating history
+
+2017
+
+2016
+
+2015
+
+BBB/Stable/A-2 BBB/Stable/A-2 BBB/Stable/A-2 BBB/Stable/A-2
+
+(Mil. $)
+Revenues
+
+3,242.0
+
+2,717.0
+
+2,411.0
+
+2,871.0
+
+EBITDA
+
+593.5
+
+521.0
+
+439.0
+
+479.5
+
+FFO
+
+454.0
+
+396.7
+
+314.9
+
+352.8
+
+Interest Expense
+
+62.5
+
+60.3
+
+61.1
+
+59.7
+
+Cash Interest Paid
+
+55.5
+
+55.3
+
+58.1
+
+48.7
+
+Cash flow from operations
+
+313.0
+
+355.7
+
+405.9
+
+514.8
+
+Capital expenditures
+
+230.0
+
+152.0
+
+119.0
+
+141.0
+
+83.0
+
+203.7
+
+286.9
+
+373.8
+
+(160.0)
+
+51.7
+
+160.9
+
+216.8
+
+Free operating cash flow
+Discretionary cash flow
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+Cabot Corp.
+
+Table 2
+
+Cabot Corp.--Yearly Data (cont.)
+Industry Sector: Chemical Cos
+Fiscal year ended Sept. 30
+2018
+
+2017
+
+2016
+
+2015
+
+Cash and short-term investments
+
+175.0
+
+280.0
+
+200.0
+
+77.0
+
+Gross available cash
+
+175.0
+
+280.0
+
+200.0
+
+77.0
+
+Debt
+
+1,060.6
+
+890.4
+
+987.3
+
+1,159.1
+
+Equity
+
+1,279.0
+
+1,601.0
+
+1,372.0
+
+1,338.0
+
+EBITDA margin (%)
+
+18.3
+
+19.2
+
+18.2
+
+16.7
+
+Return on capital (%)
+
+17.2
+
+14.4
+
+10.5
+
+(9.9)
+
+EBITDA interest coverage (x)
+
+9.5
+
+8.6
+
+7.2
+
+8.0
+
+FFO cash interest coverage (x)
+
+9.2
+
+8.2
+
+6.4
+
+8.2
+
+Debt/EBITDA (x)
+
+1.8
+
+1.7
+
+2.2
+
+2.4
+
+FFO/debt (%)
+
+42.8
+
+44.5
+
+31.9
+
+30.4
+
+Cash flow from operations/debt (%)
+
+29.5
+
+39.9
+
+41.1
+
+44.4
+
+7.8
+
+22.9
+
+29.1
+
+32.2
+
+(15.1)
+
+5.8
+
+16.3
+
+18.7
+
+Adjusted ratios
+
+Free operating cash flow/debt (%)
+Discretionary cash flow/debt (%)
+FFO--Funds from operations.
+
+Liquidity: Strong
+We expect the company's sources of liquidity will exceed it uses by more than 1.5x, and sources minus uses of liquidity
+should remain positive even if EBITDA is 30% less than we project. The company's liquidity position has increase in
+the first 9 months of fiscal 2019, primarily driven by the repayment of commercial paper through the issuance of
+long-term debt, proceeds from the sale of its Specialty Fluids segment and the issuance of a new 300 million Euro
+revolver. We believe the company has generally prudent financial risk management given its current credit measures
+and leverage targets. As a result of these factors, we assess the company's liquidity position as strong.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Cabot Corp.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• As of June 30, 2019, the company had $1.278 billion
+available under its revolving credit facilities.
+
+• Moderate seasonal working capital requirements.
+
+• FFO of $465 million to $500 million annually for the
+next two years.
+• Cash balances of $147 million as of June 30, 2019.
+
+• $230 million to $300 million of capital spending over
+the next two years.
+• Cash dividends that we expect to gradually increase
+from the $80 million level in fiscal 2018.
+• We expect the company to complete the amounts
+outstanding under its existing share repurchase
+authorization in a measured fashion over the next
+few years. Cabot repurchased $144 million of shares
+in the first nine months of fiscal 2019.
+
+Covenant Analysis
+Compliance expectations
+The company was in compliance with its total debt to EBITDA leverage covenant with sufficient cushion as of June
+30, 2019. We believe the company has ample covenant headroom in the unexpected event that EBITDA declined by
+30%.
+
+Environmental, Social, And Governance
+
+We view Cabot's exposure to environmental and social risks as on par with peers in the broader chemicals sector.
+Safety of the workforce is a material aspect of our ESG analysis, as the manufacturing and transportation of many
+of Cabot's products involve substances that are considered toxic or hazardous. Cabot is one of the leaders in safety
+in the chemicals industry, in part evidenced by a drop in their 2018 recordable incident and lost time rates.
+However, certain of the company's facilities are currently or may eventually be subject to greenhouse gas emission
+regulations. In the future, the company's costs of complying with these regulations could increase, although they
+have not had a material impact on the company's business thus far. Additionally, the U.S. Environmental
+Protection Agency is considering reconsidering the Mercury and Air Toxics Standards (MATS), which could
+negatively affect demand for products in the company's purification solutions segment, which are used for mercury
+removal. We believe this would only have a modest impact on Cabot, as this segment generates its lowest EBITDA
+and the company has said it is pursuing strategic alternatives for this segment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+Cabot Corp.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+The company's capital structure consists of senior unsecured debt issued at the rated parent level. As of June 30, 2019,
+the company had approximately $1.017 billion in long-term debt outstanding.
+
+Analytical conclusions
+We rate Cabot's debt 'BBB', the same as the issuer credit rating, as no significant elements of subordination risk are
+present in the capital structure.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Cabot Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+Rolling 12 months ended June 30, 2019
+Cabot Corp. reported amounts
+
+Debt
+
+Shareholders'
+equity Revenue EBITDA
+
+1,106.0
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+1,092.0
+
+3,360.0
+
+511.0
+
+350.0
+
+56.0
+
+550.8
+
+321.0
+
+103.0
+
+223.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(95.3)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(46.3)
+
+--
+
+--
+
+--
+
+Operating leases
+
+91.7
+
+--
+
+--
+
+23.5
+
+6.5
+
+6.5
+
+(6.5)
+
+17.0
+
+--
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+72.7
+
+--
+
+--
+
+(11.0)
+
+(11.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(132.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2.8
+
+(2.8)
+
+(2.8)
+
+--
+
+(2.8)
+
+Share-based
+compensation
+expense
+
+--
+
+--
+
+--
+
+17.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+--
+
+2.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+--
+
+(19.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+134.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Asset retirement
+obligations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+Cabot Corp.
+
+Table 3
+
+Reconciliation Of Cabot Corp. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $) (cont.)
+Debt: Workers
+compensation/self
+insurance
+
+2.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+8.3
+
+8.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+56.9
+
+134.0
+
+0.0
+
+39.8
+
+(15.2)
+
+9.3
+
+(150.8)
+
+14.2
+
+0.0
+
+(2.8)
+
+EBITDA: Other
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+1,162.9
+
+Equity Revenue EBITDA
+
+Funds Cash flow
+Interest
+from
+from
+Capital
+EBIT expense operations operations Dividends expenditure
+
+1,226.0
+
+334.8
+
+3,360.0
+
+550.8
+
+65.3
+
+400.0
+
+335.2
+
+103.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Intermediate
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+• Group credit profile: bbb
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+220.3
+
+Cabot Corp.
+
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 26, 2019)*
+Cabot Corp.
+Issuer Credit Rating
+
+BBB/Stable/A-2
+
+Commercial Paper
+Local Currency
+
+A-2
+
+Senior Unsecured
+
+BBB
+
+Issuer Credit Ratings History
+02-Jul-2015
+
+Foreign Currency
+
+BBB/Stable/A-2
+
+02-Jul-2014
+
+BBB+/Stable/A-2
+
+11-Jan-2013
+
+BBB+/Negative/A-2
+
+02-Jul-2015
+
+Local Currency
+
+BBB/Stable/A-2
+
+02-Jul-2014
+
+BBB+/Stable/A-2
+
+11-Jan-2013
+
+BBB+/Negative/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+

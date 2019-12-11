@@ -1,0 +1,1653 @@
+China Metallurgical Group Corp.
+Primary Credit Analyst:
+Yolanda Tan, Hong Kong (852) 2912-3006; Yolanda.Tan@spglobal.com
+Secondary Contact:
+Stephen Chan, Hong Kong (852) 2532-8088; stephen.chan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Group Influence
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 1
+
+China Metallurgical Group Corp.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+bb
+
+bb
+BBB+/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Dominant position in the metallurgical construction market.
+
+Metallurgical E&C revenue subject to cyclical
+demand.
+
+Substantial contract pipeline provides revenue visibility.
+
+Competitive housing E&C sector constrains margin.
+
+Improving credit metrics owing to business growth, enhanced profitability, and prudent
+management.
+Timely and sufficient support from parent company.
+
+Strong market position and expertise in metallurgical construction support China Metallurgical Group Corp.'s (CMGC)
+business growth. CMGC, via its key subsidiary, Metallurgical Corp. of China Ltd. (MCC), is a leading player in the
+metallurgical construction market with specialized know-how in design, construction, and related equipment
+manufacturing. We believe MCC will benefit from favorable industry conditions in 2019-2020, with steel mills
+undergoing plant upgrades and relocation. MCC's advanced technologies will continue to support its business
+expansion and ensure stable revenue growth over the next two years. This was reflected in MCC's new contract
+growth, which rose 13.1% in 2018 and 20.3% in the first half of 2019.
+Metallurgical engineering and construction (E&C) demand is cyclical, while housing E&C sees margin pressure. CMGC
+derived about 22% of its revenue from the metallurgical E&C subsegment and about 37% from housing E&C in 2018.
+We expect its metallurgical E&C revenue to grow strongly in 2019-2020, benefiting from the recent round of steel mill
+relocation. However, future demand could be volatile as the relocation is one-off in nature and likely to be completed
+in the next two to three years. Future demand from the domestic market will depend on plant upgrades and relocation
+which are on a smaller scale. Housing E&C has the lowest margins among CMGC's subsectors owing to low entry
+barriers and intense competition. We expect margins to soften further in 2019-2020 because of increasing price
+pressures and rising raw material and labor costs.
+We expect CMGC's credit measures to improve over the next 12-24 months. We estimate that CMGC's debt-to-EBITDA
+ratio will continue to improve over the next two years to about 3.5x, compared with 5.2x in 2018. We expect the
+company to maintain positive free operating cash flow (FOCF) on the back of consistent profit growth and good
+working capital management. We also believe the company will maintain disciplined capital expenditure (capex) and
+remain committed to deleveraging under the central State-owned Assets Supervision and Administration Commission
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 2
+
+China Metallurgical Group Corp.
+
+of the State Council's (SASAC) requirement.
+Timely and sufficient support from the parent company will enhance CMGC's credit profile. We expect CMGC to
+remain a core subsidiary of China Minmetals Corp. (Minmetals). CMGC is Minmetals' sole arm for conducting the E&C
+business, and contributed to about 50% of Minmetals' revenue and 30%-40% of EBITDA in 2018. We expect CMGC to
+receive timely and sufficient support from Minmetals in case of need. This is reflected in a four-notch uplift in the
+rating.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 3
+
+China Metallurgical Group Corp.
+
+Outlook: Stable
+
+The stable outlook on CMGC reflects our view of the credit profile of the company's parent, Minmetals, which is
+the key driver of our rating on CMGC.
+We expect CMGC to remain a core subsidiary of the Minmetals group over the next 12-24 months, given its
+significant revenue and profit contribution, and importance to the group's as well as the government's strategy of
+promoting integration along the resources value chain.
+We also expect CMGC to continue to receive extraordinary support from the Chinese government through the
+Minmetals group. Meanwhile, we anticipate that CMGC will maintain steady revenue growth and profitability over
+the next 12-24 months, and use its FOCF to repay debt, leading to a steady improvement in its credit metrics.
+
+Downside scenario
+We could lower the rating on CMGC if our assessment of Minmetals' group credit profile weakens, indicated by the
+EBITDA interest coverage staying below 2x.
+We would also downgrade CMGC if we believe the company is no longer a core subsidiary of the Minmetals
+group. This could be owing to a major shift in Minmetals' corporate focus away from E&C, as indicated by a
+sustained decline in E&C revenue. We expect the likelihood of this to be low in the next 12-24 months.
+
+Upside scenario
+We may raise the rating on CMGC if we assess that Minmetals' group credit profile has improved. This could
+happen if we see more indications that Minmetals' role to the Chinese government has strengthened. Minmetals is
+a state-owned assets investment company and will likely become more involved in consolidating minerals and
+resources companies in China to ensure a secure supply of strategic metals and minerals.
+We may also upgrade CMGC if Minmetals' financial performance significantly improves as a result of its continual
+effort to deleverage, such that its ratio of debt to EBITDA meaningfully stays below 4x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 4
+
+China Metallurgical Group Corp.
+
+Assumptions
+
+Key Metrics
+
+• China's real GDP growth to moderate to 6.2% in
+2019 and 2020, from 6.6% in 2018.
+• The Chinese government to continue infrastructure
+spending in 2019 to boost GDP, which will lead to
+8%-10% growth in the domestic E&C sector.
+• CMGC's revenue to grow by 14%-16% in 2019-2020.
+
+2018
+
+2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+5.7 4.1-4.3 3.5-3.7
+
+FFO/Debt (%)
+
+8.4
+
+EBITDA interest coverage(x)
+
+2.5 2.7-2.9 3.1-3.3
+
+11-15
+
+15-20
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• EBITDA margin to remain stable at 5.4%-5.8% over
+the period.
+• Annual capex of Chinese renminbi (RMB) 5
+billion-RMB6 billion over the next two years.
+• Annual working capital outflow of RMB0.5
+billion-RMB1.0 billion over the same period.
+• Annual equity investments of RMB4 million-RMB5
+million.
+
+Base-case projections
+Revenue to grow 14%-16% in 2019-2020. We expect the strong growth momentum in the construction segment to
+continue at 15%-18% annually, driven by the recovery in the metallurgical industry and the Chinese government's
+rising infrastructure investments. The equipment manufacturing segment will also expand robustly at 14%-16%
+annually owing to large-scale steel plant upgrades and relocation. We anticipate stable growth of 5%-7% in property
+development as CMGC aims to control debt. The resources development segment will grow much slower at 1%-3% as
+growing domestic demand for electric vehicles is counterbalanced by international political uncertainties.
+EBITDA margin to be largely stable. We estimate the EBITDA margin to be 5.4%-5.8% in 2019-2020, in line with the
+2018 level. This is underpinned by the largely fixed-margin E&C business, which contributes over 70% to the
+company's gross profit.
+
+Company Description
+CMGC, a subsidiary of Minmetals group, is one of the largest E&C companies in China and globally, specializing in
+metallurgical E&C. The company has also built up its capability in the non-metallurgical E&C and non-construction
+business in recent years. CMGC conducts the majority of its business operations through its direct subsidiary MCC.
+
+Business Risk: Satisfactory
+We expect CMGC to maintain its dominant market position in the Chinese metallurgical E&C industry. This is driven
+by the company's strong sector expertise and long operational track record of constructing over 90% of major
+metallurgical refining plants in China. CMGC also benefits from its stake in many leading metallurgical design institutes
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 5
+
+China Metallurgical Group Corp.
+
+in China, which gives it access to advanced technology, further strengthening its market standing.
+At the same time, CMGC has expanded its business presence to non-metallurgical E&C--such as transportation
+infrastructure, housing, and municipal engineering construction--by leveraging its expertise in handling complex
+metallurgical projects. We believe this enhances the company's credit quality as it reduces reliance on the niche
+metallurgical E&C segment, which has a small market size and cyclical demand. We expect the E&C segment to
+remain the company's most important revenue (over 90%) and gross profit (over 75%) contributor in the next two
+years, though the revenue mix might change slightly among the subsectors.
+We expect the transportation and other E&C segments to drive revenue growth over the next 12-24 months, given that
+CMGC is focused on expanding its business in these higher-margin segments. These subsegments also have higher
+growth potential as the Chinese government is promoting infrastructure investments. On the other hand, we believe
+the company's exposure to the housing E&C market will decline. This submarket suffers from intense competition and
+offers lower margins. CMGC is also a relatively small player compared to the big central state-owned enterprise (SOE)
+E&C companies. We anticipate the gross profit contribution from housing E&C to fall to 25% in 2020, from 27.5% in
+2018, while the contribution from transportation E&C will rise 19.1% in 2020, from 16.5% in 2018. Given that the
+metallurgical E&C segment will gain ground in 2019-2020 on recovering demand, we anticipate the gross profit
+contribution will rise to 23.7% in 2020, from 20.6% in 2018. However, the recovery could fade in view of the steel mill
+upgrade and relocation cycle.
+CMGC also expanded into other non-construction fields, such as equipment manufacturing, property development,
+and resources development. These segments have higher margins but are much smaller compared with its E&C
+business. The equipment manufacturing business is likely to record healthy growth owing to increasing demand of
+plant upgrade activities, but we expect the revenue contribution to remain at about 2% in 2019-2020. We also believe
+CMGC will be prudent in land purchases as the company is aiming to contain its gross debt level.
+In our view, CMGC's EBITDA margin will be flat over the next two years. While we expect some gross margin
+improvement and change in revenue mix in the E&C sector, the slowdown in property development will offset the
+improvement. In addition, increasing R&D expenses--measured as a percentage of revenue--to enhance technology
+advancement also constrain the EBITDA margin in 2019-2020.
+
+Peer comparison
+Table 1
+
+China Metallurgical Group Corp.--Peer Comparison
+Industry sector: Engineering and construction
+
+China Metallurgical
+Group Corp.
+
+China Railway
+Construction Corp. China Railway
+Ltd.
+Group Ltd.
+
+Power Construction
+Corp. of China
+
+Shanghai
+Construction Group
+Co. Ltd.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenue
+
+288,725.2
+
+730,123.0
+
+740,383.0
+
+404,532.2
+
+170,545.8
+
+EBITDA
+
+16,356.8
+
+44,926.8
+
+39,073.0
+
+31,663.3
+
+7,766.3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 6
+
+China Metallurgical Group Corp.
+
+Table 1
+
+China Metallurgical Group Corp.--Peer Comparison (cont.)
+Industry sector: Engineering and construction
+
+China Metallurgical
+Group Corp.
+
+China Railway
+Construction Corp. China Railway
+Ltd.
+Group Ltd.
+
+Power Construction
+Corp. of China
+
+Shanghai
+Construction Group
+Co. Ltd.
+
+Funds from operations
+(FFO)
+
+7,161.9
+
+30,986.7
+
+21,552.9
+
+10,467.6
+
+3,664.9
+
+Interest expense
+
+6,441.7
+
+10,752.6
+
+11,301.4
+
+16,659.0
+
+2,693.9
+
+Cash interest paid
+
+6,814.0
+
+7,729.7
+
+9,214.1
+
+16,672.1
+
+2,548.1
+
+Cash flow from
+operations
+
+9,607.4
+
+(600.7)
+
+6,244.9
+
+(5,363.7)
+
+69.2
+
+Capital expenditure
+
+5,143.8
+
+32,339.0
+
+18,978.0
+
+59,809.0
+
+2,032.8
+
+Free operating cash
+flow (FOCF)
+
+4,463.6
+
+(32,939.7)
+
+(12,733.1)
+
+(65,172.7)
+
+(1,963.6)
+
+Discretionary cash flow
+(DCF)
+
+2,122.8
+
+(35,973.5)
+
+(16,248.1)
+
+(68,408.4)
+
+(3,202.2)
+
+Cash and short-term
+investments
+
+36,794.9
+
+133,432.2
+
+122,064.0
+
+91,345.9
+
+53,958.0
+
+Debt
+
+85,654.6
+
+123,753.3
+
+140,870.3
+
+258,409.6
+
+10,258.8
+
+Equity
+
+93,420.6
+
+181,581.9
+
+189,872.0
+
+178,570.7
+
+28,806.2
+
+Adjusted ratios
+EBITDA margin (%)
+
+5.7
+
+6.2
+
+5.3
+
+7.8
+
+4.6
+
+Return on capital (%)
+
+8.5
+
+12.6
+
+11.2
+
+6.1
+
+18.9
+
+EBITDA interest
+coverage (x)
+
+2.5
+
+4.2
+
+3.5
+
+1.9
+
+2.9
+
+FFO cash interest
+coverage (x)
+
+2.1
+
+5.0
+
+3.3
+
+1.6
+
+2.4
+
+Debt/EBITDA (x)
+
+5.2
+
+2.8
+
+3.6
+
+8.2
+
+1.3
+
+FFO/debt (%)
+
+8.4
+
+25.0
+
+15.3
+
+4.1
+
+35.7
+
+11.2
+
+(0.5)
+
+4.4
+
+(2.1)
+
+0.7
+
+FOCF/debt (%)
+
+5.2
+
+(26.6)
+
+(9.0)
+
+(25.2)
+
+(19.1)
+
+DCF/debt (%)
+
+2.5
+
+(29.1)
+
+(11.5)
+
+(26.5)
+
+(31.2)
+
+Cash flow from
+operations/debt (%)
+
+RMB--Chinese renminbi.
+
+We view China Railway Construction Corp. Ltd. (CRCC), China Railway Group Ltd. (CRG), Power Construction Corp.
+of China (PCC), and Shanghai Construction Group Co. Ltd. (SCG) as CMGC's closest peers.
+CMGC is a leading player in the Chinese metallurgical E&C market. CRCC and CRG have superior market standing
+and form a duopoly in China's railway and urban rail network. PCC is the top player in the Chinese and global
+power-related E&C industry. SCG mainly operates in housing construction and is dominant in Shanghai. CMGC's
+operational scale is smaller than all of its peers except SCG because of the niche metallurgical E&C market.
+CMGC was the only one among its peers to generate positive FOCF and deleverage in 2018. However, CMGC's
+financial leverage is still higher than that of CRG and CRCC. This is largely owing to its high debt level following its
+operating loss in 2012. Since then, CMGC has been deleveraging and gradually reducing its debt level.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 7
+
+China Metallurgical Group Corp.
+
+Chart 2
+
+Financial Risk: Aggressive
+We expect CMGC's leverage position to continue improving over the next two years as the company is committed to
+deleveraging. We believe it will generate sustained positive FOCF and gradually reduce debt.
+CMGC's operating cash flow will continue to improve, supported by revenue expansion and stable margins. At the
+same time, we believe CMGC will manage its working capital prudently. We expect working capital to record a net
+outflow of RMB0.5 billion–RMB1.0 billion in 2019-2020, from a net inflow of RMB199 million in 2018. This is mainly
+because of the increase in infrastructure construction projects, but the outflow is very small relative to its operating
+scale and compared with its peers. This is because CMGC is prudent in project selection, emphasizing profitability and
+cash collection. The company has also taken other measures, such as asset securitization, to improve cash collection.
+We also believe CMGC will manage its capex strictly, as indicated by the flat growth in capital spending in the first half
+of 2019 while revenue grew by 20% year-on-year. We do not expect the company to engage in large projects and
+anticipate that capex will be stable over the next two years.
+We believe CMGC will continue to engage in PPP projects in transportation and municipal engineering construction to
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 8
+
+China Metallurgical Group Corp.
+
+support its business growth. The majority of projects in these two subsegments are through PPPs and require equity
+investments in special purpose vehicles (SPVs) at the construction stage. CMGC has moderate exposure to such
+projects, with revenue contribution of about 20% to the company's total revenue as of end-2018. However, CMGC
+invests as a minority shareholder in PPP SPVs and is involved only in part of the construction work. As such, the
+investment outflow could be partially offset by the operating inflows, with limited impact on the overall leverage.
+
+Financial summary
+Table 2
+
+China Metallurgical Group Corp.--Financial Summary
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+288,725.2
+
+251,322.4
+
+224,833.3
+
+221,929.5
+
+220,626.3
+
+EBITDA
+
+16,356.8
+
+13,598.7
+
+13,223.3
+
+12,918.3
+
+13,376.4
+
+Funds from operations (FFO)
+
+7,161.9
+
+5,596.7
+
+3,880.2
+
+5,740.8
+
+5,206.6
+
+Interest expense
+
+6,441.7
+
+5,562.4
+
+6,106.5
+
+6,612.8
+
+7,472.2
+
+Cash interest paid
+
+6,814.0
+
+5,502.7
+
+6,942.3
+
+4,402.3
+
+5,369.0
+
+Cash flow from operations
+
+9,607.4
+
+13,563.4
+
+11,383.5
+
+13,290.4
+
+11,107.7
+
+Capital expenditure
+
+5,143.8
+
+4,805.9
+
+3,251.7
+
+3,403.8
+
+2,794.1
+
+Free operating cash flow (FOCF)
+
+4,463.6
+
+8,757.5
+
+8,131.8
+
+9,886.6
+
+8,313.6
+
+(Mil. RMB)
+
+Discretionary cash flow (DCF)
+
+2,122.8
+
+7,210.8
+
+7,361.1
+
+5,037.0
+
+3,555.7
+
+Cash and short-term investments
+
+36,794.9
+
+37,911.6
+
+40,381.2
+
+32,152.1
+
+32,660.3
+
+Gross available cash
+
+36,794.9
+
+37,911.6
+
+40,381.2
+
+32,152.1
+
+32,660.3
+
+Debt
+
+85,654.6
+
+78,391.3
+
+81,267.3
+
+88,616.2
+
+101,185.1
+
+Equity
+
+93,420.6
+
+87,786.8
+
+77,783.8
+
+68,456.8
+
+55,463.8
+
+EBITDA margin (%)
+
+5.7
+
+5.4
+
+5.9
+
+5.8
+
+6.1
+
+Return on capital (%)
+
+8.5
+
+6.9
+
+6.6
+
+7.5
+
+8.0
+
+EBITDA interest coverage (x)
+
+2.5
+
+2.4
+
+2.2
+
+2.0
+
+1.8
+
+FFO cash interest coverage (x)
+
+2.1
+
+2.0
+
+1.6
+
+2.3
+
+2.0
+
+Debt/EBITDA (x)
+
+5.2
+
+5.8
+
+6.1
+
+6.9
+
+7.6
+
+Adjusted ratios
+
+FFO/debt (%)
+
+8.4
+
+7.1
+
+4.8
+
+6.5
+
+5.1
+
+11.2
+
+17.3
+
+14.0
+
+15.0
+
+11.0
+
+FOCF/debt (%)
+
+5.2
+
+11.2
+
+10.0
+
+11.2
+
+8.2
+
+DCF/debt (%)
+
+2.5
+
+9.2
+
+9.1
+
+5.7
+
+3.5
+
+Cash flow from operations/debt (%)
+
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess CMGC's liquidity as adequate. We expect CMGC's ratio of liquidity sources to uses to be more than 1.2x
+over the next 12 months. We also anticipate that liquidity sources will exceed liquidity uses even if CMGC's EBITDA
+declines by 15% from our base-case forecast.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 9
+
+China Metallurgical Group Corp.
+
+CMGC's SOE subsidiary status will enable it to continue benefiting from preferential access to debt markets and
+support from financial markets in China to raise debt in a timely manner.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of RMB48.1 billion as of
+Dec. 31, 2018.
+
+• Short-term debt maturities of about RMB67.1 billion
+over the 12 months to end-2019.
+
+• Funds from operations that we estimate at RMB10
+billion-RMB15 billion over the 12 months to Dec. 31,
+2019.
+
+• Net working capital outflow of RMB0.5
+billion–RMB1.0 billion in the same period.
+
+• About RMB45 billion of ongoing group support in
+the form of bank credit lines at Chinese state-owned
+banks. These credit lines mature beyond 12 months
+and mainly serve to refinance existing short-term
+debt.
+
+• Estimated capex of RMB5 billion–RMB6 billion in
+the same period.
+• Dividend payment of RMB2 billion-RMB3 billion in
+the same period.
+• Equity investments in PPP projects of RMB4
+billion–RMB5 billion in the same period.
+
+Debt maturities
+Table 3
+
+China Metallurgical Group Corp.--Debt Maturities*
+Period
+
+Amount (Mil. RMB)
+
+2019
+
+67,176.0
+
+2020
+
+14,912.0
+
+2021
+
+10,972.0
+
+2022
+
+1,437.0
+
+2023
+
+813.0
+
+2023 onwards
+Total
+
+4,803.6
+100,113.6
+
+* As of Dec. 31, 2018. RMB--Chinese renminbi.
+
+Covenant Analysis
+The company has no restrictive financial covenants.
+
+Group Influence
+The rating on CMGC is based on our assessment of Minmetals' credit profile. We believe CMGC is a core subsidiary of
+Minmetals based on the following factors:
+• CMGC is vital to the group's target to become a global powerhouse in the metals and mining industry. We expect
+CMGC to be responsible for design and construction of all Minmetal's extraction and refining facilities, leveraging its
+rich experience and expertise in the metallurgical E&C segment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 10
+
+China Metallurgical Group Corp.
+
+• CMGC will likely remain an important profit and cash flow contributor to the Minmetals group; CMGC contributed
+30%-40% to the group's EBITDA in 2017 and 2018.
+• We believe CMGC's leverage is commensurate with that of the group and expect the company's focus on improving
+its working capital and reducing gross debt to be an important factor for the group to sustain its credit metrics.
+
+Reconciliation
+Table 4
+
+Reconciliation Of China Metallurgical Group Corp. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-China Metallurgical Group Corp. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+37,944.1
+
+16,121.6
+
+12,414.9
+
+4,941.4
+
+16,356.8
+
+16,149.7
+
+2,660.7
+
+(2,380.9)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+100,113.6
+
+Cash flow
+from
+operations
+
+Dividends
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(6,488.3)
+
+--
+
+--
+
+Operating leases
+
+72.6
+
+--
+
+43.7
+
+5.8
+
+5.8
+
+(5.8)
+
+37.9
+
+--
+
+Debt-like hybrids
+
+9,454.8
+
+(9,454.8)
+
+--
+
+--
+
+319.9
+
+(319.9)
+
+(319.9)
+
+(319.9)
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+2,889.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(27,596.2)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+1,174.7
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+27.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+1,531.4
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(6,260.3)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+64,931.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+Accessible cash and
+liquid investments
+
+720.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+163.9
+
+163.9
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation gains/(losses)
+
+--
+
+--
+
+--
+
+(29.0)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+709.0
+
+--
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+(163.9)
+
+--
+
+--
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 11
+
+China Metallurgical Group Corp.
+
+Table 4
+
+Reconciliation Of China Metallurgical Group Corp. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB) (cont.)
+Total adjustments
+
+(14,459.0)
+
+55,476.5
+
+235.2
+
+2,217.2
+
+1,500.3
+
+(9,194.9)
+
+(6,542.3)
+
+(319.9)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Dividends
+paid
+
+7,161.9
+
+9,607.4
+
+2,340.8
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+85,654.6
+
+93,420.6
+
+16,356.8
+
+14,632.1
+
+6,441.7
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bb
+
+• Group credit profile: bbb+
+• Entity status within group: Core (+4 notches from SACP)
+
+Related Criteria
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 12
+
+China Metallurgical Group Corp.
+
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Engineering And Construction Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 17, 2019)*
+China Metallurgical Group Corp.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Issuer Credit Ratings History
+29-Jan-2018
+
+BBB+/Stable/--
+
+14-Jul-2016
+
+BBB/Stable/--
+
+14-Dec-2015
+
+BBB-/Watch Pos/--
+
+15-Apr-2015
+
+BBB-/Stable/--
+
+Related Entities
+China Minmetals Corp.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+Metallurgical Corp. of China Ltd.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 13
+
+China Metallurgical Group Corp.
+
+Ratings Detail (As Of September 17, 2019)*(cont.)
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 15
+
+

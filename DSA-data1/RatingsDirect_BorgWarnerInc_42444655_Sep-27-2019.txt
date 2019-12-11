@@ -1,0 +1,1469 @@
+BorgWarner Inc.
+Primary Credit Analyst:
+Lawrence Orlowski, CFA, New York (1) 212-438-7800; lawrence.orlowski@spglobal.com
+Secondary Contact:
+Nishit K Madlani, New York (1) 212-438-4070; nishit.madlani@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 1
+
+BorgWarner Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb+
+
+bbb+
+
+bbb+
+
+BBB+/Stable/A-2
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Strong market position for most of its markets
+
+Subject to cyclical end markets.
+
+Good customer and geographic diversity.
+
+Intensely competitive industry.
+
+Low debt leverage and strong cash flow
+generation
+
+Substantial engineering and development costs required to maintain technological edge in
+product lines.
+
+BorgWarner Inc. continues to grow faster than the overall market due in part to the launch of new programs in Europe
+and North America and customer mix. In the second quarter, revenue rose approximately 540 basis points (bps) above
+industry revenue growth. The company's light-vehicle sales in Europe increased 2% versus the industry decline by
+more than 9%. North American light-vehicle sales were up 4%, outgrowing the market by 600 basis points. China sales
+fell 10% versus a market sales decline of 16%. We believe the company will continue to grow 2019 sales a few
+percentage points above the industry.
+The company has been successfully pursuing a propulsion-agnostic product strategy. It can offer an array of powertrain
+and drivetrain products for internal combustion, hybrid, and electric vehicles. It continues to strengthen its capability
+in electric vehicle (EV) technology, including chargers, electric motors, transmissions, and power electronics. The
+company recently entered into a joint venture with Romeo Power, a technology leader in battery management. We
+expect very high annual growth for hybrid and EV sales over the next five years.
+S&P Global Ratings expects the company's operating margin to be around 11.5% in 2019, below that achieved in 2018.
+We are focused on the company's ability to reduce its cost structure in order to help offset the effect of declining
+volumes, disappointing supply chain performance, tariffs, and disruption from supplier bankruptcies.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 2
+
+BorgWarner Inc.
+
+Chart 1
+
+Chart 2
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' view that BorgWarner's robust operating performance (driven by
+tightening global regulations), strong financial metrics, and a conservative financial policy will enable it to
+withstand potential slowdowns in global demand. Our base case assumes the company will remain committed to
+balancing investments, dividends, and acquisitions while maintaining debt to EBITDA of less than 2x and free
+operating cash flow (FOCF) to debt of more than 25% on a sustained basis. At the current rating, we believe the
+company has sufficient free cash flow to accommodate some acquisitions and modest share buybacks.
+
+Downside scenario
+We could lower the rating on BorgWarner during the next two years if we see an increased likelihood of a
+combination of adverse market conditions, large acquisitions, or share buybacks that would weaken the company's
+credit measures to below what we see as commensurate for the rating. We could also lower the rating if debt
+leverage were to rise to more than 2x or FOCF to debt were to fall to less than 25% on a sustained basis.
+
+Upside scenario
+An upgrade is unlikely during the next two years given the company's exposure to cyclical and highly competitive
+end markets with potential swings in profitability. Over the longer term, however, the business profile could
+potentially improve as the company enhances its scale and adds product diversity while sustaining FOCF/debt at
+more than 40%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 3
+
+BorgWarner Inc.
+
+Our Base-Case Scenario
+Assumptions
+
+• We expect U.S. GDP to grow by about 2.3% in 2019
+and 1.8% in 2020, which is directionally consistent
+with our outlook for light-vehicle production.
+• We see light-vehicle production declining about 1%
+in 2019 and 2020 in North America, decreasing 2.5%
+in 2019 and increasing 2.9% in 2020 in Western
+Europe, and falling 2.4% and rising 3.4% in Asia.
+• Revenue growth of negative 3% in 2019 and positive
+10% in 2020.
+
+Key Metrics
+
+2018A
+EBITDA margin (%)
+Debt to EBITDA (x)
+FOCF to debt (%)
+
+2019E
+
+2020E
+
+2021E
+
+16.4 16.0-16.5 16.0-16.5 16.0-16.5
+1.0
+
+0.8-1.2
+
+0.6-1.0
+
+0.6-1.0
+
+35.2
+
+35-40
+
+40-50
+
+40-50
+
+Note: Leverage and cash flow ratios include operating
+lease and postretirement benefit obligation
+adjustments. A--Actual. E--Estimate. FOCF--Free
+operating cash flow.
+
+• Capital expenditures (capex) averaging 5%-6% of
+sales annually.
+• Acquisitions of less than $200 million in 2019.
+• FOCF of at least $500 million annually.
+• Share repurchases totaling at least $100 million in
+2019.
+
+Base-case projections
+Our base-case projections for 2019 and 2020 assume debt to EBITDA at or below 1x and FOCF to debt greater than
+35%.
+
+Company Description
+The company offers technology solutions for combustion, hybrid, and electric vehicles that improve vehicle
+performance, propulsion efficiency, stability and air quality. These products are manufactured and sold worldwide,
+primarily to original equipment manufacturers (OEMs) of light vehicles (passenger cars, sport-utility vehicles, vans, and
+light trucks).
+
+Business Risk: Satisfactory
+We believe BorgWarner will continue to benefit from global efforts by virtually all developed markets to improve fuel
+economy and reduce passenger vehicle emissions. This will lead to increased demand for the company's products that
+improve engine and drivetrain efficiency. BorgWarner's technologically advanced products and established record of
+successful innovation support EBITDA margins that, in our view, compare favorably with those of nearly all rated auto
+suppliers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 4
+
+BorgWarner Inc.
+
+We expect BorgWarner's financial results to benefit from continuing application of turbochargers by automakers for
+both diesel engines, albeit facing declining demand in Europe, and gasoline engines. In the U.S., we expect the trend of
+shifting to smaller engines for fuel efficiency to provide growth for BorgWarner's turbocharger products.
+BorgWarner's product sales have historically outpaced market growth in Europe, and we expect this trend to continue
+through 2019 and into 2020. Europe is BorgWarner's largest market, representing about 38% of estimated 2018 sales.
+Despite a risk of production volume declines, the ratings reflect our assumption that the company can achieve good
+EBITDA margins because of solid capacity utilization on higher revenues and ongoing cost-cutting.
+We believe the company's large backlog means its products are being added to vehicles. BorgWarner projects $2.0
+billion-$2.4 billion of net new business revenues from 2019 through 2021, about 15% of which would be in Europe,
+60% in Asia, and 25% in the Americas. However, as with most auto suppliers, new business projections depend heavily
+on production volumes and could be lower if volumes decrease.
+We assess management and governance as strong, based on specific financial and operational goals with clear
+measures of achievement. BorgWarner's business strategy is nearly always consistent with its capabilities, and the
+company has a record of market leadership and effective innovation. Management has instituted policies that
+effectively identify, monitor, and mitigate key risks. Management has also set rigorous but reasonable standards for
+operational performance and has considerable expertise, experience, and a history of success in operating all of its
+major lines of business.
+
+Peer comparison
+Table 1
+
+BorgWarner Inc. -- Peer Comparison
+Industry Sector: Automotive - Parts Producers & Suppliers
+BorgWarner Inc.
+Ratings as of Sept. 11, 2019
+
+Aptiv PLC
+
+Lear Corp.
+
+BBB+/Stable/A-2 BBB/Stable/-- BBB-/Stable/NR
+
+Delphi Technologies PLC
+
+Tenneco Inc.
+
+BB/Stable/-- BB/Negative/NR
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+10,529.6
+
+14,435.0
+
+21,148.5
+
+4,858.0
+
+11,763.0
+
+EBITDA
+
+1,722.8
+
+2,275.0
+
+2,333.9
+
+732.5
+
+779.0
+
+Funds from operations (FFO)
+
+1,295.5
+
+1,832.3
+
+1,912.8
+
+561.8
+
+499.1
+
+Interest expense
+
+95.4
+
+168.7
+
+113.9
+
+85.7
+
+155.9
+
+111.6
+
+159.7
+
+126.9
+
+81.7
+
+166.9
+
+1,122.2
+
+1,714.3
+
+1,863.9
+
+433.8
+
+355.1
+
+Capital expenditure
+
+524.3
+
+846.0
+
+677.0
+
+272.0
+
+502.0
+
+Free operating cash flow (FOCF)
+
+597.9
+
+868.3
+
+1,186.9
+
+161.8
+
+(146.9)
+
+Discretionary cash flow (DCF)
+
+270.9
+
+101.3
+
+216.6
+
+74.8
+
+(257.9)
+
+Cash interest paid
+Cash flow from operations
+
+Cash and short-term investments
+
+739.4
+
+567.0
+
+1,498.0
+
+359.0
+
+697.0
+
+Debt
+
+1,719.0
+
+4,617.2
+
+1,423.6
+
+1,680.4
+
+6,544.2
+
+Equity
+
+4,344.8
+
+3,670.0
+
+4,518.7
+
+438.0
+
+2,054.0
+
+16.4
+
+15.8
+
+11.0
+
+15.1
+
+6.6
+
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 5
+
+BorgWarner Inc.
+
+Table 1
+
+BorgWarner Inc. -- Peer Comparison (cont.)
+Industry Sector: Automotive - Parts Producers & Suppliers
+BorgWarner Inc.
+
+Aptiv PLC
+
+Lear Corp.
+
+Delphi Technologies PLC
+
+Tenneco Inc.
+
+Return on capital (%)
+
+21.4
+
+20.4
+
+28.1
+
+26.2
+
+6.6
+
+EBITDA interest coverage (x)
+
+18.1
+
+13.5
+
+20.5
+
+8.5
+
+5.0
+
+FFO cash interest coverage (x)
+
+12.6
+
+12.5
+
+16.1
+
+7.9
+
+4.0
+
+1.0
+
+2.0
+
+0.6
+
+2.3
+
+8.4
+
+FFO/debt (%)
+
+75.4
+
+39.7
+
+134.4
+
+33.4
+
+7.6
+
+Cash flow from operations/debt (%)
+
+65.3
+
+37.1
+
+130.9
+
+25.8
+
+5.4
+
+FOCF/debt (%)
+
+34.8
+
+18.8
+
+83.4
+
+9.6
+
+(2.2)
+
+DCF/debt (%)
+
+15.8
+
+2.2
+
+15.2
+
+4.4
+
+(3.9)
+
+Debt/EBITDA (x)
+
+Financial Risk: Modest
+BorgWarner's financial risk profile reflects the company's continuing strong credit measures, which provide some
+cushion for underperformance in the case of a significant demand downturn in the auto industry.
+As of June 30, 2019, total debt to EBITDA was 1.2x and FOCF to debt was 41.5%. For the current rating, we expect
+debt to EBITDA to be less than 1.5x and FOCF to debt to be at least greater than 25% in 2019 and 2020. We believe
+further strategic acquisitions to support above-average industry growth with electrification technologies could limit any
+meaningful debt reduction.
+
+Financial summary
+Table 2
+
+BorgWarner Inc. -- Financial Summary
+Industry Sector: Automotive - Parts Producers & Suppliers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+10,529.6
+
+9,799.3
+
+9,071.0
+
+8,023.2
+
+8,305.1
+
+EBITDA
+
+1,722.8
+
+1,632.4
+
+823.6
+
+1,368.0
+
+1,369.1
+
+Funds from operations (FFO)
+
+1,295.5
+
+1,260.4
+
+404.8
+
+1,093.1
+
+1,072.6
+
+95.4
+
+94.2
+
+102.6
+
+81.6
+
+52.9
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+
+111.6
+
+115.7
+
+118.3
+
+91.0
+
+66.7
+
+1,122.2
+
+1,178.2
+
+1,045.6
+
+876.3
+
+805.2
+
+Capital expenditure
+
+524.3
+
+540.3
+
+486.5
+
+560.8
+
+549.5
+
+Free operating cash flow (FOCF)
+
+597.9
+
+637.9
+
+559.1
+
+315.5
+
+255.7
+
+Discretionary cash flow (DCF)
+
+270.9
+
+384.5
+
+127.8
+
+(151.0)
+
+(0.3)
+
+Cash and short-term investments
+
+739.4
+
+545.3
+
+443.7
+
+577.7
+
+797.8
+
+Cash flow from operations
+
+Gross available cash
+
+739.4
+
+545.3
+
+443.7
+
+577.7
+
+797.8
+
+Debt
+
+1,719.0
+
+2,094.8
+
+2,134.9
+
+2,407.6
+
+1,022.8
+
+Equity
+
+4,344.8
+
+3,825.9
+
+3,301.9
+
+3,631.5
+
+3,690.9
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 6
+
+BorgWarner Inc.
+
+Table 2
+
+BorgWarner Inc. -- Financial Summary (cont.)
+Industry Sector: Automotive - Parts Producers & Suppliers
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA margin (%)
+
+16.4
+
+16.7
+
+9.1
+
+17.0
+
+16.5
+
+Return on capital (%)
+
+21.4
+
+21.3
+
+7.2
+
+19.2
+
+22.8
+
+EBITDA interest coverage (x)
+
+18.1
+
+17.3
+
+8.0
+
+16.8
+
+25.9
+
+FFO cash interest coverage (x)
+
+12.6
+
+11.9
+
+4.4
+
+13.0
+
+17.1
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+1.0
+
+1.3
+
+2.6
+
+1.8
+
+0.7
+
+FFO/debt (%)
+
+75.4
+
+60.2
+
+19.0
+
+45.4
+
+104.9
+
+Cash flow from operations/debt (%)
+
+65.3
+
+56.2
+
+49.0
+
+36.4
+
+78.7
+
+FOCF/debt (%)
+
+34.8
+
+30.5
+
+26.2
+
+13.1
+
+25.0
+
+DCF/debt (%)
+
+15.8
+
+18.4
+
+6.0
+
+(6.3)
+
+(0.0)
+
+Liquidity: Strong
+We consider BorgWarner's liquidity to be strong. We believe BorgWarner can more than cover its needs for the next
+two years, even if EBITDA were to decline 30% from our assumed level. We also assume the ratio of sources to uses
+will exceed 1.5x-2.0x. The company has good relationships with its banks and good standing in credit markets, in our
+view, based on recent capital-markets transactions. However, we do not believe BorgWarner's qualitative liquidity
+factors support an even stronger assessment.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Availability of $1.2 billion, as of June 30, 2019, under
+its multicurrency revolving credit facility that
+provides backup to the $1.2 billion commercial
+paper program; the total combined borrowing
+capacity under the multicurrency revolver and
+commercial paper program cannot exceed $1.2
+billion;
+
+• The nearest debt maturities are the $134 million 8%
+senior notes due in October 2019 and $250 million
+of 4.625% senior notes due in September 2020; and
+• We assume capital spending between 5% and 6% of
+total revenue in 2019.
+
+• $710 million of cash, as of June 30, 2019, mostly
+held outside the U.S.; and
+• Funds from operation (FFO) of about $1.3 billion in
+2019 and $1.5 billion in 2020.
+
+Debt Maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 7
+
+BorgWarner Inc.
+
+Table 3
+
+Debt Maturity Schedule
+(Mil. $)
+2019
+
+172.6
+
+2020
+
+257.3
+
+2021
+
+1.3
+
+2022
+
+573.7
+
+2023
+
+0.1
+
+Thereafter
+
+1,120.7
+
+As of Dec. 31, 2018.
+
+Covenant Analysis
+Compliance expectations
+The company was in compliance with its financial covenant at June 30,2019 and we expect it to remain compliant
+over the next few years.
+
+Requirements
+We expect more than adequate cushion on its key financial covenant as part of the credit agreement that it maintain a
+debt-to-EBITDA ratio of no higher than 3.25x.
+
+Environmental, Social, And Governance
+
+We expect BorgWarner to spend about 4% of its revenue on research and development (R&D) and 5%-6% of its
+revenue on capex in current and future years, to remain competitive and provide the technology to help OEMs
+stay in compliance with prevailing emissions regulations. R&D expenditure as a percentage of sales is generally
+below the level of global European and Japanese auto suppliers.
+Social factors do not play a major role in our ratings on BorgWarner. We believe the company's reserves are
+sufficient to cover the costs of litigation.
+We see BorgWarner's management and governance as satisfactory, reflecting its success in implementing its
+strategic plans, its operational expertise, and management depth and breadth.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+BorgWarner's capital structure consists of a $1.2 billion multicurrency revolving facility that backdrops its commercial
+paper program. The company also has long-term debt consisting of $2 billion in senior unsecured notes.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 8
+
+BorgWarner Inc.
+
+Analytical conclusions
+We rate BorgWarner's unsecured debt 'BBB+', the same as the issuer credit rating, because no significant elements of
+subordination risk are present in the company's capital structure.
+
+Reconciliation
+Table 4
+
+Reconciliation Of BorgWarner Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. $)
+--Fiscal year ended Dec. 31, 2018-BorgWarner Inc. reported amounts
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+4,225.5
+
+1,655.6
+
+1,198.7
+
+67.4
+
+1,722.8
+
+1,126.5
+
+546.6
+
+(315.7)
+
+--
+
+--
+
+Debt
+
+Shareholders'
+equity
+
+2,113.3
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(83.6)
+
+--
+
+--
+
+Operating leases
+
+95.5
+
+--
+
+23.7
+
+5.7
+
+5.7
+
+(5.7)
+
+18.0
+
+--
+
+234.9
+
+--
+
+(9.4)
+
+(9.4)
+
+--
+
+--
+
+--
+
+--
+
+(739.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+22.3
+
+(22.3)
+
+(22.3)
+
+(22.3)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+52.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+59.3
+
+--
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+119.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+14.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+25.6
+
+--
+
+--
+
+--
+
+--
+
+(394.3)
+
+119.3
+
+67.2
+
+81.2
+
+28.0
+
+(427.3)
+
+(4.3)
+
+(22.3)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+1,295.5
+
+1,122.2
+
+524.3
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Debt: Tax liabilities
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+1,719.0
+
+4,344.8
+
+1,722.8
+
+1,279.9
+
+95.4
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 9
+
+BorgWarner Inc.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB+/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb+
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, Sept. 21, 2017
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Auto Suppliers Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 10
+
+BorgWarner Inc.
+
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 12, 2019)*
+BorgWarner Inc.
+Issuer Credit Rating
+
+BBB+/Stable/A-2
+
+Commercial Paper
+Local Currency
+Senior Unsecured
+
+A-2
+BBB+
+
+Issuer Credit Ratings History
+19-Mar-2014
+
+BBB+/Stable/A-2
+
+10-Apr-2012
+
+BBB+/Stable/--
+
+25-Mar-2010
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 12
+
+

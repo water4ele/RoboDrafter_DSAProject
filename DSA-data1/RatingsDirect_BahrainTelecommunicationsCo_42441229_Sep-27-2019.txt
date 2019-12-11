@@ -1,0 +1,1501 @@
+Bahrain Telecommunications Co.
+Primary Credit Analyst:
+Mark Habib, Paris (33) 1-4420-6736; mark.habib@spglobal.com
+Secondary Contacts:
+Tommy J Trask, Dubai (971) 4-372-7151; tommy.trask@spglobal.com
+Rawan Oueidat, CFA, Dubai + 971(0)43727196; rawan.oueidat@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 2
+
+Bahrain Telecommunications Co.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bb+
+
+bb+
+B+/Stable/B
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Solid operational performance, benefiting from improving mobile market
+share in Bahrain coupled with a more favorable regulatory environment,
+and No. 1 or No. 2 positions in most markets.
+
+Smaller scale compared with global and regional peers, with
+operations in the highly competitive three-player Bahraini telecom
+market contributing 40%-45% of company revenues.
+
+Normalization of performance in Bahrain and continued focus on cost
+efficiencies supporting our expectation of consistent profitability (about
+37% EBITDA margin on an S&P Global Ratings-adjusted basis).
+
+Sizable capital expenditure (capex) due to network upgrades, fiber
+rollouts, and license renewals, plus significant dividends (90%-100%
+payout ratio), both weigh on discretionary cash flow generation.
+
+Strong balance sheet, despite sizable capital investment (adjusted
+debt-to-EBITDA expectation below 1.5x), though upcoming debt maturity
+in 2020 will tighten the liquidity cushion significantly until refinanced.
+
+Increased taxes in international portfolio, most noticeably in Jordan.
+
+A very strong link to the Bahraini government (B+/Stable), which
+could expose it to extraordinary negative intervention in times of
+sovereign stress.
+
+Despite sizable capex plans and dividends, we expect adjusted leverage (net debt to EBITDA) to remain below 1.5x
+throughout our forecast period, supported by the company's strong balance sheet and resilient margins. We expect
+Bahrain Telecommunications Co.'s (Batelco's) dividend payout will remain 90%-100% of net profit. Also, we anticipate
+Batelco's capex requirements will peak in 2019 and 2020 before normalizing at around Bahraini dinar (BHD) 60 million
+per year thereafter, due to mobile network and fiber upgrades in Bahrain, and mobile license renewals and spectrum
+fees in Bahrain and Jordan. Nevertheless, we view the company's conservative financial policy, resilient EBITDA
+margin (around 37%) and net cash position will help retain adjusted leverage below 1.5x (at least until 2021).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 3
+
+Bahrain Telecommunications Co.
+
+Chart 1
+
+Chart 2
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on Bahraini integrated telecom operator Batelco mirrors that on Bahrain. It also
+reflects our view that Batelco is likely to maintain its operating performance and adjusted debt to EBITDA well
+below 2.0x (0.9x for 2018), despite increased capex requirements and high dividends, and liquidity sources to uses
+of at least 1x.
+
+Downside scenario
+We could lower our rating on Batelco if our liquidity forecast falls below 1x coverage, which could occur if Batelco
+underperforms our cash generation forecast over the next quarter or increases spending on capex, and does not
+refinance its May 2020 bond maturity or have a credible financing plan in place by November 2019. A downgrade
+of Bahrain would also likely lead us to downgrade Batelco, provided our assessment of Batelco's relationship with
+the government remains unchanged.
+
+Upside scenario
+We could raise our rating on Batelco if the rating on Bahrain was raised, provided our assessment of Batelco's
+relationship with the government remains unchanged.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 4
+
+Bahrain Telecommunications Co.
+
+Assumptions
+
+• Overall topline growth of 2%-3% for 2019-2020
+(compared with 7% in 2018), mainly due to growth
+in Bahrain, Jordan, and the Maldives.
+• Growth of 3%-5% in Bahrain in 2019-2020,
+supported by the company's efforts to grow its
+market share and average revenue per user (ARPU)
+levels in the mobile and broadband segments. More
+specifically, we expect mobile revenues to benefit
+from ARPU growth in prepaid due to successful
+pricing and product packaging enhancements (such
+as shifting from volume-driven packages), in
+addition to pre-to-postpaid substitution resulting in
+higher postpaid subscribers.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Revenue growth (%)
+
+7.0
+
+2-3
+
+1-2
+
+EBITDA margin* (%)
+
+36.6
+
+37-38
+
+37-38
+
+Capital expenditure (mil. BHD)
+
+48.3
+
+120-130
+
+60-70
+
+DCF* (mil. BHD)
+
+12.4 Negative
+
+Debt to EBITDA* (x)
+
+0.9
+
+FFO to debt* (%)
+
+96.3
+
+FOCF to debt* (%)
+
+48.6
+
+0.8-1.0
+
+10-20
+0.8-1.0
+
+90-100 110-120
+10-15
+
+50-60
+
+*S&P Global Ratings-adjusted. FFO--Funds from
+operations. FOCF--Free operating cash flow.
+DCF--Discretionary cash flow. A--Actual. E--Estimate.
+
+• We expect the company's major capex plans in
+mobile network expansion and 5G rollout to fuel
+broadband growth, and its upselling strategy to
+further increase ARPU growth, in addition to
+continued fiber rollout in fixed broadband.
+• Stable EBITDA margin (about 37% on an S&P
+Global Ratings-adjusted basis), supported by cost
+containment initiatives in Bahrain and Jordan, but
+partially offset by increasing competition.
+• Capex of BHD120 million-BHD130 million in 2019
+(compared to BHD48 million in 2018) due to
+network and spectrum investments in Bahrain and
+solar investment in Jordan. We expect capex will
+peak in 2019 before declining to less than BHD70
+million in 2020.
+• Annual dividends of about BHD55 million,
+translating into a a payout ratio of about 90%.
+• Proceeds of BHD31.6 million from the 90% stake
+sale in Qualitynet, which was completed in May
+2019.
+
+Base-case projections
+EBITDA margin remaining around 37%, slightly above 2018 levels. This is mainly fueled by topline growth, in addition
+to ongoing cost-optimization efforts and a focus on digitization translating into realized efficiencies. In Bahrain, we
+expect profitability to decline to a reported 40% in 2019 (from about 43% in 2018), largely due to the costs associated
+with the separation of the infrastructure and retail entities. In Jordan, we expect a 2%-3% decline in topline for
+2020-2021 to reflect the new mobile termination rates (MTR), but we also anticipate a normalized reported EBITDA
+margin at the 30% level. In the Maldives, we expect consistent topline growth of 3%-5% and stable reported margins
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 5
+
+Bahrain Telecommunications Co.
+
+of about 50%-52%, supported by growth in subscriber acquisitions, and data and TV.
+Capex to sales peaking in 2019 before tapering off to 15% by 2021. We expect the ratio of capex to sales to reach 30%
+in 2019, before declining gradually to 15% by 2021. This view reflects the higher network investments in Bahrain due
+to 5G rollouts and digitization of the network, fiber rollout in Bahrain, and spectrum and license renewals in Bahrain
+and Jordan. We understand that a portion of this capex is discretionary, and could be delayed if there is pressure on
+liquidity or budget.
+
+Company Description
+Batelco is a Bahrain-based integrated telecom operator providing mobile, fixed telephony, and broadband services
+across Bahrain, Jordan, the Maldives, some British islands (including Guernsey, Jersey, and the Isle of Man), and
+Yemen (through its 27% shareholding). In May 2019, Batelco announced the completion of the sale of its 90% stake in
+Kuwait-based Qualitynet to VIVA Kuwait, a subsidiary of Saudi Telecom Co. Batelco's revenues reached BHD405.9
+million ($1.08 billion) in fiscal year ended 31 Dec., 2018, with a total subscriber base of 8.4 million.
+The Bahraini government, through three Bahraini-related entities, owns a 77% stake in the group, with the remaining
+23% floated on the Bahrain Stock Exchange.
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 6
+
+Bahrain Telecommunications Co.
+
+Business Risk: Fair
+Batelco's business risk profile assessment primarily reflects our view of the company's solid operating performance and
+resilient margins, but balanced by the group's limited scale compared to global and regional peers, and its exposure to
+challenges in its international portfolio.
+We note Batelco's improving mobile market share in Bahrain (37%), and leading No. 1 and No. 2 position across its
+international portfolio. The main constraints on Batelco's business risk profile assessment are the company's fairly
+small scale on a global basis, given that the majority of its operational markets have relatively small populations; the
+evolving competitive landscape in Bahrain; increased taxes in the international portfolio (namely in Jordan); and its
+exposure to country risk.
+Chart 4
+
+Peer comparison
+Table 1
+
+Bahrain Telecommunications Co.--Peer Comparison
+Industry Sector: Diversified Telecom
+
+Rating as of May 30,
+2019
+
+Bahrain
+Telecommunications Co.
+
+Saudi Telecom
+Co.
+
+Emirates Telecommunications
+Group Company PJSC
+
+Ooredoo
+Q.P.S.C.
+
+Turk
+Telekom
+
+B+/Stable/B
+
+A-/Stable/A-2
+
+AA-/Stable/A-1+
+
+A-/Stable/A-2
+
+BB-/Stable/B
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 7
+
+Bahrain Telecommunications Co.
+
+Table 1
+
+Bahrain Telecommunications Co.--Peer Comparison (cont.)
+Industry Sector: Diversified Telecom
+Bahrain
+Telecommunications Co.
+
+Saudi Telecom
+Co.
+
+Emirates Telecommunications
+Group Company PJSC
+
+Ooredoo
+Q.P.S.C.
+
+Turk
+Telekom
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenues
+
+1,076.5
+
+13,851.6
+
+14,262.7
+
+8,219.6
+
+3,858.5
+
+EBITDA
+
+393.5
+
+5,464.1
+
+6,241.4
+
+3,474.6
+
+1,553.0
+
+FFO
+
+340.9
+
+5,206.8
+
+5,477.7
+
+2,728.6
+
+1,311.6
+
+Interest expense
+
+39.7
+
+118.0
+
+324.1
+
+646.2
+
+232.6
+
+Cash interest paid
+
+36.4
+
+73.1
+
+318.8
+
+610.1
+
+222.6
+
+Cash flow from
+operations
+
+300.3
+
+5,330.8
+
+5,234.0
+
+2,446.9
+
+1,327.4
+
+Capital expenditures
+
+128.1
+
+2,600.9
+
+2,283.6
+
+1,647.1
+
+767.7
+
+Free operating cash
+flow
+
+172.2
+
+2,729.9
+
+2,950.4
+
+799.9
+
+559.6
+
+Discretionary cash
+flow
+
+32.9
+
+582.8
+
+641.6
+
+323.9
+
+559.6
+
+Cash and short-term
+investments
+
+378.7
+
+4,755.3
+
+7,721.4
+
+4,804.7
+
+736.2
+
+Debt
+
+354.1
+
+0.0
+
+1,341.6
+
+8,212.6
+
+3,572.9
+
+1,339.2
+
+17,769.6
+
+15,585.2
+
+7,739.3
+
+1,407.6
+
+EBITDA margin (%)
+
+36.6
+
+39.4
+
+43.8
+
+42.3
+
+40.2
+
+Return on capital (%)
+
+11.7
+
+20.1
+
+25.6
+
+8.1
+
+19.9
+
+EBITDA interest
+coverage (x)
+
+9.9
+
+46.3
+
+19.3
+
+5.4
+
+6.7
+
+FFO cash interest
+coverage (x)
+
+10.4
+
+72.2
+
+18.2
+
+5.5
+
+6.9
+
+Debt/EBITDA (x)
+
+0.9
+
+0.0
+
+0.2
+
+2.4
+
+2.3
+
+FFO/debt (%)
+
+96.3
+
+N.M.
+
+408.3
+
+33.2
+
+36.7
+
+Cash flow from
+operations/debt (%)
+
+84.8
+
+N.M.
+
+390.1
+
+29.8
+
+37.2
+
+Free operating cash
+flow/debt (%)
+
+48.6
+
+N.M.
+
+219.9
+
+9.7
+
+15.7
+
+Discretionary cash
+flow/debt (%)
+
+9.3
+
+N.M.
+
+47.8
+
+3.9
+
+15.7
+
+Equity
+Adjusted ratios
+
+FFO--Funds from operations.
+
+Batelco enjoys solid profitability (EBITDA margin of around 37%) with strong balance sheet position (adjusted net debt
+to EBITDA at about 1.0x).
+Compared with Turkish peers, Batelco has lower revenue growth and is much smaller in scale, but has a stronger
+balance sheet.
+Compared with GCC peers, we see Ooredoo as the closest peer in terms of the stand-alone rating position. We view
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 8
+
+Bahrain Telecommunications Co.
+
+Ooredoo as stronger, given its larger scale and slightly higher profitability, which is mainly a reflection of the
+more-favorable competitive landscape in Qatar (a duopoly, compared with Bahrain's three-player market).
+Nevertheless, we note that Batelco enjoys a stronger balance sheet (leverage below 1.0x versus Ooredoo's 2.4x-2.6x
+ratio), which gives it a better financial standing to withstand the high capex needs and sizable dividends both operators
+face.
+
+Financial Risk: Modest
+Batelco's financial risk profile is supported by the company's strong balance sheet, with adjusted debt to EBITDA at
+less than 1.0x, despite sizable investments in networks, with capex set to reach close to 30% of sales in 2019, and high
+dividends (90%-100% of earnings). We expect Batelco will maintain generous dividend distributions of BHD50 million
+to BHD55 million. We also forecast negative discretionary cash flow generation, breaking even in 2020 mainly due to
+high capex.
+
+Financial summary
+Table 2
+
+Bahrain Telecommunications Co.--Financial Summary
+Industry Sector: Diversified Telecom
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenues
+
+405.9
+
+379.4
+
+367.1
+
+372.4
+
+389.7
+
+EBITDA
+
+148.3
+
+135.4
+
+137.1
+
+137.0
+
+149.3
+
+FFO
+
+128.5
+
+117.8
+
+119.0
+
+118.7
+
+138.6
+
+Interest expense
+
+15.0
+
+13.1
+
+13.3
+
+10.0
+
+10.9
+
+Cash interest paid
+
+13.7
+
+11.9
+
+12.1
+
+10.3
+
+10.7
+
+113.2
+
+93.2
+
+130.3
+
+125.5
+
+132.9
+
+Capital expenditures
+
+48.3
+
+54.2
+
+72.6
+
+93.9
+
+35.6
+
+Free operating cash flow
+
+64.9
+
+39.0
+
+57.8
+
+31.5
+
+97.3
+
+(Mil. BHD)
+
+Cash flow from operations
+
+Discretionary cash flow
+
+12.4
+
+(15.9)
+
+6.2
+
+(18.7)
+
+55.3
+
+Cash and short-term investments
+
+142.8
+
+158.7
+
+172.4
+
+160.0
+
+150.2
+
+Gross available cash
+
+155.6
+
+158.7
+
+172.4
+
+160.0
+
+150.2
+
+Debt
+
+133.5
+
+115.3
+
+119.6
+
+125.6
+
+84.0
+
+Equity
+
+504.9
+
+502.5
+
+537.0
+
+573.1
+
+579.1
+
+EBITDA margin (%)
+
+36.6
+
+35.7
+
+37.4
+
+36.8
+
+38.3
+
+Return on capital (%)
+
+11.7
+
+10.8
+
+10.4
+
+10.5
+
+13.2
+
+EBITDA interest coverage (x)
+
+9.9
+
+10.3
+
+10.3
+
+13.7
+
+13.8
+
+FFO cash interest coverage (x)
+
+10.4
+
+10.9
+
+10.8
+
+12.6
+
+13.9
+
+0.9
+
+0.9
+
+0.9
+
+0.9
+
+0.6
+
+FFO/debt (%)
+
+96.3
+
+102.1
+
+99.5
+
+94.5
+
+165.0
+
+Cash flow from operations/debt (%)
+
+84.8
+
+80.8
+
+109.0
+
+99.9
+
+158.3
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 9
+
+Bahrain Telecommunications Co.
+
+Table 2
+
+Bahrain Telecommunications Co.--Financial Summary (cont.)
+Industry Sector: Diversified Telecom
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Free operating cash flow/debt (%)
+
+48.6
+
+33.8
+
+48.3
+
+25.1
+
+115.9
+
+Discretionary cash flow/debt (%)
+
+9.3
+
+(13.8)
+
+5.2
+
+(14.9)
+
+65.8
+
+FFO--Funds from operations. BHD--Bahraini dinar.
+
+Liquidity: Strong
+We assess Batelco's liquidity as adequate owing to the company's upcoming bond maturity (May 2020), which reduces
+our ratio of liquidity sources to uses to well below 1.5x. Upon successful refinancing, we expect a return to the more
+robust liquidity cushion the company has maintained in the past.
+The 12-month sources-to-uses ratio starting July 1, 2019 (without bond refinancing, which is only planned for January
+2020) is 1.2x. In our view, this is the minimum required for adequate liquidity, and this is achieved by Batelco
+through two mitigating factors: we assume about 15% of Batelco's Bahraini dinar (BHD) 86 million capex is
+discretionary and can be reduced; and we expect that the company can scale back its April 2020 dividend if needed to
+support liquidity.
+We understand that the company intends to launch refinancing of its bonds in early 2020. In our view, refinancing to
+such a tight deadline could expose it to capital market conditions over a narrow window. Nevertheless, we view such
+risk as manageable. This is because Batelco benefits from sizable cash balances (about BHD200 million at July 1,
+2019), which can fully cover the May maturities; good bank relationships, especially with local banks; a prudent
+balance sheet position with leverage of less than 1x; and a positive growth profile and operating trends. However, we
+will likely reassess our view in November 2019, when the bond maturity falls to six months. If a credible refinancing
+plan is not in place, and the company continues to invest in its current capex plans, we could lower our assessment to
+less than adequate if the cushion falls below 1.2x, though additional tightening or any increase in refinancing risk could
+further affect our view of liquidity.
+Our 12-month liquidity view as of July 1, 2019 assuming no refinancing, is as follows:
+
+Principal liquidity sources
+• Consolidated cash and equivalents of about BHD202 million;
+• Undrawn bank lines of about BHD9 million; and
+• Funds from operations that we project will be about BHD136 million over the coming 12 months.
+
+Principal liquidity uses
+• Debt maturities in 2019 and 2020 of about BHD198 million;
+• Annual capex of about BHD73 million for the 12-month period, with an implied haircut of 15% (discretionary capex
+spending); and
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 10
+
+Bahrain Telecommunications Co.
+
+• Annual dividends of about BHD16.6 million.
+The company is not subject to any financial covenants.
+We do not account for share buyback plans announced by the company as it is not a contracted cash outflow, in line
+with our criteria.
+We are mindful that cash uses may be significantly higher than stated above if acquisition opportunities arise or there
+are exceptional dividends, which are not factored into our base case.
+
+Other Credit Considerations
+We factor into the rating our negative view of Batelco compared with its rated peers, based on direct and indirect risks
+posed by Bahrain's weak fiscal profile, and the company's significant headroom under its financial policy.
+
+Government Influence
+We consider Batelco to be a government-related entity (GRE) due to the sovereign's stake of about 77% in the
+company. In accordance with our criteria for GREs, our view of a moderately high likelihood of extraordinary
+government support is based on our assessment of Batelco's:
+• Limited importance for the government, given that increased competition in the Bahraini telecoms market has
+resulted in a meaningful market share decline for Batelco. It also reflects our view that the Bahraini telecoms
+regulator is independent from the government, especially compared with the majority of other Gulf Cooperation
+Council countries, where the introduction of competition has not significantly affected incumbent telecoms
+operators. Therefore we believe that the Bahrain government might have less incentive to support Batelco; and
+• Very strong link with the government, since the government owns about 77% of the company. Furthermore, the
+majority of Batelco's board comprises members of the government.
+Given Batelco's very strong link with the government, our rating on Bahrain caps the company's long-term rating
+because we believe the government can influence Batelco's financial policy and strategy, as well as industry regulation
+or taxation.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Batelco's capital structure primarily comprises a bond of $473 million (BHD177 million). This represents around 80%
+of gross debt, which is raised at parent level.
+
+Analytical conclusions
+Since 80% of gross debt is at parent level and Batelco has a strong balance sheet, this should help it offset
+subordination risks. Consequently, we rate the bond in line with the issuer credit rating.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 11
+
+Bahrain Telecommunications Co.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Bahrain Telecommunications Co. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. BHD)
+--Fiscal year ended Dec. 31, 2018-Bahrain Telecommunications Co. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+236.8
+
+465.2
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+142.8
+
+72.7
+
+13.2
+
+148.3
+
+114.0
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(6.1)
+
+--
+
+Cash taxes paid - Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(11.9)
+
+--
+
+34.5
+
+--
+
+5.5
+
+1.8
+
+1.8
+
+(1.8)
+
+3.7
+
+--
+
+--
+
+(0.0)
+
+(0.0)
+
+--
+
+--
+
+--
+
+(140.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+(1.0)
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4.5)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+39.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(103.3)
+
+39.6
+
+5.5
+
+0.8
+
+1.8
+
+(19.8)
+
+(0.8)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+128.5
+
+113.2
+
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Debt - Guarantees
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+133.5
+
+504.9
+
+148.3
+
+73.6
+
+15.0
+
+BHD--Bahraini dinar.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/B
+
+Business risk: Fair
+
+• Country risk: High
+• Industry risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 12
+
+Bahrain Telecommunications Co.
+
+• Competitive position: Fair
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : bb+
+
+• Related government rating: B+
+• Likelihood of government support: Moderately high
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 13
+
+Bahrain Telecommunications Co.
+
+Related Research
+• GCC Capital Market Issuance Should Bounce Back This Year Following A Brief Lull In The First Quarter, April 8,
+2019
+• Industry Top Trends 2019: Telecommunications, Nov. 15, 2018
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Modest
+
+Intermediate
+
+Significant
+
+Ratings Detail (As Of September 12, 2019)*
+Bahrain Telecommunications Co.
+Issuer Credit Rating
+
+B+/Stable/B
+
+Issuer Credit Ratings History
+05-Dec-2017
+
+B+/Stable/B
+
+05-Jun-2017
+
+BB-/Negative/B
+
+12-Dec-2016
+
+BB-/Stable/B
+
+22-Feb-2016
+
+BB/Stable/B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 15
+
+

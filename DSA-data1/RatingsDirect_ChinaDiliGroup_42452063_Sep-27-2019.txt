@@ -1,0 +1,1241 @@
+China Dili Group
+Primary Credit Analyst:
+Aeon Liang, Hong Kong (852) 2533-3563; aeon.liang@spglobal.com
+Secondary Contact:
+Edward Chan, CFA, Hong Kong + 852 2533 3539; edward.chan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Other Credit Considerations
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 1
+
+China Dili Group
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+b-
+
+b-
+
+B-/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good profitability supported by lower use of operating lease and sale
+of aircrafts.
+
+Small operating scale in the fragmented agricultural wholesale market
+with low barrier to entry and pricing power.
+
+Slightly reduced geographic concentration in northeastern China on
+the back of acquisitions in Hangzhou.
+
+Limited management experience in the new business model and unclear
+business strategy.
+High and worsening financial leverage driven by debt-funded acquisitions.
+
+Lack of clear business strategy weighs on operations despite mature agricultural wholesale markets.We expect low
+single-digit growth of 2.0%-3.0% for rental and commission income in 2019-2021, given that there are no specific
+business strategies or vertical value-chain synergies expected. China Dili Group (CDG; B-/Stable/--) operates in
+mature and competitive markets like Heilongjiang province, which contributed 34.0% of 2018 revenue. Other markets
+like Guizhou and Shandong provinces are also mature markets but the company lacks cost leadership or differentiation
+while most of its tenants are price-sensitive farmers.
+Hangzhou acquisitions helped the company expand outside northeastern China, but scale remains small. We believe
+the company's geographical expansion has improved as the newly acquired Hangzhou properties is expected to
+increase from 14.0% in 2018 to 27.0% in 2019, after we account for the full-year impact. That said, the overall scale
+remains small, thereby limiting further upside on the rental income growth.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 2
+
+China Dili Group
+
+Chart 1
+
+Hada acquisition to result in high leverage and will remain elevated during the next 12-24 months. CDG's debt position
+increased in 2018, driven by the consolidation of the existing debt from the Hangzhou acquisitions of Chinese renminbi
+(RMB) 571.7 million. CDG had no debt except operating lease liability prior to that.
+We expect the debt levels to further increase on account of planned issuance of convertible bonds worth RMB5.4
+billion to fund the Hada acquisition in the second half of 2019. Nonetheless, it will no longer incur operating lease
+expenses and with the sale of its two aircrafts, EBITDA margins is likely to improve slightly to 42%-43% in 2019-2021
+to temper the rising leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 3
+
+China Dili Group
+
+Chart 2
+
+Outlook: Stable
+
+The stable outlook over the next 12 months reflects our view that CDG's agribusiness will continue to generate
+stable cash flows.
+
+Downside scenario
+We could lower the rating if CDG aggressively uses debt to support business expansion or large acquisitions,
+leading to a substantial increase in leverage and an unsustainable capital structure. We could also lower the rating
+if CDG's liquidity worsens severely.
+
+Upside scenario
+The rating upside is limited in the next 12 months, given its highly leveraged position--which we believe is unlikely
+to significantly improve due to recent acquisitions. At the same time, CDG has yet to demonstrate a longer record
+of prudent financial management and of successfully operating its new business model.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 4
+
+China Dili Group
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• China's GDP is expected to grow by 6.2% in both
+2019 and 2020.
+
+2018A
+EBITDA margin
+
+• The agricultural wholesale market in China will grow
+at a low single digit for the next several years due to
+slowing population and economic growth.
+• We expect average rental and commission income
+to grow between 2.0%-3.0% in 2019-2021, in line
+with China's agricultural wholesale market growth.
+Revenue is expected to grow by 20%-23% in 2019,
+given the first full-year impact from the Hangzhou
+acquisitions. Going ahead, the growth will stabilize
+between 3.5%-6.0% in 2020-2021.
+
+2019E
+
+2020E
+
+36.9% 42.0%-43.0% 42.0%-43.0%
+
+Debt/EBITDA
+
+5.0x
+
+12x-14x
+
+10x-12x
+
+EBITDA/Interest
+
+3.7x
+
+1.0-1.5x
+
+0.9-1.0x
+
+A--Actual. E--Estimate.
+
+• EBITDA margin expected to improve to
+42.0%-43.0% in 2019-2021 as against 36.9% in 2018.
+This on account of absence of significant
+maintenance expenses incurred on the aircrafts that
+were sold off in 2018 and related expenses from the
+Hangzhou acquisitions.
+• We expect the capex of RMB200 million-RMB500.0
+million in 2019-2020 towards enlarging trading and
+rental space, upgrading infrastructure, as well as
+installing new software and technology. This will be
+funded through the part of the proceeds from rights
+issues.
+• We expect debt/EBITDA to rise to 12x-14x in 2019
+as against 5.0x in 2018 on the back of the Hada
+acquisition.
+
+Company Description
+CDG is an operator of wholesale agriculture markets in China. It currently operates in 10 markets across seven cities in
+China: Harbin, Qiqihar, Shenyang, Guiyang, Mudanjiang, Shouguang, and Hangzhou. Out of the 10 markets, seven are
+on lease since July 2015 from Yield Smart Ltd.--which was controlled by the wife of CDG's former chairman Mr. Dai
+Yongge. The other three markets in Hangzhou are owned by CDG and were recently acquired in July 2018 from an
+independent third party. The company primarily generates rental and commission income through these markets that
+engage in the wholesaling and retailing of primarily vegetables, fruits, seafood, meat, grain, oil, and other food produce.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 5
+
+China Dili Group
+
+Mr. Dai directly and indirectly holds about 70% of total issued shared capital through other special-purpose vehicles.
+
+Business Risk: Vulnerable
+CDG operates on a small scale in a highly competitive and fragmented industry. We expect CDG's pricing power to be
+very limited, considering its highly cost-sensitive tenants--thereby limiting the rental and commission growth to a low
+single-digit percentage. Further, we believe there is a lack of clear business strategy to address current weaknesses.
+CDG's geographic concentration in northeastern China remains a risk although it has modestly reduced post the
+acquisition of three agricultural wholesale markets in Hangzhou in July 2018. Revenue contribution from these
+properties is expected to nearly double in 2019, given the full-year accounting. Zhejiang's GDP growth in 2018 is also
+higher than the national average growth and even higher than other northeastern provinces (where CDG is present).
+Therefore, we believe the expansion into Hangzhou could present stronger growth prospects.
+CDG's good profitability stems from its historically lower lease expenses and its cash generating business. We believe
+the company's operating cost will reduce moderately once it acquires the land on which its markets operate because it
+will no longer incur lease expenses. In addition, the sale of its aircrafts will also support margins due to a reduction in
+related maintenance expenses. However, CDG's high fixed cost due to administrative and staff expenses will partly
+offset the benefits. We believe the company will require ongoing cost-cutting initiatives to turn around the company.
+
+Peer comparison
+Table 1
+
+China South City Holdings Ltd.--Peer Comparison
+Industry sector: Homebuilders and real estate developers
+China Dili Group China South City Holdings Ltd. Rekeep S.p.A.
+--Fiscal year ended-Dec. 31, 2018
+
+March 31, 2018
+
+Dec. 31, 2017
+
+1,128.7
+
+7,517.6
+
+7,171.2
+
+289.6
+
+2,549.0
+
+806.9
+
+6.9
+
+(353.2)
+
+262.6
+
+Interest expense
+
+113.1
+
+1,789.1
+
+295.4
+
+Cash interest paid
+
+113.1
+
+1,668.2
+
+409.7
+
+(221.4)
+
+1,475.5
+
+758.8
+
+(Mil. RMB)
+Revenues
+EBITDA
+FFO
+
+Cash flow from operations
+Capital expenditures
+
+86.1
+
+3,833.9
+
+246.5
+
+Free operating cash flow
+
+(307.5)
+
+(2,358.4)
+
+512.3
+
+Discretionary cash flow
+
+(446.3)
+
+(2,678.4)
+
+316.0
+
+Cash and short-term investments
+
+1,354.1
+
+6,722.3
+
+467.8
+
+Debt
+
+2,087.7
+
+31,232.0
+
+4,099.9
+
+Equity
+
+8,513.5
+
+29,094.8
+
+2,334.6
+
+25.7
+
+33.9
+
+11.3
+
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 6
+
+China Dili Group
+
+Table 1
+
+China South City Holdings Ltd.--Peer Comparison (cont.)
+Return on capital (%)
+
+0.4
+
+5.2
+
+8.3
+
+EBITDA interest coverage (x)
+
+2.6
+
+1.4
+
+2.7
+
+FFO cash interest coverage (x)
+
+1.1
+
+0.8
+
+1.6
+
+Debt/EBITDA (x)
+
+7.2
+
+12.3
+
+5.1
+
+FFO/debt (%)
+
+0.3
+
+(1.1)
+
+6.4
+
+Cash flow from operations/debt (%)
+
+(10.6)
+
+4.7
+
+18.5
+
+Free operating cash flow/debt (%)
+
+(14.7)
+
+(7.6)
+
+12.5
+
+Discretionary cash flow/debt (%)
+
+(21.4)
+
+(8.6)
+
+7.7
+
+RMB--Chinese renminbi.
+
+We consider China South City Holdings Ltd. (CSC; B-/Positive/--) and Rekeep S.p.A. (B/Stable/--) as CDG's peers.
+CSC's and CDG's business models are somewhat related. CSC develops trade centers while CDG operates them.
+The key differences between CSC and CDG are: (1) sources of revenue--sale of properties remains CSC's key revenue
+driver, even though the company's rental income is gradually increasing: and (2) product type.
+We believe CSC has a better scale as well as geographic and product diversity than CDG. It therefore has a better
+market position. CSC also has better brand recognition due to its first-mover advantage. CSC and Rekeep have a larger
+operating scale, better geographic diversification, and a more established brand name than CDG.
+CDG and Rekeep operate in fragmented businesses and both engage in the facilities services. Rekeep is involved in
+facility management/maintenance services and laundering/sterilization services in Italy. It operates on a nationwide
+level and is the market leader in facility management services. Its operating scale is much larger than CDG's.
+CDG has more stable cash flows and higher profitability than both its peers due to its lower expenses in leasing in the
+agricultural market and support from shareholders. Their liquidity sources sufficiently covered their uses due to their
+adequate cash balance and low capex and debt repayment in the last two years.
+
+Financial Risk: Highly leveraged
+CDG has a record of weak and imprudent financial management. Its Hada acquisition was initially planned to be
+completed by 2018, which is now expected to be completed in the second half of 2019. We forecast this will
+significantly increase its leverage position to 12x-14x as measured by debt to EBITDA over the next 12 months,
+against 5.0x in 2018. This will be mainly driven by the company's plan to issue a 10-year zero coupon convertible bond
+to the controlling shareholder to fund the acquisition. Post-transaction, we expect the debt-to-EBITDA ratio to slowly
+reduce to 10x-12x in 2020--given that it will have no lease liability once the company owns the operational properties.
+Given the uncertainty regarding the time of conversion to equity for the bond, we assume it will stay as debt in our
+forecast period. There is very low risk with regards to refinancing or repayment in the case of convertible debt, given
+that the major debtholder is also a major CDG shareholder, who we believe will likely convert its holding into equity.
+Given that CDG will have significantly higher leverage post-transaction as well as its poor credit standing in the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 7
+
+China Dili Group
+
+market, it may need to use equity financing or cash for any future acquisitions.
+
+Financial summary
+Table 2
+
+China Dili Group--Financial Summary
+Industry sector: Facilities services
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+988.1 1,001.8
+
+870.7
+
+555.4
+
+(Mil. RMB)
+Revenues
+EBITDA
+FFO
+Interest expense
+Cash interest paid
+Cash flow from operations
+Capital expenditures
+
+1,128.7
+289.6
+
+347.8
+
+419.6
+
+425.8
+
+195.3
+
+6.9
+
+75.4
+
+(212.7)
+
+(315.5)
+
+(771.1)
+
+113.1
+
+88.7
+
+109.4
+
+681.3
+
+952.6
+
+113.1
+
+88.7
+
+434.0
+
+696.7
+
+919.1
+
+(221.4)
+
+203.8
+
+8.9
+
+(127.9)
+
+(959.1)
+
+163.1
+
+897.8
+
+513.6
+
+86.1
+
+80.7
+
+Free operating cash flow
+
+(307.5)
+
+123.1
+
+(154.1) (1,025.7) (1,472.7)
+
+Discretionary cash flow
+
+(446.3)
+
+123.1
+
+(154.1) (1,025.7) (1,472.7)
+
+Cash and short-term investments
+
+1,354.1 1,222.1 1,465.0
+
+908.4
+
+786.9
+
+Gross available cash
+
+1,354.1 1,222.1 1,465.0
+
+857.6
+
+786.9
+
+Debt
+
+2,087.7 1,247.8 1,287.3
+
+8,071.0
+
+8,685.2
+
+Equity
+
+8,513.5 6,936.9 6,965.2
+
+21,634.2
+
+18,568.3
+
+Adjusted ratios
+EBITDA margin (%)
+
+25.7
+
+35.2
+
+41.9
+
+48.9
+
+35.2
+
+Return on capital (%)
+
+0.4
+
+1.0
+
+0.8
+
+1.7
+
+1.2
+
+EBITDA interest coverage (x)
+
+2.6
+
+3.9
+
+3.8
+
+0.6
+
+0.2
+
+FFO cash interest coverage (x)
+
+1.1
+
+1.8
+
+0.5
+
+0.5
+
+0.2
+
+Debt/EBITDA (x)
+
+7.2
+
+3.6
+
+3.1
+
+19.0
+
+44.5
+
+FFO/debt (%)
+
+0.3
+
+6.0
+
+(16.5)
+
+(3.9)
+
+(8.9)
+
+Cash flow from operations/debt (%)
+
+(10.6)
+
+16.3
+
+0.7
+
+(1.6)
+
+(11.0)
+
+Free operating cash flow/debt (%)
+
+(14.7)
+
+9.9
+
+(12.0)
+
+(12.7)
+
+(17.0)
+
+Discretionary cash flow/debt (%)
+
+(21.4)
+
+9.9
+
+(12.0)
+
+(12.7)
+
+(17.0)
+
+RMB--Chinese renminbi.
+
+Liquidity: Less than adequate
+We assess CDG's liquidity as less than adequate, despite its sources of liquidity being sufficiently higher than its uses in
+the coming 12 months.
+The assessment mainly reflects our view that CDG does not have a record of proven banking relationships. Moreover,
+the company has a poor credit standing following the covenant breach in a bilateral loan in 2016 and a distressed
+exchange in early 2015.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 8
+
+China Dili Group
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash on hand as at end-2018 of RMB1,354.1 million.
+
+• Maturing short-term debt of about RMB198.5
+million as of Dec. 31, 2018.
+
+• Revenue from rental and commission income of
+about RMB1.2 billion-RMB1.3 billion in fiscal year
+2019.
+
+• Our estimate of other payments in interest, tax, and
+selling, general, and administrative expenses of
+RMB1,120.0 million.
+• Capex that we project at RMB300 million-RMB500
+million for fiscal year 2019.
+
+Debt maturities
+Table 3
+
+China Dili Group--Debt Maturities*
+Year
+
+Amount (Mil. RMB)
+
+Within one year
+
+198.5
+
+Between one and two years
+
+73.5
+
+Between two and five years
+
+242.7
+
+Over five years
+
+57.0
+
+Total
+
+571.7
+
+*As Of Dec. 31, 2018. RMB--Chinese renminbi.
+
+Other Credit Considerations
+In our view, CDG has a short record of operating its restructured business after the distressed exchange and business
+restructuring in early 2015. The company has a largely unclear strategy to grow its business. In our opinion, CDG is
+yet to demonstrate a longer record of successful strategic execution and planning, enhanced business and financial risk
+management, and corporate governance practices that promote independence between the board and management.
+We evaluate CDG's management and governance as weak, based on these factors.
+
+Reconciliation
+Table 4
+
+Reconciliation Of China Dili Group. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+RMB)
+--Fiscal year ended Dec. 31, 2018-Renhe Commercial Holdings Co. Ltd. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+571.7
+
+8,401.7
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings' adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+97.2
+
+(311.8)
+
+16.4
+
+289.6
+
+(276.9)
+
+SEPTEMBER 13, 2019 9
+
+China Dili Group
+
+Table 4
+
+Reconciliation Of China Dili Group. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+RMB) (cont.)
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(169.6)
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(16.4)
+
+--
+
+Operating leases
+
+1,516.0
+
+--
+
+146.5
+
+96.7
+
+96.7
+
+(96.7)
+
+49.8
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+72.0
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+5.7
+
+Noncontrolling
+interest/minority interest
+
+--
+
+111.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA--Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+189.2
+
+189.2
+
+--
+
+--
+
+--
+
+EBITDA--Other
+
+--
+
+--
+
+(143.3)
+
+(143.3)
+
+--
+
+--
+
+--
+
+EBIT--Other
+Total adjustments
+
+--
+
+--
+
+--
+
+132.8
+
+--
+
+--
+
+--
+
+1,516.0
+
+111.8
+
+192.4
+
+347.5
+
+96.7
+
+(282.7)
+
+55.5
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+6.9
+
+(221.4)
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+2,087.7
+
+8,513.5
+
+289.6
+
+35.8
+
+113.1
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B-/Stable/--
+
+Business risk: Vulnerable
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Vulnerable
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 10
+
+China Dili Group
+
+• Liquidity: Less than adequate (no impact)
+• Management and governance: Weak (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 13, 2019)*
+China Dili Group
+Issuer Credit Rating
+
+B-/Stable/--
+
+Issuer Credit Ratings History
+15-Sep-2016
+
+B-/Stable/--
+
+17-Jun-2016
+
+CCC-/Watch Pos/--
+
+04-Feb-2016
+
+CCC-/Negative/--
+
+05-Jan-2016
+
+CCC/Watch Neg/--
+
+21-Jan-2015
+
+CCC/Negative/--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 11
+
+China Dili Group
+
+Ratings Detail (As Of September 13, 2019)*(cont.)
+08-Jan-2015
+
+SD/--/--
+
+26-Nov-2014
+
+CC/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 13
+
+

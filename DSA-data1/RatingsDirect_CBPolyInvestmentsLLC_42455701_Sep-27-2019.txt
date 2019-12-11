@@ -1,0 +1,520 @@
+CB Poly Investments LLC
+Primary Credit Analyst:
+Pranav Khattar, CFA, Toronto + 1 (416) 507 2549; Pranav.Khattar@spglobal.com
+Secondary Contact:
+Minesh Patel, CFA, New York (1) 212-438-6410; minesh.patel@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 1
+
+CB Poly Investments LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Good market position within the niche segment of promotional products.
+
+Highly competitive and fragmented industry dynamics.
+
+Proprietary capabilities in design, decoration, and customization services,
+which include the ability to handle small-batch orders.
+
+Highly leveraged debt capitalization, which makes the company
+vulnerable to changes in the economic cycle.
+
+Diversified promotional products.
+
+Financial sponsorship increases risk of prioritizing
+shareholder-friendly actions.
+
+Despite the global trade uncertainty and related tariffs, we expect minimal impact to subsidiary Polyconcept North
+America Holdings Inc.'s operating margins. Polyconcept North America Holdings Inc. continues to implement price
+increases, albeit on a lag, to offset the impact of tariffs on goods imported from China. These initiatives, coupled with
+operational improvements at various warehouse facilities based in the U.S., should further alleviate margin pressure
+over the next 12 months.
+The discretionary nature of Polyconcept's products could result in revenue and earnings volatility during economic
+downturns. Despite products that include an offering that caters to the value segment, we believe revenues are highly
+correlated to macroeconomic growth and advertising spending. Polyconcept's clients have reduced spending during
+downturns, however we expect ongoing promotional product spending given the medium's relative cost effectiveness.
+The company undertook several initiatives to improve flexibility during a downturn, which would likely result in some
+margin stability, although overall revenue and cash flow would suffer.
+Relatively low barriers to entry create a highly competitive and fragmented marketplace.The market is saturated, with
+the top five promotional products companies accounting for only about 15% of market share. These factors, coupled
+with a non-contractual order-based revenue model, result in low revenue visibility and the potential for price-based
+competition.
+However, Polyconcept's long-term distributor relationships and proprietary capabilities in design, decoration, and
+customization services--which remains an expanding segment of the overall promotional products industry--provides
+for competitive differentiation.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 2
+
+CB Poly Investments LLC
+
+The company's leverage is high (mid-5x area by year-end 2019), and its financial sponsor could prioritize
+shareholder-friendly actions to reduce financial flexibility. Charlesbank Capital Partners made its initial investment in
+July 2016. We believe Charlesbank has the typical four- to seven-year holding period and could seek to monetize its
+investment over the next three to four years. It may use debt or debt-like instruments to maximize shareholder returns,
+but we have not incorporated them into our base-case scenario given the uncertainty of size and timing.
+
+Outlook: Stable
+
+The stable rating outlook reflects our expectation that over the next 12 months Polyconcept will continue to
+increase revenues in the mid-single-digit percentage area, generate modest cash flow with free operating cash flow
+(FOCF) to debt in the low-to-mid-single digit percentage area, and maintain adjusted leverage in the mid-5x area.
+
+Downside scenario
+We could lower the ratings if operating difficulties largely due to poor sell-through of inventory deteriorate credit
+measures and constrain liquidity. In this scenario, the macroeconomic environment worsens significantly, resulting
+in weakened cash flow or cash flow deficits, or the company exhibits a more aggressive financial policy with
+debt-financed acquisitions or dividends increasing leverage over 7x.
+
+Upside scenario
+While unlikely given the company's financial sponsor ownership, we could consider an upgrade if it demonstrates
+its commitment to maintaining leverage comfortably below 5x or demonstrates strong operating performance
+while expanding its business scale and diversifying its product mix, resulting in less expected revenue cyclicality.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 3
+
+CB Poly Investments LLC
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth rate of 2.5% for 2019 and 1.8% for
+2020. Eurozone GDP growth rate of 1.1% for 2019
+and 1.3% for 2020.
+
+• S&P Global Ratings-adjusted debt to EBITDA in the
+mid-5x area by year-end 2019 and 2020.
+
+• Overall revenue growth of a low- to mid-single-digit
+percentage rate in 2019 and 2020, higher than the
+GDP growth rate and industry growth rate mainly
+due to higher demand for drinkware, stationary,
+bags, and technology products, price increases, and
+increased penetration of decoration products in
+Europe.
+
+• S&P Global Ratings-adjusted FOCF to debt in the
+low- to mid-single-digit percentage range by
+year-end 2019 and 2020.
+
+• Adjusted EBITDA margin remaining in the low- to
+mid–teens percentage range as price increases
+applied in 2019 will offset increased input costs.
+• Adjusted debt of about $707 million, which includes
+about $70 million in operating leases and other
+adjustments.
+• No assumptions about acquisitions or shareholder
+returns because we expect the company to reinvest
+in organic growth.
+
+Company Description
+Polyconcept is one of the world's largest promotional products companies, with revenues of over $800 million in 2018,
+serving more than 100 countries and nearly 30% of its sales stemming from outside North America. It participates in a
+highly competitive and fragmented industry with the top five industry players holding less than 15% market share.
+It supplies a wide variety of promotional, lifestyle, and gift products at various price ranges across value and premium
+hard goods and apparel, to a variety of companies and organizations through a network of distributors. Polyconcept
+differentiates itself by offering product design, sourcing, decoration, and in-house customization services, unlike other
+rated peers that operate as distributors and manage the end-customer relationship.
+
+Liquidity: Adequate
+We expect Polyconcept to maintain adequate liquidity over the next 12 months, and that the sources will likely exceed
+uses by 5x over the next 12 months. We expect net sources would be positive even with a 15% drop in EBITDA. We
+do not believe that the company could absorb high-impact, lower-probability events without refinancing. The company
+has good banking relationships, and a more aggressive financial risk management given its financial sponsor
+ownership and higher leverage.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 4
+
+CB Poly Investments LLC
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• $41 million cash balance as of June 30, 2019;
+
+• Annual capital expenditures (capex) of about $30
+million, but during stress maintenance capex of
+around $10 million;
+
+• Cash funds from operations around $55 million-$65
+million in 2019; and
+• $80 million available under the $88 million
+asset-based lending (ABL) facility due in 2021.
+
+• $12 million working capex in 2019; and
+• Annual first-lien term loan amortization of $4.8
+million.
+
+Covenant Analysis
+• There are no financial maintenance covenants under the term loans. However, the ABL has a springing fixed-charge
+coverage ratio of 1x when the available limit is less than the greater of the 10% of the line cap ($8.8 million) and $6.5
+million. Also, the ABL will have springing cash dominion if excess availability is less than the greater of $8 million
+and 10% of the lesser of the borrowing base and commitments of the ABL facility.
+• We do not anticipate that the company would trigger either covenant.
+
+Issue Ratings - Recovery Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 5
+
+CB Poly Investments LLC
+
+Key analytical factors
+
+• Polyconcept's capital structure consists of an $88 million ABL maturing in 2021, a $485 million first-lien term
+loan maturing in 2023, and a $175 million senior secured second-lien term loan maturing in 2024. The ABL
+revolver has a perfected first-priority lien on all accounts receivable, inventory, and cash of the borrower and its
+material domestic subsidiaries, and a third-priority lien on all non-ABL priority collateral. The first lien term loan
+has a second-priority lien on the ABL collateral and a first-lien on non-ABL collateral. The second lien has
+third-priority security interests.
+• The collateral for the first- and second-lien facilities includes tangible and intangible assets of the borrower and
+guarantors, including 100% of the capital stock of the borrower and any subsidiary of the borrower or
+guarantors, subject to customary exceptions (but limited to 65% of the voting equity interests of any such
+subsidiary that is tax-excluded or foreign).
+• The borrowers of the debt are Polyconcept North America Holdings Inc., a Delaware corporation; Leedsworld
+Inc.; Bullet Line LLC; and Trimark Sportswear Canada Inc., a Canadian corporation. Under the ABL, they can
+borrow up to $10 million in euros and up to $30 million in Canadian ABL borrowings. Guarantors under the ABL
+and the first- and second-lien term loans are each material wholly owned restricted subsidiaries of the issuer. We
+assume 25% of our emergence enterprise value is attributed to non-guarantor entities.
+• Our emergence enterprise value assumes a going-concern using a 5x multiple of our projected emergence
+EBITDA, consistent with the multiple used for similar companies.
+• Our simulated default scenario assumes a payment default in 2022 as a result of a major economic downturn in
+the U.S. and Europe, resulting in a substantial pullback in promotion product spending. In addition, product
+costs could sharply increase.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 6
+
+CB Poly Investments LLC
+
+Simulated default and valuation assumptions
+
+Simplified waterfall
+
+• Year of default: 2022
+
+• Net enterprise value (after 5% administrative costs):
+$364 million
+
+• EBITDA at emergence: About $77 million
+• Implied enterprise value multiple: 5x
+• Revolving credit facility: 85% drawn at default
+
+• Obligor/nonobligor valuation split: 75%/25%
+• Collateral value available for secured debt: $332
+million
+• Estimated priority ABL claims: $54 million
+• --Recovery expectations: 90%-100% (rounded
+estimate: 95%)
+• Remaining value to secured claims: $278 million
+• First-lien claims: $470 million
+• --Recovery expectations: 50%-70% (rounded
+estimate: 60%)
+• Second-lien claims: $378 million
+• --Recovery expectations: 0%-10% (rounded
+estimate: 5%)
+All debt amounts include six months of prepetition
+interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 7
+
+CB Poly Investments LLC
+
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Consumer Durables Industry, Dec. 12, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Fair
+
+Ratings Detail (As Of September 13, 2019)*
+CB Poly Investments, LLC
+Issuer Credit Rating
+
+B/Stable/--
+
+Issuer Credit Ratings History
+27-Jul-2016
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+B/Stable/--
+
+SEPTEMBER 13, 2019 8
+
+CB Poly Investments LLC
+
+Ratings Detail (As Of September 13, 2019)*(cont.)
+Related Entities
+Bullet Line LLC
+Senior Secured
+
+BB-
+
+Ignite Merger Sub Inc.
+Senior Secured
+
+B
+
+Senior Secured
+
+BB-
+
+Senior Secured
+
+CCC+
+
+Leedsworld Inc.
+Senior Secured
+
+BB-
+
+Polyconcept North America Holdings, Inc.
+Senior Secured
+
+B
+
+Senior Secured
+
+BB-
+
+Senior Secured
+
+CCC+
+
+Timeplanner Calendars Inc.
+Senior Secured
+
+BB-
+
+Trimark Holdings Inc.
+Senior Secured
+
+BB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 10
+
+

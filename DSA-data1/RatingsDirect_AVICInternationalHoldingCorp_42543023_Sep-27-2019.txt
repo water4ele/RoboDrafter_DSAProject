@@ -1,0 +1,1588 @@
+AVIC International Holding Corp.
+Primary Credit Analyst:
+Stephen Chan, Hong Kong (852) 2532-8088; stephen.chan@spglobal.com
+Secondary Contact:
+Torisa Tan, Shanghai (86) 21-3183-0642; Torisa.Tan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+AVIC International Holding Corp.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbbbbFinancial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+BBB-/Stable/--
+
+b
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Diverse business portfolio and product mix.
+
+Intense competition in the high-tech electronics market.
+
+Dominant position in China's aviation products trading and
+subcontracting market.
+
+Execution risk in AMOLED capacity ramp up.
+
+Leader in the display and printed circuit board markets.
+
+Large capital expenditure (capex) leading to negative free operating
+cash flow (FOCF).
+
+Sufficient and timely support from the Aviation Industry Corp. of China
+(AVIC Group).
+
+Diversified business and leading position in core markets to underpin business strength. We believe AVIC International
+Holding Corp. (BBB-/Stable/--) will maintain a diversified business portfolio and its core business will see stable
+revenue growth in the next 12-24 months. We expect the license restriction on the import and export of aviation
+products in China and the company's long operating history to help maintain its dominant position in China's aircraft
+parts trading business. We also view trade tariffs to have limited impact on this segment. Moreover, the company's
+economies of scale and continuous investment in technology upgrade will also continue to enhance competitiveness in
+the high-tech electronics business.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+AVIC International Holding Corp.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+AVIC International Holding Corp.
+
+Chart 2
+
+Competition and project execution risk on high-end electronic panel weigh slightly on margin. In our view, AVIC
+International faces execution uncertainty in ramping up the active matrix organic light-emitting diode (AMOLED)
+production. This is due to the products' complexity that requires time to improve yield rate and hence production cost
+will be high at the initial ramp up stage. Meanwhile, the company faces strong competition from international leaders.
+Together with uncertain market demand, this will add pressure on pricing and margin. We expect the company's stable
+sales on existing panel display products and printed circuit boards to partially temper the pressure.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+AVIC International Holding Corp.
+
+Chart 3
+
+Debt leverage to edge up in 2019-2020 owing to negative free operating cash flows (FOCF).The company's debt
+leverage reduced moderately in the last two years, with the company paying off some debt using proceeds from the
+sale of noncore assets. We expect the asset disposal to be mostly complete in 2019 and the cash proceeds to be
+limited. We also expect AVIC International to generate large negative FOCF over the next one to two years, mainly
+because of sizable capital expenditure (capex) for the expansion in high-tech electronics capacity. As such, we forecast
+the company's leverage as measured by debt-to-EBITDA to increase to 8.0x-9.0x in 2019-2020, from 7.8x in 2018.
+AVIC International to benefit from timely and sufficient group support. We believe AVIC International will continue to
+remain a strategically important subsidiary of AVIC Group. The company was mandated by the group to be the sole
+platform responsible for the export and import of aviation products. Moreover, AVIC Group increased the
+shareholding in AVIC International in 2018 by purchasing a 28.6% equity stake from minority shareholders to gain
+better control on the subsidiary's strategic planning and operations. We believe AVIC International will receive timely
+and sufficient support from the group when needed, which leads to a three-notch uplift in our rating on the company.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+AVIC International Holding Corp.
+
+Outlook: Stable
+
+The stable outlook on AVIC International reflects our expectation that the company will maintain its dominant
+position in China's aviation trading and subcontracting market over the next 12-24 months. In our view, the
+company's diverse business portfolio could neutralize different sector exposures. We also expect consistent
+favorable group support, given AVIC International's strategic importance to the group.
+
+Downside scenario
+We could lower the rating if AVIC International's stand-alone credit profile (SACP) weakens. This could happen if:
+(1) the company is not able to manage its funding cost or if it pursues aggressive debt-funded expansion such that
+the ratio of EBITDA to interest approaches 1.0x or the debt-to-EBITDA ratio deteriorates for a sustained period; or
+(2) the company's market position in the aviation and electronics deteriorates, resulting in a significant decline in
+profitability.
+
+Upside scenario
+We could raise the rating if AVIC International improves its profitability or cash flow such that its debt-to-EBITDA
+ratio falls below 5.0x.
+We could also raise the rating if support from AVIC Group increases. This could happen if: (1) AVIC International's
+asset and earnings contribution to AVIC Group increases substantially; or (2) AVIC Group strongly commits to
+providing material and direct financial support to AVIC International.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+AVIC International Holding Corp.
+
+Assumptions
+
+• China's GDP to grow at 6.2% in 2019 and 2020,
+compared with 6.6% in 2018. We expect
+government spending on national defense to grow
+faster than GDP, supporting AVIC International's
+aviation business.
+• Revenue to increase by 2%-7% annually in
+2019-2020, with revenue growth in core segments
+offsetting the impact of noncore business exit.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+7.8x 8.0x-9.0x 8.0x-9.0x
+
+EBITDA interest coverage (x)
+
+2.0x 1.7x-2.2x 1.7x-2.2x
+
+FOCF/Debt (%)
+
+(7.5%)
+
+Negative
+
+Negative
+
+A--Actual. E--Estimate. FOCF--Free operating cash
+flows.
+
+• Reported gross margin to contract slightly to
+13%-14% in 2019-2020, from 14.3% in 2018.
+• Annual capex of Chinese renminbi (RMB) 14 billion
+to RMB16 billion in 2019-2021 for capacity
+expansion.
+• Proceeds from asset disposal to be RMB2.5 billion to
+RMB3.0 billion in 2019.
+
+Base-case projections
+Revenue growth supported by double-digit growth in the high-tech electronics business and mid- to high-single-digit
+growth in other major segments. We expect revenue in the high-tech electronics segment to grow by 12%-18% in
+2019-2020, with the G6 AMOLED line seeing a higher utilization rate and additional volume contribution from new
+lines in Wuhan and Xiamen. The aviation segment will maintain a mid- to high-single-digit growth supported by robust
+contract backlog. The consumer and retail business will maintain growth in line with China's economic growth. We
+also forecast a 5% revenue growth in the international business segment in 2019-2020.
+The high-tech electronics business to see lower margin in 2019-2020, dragging down the company's overall margin.We
+see intensified competition in the high-tech electronics industry, which exerts downward pressure on pricing.
+Moreover, the company's new AMOLED plant will incur higher production costs in the initial ramp-up phase.
+Exit from noncore business to bring cash inflow in 2019. AVIC International has gradually exited from noncore
+businesses in recent years and we believe its asset disposal will mostly be completed in 2019. According to
+management guidance, the company will receive proceeds of RMB2.5 billion to RMB3.0 billion in 2019 in relation to
+the disposal of its interests in property subsidiaries and its shipbuilding business.
+
+Company Description
+AVIC International is a Chinese conglomerate with businesses in international aviation trading and subcontracting,
+technology hardware production, as well as retail and high-end consumer goods. The company was founded in 1979
+and is headquartered in Beijing. It is 91.1% owned by AVIC Group.
+AVIC Group is a large manufacturer of aviation-related products in China with both commercial and military
+applications. It also engages in the manufacture and sale of auto-related equipment and modern services. AVIC Group
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+AVIC International Holding Corp.
+
+is wholly owned by the central State-Owned Assets Supervision and Administration Commission.
+
+Business Risk: Fair
+AVIC International will continue to benefit from its diversified business model and dominant position in the aviation
+parts trading business. We also expect the company to maintain a satisfactory market position in the panels and
+printed circuit boards market, but continue to be subject to intense competition due to frequent technology upgrade or
+product substitution.
+In our view, the strict license control and global-based network will continue to support AVIC International's
+dominance in the aircraft parts import and export business in China over the next one to two years. AVIC International
+is one of the very few companies licensed to trade aviation products in the country and we don't believe the license
+control will loosen in the next few years. AVIC International has a long operating history in the aircraft trading
+business and it has built a broad logistics network in major continents. China's aviation industry is still in the
+stable-growth phase, with the Chinese government implementing favorable policies to stimulate civil aviation
+investments, supporting the demand for aircraft parts. We believe the U.S.-China trade friction will have minimal
+impact on the company, given its diversified customer base and small exposure to the U.S. market. In our forecast, the
+international aviation business will see stable margin and contribute to over 20% of the company's gross profit in the
+next 12-24 months.
+We expect AVIC International to maintain its large scale and favorable market position in the high-tech electronics
+business in the next one to two years, but to continue facing intense competition. Its indirectly controlled subsidiary
+Shanghai Tianma Microelectronics Co. Ltd. (Tianma) is one of the leaders in China's panel industry. Tianma mainly
+produces small and midsize LCD and has expanded into AMOLED in recent years to tap into the high-end market. We
+expect strong revenue growth for Tianma, with the company further expanding AMOLED capacity. However, the new
+capacity ramp-up will lead to higher production costs in the first two years, exerting downward pressure on margin.
+We anticipate Shennan Circuits Co. Ltd., which is 69% controlled by AVIC International, to remain the leader in the
+printed circuit board industry. The company's domestic printed circuit board (PCB) production line is able to satisfy
+both standard and customized specifications with a stable yield rate. It is the supplier to top customers including
+Huawei, ZTE, and international communication equipment manufacturers. Overall, we forecast the revenue growth to
+offset the impact of slightly lower margin and the gross profit contribution of the high-tech electronics business to
+increase to about 30%.
+We expect consumer goods and AVIC International's retail business to see stable growth and remain one of the
+company's largest profit contributors in 2019-2020, accounting for 30%-35% of total gross profit. The company
+operates over 300 shopping centers, supermarkets, and convenience stores in 25 cities in China under the Tianhong
+brand. With the popularity of online sales in China, the company is also developing its online business, which is a new
+revenue driver in this segment. By the end of the first half of 2019, its online gross merchandise volume reached
+RMB1.4 billion--equivalent to a 71% annual growth. In addition, its retail business in luxury watches has maintained
+steady growth in the past few years and we expect the trend to remain stable over 2019-2020.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+AVIC International Holding Corp.
+
+We anticipate the company maintaining the operating scale of its international engineering and construction,
+commodity and equipment trading and logistics business. This segment will remain the company's largest revenue
+contributor, while generating less than 10% of total gross profit due to the thin-margin nature of the business.
+Nevertheless, this business could enhance customer stickiness, given that it provides supplementary services to
+customers and helps them save cost.
+AVIC International has been gradually exiting noncore businesses to enhance operating efficiency and lower debt
+burden. Some of the company's noncore businesses, particularly residential property development, are burdened with
+high borrowings. By focusing on core segments where the company has a distinct competitive strength or market
+potential, AVIC International could achieve better cost effectiveness. We believe most of the restructure will be
+completed in 2019.
+
+Peer comparison
+Table 1
+
+AVIC International Holding Corp.--Peer Comparison
+Industry sector: Diversified
+AVIC International Holding
+Corp.
+
+Hangzhou Hikvision Digital Technology
+Co. Ltd.
+
+CITIC Ltd.
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenue
+
+160,730.2
+
+468,347.4
+
+49,837.1
+
+EBITDA
+
+12,282.5
+
+159,703.2
+
+12,748.2
+
+Funds from operations (FFO)
+
+2,914.5
+
+108,414.0
+
+7,382.0
+
+Interest expense
+
+6,154.0
+
+12,020.9
+
+199.6
+
+Cash interest paid
+
+6,228.9
+
+34,533.5
+
+4,725.1
+
+Cash flow from operations
+
+1,856.8
+
+108,560.6
+
+4,628.2
+
+Capital expenditure
+
+8,789.8
+
+14,421.4
+
+2,055.9
+
+Free operating cash flow (FOCF)
+
+(6,933.0)
+
+94,139.2
+
+2,572.3
+
+Discretionary cash flow (DCF)
+
+(8,883.4)
+
+66,155.3
+
+2,572.3
+
+Cash and short-term investments
+
+30,324.1
+
+918,588.3
+
+26,023.7
+
+Debt
+
+95,911.3
+
+1,304,280.2
+
+0.0
+
+Equity
+
+52,210.7
+
+711,946.7
+
+37,964.1
+
+EBITDA margin (%)
+
+7.6
+
+34.1
+
+25.6
+
+Return on capital (%)
+
+5.2
+
+8.2
+
+36.6
+
+EBITDA interest coverage (x)
+
+2.0
+
+13.3
+
+63.9
+
+FFO cash interest coverage (x)
+
+1.5
+
+4.1
+
+2.6
+
+Debt/EBITDA (x)
+
+7.8
+
+8.2
+
+0.0
+
+FFO/debt (%)
+
+3.0
+
+8.3
+
+N.M.
+
+Cash flow from operations/debt (%)
+
+1.9
+
+8.3
+
+N.M.
+
+FOCF/debt (%)
+
+(7.2)
+
+7.2
+
+N.M.
+
+DCF/debt (%)
+
+(9.3)
+
+5.1
+
+N.M.
+
+Adjusted ratios
+
+N.M.--Not meaningful. RMB--Chinese renminbi.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+AVIC International Holding Corp.
+
+We selected CITIC Ltd. (BBB+/Stable/--) and Hangzhou Hikvision Digital Technology Co. Ltd. (Hikvision;
+A-/Stable/--) as AVIC International's peers.
+Similar to AVIC International, CITIC Ltd. has diversified businesses that range from commodity, engineering and
+construction to capital goods.
+Hikvision produces surveillance equipment. It's a subsidiary under China Electronics Technology Group Corp., which
+is a central Chinese state-owned enterprise (SOE) that has exposure to military products.
+Hikvision has a good standing and technology offering for its core product of surveillance equipment, while AVIC
+International's association with customers is stronger. This is because Chinese aircraft makers have to rely on AVIC
+International to import or subcontract necessary parts, particularly those that other suppliers cannot provide.
+Hikvision's FOCF is stronger than AVIC International's with lower spending on capex. Both companies are able to
+generate steady profits while AVIC International has higher debt.
+
+Financial Risk: Highly leveraged
+We expect AVIC International's financial leverage to remain high over the next one to two years on continuous high
+capital spending and hence negative FOCF.
+We forecast the company's operating cash flow to improve in 2019-2020 on continuous revenue growth and improving
+working capital management. The company incurred large working capital outflows in 2018 in relation to accounts
+payable in 2018. We believe this will normalize in 2019 and narrow the net working capital outflow to RMB2 billion to
+RMB4 billion, which in our view will partly be in relation to inventory stocking for the new AMOLED capacity launch.
+On the other hand, we expect the company to incur higher capex mainly for capacity expansion in the AMOLED
+business. The business nature entails considerable ongoing research and development or capital spending, so as to
+achieve constant product upgrade and to stay competitive. In our estimate, its annual capex will rise by 60%-80%
+annually to RMB14 billion to RMB16 billion in 2019-2020.
+While we expect the company to continue to receive proceeds from the disposal of noncore assets, the amount is
+RMB2.5 billion to RMB3.0 billion and will be insufficient to cover the gap between operating cash flow and capex. As
+such, we expect the company's debt to continue increasing and its leverage as measured by debt to EBITDA to edge
+up to 8.0x-9.0x in 2019-2020 from 7.8x in 2018. Higher debt also lowers the company's interest servicing ability. We
+forecast AVIC International's EBITDA interest coverage to fall below 2.0x during the period, but to remain comfortably
+above 1.5x.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+AVIC International Holding Corp.
+
+Chart 4
+
+Financial summary
+Table 2
+
+AVIC International Holding Corp.--Financial Summary
+Industry sector: Diversified
+--Fiscal year ended 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+160,730.2
+
+156,477.0
+
+140,450.7
+
+132,837.7
+
+150,138.8
+
+EBITDA
+
+12,282.5
+
+11,361.3
+
+10,672.9
+
+10,943.8
+
+9,734.5
+
+Funds from operations (FFO)
+
+2,914.5
+
+1,531.6
+
+(400.4)
+
+2,572.8
+
+566.1
+
+Interest expense
+
+6,154.0
+
+6,507.4
+
+8,758.3
+
+8,667.0
+
+8,067.6
+
+Cash interest paid
+
+6,228.9
+
+8,164.0
+
+8,923.1
+
+6,061.8
+
+7,361.7
+
+Cash flow from operations
+
+1,856.8
+
+13,496.9
+
+(3,010.8)
+
+(6,762.6)
+
+(10,893.8)
+
+Capital expenditure
+
+8,789.8
+
+14,418.7
+
+13,076.3
+
+10,815.9
+
+7,679.8
+
+Free operating cash flow (FOCF)
+
+(6,933.0)
+
+(921.8)
+
+(16,087.1)
+
+(17,578.5)
+
+(18,573.6)
+
+Discretionary cash flow (DCF)
+
+(8,883.4)
+
+(1,725.1)
+
+(17,153.0)
+
+(20,995.1)
+
+(18,979.4)
+
+Cash and short-term investments
+
+30,324.1
+
+43,355.8
+
+28,481.6
+
+31,518.2
+
+21,010.2
+
+(Mil. RMB)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+AVIC International Holding Corp.
+
+Table 2
+
+AVIC International Holding Corp.--Financial Summary (cont.)
+Industry sector: Diversified
+--Fiscal year ended 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Gross available cash
+
+30,324.1
+
+43,355.8
+
+28,481.6
+
+31,518.2
+
+21,010.2
+
+Debt
+
+95,911.3
+
+97,113.7
+
+132,436.2
+
+124,653.5
+
+107,454.4
+
+Equity
+
+52,210.7
+
+53,739.0
+
+53,507.0
+
+55,676.5
+
+42,601.7
+
+EBITDA margin (%)
+
+7.6
+
+7.3
+
+7.6
+
+8.2
+
+6.5
+
+Return on capital (%)
+
+5.2
+
+4.0
+
+4.8
+
+5.1
+
+6.5
+
+EBITDA interest coverage (x)
+
+2.0
+
+1.7
+
+1.2
+
+1.3
+
+1.2
+
+FFO cash interest coverage (x)
+
+1.5
+
+1.2
+
+1.0
+
+1.4
+
+1.1
+
+Debt/EBITDA (x)
+
+7.8
+
+8.5
+
+12.4
+
+11.4
+
+11.0
+
+FFO/debt (%)
+
+3.0
+
+1.6
+
+(0.3)
+
+2.1
+
+0.5
+
+Cash flow from operations/debt (%)
+
+1.9
+
+13.9
+
+(2.3)
+
+(5.4)
+
+(10.1)
+
+FOCF/debt (%)
+
+(7.2)
+
+(0.9)
+
+(12.1)
+
+(14.1)
+
+(17.3)
+
+DCF/debt (%)
+
+(9.3)
+
+(1.8)
+
+(13.0)
+
+(16.8)
+
+(17.7)
+
+Adjusted ratios
+
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess AVIC International's liquidity as adequate, with sources of liquidity exceeding liquidity uses by more than
+1.2x over the next 12 months. Its net liquidity will remain positive even if its EBITDA declines by 15%.
+The company has stable banking relationships and multiple funding channels, attributable to its status as an SOE
+subsidiary and established access in capital markets.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of RMB41.5 billion by
+end of June 2019.
+
+• Short-term debt maturity of RMB32.0 billion in the
+next 12 months ending June 2020.
+
+• Funds from operations of RMB8.5 billion to RMB9.5
+billion for the 12 months ending June 2020.
+
+• Maintenance capex that we estimate of RMB6
+billion over the period.
+
+• Cash proceeds from asset disposal of RMB2.5
+billion–RMB3.0 billion.
+
+• Working capital outflow of RMB2.0 billion over the
+period.
+• Dividend payments of RMB2.0 billion to RMB2.5
+billion in the period.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+AVIC International Holding Corp.
+
+Debt maturities
+Table 3
+
+AVIC International Holding Corp.--Debt Maturities
+Debt Due In
+2018
+
+36,434.5
+
+Beyond 2018
+
+51,980.5
+
+Total
+
+88,415.0
+
+Group Influence
+We view AVIC International as a strategically important subsidiary of AVIC Group. We believe the company will
+receive timely and sufficient support from AVIC Group when needed. As such, the rating on AVIC International is
+three notches above its SACP.
+Our assessment of AVIC International's strategic importance to AVIC Group is based on following factors:
+• We believe that AVIC Group is highly unlikely to lose majority control in AVIC International.
+• AVIC International plays an important role in supporting the group's strategy. The company is the main arm under
+the group for expanding its international businesses and being the sole platform responsible for the export and
+import of aviation products. However, AVIC International's revenue contribution to the group's aviation business is
+limited.
+• We view the group's senior group management to be committed to support AVIC International.
+• AVIC International has been reasonably successful in its businesses.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+AVIC International's capital structure as of Dec. 31, 2018, consists of RMB12.8 billion secured debt, RMB86.3 billion
+unsecured debt at the subsidiaries' level, and RMB27.2 billion at the parent company level.
+
+Analytical conclusions
+We equalize the rating on AVIC International's guaranteed senior unsecured notes to the issuer credit rating on the
+company. Although AVIC International's priority debt ratio is above the 50% notching threshold, we do not notch
+down the issue rating. This is because we expect extraordinary government support will flow to the company via its
+parent, AVIC Group. As such, structurally subordinated lenders would not have weaker recovery prospects than other
+senior lenders.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+AVIC International Holding Corp.
+
+Table 4
+
+Reconciliation Of AVIC International Holding Corp.'s Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-AVIC International Holding Corp.'s reported amounts
+
+Debt
+Reported
+
+Shareholders'
+equity EBITDA
+
+88,415.0
+
+Operating Interest
+income expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+31,682.1
+
+9,257.5
+
+2,928.3
+
+4,083.9
+
+12,282.5
+
+6,426.9
+
+2,694.3
+
+8,818.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3,139.1)
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4,500.1)
+
+--
+
+--
+
+--
+
+Operating leases
+
+14,828.5
+
+--
+
+1,444.1
+
+984.8
+
+984.8
+
+(984.8)
+
+459.2
+
+--
+
+--
+
+Debt-like hybrids
+
+13,037.8
+
+(13,037.8)
+
+--
+
+--
+
+743.9
+
+(743.9)
+
+(743.9)
+
+(743.9)
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+256.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(22,743.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+341.3
+
+--
+
+--
+
+--
+
+--
+
+Capitalized
+development costs
+
+--
+
+--
+
+(28.2)
+
+(28.2)
+
+--
+
+--
+
+(28.2)
+
+--
+
+(28.2)
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+216.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+3,250.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4,257.2)
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+33,566.4
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+2,117.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+1,392.6
+
+1,392.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation
+gains/(losses)
+
+--
+
+--
+
+--
+
+(243.4)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+921.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+(1,392.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+7,496.3
+
+20,528.6
+
+3,025.0
+
+4,885.8
+
+2,070.0
+
+(9,368.0)
+
+(4,570.1)
+
+(743.9)
+
+(28.2)
+
+Total adjustments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 14
+
+AVIC International Holding Corp.
+
+Table 4
+
+Reconciliation Of AVIC International Holding Corp.'s Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB) (cont.)
+S&P Global Ratings' adjusted amounts
+
+Debt
+Adjusted
+
+95,911.3
+
+Equity EBITDA
+52,210.7
+
+12,282.5
+
+Interest
+EBIT expense
+7,814.1
+
+6,154.0
+
+Funds Cash flow
+from
+from Dividends
+Capital
+operations operations
+paid expenditure
+2,914.5
+
+1,856.8
+
+1,950.4
+
+8,789.8
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Fair
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Moderate (+1 notch)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bb-
+
+• Group credit profile: a
+• Entity status within group: Strategically important (+3 notches from SACP)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 15
+
+AVIC International Holding Corp.
+
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Aerospace And Defense Industry, March 25, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Hardware And Semiconductors Industry,
+Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+
+Related Research
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 16
+
+AVIC International Holding Corp.
+
+Ratings Detail (As Of September 26, 2019)*
+AVIC International Holding Corp.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Issuer Credit Ratings History
+30-Aug-2013
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 18
+
+

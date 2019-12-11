@@ -1,0 +1,1314 @@
+Brinker International Inc.
+Primary Credit Analyst:
+Declan Gargan, CFA, San Francisco 857-383-5686; declan.gargan@spglobal.com
+Secondary Credit Analyst:
+Helena H Song, CFA, New York (1) 212-438-2477; helena.song@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 1
+
+Brinker International Inc.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb+
+
+bb+
+BB+/Stable/--
+
+Financial Risk: SIGNIFICANT
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading casual dining operator and franchisor with scale advantages and geographic
+diversity.
+
+Operates in the highly competitive casual dining
+restaurant industry.
+
+Significant mix of franchised units (about 33% pro forma for the ERJ Dining acquisition)
+provides relative earnings and cash flow stability.
+
+Incrementally aggressive financial policy resulting in
+leverage around 4x.
+
+Established operating track record and ability to manage to target credit metrics.
+
+Acquisition of 116 previously franchised Chili's
+locations adds execution risk.
+
+Brinker's focus on value, service, and off-premise are driving improving performance at Chili's.
+The company's efforts to simplify its menu, execute effective promotions, and invest in food quality have resulted in
+five consecutive quarters of positive comparable store sales growth, including traffic trends that have outpaced the
+casual dining industry. We expect Chili's recently announced partnership with DoorDash will support sales growth in
+2020 as it will extend the company's customer reach and supplement its well-developed curbside business.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 2
+
+Brinker International Inc.
+
+Chart 1
+
+Brinker's financial policy has become incrementally more aggressive, narrowing headroom to absorb
+a potential downturn in performance.
+We expect adjusted leverage will be maintained in the high-3x area over the next 12 months. Brinker generates
+consistent cash flow and has used it to pay down revolver borrowings in recent quarters to keep leverage below 4x,
+consistent with its track record of effectively managing leverage to within a tight range of its target. Still, we note
+limited headroom for potential unexpected meaningful operating underperformance. Moreover, we do not expect
+meaningful debt repayment, as we believe the company will return excess cash to shareholders. Going forward, we
+expect it to achieve any eventual deleveraging through earnings growth.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 3
+
+Brinker International Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation for generally stable operating performance as the company continues
+to execute on its customer traffic-driving initiatives at Chili's and Maggiano's. We also expect Brinker will
+successfully integrate the recently announced acquisition of 116 Chili's restaurants. We forecast leverage will
+remain in the high-3x area over the next 12 months.
+
+Downside scenario
+We could lower our rating if operating results weaken, causing credit metrics to erode. This could occur if
+competition intensifies or if menu and pricing initiatives at Chili's no longer resonate with guests, leading us to view
+the company's market position and operating efficiency less favorably. We could also lower the rating if we expect
+leverage to weaken to 4.0x or above, either a result of sustained weakness in operating performance or the
+adoption of a more aggressive financial policy.
+
+Upside scenario
+Although unlikely in the near term, we could raise our rating if Brinker can deliver consistently positive operating
+trends and drive meaningful improvement in credit metrics. In such a scenario, we would expect leverage to stay
+below 3x, with a minimal risk of re-leveraging.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 4
+
+Brinker International Inc.
+
+Assumptions
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020;
+• Unemployment rate remains below 4% through
+2020, contributing to elevated staffing turnover and
+wage pressure;
+• Total revenue grows in the high-single digits in fiscal
+2020 primarily driven by the acquisition of 116
+Chili's locations, supplemented by very modest
+low-single-digit comparable store sales growth;
+
+Key Metrics
+
+Based on these assumptions, we forecast the following
+key credit metrics over the following 12 months:
+• Debt to EBITDA of 3.5x–4x;
+• FFO to debt of 15%-20%; and
+• EBITDA interest coverage of 4.5x–5.5x
+
+• EBITDA margins decline modestly due to elevated
+labor costs and the adverse mix impact of adding
+lower-margin company operated stores to the
+company's restaurant base;
+• Capital spending of around $150 million in fiscal
+2020 to support restaurant reimaging, technology
+investments, and maintenance spending;
+• Free operating cash flow generation of between
+$150 million to $170 million.
+• No additional debt funded acquisitions.
+
+Base-case projections
+Modest organic EBITDA growth despite competitive pressure.
+We expect low-single-digit comparable sales will drive earnings growth in fiscal 2020. We also expect EBITDA
+margins to compress slightly over the next 12 months as the company's franchise mix declines from the acquisition of
+ERJ Dining. Additionally, we see cost pressure from higher labor and commodity costs as a risk to performance, but
+expect the company will take measured pricing actions to manage higher operating costs.
+
+Good FOCF notwithstanding temporarily elevated capex.
+We expect capex to remain elevated over the next 12 to 24 months as the company implements its reimaging program
+across a significant portion of its Chili's restaurant base. We view the cost, estimated around $200,000 per store at the
+high end, to be a necessary investment to maintain relevance in a very crowded and competitive market. Despite the
+increased spending, we forecast FOCF of $150 million-$170 million in fiscal 2020.
+
+Company Description
+Brinker operates and franchises casual dining restaurants under the Chili's Grill & Bar and Maggiano's Little Italy brand
+names, generating approximately $4.3 billion in system sales as of fiscal year-end 2018. As of June 26, 2019, the
+company owned, operated, or franchised 1,665 restaurants across 30 countries and two U.S. territories.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 5
+
+Brinker International Inc.
+
+Chart 2
+
+Business Risk: Satisfactory
+Brinker is one of the largest casual dining restaurant companies in the U.S., competing in both the core casual and
+polished casual sub-segments of the industry through its Chili's and Maggiano's concepts, respectively. Chili's has a
+long operating history and good brand recognition, but lags the industry in restaurant productivity (as illustrated in
+chart 3).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 6
+
+Brinker International Inc.
+
+Chart 3
+
+The company's revamped fixed-price menu offerings has strengthened its image among value-oriented diners, driving
+positive customer traffic in fiscal 2019. We believe the company's effective promotions, improving food quality and
+service, and growing off-premise business position Chili's to deliver positive comparable store sales growth. However,
+persistent promotional activity could stifle menu check growth long-term. Maggiano's has experienced limited growth
+in recent years, averaging one new store per year and generating roughly flat comparable-store sales. We believe
+Brinker will need to increase square footage productivity through stronger menu innovation and sharper kitchen
+execution as well as expand its international presence to drive sustainable earnings growth as there are limited
+opportunities for domestic unit growth.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 7
+
+Brinker International Inc.
+
+Chart 4
+
+The casual dining industry continues to struggle with an oversupplied marketplace, rising competition from limited
+service restaurants, and evolving customer dining preferences. In our view, off-premise (delivery and to-go) sales are
+an increasingly important source of transaction growth for the industry. Although Chili's has a solid to-go offering, its
+off-premise penetration trails its large casual dining peers due to limited delivery capabilities. Brinker previously
+resisted partnering with a third-party delivery service due to high commission costs and point-of-service integration
+concerns, but recently announced an exclusive partnership with DoorDash to provide delivery from more than 1,000
+of its Chili's locations. We believe the partnership will accelerate off-premise sales and enable Brinker to narrow the
+gap to peers.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 8
+
+Brinker International Inc.
+
+Chart 5
+
+Brinker maintains a meaningful franchise business, which provides a favorable margin structure with relative stability
+to the company's earnings and cash flow. However, the company's restaurant mix has migrated away from the
+franchise model in recent years as it has acquired two large franchisees. Although the operator model affords Brinker
+more control over its restaurants' operations and key strategic initiatives, it comes with the expense of greater capital
+requirements and higher operating profit volatility. The acquisition of 116 franchised Chili's restaurants from the
+company's long-time franchise partner, ERJ Dining, introduces execution risk, but given Brinker's track record, we
+believe it will successfully integrate the units.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 9
+
+Brinker International Inc.
+
+Chart 6
+
+Peer comparison
+Table 1
+
+Brinker International Inc.--Peer Comparison
+Industry Sector: Food Service & Restaurants
+Brinker International Inc.
+
+Darden Restaurants Inc.
+
+Bloomin' Brands Inc.
+
+BB+/Stable/--
+
+BBB/Stable/A-2
+
+BB/Stable/--
+
+Ratings as of Aug. 5, 2019
+
+--Fiscal year ended June 27,
+2018--
+
+--Fiscal year ended May 26,
+2019--
+
+--Fiscal year ended Dec. 30,
+2018--
+
+(Mil. $)
+Revenue
+
+3,135.4
+
+8,510.4
+
+4,126.4
+
+EBITDA
+
+538.5
+
+1,611.0
+
+582.8
+
+Funds from operations (FFO)
+
+396.8
+
+1,382.3
+
+444.3
+
+Interest expense
+
+91.7
+
+208.2
+
+125.9
+
+Cash interest paid
+
+85.8
+
+205.0
+
+122.7
+
+Cash flow from operations
+
+372.8
+
+1,476.4
+
+394.1
+
+Capital expenditure
+
+101.3
+
+475.7
+
+208.2
+
+Free operating cash flow (FOCF)
+
+271.6
+
+1,000.7
+
+185.9
+
+(101.7)
+
+422.4
+
+31.6
+
+10.9
+
+457.3
+
+71.8
+
+Debt
+
+2,053.6
+
+2,872.0
+
+2,187.6
+
+Equity
+
+(718.3)
+
+2,392.6
+
+54.8
+
+17.2
+
+18.9
+
+14.1
+
+Discretionary cash flow (DCF)
+Cash and short-term investments
+
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 10
+
+Brinker International Inc.
+
+Table 1
+
+Brinker International Inc.--Peer Comparison (cont.)
+Industry Sector: Food Service & Restaurants
+Brinker International Inc.
+
+Darden Restaurants Inc.
+
+Bloomin' Brands Inc.
+
+20.9
+
+18.7
+
+10.8
+
+EBITDA interest coverage (x)
+
+5.9
+
+7.7
+
+4.6
+
+FFO cash interest coverage (x)
+
+5.6
+
+7.7
+
+4.6
+
+Debt/EBITDA (x)
+
+3.8
+
+1.8
+
+3.8
+
+FFO/debt (%)
+
+19.3
+
+48.1
+
+20.3
+
+Cash flow from operations/debt
+(%)
+
+18.2
+
+51.4
+
+18.0
+
+FOCF/debt (%)
+
+13.2
+
+34.8
+
+8.5
+
+DCF/debt (%)
+
+(5.0)
+
+14.7
+
+1.4
+
+Return on capital (%)
+
+Selected rated peers for Brinker include Darden Restaurants and Bloomin' Brands Inc. All three companies operate
+multi-concept portfolios in the full-service restaurant industry and compete on food quality, service, ambiance, and
+price. All three are primarily restaurant operators, but Brinker's mix of franchised restaurants is the most penetrated.
+As a result, Brinker has historically generated stronger EBITDA margins than both Darden and Bloomin'.
+Although each company operates a national footprint of brands with wide recognition, Darden's scale, concept
+diversity, and brand strength exceed that of both Brinker and Bloomin'. However, Brinker has a superior international
+presence, franchising more than 380 international Chili's locations, with ongoing expansion into new countries and
+territories.
+Credit protection measures for Brinker are modestly better than Bloomin's, but lag Darden, which has a track record of
+successfully managing its credit metrics consistent with an investment-grade rating profile.
+
+Financial Risk: Significant
+Brinker generates relatively stable levels of operating cash flow used for capital expenditures and shareholder returns,
+including dividends and repurchases. The company's capital spending needs have generally been lower than its casual
+dining peers' due to its mature Chili's footprint in the U.S. and significant franchising mix. We expect capital spending
+needs will be elevated over the next 12 to 24 months, however, as the company remodels the majority of its
+company-operated Chili's restaurants as well as absorbs the capex needs associated with the purchase of 116
+restaurants from ERJ Dining.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 11
+
+Brinker International Inc.
+
+Chart 7
+
+Brinker moderated its share repurchases during fiscal 2019, electing to use FOCF to pay down revolver borrowings in
+order to maintain leverage within its target range. This is consistent with the company's track record of managing cash
+flows and debt pay-down to manage its credit metrics within a tight range that supports the current rating. We expect
+it will maintain leverage in the high-3x area and return excess FOCF to shareholders rather than further reduce debt
+meaningfully.
+
+Financial summary
+Table 2
+
+Brinker International Inc.--Financial Summary
+Industry Sector: Food Service & Restaurants
+--Fiscal year ended June 27-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+3,135.4
+
+3,150.8
+
+3,257.5
+
+3,002.3
+
+2,905.5
+
+EBITDA
+
+538.5
+
+559.4
+
+616.8
+
+584.9
+
+547.2
+
+Funds from operations (FFO)
+
+396.8
+
+396.6
+
+511.4
+
+481.0
+
+445.9
+
+91.7
+
+83.5
+
+63.3
+
+56.3
+
+55.4
+
+(Mil. $)
+
+Interest expense
+Cash interest paid
+
+85.8
+
+73.7
+
+59.7
+
+53.5
+
+52.9
+
+Cash flow from operations
+
+372.8
+
+401.9
+
+482.4
+
+453.7
+
+439.6
+
+Capital expenditure
+
+101.3
+
+102.6
+
+112.8
+
+140.3
+
+161.1
+
+Free operating cash flow (FOCF)
+Discretionary cash flow (DCF)
+Cash and short-term investments
+
+271.6
+
+299.3
+
+369.6
+
+313.4
+
+278.5
+
+(101.7)
+
+(142.3)
+
+10.7
+
+(63.6)
+
+(24.5)
+
+10.9
+
+9.1
+
+31.4
+
+55.1
+
+57.7
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 12
+
+Brinker International Inc.
+
+Table 2
+
+Brinker International Inc.--Financial Summary (cont.)
+Industry Sector: Food Service & Restaurants
+--Fiscal year ended June 27-2018
+Gross available cash
+
+2017
+
+2016
+
+2015
+
+2014
+
+10.9
+
+9.1
+
+31.4
+
+55.1
+
+57.7
+
+Debt
+
+2,053.6
+
+1,911.7
+
+1,693.9
+
+1,439.2
+
+1,305.0
+
+Equity
+
+(718.3)
+
+(493.7)
+
+(213.1)
+
+(78.5)
+
+63.1
+
+EBITDA margin (%)
+
+17.2
+
+17.8
+
+18.9
+
+19.5
+
+18.8
+
+Return on capital (%)
+
+Adjusted ratios
+
+20.9
+
+20.8
+
+24.5
+
+24.8
+
+22.9
+
+EBITDA interest coverage (x)
+
+5.9
+
+6.7
+
+9.7
+
+10.4
+
+9.9
+
+FFO cash interest coverage (x)
+
+5.6
+
+6.4
+
+9.6
+
+10.0
+
+9.4
+
+Debt/EBITDA (x)
+
+3.8
+
+3.4
+
+2.7
+
+2.5
+
+2.4
+
+FFO/debt (%)
+
+19.3
+
+20.7
+
+30.2
+
+33.4
+
+34.2
+
+Cash flow from operations/debt (%)
+
+18.2
+
+21.0
+
+28.5
+
+31.5
+
+33.7
+
+FOCF/debt (%)
+
+13.2
+
+15.7
+
+21.8
+
+21.8
+
+21.3
+
+DCF/debt (%)
+
+(5.0)
+
+(7.4)
+
+0.6
+
+(4.4)
+
+(1.9)
+
+Liquidity: Adequate
+We assess Brinker's liquidity as adequate. In our view, Brinker has adequate sources of liquidity to cover its needs over
+the next 12 months. The company's consistent cash flow generation and availability under its revolving credit facility
+support our assessment. We expect that the company's sources of liquidity will exceed its uses by 1.2x or more, and
+that Brinker will continue to meet our other criteria for an adequate assessment.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Balance sheet cash of about $13 million as of June
+26, 2019;
+
+• Capital spending of around $150 million; and
+
+• Availability under the company's revolving credit
+facility; and
+
+• Annual dividend payments of about $50 million to
+$60 million .
+
+• Cash flow from operations in the low-$300 million
+area in 2020.
+
+Debt maturities
+As of June 26, 2019, the company had the following debt maturity schedule:
+• $1 billion revolving credit facility, with $110 million due 2020 and $890 million due 2021
+• $300 million notes due 2023
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 13
+
+Brinker International Inc.
+
+• $350 million notes due 2024
+
+Covenant Analysis
+Requirements
+Brinker is subject to a minimum fixed charge coverage ratio of 1.5x and maximum leverage covenant of 4.25x.
+
+Compliance expectations
+The company was in compliance with all covenants as of June 26, 2019, and we expect covenant cushion to remain
+adequate over the next 12 months.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• We rate the company's senior unsecured notes 'BB+' with a '3' recovery rating, which indicates our expectation for
+meaningful recovery in the event of default.
+• Our recovery analysis assumes a simulated default occurring in 2024. It is our belief that, for the company to
+default, EBITDA would need to decline significantly from recent results, representing a material deterioration in the
+economy among increased competition and an increase in the company's operating costs in conjunction with poor
+execution of growth initiatives.
+• We believe the company's scale and market presence would lead to its emerging from a bankruptcy scenario and
+we estimate a gross emergence value of about $1.5 billion, assuming an emergence EBITDA of approximately $253
+million and a 6x multiple.
+• Although our analysis suggests the possibility of a recovery above 70% on the $350 million notes due 2024, we have
+capped our recovery rating on this debt at '3', which indicates a recovery of 50%-70%. This reflects our practice of
+capping unsecured recovery ratings on debt issued by companies that we rate in the 'BB-' or higher category at '3' to
+reflect the heightened risk that such companies may change their capital structure in ways that could impair
+unsecured recovery prospects.
+
+Simulated default assumptions
+• Simulated Year of default: 2024
+• EBITDA at emergence: $253 million
+• Implied EV multiple: 6.0x
+• Estimated gross EV at emergence: $1.5 billion
+
+Simplified waterfall
+• Net EV after 5% administrative costs: $1.4 billion
+• Valuation split % (obligors/nonobligors): 100/0
+• Senior unsecured claims: $1.2 billion
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 14
+
+Brinker International Inc.
+
+• --Recovery expectations: 50%-70% (rounded estimate: 65%)
+• Subordinated claims: $340 million
+• --Recovery expectations: 50%-70% (rounded estimate: 60%)
+Note: All debt amounts include six months of prepetition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of Brinker International Inc. Reported Amounts With S&P Global Ratings' Adjusted Amounts
+(Mil. $)
+--Fiscal year ended Jun. 30, 2018-Brinker International Inc. reported amounts
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+Cash flow from
+operations
+
+1,506.7
+
+403.2
+
+238.9
+
+59.0
+
+538.5
+
+284.5
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(56.0)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+S&P Global Ratings' adjustments
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(53.1)
+
+--
+
+Operating leases
+
+453.2
+
+121.1
+
+32.7
+
+32.7
+
+(32.7)
+
+88.4
+
+Accessible cash and liquid
+investments
+
+(10.3)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+14.2
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income (expense)
+
+--
+
+--
+
+3.1
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+58.2
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Workers compensation/self
+insurance
+
+45.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+12.9
+
+--
+
+--
+
+--
+
+546.8
+
+135.3
+
+48.7
+
+32.7
+
+(141.7)
+
+88.4
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from
+operations
+
+Cash flow from
+operations
+
+2,053.6
+
+538.5
+
+287.6
+
+91.7
+
+396.8
+
+372.8
+
+Depreciation and amortization:
+Impairment charges/(reversals)
+Total adjustments
+S&P Global Ratings' adjusted amounts
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB+/Stable/--
+
+Business risk: Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 15
+
+Brinker International Inc.
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Significant
+
+• Cash flow/Leverage: Significant
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 16
+
+Brinker International Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+Significant
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of August 19, 2019)*
+Brinker International Inc.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Senior Unsecured
+
+BB+
+
+Issuer Credit Ratings History
+13-Sep-2016
+
+BB+/Stable/--
+
+11-Aug-2016
+
+BBB-/Watch Neg/--
+
+01-Dec-2006
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 17
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+AUGUST 19, 2019 18
+
+

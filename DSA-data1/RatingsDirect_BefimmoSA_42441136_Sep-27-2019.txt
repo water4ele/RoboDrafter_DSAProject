@@ -1,0 +1,1472 @@
+Befimmo S.A.
+Primary Credit Analyst:
+Kathleen Allard, Paris + 33 14 420 6657; kathleen.allard@spglobal.com
+Secondary Contact:
+Nicole Reinhardt, Frankfurt + 49 693 399 9303; nicole.reinhardt@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 1
+
+Befimmo S.A.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+bbb
+
+bbb
+
+BBB/Stable/A-2
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Key Strengths
+
+Key Risks
+
+Good-quality office assets, with the majority of the portfolio in the Brussels central
+business district (CBD), where demand for office properties is relatively good
+
+Large redevelopment pipeline (18% of gross asset value),
+especially due to the ZIN project (€375 million), which
+will be responsible for a temporary increase in leverage
+
+Long-term leases of seven years, on average, excluding buildings under redevelopment
+such as the ZIN project (which already signed an 18-year lease) and Quatuor project
+(15-year lease), and a high share of public tenants (65%) supporting stable and
+recurring rental income generation
+
+Temporary deterioration of asset quality as Befimmo
+S.A. sells some core assets to fund the redevelopment
+pipeline; high-quality assets entering the portfolio in the
+coming years will gradually offset this
+
+Strong pre-letting activity, with 74% of current committed ongoing projects already
+pre-let, partially mitigating risk of vacancy inherent of redevelopment projects
+
+Relatively small size of portfolio compared with that of
+similarly rated peers
+
+Moderate debt leverage, with adjusted debt-to-debt-plus-equity of 40%-45% and
+EBITDA-interest-coverage exceeding 4x, although high debt-to-EBITDA of close to
+10x partially moderates this
+
+The Brussels office leasing market being less dynamic
+than that of Paris, and with some oversupply in
+decentralized areas where Befimmo's share of assets is
+about 8%
+
+Befimmo recently increased its riskier redevelopment activities, which it funds with debt and proceeds from asset
+disposals. Belgium-based property investment company Befimmo S.A.'s total committed redevelopment pipeline
+today represents about 18% of its portfolio value. This is higher than its long-term average and most of real estate
+rated peers, which generally limit this exposure to 5%-10% of their portfolio value. S&P Global Ratings believes
+redevelopment activities typically carry risks such as cost overrun, vacancy at completion, or unexpected drop in
+rental market rates during the construction cycle.
+Strong pre-leasing characteristics should partially mitigate the increased redevelopment risk.We acknowledge the
+company's particularly strong ability to pre-lease its redevelopment projects well in advance, with 72% of its
+committed ongoing projects already pre-let. This partially shields Befimmo from the risk of future vacancy, and attests
+to the attractiveness of its projects under redevelopment. We note the pre-leasing of 70,000 square meters (sq. m.) of
+office space in the ZIN building (out of the 110,000 sq. m. multifunctional project) to Flemish authorities with an
+18-year lease and expected delivery by 2023; the pre-leasing of 100% of the Brederode Corner project; and one-third
+of the Quatuor project two years before delivery.
+Planned assets disposals should limit leverage increases from the increased redevelopment pipeline, but will temporarily
+deteriorate the portfolio's overall quality. To maintain a moderate leverage with adjusted debt-to-debt-plus-equity
+below 50%, Befimmo will partially fund its redevelopment pipeline with assets disposals. On April 20, 2019, the
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 2
+
+Befimmo S.A.
+
+company announced the sale of the Pavilion Building (in the Leopold district of Brussels) for €93 million. We expect
+the company to sell €100 million-€250 million in office assets in the next two years.
+Befimmo has identified potential assets for sale, most of which we consider as mature but still appealing and core
+under its strategy, which means they enjoy a central location and good tenant demand. Therefore, we anticipate a
+slight and temporary deterioration of the portfolio size and quality in the coming years, falling to about €2.5 billion in
+2019-2020 from €2.7 billion currently, and with the share of CBD space decreasing to about 58% of rental income from
+about 62%. That said, the situation should only be temporary, because projects entering service in 2021-2023 should
+increase the portfolio size to more than €3 billion and the share of assets in CBD space to more than 65%.
+
+Outlook: Stable
+
+The stable outlook continues to reflect Befimmo's stable and predictable rental income from its good-quality office
+property portfolio and long-term leases with trustworthy tenants. The outlook also reflects our expectation that
+Befimmo will maintain an EBITDA interest coverage ratio of at least 3.5x and an adjusted debt-to-debt-plus-equity
+ratio of less than 45% over the next two years.
+
+Downside scenario
+We could lower our ratings on Befimmo in the next 24 months if the company's credit metrics were to deteriorate
+more than anticipated, with sustainable debt-to-debt-plus-equity (S&P Global Ratings-calculated) exceeding 45%.
+This could result from lower-than-anticipated assets disposals, higher-than-expected development capital
+expenditure, unexpected decline in valuations.
+At the same time, a negative rating action could follow an extended deterioration of Befimmo's portfolio's quality
+and size, which could result in EBITDA-interest-coverage ratio decreasing close to 3.5x. This could happen if
+Befimmo were to sell off more prime assets than anticipated.
+We might also consider lowering the rating if the company's business model became riskier, with for example a
+substantial proportion of revenues coming from co-working spaces management, or more redevelopment activities
+draining on liquidity.
+Credit stress could also come from lower-than-anticipated sources to cover upcoming debt maturities, dividends,
+and large redevelopment capital expenditures (capex) in the next 12 months that could deteriorate our liquidity
+assessment.
+
+Upside scenario
+An upgrade would depend on Befimmo's ability to improve its sustained adjusted debt-to-debt-plus-equity ratio to
+near 35%, with EBITDA interest coverage remaining comfortably above 3.5x.
+An upgrade would also require Befimmo to build a track record of rental growth on a like-for-like basis and a
+marked change in the company's earnings base, with improved diversification of income streams.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 3
+
+Befimmo S.A.
+
+Our Base-Case Scenario
+Assumptions
+
+• Slightly positive like-for-like rental income growth in
+the next two years. We assume GDP growth in
+Belgium will remain positive in the 1.3%-1.5% range
+for the next 24 months. In addition, the good
+sustained economic momentum and the decrease in
+supply of CBD office space should contribute to
+positive lease renewals
+• Stable-to-slightly decreasing occupancy in the
+93.5%-94.5% range in 2019-2020, due to the sale of
+core assets that typically have a high occupancy. We
+forecast this will reverse as projects enter service.
+For instance, Brederode and ZIN have pre-let all
+their office space
+
+Key Metrics
+
+EBITDA margin(%)
+EBITDA interest coverage (x)
+
+2018A
+
+2019E
+
+2020E
+
+81
+
+76-82
+
+72-78
+
+6.3
+
+4.0-4.5
+
+3.5-4.0
+
+Debt/debt+equity (%)
+
+44.6 40.0-41.0 41.0-43.0
+
+Debt/EBITDA (x)
+
+10.0 10.0-11.0 11.0-12.0
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Relatively flat portfolio valuation in the forecast
+period reflecting our anticipation of yields
+stabilization in the coming 24 months
+• Overall portfolio value will decrease temporarily of
+the sale of assets happening before redevelopment
+projects starting up.
+• Annual capex of €120 million-€130 million in the
+following two years, reflecting the intensive
+redevelopment pipeline in place. These mainly
+include the remaining investments for the Quator,
+Brederode, and ZIN projects
+• No acquisitions planned in the forecast period. We
+understand the company will focus on its substantial
+current redevelopments
+• Asset sales of €200 million-€350 million in
+2019-2020, including the already signed sale of
+Pavilion building for €93 million. We anticipate the
+company will continue selling assets to partially fund
+its redevelopment capex
+• 9.4% of Befimmo shares that we conservatively
+considered as representing €100 million of
+additional equity, versus €130 million-€140 million if
+considering the current market capitalization
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 4
+
+Befimmo S.A.
+
+Base-case projections
+Credit ratios should improve in 2019 due to assets disposals, but they are likely to deteriorate in 2020 as projects ramp
+up. Befimmo announced in February its intention to increase asset rotation to capitalize on strong market momentum,
+and also partially fund its upcoming redevelopments. Therefore, we expect credit metrics to improve in 2019, before a
+noticeable deterioration in 2020 resulting from the ramp-up of committed redevelopments. Still, the ratios will remain
+compatible with Befimmo's financial risk profile and the rating. We expect cash outflows from redevelopment projects
+to peak in 2020-2021.
+
+Company Description
+Befimmo operates in the office real estate segment, with a focus on Brussels (68.9% of portfolio value) and, to a lesser
+extent, Luxembourg (4.6%). The company's portfolio consists of more than 100 buildings, with a total value of €2.6
+billion as of year-end 2018. It is listed on Euronext Brussels with a market capitalization of about €1.5 billion (as of July
+2019). Befimmo has B-REIT status (regulated Belgian Real Estate Investment Trust).
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 5
+
+Befimmo S.A.
+
+Chart 2
+
+Business Risk: Satisfactory
+Our business risk assessment reflects Befimmo's good predictability in cash flow generation, including long leases
+terms of about seven years (excluding the 18-year lease recently signed for ZIN building), high occupancy of about
+94%, and the significant portion of public tenants (about 65% of rental income) that we view as creditworthy, such as
+the Belgian public sector and the EU Commission.
+Befimmo recently intensified its redevelopment activity, which will be partially funded by core assets disposals, but
+that will likely result in particularly long leases. The total committed redevelopment pipeline represents about 18% of
+the portfolio value, which is higher than its long-term average and that of most rated real estate peers that generally
+limit their exposure to more risky redevelopment activities to 5%-10% of their portfolio value. The company recently
+launched large redevelopment projects, such as the 110,000 sq. m. mixed-used ZIN project for a total investment of
+€375 million; and the 60,000 sq. m. offices building Quatuor for €157 million.
+To fund this, Befimmo is selling off mature and high-quality centrally located assets, such as the recently announced
+Pavilion building. As a result, the company's share of assets in the Brussels CBD will temporary shrink to about 58% in
+2020 from 62% currently. However, the deterioration in portfolio size and quality should only be temporary because
+the majority of the projects under redevelopment are large buildings in the Brussels CBD.
+The business risk profile also reflects Befimmo's relatively small portfolio size of about €2.6 billion as of Dec. 31, 2018
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 6
+
+Befimmo S.A.
+
+which compares negatively with that of similarly rated peers such as Merlin Properties (€12.2 billion as of March
+2019), CPI Property Group (€7.6 billion as of December 2018), or Alstria Office REIT-AG (€3.9 billion as of March
+2019). We believe a small-scale portfolio exposes holding companies to the risk of revenue volatility in the case of
+asset or tenant rotation. In addition, Befimmo has high rent concentration, mainly in a single market in Brussels, which
+is still recovering and significantly less liquid than other Western European office markets such as Paris and Berlin.
+
+Peer comparison
+Table 1
+
+Befimmo S.A. -- Peer Comparison
+Industry Sector: Real Estate Investment Trust Or Company
+--Fiscal year ended Dec. 31, 2018--
+
+Befimmo S.A.
+
+Merlin Properties,
+Socimi, S.A.
+
+Alstria Office
+REIT-AG
+
+CPI Property
+Group SA
+
+Cofinimmo
+S.A./N.V.
+
+BBB/Stable/A-2
+
+BBB/Positive/--
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+BBB/Stable/A-2
+
+Revenue
+
+144.1
+
+485.4
+
+169.1
+
+450.0
+
+212.2
+
+EBITDA
+
+Ratings as of July 15, 2019
+(Mil. €)
+
+116.6
+
+402.7
+
+143.7
+
+271.6
+
+155.8
+
+Funds from operations
+(FFO)
+
+95.3
+
+271.8
+
+117.1
+
+162.8
+
+122.9
+
+Interest expense
+
+18.5
+
+112.8
+
+29.8
+
+87.0
+
+35.4
+
+Cash interest paid
+
+20.2
+
+121.7
+
+26.6
+
+92.9
+
+32.9
+
+Cash flow from operations
+
+90.9
+
+254.4
+
+119.0
+
+158.6
+
+131.8
+
+Capital expenditure
+
+51.0
+
+193.8
+
+88.6
+
+143.5
+
+47.4
+
+Free operating cash flow
+(FOCF)
+
+39.9
+
+60.6
+
+30.4
+
+15.1
+
+84.5
+
+Dividends paid
+
+88.2
+
+215.4
+
+92.2
+
+6.3
+
+116.0
+
+(48.3)
+
+(210.8)
+
+(61.7)
+
+(136.2)
+
+(31.6)
+
+0.6
+
+169.0
+
+132.9
+
+74.4
+
+27.2
+
+Debt
+
+1,160.6
+
+5,079.9
+
+1,217.4
+
+3,077.5
+
+1,708.9
+
+Equity
+
+1,443.2
+
+6,401.8
+
+2,684.1
+
+4,087.3
+
+2,059.3
+
+Debt and equity
+
+2,603.9
+
+11,481.7
+
+3,901.4
+
+7,164.8
+
+3,768.2
+
+Valuation of investment
+property
+
+2,655.3
+
+11,909.6
+
+3,968.5
+
+7,357.9
+
+3,694.2
+
+0.6
+
+4.8
+
+(1.9)
+
+12.6
+
+4.0
+
+EBITDA margin (%)
+
+81.0
+
+82.9
+
+85.0
+
+60.4
+
+73.4
+
+Return on capital (%)
+
+4.6
+
+3.7
+
+3.9
+
+3.7
+
+4.5
+
+EBITDA interest coverage
+(x)
+
+6.3
+
+3.6
+
+4.8
+
+3.1
+
+4.4
+
+FFO cash interest
+coverage (x)
+
+5.7
+
+3.2
+
+5.4
+
+2.8
+
+4.7
+
+Debt/EBITDA (x)
+
+10.0
+
+12.6
+
+8.5
+
+11.3
+
+11.0
+
+8.2
+
+5.3
+
+9.6
+
+5.3
+
+7.2
+
+Discretionary cash flow
+(DCF)
+Cash and short-term
+investments
+
+Adjusted ratios
+Annual revenue growth
+(%)
+
+FFO/debt (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 7
+
+Befimmo S.A.
+
+Table 1
+
+Befimmo S.A. -- Peer Comparison (cont.)
+Industry Sector: Real Estate Investment Trust Or Company
+--Fiscal year ended Dec. 31, 2018--
+
+Befimmo S.A.
+
+Merlin Properties,
+Socimi, S.A.
+
+Alstria Office
+REIT-AG
+
+CPI Property
+Group SA
+
+Cofinimmo
+S.A./N.V.
+
+Cash flow from
+operations/debt (%)
+
+7.8
+
+5.0
+
+9.8
+
+5.2
+
+7.7
+
+FOCF/debt (%)
+
+3.4
+
+1.2
+
+2.5
+
+0.5
+
+4.9
+
+DCF/debt (%)
+
+(4.2)
+
+(4.1)
+
+(5.1)
+
+(4.4)
+
+(1.8)
+
+Debt/debt and equity (%)
+
+44.6
+
+44.2
+
+31.2
+
+43.0
+
+45.4
+
+Financial Risk: Intermediate
+We base Befimmo's financial risk profile on relatively low leverage, as our adjusted debt-to-debt-plus-equity ratio of
+close to 45% (44.6% at year-end 2018) and a solid EBITDA interest coverage of about 6x at year-end 2018 indicate.
+Supporting the strong coverage ratio is the relatively high-yield environment in Befimmo's main markets (5.9% of
+EPRA net initial yield at year-end 2018 versus 3.2% for Societe Foncière Lyonnaise in Paris, for example). This also
+reflects the company's low cost of debt, which improved to 2.01% in 2018 (compared with 2.08% in 2017) due to
+higher usage of inexpensive commercial paper and other short-term instruments. We believe that Befimmo will likely
+maintain adequate hedging and back-up credit lines to limit any significant interest-rate-related risks in the
+medium-to-long term.
+Befimmo's credit metrics are also burdened by a relatively high debt-to-EBITDA ratio at about 10.0x, highlighting the
+high cost of capital and low yield relative to the capital-intensive nature of Befimmo's business, especially due to its
+significant development pipeline; and still lower yield than) some other riskier asset classes or geographical exposures.
+Our assessment of Befimmo's financial risk profile captures in the company's financial policy, targeting a loan-to-value
+(LTV) ratio of maximum 50%, which is commensurate with the weaker end of our intermediate category.
+We expect Befimmo to sell €200 million-€350 million of assets in 2019-2020 while the ramp-up of redevelopment
+projects should start by 2020. As a result, we expect our adjusted debt-to-debt-plus-equity ratio to improve to close to
+40% in 2019, before deteriorating in 2020. However, we expect the company to maintain this ratio below 45%
+sustainably.
+Because asset sales will reduce EBITDA while projects are still under redevelopment, we anticipate
+EBITDA-interest-coverage and debt-to-EBITDA ratios to deteriorate, to close to 4x and 11x-12x in the coming years,
+respectively.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 8
+
+Befimmo S.A.
+
+Table 2
+
+Befimmo S.A. -- Financial Summary
+Industry Sector: Real Estate Investment Trust Or Company
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+144.1
+
+143.2
+
+137.8
+
+140.1
+
+139.7
+
+EBITDA
+
+116.6
+
+117.7
+
+112.2
+
+115.1
+
+113.4
+
+Funds from operations (FFO)
+
+95.3
+
+94.6
+
+90.1
+
+86.3
+
+80.0
+
+Interest expense
+
+18.5
+
+19.5
+
+25.0
+
+30.6
+
+28.0
+
+Cash interest paid
+
+20.2
+
+21.8
+
+20.9
+
+27.4
+
+32.3
+
+Cash flow from operations
+
+90.9
+
+105.4
+
+90.1
+
+87.7
+
+66.7
+
+Capital expenditure
+
+51.0
+
+40.5
+
+32.8
+
+30.1
+
+69.0
+
+Free operating cash flow (FOCF)
+
+39.9
+
+64.8
+
+57.3
+
+57.6
+
+(2.2)
+
+Dividends paid
+
+88.2
+
+89.3
+
+78.5
+
+57.5
+
+48.8
+
+(48.3)
+
+(24.4)
+
+(24.2)
+
+(0.3)
+
+(51.5)
+
+Cash and short-term investments
+
+0.6
+
+0.3
+
+0.2
+
+0.2
+
+0.1
+
+Gross available cash
+
+0.6
+
+0.3
+
+0.2
+
+0.2
+
+0.1
+
+Debt
+
+1,160.6
+
+990.2
+
+1,065.1
+
+1,091.2
+
+1,034.7
+
+Equity
+
+1,443.2
+
+1,448.5
+
+1,401.3
+
+1,265.3
+
+1,195.4
+
+Debt and equity
+
+2,603.9
+
+2,438.7
+
+2,466.4
+
+2,356.5
+
+2,230.2
+
+Valuation of investment property
+
+2,655.3
+
+2,494.4
+
+2,511.7
+
+2,387.8
+
+2,283.2
+
+0.6
+
+3.9
+
+(1.6)
+
+0.3
+
+1.4
+
+EBITDA margin (%)
+
+81.0
+
+82.2
+
+81.5
+
+82.2
+
+81.2
+
+Return on capital (%)
+
+4.6
+
+4.8
+
+4.7
+
+5.0
+
+5.2
+
+EBITDA interest coverage (x)
+
+6.3
+
+6.0
+
+4.5
+
+3.8
+
+4.0
+
+(Mil. €)
+
+Discretionary cash flow (DCF)
+
+Adjusted ratios
+Annual revenue growth (%)
+
+FFO cash interest coverage (x)
+
+5.7
+
+5.3
+
+5.3
+
+4.1
+
+3.5
+
+10.0
+
+8.4
+
+9.5
+
+9.5
+
+9.1
+
+FFO/debt (%)
+
+8.2
+
+9.6
+
+8.5
+
+7.9
+
+7.7
+
+Cash flow from operations/debt (%)
+
+7.8
+
+10.6
+
+8.5
+
+8.0
+
+6.4
+
+FOCF/debt (%)
+
+3.4
+
+6.5
+
+5.4
+
+5.3
+
+(0.2)
+
+DCF/debt (%)
+
+(4.2)
+
+(2.5)
+
+(2.3)
+
+(0.0)
+
+(5.0)
+
+Debt/debt and equity (%)
+
+44.6
+
+40.6
+
+43.2
+
+46.3
+
+46.4
+
+Debt/EBITDA (x)
+
+Liquidity: Adequate
+We assess Befimmo's liquidity as adequate because we anticipate that the ratio of liquidity sources to uses will be near
+1.2x for the 12 months from March 31, 2019.
+We consider that the company has well-established and solid relationships with its banks, with a generally high
+standing in the credit markets. The adequate liquidity assessment also includes our view of Befimmo's generally very
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 9
+
+Befimmo S.A.
+
+prudent financial risk management and our expectation that the company will maintain adequate headroom under all
+maintenance covenants.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• €710 million available under committed undrawn
+credit facilities, out of which 438 million are back-up
+lines for the commercial paper (with a maturity of
+more than 12 months)
+
+• Short-term debt maturities of about €542 million,
+including drawn commercial papers of €438 million.
+We understand that the commercial paper is backed
+by long-term bank facilities, which are included in
+the €710 million credit facilities mentioned in the
+sources
+
+• Our forecast of cash funds from operations of about
+€80 million in the next 12 months
+• Contracted asset sales of €93 million for the Pavilion
+building
+
+• Committed capex of about €80 million
+• Dividend payment of about €88 million
+
+Reconciliation
+Table 3
+
+Reconciliation Of Befimmo S.A. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018--
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global Ratings'
+adjusted EBITDA
+
+1,178.5
+
+117.0
+
+110.1
+
+18.5
+
+116.6
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(1.1)
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(20.2)
+
+Postretirement benefit
+obligations/deferred compensation
+
+--
+
+0.0
+
+0.0
+
+0.0
+
+--
+
+(0.6)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0.9
+
+--
+
+--
+
+Befimmo S.A. reported amounts
+
+S&P Global Ratings' adjustments
+
+Accessible cash and liquid investments
+Nonoperating income (expense)
+Debt: Fair value adjustments
+
+(17.3)
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on disposals of
+PP&E
+
+--
+
+(0.3)
+
+(0.3)
+
+--
+
+--
+
+Depreciation and amortization: Asset
+valuation gains/(losses)
+
+--
+
+--
+
+5.5
+
+--
+
+--
+
+(17.9)
+
+(0.3)
+
+6.1
+
+0.0
+
+(21.3)
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+Funds from operations
+
+1,160.6
+
+116.6
+
+116.1
+
+18.5
+
+95.3
+
+Total adjustments
+S&P Global Ratings' adjusted
+amounts
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 10
+
+Befimmo S.A.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/A-2
+
+Business risk: Satisfactory
+
+• Country risk: Low
+• Industry risk: Low
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbb
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | Industrials: Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 11
+
+Befimmo S.A.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 12, 2019)*
+Befimmo S.A.
+Issuer Credit Rating
+
+BBB/Stable/A-2
+
+Senior Unsecured
+
+BBB
+
+Short-Term Debt
+
+A-2
+
+Issuer Credit Ratings History
+18-Jun-2007
+
+BBB/Stable/A-2
+
+27-Dec-2006
+
+BBB/Watch Neg/A-2
+
+25-Feb-2004
+
+BBB/Positive/A-2
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+Additional Contact:
+Industrial Ratings Europe; Corporate_Admin_London@spglobal.com
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 12
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 13
+
+

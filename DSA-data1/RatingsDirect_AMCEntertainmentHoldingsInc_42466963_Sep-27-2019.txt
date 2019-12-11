@@ -1,0 +1,1540 @@
+AMC Entertainment Holdings Inc.
+Primary Credit Analyst:
+Scott E Zari, CFA, Chicago + 1 (312) 233 7079; scott.zari@spglobal.com
+Secondary Contact:
+Rose Oberman, CFA, New York 212-438-0354; rose.oberman@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 1
+
+AMC Entertainment Holdings Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Largest global movie exhibitor provides a broad customer base with
+good geographic diversity.
+
+Exposure to the inter-year volatility of the box office and the success of
+the movie release slate.
+
+Its scale also provides increased negotiating power with studios
+relative to smaller peers.
+
+Increased competition from in-home entertainment alternatives.
+History of debt financed acquisitions leading to high leverage of 6.3x.
+
+We expect AMC's adjusted leverage to remain in the high-5x to low-6x area over the next two years. AMC's history of
+debt-financed acquisitions and the significant cash spending requirements of its reseating initiatives contributed to its
+high leverage and slow pace of deleveraging over the past two years. We expect adjusted leverage to remain elevated
+in 2019 and gradually declining over the next two years due to moderate EBTIDA growth and cash flow generation.
+However, if AMC uses incremental cash flow for shareholder rewards instead of repaying debt, leverage could be
+higher than we expect.
+AMC recently reduced its capex guidance, which could weaken its competitive position over the long term. For 2019,
+capital spending is expected to be about $35 million to $50 million lower than we previously expected and 2020 net
+capex is now expected to decline by $115 million to $165 million. The reduction will provide a short-term boost to free
+cash flow, but we view the company's capital spending on high ROI projects (such as re-seating and new builds) to be
+a key factor in its growth strategy and reducing capex could weaken its competitive position.
+The subscriber base for AMC Stubs A-List, the company's subscription offering, continues to grow, but its long-term
+impact on operating performance remains unclear. A-list allows subscribers to attend significantly more showings per
+month than they would if they spent the same amount buying individual tickets. The short-term impact of subscription
+models has been positive for total box-office attendance to date. However, we believe subscription models could
+devalue the ticket, and it is unclear whether they will be accretive to profitability in the long term.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 2
+
+AMC Entertainment Holdings Inc.
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that while free operating cash flow should improve over the next 12-24
+months due to lower capital spending, we expect the company's leverage to remain at about 6x.
+
+Downside scenario
+We could lower the rating if the company's leverage increases above 6.5x on a sustained basis as a result of box
+office declines or if its competitive position in key markets weakens due to the slow down in the company's growth
+capital spending. We could also lower the rating if the company pursues debt-financed acquisitions or shareholder
+rewarding activities that increase leverage above our downgrade threshold.
+
+Upside scenario
+While unlikely over the next 12-24 months, we could raise the rating if we expect AMC to reduce leverage below
+5x. Given the limited cash flow, even factoring in lower capital spending, we expect this would likely require a 15%
+to 20% increase in forecasted EBITDA to reduce leverage below our threshold by the end of 2020. An upgrade
+would also likely require a track record of substantial debt repayment.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 3
+
+AMC Entertainment Holdings Inc.
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+• Eurozone GDP growth of 1.1% in 2019 and 1.3% in
+2020.
+• Revenue growth of 0.5% to 1% in 2019 due to a
+strong film slate over the second half of the year.
+Revenues grow 1%-3% in 2020 as investments in
+international theater growth and less currency
+headwinds offset a weaker box office.
+• Adjusted EBITDA margins to decline by 20-40 bps
+in 2019 due to elevated film rental costs related to
+Avengers Endgame and Star Wars. We expect
+EBITDA margins will improve by 60-90 bps in 2020
+due to the company's plan to reduce costs by up to
+$50 million by reducing overlap in corporate
+expenses.
+
+2018A
+EBITDA Margin (%)
+Debt to EBITDA (x)
+
+2019E
+
+2020E
+
+30.3 29.9-30.1 30.7-30.9
+6.1
+
+6.0-6.2
+
+5.7-5.9
+
+A--Actual. E--Estimate.
+*Note: The 2018 data includes aggregate adjustments
+(operating lease rent, stock compensation, dividends
+from equity investments) of about $836 million to
+EBITDA and around $4.8 billion aggregate adjustments
+to the reported debt (operating leases, post-retirement
+benefits, workers compensation, accessible cash). We
+expect the adjustment to reported EBITDA and
+reported debt to be around $958 million and $5.3
+billion in 2019 and 2020.
+
+• Net capex of about $415 million in 2019, decreasing
+to $300 million in 2020.
+• Dividends of around $85 million annually.
+
+Base-case projections
+AMC's revenue growth is less correlated to GDP growth and more correlated to the overall box office, which is driven by
+the quality of the year's film slate. The U.S. box office has grown at a CAGR of roughly 2% since the mid-2000's with
+inter-year volatility driven by the success of the release slate. We expect this trend to continue over the next two to
+three years. While we believe an economic downturn would have an impact on AMC due to lower consumer spending,
+we view the movie theater as a relatively low cost out-of-home entertainment option that has been relatively resilient
+in past recessions. A future downturn would likely result in lower spending on concessions per patron and lower
+average ticket prices as customers opt to save money by avoiding premium formats.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 4
+
+AMC Entertainment Holdings Inc.
+
+Chart 1
+
+We expect the U.S. box office to be strong in the second half of 2019, but expect it to soften in 2020 as the film slate is
+less compelling. A strong fourth quarter, driven by Frozen 2 and Star Wars: The Rise of Skywalker should result in 2019
+nearing the record highs of 2018 and contribute to revenue growth of 0.5%-1%. The 2020 film slate is more uncertain
+and will face tough comparisons against Endgame and Star Wars, although we expect investments in international
+theater growth and less currency headwinds will support revenue growth of 1%-3% in 2020.
+Table 1
+
+Film Slate
+2019 Remaining Key Films
+
+2020 Key Films
+
+IT Chapter 2
+
+Onward
+
+Frozen 2
+
+Mulan
+
+Jumanji: The Next Level
+
+Black Widow
+
+Star Wars: The Rise of Skywalker
+
+No Time To Die
+Fast & Furious 9
+Wonder Woman 1984
+Dune
+Eternals
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 5
+
+AMC Entertainment Holdings Inc.
+
+ASC 842 has no material impact on our view of AMC's leverage or profitability. AMC's adoption of ASC 842 included a
+significant reclassification of finance leases to operating leases, which reduced reported EBITDA and cash flows.
+However, our analysis views the distinction between financing and operating leases to be superficial and treats all
+leases as debt. We adjust our earnings and cash flow metrics for lease expense and we include all lease liabilities in our
+debt figure.
+
+Company Description
+AMC Entertainment is the largest theatrical exhibition company in the world. As of June 30, 2019, it operated 639
+theaters with a total of 8,107 screens in the U.S. and 365 theaters with 2,929 screens in other countries. AMC holds the
+first or second market share position in 21 of the 25 largest metropolitan areas of the U.S. and in 12 of the 15 countries
+it serves in North America, Europe and the Middle East. It is publicly traded, but Chinese conglomerate Dalian Wanda
+Group Co. Ltd. owns approximately 49.9% of AMC's stock and 74.9% of the combined voting power.
+
+Business Risk: Fair
+AMC's position as the largest movie exhibitor globally provides increased negotiating power with studios and suppliers.
+AMC is the largest movie exhibitor in the U.S. and has a significant presence in the European market. AMC is also the
+largest IMAX exhibitor in the U.S. with 218 IMAX screens, which is nearly double that of its closest competitor. Its
+scale provides solid brand recognition and allows it to negotiate better film rental agreements with studios relative to
+smaller peers, as evidenced by its ability to improve the film rental costs of the Carmike theaters after acquiring them
+in 2016.
+AMC faces increased competition from high-quality in-home viewing and the proliferation of streaming entertainment
+alternatives such as Netflix and Amazon Prime. High-quality in-home content competes with AMC for its customer's
+time spent viewing content. Additionally, the potential widespread release of films to premium video-on-demand
+(PVOD) platforms within the traditional theatrical release window or films becoming available for digital purchase
+ahead of their DVD availability could hurt AMC's and its peers' long-term performance. However, we believe major
+modifications of the traditional theatrical window, particularly as it relates to the highest grossing blockbuster releases,
+over the next 12-24 months are unlikely.
+Exhibitors have no control over the timing and quality of the upcoming film release slate. AMC depends fully on film
+studios for content, which we believes puts them and other exhibitors at a disadvantage against the studios in terms of
+bargaining power. The box office has also become increasingly concentrated with tent-pole franchises contributing a
+larger percentage of the annual gross. Additionally, Disney's share of the box office has grown considerably due to the
+success of Marvel, Pixar, and Star Wars combined with its acquisition of Twenty First Century Fox. We believe the
+higher concentration in large tent-pole releases will continue to increase the share of admissions revenue that goes to
+the studios. However, the movie theater remains the best option for a studio to monetize the considerable investment
+required to produce a movie and we believe it is in the best interest of both studios and exhibitors to maintain the
+success of the theatrical box office. Disney has been more vocal than other studios in its support for theatrical
+exhibition, which is a benefit to the exhibitors, but if Disney's strategy changes it would have a significant impact on
+AMC and its peers.
+Total box office growth depends more on higher average ticket prices than attendance. If subscription programs limit
+exhibitors' ability to raise ticket prices or decrease the amount of higher-priced premium format tickets sold, we
+believe they could potentially limit admissions revenue growth. It is also unclear whether exhibitors are able to offset
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 6
+
+AMC Entertainment Holdings Inc.
+
+any admissions decline through increases in concession revenue or the monetization of subscription data.
+Chart 2
+
+Peer comparison
+Table 2
+
+Peer Comparison
+AMC Entertainment Holdings Inc. Cineworld Group Plc Cinemark Holdings Inc.
+Ratings as of Sept. 12, 2019
+
+B/Stable/--
+
+BB-/Stable
+
+BB/Stable/--
+
+LTM Revenue (bil.)
+
+5,341
+
+4,407
+
+3,225
+
+EBITDA margin (%)
+
+29.9
+
+32.3
+
+32.4
+
+6.3
+
+5.0
+
+3.0
+
+75
+
+75
+
+78
+
+LTM credit metrics
+
+Debt/EBITDA (x)
+U.S. metrics (YTD 2019)
+% of Revenue
+Theaters
+
+639
+
+549
+
+344
+
+Avg Screens per theater
+
+12.7
+
+13.1
+
+13.5
+
+15,651
+
+12,439
+
+19,179
+
+Avg. ticket price ($)
+
+9.4
+
+10.5
+
+8.1
+
+Concessions spend per patron ($)
+
+5.4
+
+5.4
+
+5.3
+
+Attendance per screen
+
+International metrics (YTD 2019)
+% of Revenue
+Theaters
+Avg Screens per theater
+Attendance per screen
+Avg. ticket price ($)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+25
+
+25
+
+22
+
+365
+
+237
+
+205
+
+8.0
+
+9.6
+
+7.1
+
+17,037
+
+20,280
+
+36,882
+
+8.6
+
+7.1
+
+3.7
+
+SEPTEMBER 13, 2019 7
+
+AMC Entertainment Holdings Inc.
+
+Table 2
+
+Peer Comparison (cont.)
+AMC Entertainment Holdings Inc. Cineworld Group Plc Cinemark Holdings Inc.
+Concessions spend per patron ($)
+
+3.5
+
+2.9
+
+2.3
+
+We view AMC's competitive position as roughly in-line with its peers and the key differentiation between the ratings is
+mainly leverage and cash flow. AMC has the highest leverage of its peer group due to its history of debt-financed
+acquisitions, but also due to its significant lease obligations. AMC's strategy of targeting high-quality, expensive
+locations and financing renovations through build-to-suit leases has resulted in annual lease payments (both financing
+and operating) that amount to roughly 17% of revenue. This compares to about 13% for Cineworld and 9% for
+Cinemark. In our view, the company's high leverage limits its financial flexibility relative to its peers.
+While AMC is the largest global exhibitor, Cineworld has similar scale and competes head-to-head with AMC more
+often than Cinemark. Cineworld's U.S. subsidiary Regal Entertainment Group is generally located in key urban
+locations and operates with a similar strategy to AMC's legacy theaters. AMC's average ticket price lags Regal by
+roughly $1 mainly because of its lower priced AMC classic theaters (formerly Carmike). While the businesses are
+similar, Cineworld has lower leverage and better cash flow characteristics.
+Cinemark operates with a slightly different strategy than AMC and Cineworld by targeting mainly mid-sized markets in
+the U.S. and investing in growing Latin American markets. While it is the smallest of the peer group, it has the highest
+attendance per screen (albeit at a lower priced ticket) and has consistently outperformed the box office over the past
+two to three years. It has the highest EBITDA margin due to the low cost base and high utilization of its theaters and
+has the lowest leverage, which better positions it to continue making investments in its circuit.
+Cinemark and Regal have also launched subscription programs in the U.S., although Cinemark's is based on a credit
+system and Regal's program is in early stages.
+• We view Cinemark's strategy of charging near its average ticket price to be less risky than its competitors' full
+subscription model as the number of showtimes a subscriber attends each month has less of an impact on
+profitability. We also believe this allows Cinemark to offer a higher discount on concessions, as there is minimal
+discounting of the admission price.
+• Regal's program is similar to AMC's but does not have a cap on visits and offers a 10% discount on concessions. We
+view Regal's program as being the most risky as it is potentially discounting both admission and concessions.
+• AMC does not charge a surcharge for premium format tickets, which is giving up potential incremental revenue that
+would be contributing to growth in average ticket prices. However, AMC and Regal's programs are more likely to
+drive repeat monthly visits as the users need to justify the cost of the subscription.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 8
+
+AMC Entertainment Holdings Inc.
+
+Table 3
+
+Subscription Services
+AMC Stubs A-list Regal Unlimited
+
+Cinemark Movie Club
+
+Subscribers
+
+900k+
+
+Launched in July 2019 800k+
+
+Price
+
+$19.95-$23.95
+
+$18-$23.5
+
+$8.99-$9.99
+
+# of showtimes allowed
+
+3 per week
+
+Unlimited
+
+1 accruing credit per month
+
+Concessions discount
+
+None
+
+10%
+
+20%
+
+Surcharge for premium format None
+
+$1.5-$3
+
+Same upcharge as standard tickets
+
+Online booking fees
+
+None
+
+$0.50
+
+None
+
+Discounted additional tickets
+
+None
+
+None
+
+2 per movie at cost of subscription
+
+Financial Risk: Highly leveraged
+AMC's history of debt-financed acquisitions and significant cash spending requirements to support its re-seating
+initiatives contributed to its high leverage and slow pace of deleveraging over the past two years. We expect adjusted
+leverage to remain elevated in the low-6x area in 2019 and gradually decline to the high 5x area over the next two
+years due to moderate EBTIDA growth and cash flow generation. In 2017 and 2018, gross capex exceeded reported
+operating cash flow and the company relied on asset sales and sale-leaseback transactions to partially fund its cash
+spending. Free cash flow should increase over the next 12-24 months as capital spending decreases, but the company
+indicated it would likely hold the cash on its balance sheet instead of repaying debt and reducing its interest burden. If
+AMC chooses to use its cash to fund shareholder rewards instead of repaying debt or investing in strategies with high
+ROI, we believe it would negatively affect its credit quality.
+
+Financial summary
+Table 4
+
+AMC Entertainment Holdings Inc. -- Financial Summary
+Industry Sector: Miscellaneous Media And Entertainment
+Fiscal year ended March 31
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+5,460.8
+
+5,079.2
+
+3,235.8
+
+2,946.9
+
+2,695.4
+
+EBITDA
+
+1,646.7
+
+1,465.6
+
+1,100.6
+
+927.1
+
+852.6
+
+Funds from operations (FFO)
+
+1,000.6
+
+904.1
+
+742.9
+
+632.2
+
+558.3
+
+Interest expense
+
+649.8
+
+598.7
+
+370.1
+
+291.7
+
+300.9
+
+Cash interest paid
+
+626.6
+
+550.6
+
+353.0
+
+289.5
+
+293.2
+
+Cash flow from operations
+
+953.8
+
+942.2
+
+743.1
+
+717.5
+
+481.5
+
+Capital expenditure
+
+575.8
+
+626.5
+
+421.5
+
+333.2
+
+210.9
+
+Free operating cash flow (FOCF)
+
+378.0
+
+315.7
+
+321.6
+
+384.3
+
+270.6
+
+(325.5)
+
+177.1
+
+242.0
+
+305.7
+
+212.1
+
+Cash and short-term investments
+
+313.3
+
+310.0
+
+207.1
+
+211.3
+
+216.2
+
+Gross available cash
+
+313.3
+
+310.0
+
+207.1
+
+211.3
+
+216.2
+
+10,064.6
+
+9,527.5
+
+8,663.6
+
+4,642.6
+
+4,516.5
+
+(Mil. $)
+
+Discretionary cash flow (DCF)
+
+Debt
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 9
+
+AMC Entertainment Holdings Inc.
+
+Table 4
+
+AMC Entertainment Holdings Inc. -- Financial Summary (cont.)
+Industry Sector: Miscellaneous Media And Entertainment
+Fiscal year ended March 31
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+1,398.0
+
+2,112.4
+
+2,009.7
+
+1,540.1
+
+1,514.2
+
+EBITDA margin (%)
+
+30.2
+
+28.9
+
+34.0
+
+31.5
+
+31.6
+
+Return on capital (%)
+
+7.2
+
+3.0
+
+6.3
+
+7.8
+
+6.8
+
+EBITDA interest coverage (x)
+
+2.5
+
+2.4
+
+3.0
+
+3.2
+
+2.8
+
+FFO cash interest coverage (x)
+
+2.6
+
+2.6
+
+3.1
+
+3.2
+
+2.9
+
+Debt/EBITDA (x)
+
+6.1
+
+6.5
+
+7.9
+
+5.0
+
+5.3
+
+FFO/debt (%)
+
+9.9
+
+9.5
+
+8.6
+
+13.6
+
+12.4
+
+Cash flow from operations/debt (%)
+
+9.5
+
+9.9
+
+8.6
+
+15.5
+
+10.7
+
+FOCF/debt (%)
+
+3.8
+
+3.3
+
+3.7
+
+8.3
+
+6.0
+
+(3.2)
+
+1.9
+
+2.8
+
+6.6
+
+4.7
+
+Equity
+Adjusted ratios
+
+DCF/debt (%)
+N.M.--Not meaningful
+
+Liquidity: Adequate
+We expect AMC's sources of liquidity will exceed uses by more than 3x over the next 12 months and remain positive
+even if forecasted EBITDA unexpectedly declines by 15%. We believe the company has solid relationships with its
+banks as indicated by the company's recent ability to issue a new term loan and extend the maturity of its revolving
+credit facility. However, given the company's already thin cash flow and our view that growth capital spending is
+necessary to maintain its competitive position, we believe the company could have difficulty absorbing
+low-probability, high-impact shocks without refinancing.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balances totaling roughly $190 million as of
+June 30, 2019, net of restricted cash;
+
+• Gross capex of roughly $400 million to $450 million
+over the next 12 months;
+
+• Roughly $317 million available, net of letters of
+credit, under revolving credit facilities; and
+
+• Cash dividends of about $85 million annually;
+
+• Cash flow from operations of $540 million-$560
+million over the next 12 months.
+
+• Minimal annual working capital requirements; and
+• Amortization on its term loan of around $20 million
+per year.
+
+Debt maturities
+As of June 30, 2019, AMC's debt maturities were as follows:
+• 2024: $1,235 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 10
+
+AMC Entertainment Holdings Inc.
+
+• 2025: $600 million
+• 2026: $2,590 million
+• 2027: $475 million
+
+Covenant Analysis
+Compliance expectations
+As of June 30, 2019, the covenant was not applicable because there were no borrowings under the revolving credit
+facility. Although we do not expect the covenant to be tested over the next year, we expect the company to have an
+EBITDA cushion of more than 50%.
+
+Requirements
+The senior secured credit facility includes a springing maximum secured leverage ratio of 6.0x when the revolving
+credit facility is more than 35% drawn.
+
+Environmental, Social, And Governance
+
+While not currently material to our rating, we believe motion picture exhibitors are exposed to social and cultural
+risks related to the content they choose to exhibit in their theaters. While almost all of AMC's operations reside in
+countries with established motion picture content rating systems, the ratings do not completely protect the
+theaters from potential backlash related to controversial content. Alternatively, if the theater chooses not to exhibit
+politically or culturally driven content, it could be perceived as engaging in censorship. We view AMC's
+management and governance as fair which is neutral for the current rating. AMC's largest owner Dalian Wanda
+Group reduced its ownership to just below 50% in 2018 but retains voting control through its super-voting shares.
+Silver Lake invested $600 million of convertible notes, which would convert to roughly 20%-23% of the equity, to
+facilitate Wanda's reduction. Silver Lake has a board seat and a right of first refusal on any further share sales by
+Wanda. AMC will have to manage the expectations of its two largest stakeholders, however we believe the
+presence of independent board members sufficiently offsets the controlling influence and allows the company to
+maintain effective governance.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• AMC's capital structure consists of a $225 million senior secured revolving credit facility maturing in 2024, a £100
+million senior secured revolving credit facility maturing in 2022 (issued by Odeon), a $2 billion senior secured term
+loan maturing in 2026, $600 million of senior unsecured convertible notes due in 2024, and $2.3 billion of
+subordinated notes with maturities ranging from 2024 to 2027.
+• The £100 million multicurrency revolver (not rated) has a priority claim on the company's assets in England and
+Wales.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 11
+
+AMC Entertainment Holdings Inc.
+
+• The $600 million convertible notes (not rated) rank junior to the senior secured debt. While the notes could be
+converted into equity for $18.95 per share as early as September 2019, our analysis assumes they remain debt since
+the company's stock price is currently trading well below that price. If the notes are converted, it would increase
+recovery prospects for the subordinated notes.
+• The subordinated notes are subordinated to the senior secured and convertible debt.
+
+Simulated default assumptions
+• Our simulated default scenario contemplates a hypothetical default in 2022, caused by a significant decline in movie
+theater attendance as a result of unappealing films and a sudden and sharp shift toward alternative film delivery
+methods.
+• Other default assumptions include an 85% draw on the revolving credit facilities, LIBOR is 2.5%, and all debt
+includes six months of prepetition interest.
+• We assume that in the event of a default or insolvency proceeding the company would reorganize, close
+underperforming theaters, and unwind leases. We use a distressed EBITDA multiple of 6x to value the company.
+
+Simplified waterfall
+• EBITDA at emergence: about $537 million
+• EBITDA multiple: 6x
+• Net enterprise value (after 5% administrative costs): $3.0 billion
+----------------------------------------------------• Value available to senior secured debt after priority claims: $2.8 billion
+• Estimated senior secured debt claims: $2.2 billion
+• --Recovery expectation: 90%-100% (rounded estimate: 95%)
+----------------------------------------------------• Value available to senior unsecured debt: $754 million
+• Estimated senior unsecured debt claims: $609 million
+----------------------------------------------------• Value available to subordinated debt: $145 million
+• Estimated subordinated debt claims: $2.4 billion
+• --Recovery expectation: 0%-10% (rounded estimate: 5%)
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 12
+
+AMC Entertainment Holdings Inc.
+
+Table 5
+
+Reconciliation Of AMC Entertainment Holdings Inc. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. $)
+Rolling 12 months ended June 30, 2019
+AMC Entertainment Holdings Inc. reported amounts
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+Cash flow
+from
+operations
+
+Dividends
+
+Capital
+expenditure
+
+Debt
+
+EBITDA
+
+Operating
+income
+
+4,734.5
+
+645.6
+
+137.2
+
+306.5
+
+1,590.7
+
+379.7
+
+249.3
+
+576.9
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+(9.1)
+
+--
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+(285.6)
+
+--
+
+--
+
+--
+
+5,543.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+907.2
+
+365.3
+
+365.3
+
+(365.3)
+
+541.9
+
+--
+
+--
+
+23.1
+
+0.6
+
+0.6
+
+0.2
+
+--
+
+--
+
+--
+
+--
+
+(190.5)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+0.5
+
+(0.5)
+
+(0.5)
+
+--
+
+(0.5)
+
+Share-based
+compensation expense
+
+--
+
+17.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+19.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+242.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+0.0
+
+0.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+
+--
+
+--
+
+13.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+5,375.7
+
+945.1
+
+621.8
+
+366.0
+
+(660.5)
+
+541.4
+
+0.0
+
+(0.5)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Dividends
+
+Capital
+expenditure
+
+930.2
+
+921.1
+
+249.3
+
+576.4
+
+Reported lease liabilities
+Operating leases
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+10,110.2
+
+1,590.7
+
+759.0
+
+672.5
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Fair
+
+• Country risk: Very low
+• Industry risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 13
+
+AMC Entertainment Holdings Inc.
+
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Media And Entertainment Industry, Dec. 24, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 14
+
+AMC Entertainment Holdings Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 13, 2019)*
+AMC Entertainment Holdings Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+BB-
+
+Subordinated
+
+CCC+
+
+Issuer Credit Ratings History
+07-Aug-2018
+
+B/Stable/--
+
+21-Aug-2017
+
+B+/Negative/--
+
+13-Mar-2017
+
+B+/Stable/--
+
+24-Jan-2017
+
+B+/Watch Neg/--
+
+21-Oct-2016
+
+B+/Stable/--
+
+07-Mar-2016
+
+B+/Watch Neg/--
+
+10-Mar-2015
+
+B+/Stable/--
+
+Related Entities
+AMC Entertainment Inc.
+Senior Secured
+
+BB-
+
+Subordinated
+
+CCC+
+
+Carmike Cinemas Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+BB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 13, 2019 16
+
+

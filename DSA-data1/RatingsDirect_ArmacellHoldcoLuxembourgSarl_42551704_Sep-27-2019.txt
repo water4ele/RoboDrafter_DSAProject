@@ -1,0 +1,972 @@
+Armacell Holdco Luxembourg Sarl
+Primary Credit Analyst:
+Wen Li, Frankfurt + 49 69 33999 101; wen.li@spglobal.com
+Secondary Contact:
+Renato Panichi, Milan (39) 02-72111-215; renato.panichi@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 1
+
+Armacell Holdco Luxembourg Sarl
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading position in the niche market of flexible foams for equipment and Limited scale and scope of operations, with estimated adjusted
+technical insulation, with strong market shares of about 30% in Americas EBITDA of about €120 million in 2019.
+and 25% in EMEA.
+Strong geographic as well as end-market diversity.
+
+Exposure to the cyclical construction and volatile oil and gas
+industries, which together account for more than 50% of total
+revenues.
+
+Healthy and relatively resilient profitability, thanks to asset-light
+business model, flexible cost base, and diversified end-markets.
+
+Exceptionally high leverage in 2018 with adjusted debt to EBITDA at
+8.2x, however we expect a swift deleveraging to below 6.5x in 2019
+and below 6x by 2020.
+
+Good growth potential, supported by favorable market dynamics and strategic investments
+undertaken in 2018.
+We expect revenue to increase by 5%-6% and approach €700 million in 2020, driven by strong market demand for
+innovative products like polyethylene terephthalate (PET) foams and aerogel blankets, supplemented by bolt-on
+acquisitions. PET is expected to exhibit double-digit growth with penetration opportunities in sectors such as
+transportation, specialist construction, and light industrial, as well as a strong uptake in the global wind market.
+
+Very high leverage in 2018 leading to minimal headroom under the current rating, however we view
+this as exceptional.
+Armacell's adjusted debt to EBITDA of 8.2x (December 2018) is much higher than our previous expectation of about
+6.5x, mainly due to underperformance in 2018 amid lower sales and EBITDA. However, we expect this figure will
+prove exceptional because we view the key underperformance drivers last year as non-recurring. They included high
+restructuring expenses and loss of volumes related to delays in footprint optimization to improve cost structure and
+new production lines (aerogel line at AJA in South Korea and PET line in Canada), as well as negative foreign
+exchange effects.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 2
+
+Armacell Holdco Luxembourg Sarl
+
+We forecast swift deleveraging to below 6.5x in 2019 and below 6x by 2020.
+This will stem from solid volume growth in PET and aerogel following increases in capacity, strong price increases
+implemented earlier this year, and higher efficiency post footprint optimization. We also expect higher free operating
+cash flow (FOCF) generation of above €25 million annually as the group returns to high cash conversion with a
+normalized inventory level.
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 3
+
+Armacell Holdco Luxembourg Sarl
+
+Outlook: Stable
+
+The stable outlook reflects our expectation of a swift recovery of profitability and deleveraging over the next 12
+months on implemented price increases, solid volume growth in EMEA, the fast-growing PET business, and cost
+savings from production optimization measures. This should enable adjusted debt to EBITDA to improve to below
+6.5x in 2019 and below 6.0x in 2020. However, EBITDA growth and deleveraging is much slower than we
+expected. We think the leverage ratio will be at the weak end of the 5.0x-6.5x range commensurate with the rating
+in the next 12 months, resulting in minimal headroom for further underperformance. We also anticipate that
+Armacell will generate FOCF of above €25 million in the next 12 months and recover its EBITDA interest coverage
+ratio back to above 3.5x.
+
+Downside scenario
+We could lower our rating if Armacell's EBITDA continued to decline, for example due to margin erosion or
+weaker end-market demand, or a material adverse foreign-exchange impact. We could also consider a downgrade
+if Armacell were to adopt a more aggressive financial policy than we expect through large debt-funded acquisitions
+or distributions to shareholders. Under such a scenario, leverage would remain above 6.5x in 2019 on a
+gross-adjusted basis and EBITDA interest coverage ratio below 3.5x. Rating pressure could also emerge if Armacell
+failed to generate positive FOCF for a prolonged period.
+
+Upside scenario
+In our view, the potential for an upgrade is currently limited, given the group's very high leverage. However, strong
+recurring free cash flows and adjusted debt to EBITDA improving to sustainably below 5.0x, combined with strong
+commitments from the private equity owner to maintaining leverage at such a level, could put positive pressure on
+the rating over the long run.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 4
+
+Armacell Holdco Luxembourg Sarl
+
+Assumptions
+
+Key Metrics
+
+In our base case, we assume:
+• Revenue growth of 5%-6% in 2019 and 2020, up
+from around 1.2% in 2018 (including negative
+foreign exchange effects). Sales growth is supported
+by price increases in advanced insulation and PET
+implemented earlier this year, and higher PET and
+aerogel production after start-up of new/extended
+production lines.
+
+2018A
+
+2019E
+
+2020E
+
+Gross Debt/EBITDA (x)*
+
+8.2 6.0-6.5 5.5-6.0
+
+EBITDA/Interest coverage (x)*
+
+3.1
+
+>3.5
+
+>4.0
+
+FOCF (in € mil.)
+
+0.5
+
+25-35
+
+30-40
+
+*Fully adjusted by S&P Global Ratings.
+A--Actual. E--Estimate. FOCF--Funds from operations.
+
+• Adjusted EBITDA margins improving to about
+18.5%-19.0% in 2019-2020 from 15.9% in 2018.
+• Limited working capital outflows of about €5
+million-€10 million.
+• Capex of €35 million-€40 million in 2019-2020,
+down from €51 million in 2018, including
+investments in additional capacity for PET in China
+and aerogel in South Korea.
+• We expect bolt-on acquisitions of no more than €5
+million in 2019 and about €20 million per year on
+average thereafter, reflecting the group's growth
+model of generating around 50% of growth from
+acquisitions.
+
+Base-case projections
+We expect a swift recovery in profitability. This will stem from implemented price increases, efficiency gains from
+footprint optimization and continuous cost control, and much lower unusual costs related to restructuring, which are
+non-recurring.
+Increased earnings and lower working capital outflow will lead to stronger FOCF generation. We expect Armacell's
+FOCF to increase to €25 million-€30 million in 2019 and to €30 million-€40 million in 2020, supported by
+strengthening EBITDA, improved working capital management amid a normalization of inventory levels following the
+implementation of footprint optimization, and lower capex after large strategic investments in capacity expansion and
+footprint optimization undertaken in 2018.
+
+Company Description
+Armacell is a Germany-based manufacturer of flexible foam products used in the insulation of technical equipment in
+heating, ventilation and air conditioning (HVAC), plumbing, and refrigeration (Advanced Insulation, 78% of sales in
+2018), as well as high-performance foams used in transportation, wind energy, sports and leisure, construction and
+other industries (Engineered Foams, 22% of sales). The group generated about €610 million in revenue and about €100
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 5
+
+Armacell Holdco Luxembourg Sarl
+
+million S&P-adjusted EBITDA in 2018. Armacell was acquired by equity funds managed by Blackstone and KIRKBI
+Invest S.A. in 2016.
+
+Business Risk: Fair
+Armacell's business risk reflects its leading position in the niche market of flexible foams, with strong market shares of
+about 30% in Americas, 25% in EMEA and 15% in APAC.
+In addition, Armacell has good growth potential driven by strong market demand for innovative products like PET
+foams and aerogel blankets, supplemented by bolt-on acquisitions. PET is expected to exhibit double-digit growth
+rates with penetration opportunities in sectors like transportation, construction, and industrial, as well as a strong
+uptake in the global wind market. Following the acquisition of three companies in 2018--TB Concept Inc., Guangdong
+De Xu Insulation Materials Co Ltd., and Guarto Guarnizioni Torino S.r.l--along with the launch of aerogel blanket
+technology and additional PET facilities in Canada and China, we forecast the group's revenues will grow by 5%-6%
+annually and approach about €700 million in 2020. We expect the group to benefit from global megatrends and
+continue to maintain above market-average growth, due to increasingly stringent requirements and regulation for
+energy efficiency and continuous substitution of traditional insulation materials.
+Armacell also benefits from geographic diversity of its business, with a balanced presence in Europe, the Middle East,
+and Africa (35% of group sales in 2018), the Americas (above 25%), and Asia-Pacific (nearly 20%) along with a broad
+range of end-markets.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 6
+
+Armacell Holdco Luxembourg Sarl
+
+Chart 2
+
+Armacell's business risk profile will remain supported by healthy and resilient profitability, reflected in adjusted
+EBITDA margin of 18.5%-19.0% in 2019-2020, resulting from a relatively asset-light business model, flexible cost base,
+and the ability to pass on the majority of raw material price fluctuations to customers, although with a time lag.
+However, constraints on business risk include Armacell's relatively limited scale and scope of operations compared
+with global building materials-producing peers. We forecast the group's revenues will reach about €640 million-€650
+million in 2019 and its adjusted EBITDA will be above €120 million. Our assessment also reflects the group's narrow
+focus in the highly fragmented equipment insulation market with limited product diversity. The business risk profile is
+also constrained by the group's material exposure to the cyclical and volatile construction and oil and gas industries,
+which together account for more than 50% of total revenues and resulted in underperformance in the past.
+
+Financial Risk: Highly leveraged
+Our assessment of financial risk reflects exceptionally high leverage in 2018 with adjusted debt to EBITDA at about
+8.2x, to be followed by a swift deleveraging to below 6.5x in 2019 and below 6.0x by 2020.
+The solid performance in the first half of 2019 supports our forecast of a swift deleveraging. In the first six months of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 7
+
+Armacell Holdco Luxembourg Sarl
+
+2019, Armacell's revenue was 6.3% higher than last year due to implemented price increases across different
+segments, sustained double-digit growth in the PET business, as well as favorable foreign exchange effects. EBITDA
+was about €7 million higher than in the same period in 2018 (excluding the IFRS 16 effect), driven by higher sales,
+lower freight costs, and cost savings from footprint optimization. Amid solid market fundamentals, we expect adjusted
+EBITDA will increase to above €120 million-€130 million in 2019-2020, from €97 million in 2018, and adjusted
+EBITDA margins will increase to 18.5%-19.0%, from 16% in 2018.
+Armacell has invested about €440 million in acquisitions during the past three years, reflecting its growth model of
+relying equally on organic and external expansion. We expect Armacell will continue to do bolt-on acquisitions, which
+will be primarily funded through internal cash generation.
+We expect the implementation of IFRS 16 will have a very limited impact on Armacell's adjusted figures, given our
+estimate of only a small gap between our operating lease adjustments (€42 million to debt and €11 million to EBITDA
+in 2018) and the impact of IFRS 16 as reported by the group (€41 million to debt and €6 million to EBITDA in the first
+half of 2019).
+
+Liquidity: Adequate
+We view Armacell's liquidity as adequate, because we forecast that liquidity sources will comfortably exceed uses by
+more than 2.5x over the next 12 months beginning July 1, 2019. The group also benefits from a long-term debt
+maturity profile and will not face any substantial debt maturities until 2022 when the €100 million revolving credit
+facility (RCF) becomes due. In addition, we note that the implementation of a non-recourse factoring program has
+reduced net working capital and interest costs with a cash effect of about €26 million as of June 2019. However, we
+cap the liquidity assessment at adequate because Armacell does not meet enough qualitative conditions for a strong
+assessment.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of €56 million as of June
+30, 2019;
+
+• Debt maturities of about €10 million;
+
+• About €86 million available under the €100 million
+committed RCF due 2022; and
+• Cash funds from operations of €75 million-€85
+million.
+
+• Annual working capital outflow of about €5
+million-€10 million;
+• Seasonal working capital peak of about €25 million,
+which can be partly financed by the new factoring
+program; and
+• Capex of about €35 million-€40 million, of which
+standard capex would be about 2%-2.5% of net sales
+(€17 million-€19 million).
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 8
+
+Armacell Holdco Luxembourg Sarl
+
+Debt maturities
+As of June 2019:
+• 2019-2021: €19 million
+• 2022: €100 million
+• 2023: €622 million
+
+Covenant Analysis
+Armacell's RCF is subject to a springing total senior secured leverage covenant of 7.5x, which will be tested quarterly
+when the RCF is at least 35% drawn. We anticipate that the group should be able to maintain more than 15%
+headroom in the next two years.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The issue rating on the first-lien facilities, including a €100 million RCF due 2022 and €622 million first-lien term
+loan (TL) due 2023, is 'B' and the recovery rating is '3', reflecting our expectation of average recovery (30%-50%;
+rounded estimate: 50%).
+• We consider the first-lien RCF and TL rank pari passu. The recovery rating on the first-lien claims is supported by
+the senior secured nature of the debt and a small amount of prior-ranking debt (including local debt and real estate
+financing). Pension liability amounts to about 10% of total debt claims and is excluded from the waterfall. In
+addition, the recovery rating is supported by a minimum guarantor coverage test (80% for group EBITDA)
+according to documentation.
+• However, the recovery rating is constrained by the high level of senior debt, the asset-light nature of the business,
+and the group's ability to raise additional debt through various debt baskets as permitted by the documentation.
+• We understand from the documentation that there is only one springing first-lien net leverage covenant, which will
+be tested quarterly when the RCF is at least 35% drawn and is set at 7.5x with no step-downs. In addition, there are
+restrictions on further first-lien debt when senior secured leverage on a pro forma basis is greater than 5x.
+• Our hypothetical default scenario assumes a combination of declining revenues in Europe, subdued growth in the
+U.S. and emerging markets, and pricing constraints resulting from increased competition. We believe that this,
+combined with unforeseen operational issues weighing on production volumes and operating margins, would result
+in substantially weaker performance.
+• We value Armacell as a going concern supported by its leading position in the insulation materials market, its
+long-standing customer relationships, and exposure to a diverse set of end-markets.
+
+Simulated default assumptions
+• Simulated year of default: 2022
+• Jurisdiction: Germany
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 9
+
+Armacell Holdco Luxembourg Sarl
+
+Simplified waterfall
+• Emergence EBITDA: about €83 million
+• Minimum capex is assumed to be 3% of revenue (or about €19 million, including capex for maintenance, safety, and
+standards improvement)
+• Cyclical adjustment of 10% (standard for the sector)
+• Operational adjustment of 5%
+• EBITDA Multiple: 5.0x (reference for the building materials sector)
+• Gross enterprise value (EV) at default: about €415 million
+• Net recovery value after administrative expenses (5%): €394 million
+• Priority claims: about €30 million*
+• First-lien senior secured claims: about €703 million*
+• Recovery expectation: 30%-50% (rounded estimate: 50%)
+* All debt amounts include six months of prepetition interest. RCF assumed 85% drawn at default.
+
+Reconciliation
+Table 1
+
+Reconciliation Of Armacell Holdco Luxembourg Sarl Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. €)
+--Fiscal year ended Dec. 31, 2018-Armacell Holdco Luxembourg Sarl reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+(174.7)
+
+86.4
+
+28.6
+
+67.2
+
+96.9
+
+76.1
+
+50.9
+
+Debt
+
+Shareholders'
+equity
+
+1,102.3
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(8.0)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(25.1)
+
+--
+
+--
+
+0.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Operating leases
+
+41.7
+
+--
+
+10.9
+
+2.7
+
+2.7
+
+(2.7)
+
+8.3
+
+--
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+73.7
+
+--
+
+0.0
+
+0.0
+
+1.9
+
+--
+
+--
+
+--
+
+Capitalized development
+costs
+
+--
+
+--
+
+(1.3)
+
+(0.6)
+
+--
+
+--
+
+(1.3)
+
+(1.3)
+
+Share-based
+compensation expense
+
+--
+
+--
+
+0.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+0.4
+
+--
+
+--
+
+--
+
+--
+
+Reported lease liabilities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 10
+
+Armacell Holdco Luxembourg Sarl
+
+Table 1
+
+Reconciliation Of Armacell Holdco Luxembourg Sarl Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. €) (cont.)
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(24.7)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+0.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(427.8)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+0.7
+
+--
+
+--
+
+--
+
+--
+
+Interest expense:
+Shareholder loan
+
+--
+
+--
+
+--
+
+--
+
+(40.6)
+
+--
+
+--
+
+--
+
+(312.2)
+
+0.3
+
+10.5
+
+3.3
+
+(36.1)
+
+(35.8)
+
+(17.8)
+
+(1.3)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+61.1
+
+58.3
+
+49.5
+
+Debt: Shareholder loans
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+790.1
+
+(174.3)
+
+96.9
+
+31.9
+
+31.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Fair
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 11
+
+Armacell Holdco Luxembourg Sarl
+
+Related Criteria
+• Criteria – Corporates – General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - Recovery: Methodology: Jurisdiction Ranking Assessments, Jan. 20, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: The Treatment Of Non-Common Equity Financing In Nonfinancial Corporate
+Entities, April 29, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Building Materials Industry, Dec. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+Ratings Detail (As Of September 27, 2019)*
+Armacell Holdco Luxembourg Sarl
+Issuer Credit Rating
+
+B/Stable/--
+
+Issuer Credit Ratings History
+11-Aug-2017
+
+B/Stable/--
+
+Related Entities
+Armacell Bidco Luxembourg S.a r.l.
+Issuer Credit Rating
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 12
+
+Armacell Holdco Luxembourg Sarl
+
+Ratings Detail (As Of September 27, 2019)*(cont.)
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 27, 2019 14
+
+

@@ -1,0 +1,1593 @@
+Alfa S.A.B. de C.V.
+Primary Credit Analyst:
+Luis Manuel Martinez, Mexico City (52) 55-5081-4462; luis.martinez@spglobal.com
+Secondary Contact:
+Fabiola Ortiz, Mexico City (52) 55-5081-4449; fabiola.ortiz@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Environmental, Social, And Governance
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 1
+
+Table Of Contents (cont.)
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 2
+
+Alfa S.A.B. de C.V.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb
+
+bbb
+
+BBB/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Alfa’s diversification in product and services industries with
+relatively low correlation.
+
+Exposure to fluctuations in the cost of raw materials that pressures margins.
+
+Widespread geographic footprint, with presence in developed and
+emerging markets.
+
+Alfa’s track-record of acquisitions has put intermittent pressure on its
+financial position.
+
+Management maintains prudent risk policies, and fosters
+innovation and product development.
+
+Macro-related factors linked to the global business cycles, political instability,
+or international trade constraints.
+
+Strong liquidity and comfortable debt maturity profile.
+
+A leading business group with a diversified portfolio and broad geographic footprint.With revenues of $19.1 billion in
+2018, Alfa is a leading conglomerate with operations across five industries and a global presence in 28 countries. Alfa
+has expanded its geographic footprint in order to benefit from high-growth emerging markets and a more stable
+environment in Europe and the U.S. In 2018, 70% of the group's total sales were outside of Mexico, compared with
+61.5% in 2013. In addition, none of its business units accounts for more than 40% of its revenue or adjusted EBITDA.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 3
+
+Alfa S.A.B. de C.V.
+
+Chart 1
+
+Portfolio with mostly uncorrelated end-market cyclicality patterns, although exposed to the petrochemical, automotive,
+and oil and gas industries. We believe Alfa's portfolio brings together companies with various end-market cyclicality
+patterns that have a relatively low correlation, which we believe helps diminish the volatility of earnings. Still, in our
+view, Alfa's credit profile is constrained by the cyclicality of its operations in the petrochemical, automotive, and the oil
+and gas industries, which together represent 63% of the group's revenues. Accordingly, Alfa's most recent results
+suffered the impact of less favorable oil and feedstock prices and the subdued demand for consumer durables (cars)
+across advanced and emerging market economies.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 4
+
+Alfa S.A.B. de C.V.
+
+Chart 2
+
+Alfa's track-record of important acquisitions has put intermittent pressure on its financial position.Alfa has expanded
+its footprint through a combination of steady internal expansion growth and strategic acquisitions. We believe the
+group would continue actively seeking growth opportunities to strengthen its business portfolio, while committing to
+its financial policy of maintaining net debt to EBITDA below 2.5x on a consolidated basis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 5
+
+Alfa S.A.B. de C.V.
+
+Chart 3
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that Alfa will remain committed to its leverage policy and keep its debt
+to EBITDA below 3.0x. We also expect the group to protect its cash flow generation and liquidity amid emerging
+risks on prices of certain commodities and increasing headwinds to the Mexican economy.
+
+Downside scenario
+A negative rating action could occur in the next 12-24 months if Alfa's operating and financial performance
+deviates from our current expectations, resulting in adjusted debt to EBITDA consistently above 3.0x. This could
+arise from weaker economic activity in Mexico and the U.S., two of Alfa's core markets, a sharp decline in
+petrochemical prices, or adverse conditions in the North American auto industry.
+
+Upside scenario
+An upgrade is less likely in the near term and is constrained by the group's business risk profile and the inherent
+volatility of the industries in which Alpek and Nemak operate, given that both companies account for more than
+60% of Alfa's consolidated revenue. However, we could raise the ratings on Alfa in the next two years if it
+consistently posts debt to EBITDA below 2.0x and funds from operations (FFO) to debt above 45%.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 6
+
+Alfa S.A.B. de C.V.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 7
+
+Alfa S.A.B. de C.V.
+
+Assumptions
+
+Key Metrics
+
+Our base-case scenario assumptions for Alfa include:
+
+2019
+EBITDA margin
+
+Sigma Alimentos S.A. de C.V.
+
+2020
+
+2021
+
+14.20% 14.40% 14.50%
+
+Debt to EBITDA
+
+2.4x
+
+2.2x
+
+1.9x
+
+FOCF to debt
+
+10%
+
+15%
+
+20%
+
+• We expect Sigma to post low volume growth in
+most of the locations where it operates, while it
+maintains its effective pricing strategy to cope with
+raw material price volatility. This should drive
+mid-single digit revenue growth in the next two
+years.
+Alpek S.A.B. de C.V.
+• We expect consolidated revenues to decrease by
+approximately 2.5% in Mexican peso terms this year
+because we expect moderate growth, especially in
+the polyester segment. The benefit from a full year's
+operation at PQS will most likely not be enough to
+offset the expected contraction in crude oil prices,
+and the more stable petrochemical margins won't
+benefit from the mid-year spike last year. In 2020,
+we expect revenue growth of about 8%, as
+additional PET capacity coming from the Corpus
+Christi facility comes online towards the end of the
+year, and a stronger dollar bolsters the company's
+dollar-based revenues.
+Nemak S.A.B. de C.V.
+• Nemak's revenue to decline 4.1% for 2019 mainly
+due to an 8% drop in volumes, stemming from a
+volatile trend in the demand for auto parts in the
+company's main markets. In addition, the lower
+revenue will result from global economic uncertainty
+owing to trade tensions. Revenue to grow 5.7% in
+2020, given our belief that Nemak's volumes will
+recover amid greater clarity for the industry's
+outlook.
+Axtel S.A.B. de C.V.
+• Revenue drop of 15% for 2019 given the elimination
+of the massive business operations, mitigated by the
+increase in services to the enterprise and
+government sectors. For 2020 and afterwards, we
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 8
+
+Alfa S.A.B. de C.V.
+
+expect revenue growth to average 4.7%, in line with
+the corporate and government sectors' sales cycle.
+For 2019, we expect EBITDA margins at about 14.2%,
+slightly lower than in 2018, as a result of:
+Sigma
+• We expect Sigma to post an adjusted EBITDA
+margin of about 11.5% in 2019 and 2020. In our
+view, elevated costs and volatile raw material prices
+will continue pressuring the company's profitability.
+Sigma is implementing various strategies to maintain
+its EBITDA margin at the current level, including
+price adjustments, inventory building, and hedging
+strategies, such as its $550 million forward to hedge
+up to six months of its raw material needs in
+Mexico.
+Alpek
+• EBITDA to decrease by about 10% in 2019 due to
+lower crude oil and feedstock prices and less
+favorable petrochemical margins that offset PQS's
+higher volumes. In 2020, we expect EBITDA to
+recover amid additional capacity at the Corpus
+Christi facility. Alpek will receive one-third of this
+capacity, coupled with strong results from its
+Brazilian assets.
+Nemak
+• EBITDA to drop in 2019 because of industry
+uncertainty and downside risks for demand growth
+that could pressure volumes. However, we assume
+that the company would align its operating strategy
+with the industry's growth trends in 2020, to support
+its EBITDA.
+Axtel
+• EBITDA margins to remain at about 40%,
+incorporating the divestment of towers that would
+result in lower maintenance costs on a higher scale
+that more than offset the increase in leasing
+expenses, going forward. Also, we expect higher
+margins stemming from the divestment of the less
+profitable massive business segment.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 9
+
+Alfa S.A.B. de C.V.
+
+Capital expenditures (capex) of about MXN20.5 billion
+for 2019 and 2020.
+• Sigma's annual capex of about 3% of total sales per
+year, which mainly includes maintenance, and
+strategic and innovation projects.
+• Alpek's capex of about $310 million (MXN6.1 billion)
+in 2019, including about $50 million for the Altamira
+cogeneration power plant and the acquisition of
+Perpetual Recycling Solutions, LLC. $240 million
+(MXN4.4 billion) in capex for 2020, mainly for
+constructing the Corpus Christi plant, smaller
+bolt-on expansions, and maintenance purposes.
+• Nemak's capex of about $320 million and $355
+million for 2019 and 2020, respectively. The
+replacement of existing platforms, together with
+incremental business in engines blocks, structural
+and EV components, will account for 80% of capex,
+with the maintenance capex representing the
+remainder.
+• Axtel's capex of about MXN2.5 billion for the
+following two years, or approximately 20% of
+revenues.
+Based on these assumptions, we arrive at the following
+adjusted credit measures:
+• EBITDA margins between 14.2% and 14.4% for the
+next two years;
+• Debt to EBITDA of 2.4x at the end of fiscal 2019,
+dropping to 2.2x in 2020 due to EBITDA growth and
+debt reduction;
+• FFO to debt of about 30% for the next two years;
+and
+• Average free operating cash flow (FOCF) to debt in
+the 10%-15% range in the next two years.
+
+Base-case projections
+Low single-digit revenue growth in 2019, compared with high growth rates in previous years, because of lower crude
+oil and feedstock prices and slower dynamics in the auto industry.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 10
+
+Alfa S.A.B. de C.V.
+
+Net leverage to remain below 3.0x in the next two years thanks to prudent financial policy. We don't foresee any
+significant increase in debt because we expect the group to generate sufficient cash flows to fund its working capital
+and most of its capex requirements its subsidiaries.
+
+Company Description
+Alfa is a holding company that manages a portfolio of diversified subsidiaries: Sigma, Alpek, Nemak, Axtel, and
+Newpek. Alfa was founded in 1974, is based in Mexico, and its shares are quoted on the Mexican Stock Exchange, and
+on Latibex, the market for Latin American shares on the Madrid Stock Exchange.
+
+Business Risk: Satisfactory
+Alfa's business risk profile reflects its leading position in the main markets where it participates through its subsidiaries.
+The group operates in the petrochemical, telecommunications, high-tech aluminum automotive components, branded
+refrigerated foods, and oil and gas industries. We believe Alfa's portfolio comprises companies that operate in
+industries with low correlation, providing cushion against macroeconomic downturns.
+Chart 4
+
+Refrigerated foods
+In our view, Sigma's broad geographic and product diversification, extensive supply chain and distribution network,
+and efficient global sourcing provide a significant competitive advantage. These allow the company to handle the
+intense competition inherent to the industry, maintain top-line growth across economic cycles, and mitigate its
+exposure to volatile foreign exchange rates and raw material prices. We expect Sigma to continue focusing on its
+pricing strategy and value-added product mix to achieve further operating efficiencies, while it maintains its EBITDA
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 11
+
+Alfa S.A.B. de C.V.
+
+margins in the 11.5%-12.0% range.
+
+Aluminum automotive parts
+By the end of 2018, Nemak generated $4.7 billion in revenue, consisting of sales of heads (49%), blocks (34%),
+transmissions and others (14%), and structural and EV components (3%). The company operates 38 manufacturing
+plants and 12 technology centers across 16 countries. We believe Nemak maintains a strong position across its
+markets and segments, because it's at least twice the size of its next competitor in terms of volumes, while benefiting
+from its technological capacity and client/geography diversification.
+Nemak is continuing to broaden its strategy to tap into the structural and EV components market. However, the
+industry's lower demand due to economic uncertainty pressured Nemak's profitability in 2018. At the same time, the
+company's other business units posted strong performance through its mechanism for passing through aluminum-price
+fluctuations to the end customers. As a result, Nemak maintained EBITDA margins at about 16% last year, in line with
+our estimates for the industry average. We believe the company will continue evaluating market performance in order
+to adjust its strategy without risking its profitability in the next few years.
+
+Petrochemicals and synthetic fibers
+Through a combination of internal growth, acquisitions, and strategic joint ventures (JVs), Alpek has established a solid
+position in the markets in which it operates. It's a leading integrated polyester producer in the Americas, the only
+manufacturer of polypropylene and caprolactam in Mexico, and the largest expandable polystyrene producer in the
+Americas.
+We view the acquisition of Petrobras' polyester assets in Brazil (PQS) in 2018 and the JV to acquire the Corpus Christi
+plant as credit positives, strengthening Alpek's market share. However, these new projects also increase the company's
+concentration in the polyester segment, which currently accounts for 75% of total revenue. As a result, we still assess
+Alpek's revenue stream as somewhat concentrated by product and geography. Moreover, our ratings continue to
+reflect its exposure to commodity price volatility and industry cycles.
+On the other hand, Alpek's importance as a key player in the polyester industry, with a leading share in North America
+and its end-markets' resilience to economic downturns; its satisfactory corporate management and governance; and its
+long-term relationships with customers and suppliers offset its weaknesses.
+
+Telecommunications
+Axtel provides TIC services in Mexico, mainly to the corporate, financial, and government entities. At the end of 2018,
+it divested 82% of its mass-market business segment to Grupo Televisa S.A.B. (BBB+/Stable/--), and sold the
+remaining 18% to Megacable during the second quarter of 2019. This divestment represented Axtel's strategy to focus
+on its most profitable business lines in order to continue deleveraging its capital structure. We believe its partnership
+with Microsoft, coupled with its operating synergies with Alestra, will reduce its geographic concentration by
+increasing its presence in the U.S.
+
+Hydrocarbons, and oil and gas services
+Newpek is Alfa's oil & gas exploration and production company with operations in the U.S. and Mexico; it represents
+about 1% of the group's total revenues. During 2018, Newpek partially divested its assets in the Eagle Ford Shale. In
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 12
+
+Alfa S.A.B. de C.V.
+
+addition, it sold its participation in the Wilcox formation, also in Texas. The process of selling approximately 11,000
+remaining acres in the U.S. continues, in line with its strategy to focus on its local operations. In Mexico, the company
+continued operating mature oil fields at San Andrés and Tierra Blanca in the state of Veracruz, both under the 2013
+service contracts with Pemex.
+
+Peer comparison
+Table 1
+
+Alfa S.A.B. de C.V. -- Peer Comparison
+Industry Sector: Diversified
+
+Ratings as of July 29, 2019
+
+Alfa S.A.B. de
+C.V.
+
+Carlisle Cos.
+Inc.
+
+Grupo KUO S.A.B.
+de C.V.
+
+Xignux S.A. de
+C.V.
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+BB/Stable/--
+
+BB+/Stable/--
+
+Smiths Group PLC
+BBB+/Stable/A-2
+--Fiscal year ended July
+31, 2018--
+
+--Fiscal year ended Dec. 31, 2018-(Mil. $)
+Revenue
+
+18,647.4
+
+4,479.5
+
+1,388.4
+
+2,648.3
+
+4,212.9
+
+EBITDA
+
+2,823.6
+
+740.2
+
+173.3
+
+200.0
+
+841.8
+
+Funds from operations
+(FFO)
+
+1,944.9
+
+465.8
+
+103.7
+
+108.4
+
+647.7
+
+Interest expense
+
+519.6
+
+70.7
+
+26.1
+
+54.3
+
+98.4
+
+Cash interest paid
+
+517.2
+
+71.4
+
+40.2
+
+50.9
+
+108.9
+
+1,474.8
+
+352.9
+
+46.9
+
+35.9
+
+532.3
+
+Capital expenditure
+
+896.4
+
+118.5
+
+280.1
+
+47.7
+
+97.3
+
+Free operating cash flow
+(FOCF)
+
+578.5
+
+234.4
+
+(233.2)
+
+(11.8)
+
+435.0
+
+Discretionary cash flow
+(DCF)
+
+327.9
+
+(318.9)
+
+(250.6)
+
+(40.4)
+
+189.8
+
+Cash and short-term
+investments
+
+1,344.0
+
+803.6
+
+56.1
+
+190.0
+
+940.1
+
+Debt
+
+7,136.4
+
+907.6
+
+709.2
+
+518.9
+
+1,335.5
+
+Equity
+
+4,998.5
+
+2,597.4
+
+652.7
+
+325.1
+
+3,000.0
+
+EBITDA margin (%)
+
+15.1
+
+16.5
+
+12.5
+
+7.6
+
+20.0
+
+Return on capital (%)
+
+Cash flow from operations
+
+Adjusted ratios
+
+14.8
+
+13.9
+
+15.7
+
+18.9
+
+15.4
+
+EBITDA interest coverage
+(x)
+
+5.4
+
+10.5
+
+6.6
+
+3.7
+
+8.6
+
+FFO cash interest
+coverage (x)
+
+4.8
+
+7.5
+
+3.6
+
+3.1
+
+6.9
+
+Debt/EBITDA (x)
+
+2.5
+
+1.2
+
+4.1
+
+2.6
+
+1.6
+
+FFO/debt (%)
+
+27.3
+
+51.3
+
+14.6
+
+20.9
+
+48.5
+
+Cash flow from
+operations/debt (%)
+
+20.7
+
+38.9
+
+6.6
+
+6.9
+
+39.9
+
+FOCF/debt (%)
+
+8.1
+
+25.8
+
+(32.9)
+
+(2.3)
+
+32.6
+
+DCF/debt (%)
+
+4.6
+
+(35.1)
+
+(35.3)
+
+(7.8)
+
+14.2
+
+Alfa is the largest conglomerate among selected peers in terms of revenues, and is the only one with a positive
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 13
+
+Alfa S.A.B. de C.V.
+
+diversification modifier. Most of its businesses are uncorrelated, which mitigate impacts from potential economic
+downturns. Alfa and its conglomerate peers have very different portfolio mixes, which make their operating and
+financial metrics not entirely comparable.
+
+Financial Risk: Intermediate
+Alfa's 2018 consolidated operating and financial results were in line with our expectations. The group's debt to
+EBITDA of 2.5x reflect a prudent financial policy towards debt, complemented by robust performance in the
+petrochemical, auto components and food segments. Our base-case scenario for 2019 assumes that Alfa's operating
+performance will suffer the impact of subdued economic conditions in key markets, uncertain geopolitical
+environment, and volatility in commodity prices. These factors may somewhat temper earnings growth but they're
+unlikely to derail the improvement in the group's financial position.
+Yet, we expect Alfa to protect its consolidated cash flow generation and maintain adjusted debt to EBITDA below 3.0x
+on a consistent basis. Although our base-case scenario doesn't contemplate M&A activity in the next 12 months, we
+will continue to monitor the group's acquisitive growth strategy.
+
+Financial summary
+Table 2
+
+Alfa S.A.B. de C.V. -- Financial Summary
+Industry Sector: Diversified
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+(Mil. MXN)
+Revenue
+
+366,432.0 317,627.0 293,782.0 258,300.0 229,226.0
+
+EBITDA
+
+55,486.0
+
+42,633.5
+
+47,064.7
+
+36,098.0
+
+26,945.0
+
+Funds from operations (FFO)
+
+38,219.5
+
+28,677.3
+
+33,301.3
+
+27,213.0
+
+22,455.0
+
+Interest expense
+
+10,210.5
+
+9,248.2
+
+6,968.4
+
+5,134.0
+
+4,154.0
+
+Cash interest paid
+
+10,163.5
+
+9,148.2
+
+8,450.4
+
+5,127.0
+
+4,490.0
+
+Cash flow from operations
+
+28,981.5
+
+28,983.3
+
+32,541.6
+
+25,876.0
+
+19,678.0
+
+Capital expenditure
+
+17,614.0
+
+21,174.0
+
+26,070.0
+
+13,004.0
+
+8,824.0
+
+Free operating cash flow (FOCF)
+
+11,367.5
+
+7,809.3
+
+6,471.6
+
+12,872.0
+
+10,854.0
+
+6,443.5
+
+1,116.3
+
+594.6
+
+8,656.0
+
+10,413.0
+
+Cash and short-term investments
+
+26,411.0
+
+32,813.0
+
+24,633.0
+
+24,852.0
+
+16,669.0
+
+Gross available cash
+
+26,411.0
+
+32,813.0
+
+24,633.0
+
+24,852.0
+
+16,669.0
+
+140,234.1 140,142.5 132,943.1
+
+84,301.2
+
+77,487.3
+
+79,815.0
+
+69,159.0
+
+Discretionary cash flow (DCF)
+
+Debt
+Equity
+
+98,224.0
+
+92,426.0 100,613.0
+
+Adjusted ratios
+EBITDA margin (%)
+
+15.1
+
+13.4
+
+16.0
+
+14.0
+
+11.8
+
+Return on capital (%)
+
+14.8
+
+6.2
+
+13.0
+
+15.8
+
+13.2
+
+EBITDA interest coverage (x)
+
+5.4
+
+4.6
+
+6.8
+
+7.0
+
+6.5
+
+FFO cash interest coverage (x)
+
+4.8
+
+4.1
+
+4.9
+
+6.3
+
+6.0
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 14
+
+Alfa S.A.B. de C.V.
+
+Table 2
+
+Alfa S.A.B. de C.V. -- Financial Summary (cont.)
+Debt/EBITDA (x)
+
+2.5
+
+3.3
+
+2.8
+
+2.3
+
+2.9
+
+FFO/debt (%)
+
+27.3
+
+20.5
+
+25.0
+
+32.3
+
+29.0
+
+Cash flow from operations/debt (%)
+
+20.7
+
+20.7
+
+24.5
+
+30.7
+
+25.4
+
+FOCF/debt (%)
+
+8.1
+
+5.6
+
+4.9
+
+15.3
+
+14.0
+
+DCF/debt (%)
+
+4.6
+
+0.8
+
+0.4
+
+10.3
+
+13.4
+
+Liquidity: Strong
+We assess Alfa's liquidity on a consolidated basis as strong. In our view, the group's sources of liquidity will exceed
+uses by at least 1.5x in 2018 and at least 1.0x for the subsequent 12 months. We also forecast that liquidity sources will
+exceed uses even if EBITDA declines by more than 30% in the next 12 months.
+Our liquidity analysis also incorporates qualitative factors, including our view that Alfa has the capacity to withstand
+high-impact, low-probability events without refinancing, that it has sound banking relationships, and has proven access
+to international capital markets.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of approximately $1.2 billion as of
+June 30, 2019;
+
+• Debt maturities of about $1.0 billion for the next 12
+months;
+
+• Available committed credit lines of about $1.6 billion
+in 2019; and
+
+• Working capital outflows of about $182 million in
+the next 12 months;
+
+• Projected FFO of about $1.9 billion for the next 12
+months.
+
+• Capex of about $1.1 billion for the next 12 months;
+• Dividend payments of about $252 million for the
+next 12 months; and
+• Share repurchases of about $293 million for the next
+12 months.
+
+Debt maturities
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 15
+
+Alfa S.A.B. de C.V.
+
+Chart 5
+
+Covenant Analysis
+Alfa's bonds and loans do not have any financial covenants.
+
+Other Credit Considerations
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 16
+
+Alfa S.A.B. de C.V.
+
+Environmental, Social, And Governance
+
+We believe environmental and social risks have taken a central role in Alfa's credit profile. The petrochemical
+industry is subject to increasing regulation because most of the feedstock used in its processes comes from
+petroleum, a nonrenewable resource. Accordingly, the auto-part faces increasingly stringent regulations for
+emissions control, as well as for energy and water consumption. Social factors, such as food processing safety
+methods and a strategic shift toward a value-added nutritional portfolio, are also key in our rating analysis of Alfa.
+However, we believe the group is taking initiatives to address its ESG exposures and has set ambitious targets.
+With its recent acquisition of Perpetual Recycling Solutions, Alpek has become the largest PET recycler in the U.S.
+Additionally, in 2018, through Nemak, the group invested more than $10.5 million in emissions reduction, waste
+disposal, and remediation, along with other efforts. This has led to a total reduction of 72,225 tons of CO2
+equivalent, or the avoidance of emissions equivalent to approximately 15,000 cars in a year. Moreover, the group
+continues to invest heavily in research and development (R&D) to anticipate long-term market trends. Since 2010,
+it has improved over 410 products' nutritional profiles (reducing sodium, sugar, and fat content), adapting to new
+consumer trends. In 2017, Sigma invested more than $20.2 million in R&D, including health and nutritional
+initiatives (about 10% of total capex).
+We view Alfa's management and governance as satisfactory, reflecting its proven track record in strategic planning
+and execution processes as well as management's expertise and experience.
+
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+Alfa's capital structure consists of $500 million senior unsecured notes due 2024 and $500 million senior unsecured
+notes due 2044. It also includes bank loans issued at the holding company level.
+
+Analytical conclusions
+We rate Alfa's senior unsecured notes 'BBB-', one notch below the issuer credit rating, reflecting the structural
+subordination of the notes compared with Alfa subsidiaries' debt.
+
+Reconciliation
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 17
+
+Alfa S.A.B. de C.V.
+
+Table 3
+
+Reconciliation Of Alfa S.A.B. de C.V. Reported Amounts With S&P Global Ratings' Adjusted Amounts (Mil.
+MXN)
+--Fiscal year ended Dec. 31, 2018-Alfa S.A.B. de C.V. reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+155,549.0
+
+73,391.0
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+55,179.0
+
+35,705.0
+
+9,280.0
+
+55,486.0
+
+35,050.0
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(7,103.0)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(9,485.0)
+
+--
+
+Operating leases
+
+7,615.0
+
+--
+
+3,327.0
+
+678.5
+
+678.5
+
+(678.5)
+
+2,648.5
+
+Postretirement benefit
+obligations/deferred
+compensation
+
+3,481.1
+
+--
+
+--
+
+--
+
+252.0
+
+--
+
+--
+
+(26,411.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+1,537.0
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(8,717.0)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+24,833.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Gain/(loss) on
+disposals of PP&E
+
+--
+
+--
+
+(3,020.0)
+
+(3,020.0)
+
+--
+
+--
+
+--
+
+(15,314.9)
+
+24,833.0
+
+307.0
+
+(804.5)
+
+930.5
+
+(17,266.5)
+
+(6,068.5)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+38,219.5
+
+28,981.5
+
+Accessible cash and liquid
+investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+140,234.1
+
+98,224.0
+
+55,486.0
+
+34,900.5
+
+10,210.5
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Intermediate
+• Industry risk: Intermediate
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 18
+
+Alfa S.A.B. de C.V.
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Moderate (+1 notch)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb
+
+• Group credit profile: bbb
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria - Corporates - Industrials: Key Credit Factors For The Branded Nondurables Industry, May 7, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Telecommunications And Cable Industry, June 22,
+2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Commodity Chemicals Industry, Dec. 31, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Auto Suppliers Industry, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 19
+
+Alfa S.A.B. de C.V.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 4, 2019)*
+Alfa S.A.B. de C.V.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB-
+
+Issuer Credit Ratings History
+11-Mar-2014
+
+BBB/Stable/--
+
+Related Entities
+Alpek S.A.B. de C.V.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Senior Unsecured
+
+BBB-
+
+Axtel S.A.B. de C.V.
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Unsecured
+
+BB
+
+Nemak S.A.B. de C.V.
+Issuer Credit Rating
+CaVal (Mexico) National Scale
+Senior Unsecured
+
+BB+/Stable/-mxAA-/Stable/-BB+
+
+Sigma Alimentos S.A. de C.V.
+Issuer Credit Rating
+CaVal (Mexico) National Scale
+Senior Unsecured
+
+BBB/Stable/-mxAA+/Stable/-BBB
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 20
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 4, 2019 21
+
+

@@ -1,0 +1,1601 @@
+China National Gold Group Co. Ltd.
+Primary Credit Analyst:
+Betty Huang, Hong Kong; betty.huang@spglobal.com
+Secondary Contact:
+Christine Li, Hong Kong (852) 2532-8005; Christine.Li@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Government Influence
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+China National Gold Group Co. Ltd.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+bb
+
+bb-
+
+BBB/Stable/--
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Mid-to-large-size gold miner with a portfolio of long-life mines concentrated
+in China.
+
+High production costs could continue to strain profitability despite
+cost-cutting measures.
+
+Integrated business model, with operations in mining, refining, commodity
+trading, and jewelry retail.
+
+Exposure to volatile gold and copper prices.
+
+Adequate liquidity, solid relationships with Chinese state-owned banks.
+
+Financial leverage will remain high owing to thin margins and
+heavy debt.
+
+High likelihood of support from the Chinese government if needed.
+
+Negative free operating cash flows over the next one to two years
+on high capital spending.
+
+China National Gold Group Co. Ltd. (CNG) will remain a mid-to-large-size miner globally, benefiting from its rich mine
+reserves, which provide long-run production visibility. CNG's mined gold production was 40 tons and mined copper
+production was 155 thousand tons (kt) in 2018. We expect its gold and copper volume to continue to grow over the
+next 12-24 months, given full commercial production at China Gold International's Jiama mine and CNG's two new
+mines (Kyrgyzkulu and Kyrgyz Buchuk projects). Furthermore, CNG's gold reserve life of over 40 years--under China's
+mineral-measurement standards--is higher than many of its domestic and international peers and provides production
+visibility.
+CNG's operations have limited geographical and product diversification. CNG operates over 20 mines which mitigates
+the risk of unexpected production disruptions at a specific mine. However, most of its mines are located in China
+though some are in Kyrgyzstan and the Republic of Congo. CNG has a relatively limited product mix. Gold and copper
+each contributed to about 60% and 40% of its mining revenue in the past few years and we expect this trend to
+continue. While it exposes CNG to volatility in gold and copper prices, as demonstrated in the past few years, CNG's
+integrated business model somewhat offsets its concentration risks. The company's businesses range from mining,
+smelting and refining, trading and jewelry retail, which have led to lower volatility in the company's overall profitability
+compared to its peers.
+We expect CNG to remain a relatively high-cost metal producer. CNG's cost position will remain in the third quartile of
+the global cost curve, primarily driven by its relatively low ore grade. Despite CNG's efforts to strengthen cost controls,
+we forecast the company's unit cost of gold and copper to rise by 1%-2% per annum in the next two years, given
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+China National Gold Group Co. Ltd.
+
+higher labor and raw material costs.
+CNG will continue with high capital spending plans. The company's budgeted capital expenditure (capex) of Chinese
+renminbi (RMB) 10 billion in 2019 is significantly higher than RMB3.7 billion in 2018, mainly due to potential
+acquisitions of mining assets to increase production capacity. Mine expansion and technological improvements at its
+existing mines will also drive capex higher over the next 12-24 months.
+Chart 1
+
+We expect CNG's leverage to remain high. We believe CNG's debt-to-EBITDA ratio will rise to 7.5x-7.7x in 2019, from
+6.8x in 2018. This is largely attributable to high capex and the decline in operating earnings due to higher production
+costs. However, we anticipate the ratio to decline to 7.2x-7.4x in 2020 owing to lower capex, copper production
+growth and strengthening copper prices.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+China National Gold Group Co. Ltd.
+
+Chart 2
+
+We believe reducing leverage will remain one of CNG's top priorities. CNG has been pushing ahead with debt-to-equity
+swaps and mixed ownership reform. Zhongjin Jewellery's IPO plan submitted to the China Securities Regulatory
+Commission in August 2019 will be credit positive, in our view. However, we have not factored these initiatives into
+our base case given the uncertainty in timing and amount.
+CNG continues to benefit from potential government support. CNG is one of the largest gold producers in China. As an
+important player in the gold industry, CNG participates in industry-related policymaking and consolidation. Hence, we
+do not think the company's role can be easily replaced by private-owned enterprises or other state-owned enterprises
+(SOEs). The company's credit standing is essential to the central government. The State-owned Assets Supervision and
+Administration Commission (SASAC) appoints the company's board members and senior management. Therefore we
+assess CNG as having a high likelihood of receiving extraordinary government support in case of financial distress.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+China National Gold Group Co. Ltd.
+
+Outlook: Stable
+
+The stable outlook reflects our view that CNG's financial leverage will remain high but moderately improve over
+the next one to two years due to strengthening copper prices and increasing gold and copper production. We
+expect CNG's EBITDA interest coverage to stay comfortably above 2.0x in the next 12-24 months.
+
+Downside scenario
+We would lower the rating on CNG if the company's financial performance deteriorates significantly due to weaker
+metal prices or higher production costs than we expect. An indication of such deterioration is that the company's
+EBITDA interest coverage falls below 2.0x for a sustained period. We may also downgrade CNG if we believe that
+the likelihood of extraordinary government support to the company has weakened, which we view as unlikely in
+the next 12-24 months.
+
+Upside scenario
+We would upgrade CNG if the company can significantly lower its financial leverage such that its debt-to-EBITDA
+ratio falls below 4.0x for a sustained period. This could happen if the company can improve its profitability through
+further cost reduction, or lower capital spending. We see limited upside in the next 12 months due to CNG's heavy
+debt burden.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+China National Gold Group Co. Ltd.
+
+Assumptions
+
+• Gold price to be US$1,300 per ounce for the rest of
+2019 and in 2020, versus US$1,269 per ounce in
+2018.
+• Copper price to be US$6,300/ton for the rest of
+2019 and US$6,500/ton in 2020, versus
+US$6,261/ton in 2018.
+• Gold production to increase to 41-43 tons over the
+next 12-24 months, from 40 tons in 2018.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+6.8 7.5-7.7 7.2-7.4
+
+FFO/Debt (%)
+
+9.1 7.5-8.0 8.0-8.5
+
+EBITDA interest coverage (x)
+
+3.0 2.6-2.8 2.6-2.8
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Copper production to increase to 170kt-180kt in
+2019 and 2020, from 155kt in 2018, owing to the
+commencement of the Kyrgyzkulu and Kyrgyz
+Buchuk projects and Jiama mine's ramp-up.
+• Unit cash cost for mined gold to increase to
+RMB196/gram (g) in 2019, from RMB194/g in 2018,
+in line with the company's guidance, and then
+increase by 2% in 2020 given higher labor and raw
+material costs.
+• Unit cash cost for mined copper to increase to
+RMB35,900/ton in 2019, from RMB35,300/ton in
+2018, in line with the company's guidance, and then
+remain stable. Our forecast factors in rising labor
+and raw material costs.
+• Revenue growth of 6%-8% in 2019 owing to the rise
+in gold and copper production and metal prices,
+versus 5.1% in 2018, and then remain stable.
+• EBITDA margin to decrease to 6.6%-6.8% in 2019
+due to the rise in production costs, from 7.2% in
+2018, and then increase to 6.8%-7.0% in 2020 owing
+to higher copper prices and volumes.
+• Operating cash flows to decline to RMB3.7
+billion-RMB3.8 billion in 2019, from RMB4.1 billion
+in 2018, owing to higher costs, and then increase to
+RMB3.9 billion-RMB4.0 billion in 2020 owing to
+growth in copper production and supportive prices.
+• Capex to increase to about RMB10 billion in 2019
+given potential mine acquisitions and about RMB4
+billion in 2020, excluding possible mergers and
+acquisitions spending, from RMB3.7 billion in 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+China National Gold Group Co. Ltd.
+
+Base-case projections
+Revenue to increase by mid-to-high single digit in 2019 while moderating thereafter. We estimate revenue of CNG's
+mining and refining segments to grow by 8%-11% in 2019 before moderating from 2020. This is driven by steady
+growth in gold and copper output backed by rising copper prices. We estimate revenue of the jewelry and trading
+segments will grow by high-single digit of 5%-7% in 2019 primarily due to supportive gold prices, and then remain
+stable.
+Profitability to remain under pressure. We anticipate CNG's EBITDA margin will slightly decline to 6.6%-6.8% in 2019,
+from 7.2% in 2018, owing to increased production costs. In 2020, EBITDA margin will remain at 6.8%-7.0% due to
+relatively low mine quality and increased labor and raw material costs.
+
+Company Description
+CNG is one of the largest gold miners in China. The company was founded in 2003 and is headquartered in Beijing. It
+is wholly owned by the Chinese central government. CNG mainly engages in the mining and refining of gold and
+copper. Its other business segments such as commodities trading and jewelry retail are much smaller than the mining
+segment in terms of profit contribution because of their thin margins.
+Chart 3
+
+Chart 4
+
+Business Risk: Fair
+CNG is one of the largest gold miners in China and we view it as a mid-to-large-size miner globally. The company
+benefits from its rich mine reserves, which provide visibility on its long-run production. We expect stable gold
+production volumes of about 40 tons annually. Copper production will continue to see higher growth of 8%-10% to
+about 170kt in 2019 as per the company's guidance. This is mainly owing to the full commercial production of its
+Jiama mine phase II expansion and the production commencement of the Kyrgyzkulu project.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+China National Gold Group Co. Ltd.
+
+We assess CNG to be in the third quartile of the global gold cost curve, due to its relatively low ore grade. In our view,
+the company's high production costs relative to its upstream peers offset the positive attributes we ascribe to its
+breadth and scale of operations.
+CNG's integrated business model mitigates its profitability volatility and enhances its competitive advantage. This has
+contributed to lower volatility in the company's overall profitability as compared to its upstream peers and we believe
+this will remain the case going forward. The company is one of the largest gold miners in China, and has large
+downstream smelting and refining operations, and the largest gold retail network in China. We have therefore assigned
+a positive comparable rating analysis.
+
+Peer comparison
+Table 1
+
+China National Gold Group Co. Ltd.--Peer Comparison
+Industry sector: Metals
+China National Gold
+Group Co. Ltd.
+
+Shandong Gold Group
+Co. Ltd.
+
+Zijin Mining Group
+Co. Ltd.
+
+Yamana Gold
+Inc.
+
+Polyus
+PJSC
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenue
+
+105,166.6
+
+81,992.6
+
+105,994.2
+
+12,369.8
+
+20,048.9
+
+EBITDA
+
+7,538.6
+
+6,619.0
+
+12,534.0
+
+5,049.4
+
+12,782.5
+
+Funds from operations (FFO)
+
+4,624.8
+
+3,701.0
+
+9,737.9
+
+4,209.7
+
+9,564.9
+
+Interest expense
+
+2,507.3
+
+2,081.0
+
+1,670.6
+
+997.8
+
+2,172.1
+
+Cash interest paid
+
+2,252.3
+
+2,043.0
+
+1,683.9
+
+559.0
+
+1,780.1
+
+Cash flow from operations
+
+4,147.4
+
+3,068.0
+
+9,271.5
+
+2,191.8
+
+8,540.1
+
+Capital expenditure
+
+3,677.3
+
+4,152.4
+
+7,808.9
+
+3,016.6
+
+5,846.2
+
+Free operating cash flow
+(FOCF)
+
+470.2
+
+(1,084.4)
+
+1,462.7
+
+(824.8)
+
+2,693.9
+
+Discretionary cash flow
+(DCF)
+
+(34.1)
+
+(2,613.6)
+
+(1,459.8)
+
+(955.5)
+
+(1,247.1)
+
+8,958.8
+
+15,786.2
+
+10,713.2
+
+677.5
+
+6,162.5
+
+Debt
+
+51,071.8
+
+49,348.8
+
+45,147.9
+
+13,213.3
+
+26,140.2
+
+Equity
+
+33,477.5
+
+29,201.2
+
+42,288.2
+
+27,676.4
+
+3,095.0
+
+EBITDA margin (%)
+
+7.2
+
+8.1
+
+11.8
+
+40.8
+
+63.8
+
+Return on capital (%)
+
+4.0
+
+5.2
+
+12.0
+
+(5.8)
+
+35.7
+
+EBITDA interest coverage
+(x)
+
+3.0
+
+3.2
+
+7.5
+
+5.1
+
+5.9
+
+FFO cash interest coverage
+(x)
+
+3.1
+
+2.8
+
+6.8
+
+8.5
+
+6.4
+
+Debt/EBITDA (x)
+
+6.8
+
+7.5
+
+3.6
+
+2.6
+
+2.0
+
+FFO/debt (%)
+
+9.1
+
+7.5
+
+21.6
+
+31.9
+
+36.6
+
+Cash flow from
+operations/debt (%)
+
+8.1
+
+6.2
+
+20.5
+
+16.6
+
+32.7
+
+FOCF/debt (%)
+
+0.9
+
+(2.2)
+
+3.2
+
+(6.2)
+
+10.3
+
+Cash and short-term
+investments
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+China National Gold Group Co. Ltd.
+
+Table 1
+
+China National Gold Group Co. Ltd.--Peer Comparison (cont.)
+Industry sector: Metals
+China National Gold
+Group Co. Ltd.
+
+Shandong Gold Group
+Co. Ltd.
+
+Zijin Mining Group
+Co. Ltd.
+
+Yamana Gold
+Inc.
+
+Polyus
+PJSC
+
+(0.1)
+
+(5.3)
+
+(3.2)
+
+(7.2)
+
+(4.8)
+
+DCF/debt (%)
+RMB--Chinese renminbi.
+
+Chart 5
+
+We view Shandong Gold Group Co. Ltd., Zijin Mining Group Co. Ltd., Yamana Gold Inc., and Polyus PJSC as CNG's
+closest peers, given that they are gold miners with similar production scale or cost positions.
+CNG's production volume is higher than that of Yamana and Zijin, but lower than that of Shandong Gold and Polyus.
+The company has a longer mine life but higher costs than most of its peers. In terms of geographical exposure, CNG's
+operations are mainly focused in China and Polyus is focused in Russia. Shandong Gold's major operations are in
+China and it also has 15%-20% volume exposure to Argentina. Zijin and Yamana's operations are more geographically
+diversified.
+CNG's leverage is similar to that of Shandong Gold but higher than that of Zijin, Yamana, and Polyus. The company's
+EBITDA margin is lower because of its lower ore grade and thin-margin commodities trading and jewelry retail
+businesses. Polyus's profitability is strong owing to its very low production costs driven by output from open pit mines
+and cost control measures. Yamana is also a relatively low-cost gold producer with above-average profitability
+compared with that of the global upstream mining industry.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+China National Gold Group Co. Ltd.
+
+CNG is an SOE that is controlled by the Chinese government. In our assessment, the company has a high likelihood of
+receiving extraordinary government support in case of financial distress. Shandong Gold is a SOE that is controlled by
+the Shandong government. We assess the company as having a high likelihood of receiving extraordinary government
+support in case of need. As a result, we assign three notches of rating uplift to CNG and two notches to Shandong
+Gold. We see the other peers as private companies.
+
+Financial Risk: Aggressive
+We believe CNG will generate lower operating cash flow in 2019 owing to increased operational costs. That said, we
+expect its credit metrics to improve slightly from 2020, backed by higher copper prices and volumes. The company's
+debt-to-EBITDA ratio will rise to about 7.6x in 2019, from 6.8x in 2018, before improving moderately to 7.2x-7.4x from
+2020.
+We forecast the company's free operating cash flow will remain negative during the next 12-24 months. This is owing
+to sizable capex for acquisitions as well as exploration and technology enhancement at existing mines. We expect
+CNG's leverage to stay high as the company has planned large capital outlays related to inorganic expansion in 2019.
+Its leverage will decrease in 2020 as we have not factored in any acquisitions in our forecast. CNG's debt level will
+remain high, which constrains its financial strength.
+
+Financial summary
+Table 2
+
+China National Gold Group Co. Ltd.--Financial Summary
+Industry sector: Metals
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+105,166.6
+
+100,203.8
+
+107,839.6
+
+110,739.8
+
+121,338.6
+
+EBITDA
+
+7,538.6
+
+7,225.0
+
+5,702.4
+
+4,309.6
+
+4,691.6
+
+Funds from operations (FFO)
+
+4,624.8
+
+3,935.3
+
+2,594.5
+
+1,399.8
+
+1,953.9
+
+Interest expense
+
+2,507.3
+
+2,484.6
+
+2,339.0
+
+2,365.8
+
+2,197.5
+
+Cash interest paid
+
+2,252.3
+
+2,515.7
+
+2,491.3
+
+2,220.5
+
+1,959.3
+
+Cash flow from operations
+
+4,147.4
+
+1,321.4
+
+218.6
+
+(2,900.7)
+
+(692.9)
+
+Capital expenditure
+
+(Mil. RMB)
+
+3,677.3
+
+3,736.3
+
+4,482.5
+
+5,930.7
+
+6,567.4
+
+Free operating cash flow (FOCF)
+
+470.2
+
+(2,415.0)
+
+(4,263.9)
+
+(8,831.3)
+
+(7,260.3)
+
+Discretionary cash flow (DCF)
+
+(34.1)
+
+(2,726.7)
+
+(4,455.9)
+
+(9,143.0)
+
+(7,257.2)
+
+Cash and short-term investments
+
+8,958.8
+
+10,439.4
+
+7,083.4
+
+7,772.1
+
+10,219.3
+
+Gross available cash
+
+8,958.8
+
+10,439.4
+
+7,083.4
+
+7,772.0
+
+10,219.3
+
+Debt
+
+51,071.8
+
+52,601.9
+
+52,868.3
+
+46,772.0
+
+37,060.7
+
+Equity
+
+33,477.5
+
+30,073.7
+
+27,945.5
+
+26,987.4
+
+27,498.1
+
+EBITDA margin (%)
+
+7.2
+
+7.2
+
+5.3
+
+3.9
+
+3.9
+
+Return on capital (%)
+
+4.0
+
+3.5
+
+3.1
+
+3.2
+
+4.3
+
+Adjusted ratios
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+China National Gold Group Co. Ltd.
+
+Table 2
+
+China National Gold Group Co. Ltd.--Financial Summary (cont.)
+Industry sector: Metals
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+EBITDA interest coverage (x)
+
+3.0
+
+2.9
+
+2.4
+
+1.8
+
+2.1
+
+FFO cash interest coverage (x)
+
+3.1
+
+2.6
+
+2.0
+
+1.6
+
+2.0
+
+Debt/EBITDA (x)
+
+6.8
+
+7.3
+
+9.3
+
+10.9
+
+7.9
+
+FFO/debt (%)
+
+9.1
+
+7.5
+
+4.9
+
+3.0
+
+5.3
+
+Cash flow from operations/debt (%)
+
+8.1
+
+2.5
+
+0.4
+
+(6.2)
+
+(1.9)
+
+0.9
+
+(4.6)
+
+(8.1)
+
+(18.9)
+
+(19.6)
+
+(0.1)
+
+(5.2)
+
+(8.4)
+
+(19.5)
+
+(19.6)
+
+FOCF/debt (%)
+DCF/debt (%)
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess CNG's liquidity as adequate. We forecast CNG's liquidity sources to exceed its uses by 1.3x over the next 12
+months and its net liquidity sources to remain positive even if EBITDA declines by 15%.
+CNG's SOE status underpins its solid relationships with banks and good access to capital markets. As of June 30, 2019,
+CNG had total bank facilities of RMB225.4 billion, of which RMB176.6 billion is unused. CNG issued one medium-term
+note (MTN) and two super and short-term commercial papers (SCPs) in 2019 at a low average coupon rate of 3.38%,
+demonstrating the company's good access to capital markets.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and liquid investments of RMB10.5 billion as of
+March 31, 2019.
+
+• Short-term debt obligations of about RMB31.7
+billion due in the 12 months ending March 31, 2020.
+
+• Estimated funds from operations of RMB4.4 billion
+in the 12 months ending March 31, 2020.
+
+• Maintenance capex of RMB2 billion-RMB3 billion
+over the same period.
+
+• About RMB31.7 billion of ongoing government
+support, in the form of bank credit lines at Chinese
+state-owned banks that mature beyond 12 months
+and mainly serve to refinance existing short-term
+debt.
+
+• Working capital outflow of RMB600
+million-RMB700 million over the same period.
+• Dividend distributions of about RMB500 million
+over the same period.
+
+Debt maturities
+Table 3
+
+China National Gold Group Co. Ltd.-- Debt Maturities*
+Period
+2019
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+Amount (Mil. RMB)
+22,815.7
+
+SEPTEMBER 24, 2019 11
+
+China National Gold Group Co. Ltd.
+
+Table 3
+
+China National Gold Group Co. Ltd.-- Debt
+Maturities* (cont.)
+Period
+
+Amount (Mil. RMB)
+
+2020
+
+15,026.9
+
+2021
+
+7,901.7
+
+2022
+
+968.9
+
+2023
+
+298.1
+
+2023 onwards
+
+5,890.2
+
+*As of Dec. 31, 2018.
+
+Government Influence
+The rating on CNG includes three notches of uplift due to the high likelihood that the Chinese government would
+extend extraordinary support in case of financial distress. Our view is based on the following company characteristics:
+• Very strong link with the Chinese government. The central government owns 100% of CNG and we expect no
+ownership change in the next 12-24 months. The central SASAC appoints the company's board members and senior
+management. Therefore, the government has strong influence on CNG's strategy and business plans. The
+government also has procedures in place to continually monitor the company's development. We believe that a
+considerable deterioration in the creditworthiness of CNG would negatively affect the Chinese government's
+reputation.
+• Important role to the government. CNG operates as a profit-seeking entity in the competitive gold and copper
+mining and refining industry. It is one of the largest mined gold producers in China. The company represents the
+government in formulating various industry regulations and standards through the China Gold Association. It also
+plays an important role in consolidating gold assets, both domestically and abroad. As such, we view CNG's credit
+standing to be important to the central government.
+
+Reconciliation
+Table 4
+
+Reconciliation Of China National Gold Group Co. Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-China National Gold Group Co. Ltd. reported amounts
+
+Reported
+
+Debt
+
+Shareholders'
+equity
+
+54,787.2
+
+14,742.7
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+7,293.1
+
+2,776.4
+
+2,143.9
+
+7,538.6
+
+6,312.2
+
+Cash flow
+from
+operations
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(661.6)
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2,252.3)
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+China National Gold Group Co. Ltd.
+
+Table 4
+
+Reconciliation Of China National Gold Group Co. Ltd. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB) (cont.)
+Debt-like hybrids
+
+2,969.7
+
+(2,969.7)
+
+--
+
+--
+
+158.7
+
+--
+
+--
+
+(6,719.1)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+204.7
+
+--
+
+--
+
+Dividends received from
+equity investments
+
+--
+
+--
+
+0.4
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+217.6
+
+--
+
+--
+
+--
+
+Reclassification of interest
+and dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2,164.8)
+
+Noncontrolling
+interest/minority interest
+
+--
+
+21,704.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and liquid
+investments
+
+Debt: Guarantees
+
+34.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+245.1
+
+245.1
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation gains/(losses)
+
+--
+
+--
+
+--
+
+173.6
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+179.3
+
+--
+
+--
+
+--
+
+EBIT: Other
+Total adjustments
+
+--
+
+--
+
+--
+
+(245.1)
+
+--
+
+--
+
+--
+
+(3,715.4)
+
+18,734.8
+
+245.5
+
+570.5
+
+363.4
+
+(2,913.9)
+
+(2,164.8)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+4,624.8
+
+4,147.4
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+51,071.8
+
+33,477.5
+
+7,538.6
+
+3,346.9
+
+2,507.3
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Fair
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: bbModifiers
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+China National Gold Group Co. Ltd.
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : bb
+
+• Likelihood of government support: High (+3 notches from SACP)
+
+Related Criteria
+• General Criteria: Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued
+By Corporate Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Metals And Mining Upstream Industry, Dec. 20, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Methodology For Standard & Poor's Metals And Mining Price Assumptions, Nov.
+19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Criteria - Insurance - General: Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+China National Gold Group Co. Ltd.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+Vulnerable
+
+bb-
+
+Strong
+Satisfactory
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+China National Gold Group Co. Ltd.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Issuer Credit Ratings History
+31-Aug-2017
+
+BBB/Stable/--
+
+04-Aug-2015
+
+BBB/Negative/--
+
+04-Jul-2014
+
+BBB/Stable/--
+
+Related Entities
+China Gold International Resources Corp. Ltd.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+

@@ -1,0 +1,1733 @@
+AES Gener S.A.
+Primary Credit Analyst:
+Melisa A Casim, Buenos Aires (54) 11-4891-2178; Melisa.Casim@spglobal.com
+Secondary Contact:
+Candela Macchi, Buenos Aires (54)-11-4891-2110; candela.macchi@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Group Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+Table Of Contents (cont.)
+Related Research
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+AES Gener S.A.
+Business Risk: SATISFACTORY
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb-
+
+bbb-
+
+bb+
+BBB-/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Key Strengths
+• Leading player in the power generation business in Chile with about 27% market share in terms of generation.
+• Predictable cash flows given by long-term dollar-denominated contracts with built-in fuel and inflation pass-through
+provisions with mostly distribution and mining companies.
+• Adequate technology mix of coal, hydro, gas/diesel, and renewable plants that provides asset diversification and
+operational efficiencies.
+• Conservative adjusted debt level, with a projected debt to EBITDA ratio of below 2.0x for the next two years.
+• Adequate liquidity and good access to banks and capital markets.
+
+Key Risks
+• Operations in riskier jurisdictions such as Argentina.
+• Exposure to recontracting risk, particularly after 2024, when 8% of its contracted capacity comes due.
+• Coal-based plants make up 59% of Gener's installed capacity. We see certain continuity risk over these plants in the
+long term, given the government's strategy to move the energy matrix to a renewable scheme, gradually
+decommissioning existing coal-based plants, starting with the oldest and least efficient ones. Under this government
+plan, Gener will start by shutting down 322 megawatts (MW) between 2022 and 2024, which represent 10% of its
+installed capacity in Chile.
+We believe that Gener will continue to demonstrate stable cash flow generation based on its high level of contracted
+capacity. AES Gener S.A. (Gener) has long-term power purchase agreements (PPAs), which have an average remaining
+term of 10 years and represent 80% of Gener's revenues in Chile. The PPAs are with creditworthy counterparties
+including major distribution companies, large copper mines, and industrial conglomerates. In our view, Gener's
+contracted strategy will allow the company to keep generating stable EBITDA in the next three years. This is despite
+the 20% lower generation Gener reported in the second quarter of 2019 versus the same period last year, which
+resulted from a longer-than-expected plant maintenance in Chile, the effect of the currency depreciation and drier
+hydrological conditions in Colombia, and lower electricity demand in Argentina amid economic turmoil. We
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+AES Gener S.A.
+
+considered all these events as non-recurrent, and project for the next two years adjusted EBITDA between $650
+million and $700 million and adjusted debt to EBITDA of 1.5x-1.8x, which is comfortably in line with the rating level.
+Long-term contracts mitigate recontracting risk that comes from a cleaner business in Chile.The Chilean energy sector
+is rapidly transitioning to renewables from conventional thermal energy sources. Electricity from renewable energy
+sources represented just a small percent of the generation mix in Chile a few years ago; however, the share of
+renewables has expanded to the high teens area today, and we expect the country's growth in renewables to continue.
+Chile has an explicit target of achieving 20% of electricity from renewable sources by 2025, and above 70% for 2050.
+The proliferation of renewables in Chile has caused power prices to plummet to $40 to $50/megawatt hours (MWh)
+from about $100/MWh, and we view it as highly unlikely that power prices would return to the historical range. In this
+new context, we expect Gener to focus on developing an ambitious renewable portfolio in Chile of more than 4,000
+megawatts (MW) of installed capacity, which would allow it to transition its energy matrix into a greener one. We
+expect the implementation to be subject to the closing of new PPAs at attractive margins. In the next few months, we
+expect Gener to start constructing two wind farms totaling 164 MW along with a solar expansion for 80 MW, totaling
+about $290 million funded with internally generated cash. The company also recently acquired 'Los Cucuros' 110 MW
+wind park and 'La Cebada' substation bought from Empresas Publicas de Medellin E.S.P (EPM; not rated) for a total
+amount of $138 million that Gener intends to pay with the funds from the recently announced issuance of junior
+subordinated notes. We believe this strategy will alleviate some pressure, particularly related to the recontracting of
+the coal-fired plants, given that mining companies (that buy almost 70% of Gener's contracted capacity) have already
+expressed their preference for renewable power sources.
+Chile, followed by Colombia, continues to be main EBITDA contributors. Gener operates in three countries in Latin
+America: Chile, Colombia, and Argentina. We continue to believe Chile will be the main cash contributor for Gener,
+with about 70% of adjusted EBITDA (as of December 2018), underpinned by the abovementioned long-term contracts.
+Chile is followed by Colombia that accounts for almost 20% of Gener's total capacity, mainly through the company's
+stake in AES Chivor & Cia. SCA ESP (Chivor; not rated). However, Colombia's relevance to Gener's results isn't stable
+because of the specific conditions of the country's energy matrix, which is 70% hydro-based and depends on weather
+conditions. Chivor aims to have about 80% of its generation contracted, which will reduce the volatile EBITDA that the
+historical 50% contracted capacity used to generate.
+Finally, Gener operates in Argentina through its subsidiary Termoandes S.A. (Termoandes, not rated) that marginally
+contributes to EBITDA generation (about 5%). Argentina's business conditions are currently worsening, depreciating
+the domestic currency, and the consequences of the sovereign's debt restructuring are affecting the domestic
+economy. Nevertheless, even if Argentina's conditions negatively affect tariff settings of Termoandes, eroding its cash
+flow generation or creating additional controls to cash flow repatriations, we consider that the impact to Gener will be
+marginal.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+AES Gener S.A.
+
+Chart 1
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+AES Gener S.A.
+
+Chart 2
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+AES Gener S.A.
+
+Outlook: Stable
+
+The stable outlook reflects our expectations that Gener will post robust credit metrics in the next two years,
+including adjusted debt to EBITDA below 2.0x, even considering the development of new renewable capacity.
+Additionally, the outlook incorporates our view that after the changes in Alto Maipo's contract, Gener won't need
+to inject any more extraordinary
+equity into this project.
+
+Downside scenario
+In the next two years, we could downgrade Gener if its net debt to EBITDA persistently exceeds 2.5x, for instance,
+because of higher leverage to finance the construction of new capacity. In addition, if the company provides
+additional support to Alto Maipo, our analysis would consolidate the project's debt into Gener's, which could
+worsen the company's credit metrics and could prompt us to lower the ratings. Finally, if recontracting becomes
+more challenging, particularly for its coal assets, we could take a negative rating action.
+
+Upside scenario
+We could raise the ratings on Gener if investments in the renewable projects occur in a timely manner, with debt to
+EBITDA close to 1.5x and sustained free operating cash flow (FOCF) to debt of above 25%, while we continue to
+view Alto Maipo as an independent project.
+
+Our Base-Case Scenario
+Assumptions
+• Macroeconomic variables that we view as relevant for the unregulated utilities, particularly GDP growth that's
+highly correlated to electricity demand. (Please see "Optimism Fades despite Fed’s Pause" published June 27, 2019)
+Our forecast for Chile's GDP growth is 2.6% in 2019, 2.9% in 2020, and 3.0% afterwards, and for Colombia 2.9% in
+2019 and 3.0% afterwards. GDP growth affects the volume of energy sold in the spot market (particularly in
+Colombia where generation is mostly hydro-based, so it's the first to dispatch). In Chile, because spot prices are
+currently low and Gener's matrix is mainly consists of coal, we don't envision a large amount of dispatch to spot
+prices.
+• Contract prices in Chile remaining relatively stable at $110/MWh for regulated clients and $100/MWh for
+unregulated clients in the next two years. For the spot market, we consider a long-term price of $45/MWh due to
+higher-than-expected generation coming online in the next two years. The spot price doesn't immediately affect the
+company's revenue because most of its output is contracted at fixed prices in the next few years. However, the spot
+price influences margins because Gener covers a portion of its revenue through purchases in the spot market.
+Therefore, a lower spot price would increase the EBITDA margin. In the next few years, lower spot prices would
+affect revenues because the contracts would be renegotiated at lower prices. The Colombian operations are
+generally more volatile due to a higher exposure to the spot market. We assume average contract prices of
+$64/MWh and prices in the spot market of about $50/MWh in Colombia.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+AES Gener S.A.
+
+• Improving, but still dry, hydrology conditions in Chile and normal ones in Colombia, and the absence of
+non-recurrent disruptions in plant operations. This would lead to annual power generation close to 18,000 gigawatt
+hours (GWh) between 2019 and 2021, excluding Angamos and Cochrane's power output, the shutting down of 322
+MW of installed capacity in Chile following the de-carbonization process, and new installed capacity of 437 MW in
+renewable projects.
+• Committed equity contributions to Alto Maipo of $200 million in 2020. Capital expenditures (capex) of about $330
+million in 2019 and $430 million in 2020, which excludes disbursements to the Angamos, Cochrane, and Alto Maipo
+projects and includes the construction of the 303 MW of wind and solar parks, which we expect to start operating in
+2021.
+• We included the recently announced issuance of up to $450 million with maturity in 2079. Gener will use the
+proceeds to cancel existing financial debt for about $300 million (mentioned in the previous bullet), for the financing
+of the wind farm and power station it agreed to acquire from EPM, and will use the rest of the proceeds for general
+corporate purposes.
+• Dividend payout ratio of 100% of the previous year's net income, somewhat flexible if required.
+For our analysis, we continue deconsolidating the EBITDA, debt (which we consider non-recourse debt), capex, and
+cash of legally non-recourse financed projects. We take this approach because if any of these projects undergo
+financial stress, we don't expect Gener to provide financial support.
+
+Key Metrics
+(Mil. $)
+
+2019e
+
+2020e
+
+2021e
+
+Debt/EBITDA (x)
+
+1.5-2.0
+
+1.5-2.0 1.5-2.0
+
+Funds from operations (FFO) to debt (%)
+
+35-45
+
+35-45
+
+35-45
+
+FOCF to debt (%)
+
+10-15
+
+10-15
+
+30-40
+
+Discretionary cash flow (DCF) to debt (%) Negative Negative
+
+10-15
+
+*S&P Global Ratings-adjusted. e--Estimate.
+
+Company Description
+Gener is one of the largest energy producers in Chile, with about a 27% market share (by generation); a major
+producer in Colombia with a 7% market share; and has one of the most efficient plants in Argentina. The company
+owns a diverse portfolio of power plants in the three countries, including facilities operating on coal, gas, hydro, diesel,
+solar, and biomass, with an aggregate capacity close to 5,100 MW as of June 2019.
+About 70% of Gener's EBITDA comes from long-term PPAs in Chile with counterparties with solid credit quality, and
+to a lesser extent, PPAs with regulated entities (mainly distribution companies). We view the contractual base as
+positive from a credit standpoint, because the PPAs make Gener's EBITDA and cash flows predictable and stable. In
+Colombia, the company has a higher exposure to the spot market than in Chile, where it generates about 50% of its
+revenue. Finally, the company's cash flow generation in Argentina depends on a regulated market, in which tariffs are
+in dollars and set by power generation and availability.
+AES Gener has recourse assets, which are included in the adjusted metrics that we present in this article. The company
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+AES Gener S.A.
+
+also has legal non-recourse projects. As mentioned, we deconsolidate EBITDA, debt, capex, and cash of these
+projects. These projects are:
+• Alto Maipo SpA (Alto Maipo, not rated). A hydro-electrical asset of 561 MW of installed capacity under
+construction. Commercial operations date: Last quarter of 2020.
+• Empresa Eléctrica Angamos SpA ((Angamos (not rated). This asset has 558 MW of installed capacity.
+• Empresa Eléctrica Cochrane SpA (Cochrane, not rated). Located in the Mejillones region of Chile, it has a total
+installed capacity of 550 MW.
+
+Business Risk: Satisfactory
+In our view, Gener's business risk is underpinned by long-term PPAs that mostly include mining companies in
+Chile--about 70% of the contracted capacity--followed by PPAs with Chilean electricity distribution companies for 25%
+of the total contracted. These agreements make cash flow generation more predictable, and any risk of early
+termination would represent a weakness, since Gener's recontracting capacity may be affected by increasing
+competition from cleaner energies.
+Given this new context of clean energy development in Chile, Gener seeks to remain aligned with the country's
+strategy while remaining competitive. Thus, the company has committed to reduce its carbon intensity and has
+pledged not to build new coal plants. Gener has a long-term plan to use technological innovations to provide the
+flexibility that the power system requires and incorporate more renewable energy into the energy matrix. We expect
+Gener to develop an ambitious renewable portfolio in Chile of more than 4,000 MW of installed capacity. The starting
+point of this strategy are the 400 MW between the recently acquired wind park and the developing of brownfield
+projects that include wind parks and solar farms. We expect the strategy's implementation to continue and to be
+subject to the closing of new PPAs at attractive margins that allow Gener to remain competitive in the Chilean power
+market.
+Gener's Colombian subsidiary, Chivor, has 1,020 MW of hydro installed capacity. In Colombia, because the energy
+matrix is 70% hydro-based and is affected by rainy and drought seasons that influence electricity spot prices and
+contract tenors, the duration of PPAs there average only two to three years. As a result, Chivor sells a considerable
+portion of electricity in the volatile spot market. In order to avoid unpredictability from hydrological conditions, ensure
+a long-term EBITDA margin of 50%, and maintain some exposure to the spot market as a hedge, Gener signed an 876
+GW per year PPA with Gensa (not rated) in Colombia. This 15-year supply contract begins in 2023 and represents an
+extraordinary contract considering local market conditions.
+We expect Gener's Chilean and Colombian operations to be highly significant for the company's profitability in the
+next few years, with operations in the two countries posting an adjusted EBITDA margin between 25% and 27%. We
+don't consider Argentine operations as a key business for Gener, and expect Argentina to continue representing a
+marginal portion of Gener's profitability under the country's uncertain economic conditions.
+We forecast that adjusted EBITDA will range between $650 million and $700 million in the next three years. In our
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+AES Gener S.A.
+
+view, last year's EBITDA was an extraordinary situation in which some one-off events boosted Gener's results. These
+extraordinary episodes included positive results from Colombia due to an increase in some PPA prices and enhanced
+generation that resulted from more favorable hydrology conditions, an increase in the power price in Argentina, and
+higher margins given lower fuel costs. From Chile, the higher EBITDA was thanks to higher margins from the supply of
+previously executed contracts and minor fixed costs associated with a restructuring plan and scheduled maintenance.
+Chart 3
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 10
+
+AES Gener S.A.
+
+Chart 4
+
+Peer comparison
+As peers for Gener, we selected other Latin American companies in the power generation segment, such as Colbun
+S.A. (3,884 MW of installed capacity; BBB/Stable/--), Engie Energia Chile S.A. (Engie; 2,346 MW of installed capacity;
+BBB/Stable/--) and Enel Americas S.A. (BBB/Stable/--), located in Chile. In addition, we also consider as peers Isagen
+S.A. E.S.P. (3,003 MW of installed capacity; BBB-/Stable/--) in Colombia and Nautilus Inkia Holdings LLC (1,618 MW
+of installed capacity; BB/Stable/--) in Peru.
+From a business perspective, the main characteristics all the peer companies shares is that they own and operate a
+portfolio of assets rather than a single one, are vertically integrated, and participate in the generation and transmission
+businesses in more than one country in most cases. Enel Americas is the only entity among selected peers that
+operates in Brazil, that currently has a non-investment grade rating. In addition, all of these peers have satisfactory
+business profiles reflecting certain country risks, adequate competitive position scores that reflect generally solid
+records of regulation, good competitive positions, and geographic and asset diversity.
+From a financial perspective, Gener compares well with Colbun, Engie, and Enel Americas given that we expect all of
+those to post adjusted debt to EBITDA below 2.5x in the next two to three years. However, AES Gener, Colbun, and
+Engie are focusing investments for the upcoming years in their generation businesses, mainly by developing new
+renewable capacity, whereas we expect Enel Americas will devote most of its resources to the distribution business
+that is by nature more stable and predictable.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 11
+
+AES Gener S.A.
+
+Table 1
+
+AES Gener S.A. -- Peer Comparison
+Industry Sector: Infrastructure
+
+Ratings as of Sept. 5,
+2019
+
+AES Gener S.A.
+
+Enel Americas S.A.
+
+Engie Energia Chile
+S. A.
+
+Nautilus Inkia
+Holdings LLC
+
+Colbun S.A.
+
+BBB-/Stable/--
+
+BBB/Stable/--
+
+BBB/Stable/--
+
+BB/Stable/--
+
+BBB/Stable/--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+--Fiscal year
+ended Dec. 30,
+2018--
+
+--Fiscal year ended
+Dec. 31, 2018--
+
+(Mil. $)
+Revenue
+
+2,647.4
+
+13,184.1
+
+1,275.3
+
+1,612.5
+
+1,571.3
+
+EBITDA
+
+758.5
+
+3,456.6
+
+365.7
+
+556.9
+
+684.1
+
+Funds from operations
+(FFO)
+
+423.8
+
+2,400.1
+
+362.7
+
+366.4
+
+501.2
+
+77.9
+
+778.4
+
+12.8
+
+148.3
+
+72.9
+
+Interest expense
+Cash interest paid
+
+245.4
+
+462.5
+
+2.9
+
+145.3
+
+74.6
+
+Cash flow from
+operations
+
+116.6
+
+1,496.5
+
+270.7
+
+379.0
+
+467.8
+
+Capital expenditure
+
+143.6
+
+1,521.3
+
+224.2
+
+155.1
+
+107.9
+
+Free operating cash
+flow (FOCF)
+
+(27.0)
+
+(24.8)
+
+46.6
+
+223.9
+
+359.8
+
+Discretionary cash
+flow (DCF)
+
+(249.4)
+
+(616.8)
+
+(24.6)
+
+200.5
+
+69.2
+
+327.2
+
+2,034.0
+
+61.5
+
+201.0
+
+788.4
+
+Cash and short-term
+investments
+Debt
+
+863.7
+
+7,881.6
+
+783.0
+
+2,761.2
+
+1,011.9
+
+2,969.1
+
+8,831.9
+
+2,138.0
+
+1,080.0
+
+3,856.9
+
+EBITDA margin (%)
+
+28.7
+
+26.2
+
+28.7
+
+34.5
+
+43.5
+
+Return on capital (%)
+
+7.1
+
+20.0
+
+8.7
+
+9.3
+
+8.6
+
+EBITDA interest
+coverage (x)
+
+9.7
+
+4.4
+
+28.6
+
+3.8
+
+9.4
+
+FFO cash interest
+coverage (x)
+
+2.7
+
+6.2
+
+124.5
+
+3.5
+
+7.7
+
+Debt/EBITDA (x)
+
+1.1
+
+2.3
+
+2.1
+
+5.0
+
+1.5
+
+FFO/debt (%)
+
+49.1
+
+30.5
+
+46.3
+
+13.3
+
+49.5
+
+Cash flow from
+operations/debt (%)
+
+13.5
+
+19.0
+
+34.6
+
+13.7
+
+46.2
+
+FOCF/debt (%)
+
+(3.1)
+
+(0.3)
+
+5.9
+
+8.1
+
+35.6
+
+(28.9)
+
+(7.8)
+
+(3.1)
+
+7.3
+
+6.8
+
+Equity
+Adjusted ratios
+
+DCF/debt (%)
+
+Financial Risk: Intermediate
+In the past five years, Gener has carried out a group of projects--including Angamos, Cochrane, and Alto Maipo--that
+represent more than 1,500 MW of installed capacity and required high debt levels to develop.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 12
+
+AES Gener S.A.
+
+However, because most of these new projects have started operating and because Gener has been executing a
+deleveraging strategy since 2017, its main adjusted credit metrics have improved in the past two years. The deleverage
+strategy included selling non-strategic assets such as Sociedad Electrica Santiago (not rated) and a portion of its
+transmission business, plus refinancing debt, such as the hybrid bond issued in March this year, in more convenient
+cost conditions.
+Moreover, the company has recently announced the issuance of new junior subordinated notes for up to $450 million
+that it will use to cancel existing financial debt for about $300 million, to finance the wind farm and power station it
+agreed to acquire from EPM, and for general corporate purposes. We categorize the proposed notes as having minimal
+equity content because they're subordinated in liquidation to all of AES Gener's senior debt obligations, can't be called
+for at least five years, and are not subject to features that could discourage or materially delay deferral. Even though
+the proposed issuance's terms and conditions are substantially similar to the existing $550 million hybrid bond the
+company issued in March, which we assess as having intermediate equity content, Gener's adjusted capitalization
+already reached our maximum threshold for hybrid instruments of 15%. As such, we assess the proposed notes as
+having minimal equity content, meaning they will be treated as financial debt in full. However, if in the following years,
+we observe that adjusted capitalization improves, for instance with the incorporation of additional assets under the
+expansionary renewable plan that the company is developing, we could revise the equity content of the new
+subordinated issuance. Our analysis of Gener's adjusted senior debt excludes the project financing debt of Alto Maipo,
+Angamos, and Cochrane because we don't envision financial support from Gener to these entities in case of financial
+distress.
+In this context, and even assuming some additional debt to finance the new renewable capacity, we expect Gener to
+post a conservative adjusted debt-to-EBITDA ratio below 2.0x. Nevertheless, we anticipate the FOCF-to-debt ratio
+could be somewhat volatile given the capex plan, which will be about $380 million in 2019 and $430 million in 2020.
+Table 2
+
+Financial Summary -- AES Gener S.A.
+--Year ended Dec. 31-(000s $)
+Revenues
+
+2015
+
+2016
+
+2017
+
+2018
+
+2,165,407 2,286,401 2,436,712 2,647,379
+
+EBITDA
+
+629,614
+
+766,199
+
+679,047
+
+758,509
+
+Funds from operations (FFO)
+
+419,549
+
+578,995
+
+491,013
+
+543,974
+
+EBIT
+
+458,369
+
+424,274
+
+299,896
+
+297,326
+
+Interest expense
+
+118,650
+
+107,118
+
+103,249
+
+77,852
+
+Net income from continuing operations
+
+264,874
+
+261,009
+
+184,519
+
+286,987
+
+Operating cash flow
+
+299,258
+
+308,121
+
+337,418
+
+113,465
+
+Capital expenditures
+
+942,103
+
+45,137
+
+76,574
+
+143,563
+
+Free operating cash flow
+
+(642,845)
+
+262,984
+
+260,844
+
+(30,098)
+
+Discretionary cash flow
+
+(896,841)
+
+151,046
+
+(18,741)
+
+(181,199)
+
+307,394
+
+491,252
+
+Cash and short-term investments
+
+286,595
+
+327,226
+
+Debt
+
+1,630,371 1,291,135 1,618,104
+
+788,442
+
+Equity
+
+2,529,363 2,755,469 2,900,974 2,969,055
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 13
+
+AES Gener S.A.
+
+Table 2
+
+Financial Summary -- AES Gener S.A. (cont.)
+--Year ended Dec. 31-(000s $)
+
+2015
+
+2016
+
+2017
+
+2018
+
+EBITDA margin (%)
+
+29.1
+
+33.5
+
+27.9
+
+28.7
+
+Return on capital (%)
+
+10.2
+
+9.1
+
+6.2
+
+6.3
+
+EBITDA interest coverage (x)
+
+5.3
+
+7.2
+
+6.6
+
+9.7
+
+FFO cash interest coverage ratio (x)
+
+2.6
+
+3.1
+
+2.6
+
+2.5
+
+Debt/EBITDA (x)
+
+2.6
+
+1.7
+
+2.4
+
+1.0
+
+FFO/debt (%)
+
+25.7
+
+44.8
+
+30.3
+
+69.0
+
+Operating cash flow/debt (%)
+
+18.4
+
+23.9
+
+20.9
+
+14.4
+
+Free operating cash flow/debt (%)
+
+(39.4)
+
+20.4
+
+16.1
+
+(3.8)
+
+Discretionary cash flow/debt (%)
+
+(55.0)
+
+11.7
+
+(1.2)
+
+(23.0)
+
+Adjusted ratios:
+
+Liquidity: Adequate
+We assess Gener's liquidity as adequate because its ratio of sources over uses of funds will exceed 1.2x in the next 12
+months, and the sources of cash would remain higher than its uses even if EBITDA were to decline by 15%. In
+addition, we incorporate the company's solid financial flexibility and access
+to capital markets, as seen in the pool of loans currently in its portfolio and the uncommitted and committed credit
+facilities.
+Principal Liquidity Sources:
+
+Principal Liquidity Uses:
+
+• Cash balance of $86.2 million as of June 30, 2019
+(excluding the cash held at Angamos, Cochrane, and
+Alto Maipo);
+
+• Short-term maturities of $79 million on a recourse
+basis;
+
+• A long-term committed bank line of $250 million
+due 2021; and
+• Funds from operations of approximately $400
+million in the next 12 months (excluding
+nonrecourse projects).
+
+• Maintenance capex approaching $100 million;
+• Working capital outflows of about $75 million; and
+• Dividends of $270 million that represent 100% of the
+expected net income for the next 12 months, which
+Gener will pay in 2020.
+In our view, because Gener will use the funds from the
+expected issuance mostly to cancel existing debt and
+finance the acquisition of EPM's renewable assets, we
+see it as neutral for the liquidity analysis.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 14
+
+AES Gener S.A.
+
+Debt maturities
+Chart 5
+
+Covenant Analysis
+As of June 30, 2019, Gener was in compliance with its financial covenants on its local bonds (maximum net leverage of
+1.2x, excluding non-recourse debt; minimum interest coverage of 2.5x; and minimum net worth of $1.575 billion), and
+we expect a cushion of about 30%.
+
+Group Influence
+U.S.-based The AES Corp. (BB+/Stable/--), which we rate one notch below Gener, indirectly owns 66.7% of the
+company. The remaining stake is floating.
+Structural protections and enhancements for Gener, along with certain legal insulation features provided by Chilean
+bankruptcy laws, allow for the current rating discrepancy. Specifically, under the company's bylaws, Gener can't make
+loans to its shareholders. In addition, the company can distribute dividends in excess of $160 million annually (a
+maximum quarterly dividend of $40 million) only if it keeps an investment-grade credit rating from two rating
+agencies. If the rating drops to a speculative level, Gener can distribute dividends of up to $160 million annually only if
+its FFO interest coverage exceeds 2.4x. Therefore, we view Gener as an insulated subsidiary.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 15
+
+AES Gener S.A.
+
+Issue Ratings - Subordination Risk Analysis
+The 'BB' issue-level ratings on the existing and proposed junior subordinated notes reflect their subordinated nature to
+the senior debt (senior only to the common shares) and to all existing and future unsecured and unsubordinated debt
+and other liabilities of the company's operating subsidiaries. The ratings also reflect the embedded interest deferral
+feature, which is at the sole discretion of the company's management, and unpaid interest is capitalized.
+
+Reconciliation
+Table 3
+
+Reconciliation Of AES Gener S.A. Reported Amounts With S&P Global Ratings' Adjusted Amounts (000s $)
+--Fiscal year ended Dec. 31, 2018-AES Gener S.A. reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P
+Global
+Ratings' Cash flow
+adjusted
+from
+Capital
+EBITDA operations Dividends expenditure
+
+3,584,381.0
+
+2,625,321.0
+
+880,386.0
+
+613,116.0
+
+123,806.0
+
+758,509.0
+
+502,313.0
+
+188,908.0
+
+565,141.0
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(89,344.0)
+
+--
+
+--
+
+--
+
+Cash taxes paid:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(166,754.0)
+
+--
+
+--
+
+--
+
+(221,804.5)
+
+221,804.5
+
+--
+
+--
+
+(21,939.2)
+
+21,939.2
+
+21,939.2
+
+21,939.2
+
+--
+
+Postretirement
+benefit
+obligations/deferred
+compensation
+
+--
+
+--
+
+1,642.0
+
+1,642.0
+
+1,642.0
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+(251,964.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+100,578.0
+
+(100,578.0)
+
+(100,578.0)
+
+--
+
+(100,578.0)
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+16,325.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating
+income (expense)
+
+--
+
+--
+
+--
+
+(177,588.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and
+dividend cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(307,090.0)
+
+--
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+121,929.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(2,246,909.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+-- (139,844.0)
+
+(139,844.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Intermediate
+hybrids reported as
+debt
+
+Debt: Other
+EBITDA:
+Gain/(loss) on
+disposals of PP&E
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 16
+
+AES Gener S.A.
+
+Table 3
+
+Reconciliation Of AES Gener S.A. Reported Amounts With S&P Global Ratings' Adjusted Amounts (000s
+$) (cont.)
+Interest expense:
+Other
+
+--
+
+--
+
+--
+
+-- (126,235.0)
+
+--
+
+--
+
+--
+
+--
+
+Capital expenditure:
+Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(321,000.0)
+
+Total adjustments
+
+(2,720,677.5)
+
+343,733.5 (121,877.0)
+
+(315,790.0)
+
+(45,954.2)
+
+(334,736.8)
+
+(385,728.8)
+
+21,939.2
+
+(421,578.0)
+
+S&P Global Ratings' adjusted amounts
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+863,703.5
+
+2,969,054.5
+
+758,509.0
+
+297,326.0
+
+Funds Cash flow
+Interest
+from
+from Dividends
+Capital
+expense operations operations
+paid expenditure
+77,851.8
+
+423,772.2
+
+116,584.2
+
+210,847.2
+
+143,563.0
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB-/Stable/--
+
+Business risk: Satisfactory
+
+• Country risk: Intermediate
+• Industry risk: Moderately high
+• Competitive position: Satisfactory
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bbbModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : bbb-
+
+• Group credit profile: bb+
+• Entity status within group: Insulated
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 17
+
+AES Gener S.A.
+
+Related Criteria
+• Hybrid Capital: Methodology And Assumptions, July 1, 2019
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Utilities: Key Credit Factors For The Regulated Utilities Industry, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Ratings Above The Sovereign--Corporate And Government Ratings: Methodology And
+Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+Related Research
+• AES Gener S.A.'s Proposed Junior Subordinated Notes Rated 'BB', Existing Ratings Affirmed, Outlook Remains
+Stable, Sept. 25, 2019
+• Bulletin: AES Gener S.A.'s Acquisition Of Wind Farm Is In line With Long-Term Plan To Expand Renewable Energy
+Portfolio, Sept. 17, 2019
+• AES Gener S.A. 'BBB-' Ratings Affirmed Despite Second-Quarter Financial Underperformance, Outlook Still Stable,
+Sept. 4, 2019
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+Strong
+Satisfactory
+Fair
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+a-
+
+bbb
+
+bbb-/bb+
+
+bbb
+
+bb+
+
+bb
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 18
+
+AES Gener S.A.
+
+Ratings Detail (As Of September 26, 2019)*
+AES Gener S.A.
+Issuer Credit Rating
+
+BBB-/Stable/--
+
+Junior Subordinated
+
+BB
+
+Senior Unsecured
+
+BBB-
+
+Issuer Credit Ratings History
+18-Feb-2011
+
+Foreign Currency
+
+23-Dec-2009
+
+BBB-/Negative/--
+
+30-Jun-2009
+18-Feb-2011
+
+BBB-/Stable/-BBB-/Watch Neg/--
+
+Local Currency
+
+BBB-/Stable/--
+
+23-Dec-2009
+
+BBB-/Negative/--
+
+30-Jun-2009
+
+BBB-/Watch Neg/--
+
+Related Entities
+AES Andres B.V
+Issuer Credit Rating
+
+BB-/Stable/--
+
+Senior Unsecured
+
+BB-
+
+AES Argentina Generacion S.A
+Issuer Credit Rating
+
+B-/Negative/--
+
+Senior Unsecured
+
+B-
+
+Dayton Power & Light Co.
+Issuer Credit Rating
+
+BBB-/Negative/NR
+
+Senior Secured
+
+BBB+
+
+Dominican Power Partners
+Senior Unsecured
+
+BB-
+
+DPL Inc.
+Issuer Credit Rating
+
+BBB-/Negative/NR
+
+Senior Unsecured
+
+BBB-
+
+Indianapolis Power & Light Co.
+Issuer Credit Rating
+
+BBB/Stable/NR
+
+Preferred Stock
+
+BB+
+
+Senior Secured
+
+A-
+
+IPALCO Enterprises Inc.
+Issuer Credit Rating
+
+BBB/Stable/NR
+
+Senior Secured
+
+BBB-
+
+The AES Corp.
+Issuer Credit Rating
+
+BB+/Stable/--
+
+Senior Secured
+
+BBB-
+
+Senior Unsecured
+
+BB+
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 19
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 20
+
+

@@ -1,0 +1,485 @@
+Certara Holdco Inc.
+Primary Credit Analyst:
+Viral Patel, New York +1 212-438-2403; viral.patel@spglobal.com
+Secondary Contact:
+David A Kaplan, CFA, New York (1) 212-438-5649; david.a.kaplan@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+Certara Holdco Inc.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading market position in the emerging biosimulation industry.
+
+Small scale and niche focus in the biosimulation and regulatory software
+and services industries.
+
+Significant penetration in the pharmaceutical industry with multi-year
+contracts and cross-selling opportunities.
+
+Risk of potential competition from much larger and better-funded
+outsourced pharmaceutical development firms.
+
+Upfront subscription payments give strong revenue visibility and the
+ability to manage operating cash flows.
+
+Adjusted leverage more than 6.5x as of June 30, 2019.
+
+We expect Certara's leading position in the nascent biosimulation industry to grow rapidly given its penetration within
+the pharmaceutical industry. The company's software is primarily used for model-informed drug development (MIDD),
+data informatics, and strategic consulting services. More than 90% of all novel drugs approved by the U.S. FDA used
+Certara's software platform. Additionally, with the U.S. FDA looking to move aggressively toward an electronic
+regulatory submission, the agency renewed and increased its contract for Certara's software.
+Certara has a strong ability to manage cash flows with high visibility to revenue streams. The company benefits from
+the highly predictable subscription-based revenue stream and strong renewal rates. Certara's multi-year contracts
+remain sticky among customers, including the U.S. FDA, and the company collects subscription revenues upfront,
+which provides the company efficiency in working capital.
+We view the company's small scale and niche focus in the biosimulation and regulatory science software services
+industry as potential risk. Certara could face competition from other Software-as-a-Service (SaaS) companies or
+much-larger and better-funded outsourced pharmaceutical development firms, such as contract research organizations
+(CROs), especially as technology evolves. The company's leading position in this niche partially offsets this risk.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+Certara Holdco Inc.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on Certara Holdco Inc. reflects its expectation that revenue and EBITDA will
+continue to expand rapidly, given the company's leading, albeit niche, position in the growing industry, enabling it
+to generate moderate discretionary cash flows. Although we expect the company to deleverage over the next 12
+months, we believe leverage will remain above 6.0x and funds from operations (FFO) to debt will be below 10%.
+
+Downside scenario
+We could lower the rating if competitive threats result in an unexpected shortfall in contract renewals or if contract
+price pressure leads to significant margin contraction. This could result in revenues well below our base-case
+scenario and EBITDA margins decreasing by more than 100 basis points (bps), leading to marginal free cash flow
+generation and FFO coverage of cash interest deteriorating to below 1.5x. Alternatively, a change in our perception
+of Certara's business and competitive position could also lead to a lower rating.
+
+Upside scenario
+We expect the company to deleverage as a result of EBITDA expansion over the next 12 months, but we think an
+upgrade is unlikely given the company's financial sponsor ownership, which we expect to favor business growth
+over debt reduction. Also, while Certara holds a leading market position, the niche and still evolving nature of the
+market limit ratings upside.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+Certara Holdco Inc.
+
+Assumptions
+
+• We expect low-double-digit percentage revenue
+growth due to penetration of its services to midsize
+and small pharmaceutical companies, cross-selling
+of services to existing customers, and the launch of
+new services. We expect revenue growth to be
+supplemented with modest acquisitions. This growth
+is higher than the low-single-digit growth expected
+for the pharmaceutical industry.
+
+Key Metrics
+
+2018A 2019E 2020E
+Adj. debt/EBITDA (x)
+
+8.4
+
+6.5-7
+
+5.5-6
+
+Adj. EBITDA margin (%)
+
+31
+
+31-33
+
+31-33
+
+FFO to debt (%)
+
+4.5
+
+7-9
+
+8-10
+
+All figures are S&P Global Ratings-adjusted. A--Actual.
+E--Estimate. FFO--Funds from operations.
+
+• EBITDA margins of around 32% for fiscal-year-end
+2019 improving around 100 bps in 2020 due to
+operating leverage and better pricing. This is
+supported by the company's value proposition of
+offering multiple services on its integrated platform.
+• Low capital requirements, with capital spending of
+around $5 million-$10 million per year, net of our
+adjustment for capitalized software development
+costs.
+
+Company Description
+Certara provides decision support technology and consulting services for optimizing drug development and improving
+health outcomes. The company provides regulatory strategy, MIDD services and technology, and regulatory writing
+and submission services. The company's drug development platform leverages a relatively comprehensive database of
+prior drug trials to extrapolate the safety profile and likelihood of success for a given target. Its portfolio spans the
+discovery, preclinical, clinical, and post-marketing phases of drug development, working with 1,200 commercial
+companies, 250 academic institutions, and numerous regulatory agencies around the world.
+
+Business Risk: Weak
+Our assessment of Certara's business risk reflects the company's limited scale and niche focus in the biosimulation and
+regulatory software and services industries. We consider the risk of potential competition from much larger companies
+such as CROs as a constraint on our assessment. These factors are partially mitigated by Certara's leading market
+position in the nascent biosimulation industry, which we expect to grow rapidly over the next two years. The rating
+also reflects our expectation for above-average EBITDA margins and double-digit revenue growth.
+Despite this strong market penetration and leading market share, Certara's operations remain very small in scale,
+reflecting the limited size of the current addressable market. Biosimulation represents just a small fraction of current
+research and development (R&D) spending, but we expect the industry as a whole will continue to grow rapidly.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+Certara Holdco Inc.
+
+Certara's regulatory offerings are supported by its strong regulatory relationships, particularly with the U.S. DA. We
+believe barriers to entry are stronger in this segment, given that Certara is the only review platform the FDA uses.
+Certara has good revenue visibility, thanks to multiyear contracts on its licenses that are billed annually. The company
+has high renewal rates--greater than 90%--for most of its software solutions and products. Furthermore, customer
+concentration is limited, with no single customer accounting for more than 10% of total revenues.
+Certara provides software and services for a very niche part of the drug development process, which makes it
+vulnerable to changes in that marketplace. Even though Certara has established relationships with most of the
+pharmaceutical and CRO industries and a wealth of collected data, the market has few barriers to entry that would
+prevent a larger competitor from entering and offering a better or more complete solution to its customers. Given
+Certara's EBITDA margins (at more than 30%) and the rapid growth of the underlying biosimulation industry, we
+consider potential competitive pressure from significantly larger peers to be the greatest risk to Certara's business.
+
+Financial Risk: Highly leveraged
+Despite rapid EBITDA expansion, we expect leverage to remain high. We forecast adjusted leverage will be about 6.5x
+at fiscal-year-end 2019 and remain above 5.0x through 2020. We expect moderate cash flow generation of more than
+$20 million per year, supported by Certara's advanced receipt of subscription payments and minimal capital
+expenditures. We expect Certara to deploy this cash flow for accretive transactions on an opportunistic basis as well as
+some deleveraging over the coming year.
+
+Liquidity: Adequate
+We assess liquidity as adequate, limited by our view that the company may not be able to absorb a high-impact, low
+probability event without the need for refinancing and that the company's access to credit markets may be limited due
+to its high leverage. However, we expect sources of cash will exceed uses by more than 2x. We expect the company to
+have full availability on its revolving credit facility over the next 12 months. The company has a net first-lien leverage
+covenant that applies to the revolver only and is tested if borrowings exceed 35% of the commitment. We expect the
+company's cushion against its net first-lien covenant will be greater than 30%.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash balance of about $15 million as of June 30,
+2019;
+
+• Mandatory debt amortization of about $3 million per
+year; and
+
+• Cash FFO of about $30 million over the next 12
+months; and
+
+• Capital expenditures of about $10 million over the
+next 12 months, including capitalized software
+development costs.
+
+• About $19 million available under the $20 million
+revolving credit facility as of June 30, 2019.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+Certara Holdco Inc.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Certara's capital structure consists of a $20 million floating-rate revolver due 2022, a $315 million first-lien term loan
+due 2024, and a $100 million second-lien term loan due 2025.
+• Given the continued demand for its services, we believe Certara would remain a viable business and would
+therefore reorganize rather than liquidate following a hypothetical payment default.
+• Consequently, we have used an enterprise value methodology to evaluate recovery prospects. We valued the
+company on a going-concern basis using a 5.5x multiple off our projected EBITDA at default.
+• We estimate EBITDA would need to decline to about $34 million for Certara to default, which would be a significant
+deterioration from our base-case forecast.
+
+Simulated default assumptions
+• Simulated year of default: 2021
+• EBITDA at emergence: $34 million
+• EBITDA multiple: 5.5x
+
+Simplified waterfall
+• Net enterprise value (after 5% admin. costs): $178 million
+• Valuation split (obligors/nonobligors): 75%/25%
+• Collateral value available to secured creditors: $161 million
+• Secured first-lien debt: $329 million
+• --Recovery expectations: 50%-70%; rounded estimate: 50%
+Notes: All debt amounts include six months' prepetition interest
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+Certara Holdco Inc.
+
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Technology Software And Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+Certara Holdco Inc.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 10, 2019)*
+Certara Holdco, Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+26-Jul-2017
+
+B/Stable/--
+
+Related Entities
+Certara USA, Inc.
+Senior Secured
+
+B
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+

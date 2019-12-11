@@ -1,0 +1,1435 @@
+ATS Automation Tooling Systems Inc.
+Primary Credit Analyst:
+Alessio Di Francesco, CFA, Toronto (1) 416-507-2573; alessio.di.francesco@spglobal.com
+Secondary Contact:
+Jarrett Bilous, Toronto (1) 416-507-2593; jarrett.bilous@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Other Credit Considerations
+Issue Ratings - Recovery Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 1
+
+ATS Automation Tooling Systems Inc.
+Business Risk: FAIR
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bb+
+
+bb
+
+bb
+BB/Stable/--
+
+Financial Risk: INTERMEDIATE
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Relatively large installed base of systems and high customer retention rates provide
+revenue visibility and opportunities for higher-margin and more stable after-sale
+services.
+
+Limited product diversity and small scale compared with
+that of other rated capital goods companies.
+
+Low capital intensity that contributes to positive annual free operating cash flow
+generation.
+
+Operates in the fragmented and competitive global
+automation market.
+
+Low net debt leverage that provides ample financial flexibility for future
+acquisitions or share repurchases.
+
+Exposure to cyclical fluctuations in demand for automation
+systems in certain end markets.
+
+Steady organic growth and modest improvement in adjusted EBITDA margins over
+the next couple of years.
+
+Sizable acquisition could result in increased integration risk
+and considerably weaker than expected credit measures.
+
+Strong operating performance is behind better than previously expected results. ATS Automation Tooling Systems Inc.
+delivered strong operating results in fiscal 2019 with organic revenue growth of 11.0% and adjusted EBITDA margins
+of 14.3%. This represents the second consecutive year of double-digit organic revenue growth and margin
+improvement. Increased business from new and existing customers along with ATS gaining efficiencies from better
+supply chain management and other initiatives contributed to this improvement, in S&P Global Ratings' opinion. These
+results compared favorably to our expectations last year for organic revenue growth of 3.0%-4.0% and an adjusted
+EBITDA margin of 12.5%-13.0%. ATS also had a solid start to fiscal 2020, reaching an order backlog of C$982 million
+at June 30, 2019 (up 8.6% from March 31, 2019). This reflects strong organic growth in bookings, particularly in the life
+sciences and transportation end markets, which represent about 84% of the company's backlog and supports our view
+that annual organic revenue growth should be in the low-to-mid single-digit area over the next couple of years.
+Ratings upside remains constrained by the likelihood of increased leverage should the company expand or repurchase
+shares. Adjusted debt-to-EBITDA should increase over the next couple of years because ATS is likely to fund material
+acquisitions or repurchase shares with cash on hand, free cash flow generation, and possibly additional debt. As a
+result, we assume the company's adjusted debt-to-EBITDA will ultimately return to 2.0x-2.5x and adjusted funds from
+operations (FFO)-to-debt to 30%-45% within the next couple of years. Our forecast for higher leverage is consistent
+with our view of ATS' financial policies and growth strategy.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 2
+
+ATS Automation Tooling Systems Inc.
+
+Acquisitions completed in fiscal 2019 were consistent with our expectations and there will likely be more. During fiscal
+2019, ATS completed two acquisitions, with a combined purchase price of close to C$200 million, that we believe
+should augment the breadth of the company' service offerings and capabilities while increasing scale. KMW
+Konstruktion, Maschinen & Werkzeugbau GmbH and Co. KG and KMW GmbH, acquired Oct. 31, 2018 (third-quarter
+2019), for about C$25 million, is a German-based supplier of custom micro-assembly systems and test equipment
+solutions. Comecer S.p.A., acquired Feb. 28, 2019 (fourth-quarter 2019), for about C$170 million, is an Italy-based
+automation solutions provider focused on aseptic containment and processing systems for the nuclear medicine and
+pharmaceutical industries. These acquisitions were consistent with our previous forecast and we assume ATS will
+continue to deploy C$100 million–C$200 million for acquisitions annually to strengthen its competitive position, but
+we recognize this is highly speculative. We also note that ATS has capacity, all else being equal, to make an acquisition
+larger than C$200 million while remaining within our existing rating category, given the company's very low adjusted
+debt balance.
+
+Outlook: Stable
+
+The stable outlook reflects S&P Global Ratings' expectation for ATS to generate positive organic growth over the
+next couple of years while modestly expanding adjusted EBITDA margins. The outlook also incorporates our
+expectation that acquisitions or share repurchases should contribute to adjusted FFO-to-debt increasing to
+30%-45% within the next couple of years.
+
+Downside scenario
+We could lower the ratings within the next 12 months if operating performance were to deteriorate significantly,
+contributing to weaker EBITDA margins and cash flow generation. We could also lower the ratings if the company
+pursues a more aggressive financial policy, possibly through debt-funded acquisitions, resulting in sustained
+adjusted FFO-to-debt approaching 20%.
+
+Upside scenario
+We could raise our ratings on ATS within the next 12 months if the company's competitive position improves.
+Specifically, if ATS were to increase its scale, most likely through an acquisition that we believe would contribute
+to stronger profitability characteristics. An upgrade could also occur if we expect ATS to sustain adjusted
+FFO-to-debt above 45%, which could result from a reduced likelihood for material acquisitions, share repurchases,
+or distributions.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 3
+
+ATS Automation Tooling Systems Inc.
+
+Assumptions
+
+• U.S. real GDP growth of 2.5% in 2019 and 1.8% in
+2020, with relatively weaker growth in Europe and
+Canada
+• Canadian annual CPI growth of about 2% over the
+next couple of years
+• The average value of the Canadian dollar to be
+relatively flat against the U.S. dollar and depreciate
+modestly against the euro, which should positively
+affect results reported in Canadian dollars
+
+Key Metrics
+
+EBITDA (mil. C$)
+EBITDA margin (%)
+Debt-to-EBITDA (x)
+
+2019A
+
+2020E
+
+178.9
+
+200-220
+
+220-240
+
+14.3 14.5-15.0
+
+14.5-15.0
+
+1.0
+
+2021E
+
+1.5-2.0 About 2.0
+
+FFO-to-debt (%)
+
+76.9
+
+40-50
+
+30-40
+
+FOCF-to-debt (%)
+
+52.5
+
+20-30
+
+20-30
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+FOCF--Free operating cash flow.
+
+• Annual revenue growth of 10%-15% through 2021
+from acquisitions and organic revenue growth of
+2%-5%
+• Modest adjusted EBITDA margin expansion through
+an increased mix of higher-margin service revenue,
+operating leverage, and efficiency gains
+• Annual capital expenditures of about C$60 million in
+fiscal 2020 and C$20 million-C$30 million in fiscal
+2021
+• C$100 million-C$200 million of acquisitions annually
+• C$40 million-C$60 million of share repurchases
+annually
+• No dividends
+
+Company Description
+Based in Ontario, Canada, ATS is engaged in planning, designing, building, commissioning, and servicing automated
+manufacturing and assembly systems--including automation products and test solutions--for a broadly diversified base
+of customers. The company has 23 manufacturing facilities and more than 50 offices in North America, Europe,
+Southeast Asia, and China.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 4
+
+ATS Automation Tooling Systems Inc.
+
+Chart 1
+
+Chart 2
+
+Business Risk: Fair
+Our view of ATS' business reflects the company's large installed base of automation systems globally, with recurring
+revenue from a long-standing customer base and services business. It also reflects ATS' limited product diversity, with
+close to 75% of revenue derived from the company's life sciences and transportation divisions. Moreover, ATS is a
+small-scale manufacturer relative to the broader capital goods industry. We believe the global automation market
+within which ATS competes is highly fragmented and competitive, which limits material upside to its product pricing.
+Furthermore, the demand for a meaningful share of the company's products is sensitive to prevailing levels of
+industrial activity, which is cyclical and can increase the volatility of cash flow and profitability through the credit
+cycle.
+ATS has a leading position in most of its addressable markets for automation systems. Close to half the company's
+revenue is generated from customers in the relatively stable life sciences market. We also view life sciences to be one
+of the key drivers of ATS' organic growth over the next few years. Contributing factors include the favorable
+demographic trends driving demand for medical devices and pharmaceutical products, as well as the opportunity for
+further automation investments. The company's second-largest market exposure is transportation, which is highly
+cyclical and competitive. However, we believe ATS is well-positioned to benefit from the ongoing trend toward vehicle
+electrification, which we expect will represent the majority of the transportation segment's growth.
+ATS has demonstrated strong organic growth in recent years from the addition of new customers and the expansion of
+long-term customer relationships with more than 90% of its bookings from repeat customers. We believe this reflects
+the costs associated with switching systems providers and the quality of the company's products and services. In our
+view, these long standing relationships provide some revenue visibility and opportunities for an increased share of
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 5
+
+ATS Automation Tooling Systems Inc.
+
+higher-margin and more stable engineering and after-sale services (currently about one-third of revenue).
+The company's profitability has been on an improving trend with adjusted EBITDA margin up 190 basis points to
+14.3% in fiscal 2019. We believe adjusted EBITDA margins should improve modestly over the next few years due in
+part to an increased mix of higher-margin service revenue, and efficiency gains. Increased scale from prospective
+acquisitions and solid organic growth, supported in part by favorable macro-economic conditions, should also
+contribute to stronger profitability over time. We estimate adjusted EBITDA margin to be 14.5%-15.0% over the next
+couple of years, which we consider average for companies that manufacture and service industrial equipment and
+systems.
+
+Peer comparison
+Table 1
+
+ATS Automation Tooling Systems Inc. -- Peer Comparison
+Industry Sector: Containers and Packaging, Publishing and Printing
+ATS Automation Tooling
+Systems Inc.
+
+Emerson Electric Co.
+
+Rockwell Automation Inc.
+
+Ratings as of Sept. 10, 2019
+
+BB/Stable/--
+
+A/Stable/A-1
+
+A/Stable/A-1
+
+Business risk profile
+
+Fair
+
+Strong
+
+Strong
+
+Country risk
+
+Low
+
+Low
+
+Low
+
+Industry risk
+
+Intermediate
+
+Intermediate
+
+Intermediate
+
+Competitive position
+
+Fair
+
+Strong
+
+Strong
+
+Financial risk profile
+
+Intermediate
+
+Minimal
+
+Modest
+
+Anchor
+
+bb+
+
+aa-
+
+a
+
+Active modifier
+
+Comparable ratings analysis (-1
+notch)
+
+Financial policy (-2 notches)
+
+--
+
+Stand-alone credit profile
+
+bb
+
+a
+
+a
+
+--Fiscal year ended March 31,
+2019--
+
+--Fiscal year ended Sept. 30,
+2018--
+
+--Fiscal year ended Sept. 30,
+2018--
+
+Revenue
+
+937.9
+
+17,408.0
+
+6,666.0
+
+EBITDA
+
+133.9
+
+4,146.5
+
+1,593.3
+
+Funds from operations (FFO)
+
+104.6
+
+3,238.3
+
+1,277.5
+
+Interest expense
+
+21.7
+
+237.2
+
+90.4
+
+Cash interest paid
+
+21.4
+
+228.2
+
+92.9
+
+(Mil. US$)
+
+Cash flow from operations
+
+102.1
+
+3,044.3
+
+1,358.3
+
+Capital expenditure
+
+30.6
+
+617.0
+
+125.5
+
+Free operating cash flow (FOCF)
+
+71.5
+
+2,427.3
+
+1,232.8
+
+Discretionary cash flow (DCF)
+
+42.1
+
+198.3
+
+(690.3)
+
+Cash and short-term investments
+
+168.0
+
+1,093.0
+
+909.7
+
+Debt
+
+136.2
+
+4,720.8
+
+1,952.7
+
+Equity
+
+590.8
+
+8,990.0
+
+1,617.5
+
+14.3
+
+23.8
+
+23.9
+
+9.8
+
+17.6
+
+20.3
+
+Adjusted ratios
+EBITDA margin (%)
+EBIT margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 6
+
+ATS Automation Tooling Systems Inc.
+
+Table 1
+
+ATS Automation Tooling Systems Inc. -- Peer Comparison (cont.)
+Return on capital (%)
+
+13.9
+
+23.6
+
+38.5
+
+EBITDA interest coverage (x)
+
+6.2
+
+17.5
+
+17.6
+
+FFO cash interest coverage (x)
+
+5.9
+
+15.2
+
+14.7
+
+Debt/EBITDA (x)
+
+1.0
+
+1.1
+
+1.2
+
+FFO/debt (%)
+
+76.9
+
+68.6
+
+65.4
+
+Cash flow from operations/debt
+(%)
+
+75.0
+
+64.5
+
+69.6
+
+FOCF/debt (%)
+
+52.5
+
+51.4
+
+63.1
+
+DCF/debt (%)
+
+30.9
+
+4.2
+
+(35.4)
+
+N.M.--Not meaningful.
+
+Financial Risk: Intermediate
+ATS currently has a low adjusted debt level at about C$265 million as of June 30, 2019, after S&P Global Ratings' debt
+adjustments (see reconciliation table). We expect the company to continue to generate steady growth in earnings and
+cash flow, led by organic annual revenue growth (2%-5%) and modest margin expansion due in part to an increased
+mix of higher-margin service revenue, operating leverage, and efficiency gains. We also expect relatively stable capital
+expenditures beyond fiscal 2020, which should facilitate positive annual free operating cash flow generation, estimated
+at C$60 million-C$90 million.
+Despite our expectation for higher earnings and cash flow generation, we believe adjusted debt-to-EBITDA should
+increase over the next couple of years. This reflects our view that ATS is likely to fund material acquisitions or share
+repurchases with cash on hand, free cash flow generation, and possibly additional debt. As a result, we assume the
+company's adjusted debt-to-EBITDA will ultimately return to 2.0x-2.5x and adjusted FFO-to-debt to 30%-45% within
+the next couple of years. Our forecast for higher debt leverage is consistent with our view of ATS' financial policies and
+growth strategy as the company has stated it expects to employ moderate debt leverage to expand operations and is
+comfortable operating with debt leverage (as per the company's definition) of 2.0x-2.5x.
+
+Financial summary
+Table 2
+
+ATS Automation Tooling Systems Inc. -- Financial Summary
+Industry Sector: Industrial Machinery & Equipment
+--Fiscal year ended March 31-2019
+Rating history
+
+2016
+
+2015
+
+BB/Stable/-- BB/Stable/-- BB/Stable/-- BB/Stable/--
+
+2018
+
+2017
+
+--/--/--
+
+(Mil. C$)
+Revenue
+
+1,253.6
+
+1,114.9
+
+1,010.9
+
+1,039.6
+
+936.1
+
+EBITDA
+
+178.9
+
+138.5
+
+124.4
+
+131.3
+
+120.9
+
+Funds from operations (FFO)
+
+139.9
+
+104.4
+
+88.1
+
+102.4
+
+96.4
+
+Interest expense
+
+29.0
+
+28.5
+
+29.2
+
+29.6
+
+14.8
+
+Cash interest paid
+
+28.6
+
+23.8
+
+25.5
+
+18.8
+
+12.5
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 7
+
+ATS Automation Tooling Systems Inc.
+
+Table 2
+
+ATS Automation Tooling Systems Inc. -- Financial Summary (cont.)
+Industry Sector: Industrial Machinery & Equipment
+--Fiscal year ended March 31--
+
+Cash flow from operations
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+136.5
+
+68.0
+
+135.9
+
+43.4
+
+88.4
+
+Capital expenditure
+
+40.9
+
+26.0
+
+17.9
+
+15.7
+
+17.9
+
+Free operating cash flow (FOCF)
+
+95.6
+
+42.0
+
+118.0
+
+27.8
+
+70.5
+
+Discretionary cash flow (DCF)
+
+56.3
+
+42.0
+
+118.0
+
+21.8
+
+70.5
+
+Cash and short-term investments
+
+224.5
+
+330.1
+
+286.7
+
+170.0
+
+106.1
+
+Gross available cash
+
+224.5
+
+330.1
+
+286.7
+
+170.0
+
+106.1
+
+Debt
+
+182.0
+
+37.4
+
+91.9
+
+208.8
+
+231.5
+
+Equity
+
+789.6
+
+758.8
+
+686.0
+
+650.6
+
+570.7
+
+EBITDA margin (%)
+
+14.3
+
+12.4
+
+12.3
+
+12.6
+
+12.9
+
+Return on capital (%)
+
+13.9
+
+11.5
+
+9.2
+
+9.8
+
+10.6
+
+EBITDA interest coverage (x)
+
+6.2
+
+4.9
+
+4.3
+
+4.4
+
+8.2
+
+FFO cash interest coverage (x)
+
+5.9
+
+5.4
+
+4.5
+
+6.4
+
+8.7
+
+Debt/EBITDA (x)
+
+1.0
+
+0.3
+
+0.7
+
+1.6
+
+1.9
+
+FFO/debt (%)
+
+76.9
+
+279.0
+
+95.8
+
+49.1
+
+41.6
+
+Cash flow from operations/debt (%)
+
+75.0
+
+181.6
+
+147.9
+
+20.8
+
+38.2
+
+FOCF/debt (%)
+
+52.5
+
+112.2
+
+128.4
+
+13.3
+
+30.4
+
+DCF/debt (%)
+
+30.9
+
+112.2
+
+128.4
+
+10.4
+
+30.4
+
+Adjusted ratios
+
+Liquidity: Strong
+Our liquidity assessment reflects our expectation that ATS should generate annual reported FFO of more than C$100
+million. When combined with about C$608 million available under its revolving credit facility and about C$155 million
+of cash as of June 30, 2019, we believe the company can easily cover its uses of cash in the next 24 months by over 6x.
+We also believe that sources minus uses of cash would remain positive in a stress scenario, whereby our forecast
+EBITDA declines by 50%. Despite these exceptional characteristics of liquidity, we believe a stronger assessment is
+not warranted at this time, because of ATS' limited scale and our view that liquidity could decline meaningfully from
+possible acquisitions or share repurchases.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 8
+
+ATS Automation Tooling Systems Inc.
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Annual reported FFO of more than C$100 million
+
+• Annual capital expenditures of about C$60 million in
+fiscal 2020 and C$20 million-C$30 million in fiscal
+2021
+
+• A C$750 million revolving credit facility that
+matures Aug. 29, 2021. As of June 30, 2019, the
+company had used C$142.1 million for letters of
+credit, leaving C$607.9 million available
+• Cash and cash equivalents of about C$155 million as
+of June 30, 2019
+
+• Up to C$80 million of investments in noncash
+working capital over the next 12 months that
+includes intra-year seasonal swings
+• No meaningful debt maturities until the US$250
+million unsecured notes come due in June 2023
+• Discretion on acquisitions, share repurchases, and
+dividends
+
+Debt maturities
+Chart 3
+
+Covenant Analysis
+Compliance expectations
+We expect ATS to continue complying with its covenants over the next couple of years, even in a stress scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 9
+
+ATS Automation Tooling Systems Inc.
+
+whereby EBITDA is 50% lower or debt is 30% higher than our forecast.
+
+Requirements
+ATS has two covenants related to its secured credit revolver, a maximum net funded debt-to-EBITDA, and minimum
+interest coverage.
+
+Other Credit Considerations
+We apply a negative comparable ratings analysis (CRA) modifier to reflect our view that ATS' business risk profile is at
+the weaker end of our assessment. This view takes into account risks related to demand volatility and potential order
+cancellations that could materially affect the company's business given the relatively modest scale and high operating
+leverage.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The '6' recovery rating on the company's secured debt indicates our expectation for negligible (0%-10%; rounded
+estimate: 0%) recovery in the event of default.
+• Our simulated default scenario contemplates a default in 2024, stemming from increased competitive pressures and
+a major economic downturn that forces customers to delay or cancel capital expenditures on automation systems.
+• We assume these factors could pressure ATS' ability to meet its financial obligations, prompting the need for a
+bankruptcy filing or restructuring.
+• Our recovery analysis assumes a reorganization value for the company of about C$425 million, reflecting
+emergence EBITDA of about C$85 million and a 5x multiple.
+• We assume that, in a hypothetical bankruptcy scenario, the C$750 million revolving credit facility is 85% drawn.
+
+Simulated default assumptions
+• EBITDA at emergence: C$85 million
+• EBITDA multiple: 5x
+
+Simplified waterfall
+• Net enterprise value (after administrative costs): C$403 million
+• Valuation split % (obligors/nonobligors): 85/15
+• Collateral value available to secured creditors: C$382 million
+• Secured first-lien debt: C$679 million
+• Total value available to unsecured claims: C$21 million
+• Senior unsecured debt and pari passu claims: C$630 million
+• --Recovery expectations: 0%-10%
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 10
+
+ATS Automation Tooling Systems Inc.
+
+All debt amounts include six months of prepetition interest.
+
+Reconciliation
+Table 3
+
+Reconciliation Of ATS Automation Tooling Systems Inc. Reported Amounts With S&P Global Ratings'
+Adjusted Amounts (Mil. C$)
+--Rolling 12 months ended June 30, 2019-ATS Automation Tooling Systems Inc. reported amounts
+
+Debt
+
+Shareholders'
+equity
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+326.3
+
+804.8
+
+167.5
+
+116.4
+
+27.4
+
+186.2
+
+88.0
+
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(13.9)
+
+--
+
+Cash taxes paid: other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(27.5)
+
+--
+
+72.0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Reported amounts
+
+Adjusted Cash flow from
+EBITDA
+operations
+
+S&P Global Ratings' adjustments
+
+Reported lease liabilities
+Operating leases
+
+--
+
+--
+
+8.0
+
+1.6
+
+1.6
+
+(1.6)
+
+6.4
+
+20.7
+
+--
+
+0.7
+
+0.7
+
+0.7
+
+--
+
+--
+
+(154.9)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Share-based compensation
+expense
+
+--
+
+--
+
+10.1
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+4.6
+
+--
+
+--
+
+--
+
+Noncontrolling
+interest/minority interest
+
+--
+
+0.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(62.2)
+
+0.3
+
+18.7
+
+6.9
+
+2.3
+
+(43.0)
+
+6.4
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+264.1
+
+805.1
+
+186.2
+
+123.3
+
+29.7
+
+Postretirement benefit
+obligations/deferred
+compensation
+Accessible cash and liquid
+investments
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted amounts
+
+Funds from Cash flow from
+operations
+operations
+143.2
+
+94.3
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BB/Stable/--
+
+Business risk: Fair
+
+• Country risk: Low
+• Industry risk: Intermediate
+• Competitive position: Fair
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 11
+
+ATS Automation Tooling Systems Inc.
+
+Financial risk: Intermediate
+
+• Cash flow/Leverage: Intermediate
+Anchor: bb+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Strong (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 12
+
+ATS Automation Tooling Systems Inc.
+
+Ratings Detail (As Of September 10, 2019)*
+ATS Automation Tooling Systems Inc.
+Issuer Credit Rating
+
+BB/Stable/--
+
+Senior Unsecured
+
+B+
+
+Issuer Credit Ratings History
+08-Jun-2015
+
+BB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 13
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 10, 2019 14
+
+

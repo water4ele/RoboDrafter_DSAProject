@@ -1,0 +1,761 @@
+American Trailer World Corp.
+Primary Credit Analyst:
+James T Siahaan, CFA, New York (1) 212-438-3023; james.siahaan@spglobal.com
+Secondary Contact:
+Henry Fukuchi, New York (1) 212-438-2023; henry.fukuchi@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 1
+
+American Trailer World Corp.
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Leading positions in the manufacturing and distributing of professional and Participation in cyclical end markets, including agriculture and
+consumer-grade trailers, parts, and accessories in North America.
+construction, tempered somewhat by general industrial exposure.
+Advantaged product costs relative to smaller competitors, though still
+subject to commodity cost volatility, which may be exacerbated by tariffs.
+
+Relatively narrow scope of operations.
+Limited geographic diversity, as production and sales are largely
+domestic.
+Potential for aggressive financial policies, considering the financial
+sponsor owner (affiliates of Bain Capital L.P.).
+Leveraged capital structure, with an adjusted debt-to-EBITDA ratio
+of 5.0x at March 31, 2019.
+
+Performance has been flat, but credit measures remain appropriate for the rating. With steel accounting for roughly
+30% of its materials costs, tariff-exacerbated higher prices of steel and axles along with general softening of trailer
+demand pushed American Trailer World Corp.'s (ATW's) revenue down by 1.3% in the June quarter. Adjusted
+EBITDA margins are also under a bit of pressure, though operational execution has kept them at a sufficient level so
+far, despite additional costs pertaining to facility disruption and the former CEO's transition. The magnitude of the
+deterioration has not been significant, the company is undergoing lean initiatives and emphasizing better commercial
+execution to offset, and credit measures (including adjusted debt to EBITDA of 5.0x as June 30, 2019) remain
+appropriate for the ratings.
+ATW's dominant market share and aftermarket parts business provide insulation during downturns. ATW estimates
+that its share of the trailer industry is roughly 30%, exceeding the estimated 23% controlled by its next five
+competitors. The company is able to act as a consolidator in the space, particularly during downturns, as smaller
+competitors sell assets. In addition, ATW sells aftermarket parts to dealers and other original equipment manufacturers
+(OEMs). This part of the business is less cyclical than trailer sales, and ATW has grown this part of its operations to
+account for almost 20% of its revenues from only 5% during the last recession.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 2
+
+American Trailer World Corp.
+
+Outlook: Stable
+
+S&P Global Ratings' stable outlook on Richardson, Texas-based ATW reflects the expectation that the company's
+leading market position and focus on operational execution should support solid performance and yield an
+adjusted debt-to-EBITDA ratio within the 5.0x-6.0x range. This is despite tariffs on steel, higher material costs, and
+investments in the sales channel. The company's good relationships with its dealers and distribution outlets, the
+low cost of its products compared with its end customers' total project costs, and contributions from acquisitions
+should also support its operating performance; however, the demand for trailers may ebb during cyclical troughs.
+
+Downside scenario
+We could lower our rating on ATW if its earnings dropped significantly, causing total debt-to-EBITDA to exceed
+6.0x without clear prospects for recovery. This could occur if the company faced lower volumes from cancelled
+construction projects, lower truck and consumer trailer sales due to lower sales of all-terrain vehicles and other
+discretionary items, the loss of a key big-box retail customer, or an inability to effectively manage its cost structure.
+An unexpected large debt-financed acquisition or shareholder return could also cause credit measures to
+deteriorate to that level. Based on our downside scenario, this could occur if ATW's operating margins weakened
+by more than 200 basis points (bps).
+
+Upside scenario
+Given our current assessment of Bain Capital's financial policies, we view an upgrade over the next 12 months as
+unlikely. However, we could raise our rating on ATW by one notch if the company maintained debt-to-EBITDA of
+4.0x-5.0x, funds from operations (FFO)-to-debt of near 20%, and a consistently positive free cash flow-to-debt ratio
+with no prospects for near-term material deterioration. Any additional upgrades would likely depend on whether
+the company can meaningfully strengthen its business risk profile through the continued enhancement of its
+market position and product offerings, as well as better pricing and operating efficiencies.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 3
+
+American Trailer World Corp.
+
+Assumptions
+
+• We expect ATW's sales to grow by 0%-2% in 2019,
+impacted by general volume contraction in the
+industry and slower deployment of Trailer World
+retail locations, offset by contributions from the
+Nuera Transport (Feb. 2018) and BWise (Aug. 2019)
+acquisitions, market share gains (particularly on the
+professional-grade side), and some pricing
+pass-through.
+
+Key Metrics
+
+2018A
+
+2019E
+
+2020E
+
+Adj. EBITDA margin(%)
+
+13 12.0-13.0 12.7-13.2
+
+Debt to EBITDA (x)
+
+5.6
+
+FFO to debt (%)
+
+4.7-5.2
+
+4.3-4.7
+
+11.4 10.0-12.0 12.0-13.0
+
+Free operating cash flow to debt (%)
+
+6.5
+
+5.0-7.0
+
+7.0-8.0
+
+A--Actual. E--Estimated. FFO--Funds from operations.
+
+• ATW's margins contract slightly in 2019 on
+operating leverage, facility disruption costs, CEO
+transition costs, and the tariffs' impact on costs; this
+is partially offset by price increases, production
+efficiencies, and cost-saving initiatives.
+• Capital expenditures (capex) are within the $15
+million-$17 million range in 2019, which includes
+outlays pertaining to a rebuild of a plant in Mexico;
+they then rise to the $20 million-$25 million range in
+2020 and 2021 due to additional capex necessary for
+technology- and manufacturing-related investments
+and outlays related to footprint optimization.
+• We believe ATW will slow its pace on building out
+new Trailer World locations in 2020.
+• No major acquisitions, since we believe the
+company's focus is on operational execution, but we
+note the company has some capacity for tuck-in
+deals.
+• No dividends or other shareholder rewards.
+
+Company Description
+ATW is based in Texas and manufactures professional- and consumer-grade trailers. Its $1.27 billion of
+trailing-12-month sales at June 30, 2019, were divided into the segments indicated below.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 4
+
+American Trailer World Corp.
+
+Chart 1
+
+Business Risk: Weak
+ATW's products are exposed to cyclical end markets. More than half of sales go to customers in the agricultural,
+construction, and automotive industries. However, the company benefits from its market-leading position as a
+manufacturer and distributor of professional- and consumer-grade trailers, parts, and accessories in North America.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 5
+
+American Trailer World Corp.
+
+Chart 2
+
+The scope of the company's operations is relatively narrow and its product diversity is low. The company is focused
+on the manufacture and distribution of professional-grade trailers (57% of sales) and consumer-grade trailers (17%).
+Geographic diversity is also limited because the company derives most of its revenue from North America, but it has a
+broad domestic reach. Somewhat offsetting these factors are the company's very good market shares (roughly 30%
+and 50% for professional- and consumer-grades, respectively) and healthy replacement sales on its professional-grade
+trailers. The addressable market size of this fragmented industry is limited, at roughly $7.5 billion in aggregate, with the
+bulk composed of professional-grade trailers and parts, followed by other segments and consumer-grade trailers. While
+there is some diversity in the end market breakdown, pro-grade trailer sales are heavily weighted towards the cyclical
+agriculture (13% of sales) and construction (28%) segments. In addition, the company's recreation/other (20%)
+segment exposes it to changes in discretionary consumer spending for items like camping equipment, motorcycles,
+and all-terrain vehicles. During periods of economic distress, there is a risk that the company's professional-grade
+trailer customers could prolong the useful life of their trailer fleets and curtail their purchases of equipment, thereby
+curbing demand.
+Third-party dealers account for the bulk of ATW's professional-grade trailer distribution, while consumer-grade
+products are sold by key big-box retailers like Tractor Supply Co. and Lowe's (which together account for generally
+over 60% of ATW's sales in the consumer-grade trailer segment). The company's extensive distribution network has
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 6
+
+American Trailer World Corp.
+
+roughly 700 core independent dealers and access to over 4,000 big-box retail locations nationwide. A dealer retention
+rate of more than 90% further supports the distribution network's strength. The company operates 70 retail stores,
+which helps offset some of the reliance on its dealer network for professional-grade sales. The company added 135
+third-party dealers in 2018 along with seven Trailer World locations and four new parts locations. ATW's 31 TexTrail
+and Nuera wholesale parts distributor locations provide it with less cyclical aftermarket sales. Supplier concentration is
+moderately high because its top 10 suppliers account for about half of its purchases.
+ATW is the low-cost producer in the trailer space relative to its smaller competitors, but its profitability still
+deteriorated during the first six months of 2019, in line with the rest of the industry. High component costs and tepid
+demand have impacted the company's ability to recoup rising costs via price actions. The company has also incurred
+higher outlays for costs pertaining to the transition in the CEO role. Adjusted EBITDA margins are now approximately
+12%, down 70 basis points from the end of 2018, and positioned at the lower end of the 11%-18% range that we
+consider average for manufacturers. The company is partially offsetting these headwinds via lean initiatives,
+commercial execution, and ongoing synergies from integrating its acquisitions.
+
+Peer comparison
+Table 1
+
+American Trailer World Corp. -- Peer Comparison
+Industry Sector: Industrial Machinery & Equipment
+American Trailer World
+Corp.
+
+DexKo Global Inc.
+
+Safe Fleet Holdings
+LLC
+
+J.B. Poindexter & Co.
+Inc.
+
+B/Stable/--
+
+B/Stable/--
+
+B-/Stable/--
+
+BB-/Stable/--
+
+Ratings as of Sept. 16, 2019
+
+--Fiscal year ended Dec. 31, 2018-Adjusted ratios
+Return on capital (%)
+
+9.6
+
+3.2
+
+(6.6)
+
+8.4
+
+EBITDA interest coverage (x)
+
+2.1
+
+2.1
+
+1.3
+
+2.9
+
+FFO cash interest coverage (x)
+
+2.2
+
+2.1
+
+1.4
+
+2.4
+
+Debt/EBITDA (x)
+
+4.6
+
+7.8
+
+13.2
+
+5.1
+
+11.4
+
+6.1
+
+2.1
+
+8.3
+
+Cash flow from operations/debt
+(%)
+
+9.0
+
+4.4
+
+(0.4)
+
+9.0
+
+FOCF/debt (%)
+
+6.5
+
+1.8
+
+(1.1)
+
+(5.6)
+
+DCF/debt (%)
+
+6.5
+
+1.8
+
+(76.5)
+
+(5.6)
+
+FFO/debt (%)
+
+FFO--Funds from operations. FOCF--Free operating cash flow. DCF--Discretionary cash flow.
+
+We include DexKo Global Inc. as a peer because the axle maker is a similarly-rated company that is a key supplier to
+ATW, operates in similar end-markets, and is subject to similar dependence on commodity costs. We include Safe
+Fleet Holdings LLC and J.B. Poindexter & Co. Inc. because these companies are also dependent on vehicular demand.
+
+Financial Risk: Highly leveraged
+Bain Capital purchased ATW in December 2015 and we recognize that Bain may choose to have the company take on
+additional debt leverage. The company's adjusted debt-to-EBITDA ratio of 5.0x at June 30, 2019, is improved from
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 7
+
+American Trailer World Corp.
+
+5.9x at the same point last year, as the company has raised prices, implemented manufacturing initiatives, and saw
+previously high material and freight costs ease somewhat. ATW has recently used some of the capacity under its $175
+million asset-based lending (ABL) revolving credit facility due 2021 for tuck-in acquisitions, and if it continues to do
+this, this could also pressure the leverage ratio. Still, we believe that ATW will maintain an adjusted debt-to-EBITDA
+ratio in the 5x-6x range over the next 12-18 months, which is manageable and appropriate for the rating.
+
+Financial summary
+Table 2
+
+American Trailer World Corp. -- Financial Summary
+Industry Sector: Industrial Machinery & Equipment
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+EBITDA margin (%)
+
+13.0
+
+13.1
+
+3.6
+
+2.7
+
+Return on capital (%)
+
+9.6
+
+7.8
+
+(2.2)
+
+0.7
+
+EBITDA interest coverage (x)
+
+2.1
+
+1.8
+
+0.3
+
+0.8
+
+FFO cash interest coverage (x)
+
+2.2
+
+1.7
+
+0.1
+
+252.7
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+4.6
+
+5.6
+
+35.1
+
+25.2
+
+11.4
+
+7.1
+
+(4.7)
+
+4.0
+
+Cash flow from operations/debt (%)
+
+9.0
+
+1.7
+
+3.6
+
+(2.2)
+
+FOCF/debt (%)
+
+6.5
+
+(0.6)
+
+1.5
+
+(2.2)
+
+DCF/debt (%)
+
+6.5
+
+(0.8)
+
+1.2
+
+(2.8)
+
+FFO/debt (%)
+
+Liquidity: Adequate
+We believe ATW has adequate sources of liquidity to cover its needs over the next 12 months, with sources, including
+cash and credit facility availability, of at least 1.2x its uses of liquidity or more over this time period. The company has
+no maturities until 2021, when its revolver matures. Even if ATW's EBITDA declines by 15%, its net sources of
+liquidity are likely to remain positive.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• The company had $45 million in cash as of June 30,
+2019.
+
+• Seasonal working capital requirement around $40
+million to $50 million.
+
+• $115 million availability under its $175 million ABL
+revolving credit facility.
+
+• Maintenance capex around $17 million.
+
+• FFO of about $80 million-$100 million annually.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 8
+
+American Trailer World Corp.
+
+Debt maturities
+Chart 3
+
+Covenant Analysis
+Compliance expectations
+We expect ATW's level of revolver drawings will not result in its availability diminishing to below the threshold, so it is
+unlikely that the springing covenant will apply.
+
+Requirements
+The ABL facility is subject to a springing fixed-charge coverage ratio of 1.0x when excess availability is less than the
+greater of 10% of the commitment or $10 million.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our simulated default scenario contemplates a default in 2022 caused by a severe decline in the global
+macroeconomic environment that leads to delayed and cancelled orders for the company's professional- and
+consumer-grade trailers as its customers seek to extend the life of their existing trailer fleets and consumer spending
+on discretionary purchases erodes meaningfully.
+• We believe if the borrower defaulted, ATW's business model would continue to be viable, driven by the company's
+good market position and the strength of its brands and dealer relationships.
+
+Simulated default assumptions
+• Default year: 2022
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 9
+
+American Trailer World Corp.
+
+• EBITDA multiple: 5.0x
+• The $175 million ABL is 60% drawn at default
+
+Simplified waterfall
+• EBITDA at emergence: $84 million
+• Gross enterprise value: $424 million
+• Net enterprise value: $402 million
+• Valuation split (obligors/nonobligors): 100%/0%
+• Priority claims (ABL): $103 million
+• Value available to first-lien debt: $300 million
+• Secured note claims: $702 million
+• Recovery range: 30%-50% (rounded estimate: 40%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : b
+
+• Group credit profile: b
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 10
+
+American Trailer World Corp.
+
+• Entity status within group: Core (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Capital Goods Industry, Nov. 19, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+Excellent
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 17, 2019)*
+American Trailer World Corp.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Issuer Credit Ratings History
+10-Aug-2016
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 11
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 17, 2019 12
+
+

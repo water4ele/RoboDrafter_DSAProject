@@ -1,0 +1,762 @@
+AEON Mall Co. Ltd.
+Primary Credit Analyst:
+Ryohei Yoshida, Tokyo (81) 3-4550-8660; ryohei.yoshida@spglobal.com
+Secondary Contacts:
+Roko Izawa, Tokyo (81) 3-4550-8674; roko.izawa@spglobal.com
+Makiko Yoshimura, Tokyo (81) 3-4550-8368; makiko.yoshimura@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Covenant Analysis
+Group Influence
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 1
+
+AEON Mall Co. Ltd.
+Business Risk: STRONG
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+a
+
+abbb
+
+BBB/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+A strong position in domestic shopping center development and management, with
+excellent ability to develop and manage shopping malls and with AEON group's high
+brand recognition
+
+Substantial constraint on the rating on the company by
+its parent, AEON Co. Ltd. (BBB/Stable/--)
+
+Stable rental income from its highly competitive domestic mall facilities
+
+Likely downward pressure on financial indicators due to
+aggressive growth investments
+
+Likely moderate progress in diversification of its business base backed by improved
+profitability and active store openings of its overseas mall business
+
+Implementation risk in development of overseas
+shopping malls
+
+Favorable financial indicators with low reliance on debt for a company which develops
+and manages commercial facilities
+
+The credit quality of its parent AEON is likely to strongly constrain the rating on AEON Mall Co. Ltd. S&P Global
+Ratings believes AEON Mall is likely to continue to be a highly strategic subsidiary of AEON. We hold this view
+because AEON Mall's commercial facilities have AEON's stores as their core tenants, which makes AEON Mall integral
+to the group's business operation. We expect the AEON group's consolidated financial leverage to remain high in the
+next one to two years, due to sagging profits of its retail business and aggressive investments. Accordingly, the group
+credit profile (GCP) of AEON group is likely to continue to constrain the rating on AEON Mall.
+AEON Mall is likely to maintain stable rental income from its highly competitive mall facilities in Japan. AEON Mall's
+domestic mall facilities are likely to continue to generate stable rental income backed by continued high
+competitiveness, amid increasingly severe external environment, such as the decelerating economy, consumption tax
+increase, and competition with online shopping companies. AEON Mall is likely to maintain a strong position in
+domestic shopping center development and management, with excellent ability to develop and manage shopping
+malls and with AEON group's high brand recognition. Apparel specialty stores, which is a major tenant category for its
+shopping malls, are unlikely to show a recovery. However, we expect the company to maintain up-to-date facilities
+and continue to be able to attract customers to shopping malls, by providing, for example, entertaining shopping
+experiences.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 2
+
+AEON Mall Co. Ltd.
+
+AEON Mall's financial ratios are likely to come under downward pressure arising from aggressive growth investments.
+We expect AEON Mall to continue to make aggressive growth investments. For instance, it aims to open 43 new
+shopping malls overseas from 2019 to 2025. This would lead to a rise in reliance on debt and as a result of that, its key
+financial ratios, such as EBITDA interest coverage and the ratio of its funds from operations (FFO) to debt, are likely to
+continue to deteriorate moderately, in our view. However, even if its growth investments increased beyond our
+assumptions by 20%-30%, we believe the deterioration in the company's financial position for the coming one to two
+years would remain within tolerances for the current rating.
+
+Outlook: Stable
+
+The stable outlook on our long-term issuer credit rating on AEON Mall reflects that on its parent, AEON. We
+expect AEON Mall's stand-alone credit quality (SACP) to remain stable, backed by stable rental income from its
+highly competitive domestic mall facilities and its strong financial base.
+
+Downside scenario
+We may consider lowering the rating on AEON Mall if we revise downward the GCP for AEON group. We may
+consider revising down the GCP if we see an increased likelihood of AEON's debt to EBITDA staying around 4.6x.
+This could occur if the company's reliance on debt rose because its investments increased at a faster pace than we
+assumed; or if the company failed to improve its retail business's profitability despite a variety of reform measures
+taken. We would also downgrade AEON Mall if its SACP were to fall below the GCP for AEON group as aggressive
+investments weakened AEON Mall's financial standing.
+
+Upside scenario
+Conversely, while the SACP for AEON Mall equals or exceeds the GCP for AEON group, we will upgrade AEON
+Mall if we upgrade AEON. Specifically, we may raise our rating on AEON Mall if we see a higher likelihood
+AEON's debt to EBITDA will remain below 3.5x on a sustained basis, stemming from steady recovery in its
+financial position. This could happen if AEON fully restored its retail business's profitability and, at the same time,
+properly managed its investments and debt.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 3
+
+AEON Mall Co. Ltd.
+
+Assumptions
+
+• Growth in Japan's real GDP of 0.8% in 2019 and
+0.1% in 2020 and that in China of 6.2% in 2019 and
+2020 (as of June 2019).
+• Implementation of consumption tax increase
+scheduled in October 2019 and the government's
+measures to ease its impact.
+• Annual 5% growth in the companywide operating
+revenue, thanks to approximately five new shopping
+mall openings per year in Japan and overseas as
+well as expansion and renovation of existing stores.
+
+Key Metrics
+
+2018A
+
+2019F
+
+2020F
+
+EBITDA/rental revenue (%)
+
+51.2
+
+51-52
+
+51-52
+
+EBITDA interest coverage (x)
+
+5.3
+
+5-5.3
+
+5-5.3
+
+FFO/debt (%)
+
+13.2 12-12.5 About 12
+
+All figures include S&P Global Ratings adjustments.
+Fiscal years end at the end of February the following
+year. A--Actual. F--Forecast.
+
+• Slightly faster growth of operating revenue of AEON
+Mall's existing shopping malls in Japan than that of
+Japan's GDP, supported by sales from specialty
+stores, which have been performing well.
+• A gradual recovery in profitability as the company
+steadily improves profits from its overseas business.
+• Likely continued aggressive growth investments in
+Japan and overseas totaling ¥150 billion-¥190
+billion per year.
+• Continued substantial negative free operating cash
+flow, despite a steady increase in cash flow from its
+overseas business.
+
+Base-case projections
+Both EBITDA interest coverage and cash flow ratios are likely to deteriorate moderately. AEON Mall publicly
+announced its policy to tolerate a temporary increase in its financial leverage to maintain its aggressive growth
+investments. Its financial indicators, such as EBITDA interest coverage and FFO to debt, are likely to continue to
+deteriorate moderately in the next year or two.
+
+Company Description
+AEON Mall is a major commercial facility developer that develops and manages shopping malls in Japan, China, and
+Association of Southeast Asian Nations (ASEAN) countries. It leases self-developed commercial facilities to specialty
+stores as well as to AEON group companies, such as AEON Retail Co. Ltd. The company has securitized a part of its
+developed facilities after trusting the managing business of these facilities. As of the end of February 2019, AEON Mall
+operated 153 shopping malls in Japan, 27 shopping malls overseas, and 23 urban style shopping centers in Japan. Its
+parent company, AEON, directly or indirectly holds a 56.1% stake in AEON Mall. AEON group accounted for 21.7% of
+the AEON Mall's operating revenue in fiscal 2018.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 4
+
+AEON Mall Co. Ltd.
+
+Business Risk: Strong
+S&P Global Ratings expects AEON Mall to continue to moderately diversify its business base geographically, backed
+by improved profitability and active store openings of its overseas mall business. The company will likely open about
+four new shopping malls per year for the next three to four years, in our view. This is in line with its overseas mall
+business' strategy to capture the market growth in China and ASEAN countries, where middle-income consumers have
+been increasing. We expect the company to maintain the strong financial performance of its domestic mall business.
+The company has been taking measures to sharpen the competitive edge of its existing shopping malls through
+expansion and renovation of stores and to respond to changes in consumer preferences by developing new store
+formats. We believe these measures would yield results, supporting its domestic mall business.
+On the other hand, we continue to regard some factors as constraints on AEON Mall's business risk profile. These
+include implementation risk in development of shopping malls in the emerging countries, where regulations and
+competitive environment are substantially different from those of Japan, and high reliance (slightly above 20%) of
+operating revenue on the group. Other constraints on the company's business risk profile include a somewhat high
+percentage of shopping malls on leased land or in regional cities where economic slowdown continues and still-intense
+competition in the domestic retail industry. We also believe the geographic location, ownership structure, and tenant
+diversification of its commercial facilities are somewhat weaker than those of the real estate leasing companies with a
+strong business risk profile. Based on this, we consider AEON Mall's business risk profile at the lower end of our strong
+category.
+
+Financial Risk: Modest
+We believe AEON Mall's key financial indicators are likely to remain favorable with continued low reliance on debt for
+a company which develops and manages commercial facilities, although aggressive investments have pressured its
+financial position. We expect the company to continue to make substantial growth investments under its policy to
+tolerate a temporary rise in its financial leverage. Nevertheless, we assume AEON Mall will continue to emphasize
+AEON group's financial discipline and strike a balance between financial soundness and growth while executing its
+growth strategy. Consequently, we expect the deterioration in the company's key financial ratios would remain within
+tolerances for the current rating.
+The company continues to access capital markets through corporate bond issuance and strong relationships with
+financial institutions, in our view. Although its liquidity uses are likely to remain high due to aggressive growth
+investments, we believe AEON Mall is likely to maintain sufficient liquidity sources, which it will use for maintenance
+of existing malls and debt repayment.
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 5
+
+AEON Mall Co. Ltd.
+
+Table 1
+
+AEON Mall Co. Ltd. -- Financial Summary
+--Fiscal year*-(Mil. ¥)
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenues
+
+312,976.0
+
+288,111.0
+
+269,793.0
+
+229,754.0
+
+203,902.0
+
+EBITDA
+
+160,289.5
+
+147,628.5
+
+134,029.0
+
+119,464.0
+
+107,009.5
+
+FFO
+
+113,061.0
+
+104,128.9
+
+90,574.2
+
+82,406.0
+
+65,623.0
+
+Interest Expense
+
+30,439.5
+
+27,767.6
+
+23,910.8
+
+19,997.0
+
+15,807.5
+
+Cash Interest Paid
+
+30,034.5
+
+27,543.6
+
+23,609.8
+
+19,780.0
+
+15,509.5
+
+128,037.0
+
+115,343.9
+
+103,210.2
+
+87,793.0
+
+98,148.0
+
+Capital expenditures
+
+208,237.0
+
+187,154.0
+
+161,497.0
+
+194,977.0
+
+181,736.0
+
+Free operating cash flow
+
+(80,200.0) (71,810.1) (58,286.8) (107,184.0) (83,588.0)
+
+Discretionary cash flow
+
+(88,849.0) (78,526.1) (63,838.8) (118,203.0) (88,613.0)
+
+Cash flow from operations
+
+Cash and short-term investments
+
+56,823.0
+
+54,586.0
+
+59,921.0
+
+55,375.0
+
+67,340.0
+
+Gross available cash
+
+56,823.0
+
+54,586.0
+
+59,921.0
+
+55,375.0
+
+67,340.0
+
+Debt
+
+855,396.4
+
+750,692.1
+
+650,320.9
+
+572,557.6
+
+424,288.9
+
+Equity
+
+394,059.0
+
+385,561.0
+
+356,203.0
+
+339,507.8
+
+332,536.0
+
+EBITDA margin (%)
+
+51.2
+
+51.2
+
+49.7
+
+52.0
+
+52.5
+
+Return on capital (%)
+
+7.0
+
+7.2
+
+7.3
+
+7.6
+
+8.2
+
+EBITDA interest coverage (x)
+
+5.3
+
+5.3
+
+5.6
+
+6.0
+
+6.8
+
+FFO cash interest coverage (x)
+
+4.8
+
+4.8
+
+4.8
+
+5.2
+
+5.2
+
+Debt/EBITDA (x)
+
+5.3
+
+5.1
+
+4.9
+
+4.8
+
+4.0
+
+13.2
+
+13.9
+
+13.9
+
+14.4
+
+15.5
+
+Adjusted ratios
+
+FFO/debt (%)
+Cash flow from operations/debt (%)
+
+15.0
+
+15.4
+
+15.9
+
+15.3
+
+23.1
+
+Free operating cash flow/debt (%)
+
+(9.4)
+
+(9.6)
+
+(9.0)
+
+(18.7)
+
+(19.7)
+
+Discretionary cash flow/debt (%)
+
+(10.4)
+
+(10.5)
+
+(9.8)
+
+(20.6)
+
+(20.9)
+
+FFO--Funds from operations. *Fiscal years end Feb. 28 of the following year.
+
+Covenant Analysis
+AEON Mall's debt does not contain material covenants that would have a major impact on its financial activities.
+
+Group Influence
+The 'a-' SACP for AEON Mall exceeds the 'bbb' GCP for AEON group. Our long-term issuer credit rating on AEON
+Mall is 'BBB' because we do not believe our rating on AEON Mall can exceed the GCP for AEON group. We base this
+view on our assessment that AEON Mall is a highly strategic subsidiary of AEON group that is integral to the group's
+strategy and operations. As such, it is highly probable that AEON Mall would extend financial support to the parent
+company, which has lower credit quality, if needed.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 6
+
+AEON Mall Co. Ltd.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Strong
+
+• Country risk: Low
+• Industry risk: Low
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Satisfactory (no impact)
+• Comparable rating analysis: Negative (-1 notch)
+Stand-alone credit profile : a-
+
+• Group credit profile: bbb
+• Entity status within group: Highly strategic (-2 notches from SACP)
+
+Related Criteria
+• Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Key Credit Factors For The Real Estate Industry, Feb. 26, 2018
+• Methodology And Assumptions: Assigning Equity Content To Hybrid Capital Instruments Issued By Corporate
+Entities And Other Issuers Not Subject To Prudential Regulation, Jan. 16, 2018
+• Methodology For Linking Long-Term And Short-Term Ratings, April 7, 2017
+• Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers, Dec. 16, 2014
+• Key Credit Factors For The Retail And Restaurants Industry, Nov. 19, 2013
+• Methodology: Industry Risk, Nov. 19, 2013
+• Corporate Methodology, Nov. 19, 2013
+• Group Rating Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 7
+
+AEON Mall Co. Ltd.
+
+• Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• Criteria Clarification On Hybrid Capital Step-Ups, Call Options, And Replacement Provisions, Oct. 22, 2012
+• Methodology: Hybrid Capital Issue Features: Update On Dividend Stoppers, Look-Backs, And Pushers, Feb. 10,
+2010
+• Use Of CreditWatch And Outlooks, Sept. 14, 2009
+• Hybrid Capital Handbook: September 2008 Edition, Sept. 15, 2008
+• Feasibility Of Replacement Capital Covenants Under Japan's Legal Framework, July 3, 2007
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 26, 2019)*
+AEON Mall Co. Ltd.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Issuer Credit Ratings History
+25-Apr-2019
+
+BBB/Stable/--
+
+20-Jul-2016
+
+BBB+/Negative/--
+
+09-Sep-2015
+
+BBB+/Stable/--
+
+03-Apr-2015
+
+BBB+/Negative/--
+
+Related Entities
+AEON Co. Ltd.
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Senior Unsecured
+
+BBB-
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 26, 2019 9
+
+

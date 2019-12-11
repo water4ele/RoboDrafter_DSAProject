@@ -1,0 +1,493 @@
+BrightView Landscapes LLC
+Primary Credit Analyst:
+Bam Fakorede, New York + 1(212)438-1283; bam.fakorede@spglobal.com
+Secondary Contact:
+Tatiana Kleiman, New York (1) 212-438-4872; tatiana.kleiman@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenants
+Issue Ratings – Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 1
+
+BrightView Landscapes LLC
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b+
+
+b+
+
+b+
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+B+/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Largest provider of lawn and landscape services in North America.
+
+Subject to volatile weather conditions and cyclical end-markets.
+
+Recurring revenue stream with good retention rates.
+
+Operation in a rising cost environment with respect to employee
+wages and material costs.
+
+Demonstrated ability to manage costs and profitability despite high labor
+and material inflation costs.
+
+Releveraging risk from financial sponsor ownership.
+Limited scope of services and geographic diversity.
+
+The variable nature of weather patterns can create swings in profitability, though recent acquisitions have helped offset
+headwinds from weather, managed exits, and contract completions. Revenues and earnings generated from
+higher-margin snow removal services and other ancillary offerings vary based on snow and rainfall volumes, leaving
+BrightView Landscapes LLC exposed to volatile weather patterns. As an example, year-over-year revenues declined
+5% in the first quarter of 2019 due to lower snowfall, weather delays, and lack of hurricane cleanup projects. This year
+has also been affected by unusually high rainfall, which caused delays and overtime-related cost pressure in the
+maintenance segment that led to about 70 basis points in margin shortfall in the third quarter of 2019.
+We expect the remainder of 2019 to improve as BrightView enters its green season, begins to implement new
+development projects, and continues to make tuck-in acquisitions. We expect acquisition-based expansion to remain a
+key growth component for the foreseeable future, especially as BrightView embarks on its penetration of the highly
+profitable tree care business.
+A focus on productivity, operating efficiency, and flexibility to increase prices enables BrightView to maintain steady
+margins in light of rising labor and input costs. Cost pressures on labor-intensive service companies are affected by low
+unemployment, a tightening labor pool, and rising wages. BrightView has traditionally utilized H-2B visa employees
+who tend to be much more efficient and productive, but its ability to gain access to these skilled foreign employees is
+hindered by tightening immigration policies. This forces BrightView to make up the shortfall by hiring outside the H-2B
+program at higher wages. However, in the third quarter of 2019, the company received a favorable allocation of H-2B
+visas relative to 2018, which should help to manage costs, reduce turnover, and improve productivity.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 2
+
+BrightView Landscapes LLC
+
+The company has partially offset its rising cost profile with contract repricing, employee turnover and productivity
+initiatives, and sales team reorganization. BrightView's ability to manage its costs will be important in sustaining a
+competitive position. We believe BrightView is well positioned to maintain margin stability over the next year due to
+price increases, new business wins, acquisition contributions, and productivity savings.
+
+Outlook
+
+The stable outlook on BrightView reflects our expectation for continued positive operating performance over the
+next 12 months as acquisition contribution and cost-improvement initiatives offset top-line pressure from its
+managed contract exits and snowfall volatility.
+
+Downside scenario
+We could lower the ratings if heightened competitive pressures or operational inefficiencies stemming from sharp
+increases in labor and input costs result in service quality declines and client attrition, such that leverage increases
+to and is sustained above 5x. We could also lower the ratings if BrightView undertakes debt-funded shareholder
+rewards that could be influenced by the controlling owners.
+
+Upside scenario
+We could consider an upgrade if we believe leverage will remain below 4x, most likely as a combination of debt
+prepayment, acquisition contributions, and cost-reduction initiatives. This would also be contingent upon the
+reduction in private equity sponsor ownership to below 40% over the medium term.
+
+Our Base-Case Scenario
+We expect debt to EBITDA in the low-4x area, free operating cash flow (FOCF) to debt around 8x-9x, and EBITDA
+interest coverage around 4x through fiscal 2019 (ending Sept. 30, 2019). Over the past few years, BrightView focused
+on eliminating unprofitable accounts through its managed exit initiative, decentralized its sales force to better focus on
+clients, and executed several cost-management practices including electronic time capture for staff. We expect these
+initiatives will translate to margin expansion and subsequent EBITDA-based deleveraging. Over the long term,
+increased penetration of the higher-margin tree management business could also help combat margin pressure.
+Risks to our forecast include rapidly increasing material or labor costs that could reduce cash flow or the inability to
+successfully integrate acquisitions.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 3
+
+BrightView Landscapes LLC
+
+Assumptions
+
+Key Metrics
+
+• U.S. GDP growth of 2.5% in 2019 and 1.8% in 2020.
+• Revenue growth remaining in the low-single-digit
+percentage area through 2020 as acquisition
+contributions, price increases, and new contract
+wins offset revenue loss from managed exits.
+• Adjusted EBITDA margins remaining in the
+low-teen percentage area through 2020 as
+BrightView manages through an elevated cost
+environment by focusing on expense-reduction
+initiatives, price increases, acquisition contributions,
+and the strategic exit of unprofitable businesses.
+
+2018A 2019P 2020E
+FFO/debt (%)
+Debt/EBITDA (x)
+EBITDA margin (%)
+
+15.1
+
+16-18
+
+17-20
+
+4.3
+
+4–4.5
+
+4-4
+
+12.9
+
+12-14
+
+12-14
+
+A--Actual. P--Projected. E--Estimate. FFO--Funds from
+operations.
+
+• Moderate working capital usage.
+• Annual capital expenditure (capex) of about 3% of
+revenue.
+• Continued tuck-in acquisitions.
+
+Company Description
+BrightView is the largest provider of landscape maintenance and snow removal services in the U.S. Though publicly
+listed, the company remains under the control of private equity sponsor KKR, which owns 55.7% of the company.
+BrightView caters largely to the commercial sector through its two main segments, maintenance services and
+landscape development services. Maintenance services include landscaping, snow removal, golf course maintenance,
+and franchising for small, local landscape providers. Development services include architecture and design, planting
+trees, shrubs, turf, and flowers, and building and installing retaining walls, water features, and irrigation systems.
+
+Business Risk
+Despite its scale and market position as the largest U.S. provider of commercial lawn and landscape services,
+BrightView's market share is less than 5%. BrightView's exposure to highly cyclical housing and commercial real estate
+development end markets, as well as its reliance on weather patterns, introduce uncertainty and operating
+performance volatility.
+The industry is very competitive and fragmented, exposing the company to price sensitivity despite its scale and
+national reach. Customer service is a key differentiator and retention, consistently in the mid-80% area, is good given
+the significant level of price-based attrition.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 4
+
+BrightView Landscapes LLC
+
+Financial Risk
+We expect leverage to remain in the mid- to low-4x area over the next year due to earnings expansion from cost
+savings benefits and acquisition contribution. We anticipate FOCF generation to improve over the next year based on
+earnings expansion and lower capital expenditure (capex) needs. However, our assessment is constrained by its
+continued ownership by a financial sponsor.
+
+Liquidity
+Good cash flow generation, cash balances, and manageable debt amortization support our assessment of BrightView's
+liquidity as adequate. Our assessment includes our expectation for sources to exceed uses by 1.2x or more over the
+next 12 months, and to remain positive even if EBITDA declines by 15%. We believe BrightView has sound
+relationships with banks given its track record of accessing the debt markets and generally satisfactory standing in
+credit markets. However, the company might not absorb high-impact, low-probability events such as prolonged
+adverse weather conditions without additional financing. We assess risk management as generally prudent.
+Principal liquidity sources
+
+Principal liquidity uses
+
+• $10.9 million cash balance as of June 30, 2019;
+
+• Working capital requirement of about $20 million;
+
+• Availability of $184 million under its $260 million
+revolving credit facility due in 2023; and
+
+• Capex around $70 million-$75 million; and
+
+• $45 million availability under the accounts
+receivable facility due in 2022.
+
+• Modest term loan amortization of about $10.4
+million annually.
+
+Covenants
+The credit agreement is governed by a springing first-lien net leverage covenant of 6.5x that becomes effective when
+revolver utilization exceeds 30% of the commitment (or $78 million). We do not expect this covenant to be triggered
+over the next 12 months as we anticipate that the revolver will remain undrawn.
+
+Issue Ratings – Recovery Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 5
+
+BrightView Landscapes LLC
+
+Key analytical factors
+
+• Our simulated default scenario contemplates a default from customer attrition, competitive pressures, higher
+fuel and labor costs, and weakness in the economy.
+• We believe if BrightView were to default, a viable business model would continue given its market position,
+long-standing customer relationships, well developed infrastructure, and diversified geographic footprint in the
+U.S. Therefore, in evaluating recovery prospects for debtholders, we use an enterprise value methodology with a
+5.5x multiple for calculating our projected emergence EV.
+
+Simulated default assumptions
+
+Simplified waterfall
+
+• Simulated year of default: 2023
+
+• Net enterprise value (after 5% administrative costs):
+$1.064 billion
+
+• EBITDA at emergence: ~$204 million
+• EBITDA multiple: 5.5x
+
+• Priority claims: ~$153 million
+• Collateral value available to secured creditors:
+~$911 million
+• Secured first-lien debt claims: $1.244 billion
+• --Recovery expectations: 70%-90% (rounded
+estimate: 70%)
+All debt amounts include six months of prepetition
+interest.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B+/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b+
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 6
+
+BrightView Landscapes LLC
+
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-5 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 12, 2019)*
+BrightView Landscapes LLC
+Issuer Credit Rating
+
+B+/Stable/--
+
+Senior Secured
+
+BB-
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 7
+
+BrightView Landscapes LLC
+
+Ratings Detail (As Of September 12, 2019)*(cont.)
+Issuer Credit Ratings History
+11-Jul-2018
+
+B+/Stable/--
+
+03-Dec-2013
+
+B/Stable/--
+
+24-Jan-2007
+
+NR/--/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 12, 2019 9
+
+

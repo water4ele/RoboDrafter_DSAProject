@@ -1,0 +1,525 @@
+Appvion Operations Inc.
+Primary Credit Analyst:
+Maurice S Austin, New York (1) 212-438-2077; maurice.austin@spglobal.com
+Secondary Contact:
+William R Mack, CFA, Centennial + 1 (303) 721 4821; william.mack@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 1
+
+Appvion Operations Inc.
+Business Risk: VULNERABLE
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+b
+
+Financial Risk: AGGRESSIVE
+Highly leveraged
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Low level of absolute debt with no near-term maturities.
+
+Carbonless paper market is in secular decline.
+
+Leading share of North American thermal papers market.
+
+Volatile input costs can affect profitability.
+
+Free cash flow generation allows some financial flexibility.
+
+Customer concentration.
+Below-average profitability, relative to rated peers.
+
+The carbonless paper segment is in secular decline and represents a smaller allocation of total sales. The company
+believes the North American carbonless paper market declined by approximately 3% to 5% annually since 2015. We
+assume the decline will continue at historical rates over the next several years. In addition to the decline in the North
+American market, the company believes the global market is also in decline, with demand declining at approximately
+2% to 5% per year. With the carbonless paper market in secular decline, the segment as a percentage of total sales
+declined to 35% of total sales in 2018 from 41% in 2016. We expect this trend to continue, reaching about 30% in
+2019.
+We believe there is some customer concentration that could negatively affect operations. Sales to the company's largest
+customer accounted for about 12% of net sales in 2018. The five largest customers in the carbonless paper segment
+accounted for about 38% of 2018 carbonless paper net sales. The five largest customers in the thermal paper segment
+accounted for about 57% of 2018 thermal paper net sales. The negative impact of customer concentration was in the
+fourth quarter of fiscal 2018, when the loss of a major customer in the thermal paper segment resulted in a 17% decline
+in shipment volumes. The negative impact was compounded by other customers reducing their inventory levels. We
+expect this to continue to affect volumes in 2019, with a decline of about 5% in thermal paper volumes.
+Appvion has about $10 million in annual financial obligations with no near-term maturities. The company's
+post-emergence capital structure consists of a $105 million term loan due 2026, with $85 million currently outstanding,
+and an $80 million revolver expiring in 2023. This is a capital structure we believe is more manageable than the
+pre-bankruptcy capital structure consisting of about $550 million of adjusted debt. We expect fixed charges to be about
+$10 million annually, with the nearest debt maturity amount of about $85 million due in 2026.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 2
+
+Appvion Operations Inc.
+
+Outlook: Stable
+
+The stable outlook reflects leverage remaining in the 3x-3.5x area over the next year due to slightly lower debt
+levels and steady EBITDA levels in the $40 million area, as cost-cutting initiatives offset lower sales.
+
+Downside scenario
+We could lower the rating over the next 12 months if gross margins declined in excess of 100 basis points (bps),
+resulting in debt to EBITDA exceeding 4x and approaching 5x, or if EBITDA interest coverage were sustained
+below 3x. This margin degradation could occur if the cost initiatives the company is implementing failed to offset
+unexpectedly higher input costs or if commodity input costs spiked for a sustained period. We could also
+downgrade the company if its owners altered the current financial policy, resulting in increased debt leverage to
+finance shareholder returns or acquisitions.
+
+Upside scenario
+We believe an upgrade is unlikely within the next 12 months given that 35% of the company's business is in secular
+decline. However, if debt to EBITDA falls and is sustained below 2x and EBITDA interest coverage approaches
+10x, we could raise the rating. This could occur if paper demand and pricing materially outperform our forecast
+such that EBITDA exceeds our expectations by at least 65%. We believe such a scenario could indicate sustainably
+better profitability from improved market fundamentals.
+
+Our Base-Case Scenario
+Assumptions
+
+Key Metrics
+
+• U.S. Real GDP expected to grow at 2.5% in 2019 &
+1.8% in 2020.
+
+2018e 2019e 2020f
+EBITDA (Mil. $)
+
+• Consumer spending of 2.5% and 2% in 2019 and
+2020 respectively.
+• Core Consumer Price Index of 2.1% and 2.2% in
+2019 and 2020, respectively.
+
+37.1
+
+35-40
+
+37-42
+
+Debt to EBITDA (x)
+
+3.9
+
+3.3
+
+3.3
+
+Interest coverage (x)
+
+1.5
+
+4.3
+
+4.6
+
+a--Actual. e--Estimate. f--Forecast.
+
+• No dividends or acquisitions.
+
+Base-case projections
+We expect full year 2019 total revenues to fall by almost 13% to about $640 million. We expect full year 2019
+shipments of carbonless paper to fall by 25% because the company is facing lower demand for carbonless paper, which
+is in secular decline due to greater use of competing technologies. We expect shipments of thermal paper to decline
+about 5% due to the loss of a major customer in the fourth quarter of 2018 and customers reducing their inventory. In
+addition, we expect a 0.5% decline in prices for both segments as a result of pricing pressure expectations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 3
+
+Appvion Operations Inc.
+
+We assume adjusted gross margin will improve by 180 bps year over year. We believe improved cost control
+efficiencies and lower average costs will lead to stronger margins because we expect gross margins at the end of the
+year to be in the 13% area, up from 11% in 2018.
+We expect the company to generate positive free operating cash flow this year. Last year, Appvion generated negative
+free cash flow in the $20 million area. This year, we expect the company to generate about $16 million in free
+operating cash flow primarily due to lower interest expense from its new capital structure that should enable the
+company to generate net income this year and next.
+
+Company Description
+Appvion is a manufacturer of high value-added coated and specialty paper products, including carbonless, thermal,
+and security papers. Carbonless papers are used as multipart forms, such as invoices and purchase orders; thermal
+papers include point-of-sale products for retail receipts and coupons and security papers use features that resist
+forgery, tampering, and counterfeiting, including checks, visas, automobile titles, and birth certificates.
+
+Business Risk: Vulnerable
+Our assessment of Appvion's business risk reflects its participation in the mature carbonless paper market, which is
+facing structural decline in demand; customer concentration; partial vertical integration; and below-average
+profitability relative to our rated paper and forest product companies.
+The carbonless paper market in North America and worldwide is in decline due to continued wholesale migration to
+digital laser, inkjet, and thermal printers and electronic communications. Carbonless papers are infused with dye and
+transfer writing onto copies. The company believes the North American carbonless paper market has declined by
+approximately 3% to 5% annually since 2015. We assume the decline will continue at historical rates over the next
+several years, taking into account that the vast majority of the migration has already taken place. Still, Appvion
+continues to have a leading market share in small, niche markets facing technological displacement. The company is
+the global leader with the broadest product line in its carbonless paper segment. It has a 45%-55% share of the North
+American market and about a 15% share of the global market. Nonetheless, with the segment in secular decline, the
+company has limited pricing power and declining volumes. Appvion, however, also has a leading position in the more
+favorable thermal paper market, which we believe is growing at an average of about 1% per year. Appvion represents
+over 50% of the North American market for thermal papers, but less than 10% of the global market.
+Appvion's business is partially vertically integrated. As such, it is exposed to price fluctuations in the base stock paper,
+chemicals, and pulp that are its raw materials. Base stock and chemicals are its biggest cost component. The company
+relies on external sources for most of its base stock as it produces about 45% of its base stock needs in-house and is
+vulnerable to fiber and chemical cost increases that it may not be able to pass on to its customers. However, the
+company has recently been successful in obtaining price increases to partially offset raw material inflation and improve
+profitability in the first half of the year. Still, we assess Appvion's profitability, based on its EBITDA margin, as below
+average, because its five-year average for EBITDA margins of about 6.5% is below the 11% threshold we consider
+average for our rated paper and forest product companies.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 4
+
+Appvion Operations Inc.
+
+Financial Risk: Aggressive
+Our assessment of Appvion's financial risk reflects our expectations for an improvement in free operating cash flows
+and the financial flexibility that it brings. Before its bankruptcy, the company incurred interest expense in the $45
+million area annually based on its capital structure. This contributed to the company being unable to generate any
+positive free cash flows. The company's post-emergence capital structure consists of a $105 million term loan and an
+$80 million revolver that had about $85 million and about $15 million outstanding, respectively, as of June 2019. We
+now expect interest expense to be less than $10 million annually and the company to be free cash flow positive
+because it has modest capital spending requirements.
+We do expect EBITDA to improve slightly this year to about $40 million. However, we expect 2020 EBITDA to remain
+similar to our expectation for this year. Consequently, debt to EBITDA should remain in the 3.5x area this year and
+next and EBITDA interest coverage should be about 4.5x during the same period.
+
+Liquidity: Adequate
+In our opinion, Appvion maintains adequate liquidity, based on our expectation that sources of liquidity will exceed
+uses by 2.7x or more over the next year and that liquidity sources less uses would remain positive even if forecast
+EBITDA declines by 15%. We believe that Appvion's liquidity measures are offset by qualitative factors like its ability
+to withstand severe or substantially adverse market circumstances while preserving sufficient liquidity.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and liquid investments of about $2 million as of
+June 2019.
+
+• Capital expenditures of $10 million annually.
+
+• About $58 million of availability under its $80
+million asset-based lending (ABL) expiring in 2023,
+after taking effect of $3.4 million letters of credit
+issued.
+
+• Debt amortization of $1.05 million annually.
+• Working capital outflows of $500,000 over next 12
+months.
+
+• Funds from operations of about $25 million over the
+next 12 months.
+
+Debt maturities
+The company's $105 million senior secured first-lien term loan due June 13, 2026, has $85.8 million is outstanding as
+of June 2019.
+
+Covenant Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 5
+
+Appvion Operations Inc.
+
+Compliance expectations
+Over the next year, we do not expect the covenants to spring into effect.
+
+Requirements
+The ABL has a springing fixed-charge coverage ratio covenant of 1x, tested monthly, if excess availability is less than
+the greater of (1) the lesser of (a) 10% of the borrowing base and (b) 10% of the facility and (2) $6.5 million.
+The term loan has no financial maintenance covenants.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• The company's $105 million senior secured first-lien term loan due 2026 is rated 'B+'. The recovery rating is '2',
+indicating our expectation for substantial (70%-90%; rounded estimate: 75%) recovery for lenders in the event of
+default.
+• In addition to the term loan, Appvion has an $80 million revolving credit facility (unrated) expiring in 2023.
+• Our simulated default scenario assumes a payment default in 2022, primarily reflecting a combination of a severe
+decline in volume and prices, higher raw material costs, and greater competition in value-added coated and
+specialty paper products.
+• We applied an assumed distressed emergence EBITDA of $28 million against a 5x multiple to estimate gross
+recovery value of about $140 million.
+• The 5x multiple used in determining the default scenario and recovery value in a default scenario for Appvion is
+consistent and in line with that of the multiple we use across all rated forest and paper product peers.
+• We assume 85% of the $80 million revolving credit facility is drawn at the time of default.
+
+Simulated default assumptions
+• Year of default: 2022
+• EBITDA at emergence: $28 million
+• Implied enterprise value multiple: 5x
+
+Simplified waterfall
+• Gross enterprise value at default: $140 million
+• Administrative costs: 5%
+• Net enterprise value: $133 million
+• Priority claims: $50 million
+• Net value available to creditors: $83 million
+-----------------------------------------------------• First-lien debt: $107 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 6
+
+Appvion Operations Inc.
+
+• --Recovery expectation: 70%-90%: 75%
+Note: All debt amounts include six months of prepetition interest accrued.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Vulnerable
+
+• Country risk: Very low
+• Industry risk: Moderately high
+• Competitive position: Vulnerable
+Financial risk: Aggressive
+
+• Cash flow/Leverage: Aggressive
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Guidance | Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria | Corporates | General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Forest And Paper Products Industry, Feb. 12, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 7
+
+Appvion Operations Inc.
+
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 23, 2019)*
+Appvion Operations Inc.
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B+
+
+Issuer Credit Ratings History
+27-Aug-2018
+
+B/Stable/--
+
+02-Oct-2017
+
+D/--/--
+
+30-Aug-2017
+
+CCC/Watch Dev/--
+
+24-Aug-2016
+
+B-/Stable/--
+
+02-Dec-2014
+
+B/Negative/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 8
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 9
+
+

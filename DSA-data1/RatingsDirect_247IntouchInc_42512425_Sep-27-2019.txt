@@ -1,0 +1,521 @@
+24-7 Intouch Inc
+Primary Credit Analyst:
+Alessio Di Francesco, CFA, Toronto (1) 416-507-2573; alessio.di.francesco@spglobal.com
+Secondary Contacts:
+Jarrett Bilous, Toronto (1) 416-507-2593; jarrett.bilous@spglobal.com
+Nicole Jiang, Toronto + 1 (416) 507 3228; nicole.jiang@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Issue Ratings - Recovery Analysis
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 1
+
+24-7 Intouch Inc
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b
+
+b
+
+b
+
+B/Stable/--
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key strengths
+
+Key risks
+
+Higher-than-average growth rate given exposure to fast-growing
+verticals
+
+Small scale and modest operating breadth in the highly fragmented and
+competitive consumer care outsourcing market
+
+Above-average profitability that we assume will improve
+modestly
+
+High customer concentration increases the risk of lower earnings associated
+with loss of key clients
+
+Financial flexibility to fund growth initiatives beyond
+maintenance capital expenditures
+
+Private equity owners could adopt more aggressive financial policies leading to
+higher leverage
+
+We expect strong organic growth and above-industry profitability over the next couple of years.24-7 Intouch Inc.'s
+revenue grew by about 25% in 2018, stemming from new client wins and continued growth of the company's existing
+clients. S&P Global Ratings expects the company's growth momentum to continue over the next couple of years in the
+low double-digit area while maintaining relatively flat adjusted EBITDA margins that we consider above average
+compared with competitors in the consumer care outsourcing (CCO) market.
+Credit measures are trending slightly better than previously expected, but remain appropriate for the current rating.We
+forecast adjusted debt-to-EBITDA to be in the low-5x area through 2020, because of strong organic revenue growth,
+stable profitability, and scheduled debt amortization. We believe the company's ownership precludes any meaningful
+deleveraging below 5x based on our view that financial sponsors tend to follow aggressive financial strategies to
+maximize shareholder returns.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 2
+
+24-7 Intouch Inc
+
+Outlook: Stable
+
+The stable outlook reflects our expectation that 24-7 Intouch's earnings and cash flows should improve over the
+next couple of years, with adjusted debt-to-EBITDA in the low-5x area and adjusted free operating cash flow
+(FOCF)-to-debt approaching 5%. This incorporates our assumption of strong organic revenue growth on higher
+volumes from new and existing clients, while maintaining relatively stable adjusted EBITDA margins.
+
+Downside scenario
+We could lower the ratings over the next 12 months if adjusted debt-to-EBITDA increases above 7x or if EBITDA
+interest coverage falls below 2x. We believe this could occur from the loss of a key client or program,
+weaker-than-expected demand for 24-7 Intouch's services, or competitive pressure that contributes to weaker
+EBITDA and profitability. This could also occur if growth slows and the company makes an acquisition of more
+than US$200 million funded entirely with debt.
+
+Upside scenario
+An upgrade is unlikely within the next 12 months given the company's limited scale as well as the high
+fragmentation and low barriers to entry that characterize the consumer care outsourcing market. That said, we
+could consider an upgrade within the next 12 months if leverage decreases to less than 5x and the company
+demonstrates a commitment to a more conservative capital structure such that we believe there is a low risk of
+leverage returning above 5x.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 3
+
+24-7 Intouch Inc
+
+Assumptions
+
+• Strong organic revenue growth of about 15% in 2019
+and 10% in 2020 thanks to rapid growth of existing
+clients and the addition of new clients
+• U.S. consumer spending to be up 2.5% in 2019 and
+1.8% in 2020
+• Adjusted EBITDA margins to remain relatively flat
+from 2018 levels
+• The average value of the Canadian dollar to be
+relatively flat against the U.S. dollar
+
+Key Metrics
+
+Fiscal 2019E Fiscal 2020E
+EBITDA (mil. C$)
+Debt-to-EBITDA (x)
+FOCF-to-debt (%)
+EBITDA-to-interest (x)
+
+70-75
+
+75-80
+
+5.0-5.5
+
+5.0-5.5
+
+0-2
+
+3-5
+
+2.0-2.5
+
+About 2.5
+
+Note: Figures include S&P Global Ratings' adjustments.
+E--Estimate. FFO--Funds from operations. FOCF--Free
+operating cash flow.
+
+• Annual capital expenditures of US$25
+million–US$30 million in 2019 and US$20
+million–US$25 million thereafter; we assume less
+than about US$5 million is for maintenance while
+the rest is primarily to fund growth
+• No shareholder distributions or acquisitions
+
+Company Description
+Based in Winnipeg, Man., 24-7 Intouch provides technology-enabled, omni-channel, outsourced customer care to
+fast-growing verticals that include home sharing, vehicle sharing, digital media, e-commerce, and food couriers. The
+company operates 15 service facilities with four in Canada, six in the U.S., one in Guatemala, two in Jamaica, and two
+in the Philippines.
+
+Business Risk: Weak
+We view 24-7 Intouch as a small player in the global CCO market, which we consider highly fragmented and
+competitive with low barriers to entry given the industry's low capital intensity. Compared to its global peers, 24-7
+Intouch has relatively narrow service offering and language capabilities, higher customer concentration with its top
+three clients representing approximately 40% of its revenue, and a shorter average age of customer relationships (we
+estimate less than five years). In our opinion, this customer concentration increases the risk of lower earnings
+associated with the loss of one or more key clients, but should moderate over time as the company continues to add
+new clients.
+The company differentiates itself from larger competitors by focusing on high quality, complex, and emotional
+communications with its clients' customers. 24-7 Intouch has developed a workplace culture that resembles that of its
+clients operating in emerging technologies, which fosters a strong brand association these clients value. In addition,
+most of the company's clients operate in high growth verticals and focus more on brand and customer satisfaction.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 4
+
+24-7 Intouch Inc
+
+24-7 Intouch also demonstrated an ability to quickly ramp up capacity to meet client demands without meaningful
+operating disruptions. In our view, these characteristics should contribute to solid organic revenue growth that exceeds
+that of the company's peers owing to new client wins and continued growth of existing clients. We also expect the
+company to maintain relatively flat adjusted EBITDA margins, which we consider to be at the higher end of 24-7
+Intouch's peer group. We expect the company to accomplish this through adequate cost controls and disciplined
+pricing.
+
+Peer comparison
+We expect 24-7 Intouch to generate less than US$500 million of annual revenue, making it significantly smaller than
+most of its rated competitors, including Teleperformance SE, Convergys Corp., and Alorica Inc., each of which
+generate well over US$2 billion of annual revenue. Our lower rating on 24-7 Intouch compared to Teleperformance
+(BBB-/Stable/--) and Convergys (BB+/Stable/--) is primarily a function of our view of the company's relatively small
+scale and narrow service offering, shorter average age of customer relationships, and higher debt leverage. When
+compared to Alorica (B/Negative/--), we believe 24-7 Intouch has a stronger credit risk profile due in large part to the
+company's stronger operating performance and growth prospects.
+
+Financial Risk: Highly leveraged
+Our financial risk profile on the company reflects our expectation for adjusted debt-to-EBITDA in the low 5x area and
+adjusted funds from operations (FFO)-to-debt of about 10% through 2020. Our forecast incorporates our view that
+strong organic growth prospects and steady profitability should contribute to positive FOCF to facilitate modest debt
+reduction over the next couple of years. We believe the company has considerable financial flexibility to fund growth
+initiatives beyond its maintenance capital expenditures that we estimate to be 1.0%-1.5% of revenue and a highly
+variable cost structure that should provide some downside protection if growth slows. Furthermore, we expect
+adjusted EBITDA interest coverage to be 2.0x-2.5x through 2020 as EBITDA growth offsets higher financing costs
+associated with rising interest rates next year. All of the company's proposed debt is based on a variable interest rate.
+The financial risk profile also incorporates 24-7 Intouch's private equity ownership. In our opinion, these owners tend
+to follow aggressive financial strategies to maximize shareholder returns, which should contribute to leverage
+remaining above 5x.
+
+Liquidity: Adequate
+The adequate liquidity assessment incorporates our expectation that the company will generate annual FFO of more
+than US$30 million and have near full availability under its US$45 million revolving credit facility with sound banking
+relationships. With relatively low capital expenditure requirements to operate the business and no meaningful debt
+maturities until 2025, we believe 24-7 Intouch can cover its uses of cash in the next 12 months by about 1.6x and
+remain above 1.0x in a stress scenario where our forecast EBITDA to declines by 15%-30%. Notwithstanding relatively
+strong sources of cash against uses over the next couples of years, we consider a stronger liquidity assessment as
+inappropriate at this time. This reflects our view that 24-7 Intouch lacks a high standing in credit markets and is
+unlikely able to absorb high-impact, low-probability adversities, even factoring in capital-spending cuts.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 5
+
+24-7 Intouch Inc
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Minimal cash on hand
+
+• Annual capital expenditures of US$25
+million–US$30 million in 2019 and US$20
+million–US$25 million thereafter; we assume less
+than US$5 million is for maintenance while the rest
+is primarily to fund growth
+
+• Near full availability under its US$45 million
+revolving credit facility due 2023
+• Annual FFO of about US$30 million
+
+• US$10 million of intrayear peak working capital
+investments
+• Nonseasonal working capital investment of less than
+US$10 million
+• Scheduled debt amortization of about US$2.5 million
+annually under the company's US$245 million
+first-lien term loan due 2025
+
+Debt maturities
+
+Covenant Analysis
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 6
+
+24-7 Intouch Inc
+
+Compliance expectations
+We expect the company to have sufficient covenant headroom under its financial covenants even in a stress scenario
+whereby EBITDA is 15%-30% lower or debt is 15%-25% higher than our forecast.
+
+Requirements
+24-7 Intouch must comply with certain restrictive covenants, under its first-lien revolving credit facilities, including a
+springing maximum first-lien net leverage ratio of 6.5x, which steps down to 5.5x at Dec. 31, 2020.
+
+Issue Ratings - Recovery Analysis
+Key analytical factors
+• Our '3' recovery rating and 'B' issue-level rating on 24-7 Intouch's first-lien secured term loan and revolving credit
+facility indicates our expectation for meaningful (50%-70%; rounded estimate: 65%) recovery in the event of default.
+• Our '6' recovery rating and 'CCC+' issue-level rating on the company's second-lien secured term loan indicates our
+expectation for negligible (0%-10%; rounded estimate: 0%) recovery in the event of default.
+• Our simulated default scenario contemplates a default in 2022, stemming from a decline in EBITDA that limits 24-7
+Intouch's ability to fund fixed charges and exhausts available liquidity. This could occur from customer loss or
+competitive pressures result in meaningfully weaker profitability.
+• Our recovery analysis assumes a reorganization value for the company of about US$210 million, reflecting
+emergence EBITDA of about US$38 million and a 5.5x multiple.
+• Our EBITDA at emergence estimate represents a significant deterioration from the current state of its business.
+• We assume that, in a hypothetical bankruptcy scenario, the company's US$45 million revolving credit facility is 85%
+drawn.
+
+Simulated default assumptions
+• Simulated year of default: 2022
+• EBITDA at emergence: US$38 million
+• EBITDA multiple: 5.5x
+
+Simplified waterfall
+• Net enterprise value (after 5% administrative costs): US$200 million
+• Valuation split in % (obligors/non-obligors): 100/0
+---------------------------------------------------------• Total value available to secured first-lien debt claims: US$200 million
+• Secured first-lien debt claims: US$286 million
+• --Recovery expectations: 50%-70% (rounded estimate: 65%)
+• Total value available to secured second-lien debt claims: 0
+• Secured second-lien debt claims: US$84 million
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 7
+
+24-7 Intouch Inc
+
+• --Recovery expectations: 0%-10% (rounded estimate: 0%)
+
+Ratings Score Snapshot
+Issuer Credit Rating
+B/Stable/--
+
+Business risk: Weak
+
+• Country risk: Very low
+• Industry risk: Intermediate
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+Anchor: b
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: FS-6 (no additional impact)
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Neutral (no impact)
+
+Related Criteria
+• General Criteria: Group Rating Methodology, July 1, 2019
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• Criteria - Corporates - General: Recovery Rating Criteria For Speculative-Grade Corporate Issuers, Dec. 7, 2016
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Criteria - Corporates - Industrials: Key Credit Factors For The Business And Consumer Services Industry, Nov. 19,
+2013
+• Methodology: Industry Risk, Nov. 19, 2013
+• Country Risk Assessment Methodology and Assumptions, Nov. 19, 2013
+• Corporate Methodology, Nov. 19, 2013
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 8
+
+24-7 Intouch Inc
+
+• Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers, Nov. 13, 2012
+• Use Of CreditWatch And Outlooks, Sept. 14, 2009
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 20, 2019)*
+24-7 Intouch Inc
+Issuer Credit Rating
+
+B/Stable/--
+
+Senior Secured
+
+B
+
+Senior Secured
+
+CCC+
+
+Issuer Credit Ratings History
+10-Aug-2018
+
+B/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 9
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 20, 2019 10
+
+

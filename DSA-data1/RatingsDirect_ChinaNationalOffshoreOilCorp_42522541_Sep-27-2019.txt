@@ -1,0 +1,1682 @@
+China National Offshore Oil Corp.
+Primary Credit Analyst:
+Danny Huang, Hong Kong (852) 2532-8078; danny.huang@spglobal.com
+Secondary Contact:
+Crystal Wong, Hong Kong (852) 2533-3504; crystal.wong@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Covenant Analysis
+Environmental, Social, And Governance
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 1
+
+Table Of Contents (cont.)
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 2
+
+China National Offshore Oil Corp.
+Business Risk: STRONG
+Vulnerable
+
+Excellent
+
+a
+
+a+
+
+a
+
+A+/Stable/--
+
+Financial Risk: MODEST
+Highly leveraged
+
+Issuer Credit Rating
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Dominant position in China's offshore E&P segment.
+
+Exposure to the cyclicality of the oil and gas industry.
+
+Increasingly diversified reserve base.
+
+Significant capital expenditure outlays.
+
+Satisfactory reserve life and good record of production growth.
+Leverage to remain low despite rising capex.
+Extremely high likelihood of extraordinary support from China's central government.
+
+Increasingly diversified reserve base and satisfactory reserve life continue to support its dominant position.We expect
+China National Offshore Oil Corp. (CNOOC) to maintain its dominant position in China's offshore oil and gas
+production. The company's core exploration and production (E&P) subsidiary, CNOOC Ltd., has a dominant offshore
+market position that is unlikely to be challenged. As of Dec. 31 2018, CNOOC Ltd. had proven reserves of 4.96 billion
+barrels of oil equivalent (boe). Its reserve life was 10.1 years and reserve replacement ratio (RRR) was 126% in 2018.
+CNOOC has also been developing its overseas projects. The Egina project in Nigeria started operations in January
+2019 with 200,000 boe per day peak production, in which CNOOC has a 45% interest. CNOOC also has 25% interest
+in Stabroek block in Guyana that has over 5 billion boe of recoverable resources at the end of 2018.
+Benefits from gradual integration along the value chain. CNOOC has both offshore upstream resources and also
+offshore oilfield services that provides a strategic match. The offshore services secure capabilities for its resources,
+while its resources ensure there is enough work for its oilfield services operations. The group is also gradually
+improving its vertical integration, which includes not only oilfield services, but also offshore engineering,
+petrochemicals, refining and marketing, and liquefied natural gas (LNG) operations. High integration results in more
+stable cash flow than pure upstream peers.
+Leverage to remain low despite an increase in capital spending. The Chinese government has called for higher capital
+expenditure (capex) by the three national oil companies (NOC) in domestic exploration and production (E&P) to
+increase oil and gas supply and reduce dependence on oil and gas imports, which had exceeded 70% and 40% of
+China's oil and gas consumption in 2018, respectively. We therefore expect CNOOC's capital expenditure to rise to
+Chinese renminbi (RMB) 100 billion per year in 2019-2021, from around RMB60 billion in 2018. Although we expect
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 3
+
+China National Offshore Oil Corp.
+
+CNOOC's discretionary cash flow will be negative in 2019-2021, its ratio of debt-to-EBITDA will only increase from
+1.0x in 2018 to 1.2x in 2021.
+Exposure to volatility of the oil and gas industry. CNOOC's profitability and cash flow are subject to the inherent
+volatility in the oil and gas industry. Given that most of the company's business is oil and gas upstream, we forecast its
+EBITDA to fall in 2019 and stay flat in 2020 based on our Brent oil price assumption of US$60 per barrel (bbl) for the
+rest of 2019 and 2020, versus US$71 per bbl in 2018.
+
+Outlook: Stable
+
+The stable outlook on CNOOC reflects the stable outlook on the sovereign credit rating on China. It also reflects
+our expectation that CNOOC will maintain its dominant position in China's offshore oil and gas E&P industry for
+the next 12-24 months, at least. Improving oil prices from the lows in 2015 and 2016 and the company's stringent
+cost control in the past few years have resulted in ample ratings buffer.
+
+Downside scenario
+We could lower the rating on CNOOC if the company's debt-to-EBITDA ratio rises above 2.5x for a sustained
+period. This could happen if oil prices drop significantly, CNOOC's operating expenses and capex surge, or the
+company pursues large debt-funded acquisitions.
+We could also lower the rating on CNOOC if we downgrade China.
+
+Upside scenario
+We could raise the rating on CNOOC if we upgrade China.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 4
+
+China National Offshore Oil Corp.
+
+Assumptions
+
+• Brent oil price to average US$60 per bbl for the rest
+of 2019 and 2020, and US$55 per bbl for 2021 and
+onwards, falling from US$71/bbl in 2018. This is
+based on slower demand growth and rising
+production especially in the U.S. However,
+continued OPEC production cuts and geopolitical
+events could support oil prices.
+
+Key Metrics
+
+Debt/EBITDA (x)
+
+2018A
+
+2019E
+
+2020E
+
+1.0x
+
+1.0x-1.2x
+
+1.0x-1.2x
+
+FFO/debt (%)*
+
+81.7% 72.0%-73.0% 71.0%-72.0%
+
+EBITDA margin (%)
+
+25.8% 24.0%-25.0% 24.0%-25.0%
+
+A--Actual. E--Estimate. FFO--Funds from operations.
+
+• Total oil and gas production for CNOOC's flagship
+subsidiary, CNOOC Ltd., to increase by 2% to 485
+million boe in 2019 and another 5% to 510 million
+boe in 2020, versus 1% growth in 2018. This is in
+response to the government's call for higher
+production. Our forecasts are at the mid-points of
+management's targets.
+• All-in cost for CNOOC Ltd to grow by 4% per
+annum in 2019-2020, as we believe the scope for
+further material and personnel cost cutting will be
+limited.
+• CNOOC's EBITDA margin to decline to
+24.5%-25.0% in 2019 and 2020 from 25.8% in 2018.
+• Capex of RMB100 billion per annum in 2019-2020,
+up from around RMB60 billion in 2018.
+• Annual working capital outflow of RMB 5 billion in
+2019 and 2020.
+• Dividend of RMB 22 billion per annum in 2019 and
+2020, same as 2018.
+
+Base-case projections
+CNOOC's revenue to decline by 9.6% in 2019 and 1.4% in 2020. The drop in revenue will be primarily driven by lower
+Brent oil prices, which we estimate will fall by 13.0% in 2019 and 4.0% in 2020.
+Capex will increase substantially. We expect CNOOC's annual capex to increase to RMB100 billion for the next two
+years from around RMB 60 billion in 2018. That's following the government's call for higher domestic E&P capex to lift
+domestic oil and gas production for energy security.
+Adjusted EBITDA margin to decrease to 24.5%-25.0% in 2019 and 2020, from 25.8% in 2018. The decrease in margin
+is based on our expectation of gradually softening oil prices and increasing operating costs.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 5
+
+China National Offshore Oil Corp.
+
+Company Description
+CNOOC, headquartered in Beijing, is the third-largest national oil company in China. The company is wholly owned by
+the Chinese government through the State-Owned Assets Supervision and Administration Commission (SASAC).
+CNOOC focuses on the exploration and development of crude oil and natural gas. It also has downstream operations,
+including refining, marketing, and chemicals. The group operates with four major listed subsidiaries: CNOOC Ltd.,
+China Oilfield Services Ltd. (COSL), China Offshore Oil Engineering Co. Ltd. (COOEC) and CNOOC Energy
+Technology & Services Ltd. (CNOOC EnerTech). CNOOC is the largest offshore oilfield services provider in China.
+Chart 1
+
+Business Risk: Strong
+We believe CNOOC will maintain its dominant position in China's offshore oil and gas production over the next 12-24
+months. CNOOC has an increasingly diverse reserve base, a satisfactory reserve life, and a strong record of success in
+exploration discoveries. Moreover, CNOOC is gradually improving its vertical integration, which includes oilfield
+services, offshore engineering, petrochemicals, refining and marketing, and liquefied natural gas (LNG) operations.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 6
+
+China National Offshore Oil Corp.
+
+CNOOC Ltd. continued to demonstrate its cost efficiency for the fifth consecutive year. Its all-in costs further declined
+to US$30.39/bbl in 2018 from US$32.54/bbl in 2017. But we believe the scope for further material and personnel
+cost-cutting will be limited, after the company exercised strong cost control in the past two to three years. We assume
+all-in costs to grow by 4% p.a. for CNOOC Ltd. in the next two years. Other listed subsidiaries of CNOOC also
+implemented effective cost-cutting measures to counter the industry downturn.
+Phase two of CNOOC and Shell Petrochemicals Co. Ltd. (CSPC), a 50:50 joint venture between and CNOOC and Shell,
+has commenced operations and added 1.2 million tonnes per annum (mtpa) to its existing 1.0 mtpa ethylene capacity.
+CSPC is highly integrated with the adjacent CNOOC's Huizhou refinery. CNOOC and Shell had also signed a
+memorandum of understanding in October 2018 to build an integrated petrochemical site in Huizhou. We see these
+moves as CNOOC's endeavors to expand in the downstream segment. The Huizhou plant benefits from its location in
+the affluent and high demand Guangdong province, and from its new equipment and technology.
+CNOOC has also tapped into the new energy segment. The latest move has seen its oilfield services subsidiary, COSL,
+obtaining the offshore wind projects of State Power Investment Corp. Ltd. This can leverage COSL's expertise in
+offshore oilfield services and benefit its drilling and geophysical segments. However we see this as a long-term
+initiative and do not expect significant cash flow contribution in the next five years.
+
+Peer comparison
+Table 1
+
+China National Offshore Oil Corp.--Peer Comparison
+Industry sector: Integrated oil and gas
+China National
+Offshore Oil Corp.
+
+China National
+Petroleum Corp.
+
+China Petroleum &
+Chemical Corp.
+
+Royal Dutch
+Shell PLC
+
+BP PLC
+
+--Fiscal year ended Dec. 31, 2018-(Mil. RMB)
+Revenue
+
+712,689.1
+
+2,739,011.0
+
+2,891,179.0
+
+2,671,206.2
+
+2,054,794.1
+
+EBITDA
+
+183,756.5
+
+458,412.5
+
+228,356.5
+
+450,476.4
+
+237,697.9
+
+Funds from operations
+(FFO)
+
+150,024.3
+
+352,305.7
+
+168,591.2
+
+343,109.8
+
+177,965.2
+
+Interest expense
+
+11,224.6
+
+25,676.8
+
+17,778.2
+
+41,105.6
+
+21,815.2
+
+Cash interest paid
+
+10,868.9
+
+23,699.8
+
+15,948.2
+
+34,736.7
+
+17,970.5
+
+Cash flow from operations
+
+148,523.5
+
+401,035.7
+
+189,819.3
+
+369,788.9
+
+171,451.9
+
+Capital expenditure
+
+57,393.0
+
+315,856.0
+
+103,014.0
+
+158,265.8
+
+114,908.0
+
+Free operating cash flow
+(FOCF)
+
+91,130.5
+
+85,179.7
+
+86,805.3
+
+211,523.1
+
+56,544.0
+
+Discretionary cash flow
+(DCF)
+
+68,743.2
+
+44,998.7
+
+5,306.3
+
+64,880.8
+
+6,858.5
+
+Cash and short-term
+investments
+
+199,828.0
+
+426,564.0
+
+192,747.0
+
+183,920.2
+
+145,246.1
+
+Debt
+
+183,555.7
+
+340,121.2
+
+204,777.8
+
+616,417.8
+
+513,981.7
+
+Equity
+
+731,873.3
+
+2,390,149.0
+
+856,535.0
+
+1,392,995.2
+
+698,430.3
+
+25.8
+
+16.7
+
+7.9
+
+16.9
+
+11.6
+
+Adjusted ratios
+EBITDA margin (%)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 7
+
+China National Offshore Oil Corp.
+
+Table 1
+
+China National Offshore Oil Corp.--Peer Comparison (cont.)
+Industry sector: Integrated oil and gas
+China National
+Offshore Oil Corp.
+
+China National
+Petroleum Corp.
+
+China Petroleum &
+Chemical Corp.
+
+Royal Dutch
+Shell PLC
+
+BP PLC
+
+Return on capital (%)
+
+12.8
+
+6.2
+
+11.6
+
+12.7
+
+11.8
+
+EBITDA interest coverage
+(x)
+
+16.4
+
+17.9
+
+12.8
+
+11.0
+
+10.9
+
+FFO cash interest
+coverage (x)
+
+14.8
+
+15.9
+
+11.6
+
+10.9
+
+10.9
+
+Debt/EBITDA (x)
+
+1.0
+
+0.7
+
+0.9
+
+1.4
+
+2.2
+
+FFO/debt (%)
+
+81.7
+
+103.6
+
+82.3
+
+55.7
+
+34.6
+
+Cash flow from
+operations/debt (%)
+
+80.9
+
+117.9
+
+92.7
+
+60.0
+
+33.4
+
+FOCF/debt (%)
+
+49.6
+
+25.0
+
+42.4
+
+34.3
+
+11.0
+
+DCF/debt (%)
+
+37.5
+
+13.2
+
+2.6
+
+10.5
+
+1.3
+
+RMB--Chinese renminbi.
+
+We have selected China National Petroleum Corp. (CNPC) and China Petroleum & Chemical Corp. (Sinopec) as
+CNOOC's domestic peers, and Royal Dutch Shell PLC (Shell) and BP PLC (BP) as its international peers. All these
+companies operate in the same industry and have similar business dynamics.
+CNPC, Shell, and BP have a stronger business position than CNOOC given their much larger oil and gas reserve base.
+They each have around 20 billion boe of oil and gas reserves while CNOOC Ltd. has 5 billion boe. In addition, they
+have a larger downstream operations than CNOOC. Although CNOOC has been expanding its downstream segments,
+it remains primarily an E&P player.
+CNOOC's financial position is at par with that of the other two Chinese national oil companies and Shell, and better
+than BP's. Most of the international oil companies have been cutting both capex and operating expenses aggressively
+during the 2015-16 oil price downturn. Among its peers, CNOOC has been more stringent and its all-in cost has
+decreased for the five consecutive years up to 2018. BP's financial position was constrained by the large sum it paid in
+compensation after the oil spill in its Macondo project in the Gulf of Mexico.
+All the three national oil companies--CNPC, Sinopec and CNOOC-- are government-related entities as they are 100%
+owned by the Chinese central government. BP and Shell are publicly traded private companies and do not receive
+government support. We assess that CNPC, Sinopec and CNOOC all have extremely high likelihood of receiving
+extraordinary government support. This is because oil and gas are strategic reserves of China and these three
+companies are the only national oil companies with a dominant position in the whole oil and gas value chain. Both
+CNOOC and Sinopec are receiving a one-notch uplift from government support, while CNPC's issuer credit rating is
+constrained by China's sovereign rating given its 'aa-' stand-alone credit profile.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 8
+
+China National Offshore Oil Corp.
+
+Financial Risk: Modest
+CNOOC's strong cash flows and robust balance sheet with a strong cash balance underpin its financial position.
+However, the company's high capex plan and the capital-intensive nature of the oil and gas industry are constraining
+CNOOC's financial risk profile, in our view.
+Despite increasing capex in 2019-2021, we expect CNOOC's free operating cash flow will remain positive. However as
+we expect the company to maintain its annual dividend payment of RMB22 billion p.a., we forecast CNOOC's
+discretionary cash flow will be negative in 2019-2021. Hence its leverage will rise during the period. However, we
+expect its ratio of debt-to-EBITDA will remain below 1.5x by 2021, way below our downside trigger of 2.5x.
+Due to the inherent volatility of the oil and gas industry and CNOOC's large exposure to E&P, we have applied a
+one-notch volatility adjustment in our assessment of the company's financial risk profile.
+We believe CNOOC's financial risk profile is at the higher end of the intermediate category, given the company's low
+debt-to-EBITDA ratio and very strong interest coverage. Therefore we applied a positive comparable rating analysis.
+
+Financial summary
+Table 2
+
+China National Offshore Oil Corp.--Financial Summary
+Industry sector: Integrated oil and gas
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+712,689.1
+
+548,133.8
+
+435,216.2
+
+423,209.3
+
+608,634.8
+
+EBITDA
+
+183,756.5
+
+154,680.4
+
+121,831.8
+
+142,419.7
+
+170,677.4
+
+Funds from operations (FFO)
+
+150,024.3
+
+122,916.3
+
+95,858.4
+
+105,947.5
+
+124,676.2
+
+11,224.6
+
+9,669.6
+
+10,101.5
+
+10,146.8
+
+5,409.7
+
+(Mil. RMB)
+
+Interest expense
+Cash interest paid
+
+10,868.9
+
+9,965.7
+
+9,839.2
+
+12,928.8
+
+5,409.7
+
+148,523.5
+
+114,163.4
+
+93,186.3
+
+101,439.2
+
+106,860.7
+
+Capital expenditure
+
+57,393.0
+
+62,896.2
+
+70,463.1
+
+82,870.1
+
+113,052.8
+
+Free operating cash flow (FOCF)
+
+91,130.5
+
+51,267.3
+
+22,723.2
+
+18,569.1
+
+(6,192.1)
+
+Discretionary cash flow (DCF)
+
+68,743.2
+
+33,368.5
+
+4,606.9
+
+(6,914.6)
+
+(29,097.0)
+
+Cash and short-term investments
+
+199,828.0
+
+74,120.3
+
+91,291.9
+
+90,909.4
+
+81,158.5
+
+Gross available cash
+
+199,828.0
+
+74,120.3
+
+91,291.9
+
+175,503.3
+
+151,294.8
+
+Debt
+
+183,555.7
+
+267,502.4
+
+273,031.3
+
+228,822.9
+
+200,772.0
+
+Equity
+
+731,873.3
+
+672,230.5
+
+675,008.7
+
+669,173.6
+
+641,700.9
+
+EBITDA margin (%)
+
+25.8
+
+28.2
+
+28.0
+
+33.7
+
+28.0
+
+Return on capital (%)
+
+12.8
+
+9.4
+
+4.9
+
+7.3
+
+14.8
+
+EBITDA interest coverage (x)
+
+16.4
+
+16.0
+
+12.1
+
+14.0
+
+31.6
+
+FFO cash interest coverage (x)
+
+14.8
+
+13.3
+
+10.7
+
+9.2
+
+24.0
+
+1.0
+
+1.7
+
+2.2
+
+1.6
+
+1.2
+
+Cash flow from operations
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 9
+
+China National Offshore Oil Corp.
+
+Table 2
+
+China National Offshore Oil Corp.--Financial Summary (cont.)
+Industry sector: Integrated oil and gas
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+FFO/debt (%)
+
+81.7
+
+45.9
+
+35.1
+
+46.3
+
+62.1
+
+Cash flow from operations/debt (%)
+
+80.9
+
+42.7
+
+34.1
+
+44.3
+
+53.2
+
+FOCF/debt (%)
+
+49.6
+
+19.2
+
+8.3
+
+8.1
+
+(3.1)
+
+DCF/debt (%)
+
+37.5
+
+12.5
+
+1.7
+
+(3.0)
+
+(14.5)
+
+RMB--Chinese renminbi.
+
+Liquidity: Strong
+We assess CNOOC Group's liquidity as strong because the ratio of liquidity sources to liquidity uses is 1.8x-2.0x for the
+24 months ending June 30, 2021. Net liquidity sources will remain positive even if EBITDA declines by 30% from our
+base-case assumption.
+CNOOC Group's operating cash flow will likely remain strong based on stringent cost control by CNOOC Ltd. In
+addition, CNOOC Group's cash levels have been rising in the past two to three years due to a scale-back in capex,
+leading to positive free cash flow.
+CNOOC Group's high standing in credit markets and solid relationships with banks also provide significant buffer in its
+financing capacity. As of June 30, 2019, CNOOC Ltd. has unutilized banking facilities of RMB50.7 billion.
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and equivalents of RMB221 billion as of June
+30, 2019.
+
+• Debt maturities of about RMB64 billion in the 12
+months ending June 30, 2020.
+
+• FFO of about RMB122 billion in the 12 months
+ending June 30, 2020.
+
+• Working capital outflow of RMB5 billion in the
+period.
+• Capex of RMB100 billion in the period.
+• Dividend payment of RMB22 billion in the same
+period.
+
+Debt maturities
+Table 3
+
+China National Offshore Oil Corp.--Debt Maturities*
+Period
+
+Amount (Mil. RMB)
+
+Before June 30, 2020
+
+64,146.4
+
+Beyond June 30, 2020
+
+197,352.6
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 10
+
+China National Offshore Oil Corp.
+
+Table 3
+
+China National Offshore Oil Corp.--Debt
+Maturities* (cont.)
+Period
+
+Amount (Mil. RMB)
+
+Total
+
+261,499.0
+
+*As of Dec. 31, 2018. RMB--Chinese renminbi.
+
+Covenant Analysis
+CNOOC does not have any major financial covenants in its bank loans and other borrowings.
+
+Environmental, Social, And Governance
+
+We consider environmental factors to be key for CNOOC as an oil and gas company. As one of the three national
+oil companies of China, CNOOC has to meet environmental protection targets set by the government. CNOOC
+considers ESG to be a high priority for its operations. All new projects have to go through environmental and social
+impact assessments. The company invested RMB350 million in emissions reduction projects in 2017. Emissions of
+major pollutants all fell in 2017 from a year earlier.
+CNOOC has experienced no major environmental issues in the past five years. The last major oil spill happened at
+its Penglai 19-3 oilfield in Bohai Bay in June 2011. ConocoPhillips (COP) was the operator of the field, and the
+reason for the oil spill was the COP violated the overall development plan. However, CNOOC paid RMB480
+million for the protection of Bohai Bay.
+CNOOC is also involved the offshore wind power industry. It began work on a project in Jiangsu Province in
+January 2019. We believe this initiative is still in the early stages and its impact on the company's creditworthiness
+will be limited in the next three to five years.
+
+Government Influence
+CNOOC is one of three wholly government-owned oil companies in China. Our view of an extremely high likelihood of
+extraordinary government support for the company is based on our assessment of the following factors:
+• CNOOC's critical role for the government. CNOOC is the dominant oil and gas exploration and production player in
+offshore China. The company plays a key role in helping the government ensure a secure supply of energy to meet
+growing domestic demand. The very limited private ownership in the oil and gas industry in China solidifies this
+critical role.
+• CNOOC's very strong link to the government. The Chinese government directly owns 100% of the company
+through the State#owned Assets Supervision and Administration, which also monitors the company's performance.
+The government is unlikely to dilute its ownership over the next five years. In our view, the government can exert a
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 11
+
+China National Offshore Oil Corp.
+
+strong influence on the company through the appointment of senior management.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of Dec. 31, 2018, CNOOC's capital structure consists of about RMB280 billion of senior unsecured debt and
+RMB1.4 billion of secured debt. Of this, RMB257 billion is issued at the subsidiary level. CNOOC Ltd. guarantees most
+of the subsidiary debt.
+
+Analytical conclusions
+We rate the senior unsecured debt that CNOOC entities issued 'A+', which is the same as our long-term issuer credit
+rating on CNOOC. Although the priority debt exceeds our threshold of 50% of consolidated total debt, we do not view
+subordination risk to be material, given the extremely high likelihood of extraordinary government support. We believe
+the government is willing and able to intervene so that structurally subordinated lenders would not have poorer
+recovery prospects than structurally senior lenders in case of financial distress.
+
+Reconciliation
+Table 4
+
+Reconciliation Of China National Offshore Oil Corp. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-China National Offshore Oil Corp. reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+532,044.9
+
+179,168.7
+
+113,704.6
+
+7,279.0
+
+183,756.5
+
+146,784.8
+
+57,441.0
+
+Debt
+
+Shareholders'
+equity
+
+281,641.7
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(22,863.3)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(10,363.2)
+
+--
+
+--
+
+Operating leases
+
+9,061.3
+
+--
+
+1,351.4
+
+505.6
+
+505.6
+
+(505.6)
+
+845.8
+
+--
+
+(149,871.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+3,439.9
+
+--
+
+--
+
+--
+
+Capitalized
+development costs
+
+--
+
+--
+
+(48.0)
+
+(48.0)
+
+--
+
+--
+
+(48.0)
+
+(48.0)
+
+Dividends received
+from equity
+investments
+
+--
+
+--
+
+3,284.3
+
+--
+
+--
+
+--
+
+--
+
+--
+
+42,499.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2,443.5
+
+--
+
+--
+
+--
+
+--
+
+Accessible cash and
+liquid investments
+
+Asset retirement
+obligations
+Nonoperating income
+(expense)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 12
+
+China National Offshore Oil Corp.
+
+Table 4
+
+Reconciliation Of China National Offshore Oil Corp. Reported Amounts With S&P Global Ratings' Adjusted
+Amounts (Mil. RMB) (cont.)
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+940.9
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+199,828.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+0.1
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Litigation
+
+224.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation
+gains/(losses)
+
+--
+
+--
+
+--
+
+(4,577.1)
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization:
+Impairment
+charges/(reversals)
+
+--
+
+--
+
+--
+
+6,420.4
+
+--
+
+--
+
+--
+
+--
+
+(98,086.0)
+
+199,828.5
+
+4,587.7
+
+4,744.4
+
+3,945.6
+
+(33,732.2)
+
+1,738.7
+
+(48.0)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+150,024.3
+
+148,523.5
+
+57,393.0
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+183,555.7
+
+731,873.3
+
+183,756.5
+
+118,449.0
+
+11,224.6
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+A+/Stable/--
+
+Business risk: Strong
+
+• Country risk: Moderately high
+• Industry risk: Intermediate
+• Competitive position: Strong
+Financial risk: Modest
+
+• Cash flow/Leverage: Modest
+Anchor: a
+Modifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral (no impact)
+• Liquidity: Strong (no impact)
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 13
+
+China National Offshore Oil Corp.
+
+• Management and governance: Strong (no impact)
+• Comparable rating analysis: Neutral (no impact)
+Stand-alone credit profile : a
+
+• Likelihood of government support: Extremely high (+1 notch from SACP)
+
+Related Criteria
+• Criteria - Corporates - General: Reflecting Subordination Risk In Corporate Issue Ratings, March 28, 2018
+• General Criteria: Guarantee Criteria, Oct. 21, 2016
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria - Corporates - General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate Issuers,
+Dec. 16, 2014
+• Criteria - Corporates - Industrials: Key Credit Factors For The Oil And Gas Exploration And Production Industry,
+Dec. 12, 2013
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Methodology For Crude Oil And Natural Gas Price Assumptions For Corporates And Sovereigns,
+Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology, Nov. 19, 2013
+• Criteria - Corporates - General: Corporate Methodology: Ratios And Adjustments, Nov. 19, 2013
+• General Criteria: Methodology: Timeliness Of Payments: Grace Periods, Guarantees, And Use Of 'D' And 'SD'
+Ratings, Oct. 24, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities And Insurers,
+Nov. 13, 2012
+• General Criteria: Stand-Alone Credit Profiles: One Component Of A Rating, Oct. 1, 2010
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 14
+
+China National Offshore Oil Corp.
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Business Risk Profile
+
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly leveraged
+
+Excellent
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+Strong
+Satisfactory
+Fair
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Ratings Detail (As Of September 24, 2019)*
+China National Offshore Oil Corp.
+Issuer Credit Rating
+
+A+/Stable/--
+
+Issuer Credit Ratings History
+01-Dec-2017
+
+A+/Stable/--
+
+22-Sep-2017
+
+A/Stable/--
+
+01-Apr-2016
+
+A+/Negative/--
+
+25-Jan-2016
+
+A+/Stable/--
+
+Related Entities
+China Oilfield Services Ltd.
+Issuer Credit Rating
+
+BBB+/Stable/--
+
+CNOOC Finance Corp. Ltd.
+Issuer Credit Rating
+
+A+/Stable/--
+
+CNOOC Insurance Ltd.
+Financial Strength Rating
+Local Currency
+
+A+/Stable/--
+
+Issuer Credit Rating
+Local Currency
+
+A+/Stable/--
+
+CNOOC Ltd.
+Issuer Credit Rating
+
+A+/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 15
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 24, 2019 16
+
+

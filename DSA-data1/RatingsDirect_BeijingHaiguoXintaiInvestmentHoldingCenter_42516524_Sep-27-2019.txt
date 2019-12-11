@@ -1,0 +1,1558 @@
+Beijing Haiguo Xintai Investment
+Holding Center
+Primary Credit Analyst:
+Christine Li, Hong Kong (852) 2532-8005; Christine.Li@spglobal.com
+Secondary Contacts:
+Danny Huang, Hong Kong (852) 2532-8078; danny.huang@spglobal.com
+Yutong Zou, Hong Kong + 852 2532 8061; yutong.zou@spglobal.com
+
+Table Of Contents
+Credit Highlights
+Outlook
+Our Base-Case Scenario
+Company Description
+Business Risk
+Financial Risk
+Liquidity
+Government Influence
+Issue Ratings - Subordination Risk Analysis
+Reconciliation
+Ratings Score Snapshot
+Related Criteria
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 1
+
+Beijing Haiguo Xintai Investment Holding Center
+Business Risk: WEAK
+
+Issuer Credit Rating
+Vulnerable
+
+Excellent
+
+bbb
+
+Financial Risk: HIGHLY LEVERAGED
+Highly leveraged
+
+b-
+
+BBB/Stable/--
+
+b
+
+Minimal
+Anchor
+
+Modifiers
+
+Group/Gov't
+
+Credit Highlights
+Overview
+Key Strengths
+
+Key Risks
+
+Extremely high likelihood of extraordinary support from the Beijing
+Haidian district government.
+
+Persistent high leverage and weak working capital management.
+
+Ongoing government support enhances debt-servicing capability.
+
+Small operating scale with limited business and geographic diversity.
+Low profitability driven by inflexible cost structure and weak record
+of winning contracts.
+
+Extremely high likelihood of extraordinary government support to remain.Beijing Haiguo Xintai Investment Holding
+Center (Beijing HGXT) is the largest and most important government-related entity (GRE) in Haidian district. We
+expect the company will receive timely and sufficient extraordinary support from the Haidian district government in
+the event of financial distress. Continuous support from the Haidian government in the form of capital injection,
+borrowings, credit enhancement etc. since the Beijing HGXT's establishment has aided the company's debt servicing
+ability. However, in our view, Beijing HGXT's role and link to the government are weakening, in light of the central
+government's long-term policy direction toward clearer separation between local governments and local government
+financing vehicles (LGFVs).
+Financial leverage will remain very high over the next 12-24 months. Beijing HGXT's debt-to-EBITDA ratio will likely
+remain much higher than 20x in the next one to two years due to weak operating cash flow, large capital expenditure
+(capex), and high working capital outflows.
+Limited service offering and small operational scale remains a constraint, tempered by good brand recognition.Beijing
+HGXT's energy and pollution management projects generally focus on chemical purification services, which is a rather
+small and niche market. Although the company is one of the leading players in the Chinese domestic market with
+some brand recognition, its competitive position remains weak. This is mainly due to Beijing HGXT's limited range of
+services, restricting growth in the revenue base.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 2
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Outlook: Stable
+
+The stable outlook on Beijing HGXT reflects our view that the Haidian district government will maintain its
+creditworthiness over the next 24 months. The outlook also reflects our expectation that the company will
+continue to receive timely and sufficient extraordinary government support from the government when necessary.
+We anticipate that Beijing HGXT will maintain its small scale and have very high financial leverage while it
+continues to rely heavily on debt to fund its working capital and capex.
+
+Downside scenario
+We may downgrade Beijing HGXT by one or more notches if we assess that the likelihood of extraordinary
+government support to the company has weakened. That could happen if we view the company's role to the
+Haidian district government to be less important as it expands into more diversified business and becomes more
+independent from the government.
+We may also consider downgrading Beijing HGXT if its stand-alone credit profile (SACP) weakens such that the
+company faces difficulty in refinancing or servicing interest. This could happen if the company ceases to receive
+government support, such as asset injections or subsidies, or its profitability deteriorates substantially.
+
+Upside scenario
+We may upgrade Beijing HGXT if we assess that the creditworthiness of the Haidian district government has
+improved significantly or the likelihood of extraordinary government support to the company has strengthened.
+We may also raise the rating if Beijing HGXT's debt-to-EBITDA ratio falls below 5x. That could happen if the
+company significantly reduces its debt, materially improves its EBITDA margin, and maintains robust revenue
+growth.
+We see both scenarios as remote in the next 12 months.
+
+Our Base-Case Scenario
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 3
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Assumptions
+
+• Beijing HGXT's revenue to decline by 5%-6% in
+2019, compared with a decline of 8.2% in 2018,
+reflecting continued weakness of demand in the
+energy chemical technology business. Revenue to
+increase by 2%-3% in 2020, driven by the education
+and third-party payment businesses.
+• The company's EBITDA margin to weaken to 9.5%
+in 2019 and 9.3% in 2020, from 10.9% in 2018,
+reflecting weak demand.
+
+Key Metrics
+
+2018
+
+2019E
+
+2020E
+
+Debt/EBITDA (x)
+
+24.2
+
+30.0-32.0
+
+30.0-32.0
+
+FFO/Debt (%)*
+
+(2.3) (1.0)-(2.0) (1.0)-(2.0)
+
+EBITDA interest coverage(x)
+
+1.5
+
+0.6-0.8
+
+0.6-0.8
+
+FFO--Funds from operations. A--Actual. E--Estimate.
+
+• Working capital outflow to improve in 2019 to
+Chinese renminbi (RMB) 2 billion, compared with
+RMB6 billion in 2018, given a likely lowering of
+inventory and receivables.
+• Beijing HGXT to cut capex in 2019 onward to
+control its fast-growing debt as less new projects will
+be constructed. Capex to be at RMB900
+million–RMB1,000 million over the next 12-24
+months compared with more than RMB2 billion in
+2018.
+
+Base-case projections
+Negative free operating cash flows over the next 12–24 months. We expect Beijing HGXT's revenue growth to remain
+subdued due to weak demand. In addition, the company's weakening profitability, and continuous working capital
+outflow and capex will weigh on its financial metrics. As a result, we expect the free operating cash flow to remain
+negative over the next 12–24 months.
+Interest coverage to fall below 1.0x. Beijing HGXT's weakening profit margin, slowing revenue growth, and buildup of
+interest expenses should keep company's EBITDA interest coverage under 1x for 2019-2020, compared with 1.5x in
+2018.
+
+Company Description
+Beijing HGXT is a local investment and financing platform wholly owned by the Haidian district State-owned Assets
+Supervision and Administration Commission (SASAC) based in Beijing. Beijing HGXT is an important platform to
+finance key projects and execute policies of the Haidian district government. It also influences other state-owned
+enterprises (SOEs) in the district on behalf of the Haidian district government. Its total assets were RMB147 billion as
+of end-2018.
+Beijing HGXT was founded in 2012 by integrating two state-owned companies in Haidian district, Haidian
+State-Owned Assets Investment Co. Ltd. and Haidian State-Owned Assets Management Co. Ltd. The company's main
+business operations include primary land development, energy and pollution management, third-party payment,
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 4
+
+Beijing Haiguo Xintai Investment Holding Center
+
+education and real estate development. Its primary land development mainly serves shantytown renovation within
+Haidian district. During the past three years, the company's revenue largely comes from energy and pollution
+management business conducted by its listed subsidiary, Beijing Sanju Environmental Protection and New Materials
+Co. Ltd. (Sanju).
+
+Business Risk: Weak
+Beijing HGXT's small scale of business, limited range of services, weak ability to win contracts, and inflexible cost
+structure constrain its business profile. The company's record of receiving ongoing support from Haidian district
+government supports the ratings.
+We expect Beijing HGXT's energy and pollution management business operated via Sanju to remain the major
+revenue (47% of total) and gross profit contributor (50% of total) in the next one to two years. This is in line with
+Haidian district's positioning as a science and technology hub. Sanju specializes in the niche chemical purification
+sector and has a dominant market share in the domestic industry. However, we believe the company's major target
+segment is small in the broad chemical equipment and construction (E&C) domain, restricting growth potential. Sanju's
+limited service offering and small scale compared with other rated entities in E&C sector further exposes it to industry
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 5
+
+Beijing Haiguo Xintai Investment Holding Center
+
+downturns.
+Beijing HGXT's other businesses of primary land development, education, and third-party payment are small in terms
+of revenue and profit contribution. The primary land development business is mainly for the largest shantytown
+renovation projects within Haidian district, with total investment of RMB31 billion. The company expects these
+projects to be on sale in 2019-2021 and the proceeds could be used to lower thedebt burden. However, we did not
+include the proceeds in our base case due to the uncertainty on the timeline and the amount.
+Haidian district's strengths in the form of well-known educational resources, and strong science research and
+intellectual properties backed by many top universities and technology companies in China support Beijing HGXT's
+education and fin-tech business. The education and fin-tech business are still in the startup stage, and the profit
+contributions are limited. However, the company benefits from ongoing government support in the form of favorable
+policies in terms of taxes and subsidies. These businesses also differentiate Beijing HGXT from other LGFV, which are
+mainly involved in infrastructure and public services.
+We expect Beijing HGXT's profitability to remain under pressure primarily due to the company's inability to pass on
+rises in its operational cost due to weak market demand.
+
+Peer comparison
+Table 1
+
+Beijing Haiguo Xintai Investment Holding Center--Peer Comparison
+Confidential
+
+Public
+
+Public
+
+Public
+
+Beijing Haiguo Xintai
+Qingdao City
+Investment Holding
+Construction
+Center Investment (Group) Ltd.
+
+Chongqing Nan'an Urban
+Construction & Development
+(Group) Co. Ltd.
+
+Jiangsu New Headline
+Development Group Co.
+Ltd.
+
+Industry sector: Chemical companies
+
+--Fiscal year ended-Dec. 31, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2018
+
+Dec. 31, 2017
+
+32,683.2
+
+10,726.3
+
+5,647.5
+
+2,271.8
+
+(Mil. RMB)
+Revenue
+EBITDA
+Funds from operations
+(FFO)
+Interest expense
+Cash interest paid
+
+3,559.1
+
+2,733.3
+
+1,549.6
+
+483.9
+
+(1,958.3)
+
+(992.6)
+
+618.7
+
+(723.8)
+
+2,443.0
+
+2,841.1
+
+735.7
+
+1,098.2
+
+4,907.7
+
+3,385.1
+
+898.2
+
+1,207.8
+
+(4,710.5)
+
+(665.1)
+
+140.6
+
+(2,966.4)
+
+Capital expenditure
+
+2,184.5
+
+1,482.4
+
+581.4
+
+146.9
+
+Free operating cash
+flow (FOCF)
+
+(6,895.0)
+
+(2,147.4)
+
+(440.8)
+
+(3,113.3)
+
+Discretionary cash
+flow (DCF)
+
+(7,221.0)
+
+(3,555.2)
+
+(776.1)
+
+(3,121.3)
+
+9,743.7
+
+15,505.6
+
+5,802.6
+
+3,937.2
+
+Debt
+
+86,056.3
+
+129,861.3
+
+19,972.7
+
+21,248.6
+
+Equity
+
+42,723.2
+
+60,903.6
+
+21,829.6
+
+17,551.1
+
+Cash flow from
+operations
+
+Cash and short-term
+investments
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 6
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Table 1
+
+Beijing Haiguo Xintai Investment Holding Center--Peer Comparison (cont.)
+Adjusted ratios
+EBITDA margin (%)
+
+10.9
+
+25.5
+
+27.4
+
+21.3
+
+Return on capital (%)
+
+3.6
+
+2.1
+
+3.9
+
+1.4
+
+EBITDA interest
+coverage (x)
+
+1.5
+
+1.0
+
+2.1
+
+0.4
+
+FFO cash interest
+coverage (x)
+
+0.6
+
+0.7
+
+1.7
+
+0.4
+
+Debt/EBITDA (x)
+
+24.2
+
+47.5
+
+12.9
+
+43.9
+
+FFO/debt (%)
+
+(2.3)
+
+(0.8)
+
+3.1
+
+(3.4)
+
+Cash flow from
+operations/debt (%)
+
+(5.5)
+
+(0.5)
+
+0.7
+
+(14.0)
+
+FOCF/debt (%)
+
+(8.0)
+
+(1.7)
+
+(2.2)
+
+(14.7)
+
+DCF/debt (%)
+
+(8.4)
+
+(2.7)
+
+(3.9)
+
+(14.7)
+
+RMB--Chinese renminbi.
+
+We consider Qingdao City Construction Investment (Group) Ltd. (QCCI), Chongqing Nan'an Urban Construction &
+Development (Group) Co. Ltd. (CQNA), and Jiangsu New Headline Development Group Co. Ltd. (Jiangsu NHL) as the
+closest peers of Beijing HGXT.
+QCCI, CQNA, and Jiangsu NHL are all LGFVs that fulfil certain functions or mandates for local governments. The
+companies benefit from their status as GREs and LGFVs. While these entities focus on different businesses according
+to their respective local governments' mandate, they all act as funding vehicles. All these entities are 100% owned by
+the related local governments.
+All of these companies are very highly leveraged, reflecting their public service business with sizable capex or working
+capital needs.
+Like most LGFVs, all Beijing HGXT's peers are geographically concentrated, have lengthy working capital cycles due
+to extended payments from their customers, and have low profit margins. As a result, their debt-to-EBITDA ratios are
+way above 5x and are unlikely to decline meaningfully.
+Our assessment of extraordinary government support for CQNA is higher than that for Beijing HGXT, QCCI, and
+Jiangsu NHL. All these companies have critical importance to their governments because their services cannot be
+replaced by other GREs or private-owned entities. QCCI, CQNA, and Jiangsu NHL are mainly involved in urban
+infrastructure development and public services. Beijing HGXT provides more commercialized business.
+Unlike other local governments that still have many infrastructure projects going on, Haidian district is rather mature
+in terms of public transportation and services. The district therefore does not have many infrastructure related projects
+being planned. Instead, Haidian district positions itself as the hi-tech and innovation hub not only in Beijing but also
+China.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 7
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Financial Risk: Highly leveraged
+We expect Beijing HGXT to remain highly leveraged. Ongoing government support through potential capital
+injections, credit enhancement measures, and the company's access to refinancing from SOE banks will be important
+for its debt-servicing capability in the coming few years. During the first half of 2019, the company received
+government advances of RMB5 billion related to shantytown projects. It also obtained liquidity support in the form of
+lending and guarantee from the government through Haidian State-Owned Assets Operation and Management Center
+of RMB6 billion and RMB16.8 billion, respectively, as of end-August 2019.
+Bejing HGXT's financial leverage has deteriorated to 24x as of end 2018 from 17x in the previous year. The steep
+increase was mainly due to large spending on shantytown renovation projects. Beijing HGXT will likely receive
+proceeds from this project when they are up for sale from the end of 2019, leading to a possible improvement in the
+debt-to-EBITDA ratio. However, we did not factor the proceeds in our base-case scenario, given the uncertainty on the
+amount and timing.
+In our view, Beijing HGXT's debt-to-EBITDA ratio will remain way above 20x and the ratio of funds from operations
+(FFO) to debt will be negative for the same period.
+Chart 1
+
+Financial summary
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 8
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Table 2
+
+Beijing Haiguo Xintai Investment Holding Center--Financial Summary
+Industry sector: Chemical companies
+--Fiscal year ended Dec. 31-2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+Revenue
+
+32,683.2
+
+35,610.2
+
+23,447.4
+
+8,325.3
+
+4,796.0
+
+EBITDA
+
+3,559.1
+
+4,765.5
+
+4,052.8
+
+1,919.6
+
+1,518.3
+
+(1,958.3)
+
+(755.2)
+
+7,362.1
+
+4,301.8
+
+1,806.3
+
+2,443.0
+
+2,184.9
+
+1,677.6
+
+909.0
+
+790.1
+
+(Mil. RMB)
+
+Funds from operations (FFO)
+Interest expense
+Cash interest paid
+
+4,907.7
+
+4,759.7
+
+(3,694.4)
+
+(2,695.4)
+
+(527.8)
+
+(4,710.5)
+
+(3,379.3)
+
+1,799.2
+
+(1,269.3)
+
+1,900.2
+
+2,184.5
+
+1,434.0
+
+1,131.8
+
+392.1
+
+765.1
+
+Free operating cash flow (FOCF)
+
+(6,895.0)
+
+(4,813.3)
+
+667.4
+
+(1,661.3)
+
+1,135.2
+
+Discretionary cash flow (DCF)
+
+(7,221.0)
+
+(4,878.3)
+
+601.7
+
+(1,712.0)
+
+(884.8)
+
+9,743.7
+
+15,907.5
+
+13,238.8
+
+7,330.6
+
+3,841.4
+
+Cash flow from operations
+Capital expenditure
+
+Cash and short-term investments
+Gross available cash
+
+9,743.7
+
+15,907.5
+
+13,238.8
+
+7,330.6
+
+3,841.4
+
+Debt
+
+86,056.3
+
+81,663.3
+
+63,228.0
+
+39,383.1
+
+28,643.8
+
+Equity
+
+42,723.2
+
+38,089.3
+
+33,613.9
+
+16,394.3
+
+11,799.4
+
+EBITDA margin (%)
+
+10.9
+
+13.4
+
+17.3
+
+23.1
+
+31.7
+
+Return on capital (%)
+
+3.6
+
+5.6
+
+5.7
+
+4.3
+
+4.3
+
+EBITDA interest coverage (x)
+
+1.5
+
+2.2
+
+2.4
+
+2.1
+
+1.9
+
+FFO cash interest coverage (x)
+
+0.6
+
+0.8
+
+(1.0)
+
+(0.6)
+
+(2.4)
+
+Adjusted ratios
+
+Debt/EBITDA (x)
+
+24.2
+
+17.1
+
+15.6
+
+20.5
+
+18.9
+
+FFO/debt (%)
+
+(2.3)
+
+(0.9)
+
+11.6
+
+10.9
+
+6.3
+
+Cash flow from operations/debt (%)
+
+(5.5)
+
+(4.1)
+
+2.8
+
+(3.2)
+
+6.6
+
+FOCF/debt (%)
+
+(8.0)
+
+(5.9)
+
+1.1
+
+(4.2)
+
+4.0
+
+DCF/debt (%)
+
+(8.4)
+
+(6.0)
+
+1.0
+
+(4.3)
+
+(3.1)
+
+RMB--Chinese renminbi.
+
+Liquidity: Adequate
+We assess Beijing HGXT's liquidity as adequate. We expect the company's liquidity sources to exceed uses by more
+than 1.2x over the 12 months to March 2020. Net liquidity sources should be positive even if EBITDA declines by
+more than 15%.
+In our view, Beijing HGXT has strong banking relationships underpinned from its GRE status. It has good access to
+domestic bond market and has issued onshore bonds for refinancing. We believe the company's strong association
+with the development of Haidian district will continue to support its solid relationship with major state-owned banks.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 9
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Principal Liquidity Sources
+
+Principal Liquidity Uses
+
+• Cash and cash equivalents of RMB12.2 billion at the
+end of March 31, 2019.
+
+• Short-term debt maturities of about RMB36.3 billion
+in due before March 2020
+
+• Ongoing support from the government of RMB36.3
+billion in the form of banking facilities with maturity
+longer than 12 months for the 12 months ending
+March 2020.
+
+• Negative cash FFO of RMB0.9 billion-RMB1.1
+billion in the 12 months ending March 2020.
+• Working capital outflow that we estimate at RMB1.9
+billion-RMB2.1 billion in the same period.
+• Capex of RMB0.9 billion–RMB1 billion in the 12
+months ending March 2020.
+• Dividend payout of RMB150 million-RMB200
+million during the same period.
+
+Debt maturities
+Table 3
+Beijing Haiguo Xintai Investment Holding Center--Debt Maturities*
+Period
+
+Amount (Mil. RMB)
+
+2019
+
+34,687.6
+
+2020
+
+19,073.6
+
+2021
+
+19,558.8
+
+2022
+
+1,722.0
+
+2023
+
+4,418.0
+
+2023 onwards
+
+3,155.8
+
+* As of Dec. 31, 2018. RMB--Chinese renminbi.
+
+Government Influence
+Our assessment of an extremely high likelihood of extraordinary government support to Beijing HGXT is based on our
+assessment of the following characteristics:
+• Beijing HGXT's very strong link with the Haidian district government. The company is 100% owned by the Haidian
+SASAC. In our view, the Haidian district government is unlikely to reduce its stake in the company. The government
+appoints the company's senior management and oversees its strategic and business plan. A significant deterioration
+in Beijing HGXT's creditworthiness or a default by the company would greatly affect the government's reputation.
+• Beijing HGXT's critical role for the Haidian district government. The company is the largest SOE in Haidian district
+in terms of revenue and asset base. Beijing HGXT helps to strengthen the government's strategic position in
+technology development and education by supporting relevant SOEs within the district. The company has heavy
+responsibilities in public services in Haidian district, including shantytown renovation, water supplies, waste
+processing, urban traffic improvement and other municipal services.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 10
+
+Beijing Haiguo Xintai Investment Holding Center
+
+However, we believe the extraordinary support the Haidian district government provides to Beijing HGXT in the event
+of financial distress is likely to weaken, given the Chinese central government's macroeconomic policies to distance
+LGFVs from related governments.
+We believe Beijing HGXT's role as the Haidian district government's traditional investment and financing platform will
+transition towards being an industry consolidator that integrates and supports the technological and educational
+development in--but not limited to--Haidian district. At the same time, the company is obtaining more autonomy in
+determining its own strategic development plan within Haidian SASAC's authorization. Haidian district is positioned as
+a technology and science hub due to its strengths in high tech and education resources. Its rather mature infrastructure
+and public services differentiate it from many other local and regional governments that still need to invest heavily in
+infrastructure-related projects. As a result, in our view, Beijing HGXT will likely reduce its exposure in municipal
+services within Haidian district and expand more into technology- and education-related sectors, which are more
+commercial and competitive.
+
+Issue Ratings - Subordination Risk Analysis
+Capital structure
+As of March 31, 2019, Beijing HGXT has a total debt of RMB90 billion. Of this, RMB15 billion is secured debt, RMB48
+billion is unsecured debt incurred at the parent company level, and RMB27 billion is unsecured debt at the subsidiaries'
+level.
+
+Analytical conclusions
+Our issue rating on Beijing HGXT's guaranteed senior unsecured notes is the same as the issuer credit rating on the
+company. Beijing HGXT provides an unconditional and irrevocable guarantee to the notes and this qualifies for credit
+substitution. In our view, there are no significant elements of subordination risk in Beijing HGXT's capital structure.
+The company's ratio of priority debt to total debt is below our notching-down threshold of 50% for structural
+subordination risk.
+
+Reconciliation
+Table 4
+
+Reconciliation Of Beijing Haiguo Xintai Investment Holding Center Reported Amounts With S&P Global
+Ratings' Adjusted Amounts (Mil. RMB)
+--Fiscal year ended Dec. 31, 2018-Beijing Haiguo Xintai Investment Holding Center reported amounts
+
+Reported
+
+EBITDA
+
+Operating
+income
+
+Interest
+expense
+
+S&P Global
+Ratings'
+adjusted
+EBITDA
+
+30,808.5
+
+3,553.8
+
+2,883.7
+
+2,295.7
+
+3,559.1
+
+(1,037.3)
+
+2,246.2
+
+Debt
+
+Shareholders'
+equity
+
+79,615.9
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+S&P Global Ratings' adjustments
+Cash taxes paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(609.7)
+
+--
+
+--
+
+Cash taxes paid: Other
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 11
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Table 4
+
+Reconciliation Of Beijing Haiguo Xintai Investment Holding Center Reported Amounts With S&P Global
+Ratings' Adjusted Amounts (Mil. RMB) (cont.)
+Cash interest paid
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(4,907.7)
+
+--
+
+--
+
+3,000.0
+
+(3,000.0)
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2.6
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Capitalized interest
+
+--
+
+--
+
+--
+
+--
+
+147.3
+
+--
+
+--
+
+--
+
+Capitalized
+development costs
+
+--
+
+--
+
+(61.6)
+
+(61.6)
+
+--
+
+--
+
+(61.6)
+
+(61.6)
+
+Dividends received
+from equity investments
+
+--
+
+--
+
+50.9
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Nonoperating income
+(expense)
+
+--
+
+--
+
+--
+
+1,553.6
+
+--
+
+--
+
+--
+
+--
+
+Reclassification of
+interest and dividend
+cash flows
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+(3,611.6)
+
+--
+
+Noncontrolling
+interest/minority
+interest
+
+--
+
+14,914.7
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Debt: Guarantees
+
+3,437.8
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+EBITDA: Other
+
+--
+
+--
+
+16.0
+
+16.0
+
+--
+
+--
+
+--
+
+--
+
+Depreciation and
+amortization: Asset
+valuation gains/(losses)
+
+--
+
+--
+
+--
+
+4.6
+
+--
+
+--
+
+--
+
+--
+
+EBIT: Other
+
+--
+
+--
+
+--
+
+16.0
+
+--
+
+--
+
+--
+
+--
+
+6,440.4
+
+11,914.7
+
+5.3
+
+1,528.6
+
+147.3
+
+(5,517.5)
+
+(3,673.2)
+
+(61.6)
+
+Funds from
+operations
+
+Cash flow
+from
+operations
+
+Capital
+expenditure
+
+(1,958.3)
+
+(4,710.5)
+
+2,184.5
+
+Debt-like hybrids
+Postretirement benefit
+obligations/deferred
+compensation
+
+Total adjustments
+
+S&P Global Ratings' adjusted amounts
+
+Adjusted
+
+Debt
+
+Equity
+
+EBITDA
+
+EBIT
+
+Interest
+expense
+
+86,056.3
+
+42,723.2
+
+3,559.1
+
+4,412.2
+
+2,443.0
+
+RMB--Chinese renminbi.
+
+Ratings Score Snapshot
+Issuer Credit Rating
+BBB/Stable/--
+
+Business risk: Weak
+
+• Country risk: Moderately high
+• Industry risk: Moderately high
+• Competitive position: Weak
+Financial risk: Highly leveraged
+
+• Cash flow/Leverage: Highly leveraged
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 12
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Anchor: bModifiers
+
+• Diversification/Portfolio effect: Neutral (no impact)
+• Capital structure: Neutral (no impact)
+• Financial policy: Neutral
+• Liquidity: Adequate (no impact)
+• Management and governance: Fair (no impact)
+• Comparable rating analysis: Positive (+1 notch)
+Stand-alone credit profile : b
+
+• Likelihood of government support: Extremely high (+6 notches from SACP)
+
+Related Criteria
+• Criteria | Corporates | General: Corporate Methodology: Ratios And Adjustments, April 1, 2019
+• General Criteria: Rating Government-Related Entities: Methodology And Assumptions, March 25, 2015
+• Criteria | Corporates | General: Methodology And Assumptions: Liquidity Descriptors For Global Corporate
+Issuers, Dec. 16, 2014
+• Criteria | Corporates | Industrials: Key Credit Factors For The Homebuilder And Real Estate Developer Industry,
+Feb. 3, 2014
+• General Criteria: Methodology: Industry Risk, Nov. 19, 2013
+• General Criteria: Group Rating Methodology, Nov. 19, 2013
+• Criteria | Corporates | Industrials: Key Credit Factors For The Engineering And Construction Industry, Nov. 19,
+2013
+• Criteria | Corporates | General: Corporate Methodology, Nov. 19, 2013
+• General Criteria: Country Risk Assessment Methodology And Assumptions, Nov. 19, 2013
+• General Criteria: Methodology: Management And Governance Credit Factors For Corporate Entities, Nov. 13, 2012
+• General Criteria: Use Of CreditWatch And Outlooks, Sept. 14, 2009
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 13
+
+Beijing Haiguo Xintai Investment Holding Center
+
+Business And Financial Risk Matrix
+Financial Risk Profile
+Minimal
+
+Modest
+
+Intermediate
+
+Significant
+
+Aggressive
+
+Highly
+leveraged
+
+aaa/aa+
+
+aa
+
+a+/a
+
+a-
+
+bbb
+
+bbb-/bb+
+
+aa/aa-
+
+a+/a
+
+a-/bbb+
+
+bbb
+
+bb+
+
+bb
+
+a/a-
+
+bbb+
+
+bbb/bbb-
+
+bbb-/bb+
+
+bb
+
+b+
+
+bbb/bbb-
+
+bbb-
+
+bb+
+
+bb
+
+bb-
+
+b
+
+Weak
+
+bb+
+
+bb+
+
+bb
+
+bb-
+
+b+
+
+b/b-
+
+Vulnerable
+
+bb-
+
+bb-
+
+bb-/b+
+
+b+
+
+b
+
+b-
+
+Business Risk Profile
+Excellent
+Strong
+Satisfactory
+Fair
+
+Ratings Detail (As Of September 23, 2019)*
+Beijing Haiguo Xintai Investment Holding Center
+Issuer Credit Rating
+
+BBB/Stable/--
+
+Issuer Credit Ratings History
+05-Sep-2019
+
+BBB/Stable/--
+
+*Unless otherwise noted, all ratings in this report are global scale ratings. S&P Global Ratings’ credit ratings on the global scale are comparable
+across countries. S&P Global Ratings’ credit ratings on a national scale are relative to obligors or obligations within that specific country. Issue and
+debt ratings could include debt guaranteed by another entity, and rated debt that an entity guarantees.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 14
+
+Copyright © 2019 by Standard & Poor’s Financial Services LLC. All rights reserved.
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of
+Standard & Poor’s Financial Services LLC or its affiliates (collectively, S&P). The Content shall not be used for any unlawful or unauthorized purposes. S&P and any third-party
+providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Parties) do not guarantee the accuracy, completeness, timeliness or
+availability of the Content. S&P Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use
+of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an “as is” basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM
+FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive,
+special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by
+negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact.
+S&P’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P assumes no obligation to update the Content following publication in any form or format. The
+Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P does not act as a fiduciary or an investment advisor except where registered as such. While S&P has obtained information from
+sources it believes to be reliable, S&P does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives. Ratingrelated publications may be published for a variety of reasons that are not necessarily dependent on action by rating committees, including, but not limited to, the publication
+of a periodic update on a credit rating and related analyses.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating issued in another jurisdiction for certain regulatory purposes, S&P
+reserves the right to assign, withdraw or suspend such acknowledgment at any time and in its sole discretion. S&P Parties disclaim any duty whatsoever arising out of the
+assignment, withdrawal or suspension of an acknowledgment as well as any liability for any damage alleged to have been suffered on account thereof.
+S&P keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain business units of S&P may have information that is not available to other S&P business units. S&P has established policies and procedures to maintain the
+confidentiality of certain non-public information received in connection with each analytical process.
+S&P may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P reserves the right to disseminate
+its opinions and analyses. S&P's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com
+(subscription), and may be distributed through other means, including via S&P publications and third-party redistributors. Additional information about our ratings fees is
+available at www.standardandpoors.com/usratingsfees.
+STANDARD & POOR’S, S&P and RATINGSDIRECT are registered trademarks of Standard & Poor’s Financial Services LLC.
+
+WWW.STANDARDANDPOORS.COM/RATINGSDIRECT
+
+SEPTEMBER 23, 2019 15
+
+
